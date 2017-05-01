@@ -32,3 +32,16 @@
 
 #### [Three-Dimensional Structure of the Magnetic Field in the Disk of the Milky Way](https://arxiv.org/abs/1704.08663)
     - **Beautiful**
+
+
+----
+
+## Apr 30
+
+#### [Galaxy And Mass Assembly (GAMA): 'No Smoking' zone for giant elliptical galaxies?](https://arxiv.org/abs/1704.09029)
+
+#### [The faint end of the red sequence galaxy luminosity function: unveiling surface brightness selection effects with the CLASH clusters](https://arxiv.org/abs/1704.08871)
+
+#### [The Multi-Wavelength Tully-Fisher relation with spatially resolved HI kinematics](https://arxiv.org/abs/1704.08788)
+
+#### [The X-ray properties of z∼6 luminous quasars s](https://arxiv.org/abs/1704.08693)
