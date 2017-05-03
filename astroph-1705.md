@@ -23,5 +23,36 @@
     * The bay in the Perseus cluster bears a striking resemblance in its size, location and thermal structure, to a giant (≈50 kpc) roll resulting from Kelvin-Helmholtz instabilities.
 
 #### [Mass-Richness relations for X-ray and SZE-selected clusters at 0.4<z<2.0 as seen by Spitzer at 4.5μm](https://arxiv.org/abs/1705.00037)
-    * 从4.5micron上看0.4<z<2.0的星系团的Mass-Richness关系：mass uncertainties在0.25dex左右
+    * 从4.5micron上看 0.4<z<2.0 的星系团的Mass-Richness关系：mass uncertainties在0.25dex左右
     * 在固定的aperture上测量星系团的richness, 星系团的concentration越高，scatter越大
+
+-----
+
+## May 02:
+
+#### [A comparison between the soft X-ray and O III morphologies of active galactic nuclei](https://arxiv.org/abs/1705.00633)
+    * Seyfert II 的NLR电离气体发射形态和Soft X-ray很像
+    * Seyfert I 里面相似的比例很低，可能和与吸积盘的角度有关
+    * LINER则完全没有对应
+
+#### [A combined photometric and kinematic recipe for evaluating the nature of bulges using the CALIFA sample](https://arxiv.org/abs/1705.00637)
+    - **Relevant, Important**
+    * Sersic index, concentration index, Kormendy relation, 加上inner velocity dispersion slope来研究盘星系的核球
+    * (结合了测光和运动学数据，但是没有真的“结合起来”)
+    * Sersic index和inner sigma slope相关很好
+
+#### [Herschel Spectroscopy of Early Type Galaxies](https://arxiv.org/abs/1705.00637)
+    * We find ETGs have [CII]/FIR ratios slightly lower than spiral galaxies
+    * The [N II] 122/[C II] ratio is sometimes high, and correlated with UV colors --> Soft UV radiation --> Can not ionized that much [CII] 
+
+#### [Molecular Gas during the Post-Starburst Phase: Low Gas Fractions in Green Valley Seyfert Post-Starburst Galaxies](https://arxiv.org/abs/1705.00668)
+
+#### [Stacked Average Far-Infrared Spectrum of Dusty Star-Forming Galaxies from the Herschel/SPIRE Fourier Transform Spectrometer](https://arxiv.org/abs/1705.00734)
+
+#### [Optical intra-day variability in 3C 66A: 10 years of observations](https://arxiv.org/abs/1705.00810)
+
+#### [Nuclear Spiral Shocks and Induced Gas Inflows in Weak Oval Potentials](https://arxiv.org/abs/1705.00863)
+
+#### [The structure and assembly history of cluster-size haloes in Self-Interacting Dark Matter](https://arxiv.org/abs/1705.00623)
+
+#### [The galaxy group NGC2563](https://arxiv.org/abs/1705.00616)
