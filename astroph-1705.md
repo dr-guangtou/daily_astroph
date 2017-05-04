@@ -43,7 +43,7 @@
 
 #### [Herschel Spectroscopy of Early Type Galaxies](https://arxiv.org/abs/1705.00637)
     * We find ETGs have [CII]/FIR ratios slightly lower than spiral galaxies
-    * The [N II] 122/[C II] ratio is sometimes high, and correlated with UV colors --> Soft UV radiation --> Can not ionized that much [CII] 
+    * The [N II] 122/[C II] ratio is sometimes high, and correlated with UV colors --> Soft UV radiation --> Can not ionized that much [CII]
 
 #### [Molecular Gas during the Post-Starburst Phase: Low Gas Fractions in Green Valley Seyfert Post-Starburst Galaxies](https://arxiv.org/abs/1705.00668)
 
@@ -56,3 +56,21 @@
 #### [The structure and assembly history of cluster-size haloes in Self-Interacting Dark Matter](https://arxiv.org/abs/1705.00623)
 
 #### [The galaxy group NGC2563](https://arxiv.org/abs/1705.00616)
+
+-----
+
+## May 03:
+
+#### [The clustering of Hβ+OIII and OII emitters since z∼5: dependencies with line luminosity and stellar mass](https://arxiv.org/abs/1705.01101)
+
+#### [Partitioning the Outburst Energy of a Low Eddington Accretion Rate AGN at the Center of an Elliptical Galaxy: the Recent 12 Myr History of the Supermassive Black Hole in M87](https://arxiv.org/abs/1705.01104)
+
+#### [Further constraints on variations in the IMF from LMXB populations](https://arxiv.org/abs/1705.01115)
+
+#### [Identification of variability in recent star formation histories of local galaxies based on Hα/UV ratios](https://arxiv.org/abs/1705.01127)
+
+#### [Insights on star formation histories and physical properties of 1.2<=z<=4 Herschel-detected galaxies](https://arxiv.org/abs/1705.01174)
+
+#### [Improved method to determine the integrated properties of nuclear rings: NGC 1512](https://arxiv.org/abs/1705.01251)
+
+#### [X-rays across the galaxy population - II. The distribution of AGN accretion rates as a function of stellar mass and redshift](https://arxiv.org/abs/1705.01132)
