@@ -74,3 +74,35 @@
 #### [Improved method to determine the integrated properties of nuclear rings: NGC 1512](https://arxiv.org/abs/1705.01251)
 
 #### [X-rays across the galaxy population - II. The distribution of AGN accretion rates as a function of stellar mass and redshift](https://arxiv.org/abs/1705.01132)
+
+-----
+
+## May 04:
+
+#### [Gas inflow and outflow in an interacting high-redshift galaxy: The remarkable host environment of GRB 080810 at z=3.35](https://arxiv.org/abs/1705.01543)
+
+#### [X-ray emission from the nuclear region of Arp 220](https://arxiv.org/abs/1705.01547)
+
+#### [The Globular Cluster -- Dark Matter Halo Connection](https://arxiv.org/abs/1705.01548)
+
+#### [The Dust Attenuation of Star-forming Galaxies at z∼3 and Beyond: New Insights from ALMA Observations](https://arxiv.org/abs/1705.01559)
+
+#### [Gemini Observations of Galaxies in Rich Early Environments (GOGREEN) I: Survey Description](https://arxiv.org/abs/1705.01606)
+
+#### [Galaxy Protoclusters as Drivers of Cosmic Star-Formation History in the First 2 Gyr](https://arxiv.org/abs/1705.01606)
+
+-----
+
+## May 07:
+
+#### [CANDELS Sheds Light on the Environmental Quenching of Low-mass Galaxies ](https://arxiv.org/abs/1705.01946)
+
+#### [Revisiting HOD model assumptions: the impact of AGN feedback and assembly bias ](https://arxiv.org/abs/1705.01988)
+
+#### [Observational hints for radial migration in disc galaxies from CALIFA](https://arxiv.org/abs/1705.02120)
+
+#### [CLASH: Accurate Photometric Redshifts with 14 HST bands in Massive Galaxy Cluster Cores](https://arxiv.org/abs/1705.02265)
+
+#### [Optical colours and spectral indices of z=0.1 EAGLE galaxies with 3D dust radiative transfer code SKIRT](https://arxiv.org/abs/1705.02331)
+
+#### [Properties and Origin of Galaxy Velocity Bias in the Illustris Simulation](https://arxiv.org/abs/1705.02071)
