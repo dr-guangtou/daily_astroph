@@ -96,13 +96,34 @@
 ## May 07:
 
 #### [CANDELS Sheds Light on the Environmental Quenching of Low-mass Galaxies ](https://arxiv.org/abs/1705.01946)
+    - **Relevant**
+    * 看Environmental queching在高红移是不是已经起作用
+    * 看SF和Quiescent的dwarf星系到最近的大质量星系的投影距离分布；Quiescent星系的分布更skewed向lower value
+
 
 #### [Revisiting HOD model assumptions: the impact of AGN feedback and assembly bias ](https://arxiv.org/abs/1705.01988)
+    * 并没有非常看懂，大概就是说在SAM里面加入了AGN feedback后，让按照光度挑选星系的HOD模型变得复杂了
+    * 加入了AGN feedback后，也让SHAM变得更困难了？
+
 
 #### [Observational hints for radial migration in disc galaxies from CALIFA](https://arxiv.org/abs/1705.02120)
+    - **Relevant**
+    * 如果盘上的恒星迁移很重要，那么盘的面亮度轮廓和星族有相关
+    * 主要结论就是说，不同类型的盘轮廓(Type-I/II/III)，中心的颜色，年龄和丰度梯度有所不同。
+    * 一个caveat就是他们试图避开bulge和bar区域
+    * Type-III的梯度最shallow，和很强的migration相对应；Type-II梯度最陡，可能意味着没有明显的迁移
+
 
 #### [CLASH: Accurate Photometric Redshifts with 14 HST bands in Massive Galaxy Cluster Cores](https://arxiv.org/abs/1705.02265)
+    * 考虑了ICL的移除和PSF matching
+    * 1257个红移，382个confirmed members，以及对应的恒星质量估计
+
 
 #### [Optical colours and spectral indices of z=0.1 EAGLE galaxies with 3D dust radiative transfer code SKIRT](https://arxiv.org/abs/1705.02331)
+    * 用辐射转移模拟给出EAGLE宇宙学模拟里星系的图像和SED
+    * 和前面工作比的改进主要在对尘埃的处理，不再是简单假定一个screen；考虑了弥散介质里的金属，考虑了恒星形成区的尘埃遮挡
+
 
 #### [Properties and Origin of Galaxy Velocity Bias in the Illustris Simulation](https://arxiv.org/abs/1705.02071)
+    * 学习一下velocity bias的概念：the difference between the velocity distributions of galaxies and dark matter inside halos.
+    * 模拟里，M*/Mh越高，速度bias越低; central星系的bias主要来自和satellite星系的相互作用
