@@ -84,6 +84,10 @@
 #### [X-ray emission from the nuclear region of Arp 220](https://arxiv.org/abs/1705.01547)
 
 #### [The Globular Cluster -- Dark Matter Halo Connection](https://arxiv.org/abs/1705.01548)
+    -- **Relevant, Important**
+    * 假设球状星团系统的恒星质量和星系前身halo在z~6的时候的halo质量简单相关
+    * 讨论了GCs在高红移对再电离的贡献以及可以观测到的可能性，这个和GC本身的质量损失有关
+        - 现在观测到的高红移星系有一些可能是GC (?)
 
 #### [The Dust Attenuation of Star-forming Galaxies at z∼3 and Beyond: New Insights from ALMA Observations](https://arxiv.org/abs/1705.01559)
 
@@ -127,3 +131,24 @@
 #### [Properties and Origin of Galaxy Velocity Bias in the Illustris Simulation](https://arxiv.org/abs/1705.02071)
     * 学习一下velocity bias的概念：the difference between the velocity distributions of galaxies and dark matter inside halos.
     * 模拟里，M*/Mh越高，速度bias越低; central星系的bias主要来自和satellite星系的相互作用
+
+
+-----
+
+## May 08:
+
+#### [Using dust, gas and stellar mass selected samples to probe dust sources and sinks in low metallicity galaxies](https://arxiv.org/abs/1705.02340)
+
+#### [The Structure of the Broad-Line Region In Active Galactic Nuclei. II. Dynamical Modeling of Data from the AGN10 Reverberation Mapping Campaign](https://arxiv.org/abs/1705.02346)
+
+#### [External versus internal triggers of bar formation in cosmological zoom-in simulations](https://arxiv.org/abs/1705.02348)
+
+#### [Resolving the Discrepancy of Distance to M60, a Giant Elliptical Galaxy in Virgo](https://arxiv.org/abs/1705.02389)
+
+#### [Evolutionary phase of gas-rich galaxies in a galaxy cluster at z=1.46](https://arxiv.org/abs/1705.02567)
+
+#### [The role of the most luminous, obscured AGN in galaxy assembly at z~2](https://arxiv.org/abs/1705.02649)
+
+#### [Mass modelling of superthin galaxies: IC5249, UGC7321 and IC2233](https://arxiv.org/abs/1705.02659)
+
+#### [Exploring the IMF of star clusters: a joint SLUG and LEGUS effort](https://arxiv.org/abs/1705.02980)
