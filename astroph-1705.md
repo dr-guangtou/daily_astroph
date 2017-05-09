@@ -138,17 +138,34 @@
 ## May 08:
 
 #### [Using dust, gas and stellar mass selected samples to probe dust sources and sinks in low metallicity galaxies](https://arxiv.org/abs/1705.02340)
+    * 近邻宇宙里有一批气体比例很高，但是尘埃质量远低于化学演化模型预测的，或者恒星质量或者气体质量与尘埃质量经验关系所预测的
+    * 模型认为是来自SN的尘埃贡献小
 
 #### [The Structure of the Broad-Line Region In Active Galactic Nuclei. II. Dynamical Modeling of Data from the AGN10 Reverberation Mapping Campaign](https://arxiv.org/abs/1705.02346)
 
 #### [External versus internal triggers of bar formation in cosmological zoom-in simulations](https://arxiv.org/abs/1705.02348)
+    * Our goal is to characterise the actual trigger of the non- axisymmetric perturbation that leads to the strong bar observable in the simulation at z = 0
+    * 在一堆类银河系的zoom-in box里面看minor merger和close flyby的影响，结论是对引起棒不稳定性没有帮助，反而会延迟棒的形成
+    * 结论认为只要盘成长到一定质量就能支撑起棒不稳定性的形成
 
 #### [Resolving the Discrepancy of Distance to M60, a Giant Elliptical Galaxy in Virgo](https://arxiv.org/abs/1705.02389)
+    * PNLF的和SBF给出的不一致；这篇文章是用TRGB, 结论是PNLF测得不准
 
 #### [Evolutionary phase of gas-rich galaxies in a galaxy cluster at z=1.46](https://arxiv.org/abs/1705.02567)
+    * ALMA在z~1.4的星系团的维里半径内找到了一批恒星形成星系
+    * 位置上看不在星系团最中心；速度上看很像刚进入星系团
 
 #### [The role of the most luminous, obscured AGN in galaxy assembly at z~2](https://arxiv.org/abs/1705.02649)
+    * z~2的HOT-DOG的WFC3 NIR观测，这些星系里的AGN贡献超级高。
+    * NIR形态上没有看到任何和AGN的相关；没有和其他星系显著不同，没有更高的merger比例
+    * 短暂地，刚刚开启的AGN?
 
 #### [Mass modelling of superthin galaxies: IC5249, UGC7321 and IC2233](https://arxiv.org/abs/1705.02659)
+    * Fast-rotating ones可以用pseudo-isothermal模型和NFW模型解释；slow-rotating one不能很好的用NFW解释
+    * 在PIS模型里面，halo非常compact，可能和superthin nature有关
 
 #### [Exploring the IMF of star clusters: a joint SLUG and LEGUS effort](https://arxiv.org/abs/1705.02980)
+    - **Interesting**
+    * 用SLUG研究河外星团的IMF：假定一个不变的Kroupa IMF，只有高质量端的slope按照随机性变化，就可以解释这些星团的5-band测光
+    * 高质量端的slope和星团质量有很强的简并
+    * Halpha光度对定年龄很有帮助
