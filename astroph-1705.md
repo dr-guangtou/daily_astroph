@@ -169,3 +169,30 @@
     * 用SLUG研究河外星团的IMF：假定一个不变的Kroupa IMF，只有高质量端的slope按照随机性变化，就可以解释这些星团的5-band测光
     * 高质量端的slope和星团质量有很强的简并
     * Halpha光度对定年龄很有帮助
+
+
+-----
+
+## May 09:
+
+#### [Are Star Formation Rates of Galaxies Bimodal?](https://arxiv.org/abs/1705.03014)
+
+#### [Quenching and ram pressure stripping of simulated Milky Way satellite galaxies](https://arxiv.org/abs/1705.03018)
+
+#### [Broad absorption line disappearance and emergence using multiple-epoch spectroscopy from the Sloan Digital Sky Survey](https://arxiv.org/abs/1705.03019)
+
+#### [Star Formation History in Barred Spiral Galaxies. AGN Feedback](https://arxiv.org/abs/1705.03053)
+
+#### [ALMA Observations of Gas-Rich Galaxies in z~1.6 Galaxy Clusters: Evidence for Higher Gas Fractions in High-Density Environments](https://arxiv.org/abs/1705.03062)
+
+#### [Integral field spectroscopy of nearby QSOs II. The molecular gas content and condition for star formation](https://arxiv.org/abs/1705.03076)
+
+#### [Star Formation in Simulated Galaxies: Understanding the Transition to Quiescence at 3×1010 M⊙](https://arxiv.org/abs/1705.03173)
+
+#### [Massive Star Cluster Formation and Destruction in Luminous Infrared Galaxies in GOALS](https://arxiv.org/abs/1705.03370)
+
+#### [The effect of the environment on the structure, morphology and star-formation history of intermediate-redshift galaxies](https://arxiv.org/abs/1705.03402)
+
+#### [Modelling the luminosities and sizes of radio galaxies: radio luminosity function at z = 6](https://arxiv.org/abs/1705.03449)
+
+#### [AMICO: optimised detection of galaxy clusters in photometric surveys](https://arxiv.org/abs/1705.03449)
