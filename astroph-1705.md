@@ -190,9 +190,46 @@
 #### [Star Formation in Simulated Galaxies: Understanding the Transition to Quiescence at 3×1010 M⊙](https://arxiv.org/abs/1705.03173)
 
 #### [Massive Star Cluster Formation and Destruction in Luminous Infrared Galaxies in GOALS](https://arxiv.org/abs/1705.03370)
+    * 22个LIRGS里面484个星团的HST测光研究
+    * 星团的年龄分布下降很快：Rapid cluster disruption occuring in the strong tidal fields of merging galaxies
+    * 大质量星团比小质量恒星形成星系里看到得多
 
 #### [The effect of the environment on the structure, morphology and star-formation history of intermediate-redshift galaxies](https://arxiv.org/abs/1705.03402)
+    - **Relevant**
+    * HST观测EDiscCs星系在0.4<z<0.8的形态和颜色演化
+    * 重点关注形态偏离对称的程度; 用REF和A_res；没有发现团星系和场星系在形态扰动上的差别
+    * 团里面的形态规整的passive spiral多；S0的形态基本都不太扰动-->较柔和的环境影响
 
 #### [Modelling the luminosities and sizes of radio galaxies: radio luminosity function at z = 6](https://arxiv.org/abs/1705.03449)
+    * 从黑洞质量函数和Eddington ratio分布出发，建立模型估计高红移射电星系的射点光度函数和大小的分布。
+    * 高红移处inverse compton loss更重要，让射电星系寿命短，射电尺度小
 
 #### [AMICO: optimised detection of galaxy clusters in photometric surveys](https://arxiv.org/abs/1705.03449)
+    * 用Matched filter技术在测光巡天里面找cluster; 迭代的过程，移除已经找到的成员，可以找更小尺度的结构？
+
+
+-----
+
+## May 10:
+
+#### [Suppressed Star Formation by a Merging Cluster System](https://arxiv.org/abs/1705.03468)
+
+#### [z~2: An Epoch of Disk Assembly](https://arxiv.org/abs/1705.03474)
+
+#### [Quasars Probing Quasars IX. The Kinematics of the Circumgalactic Medium Surrounding z ~ 2 Quasars](https://arxiv.org/abs/1705.03476)
+
+#### [ALMA pin-points a strong over-density of U/LIRGs in the massive cluster XCS J2215 at z=1.46](https://arxiv.org/abs/1705.03479)
+
+#### [An ALMA survey of submillimetre galaxies in the Extended Chandra Deep Field South: Spectroscopic redshifts](https://arxiv.org/abs/1705.03503)
+
+#### [Quenching or Bursting: Star Formation Acceleration--A New Methodology for Tracing Galaxy Evolution](https://arxiv.org/abs/1705.03514)
+
+#### [Stellar Disc Truncations and Extended Haloes in Face-on Spiral Galaxies](https://arxiv.org/abs/1705.03555)
+
+#### [Overdensities of SMGs around WISE-selected, ultra-luminous, high-redshift AGN](https://arxiv.org/abs/1705.03680)
+
+#### [The eMERGE Survey I: Very Large Array 5.5 GHz observations of the GOODS-North Field](https://arxiv.org/abs/1705.03766)
+
+#### [The redshift evolution of major merger triggering of luminous AGN: a slight enhancement at z∼2](https://arxiv.org/abs/1705.03769)
+
+#### [TThe effects of the cluster environment on the galaxy mass-size relation in MACSJ J1206.2-0847](https://arxiv.org/abs/1705.03839)
