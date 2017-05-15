@@ -233,3 +233,44 @@
 #### [The redshift evolution of major merger triggering of luminous AGN: a slight enhancement at z∼2](https://arxiv.org/abs/1705.03769)
 
 #### [TThe effects of the cluster environment on the galaxy mass-size relation in MACSJ J1206.2-0847](https://arxiv.org/abs/1705.03839)
+
+
+-----
+
+## May 11:
+
+#### [Type 2 AGN host galaxies in the Chandra-COSMOS Legacy Survey: No Evidence of AGN-driven Quenching](https://arxiv.org/abs/1705.03890)
+
+#### [Evidence of ongoing AGN-driven feedback in a quiescent post starburst E+A galaxy](https://arxiv.org/abs/1705.03891)
+
+#### [Joint Strong and Weak Lensing Analysis of the Massive Cluster Field J0850+3604](https://arxiv.org/abs/1705.03901)
+
+#### [Galaxy And Mass Assembly (GAMA): The galaxy stellar mass function to z=0.1 from the r-band selected equatorial regions](https://arxiv.org/abs/1705.04074)
+
+#### [Impact of an AGN featureless continuum on estimation of stellar population properties](https://arxiv.org/abs/1705.04224)
+
+#### [A Redshift Survey of the Nearby Galaxy Cluster Abell 2199: Comparison of the Spatial and Kinematic Distributions of Galaxies with the Intracluster Medium](https://arxiv.org/abs/1705.04232)
+
+#### [Beyond Assembly Bias: Exploring Secondary Halo Biases for Cluster-size Haloes](https://arxiv.org/abs/1705.03888)
+
+-----
+
+## May 14:
+
+#### [A Herschel/PACS Far Infrared Line Emission Survey of Local Luminous Infrared Galaxies](https://arxiv.org/abs/1705.04326)
+
+#### [The Next Generation Virgo Cluster Survey. XX. {\it RedGOLD} Background Galaxy Cluster Detections](https://arxiv.org/abs/1705.04332)
+
+#### [Galaxy And Mass Assembly (GAMA): The environments of high- and low- excitation radio galaxies](https://arxiv.org/abs/1705.04502)
+
+#### [The study of two barred galaxies with curious kinematical features](https://arxiv.org/abs/1705.04629)
+
+#### [Models of Bars I: Flattish Profiles for Early-Type Galaxies](https://arxiv.org/abs/1705.04645)
+
+#### [The Immitigable Nature of Assembly Bias: The Impact of Halo Definition on Assembly Bias](https://arxiv.org/abs/1705.04327)
+
+#### [Next Generation Virgo Cluster Survey. XXI. The weak lensing masses of the CFHTLS and NGVS RedGOLD galaxy clusters and calibration of the optical richness](https://arxiv.org/abs/1705.04329)
+
+#### [The RedGOLD Cluster Detection Algorithm and its Cluster Candidate Catalogue for the CFHT-LS W1](https://arxiv.org/abs/1705.04331)
+
+#### [Survival of the obscuring torus in the most powerful active galactic nuclei](https://arxiv.org/abs/1705.04323)
