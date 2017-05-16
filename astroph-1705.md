@@ -274,3 +274,22 @@
 #### [The RedGOLD Cluster Detection Algorithm and its Cluster Candidate Catalogue for the CFHT-LS W1](https://arxiv.org/abs/1705.04331)
 
 #### [Survival of the obscuring torus in the most powerful active galactic nuclei](https://arxiv.org/abs/1705.04323)
+
+
+-----
+
+## May 15:
+
+#### [Galactic Outflows, Star Formation Histories, and Timescales in Starburst Dwarf Galaxies from STARBIRDS](https://arxiv.org/abs/1705.04692)
+
+#### [Active Galactic Nucleus Environments and Feedback to Neighboring Galaxies at z∼5 Probed by Lyman-Alpha Emitters](https://arxiv.org/abs/1705.04753)
+
+#### [Brightest galaxies as halo centre tracers in SDSS DR7](https://arxiv.org/abs/1705.05043)
+
+#### [The characteristic halo masses of half-a-million WISE-selected quasars](https://arxiv.org/abs/1705.05306)
+
+#### [Optical Variability of Narrow and Broad line Seyfert 1 galaxies](https://arxiv.org/abs/1705.05123)
+
+#### [Radiative heating in the kinetic mode of AGN feedback](https://arxiv.org/abs/1705.05037)
+
+#### [SKIRT: hybrid parallelization of radiative transfer simulations](https://arxiv.org/abs/1705.04702)
