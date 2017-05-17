@@ -293,3 +293,29 @@
 #### [Radiative heating in the kinetic mode of AGN feedback](https://arxiv.org/abs/1705.05037)
 
 #### [SKIRT: hybrid parallelization of radiative transfer simulations](https://arxiv.org/abs/1705.04702)
+
+-----
+
+## May 16:
+
+#### [EMERGE - An empirical model for the formation of galaxies since z∼10](https://arxiv.org/abs/1705.05373)
+
+#### [Is a top-heavy initial mass function needed to reproduce the submillimeter galaxy number counts?](https://arxiv.org/abs/1705.05377)
+    * 之前认为不考虑top-heavy的IMF在半解析模型里很难重现SMG的number counts
+    * 这篇文章给出了一个考虑尘埃质量的模型，不需要变动IMF就可以解释number counts
+
+#### [UVI colour gradients of 0.4<z<1.4 star-forming main sequence galaxies in CANDELS: dust extinction and star formation profiles](https://arxiv.org/abs/1705.05404)
+
+#### [Modelling ALMA observations of strong gravitational lenses detected by Herschel](https://arxiv.org/abs/1705.05413)
+
+#### [Discovery of a dual active galactic nucleus with ~ 8 kpc separation](https://arxiv.org/abs/1705.05465)
+
+#### [A novel JEAnS analysis of the Fornax dwarf using evolutionary algorithms: mass follows light with signs of an off-centre merger](https://arxiv.org/abs/1705.05724)
+
+#### [MUSE-inspired view of the quasar Q2059-360, its Lyman alpha blob, and its neighborhood](https://arxiv.org/abs/1705.05728)
+
+#### [Arm and interarm abundance gradients in CALIFA spiral galaxies](https://arxiv.org/abs/1705.05733)
+
+#### [VICS82: the VISTA-CFHT Stripe 82 near-infrared survey](https://arxiv.org/abs/1705.05451)
+
+#### [Unsupervised feature-learning for galaxy SEDs with denoising autoencoders](https://arxiv.org/abs/1705.05620)
