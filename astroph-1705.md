@@ -299,23 +299,44 @@
 ## May 16:
 
 #### [EMERGE - An empirical model for the formation of galaxies since z∼10](https://arxiv.org/abs/1705.05373)
+    - **Important, Relevant**
+    * 和Peter的UniverseMachine相近的一种模型，处理satellite的方法不一样
+    * 从模拟出发，往Halo里面assign SFR，根据halo的吸积率
+    * 相同halo质量的halo assembly history很不一样，但是平均上abundance matching结果应该是可靠的
+    * predict了非常高的ICL质量比例
 
 #### [Is a top-heavy initial mass function needed to reproduce the submillimeter galaxy number counts?](https://arxiv.org/abs/1705.05377)
+    - **Important, Relevant**
     * 之前认为不考虑top-heavy的IMF在半解析模型里很难重现SMG的number counts
     * 这篇文章给出了一个考虑尘埃质量的模型，不需要变动IMF就可以解释number counts
 
 #### [UVI colour gradients of 0.4<z<1.4 star-forming main sequence galaxies in CANDELS: dust extinction and star formation profiles](https://arxiv.org/abs/1705.05404)
+    * 0.4<z<1.4的SF星系的UVI color梯度0.2-2.0 Re内研究-->梯度随质量和A_V增加
+    * sSFR的profile在质量<10^10.5端基本是平的，中心没有很强的sSFR的下降
+    * Av在星系外围恒星质量密度很低的地方依然有影响
 
 #### [Modelling ALMA observations of strong gravitational lenses detected by Herschel](https://arxiv.org/abs/1705.05413)
+    * ALMA 强引力透镜建模--> lens质量模型基本都是isothermal的
 
 #### [Discovery of a dual active galactic nucleus with ~ 8 kpc separation](https://arxiv.org/abs/1705.05465)
+    * MIR preselection对发现晚期并合里面的dual-AGN很有帮助
+    * 这篇文章是用MaNGA和X-ray数据confirm了一个
 
 #### [A novel JEAnS analysis of the Fornax dwarf using evolutionary algorithms: mass follows light with signs of an off-centre merger](https://arxiv.org/abs/1705.05724)
+    * dSph的动力学模拟受到mass - velocity anisotropy简并的影响
+    * numerical velocity anisotropy “inversion”, with parametric mass models, where the radial velocity dispersion profile is modeled as a B-spline
+    * 了解一下什么是B-spline
 
 #### [MUSE-inspired view of the quasar Q2059-360, its Lyman alpha blob, and its neighborhood](https://arxiv.org/abs/1705.05728)
+    * radio quiet quasar周围的LAB，这个blob可能还和周围一个proximate DLA系统有关系
 
 #### [Arm and interarm abundance gradients in CALIFA spiral galaxies](https://arxiv.org/abs/1705.05733)
+    * 利用恒星形成区的O丰度，考虑了grand-design和flocculent旋臂以及棒的影响
+    * We find subtle but statistically significant differences between the arm and interarm distributions for flocculent galaxies
+    * 只在Bar星系里面看到了差别
 
 #### [VICS82: the VISTA-CFHT Stripe 82 near-infrared survey](https://arxiv.org/abs/1705.05451)
+    * Stripe82里面的近红外J,K波段测光 --> 对定恒星质量很重要
+    * 同样还有GALEX和Spitzer数据
 
 #### [Unsupervised feature-learning for galaxy SEDs with denoising autoencoders](https://arxiv.org/abs/1705.05620)
