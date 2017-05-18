@@ -340,3 +340,28 @@
     * 同样还有GALEX和Spitzer数据
 
 #### [Unsupervised feature-learning for galaxy SEDs with denoising autoencoders](https://arxiv.org/abs/1705.05620)
+
+
+-----
+
+## May 17:
+
+#### [Deep Chandra observations of the stripped galaxy group falling into Abell 2142](https://arxiv.org/abs/1705.05844)
+
+#### [Evolution of the anti-truncated stellar profiles of S0 galaxies since z=0.6 in the SHARDS survey: I - Sample and Methods](https://arxiv.org/abs/1705.05850)
+
+#### [The final data release of ALLSMOG: a survey of CO in typical local low-M* star-forming galaxies](https://arxiv.org/abs/1705.05851)
+
+#### [The IRX-Beta Dust Attenuation Relation in Cosmological Galaxy Formation Simulations](https://arxiv.org/abs/1705.05858)
+
+#### [Warm-hot Gas in X-ray Bright Galaxy Clusters and the H I-deficient Circumgalactic Medium in Dense Environments](https://arxiv.org/abs/1705.05892)
+
+#### [Star formation in galaxies at z~4-5 from the SMUVS survey: a clear starburst/main-sequence bimodality for Halpha emitters on the SFR-M* plane](https://arxiv.org/abs/1705.06179)
+
+#### [A search for extended radio emission from selected compact galaxy groups](https://arxiv.org/abs/1705.06210)
+
+#### [HICOSMO - Cosmology with a complete sample of galaxy clusters: I. Data analysis, sample selection and luminosity-mass scaling-relation](https://arxiv.org/abs/1705.05842)
+
+#### [HICOSMO - Cosmology with a complete sample of galaxy clusters: II. Cosmological results](https://arxiv.org/abs/1705.05843)
+
+#### [LensExtractor: A Convolutional Neural Network in Search of Strong Gravitational Lensess](https://arxiv.org/abs/1705.05857)
