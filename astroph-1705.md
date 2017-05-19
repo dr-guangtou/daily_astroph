@@ -365,3 +365,27 @@
 #### [HICOSMO - Cosmology with a complete sample of galaxy clusters: II. Cosmological results](https://arxiv.org/abs/1705.05843)
 
 #### [LensExtractor: A Convolutional Neural Network in Search of Strong Gravitational Lensess](https://arxiv.org/abs/1705.05857)
+
+-----
+
+## May 18:
+
+#### [Going, going, gone dark: Quantifying the scatter in the faintest dwarf galaxies](https://arxiv.org/abs/1705.06286)
+
+#### [The Survey of Lines in M31 (SLIM): The Drivers of the CII/TIR Variation](https://arxiv.org/abs/1705.06292)
+
+#### [Dust and Gas in Star Forming Galaxies at z~3 - Extending Galaxy Uniformity to 11.5 Billion Years](https://arxiv.org/abs/1705.06296)
+
+#### [The Galaxy Clustering Crisis in Abundance Matching](https://arxiv.org/abs/1705.06347)
+
+#### [The Lyman Continuum escape fraction of emission line-selected z∼2.5 galaxies is less than 15%](https://arxiv.org/abs/1705.06355)
+
+#### [XMM-Newton observation of the ultraluminous quasar SDSS J010013.02+280225.8 at redshift 6.326](https://arxiv.org/abs/1705.06388)
+
+#### [Galaxy Evolution in the Radio Band: The Role of Starforming Galaxies and Active Galactic Nuclei](https://arxiv.org/abs/1705.06539)
+
+#### [Properties of spectrally-defined red QSOs at z = 0.3-1.2](https://arxiv.org/abs/1705.06656)
+
+#### [The Keck/OSIRIS Nearby AGN Survey (KONA) I. The Nuclear K-band Properties of Nearby AGN](https://arxiv.org/abs/1705.06678)
+
+#### [Physical Origins of Gas Motions in Galaxy Cluster Cores: Interpreting Hitomi Observations of the Perseus Cluster](https://arxiv.org/abs/1705.06280)
