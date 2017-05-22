@@ -389,3 +389,19 @@
 #### [The Keck/OSIRIS Nearby AGN Survey (KONA) I. The Nuclear K-band Properties of Nearby AGN](https://arxiv.org/abs/1705.06678)
 
 #### [Physical Origins of Gas Motions in Galaxy Cluster Cores: Interpreting Hitomi Observations of the Perseus Cluster](https://arxiv.org/abs/1705.06280)
+
+-----
+
+## May 21:
+
+#### [The SAGA Survey: I. Satellite Galaxy Populations Around Eight Milky Way Analogs](https://arxiv.org/abs/1705.06743)
+
+#### [Intrinsic AGN SED & black hole growth in the Palomar--Green quasars](https://arxiv.org/abs/1705.06747)
+
+#### [Gemini NIFS survey of feeding and feedback processes in nearby Active Galaxies: I - Stellar kinematics](https://arxiv.org/abs/1705.06949)
+
+#### [The VLA-COSMOS 3~GHz Large Project: Cosmic evolution of radio AGN and implications for radio-mode feedback since z~5](https://arxiv.org/abs/1705.07090)
+
+#### [Survey of Water and Ammonia in Nearby galaxies (SWAN): Resolved Ammonia Thermometry, Water and Methanol Masers in the Nuclear Starburst of NGC 253](https://arxiv.org/abs/1705.07103)
+
+#### [Viscosity, pressure, and support of the gas in simulations of merging cool-core clusters](https://arxiv.org/abs/1705.06933)
