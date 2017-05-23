@@ -405,3 +405,23 @@
 #### [Survey of Water and Ammonia in Nearby galaxies (SWAN): Resolved Ammonia Thermometry, Water and Methanol Masers in the Nuclear Starburst of NGC 253](https://arxiv.org/abs/1705.07103)
 
 #### [Viscosity, pressure, and support of the gas in simulations of merging cool-core clusters](https://arxiv.org/abs/1705.06933)
+
+-----
+
+## May 22:
+
+#### [Are we seeing accretion flows in a 250kpc-sized Ly-alpha halo at z=3?](https://arxiv.org/abs/1705.07125)
+
+#### [Quantifying tidal stream disruption in a simulated Milky Way](https://arxiv.org/abs/1705.07128)
+
+#### [Dark-ages reionization & galaxy formation simulation IX: Economics of Reionizing Galaxies](https://arxiv.org/abs/1705.07255)
+
+#### [Galaxy And Mass Assembly: the evolution of the cosmic spectral energy distribution from z = 1 to z = 0](https://arxiv.org/abs/1705.07596)
+
+#### [An infrared view of AGN feedback in a type-2 quasar: the case of the Teacup galaxy](https://arxiv.org/abs/1705.07631)
+
+#### [Radio observations confirm young stellar populations in local analogues to z∼5 Lyman break galaxies](https://arxiv.org/abs/1705.07655)
+
+#### [Deep Convolutional Neural Networks as strong gravitational lens detectors](https://arxiv.org/abs/1705.07132)
+
+#### [A Possible ~20-Year Periodicity in Long-term Variations of the Nearby Radio-Quiet Active Galactic Nucleus Ark 120](https://arxiv.org/abs/1705.07781)
