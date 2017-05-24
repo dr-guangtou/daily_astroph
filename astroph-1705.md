@@ -425,3 +425,35 @@
 #### [Deep Convolutional Neural Networks as strong gravitational lens detectors](https://arxiv.org/abs/1705.07132)
 
 #### [A Possible ~20-Year Periodicity in Long-term Variations of the Nearby Radio-Quiet Active Galactic Nucleus Ark 120](https://arxiv.org/abs/1705.07781)
+
+-----
+
+## May 23:
+
+#### [Flickering AGN can explain the strong circumgalactic O VI observed by COS-Halos](https://arxiv.org/abs/1705.07897)
+
+#### [ISM properties of a Massive Dusty Star-Forming Galaxy discovered at z ~ 7 ](https://arxiv.org/abs/1705.07912)
+
+#### [X-rays from Green Pea Analogs](https://arxiv.org/abs/1705.07958)
+
+#### [A consistent measure of the merger histories of massive galaxies using close-pair statistics I: Major mergers at z<3.5](https://arxiv.org/abs/1705.07986)
+    - **Relevant**
+
+#### [This is not the feedback you have been looking for: nearby optical AGN rarely drive kpc-scale cold-gas outflows](https://arxiv.org/abs/1705.07994)
+
+#### [Baseline Metal Enrichment from Population III Star Formation in Cosmological Volume Simulations](https://arxiv.org/abs/1705.08059)
+
+#### [Galaxy Groups within 3500 km s−1](https://arxiv.org/abs/1705.08068)
+
+#### [The MUSE-Wide Survey: A first catalogue of 831 emission line galaxies](https://arxiv.org/abs/1705.08215)
+
+#### [CO excitation in the Seyfert galaxy NGC7130](https://arxiv.org/abs/1705.08221)
+
+#### [Discovery of the first quadruple gravitationally lensed quasar candidate with Pan-STARRS](https://arxiv.org/abs/1705.08359)
+
+#### [Far-infrared metallicity diagnostics: Application to local ultraluminous infrared galaxies](https://arxiv.org/abs/1705.08367)
+
+#### [An X-ray/SDSS sample (II): outflowing gas plasma properties](https://arxiv.org/abs/1705.08388)
+
+#### [Accreted Metallicity-Stellar Mass Relationship](https://arxiv.org/abs/1705.08442)
+    - **Relevant, Important**
