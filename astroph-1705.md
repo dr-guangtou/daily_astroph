@@ -411,20 +411,41 @@
 ## May 22:
 
 #### [Are we seeing accretion flows in a 250kpc-sized Ly-alpha halo at z=3?](https://arxiv.org/abs/1705.07125)
+    * MUSE观测发现的z~3 QSO附近的大尺度LyAlpha发射，面亮度非常高，arc状形态
+    * arc有可能是吸积引起的高速的shock
 
 #### [Quantifying tidal stream disruption in a simulated Milky Way](https://arxiv.org/abs/1705.07128)
+    * The number of gaps observed in a stellar stream is a poor indicator of the halo potential
+    * (i) the thinness of the stream on-sky, (ii) the symmetry of the leading and trailing tails, and (iii) the deviation of the tails from a low-order polynomial path on-sky (“path regularity”) distinguish between the three potentials more effectively.
 
 #### [Dark-ages reionization & galaxy formation simulation IX: Economics of Reionizing Galaxies](https://arxiv.org/abs/1705.07255)
+    * 模拟：during the rapid growth of high redshift (z > 5) galaxies, reserves of molecular gas are consumed over a timescale of 300Myr; almost independent of feedback scheme. 但是整体气体比例和sSFR无关;infalling气体转化成恒星形成冷气体的过程是瓶颈
+    * basic assumption of self-regulation in galaxies --> 不适用于高红移矮星系
 
 #### [Galaxy And Mass Assembly: the evolution of the cosmic spectral energy distribution from z = 1 to z = 0](https://arxiv.org/abs/1705.07596)
+    * 宇宙SED演化，通过叠加GAMA星系的SED；z~0.45以下可以完整覆盖到1mm
+    * We show that the bolometric energy output of the Universe has declined by a factor of roughly four
+    * Our CSEDs are also consistent with an increase in the mean age of stellar populations. We also show that dust attenuation has decreased over the same period
 
 #### [An infrared view of AGN feedback in a type-2 quasar: the case of the Teacup galaxy](https://arxiv.org/abs/1705.07631)
+    * Thus the data confirm the presence of the nuclear ionized outflow previously detected in the optical and reveal its coronal counterpart.
+    * 外流可能是radio jet引起的
+    * H2气体也有蓝移，可能有分子外流；中心的大部分分子气体还是符合星系整体运动
 
 #### [Radio observations confirm young stellar populations in local analogues to z∼5 Lyman break galaxies](https://arxiv.org/abs/1705.07655)
+    * Radio derived SFR比Halpha的低一半，说明星族确实非常年轻
+    * SFR surface density也非常高，比一般低红移星系高得多
 
 #### [Deep Convolutional Neural Networks as strong gravitational lens detectors](https://arxiv.org/abs/1705.07132)
+    * Also deeper network did not outperform simpler CNN models. This indicates that more complex networks were not needed to model the simulated lenses.
+    * Convolution layer convolve the input image by a number of small kernels (typically 3x3 to 7x7) stored in feature maps. (gradient descent method used to update the weights)
+    * Pooling layers reduce the dimensionality of the input to decrease the number of parameters and avoid overfitting (max-pooling method)
+    * Fully connected (fc) layers are the classic ANN neuron layer. Every input is connected to every neuron of the layers.
+    * Dropout layers are only active during training. They randomly sever half the connection between the two layers they separate (Hinton et al. 2012). This is done to reduce co-adaption of the neurons (learning the same features) and reduce overfitting.
+    * Batch normalisation layers normalise and shift the output along a small input sample
 
 #### [A Possible ~20-Year Periodicity in Long-term Variations of the Nearby Radio-Quiet Active Galactic Nucleus Ark 120](https://arxiv.org/abs/1705.07781)
+    * 近邻的radio quiet AGN，在光度和Hbeta线的双峰轮廓上都有20年的变化周期--有可能意味着双黑洞
 
 -----
 
