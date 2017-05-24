@@ -431,29 +431,56 @@
 ## May 23:
 
 #### [Flickering AGN can explain the strong circumgalactic O VI observed by COS-Halos](https://arxiv.org/abs/1705.07897)
+    * Proximity zone fossils (PZFs) are ionization signatures around recently active galactic nuclei (AGN) where metal species in the circumgalactic medium remain over- ionized after the AGN has shut-off due to their long recombination timescales.
+    * 模拟估计的OVI气体的量偏低；10% duty cycle, 10^6 yr的AGN时标可以解释观测
 
 #### [ISM properties of a Massive Dusty Star-Forming Galaxy discovered at z ~ 7 ](https://arxiv.org/abs/1705.07912)
+    * ALMA CO线观测，分子气体质量很大
 
 #### [X-rays from Green Pea Analogs](https://arxiv.org/abs/1705.07958)
+    * 都没有AGN，可能有low-mass和high-mass XRB的贡献
+    * 符合X-ray光度-SFR-金属丰度关系
 
 #### [A consistent measure of the merger histories of massive galaxies using close-pair statistics I: Major mergers at z<3.5](https://arxiv.org/abs/1705.07986)
     - **Relevant**
+    * The pair fraction is found to weakly evolve as ∝ (1+z)^0.8 with no dependence on stellar mass.
+    * Find rates a factor of 2–3 smaller than previous works, although this depends strongly on the assumed merger timescale and likelihood of a close-pair merging.
+    * z~3以后，星系平均经历0.5次major merger(严重依赖于close pair的likelihood和并和时标的假定); 平均通过major merger增加20-30%的质量
 
 #### [This is not the feedback you have been looking for: nearby optical AGN rarely drive kpc-scale cold-gas outflows](https://arxiv.org/abs/1705.07994)
+    * 用NaD吸收看Seyfert 2星系里面的外流，发现比例不比对照星系高，而且往往也有SF的贡献
 
 #### [Baseline Metal Enrichment from Population III Star Formation in Cosmological Volume Simulations](https://arxiv.org/abs/1705.08059)
+    * GIZMO模拟研究: Pop III metallicity rises smoothly from z = 25 − 7 but does not reach the critical metallicity value, Zcrit = 10^−4 Z⊙, required for the Pop III to Pop II transition in star formation mode until z ≃ 7
+    * 这个临界丰度是形成小质量星族II恒星的前提
 
 #### [Galaxy Groups within 3500 km s−1](https://arxiv.org/abs/1705.08068)
 
 #### [The MUSE-Wide Survey: A first catalogue of 831 emission line galaxies](https://arxiv.org/abs/1705.08215)
+    * CANDELS/CDFS里面22角分天区的巡天
+    * Our catalogue contains 831 distinct emission line galaxies with redshifts ranging from 0.04 to 6. Roughly one third (237) of the emission line sources are Lyman α emitting galaxies with 3 < z < 6
+    * 用了3-D matched-filter技术
 
 #### [CO excitation in the Seyfert galaxy NGC7130](https://arxiv.org/abs/1705.08221)
+    * 看AGN对分子云的作用：We find that PDRs can reproduce the CO lines up to J∼6, however, the higher rotational ladder requires the presence of a separate source of excitation.
+    * 需要PDR+XDR模型
 
 #### [Discovery of the first quadruple gravitationally lensed quasar candidate with Pan-STARRS](https://arxiv.org/abs/1705.08359)
+    * Pan-STARRS发现的第一个透镜Quasars
 
 #### [Far-infrared metallicity diagnostics: Application to local ultraluminous infrared galaxies](https://arxiv.org/abs/1705.08367)
+    * 用远红外线ratio估计金属丰度，根据Cloudy模型
+    * The most sensitive far-IR ratios to measure metallicities are the [O iii]52 μm and 88 μm to [N iii]57 μm ratios
+    * Another metallicity sensitive ratio is the [O iii]88 μm/[N ii]122 μm ratio, although it depends on the ionization parameter.
 
 #### [An X-ray/SDSS sample (II): outflowing gas plasma properties](https://arxiv.org/abs/1705.08388)
+    * X-ray AGN的叠加SDSS光谱测量电子温度和外流气体的密度
+    * high signal-to-noise temperature- and density-sensitive emission lines to derive the plasma properties of the outflowing ionized gas component
+    * 基本是靠[OIII]和[SII]线
 
 #### [Accreted Metallicity-Stellar Mass Relationship](https://arxiv.org/abs/1705.08442)
     - **Relevant, Important**
+    * 利用模拟和观测讨论星系里面吸积恒星的质量和金属丰度的关系--作者认为吸积恒星部分的丰度是由主要的merger progenitor贡献的。
+    * 固定吸积恒星质量上的金属丰度弥散可以解释主要dominant progenitor的质量
+    * 吸积恒星Halo的丰度梯度则可以用吸积的时间来解释
+    * 对盘星系，沿着minor axis观测金属丰度可以帮助确认这一点
