@@ -505,3 +505,34 @@
     * 固定吸积恒星质量上的金属丰度弥散可以解释主要dominant progenitor的质量
     * 吸积恒星Halo的丰度梯度则可以用吸积的时间来解释
     * 对盘星系，沿着minor axis观测金属丰度可以帮助确认这一点
+
+
+-----
+
+## May 24:
+
+#### [Survival of Massive Star-forming Galaxies in Cluster Cores Drives Gas-Phase Metallicity Gradients : The Effects of Ram Pressure Stripping](https://arxiv.org/abs/1705.08452)
+    * 看星系团里星系的气体丰度和到团中心距离的反相关是否是气体剥离造成的孔径效应。
+    * 由于外部气体被不断剥离，RPS在单位恒星质量上造成0.02dex的丰度增高; 只有最大质量的恒星形成星系的气体能幸存到团中心，所以也会产生团尺度上的丰度梯度
+    * 但似乎只靠RPS还是不能解释z~0.35团中心星系的高气态丰度
+
+#### [Halo Histories vs. Galaxy Properties at z=0, III: The Properties of Star-Forming Galaxies](https://arxiv.org/abs/1705.08458)
+    -- **Relevant**
+    * 看恒星形成中心星系的性质如何随大尺度环境变化
+    * 在所有的恒星质量上都看得到SFR和环境密度的反相关
+    * 盘标长和Sersic index在小质量端和环境无关；大质量端和环境密度正相关，尤其是Sersic index
+    * 解释是SFR和Halo的吸积率相联系，Rd和Sersic index都是和Halo的spin factor相关
+
+#### [Extensive Globular Cluster Systems Associated with Ultra Diffuse Galaxies in the Coma Cluster](hhttps://www.boston.gov/departments/registry/how-get-marriedttps://arxiv.org/abs/1705.08513)
+    -- **Relevant**
+    * 两个Coma UDGs的HST观测，认证大量的点源可能是球状星团。
+    * 单位光度的球状星团数量很高，暗示着质量很大的Halo
+
+#### [Rapidly star-forming galaxies adjacent to quasars at redshifts exceeding 6](https://arxiv.org/abs/1705.08662)
+    -- **NatureScience**
+    * 红移6的QSO旁边的近邻星系里看到了非常强的[CII] 158发射，SFR很高，但是没有黑洞活动的迹象
+    * 作者认为这些星系可能是大质量椭圆星系的前身
+
+#### [Integral Field Spectroscopy of the inner kpc of the elliptical galaxy NGC 5044](https://arxiv.org/abs/1705.08874)
+    -- **Relevant**
+    * 老年星族，中心有弱AGN，但有宽线区，并有一个气体盘，盘内流质量速率是0.4Msun，足够支撑AGN
