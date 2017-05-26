@@ -543,13 +543,34 @@
 ## May 25:
 
 #### [Galaxy-scale Bars in Late-type Sloan Digital Sky Survey Galaxies Do Not Influence the Average Accretion Rates of Supermassive Black Holes](https://arxiv.org/abs/1705.08895)
+    * GalaxyZoo分类的近邻棒和无棒旋涡星系的X-ray stacking研究：黑洞吸积率和有无棒结构关系不大，
+    * 至少在近邻宇宙是这样的
 
 #### [The Circumgalactic Medium of Submillimeter Galaxies. II. Unobscured QSOs within Dusty Starbursts and QSO Sightlines with Impact Parameters below 100 Kiloparsec](https://arxiv.org/abs/1705.08908)
+    * 28个靠近QSO视线方向的SMG的ALMA 870micron观测
+    * 有四个SMG是QSO hosts; 他们的其他性质和一般SMG差别不大
+    * 在z~3，黑洞成长很快
+    * 剩下的源可以用来研究wet-dry merger和SMG的CGM
 
 #### [A deep search for metals near redshift 7: the line-of-sight towards ULAS J1120+0641](https://arxiv.org/abs/1705.08925)
+    * 发现了几个z>5.5的吸收系统，包括z~6.5的CIV吸收
+    * CIV吸收的数密度在5<z<7之间比较平: 考虑了高红移的UV辐射背景软化后，符合SF-driven winds的化学增丰模型
+    * 弱MgII吸收在高红移比预期的多
 
 #### [The structural evolution of galaxies with both thin and thick discs](https://arxiv.org/abs/1705.09240)
+    * the presence of a thick disc significantly alters and delays bar formation and thus makes possible models with a realistic bar and a high baryon-to-DM mass ratio in the central regions
 
 #### [Support Vector Machine classification of strong gravitational lenses](https://arxiv.org/abs/1705.08949)
+    * a Support Vector Machine (SVM) algorithm which makes use of a Gabor filterbank in order to provide learning criteria for separation of lenses and non-lenses
+    * Gabor filtering kernel, a popular choice within ma- chine learning image recognition methods and thought to mimic part of the image processing functions of the mammalian brain
+        - The SVM aims to optimise this separation by maximising the margin between the hyperplane and a subset of so-called support vectors at the inner edge of each class. It can be shown that optimisation depends only on the dot- products, xi·xj, of support vectors, resulting in a computationally lightweight process even for very large data dimensionality.
+        - The optimisation process is convex, producing a single, global solution and avoiding the problem of local minima suffered by neural networks
+        - if a coordinate transformation is applied to the input vectors, then SVM could be used to solve highly non-linear problems.
+        - The two-dimensional Gabor filter is composed of a Gaussian envelope modified by a complex sinusoidal plane wave.
+        - The Vapnik-Chervonenkis (VC) dimension provides measure of model complexity. It is defined as the number of data-points that a model can learn perfectly - or ’shatter’ - for all possible assignments of labels.
 
 #### [The Extended IRTF Spectral Library: Expanded coverage in metallicity, temperature, and surface gravity](https://arxiv.org/abs/1705.08906)
+    - **Important; Reference**
+    * 0.7−2.5μm spectral library of 284 stars; 全部都在MILES里面
+    * 金属丰度覆盖 -1.7 < [Fe/H] < 0.6
+    * We also present a spectral interpolator that uses the library to create a data- driven model of spectra as a function of Teff, logg, and [Fe/H].
