@@ -536,3 +536,20 @@
 #### [Integral Field Spectroscopy of the inner kpc of the elliptical galaxy NGC 5044](https://arxiv.org/abs/1705.08874)
     -- **Relevant**
     * 老年星族，中心有弱AGN，但有宽线区，并有一个气体盘，盘内流质量速率是0.4Msun，足够支撑AGN
+
+
+-----
+
+## May 25:
+
+#### [Galaxy-scale Bars in Late-type Sloan Digital Sky Survey Galaxies Do Not Influence the Average Accretion Rates of Supermassive Black Holes](https://arxiv.org/abs/1705.08895)
+
+#### [The Circumgalactic Medium of Submillimeter Galaxies. II. Unobscured QSOs within Dusty Starbursts and QSO Sightlines with Impact Parameters below 100 Kiloparsec](https://arxiv.org/abs/1705.08908)
+
+#### [A deep search for metals near redshift 7: the line-of-sight towards ULAS J1120+0641](https://arxiv.org/abs/1705.08925)
+
+#### [The structural evolution of galaxies with both thin and thick discs](https://arxiv.org/abs/1705.09240)
+
+#### [Support Vector Machine classification of strong gravitational lenses](https://arxiv.org/abs/1705.08949)
+
+#### [The Extended IRTF Spectral Library: Expanded coverage in metallicity, temperature, and surface gravity](https://arxiv.org/abs/1705.08906)
