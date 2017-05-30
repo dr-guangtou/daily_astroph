@@ -574,3 +574,40 @@
     * 0.7−2.5μm spectral library of 284 stars; 全部都在MILES里面
     * 金属丰度覆盖 -1.7 < [Fe/H] < 0.6
     * We also present a spectral interpolator that uses the library to create a data- driven model of spectra as a function of Teff, logg, and [Fe/H].
+
+
+-----
+
+## May 28:
+
+#### [Simplified galaxy formation with mesh-less hydrodynamicss](https://arxiv.org/abs/1705.09285)
+
+#### [The HDUV Survey: A Revised Assessment of the Relationship between UV Slope and Dust Attenuation for High-Redshift Galaxies](https://arxiv.org/abs/1705.09302)
+
+#### [A new method for finding and characterizing galaxy groups via low-frequency radio surveys](https://arxiv.org/abs/1705.09510)
+
+#### [Hydrostatic Chandra X-ray analysis of SPT-selected galaxy clusters - I. Evolution of profiles and core properties](https://arxiv.org/abs/1705.09299)
+
+#### [Center-Excised X-ray Luminosity as a Low-Cost Mass Proxy for Future Galaxy Cluster Surveys](https://arxiv.org/abs/1705.09329)
+
+
+-----
+
+## May 29:
+
+#### [Rise of the Titans: A Dusty, Hyper-Luminous "870 micron Riser" Galaxy at z~6](https://arxiv.org/abs/1705.09660)
+
+#### [Star formation and AGN activity in a sample of local Luminous Infrared Galaxies through multi-wavelength characterization](https://arxiv.org/abs/1705.09663)
+
+#### [A population of faint low surface brightness galaxies in the Perseus cluster core](https://arxiv.org/abs/1705.09697)
+    -- **Relevant, Important**
+
+#### [Circumnuclear Structures in Megamaser Host Galaxies](https://arxiv.org/abs/1705.09762)
+
+#### [VALES: I. The molecular gas content in star-forming dusty H-ATLAS galaxies up to z=0.35](https://arxiv.org/abs/1705.09826)
+
+#### [ALMA view of RX J1131-1231: Sub-kpc CO (2-1) mapping of a molecular disk in a lensed star-forming quasar host galaxy](https://arxiv.org/abs/1705.09931)
+
+#### [CO-dark molecular gas at high redshift: very large H2 content and high pressure in a low metallicity damped Lyman-alpha system](https://arxiv.org/abs/1705.10283)
+
+#### [Metallicity calibrations of low star-forming galaxies: the influence of a stochastic IMF](https://arxiv.org/abs/1705.10309)
