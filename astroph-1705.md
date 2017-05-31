@@ -523,7 +523,7 @@
     * 盘标长和Sersic index在小质量端和环境无关；大质量端和环境密度正相关，尤其是Sersic index
     * 解释是SFR和Halo的吸积率相联系，Rd和Sersic index都是和Halo的spin factor相关
 
-#### [Extensive Globular Cluster Systems Associated with Ultra Diffuse Galaxies in the Coma Cluster](hhttps://www.boston.gov/departments/registry/how-get-marriedttps://arxiv.org/abs/1705.08513)
+#### [Extensive Globular Cluster Systems Associated with Ultra Diffuse Galaxies in the Coma Cluster](https://arxiv.org/abs/1705.08513)
     -- **Relevant**
     * 两个Coma UDGs的HST观测，认证大量的点源可能是球状星团。
     * 单位光度的球状星团数量很高，暗示着质量很大的Halo
@@ -611,3 +611,23 @@
 #### [CO-dark molecular gas at high redshift: very large H2 content and high pressure in a low metallicity damped Lyman-alpha system](https://arxiv.org/abs/1705.10283)
 
 #### [Metallicity calibrations of low star-forming galaxies: the influence of a stochastic IMF](https://arxiv.org/abs/1705.10309)
+
+-----
+
+## May 30:
+
+#### [Gas kinematics, morphology, and angular momentum in the FIRE simulations](https://arxiv.org/abs/1705.10321)
+
+#### [Joining X-ray to lensing: an accurate combined analysis of MACS J0416.1−2403](https://arxiv.org/abs/1705.10322)
+
+#### [On the effect of galactic outflows in cosmological simulations of disc galaxies](https://arxiv.org/abs/1705.10325)
+
+#### [Reconstructing the galaxy density field with photometric redshifts: II. Environment-dependent galaxy evolution since z≃3](https://arxiv.org/abs/1705.10327)
+
+#### [A radio-to-mm census of star-forming galaxies in protocluster 4C23.56 at z=2.5 : Gas mass and its fraction revealed with ALMA](https://arxiv.org/abs/1705.10330)
+
+#### [A star formation study of the ATLAS3D early-type galaxies with the AKARI all-sky survey](https://arxiv.org/abs/1705.10521)
+
+#### [Gravitational lensing reveals extreme dust-obscured star formation in quasar host galaxies](https://arxiv.org/abs/1705.10530)
+
+#### [Finding counterparts for All-sky X-ray surveys with Nway: a Bayesian algorithm for cross-matching multiple catalogues](https://arxiv.org/abs/1705.10711)
