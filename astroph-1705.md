@@ -631,3 +631,29 @@
 #### [Gravitational lensing reveals extreme dust-obscured star formation in quasar host galaxies](https://arxiv.org/abs/1705.10530)
 
 #### [Finding counterparts for All-sky X-ray surveys with Nway: a Bayesian algorithm for cross-matching multiple catalogues](https://arxiv.org/abs/1705.10711)
+
+-----
+
+## May 31:
+
+#### [Extragalactic background Light: a measurement at 400 nm using dark cloud shadow II. Spectroscopic separation of dark cloud's light, and results](https://arxiv.org/abs/1705.10790)
+
+#### [Supermassive black holes in disk-dominated galaxies outgrow their bulges and co-evolve with their host galaxies](https://arxiv.org/abs/1705.10793)
+
+#### [The Spectroscopy and H-band Imaging of Virgo cluster galaxies (SHIVir) Survey: Scaling Relations and the Stellar-to-Total Mass Relation](https://arxiv.org/abs/1705.10794)
+
+#### [The Spectroscopy and H-band Imaging of Virgo cluster galaxies (SHIVir) Survey: Scaling Relations and the Stellar-to-Total Mass Relation](https://arxiv.org/abs/1705.10794)
+
+#### [Enhancement of AGN in a protocluster at z=1.6](https://arxiv.org/abs/1705.10799)
+
+#### [A 33 GHz Survey of Local Major Mergers: Estimating the Sizes of the Energetically Dominant Regions from High Resolution Measurements of the Radio Continuum](https://arxiv.org/abs/1705.10801)
+
+#### [A tight relation between the age distributions of stellar clusters and the properties of the interstellar medium in the host galaxy](https://arxiv.org/abs/1705.10803)
+
+#### [A finer view of the conditional galaxy luminosity function and magnitude-gap statistics](https://arxiv.org/abs/1705.10808)
+
+#### [A controlled study of cold dust content in galaxies from z=0−2](https://arxiv.org/abs/1705.10846)
+
+#### [Galaxy Merger Candidates in High-Redshift Cluster Environments](https://arxiv.org/abs/1705.10849)
+
+#### [The ellipticity of galaxy cluster halos from satellite galaxies and weak lensing](https://arxiv.org/abs/1705.11167)
