@@ -34,3 +34,24 @@
 #### [On the Kennicutt-Schmidt scaling law of submillimetre galaxies](https://arxiv.org/abs/1706.00589)
 
 #### [Observational constraints to boxy/peanut bulge formation time](https://arxiv.org/abs/1706.00766)
+
+
+----
+
+## June 5:
+
+#### [The difference in metallicity distribution functions of halo stars and globular clusters as a function of galaxy type: A tracer of globular cluster formation and evolution](https://arxiv.org/abs/1706.00939)
+    -- **Relevant**
+
+#### [The scatter, residual correlations and curvature of the SPARC baryonic Tully-Fisher relation](https://arxiv.org/abs/1706.01017)
+
+#### [Chandra Survey of Nearby Galaxies: A Significant Population of Candidate Central Black Holes in Late-type Galaxies](https://arxiv.org/abs/1706.01201)
+
+#### [Hubble SNAPshot observations of massive galaxy clusters](https://arxiv.org/abs/1706.01263)
+
+#### [Detection of a Substantial Molecular Gas Reservoir in a brightest cluster galaxy at z = 1.7](https://arxiv.org/abs/1706.01366)
+    -- **Important, Relevant**
+
+#### [Powerful outflows in the central parsecs of the low-luminosity Active Galactic Nucleus NGC 1386](https://arxiv.org/abs/1706.01370)
+
+#### [The Taipan Galaxy Survey: Scientific Goals and Observing Strategy](https://arxiv.org/abs/1706.01246)
