@@ -55,3 +55,21 @@
 #### [Powerful outflows in the central parsecs of the low-luminosity Active Galactic Nucleus NGC 1386](https://arxiv.org/abs/1706.01370)
 
 #### [The Taipan Galaxy Survey: Scientific Goals and Observing Strategy](https://arxiv.org/abs/1706.01246)
+
+
+----
+
+## June 6:
+
+#### [The SLUGGS Survey: Trails of SLUGGS galaxies in a modified spin-ellipticity diagram](https://arxiv.org/abs/1706.01469)
+    -- ** Relevant**
+
+#### [Metallicity Gradient of the Thick Disc Progenitor at High Redshift](https://arxiv.org/abs/1706.01474)
+
+#### [Discovery of three strongly lensed quasars in the Sloan Digital Sky Survey](https://arxiv.org/abs/1706.01506)
+
+#### [The Metallicity of the Intracluster Medium Over Cosmic Time: Further Evidence for Early Enrichment](https://arxiv.org/abs/1706.01476)
+
+#### [A uniform metallicity in the outskirts of massive, nearby galaxy clusters](https://arxiv.org/abs/1706.01567)
+
+#### [Forward Global Photometric Calibration of the Dark Energy Survey](https://arxiv.org/abs/1706.01542)
