@@ -73,3 +73,24 @@
 #### [A uniform metallicity in the outskirts of massive, nearby galaxy clusters](https://arxiv.org/abs/1706.01567)
 
 #### [Forward Global Photometric Calibration of the Dark Energy Survey](https://arxiv.org/abs/1706.01542)
+
+
+----
+
+## June 7:
+
+#### [EIG - II. Intriguing characteristics of the most extremely isolated galaxies](https://arxiv.org/abs/1706.01884)
+
+#### [A Comprehensive Study of Lyα Emission in the High-redshift Galaxy Population](https://arxiv.org/abs/1706.01886)
+
+#### [Project AMIGA: A Minimal Covering Factor for Optically Thick Circumgalactic Gas Around Andromeda](https://arxiv.org/abs/1706.01893)
+
+#### [The spatially resolved stellar population and ionized gas properties in the merger LIRG NGC 2623](https://arxiv.org/abs/1706.01896)
+
+#### [HI properties and star formation history of a fly-by pair of blue compact dwarf galaxies](https://arxiv.org/abs/1706.01902)
+
+#### [High Excitation Emission Line Nebula associated with an Ultra Luminous X-ray Source at z= 0.027 in the \textit{AKARI} North Ecliptic Pole Deep Field](https://arxiv.org/abs/1706.01986)
+
+#### [Angular Momentum of Early and Late Type Galaxies: Nature or Nurture?](https://arxiv.org/abs/1706.02165)
+
+#### [PNe and H II regions in the starburst irregular galaxy NGC 4449 from LBT MODS data](https://arxiv.org/abs/1706.0208)
