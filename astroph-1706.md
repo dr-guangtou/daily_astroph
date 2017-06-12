@@ -94,3 +94,46 @@
 #### [Angular Momentum of Early and Late Type Galaxies: Nature or Nurture?](https://arxiv.org/abs/1706.02165)
 
 #### [PNe and H II regions in the starburst irregular galaxy NGC 4449 from LBT MODS data](https://arxiv.org/abs/1706.0208)
+
+----
+
+## June 8:
+
+#### [Constraining the Physical State of the Hot Gas Halos in NGC 4649 and NGC 5846](https://arxiv.org/abs/1706.02303)
+
+#### [Galaxy groups in the low-redshift Universe](https://arxiv.org/abs/1706.02307)
+    - **Useful**
+
+#### [A GMOS-N IFU study of the central H \textsc{II} region in the blue compact dwarf galaxy NGC 4449: Kinematics, Nebular Metallicity and Star-Formation](https://arxiv.org/abs/1706.02310)
+
+#### [The intrinsic characteristics of galaxies on the SFR-stellar mass plane at 1.2<z<4: I. the correlation between stellar age, central density and position relative to the main sequence](https://arxiv.org/abs/1706.02311)
+
+#### [The primordial environment of supermassive black holes (II): deep Y and J band images around the z=6.3 quasar SDSS J1030+0524](https://arxiv.org/abs/1706.02317)
+
+#### [Observational evidence that positive and negative AGN feedback depends on galaxy mass and jet power](https://arxiv.org/abs/1706.02334)
+
+#### [Detection of a Large Population of Ultra Diffuse Galaxies in Massive Galaxy Clusters: Abell S1063 and Abell 2744](https://arxiv.org/abs/1706.02521)
+    - **Relevant; Problematic**
+
+#### [Galactic Rings Revisited. II. Dark Gaps and the Locations of Resonances in Early-to-Intermediate Type Disk Galaxies](https://arxiv.org/abs/1706.02644)
+
+#### [FIGS -- Faint Infrared Grism Survey: Description and Data Reduction](https://arxiv.org/abs/1706.02669)
+
+#### [Radio continuum of galaxies with H2O megamaser disks: 33 GHz VLA data](https://arxiv.org/abs/1706.02699)
+
+#### [Radio continuum of galaxies with H2O megamaser disks: 33 GHz VLA data](https://arxiv.org/abs/1706.02699)
+
+
+----
+
+## June 11:
+
+#### [The abundance of ultra-diffuse galaxies from groups to clusters: UDGs are relatively more common in more massive haloes](https://arxiv.org/abs/1706.02704)
+
+#### [A break in the high-redshift stellar mass Tully-Fisher relation](https://arxiv.org/abs/1706.02745)
+
+#### [Blueberry galaxies: the lowest mass young starbursts](https://arxiv.org/abs/1706.02819)
+
+#### [The Presence of Thermally Unstable X-ray Filaments and the Production of Cold Gas in the NGC 5044 Group](https://arxiv.org/abs/1706.02956)
+
+#### [ALMA NII 205 micron Imaging Spectroscopy of the Interacting Galaxy System BRI 1202-0725 at Redshift 4.7](https://arxiv.org/abs/1706.03018)
