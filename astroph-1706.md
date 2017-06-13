@@ -137,3 +137,24 @@
 #### [The Presence of Thermally Unstable X-ray Filaments and the Production of Cold Gas in the NGC 5044 Group](https://arxiv.org/abs/1706.02956)
 
 #### [ALMA NII 205 micron Imaging Spectroscopy of the Interacting Galaxy System BRI 1202-0725 at Redshift 4.7](https://arxiv.org/abs/1706.03018)
+
+----
+
+## June 12:
+
+#### [Cooling timescale of dust tori in dying active galactic nuclei](https://arxiv.org/abs/1706.03071)
+
+#### [O II nebular emission from Mg II absorbers: Star formation associated with the absorbing gas](https://arxiv.org/abs/1706.03075)
+
+#### [Understanding extreme quasar optical variability with CRTS: I. Major AGN flares](https://arxiv.org/abs/1706.03079)
+
+#### [Galaxy And Mass Assembly: search for a population of high-entropy galaxy groups](https://arxiv.org/abs/1706.03361)
+
+#### [Recently Quenched Galaxies at z = 0.2 - 4.8 in the COSMOS UltraVISTA Field](https://arxiv.org/abs/1706.03361)
+
+#### [First Spectroscopic Confirmations of z ≈ 7.0 Lyα Emitting Galaxies in the LAGER Survey](https://arxiv.org/abs/1706.03586)
+
+#### [Quantifying the Origin and Distribution of Intracluster Light in a Fornax-like Cluster](https://arxiv.org/abs/1706.03713)
+    -- **Relevant**
+
+#### [Mild evolution of the stellar metallicity gradients of disc galaxies](https://arxiv.org/abs/1706.03739)
