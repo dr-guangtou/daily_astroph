@@ -158,3 +158,28 @@
     -- **Relevant**
 
 #### [Mild evolution of the stellar metallicity gradients of disc galaxies](https://arxiv.org/abs/1706.03739)
+
+----
+
+## June 13:
+
+#### [Effect of local environment and stellar mass on galaxy quenching and morphology at 0.5<z<2.0](https://arxiv.org/abs/1706.03780)
+
+#### [The origin of fast molecular outflows in quasars: molecule formation in AGN-driven galactic winds](https://arxiv.org/abs/1706.03784)
+
+#### [The ASTRODEEP Frontier Fields Catalogues III. Multiwavelength photometry and rest frame properties of MACS-J0717 and MACS-J1149](https://arxiv.org/abs/1706.03784)
+
+#### [Ten Billion Years of Brightest Cluster Galaxy Alignments](https://arxiv.org/abs/1706.03798)
+
+#### [Formation of S0 galaxies through mergers. Evolution in the Tully-Fisher relation since z∼1](https://arxiv.org/abs/1706.03803)
+    -- **Relevant**
+
+#### [The Impact of the Group Environment on the OVI Circumgalactic Medium](https://arxiv.org/abs/1706.03895)
+
+#### [The mass--metallicity relation AKARI-FMOS infrared galaxies at z∼0.88 in the AKARI North Ecliptic Pole Deep Survey Field](https://arxiv.org/abs/1706.04000)
+
+#### [Two channels for the formation of compact dwarf galaxies in clusters of galaxies](https://arxiv.org/abs/1706.04022)
+
+#### [Migration and kinematics in growing disc galaxies with thin and thick discs](https://arxiv.org/abs/1706.04042)
+
+#### [ISM conditions in z~0.2 Lyman-Break Analogs](https://arxiv.org/abs/1706.04107)
