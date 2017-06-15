@@ -183,3 +183,19 @@
 #### [Migration and kinematics in growing disc galaxies with thin and thick discs](https://arxiv.org/abs/1706.04042)
 
 #### [ISM conditions in z~0.2 Lyman-Break Analogs](https://arxiv.org/abs/1706.04107)
+
+----
+
+## June 14:
+
+#### [The Next Generation Virgo cluster Survey (NGVS). XXVI. The issues of photometric age and metallicity estimates for globular clusters](https://arxiv.org/abs/1706.04194)
+
+#### [NIHAO XIV: Reproducing the observed diversity of dwarf galaxy rotation curve shapes in LCDM](https://arxiv.org/abs/1706.04202)
+
+#### [The WISSH quasars Project: II. Giant star nurseries in hyper-luminous quasars](https://arxiv.org/abs/1706.04240)
+
+#### [Star-forming Galaxies in Intermediate Redshift Clusters: Stellar vs. Dynamical Masses of Luminous Compact Blue Galaxies](https://arxiv.org/abs/1706.04534)
+
+#### [Disturbed Fossil Group Galaxy NGC 1132](https://arxiv.org/abs/1706.04609)
+
+#### [Observing the very low-surface brightness dwarfs in a deep field in the VIRGO cluster: constraints on Dark Matter scenario](https://arxiv.org/abs/1706.04360)
