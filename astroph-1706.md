@@ -199,3 +199,43 @@
 #### [Disturbed Fossil Group Galaxy NGC 1132](https://arxiv.org/abs/1706.04609)
 
 #### [Observing the very low-surface brightness dwarfs in a deep field in the VIRGO cluster: constraints on Dark Matter scenario](https://arxiv.org/abs/1706.04360)
+
+----
+
+## June 15:
+
+#### [HST imaging of the brightest z~8-9 galaxies from UltraVISTA: the extreme bright end of the UV luminosity function](https://arxiv.org/abs/1706.04613)
+
+#### [Measurement of rotation in two galaxies in the Epoch of Reionization from ALMA-detected CII emission](https://arxiv.org/abs/1706.04614)
+
+#### [No Lyα emitters detected around a QSO at z=6.4: Suppressed by the QSO?](https://arxiv.org/abs/1706.04620)
+
+#### [Gauging Metallicity of Diffuse Gas Under An Uncertain Ionizing Radiation Field](https://arxiv.org/abs/1706.04645)
+
+#### [The SAMI Galaxy Survey: energy sources of the turbulent velocity dispersion in spatially-resolved local star-forming galaxies](https://arxiv.org/abs/1706.04754)
+
+#### [A Study of High-redshift AGN Feedback in SZ Cluster Samples](https://arxiv.org/abs/1706.04775)
+
+#### [Far-infrared emission in luminous quasars accompanied by nuclear outflows](https://arxiv.org/abs/1706.04789)
+
+#### [PAH features within few hundred parsecs of active galactic nuclei](https://arxiv.org/abs/1706.04811)
+
+#### [The effect of stellar and AGN feedback on the low redshift Lyman-α forest in the Sherwood simulation suite](https://arxiv.org/abs/1706.04790)
+
+----
+
+## June 15:
+
+#### [The Ages of Passive Galaxies in a z=1.62 Protocluster ](https://arxiv.org/abs/1706.05017)
+
+#### [Recovering the properties of high redshift galaxies with different JWST broad-band filters](https://arxiv.org/abs/1706.05063)
+
+#### [The Spread of Metals into the Low-Redshift Intergalactic Medium ](https://arxiv.org/abs/1706.05103)
+
+#### [OMEGA - OSIRIS Mapping of Emission-line Galaxies in A901/2: III. - Galaxy Properties Across Projected Phase Space in A901/2](https://arxiv.org/abs/1706.05199)
+
+#### [Radial distribution of dust, stars, gas, and star-formation rate in DustPedia face-on galaxies](https://arxiv.org/abs/1706.05351)
+
+#### [On the nature of infrared-faint radio sources in the SXDF and VLA-VVDS fields](https://arxiv.org/abs/1706.05258)
+
+#### [KiDS+GAMA: Cosmology constraints from a joint analysis of cosmic shear, galaxy-galaxy lensing and angular clustering](https://arxiv.org/abs/1706.05004)
