@@ -227,15 +227,40 @@
 ## June 15:
 
 #### [The Ages of Passive Galaxies in a z=1.62 Protocluster ](https://arxiv.org/abs/1706.05017)
+    -- **Relevant**
+    * 在高红移星系团前身里没有看到质量和年龄的关系；而且logMs>10.85的星系基本都quiescent了
 
 #### [Recovering the properties of high redshift galaxies with different JWST broad-band filters](https://arxiv.org/abs/1706.05063)
+    * stellar masses and sSFR are recovered within 0.2 and 0.3 dex, respectively, at z=7-9
+    * The MIRI F560W and F770W bands are crucial to improve the stellar mass and the sSFR estimation at z=10.
+    * 但发射线会让质量测量变得很不确定
 
 #### [The Spread of Metals into the Low-Redshift Intergalactic Medium ](https://arxiv.org/abs/1706.05103)
+    * 对于银河系这样的星系，CGM能延伸到哪里；是位力半径以内还是之外还有争议
+    * We present evidence that the primary contributors to the spread of metals into the circum- and intergalactic media are L < L∗ galaxies.
+    * The maximum distances that metals are transported from these galaxies is comparable to the size of a small, spiral-rich group of galaxies.
 
 #### [OMEGA - OSIRIS Mapping of Emission-line Galaxies in A901/2: III. - Galaxy Properties Across Projected Phase Space in A901/2](https://arxiv.org/abs/1706.05199)
+    -- **Relevant**
+    * 星系平均性质在投影相空间上有变化，位力化的区域质量更高；移除了对质量的依赖后依然有颜色的差别，位力化高的地区，缺少特别蓝的星系
+    * 质量-SFR关系不随团环境变化，作者认为可能是pre-process的quenching效应的影响
 
 #### [Radial distribution of dust, stars, gas, and star-formation rate in DustPedia face-on galaxies](https://arxiv.org/abs/1706.05351)
+    * DustPedia： 18个多波段性质有差异的盘星系
+    * 尘埃面密度分布的标长比恒星分布平均大1.8倍，和UV近似
 
 #### [On the nature of infrared-faint radio sources in the SXDF and VLA-VVDS fields](https://arxiv.org/abs/1706.05258)
+    * 射电星系，但是现在的红外巡天里看不到; 基本都是高红移射电噪的AGN
 
 #### [KiDS+GAMA: Cosmology constraints from a joint analysis of cosmic shear, galaxy-galaxy lensing and angular clustering](https://arxiv.org/abs/1706.05004)
+
+
+----
+
+## June 16:
+
+#### [Dwarf Galaxy Mass Estimators vs. Cosmological Simulations](https://arxiv.org/abs/1706.05383)
+
+#### [Foreground effect on the J-factor estimation of ultra-faint dwarf spheroidal galaxies](https://arxiv.org/abs/1706.05481)
+
+#### [Disentangling the Circumnuclear Environs of Centaurus A: III. An Inner Molecular Ring, Nuclear Shocks and the CO to warm H2 interface](https://arxiv.org/abs/1706.05762)
