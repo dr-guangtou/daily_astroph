@@ -224,7 +224,7 @@
 
 ----
 
-## June 15:
+## June 18:
 
 #### [The Ages of Passive Galaxies in a z=1.62 Protocluster ](https://arxiv.org/abs/1706.05017)
     -- **Relevant**
@@ -257,10 +257,44 @@
 
 ----
 
-## June 16:
+## June 19:
 
 #### [Dwarf Galaxy Mass Estimators vs. Cosmological Simulations](https://arxiv.org/abs/1706.05383)
+    * 用模拟检验Walker和Wolf的星系动力学质量测量方法，发现虽然这些方法假定了球对称
+    * 测量有效半径对质量估计影响很大
 
 #### [Foreground effect on the J-factor estimation of ultra-faint dwarf spheroidal galaxies](https://arxiv.org/abs/1706.05481)
 
 #### [Disentangling the Circumnuclear Environs of Centaurus A: III. An Inner Molecular Ring, Nuclear Shocks and the CO to warm H2 interface](https://arxiv.org/abs/1706.05762)
+    * 研究AGN feeding:The molecular gas is governed primarily by non-circular motions
+    * 接连的shock front会导致角动量损失发生，可能对给feed AGN有帮助
+
+
+----
+
+## June 20:
+
+#### [Multiwavelength characterisation of an ACT-selected, lensed dusty star-forming galaxy at z=2.64](https://arxiv.org/abs/1706.06099)
+
+#### [Formation and Incidence of Shell Galaxies in the Illustris Simulation](https://arxiv.org/abs/1706.06102)
+    - **Relevant**
+
+#### [Pixel Color-Magnitude Diagram Analysis of the Brightest Cluster Galaxies in Dynamically Young and Old Clusters, Abell 1139 and Abell 2589](https://arxiv.org/abs/1706.06107)
+    - **Relevant**
+
+#### [Detection of faint broad emission lines in type 2 AGN: III. On the MBH−σ⋆ relation of type 2 AGN](https://arxiv.org/abs/1706.06110)
+
+#### [The spatially-resolved star formation histories of CALIFA galaxies: Implications for galaxy formation](https://arxiv.org/abs/1706.06119)
+
+#### [Absorption systems at z∼2 as a probe of the circum galactic medium: a probabilistic approach](https://arxiv.org/abs/1706.06123)
+
+#### [The galaxy-subhalo connection in low-redshift galaxy clusters from weak gravitational lensing](https://arxiv.org/abs/1706.06125)
+    - **Relevant**
+
+#### [Analysis of the SFR - M* plane at z<3: single fitting versus multi-Gaussian decomposition](https://arxiv.org/abs/1706.06154)
+
+#### [Cold Molecular Gas Along the Merger Sequence in Local Luminous Infrared Galaxies](https://arxiv.org/abs/1706.06271)
+
+#### [New insights into the interstellar medium of the dwarf galaxy IC 10: connection between magnetic fields, the radio--infrared correlation and star formation](https://arxiv.org/abs/1706.06426)
+
+#### [Finding bright z≥6.6 Lyman-α emitters with lensing: prospects for Euclid](https://arxiv.org/abs/1706.06543)
