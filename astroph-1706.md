@@ -287,14 +287,68 @@
 #### [The spatially-resolved star formation histories of CALIFA galaxies: Implications for galaxy formation](https://arxiv.org/abs/1706.06119)
 
 #### [Absorption systems at z∼2 as a probe of the circum galactic medium: a probabilistic approach](https://arxiv.org/abs/1706.06123)
+    * 不同SF和Feedback模拟下的CGM性质；重点想重现观测到的N_HI-N_CIV关系
 
 #### [The galaxy-subhalo connection in low-redshift galaxy clusters from weak gravitational lensing](https://arxiv.org/abs/1706.06125)
     - **Relevant**
+    * 在大质量星系周围测量背景星系的shape有bias
+    * 在固定恒星质量上，satellite的subhalo质量比central的低得多
 
 #### [Analysis of the SFR - M* plane at z<3: single fitting versus multi-Gaussian decomposition](https://arxiv.org/abs/1706.06154)
+    * 在M*-SFR平面上做多高斯分解-->揭示出在低质量端愈发显著的星暴population
 
 #### [Cold Molecular Gas Along the Merger Sequence in Local Luminous Infrared Galaxies](https://arxiv.org/abs/1706.06271)
+    * GOALS样本的CO(1-0) survey
+    * 有一点点，随着并和进行，CO分子气体分布逐渐缩小，向中心内流的证据
 
 #### [New insights into the interstellar medium of the dwarf galaxy IC 10: connection between magnetic fields, the radio--infrared correlation and star formation](https://arxiv.org/abs/1706.06426)
+    * 非热射电辐射在各种尺度上都和70微米辐射相关更好，24微米差一些
+    * 局部磁场和SFR相关--> SF引起的Dynamo扰动效率很高，局部磁场放大和SFR的耦合效率很高，FIR-radio相关也许可以很快确立起来
 
 #### [Finding bright z≥6.6 Lyman-α emitters with lensing: prospects for Euclid](https://arxiv.org/abs/1706.06543)
+
+
+----
+
+## June 21:
+
+#### [Star formation in low density HI gas around the Elliptical Galaxy NGC2865](https://arxiv.org/abs/1706.06585)
+
+#### [Accurate Distances to Important Spiral Galaxies: M63, M74, NGC 1291, NGC 4559, NGC 4625, NGC 5398](https://arxiv.org/abs/1706.06586)
+
+#### [Dissecting the IRX - β dust attenuation relation: exploring the physical origin of observed variations in galaxies](https://arxiv.org/abs/1706.06587)
+
+#### [Spectroscopic properties of luminous Lyman-α emitters at z≈6−7 and comparison to the Lyman-break population](https://arxiv.org/abs/1706.06592)
+
+#### [The many lives of active galactic nuclei-II: The formation and evolution of radio jets and their impact on galaxy evolution](https://arxiv.org/abs/1706.06595)
+
+#### [Simulating galaxies in the reionization era with FIRE-2: galaxy scaling relations, stellar mass functions, and luminosity functions](https://arxiv.org/abs/1706.06605)
+
+#### [The high A_V Quasar Survey: A z=2.027 metal-rich damped Lyman-alpha absorber towards a red quasar at z=3.21](https://arxiv.org/abs/1706.07016)
+
+#### [A massive, dead disk galaxy in the early Universe](https://arxiv.org/abs/1706.07030)
+    - **Relevant**
+    * 红移2的一个被强引力透镜放大了的quiescent星系，运动学是被规则旋转主导的
+    * 星系的形态转变和quenching也是伴随着运动学转变进行的
+
+#### [d1005+68: A New Faint Dwarf Galaxy in the M81 Group](https://arxiv.org/abs/1706.07039)
+    * HSC找到的一个非常暗的卫星星系；靠贫金属星的overdensity发现；红巨星支拟合得到很贫的金属丰度
+
+#### [Superluminous transients at AGN centers from interaction between black-hole disk winds and broad-line region clouds](https://arxiv.org/abs/1706.06855)
+
+
+----
+
+## June 22:
+
+#### [Imprints of the super-Eddington accretion on the quasar clustering ](https://arxiv.org/abs/1706.07051)
+
+#### [Stellar dynamics in the strong-lensing central galaxy of Abell 1201: A low stellar mass-to-light ratio, a large central compact mass, and a standard dark matter halo](https://arxiv.org/abs/1706.07055)
+
+#### [The Main Sequence relation in the HST Frontier Fields](https://arxiv.org/abs/1706.07059)
+
+#### [Large-scale environmental dependence of chemical abundances in dwarf galaxies and implications for connecting star formation and halo mass](https://arxiv.org/abs/1706.07099)
+
+#### [The new semianalytic code GalICS 2.0 - Reproducing the galaxy stellar mass function and the Tully-Fisher relation simultaneously](https://arxiv.org/abs/1706.07106)
+
+#### [Nuclei of dwarf spheroidal galaxies KKs3 and ESO269-66 and their counterparts in our Galaxy](https://arxiv.org/abs/1706.07344)
