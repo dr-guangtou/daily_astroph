@@ -342,13 +342,27 @@
 ## June 22:
 
 #### [Imprints of the super-Eddington accretion on the quasar clustering ](https://arxiv.org/abs/1706.07051)
+    * 用版解析模型研究QSO halo相关信号的QSO luminosity dependence
+    * 如果QSO光度没有上线，可以超过Eddington光度，QSO halo mass和luminosity之间的先关就弱了很多
 
 #### [Stellar dynamics in the strong-lensing central galaxy of Abell 1201: A low stellar mass-to-light ratio, a large central compact mass, and a standard dark matter halo](https://arxiv.org/abs/1706.07055)
+    - **Relevant**
+    * MUSE观测，JAM模型；显著的暗物质晕和中心compact质量
+    * 在NFW Halo假设下IMF和银河系类似
+    * 中心大质量黑洞的质量贡献可能很重要
 
 #### [The Main Sequence relation in the HST Frontier Fields](https://arxiv.org/abs/1706.07059)
+    * Scatter decreases with M*
+    * sSFR随红移的升高没有理论预期快
 
 #### [Large-scale environmental dependence of chemical abundances in dwarf galaxies and implications for connecting star formation and halo mass](https://arxiv.org/abs/1706.07099)
+    * 比较void里面矮星系的ISM金属丰度，O丰度比denser环境下的偏高; N丰度关系相反
+    * 可能反应了void里面delay的SFH
 
 #### [The new semianalytic code GalICS 2.0 - Reproducing the galaxy stellar mass function and the Tully-Fisher relation simultaneously](https://arxiv.org/abs/1706.07106)
+    * 新的SAM，可以给出暗物质晕和恒星成分的旋转速度；旋转速度不止依赖于Halo virial速度，还依赖于重子物质和暗物质的比例
+    * 可以重现SMF和T-F关系；同时保证halo质量与观测符合
 
 #### [Nuclei of dwarf spheroidal galaxies KKs3 and ESO269-66 and their counterparts in our Galaxy](https://arxiv.org/abs/1706.07344)
+    * 中心有球状星团的dwarf spheroidal
+    * 星团性质和银河系的大质量GC类似
