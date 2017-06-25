@@ -321,10 +321,17 @@
 #### [Spectroscopic properties of luminous Lyman-α emitters at z≈6−7 and comparison to the Lyman-break population](https://arxiv.org/abs/1706.06592)
 
 #### [The many lives of active galactic nuclei-II: The formation and evolution of radio jets and their impact on galaxy evolution](https://arxiv.org/abs/1706.06595)
+    * 在SAGE半解析模型里加入了描述radio jet的部分
+    * z=0星系的恒星质量-射电光度关系 (Best & Heckman 2012)
 
 #### [Simulating galaxies in the reionization era with FIRE-2: galaxy scaling relations, stellar mass functions, and luminosity functions](https://arxiv.org/abs/1706.06605)
+    * FIRE模拟里面的高红移星系；SHMR在z=5-12不太演化，光度函数的低光度端随红移变陡
+    * 再电离过程结束的时候看到了对低质量星系里面恒星形成的抑制
+    * z=8以上，特别暗的低质量星系对SFRD的贡献很大
+    * 使用了BPASS2.0 SPS model！
 
 #### [The high A_V Quasar Survey: A z=2.027 metal-rich damped Lyman-alpha absorber towards a red quasar at z=3.21](https://arxiv.org/abs/1706.07016)
+    * High-metallicity DLA产生的dust遮挡和红化效应会影响背景QSO的detection，叫做dust bias
 
 #### [A massive, dead disk galaxy in the early Universe](https://arxiv.org/abs/1706.07030)
     - **Relevant**
@@ -335,6 +342,7 @@
     * HSC找到的一个非常暗的卫星星系；靠贫金属星的overdensity发现；红巨星支拟合得到很贫的金属丰度
 
 #### [Superluminous transients at AGN centers from interaction between black-hole disk winds and broad-line region clouds](https://arxiv.org/abs/1706.06855)
+    * 作者提出某些在星系中心看到的超亮超新星可能是AGN wind和BLR中的cloud相互作用，激波动能转化成辐射导致的
 
 
 ----
