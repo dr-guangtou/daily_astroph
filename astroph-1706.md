@@ -374,3 +374,21 @@
 #### [Nuclei of dwarf spheroidal galaxies KKs3 and ESO269-66 and their counterparts in our Galaxy](https://arxiv.org/abs/1706.07344)
     * 中心有球状星团的dwarf spheroidal
     * 星团性质和银河系的大质量GC类似
+
+----
+
+## June 25:
+
+#### [Physical drivers of galaxies' cold-gas content: exploring environmental and evolutionary effects with DARK SAGE](https://arxiv.org/abs/1706.07434)
+    * SAM研究HI气体比例和环境的影响；仍有困哪重现卫星星系的HI比例
+    * 在固定的恒星质量和sSFR上，卫星星系的HI比例和halo质量反相关在模型里是完全由RPS导致的
+
+#### [Apparent cores and non-circular motions in the HI discs of simulated galaxies](https://arxiv.org/abs/1706.07478)
+    * APOSTLE和THINGS以及LITTLE THINGS的比较；模拟了HI干涉观测
+    * 试图去看观测时采用的tilted ring模型的不足，不能模拟角向速度场的m=2不对称性，从而引起速度测量的弥散
+    * 观测上有这样不对称性的星系的旋转曲线往往和LCDM的不符合，只能看到上升；而且内部的速度可能会低估
+
+#### [Reducing biases on H0 measurements using strong lensing and galaxy dynamics: results from the EAGLE simulation](https://arxiv.org/abs/1706.07733)
+    * 用模拟研究mass-sheet degeneracy的影响
+    * H0测量的bias在5-10%的量级；这个bias对星系的观测性质没有明显依赖
+    * Cross lens最适合用来测量H0
