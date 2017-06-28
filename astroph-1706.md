@@ -121,8 +121,6 @@
 
 #### [Radio continuum of galaxies with H2O megamaser disks: 33 GHz VLA data](https://arxiv.org/abs/1706.02699)
 
-#### [Radio continuum of galaxies with H2O megamaser disks: 33 GHz VLA data](https://arxiv.org/abs/1706.02699)
-
 
 ----
 
@@ -392,3 +390,81 @@
     * 用模拟研究mass-sheet degeneracy的影响
     * H0测量的bias在5-10%的量级；这个bias对星系的观测性质没有明显依赖
     * Cross lens最适合用来测量H0
+
+----
+
+## June 26:
+
+#### [Lopsidedness of self-consistent galaxies by the external field effect of clusters](https://arxiv.org/abs/1706.07825)
+    * MOND下的Schwarzschild轨道叠加方法看星系演化
+    * MOND下的external field预测了星系的lopsidedness和triaxial equilibrium
+
+#### [The Impact of Assembly Bias on the Galaxy Content of Dark Matter Halos](https://arxiv.org/abs/1706.07871)
+    - **Relevant**
+    * 半解析模型看某些大尺度环境参数和Halo形成时间分布的极端Halo的HOD以及里面的星系
+    * that central galaxies (and in one model also the satellites) in denser regions start populating lower-mass halos.
+    * early-forming halos are more likely to host central galaxies at lower halo mass.
+    * where early-forming halos have fewer satellites, likely due to having more time for them to merge with the central galaxy.
+
+#### [Extreme variability quasars from the Sloan Digital Sky Survey and the Dark Energy Survey](https://arxiv.org/abs/1706.07875)
+    - **Interesting**
+    * g-band在15年里光变超过1 mag的QSO，找到了1000个左右
+    * 考虑了选择效应以后，30-50%的QSO在15年的时间里都有这种程度的光变
+    * 这些QSO的宽线的等值宽度偏高，Eddington ratio偏低，光变程度整体偏高
+    * 说明是intrinsic的原因导致了长期光变，但是这些QSO是一个分布的tail，而不是一个unique population
+    * 低吸积率下，吸积流更容易受不稳定性影响
+
+#### [Failed radiatively Accelerated Dusty Outflow model of the Broad Line Region in Active Galactic Nuclei. I. Analitical solution](https://arxiv.org/abs/1706.07958)
+    * FRADO模型：local radiation pressure acting on the dust in the accretion disk atmosphere launches the outflow of material, but higher above the disk the irradiation from the central parts cause the dust evaporation and a subsequent fall back.
+
+#### [Testing baryon-induced core formation in ΛCDM: A comparison of the DC14 and coreNFW dark matter halo models on galaxy rotation curves](https://arxiv.org/abs/1706.08296)
+    * DC14和coreNFW都是新的用来描述小质量Halo里面星系旋转曲线的模型
+
+#### [The Infrared Medium-deep Survey. III. Survey of Luminous Quasars at 4.7 ≤ z ≤ 5.4](https://arxiv.org/abs/1706.08454)
+    * 用定做的特殊滤镜找5<z<5.7的QSO，没什么特别的结果
+
+#### [Halo intrinsic alignment: dependence on mass, formation time and environment](https://arxiv.org/abs/1706.07814)
+    * Massive halos have stronger alignment
+    * Older halos have stronger alignment than younger ones
+    * Halo alignment with its mass and formation time dependence can be explained by halo bias.
+    * Environment (cluster里还是filament上)和Halo bias在决定Halo的alignment上是独立的
+
+#### [MACS J0416.1-2403: Impact of line-of-sight structures on strong gravitational lensing modelling of galaxy clusters](https://arxiv.org/abs/1706.07815)
+    * Multi-plane lensing model, 然后用最佳模型研究视线方向的质量分布对lensing的影响
+    * 对定透镜像位置有0.3"的影响
+    * 前景星系比背景星系更重要
+
+----
+
+## June 27:
+
+#### [On the SFR-M∗ main sequence archetypal star-formation history and analytical models](https://arxiv.org/abs/1706.08531)
+    - **Important, Relevant**
+    * 用z~5时星系的质量代表seed mass，看SFH的peak如何随之变化
+    * 新的MS星系SFH模型：right skewed peak function，参数对seed mass有依赖
+    * 比较了几个SFH模型，都不能很好的模拟rapidly quenched星系的SFH；而且可能导致MS上产生arteficial的age dependence
+
+#### [An extended cold gas absorber in a central cluster galaxy](https://arxiv.org/abs/1706.08533)
+    - **Relevant**
+    * 用NaD吸收看到的BCG中心区域的25kpc长的冷气体结构
+    * 有速度偏差，应该是在内流；有Halpha发射
+    * 可能是从卫星星系上strip下来的气体，也可能是retired cooling flow
+
+#### [Are fossil groups early-forming galaxy systems?](https://arxiv.org/abs/1706.08542)
+    - **Relevant**
+    * Illustris模拟里面的fossil gorup
+    * Fossil group halo的形成时间似乎没有太大差别,但是最近的吸积历史差别很大
+
+#### [HI in Virgo's "Red and Dead" Dwarf Ellipticals - A Tidal Tail and Central Star Formation](https://arxiv.org/abs/1706.08555)
+    - **Relevant**
+    * Virgo里面有HI气体的三个dwarf星系--HI应该不是刚刚吸积的
+    * 有一个有HI Tidal tail,另一个有之前没有看到的SF
+
+#### [LBT observations of compact star-forming galaxies with extremely high OIII/OII flux ratios: HeI emission-line ratios as diagnostics of Lyman continuum leakage](https://arxiv.org/abs/1706.08769)
+    * 低质量,低气体金属丰度, 高Hbeta等值宽度的星系
+    * Halpha线宽很宽,可能反应了快速expand的超新星遗迹; 这种运动学适合LyC的leak
+    * He i λ3889/λ6678 and λ7065/λ6678 emission-line flux ratios --> 判断是否有LyC leak
+
+#### [Black hole masses of tidal disruption event host galaxies](https://arxiv.org/abs/1706.08965)
+    * 12个 TDE 星系的黑洞质量测量; 用的是速度弥散度的关系
+    * 多数是小质量SMBH
