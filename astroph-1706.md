@@ -468,3 +468,13 @@
 #### [Black hole masses of tidal disruption event host galaxies](https://arxiv.org/abs/1706.08965)
     * 12个 TDE 星系的黑洞质量测量; 用的是速度弥散度的关系
     * 多数是小质量SMBH
+
+----
+
+## June 28:
+
+#### [High resolution spectroscopy of the extended narrow-line region of IC 5063 and NGC 7212](https://arxiv.org/abs/1706.08970)
+
+#### [AGN feedback on molecular gas reservoirs in quasars at z∼2.4](https://arxiv.org/abs/1706.08987)
+
+#### [The AGN-Star Formation Connection: Future Prospects with JWST](https://arxiv.org/abs/1706.09056)
