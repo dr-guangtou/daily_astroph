@@ -474,7 +474,38 @@
 ## June 28:
 
 #### [High resolution spectroscopy of the extended narrow-line region of IC 5063 and NGC 7212](https://arxiv.org/abs/1706.08970)
+    * 虽然光致电离仍然是主要电离机制，但激波的贡献也是可以看到的
 
 #### [AGN feedback on molecular gas reservoirs in quasars at z∼2.4](https://arxiv.org/abs/1706.08987)
+    * ALMA观测有外流的QSO host中的分子气体，三个中只有一个看到了CO(3-2)，且分布和外流反相关
+    * 可能还看到了一个分子blob的外流迹象
+    * 2个QSO附近都看到了有分子气体发射的星系
 
 #### [The AGN-Star Formation Connection: Future Prospects with JWST](https://arxiv.org/abs/1706.09056)
+    * 看能不能用JWST上的MIRI来区分高红移的AGN和SF星系，以及估计AGN对8微米PAH区域的贡献，不然SFR会被高估
+    * 可以探测到很低Eddington ratio和宿主星系SFR很高的AGN
+
+----
+
+## June 29:
+
+#### [A bright lensed galaxy at z=5.4 with strong Lyα emission](https://arxiv.org/abs/1706.09428)
+    * z>5的最亮的LAE; AGN不是主要的辐射源; 但是看到了 N_IV半禁线,可能有hot massive星的贡献.
+    * LyA发射可以被分解开,符合expanding shell的预期
+
+#### [Weak Galactic Winds in Active Galactic Nuclei Post-starburst Host Galaxies at z ~ 0.1](https://arxiv.org/abs/1706.09500)
+    * 560 AGN PSBs的叠加光谱研究, 用NaI吸收线看星系的恒星吸收, 星系的ISM和wind的吸收
+    * wind velocity shift比对照组的SF星系要略高,但没有很显著
+    * 其他类型的PSB星系里面也看到了类似的wind
+
+#### [The ALMA Frontier Fields Survey - II. Multiwavelength Photometric analysis of 1.1mm continuum sources in Abell 2744, MACSJ0416.1-2403 and MACSJ1149.5+2223](https://arxiv.org/abs/1706.09605)
+    * ALMA再FF里面看到的12个显著的发射源的测光分析
+    * 都是大质量,高恒星形成率,尘埃质量高的1<z<3的星系
+
+#### [The primordial deuterium abundance at z = 2.504 from a high signal-to-noise spectrum of Q1009+2956](https://arxiv.org/abs/1706.09512)
+    * 用多条LLS的金属吸收线来限制云团的运动学结构, log(D/H)=-4.5
+    * Of these elements, deuterium is known as the best baryometer due to its sensitivity to, and monotonic dependence on, the baryon-to-photon ratio η10 or the baryon density Ωb
+
+#### [Photometric Redshifts with the LSST: Evaluating Survey Observing Strategies](https://arxiv.org/abs/1706.09507)
+    * nearest-neighbors color-matching photometric redshift estimator
+    * LSST的多个visit实在不同的airmass进行的,可以给出一个 SED- and z-dependent atmospheric affect model来提高photo-z精度
