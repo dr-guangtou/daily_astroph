@@ -49,3 +49,20 @@
 #### [Mapping the hot gas temperature in galaxy clusters using X-ray and Sunyaev-Zeldovich imaging](https://arxiv.org/abs/1706.10230)
     * 利用tSZ效应和X-ray数据测量星系团里的温度分布；之前需要X-ray spectroscopy
     * kinematic SZ效应引入了10%的误差
+
+
+## July 4:
+
+#### [The Origins of UV-optical Color Gradients in Star-forming Galaxies at z ~ 2: Predominant Dust Gradients But Negligible sSFR Gradients](https://arxiv.org/abs/1707.00226)
+
+#### [Star formation of far-IR AGN and non-AGN galaxies in the green valley: possible implication of AGN positive feedback](https://arxiv.org/abs/1707.00254)
+
+#### [On the interdependence of galaxy morphology, star formation, and environment in massive galaxies in the nearby Universe](https://arxiv.org/abs/1707.00568)
+
+#### [The Properties of Massive Star-forming galaxies with Outside-in Assembly Mode](https://arxiv.org/abs/1707.00594)
+
+#### [An ALMA survey of submillimetre galaxies in the COSMOS field: Physical properties derived from energy balance spectral energy distribution modelling ](https://arxiv.org/abs/1707.00637)
+
+#### [Investigating the Relation between Galaxy Properties and the Gaussianity of the Velocity Distribution of Groups and Clusters](https://arxiv.org/abs/1707.00651)
+
+#### [Clarifying the Hubble constant tension with a Bayesian hierarchical model of the local distance ladder](https://arxiv.org/abs/1706.00007)
