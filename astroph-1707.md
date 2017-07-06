@@ -93,7 +93,7 @@
 
 ----
 
-## July 4:
+## July 5:
 
 #### [Mass distribution in the core of MACS J1206: robust modeling from an exceptionally large sample of central multiple images](https://arxiv.org/abs/1707.00690)
 
@@ -125,4 +125,60 @@
 #### [A low-luminosity type-1 QSO sample: IV. Molecular gas contents and conditions of star formation in three nearby Seyfert galaxies](https://arxiv.org/abs/1707.01081)
 
 
-#### [A low-luminosity type-1 QSO sample: IV. Molecular gas contents and conditions of star formation in three nearby Seyfert galaxies](https://arxiv.org/abs/1707.01081)
+
+
+
+----
+
+## July 6:
+
+#### [Testing the Recovery of Intrinsic Galaxy Sizes and Masses of z~2 Massive Galaxies Using Cosmological Simulations](https://arxiv.org/abs/1707.01094)
+    - **Relevant**
+    * 用高分辨数值模拟的辐射转移模型模拟图像,看对质量和半径的复原
+
+
+#### [Supermassive Black Holes as the Regulators of Star Formation in Central Galaxies](https://arxiv.org/abs/1707.01094)
+    * sSFR随着M_SMBH/M_galaxy下降
+    * 有部分黑洞质量中等的星系可能处于steady state quiescence的状态,虽然处于green valley,但不是明显的transitioning天体
+    - **感觉这篇文章有问题**
+
+
+#### [The edge of galaxy formation I: formation and evolution of MW-satellites analogues before accretion](https://arxiv.org/abs/1707.01106)
+    * 用模拟看银河系和M31的小卫星星系在被吸积之前的物理状态
+    * 有8/27个Halo没有形成恒星, 形成恒星的Halo SFH非常多样, 质量大些的Halo里面并和的触发作用很重要
+    * SHMR的scatter很大,主要是并和的随机性导致的
+    * 小质量Halo的星系里还是常看到cusp
+
+
+#### [The edge of galaxy formation II: evolution of Milky Way satellite analogues after infall](https://arxiv.org/abs/1707.01102)
+    * 还是上面文章的Halo，研究infall的过程
+    * 这些星系主要是sigma主导的，被银河系吸积的过程增大了scaling relation的scatter
+    * 潮汐力移除部分质量，让速度弥散度曲线变得更平，减少了暗物质质量
+    * 有暗物质core的halo更容易被摧毁
+
+
+#### [ZOMG III: The effect of Halo Assembly on the Satellite Population](https://arxiv.org/abs/1707.01108)
+    * 用模拟看不同assembly history的halo里面的satellites的性质，比较z=0的stalled和还在accreting的halo
+    * Accreting halo里面的satellites的质量比例更高
+    * Satellite的运动学也有差别：Substructures fall towards the accreting haloes along quasi-radial trajectories
+    * velocity anisotropy parameter of the satellites (β)可以用来区分stalled和acrreting halo
+
+#### [The MUSE-Wide survey: Detection of a clustering signal from Lyman-α-emitters at 3<z<6](https://arxiv.org/abs/1707.01109)
+    * Clustering analysis of a sample of 238 Lyα-emitters at redshift 3<z<6 from the MUSE-Wide survey
+    * 利用Pair counts探测到了r=2.9 Mpc的clustering的信号
+
+#### [Young, metal-enriched cores in early-type dwarf galaxies in the Virgo cluster based on colour gradients](https://arxiv.org/abs/1707.01228)
+    - **Relevant**
+    * Virgo里面矮星系的一个有效半径以内的(g-i) v.s (i-H)的color color分布
+    * 有些dwarf星系的中心有很陡的positive颜色梯度，蓝色的core对应100 Myr内的SF，有很强的年龄梯度，但是金属丰度正常
+
+#### [The VIMOS Ultra Deep Survey: The role of HI kinematics and HI column density on the escape of Lyalpha photons in star-forming galaxies at 2<z<4](https://arxiv.org/abs/1707.01443)
+    * 研究2<z<4的LAE里面的系统速度和低电离吸收线（SiII 1526）trace的外流气体的速度差别
+    * lower N_HI ISM；外流速度大，LyA peak在系统速度上，LyA等值宽度大
+    * higher N_HI ISM; 散射强，LyA分布更分散，等值宽度小
+
+
+#### [Large-scale environments of narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/1707.01411)
+    * NLS1星系比其他类型的AGN的一般环境密度要低；尤其是和BLS1比，从环境上看不太可能NLS1的一个子类
+    * NLS1里面射电 loudness随环境密度增加
+    * 认为应该进一步按照有没有jet来区分AGN
