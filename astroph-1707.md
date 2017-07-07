@@ -182,3 +182,22 @@
     * NLS1星系比其他类型的AGN的一般环境密度要低；尤其是和BLS1比，从环境上看不太可能NLS1的一个子类
     * NLS1里面射电 loudness随环境密度增加
     * 认为应该进一步按照有没有jet来区分AGN
+
+
+----
+
+## July 7:
+
+#### [Connecting X-ray absorption and 21cm neutral hydrogen absorption in obscured radio AGN](https://arxiv.org/abs/1707.01542)
+
+
+#### [Relation between polycyclic aromatic hydrocarbon, Brα and infrared luminosity of local galaxies observed with AKARI](https://arxiv.org/abs/1707.01652)
+
+
+#### [Mass-metallicity relation of dwarf galaxies and its dependency on time: clues from resolved systems and comparison with massive galaxies](https://arxiv.org/abs/1707.01840)
+
+
+#### [Globular clusters vs dark matter haloes in strong lensing observations](https://arxiv.org/abs/1707.01849)
+
+
+#### [Tidal Disruption Event Host Galaxies in the Context of the Local Galaxy Population](https://arxiv.org/abs/1707.01559)
