@@ -167,6 +167,7 @@
     * Clustering analysis of a sample of 238 Lyα-emitters at redshift 3<z<6 from the MUSE-Wide survey
     * 利用Pair counts探测到了r=2.9 Mpc的clustering的信号
 
+
 #### [Young, metal-enriched cores in early-type dwarf galaxies in the Virgo cluster based on colour gradients](https://arxiv.org/abs/1707.01228)
     - **Relevant**
     * Virgo里面矮星系的一个有效半径以内的(g-i) v.s (i-H)的color color分布
@@ -189,15 +190,87 @@
 ## July 7:
 
 #### [Connecting X-ray absorption and 21cm neutral hydrogen absorption in obscured radio AGN](https://arxiv.org/abs/1707.01542)
+    * 看X-ray吸收和HI吸收是否在AGN里同时出现
+    * X-ray的hardness ratio和HI吸收的光学厚度有一点相关
 
 
 #### [Relation between polycyclic aromatic hydrocarbon, Brα and infrared luminosity of local galaxies observed with AKARI](https://arxiv.org/abs/1707.01652)
-
+    * PAH 3.3的光度和L_IR的比值在 L_IR < 10^11时是基本恒定的；高光度处随光度下降
+    * Br_alpha和L_IR的比值也随L_IR下降
+    * 关于这个下降没有给出更多解释，AGN的贡献，PAH的瓦解，尘埃温度的升高
+    * Brα line is a hydrogen recombination line emitted from an HII region. It directly traces the ionising photons produced by young stars; 并且消光很小
 
 #### [Mass-metallicity relation of dwarf galaxies and its dependency on time: clues from resolved systems and comparison with massive galaxies](https://arxiv.org/abs/1707.01840)
-
+    - **Relevant**
+    * LG里dwarf resolved的SPop信息去trace MZR的演化
+    * MZR的slope在dwarf端随红移演化很少
 
 #### [Globular clusters vs dark matter haloes in strong lensing observations](https://arxiv.org/abs/1707.01849)
-
+    * 看球状星团在用强引力透镜找DM subhalo里面的影响
+    * 质量>10^6 Msun的的GC的数密度和要找的subhalo差不多，可能需要超高的分辨率才能分开这两个情况
 
 #### [Tidal Disruption Event Host Galaxies in the Context of the Local Galaxy Population](https://arxiv.org/abs/1707.01559)
+    * 看选择效应能不能解释在E+A星系看到更多的TDE的现象--》 结论是不行，但是overrepresentation没有之前那么高
+    * TDE host喜欢在green valley，高Sersic index，高B/T的星系里出现；但和merger关系不大
+
+
+----
+
+## July 10:
+
+#### [Joint Bayesian Estimation of Quasar Continua and the Lyman-Alpha Forest Flux Probability Distribution Function](https://arxiv.org/abs/1707.01906)
+    * MCMC-Bayesian算法，用PCA basis拟合QSO光谱的连续谱(一般看不到)和Lyalpha吸收线
+    * 主要是可以估计IGM里面温度-密度关系的slope
+
+
+#### [Microlensing Makes Lensed Quasar Time Delays Significantly Time Variable](https://arxiv.org/abs/1707.01908)
+    * 指出microlensing也可以产生多重象透镜QSO的光变时延。
+    * 这里的microlensing指的是前景星系里的恒星对背景QSO吸积盘区域辐射的microlensing
+    * microlensing之所以产生time delay是因为吸积盘和视线方向的倾角，加上产生光变的温度变化会被不同程度的放大
+
+
+#### [{\sc Mufasa}:The strength and evolution of galaxy conformity in various tracers](https://arxiv.org/abs/1707.01950)
+    - **Relevant**
+    * 试图将conformity定量化
+    * 小质量和大质量Halo的conformity的表现不一样
+    * 大质量halo在金属丰度上有anti-conformity的表现
+    * 很明显的conformity只在halo成长到了quenching质量以上才出现
+    * 最早的conformity的定义：tendency for galaxies spatially close to each other to have similar galaxy colours
+    * “one-halo comformity: early-type central galaxies have comparatively higher fractions of early-type satellite galaxies around them, while late-type cen- trals tended to be surrounded by late-type satellites”
+    * "two-halo" comformity: corresponds to properties being similar in galaxies living in different haloes (但依然有可能是artefact，来自于central和satellite的误认)
+        - Hearin+2016: two-halo conformity is the result of the central galaxy assembly bias
+
+
+#### [Probing the cold and warm molecular gas in the Whirlpool Galaxy: Herschel SPIRE-FTS Observations of the central region of M51 (NGC 5194)](https://arxiv.org/abs/1707.01973)
+    * M51中心分子气体：Cool和warm component的密度和温度测量
+    * Cold成分：PDR加热；Warm成分，需要额外加热渠道：Supernova，stellar wind，各种shock
+    * 和其他一些有双成分分子气体测量的SF星系比，M51的warm成分密度最低
+
+#### [Constraining the HI-Halo Mass Relation From Galaxy Clustering](https://arxiv.org/abs/1707.01999)
+    * 用ALFALFA看星系成团性对HI气体成分的依赖
+    * 用三个测量看clustering: The projected two-point correlation function, the projected cross-correlation function with respect to a reference sample selected from the Sloan Digital Sky Survey, and the redshift-space monopole moment.
+    * clustering的幅度和bias factor随HI质量增加而增加
+    * 需要在Halo模型里加入halo形成时间：越HI-rich的halo形成的越晚可以解释这个现象。
+
+
+#### [SpArcFiRe: morphological selection effects due to reduced visibility of tightly winding arms in distant spiral galaxies](https://arxiv.org/abs/1707.02021)
+    * 缠绕越紧的spiral星系的pitch angle越小，越容易和非spiral galaxy混淆起来
+    * 如果不改正这个效应，会得到Spiral星系的pitch angle有红移演化的错误结论。
+
+
+#### [PHL 6625: A Minor Merger-Associated QSO Behind NGC 247](https://arxiv.org/abs/1707.02042)
+    * 一个近邻星系背后的QSO的arc结构不是strong lensing，而是minor merger，比较稀少的情况
+
+
+#### [A remarkably large depleted core in the Abell 2029 BCG IC 1101](https://arxiv.org/abs/1707.02277)
+    - **Relevant**
+    * 一个有4.2kpc depleted core的BCG
+    * 用core-Sersic模型看，比MV-Rbreak关系给出的要大; 预测的黑洞质量也很大
+    * large core might be partly due to oscillatory core passages by a gravitational radiation-recoiled black hole.
+
+
+#### [Constraints on the mass-richness relation from the abundance and weak lensing of SDSS clusters](https://arxiv.org/abs/1707.01907)
+    - **Relevant**
+    * Ryoma Murata的文章，用Planck cosmology下的模拟forward modeling Mhalo-richness关系
+    * 还是用redMaPPer做calibration；在lambda>30关系很好，20<lambda<30的地方弥散很大
+    * 可能因为投影效应导致了有些low-mass halo被当做了low-richness的cluster
