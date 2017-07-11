@@ -274,3 +274,63 @@
     * Ryoma Murata的文章，用Planck cosmology下的模拟forward modeling Mhalo-richness关系
     * 还是用redMaPPer做calibration；在lambda>30关系很好，20<lambda<30的地方弥散很大
     * 可能因为投影效应导致了有些low-mass halo被当做了low-richness的cluster
+
+
+
+----
+
+## July 11:
+
+#### [The KMOS Redshift One Spectroscopic Survey (KROSS): the origin of disk turbulence in z~0.9 star-forming galaxies](https://arxiv.org/abs/1707.02302)
+    - **Important**
+    * 492个z~1的SF星系的运动学，大多数都是旋转主导的，但是dynamically hot，而且highly turbulent
+    * 和SAMI比较，相同恒星质量上SF星系的气体速度弥散度随红移快速增加，速度弥散度和质量的关系本身不强。
+    * 暂时不能区分速度弥散的增加是feedback导致的还是盘的不稳定性导致的
+    
+
+#### [A Multi-wavelength Study of the Turbulent Central Engine of the Low-mass AGN hosted by NGC404](https://arxiv.org/abs/1707.02303)
+    * VLA+ALMA分解了中心射电源，看到了17pc展宽的结构
+    * 最有可能来自AGN的confined jet驱动的射电外流
+
+#### [A novel method to automatically detect and measure the ages of star clusters in nearby galaxies: Application to the Large Magellanic Cloud](https://arxiv.org/abs/1707.02311)
+    * 用Bayesian isochrone拟合方法自动估计能分解开星族的星团的年龄
+    * 在LMC里用4850个星团发现有多次星团形成阶段，上一次是310Myr前，可能和SMC以及银河的相互作用有关
+    * 星团的形成还有自内而外的迹象。
+
+
+#### [Two Peculiar Fast Transients in a Strongly Lensed Host Galaxy](https://arxiv.org/abs/1707.02434)
+    * 在大质量星系团背后看到的高红移星系里的快速暂现源：比SN暗，比Classic Nova亮
+    * 达到光变的peak花了5天，但是fading也非常的快；可能是亮蓝变星，也可能是再现新星
+
+
+#### [Discovery of a lensed ultrabright submillimeter galaxy at z=2.0439](https://arxiv.org/abs/1707.02454)
+    * 通过交叉ALLWISE和Placnk compact source数据找到的，被一个前景的z~0.44的星系团放大了
+    * 和SMMJ2135，就是Cosmic Eyelash星系很像
+
+
+#### [The correlation between the sizes of globular cluster systems and their host dark matter haloes](https://arxiv.org/abs/1707.02609)
+    - **Relevant**
+    * 球状星团分布的数密度轮廓可以用de Vaucouleurs轮廓描述，给出的半径和Halo的位力半径有一个很steep的non-linear 关系；原因不是很明确
+
+
+#### [NGC 1566: analysis of the nuclear region from optical and near-infrared Integral Field Unit spectroscopy](https://arxiv.org/abs/1707.02680)
+    * 中心看到了很强的featureless连续谱，但有一部分可能来自于年轻热恒星，和速度弥散度在中心的降低是一致的
+
+#### [Mid-infrared variability of changing-look AGN](https://arxiv.org/abs/1707.02686)
+    * Changing-look AGN在光学光变期间，MIR波段用WISE数据显示也有稍微滞后的光变
+    * 不符合varying variation模型的预期，应该是吸积率自身的变化
+
+
+#### [The clustering of z>7 galaxies: Predictions from the BLUETIDES simulation](https://arxiv.org/abs/1707.02312)
+    * BLUETIDES: 400 Mpc/h的数值模拟
+    * 和HSC观测比较高红移星系的clustering; 结果基本符合，现在观测限制的范围是在1-Halo到2-Halo term之间，所以non-linear效应特别重要
+    * BLR的线宽和红移有关系，可能反应了辐射的环状区域的引力红移效应。
+
+#### [Gas perturbations in cool cores of galaxy clusters: effective equation of state, velocity power spectra and turbulent heating](https://arxiv.org/abs/1707.02304)
+    - **Relevant**
+    * 看cool core cluter中心的total variance of fluctuations
+    * 主要贡献来自气体低速运动和相对论性等离子体bubble导致的isobaric和isothermal fluctuation
+    * Weak shock产生的绝热fluctuation只占了一小部分。
+    * support a model of gentle AGN feedback as opposed to periodically explosive scenarios
+    * 这些fluctuation的能量耗散足以平衡cooling
+    * 大尺度 (>100 kpc)的起伏都是并合引起的，对星系团外围重要；小尺度(< 1 kpc)的起伏来自等离子体的不稳定性；中等尺度的才trace AGN feedback这样的过程
