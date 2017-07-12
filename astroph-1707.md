@@ -286,7 +286,7 @@
     * 492个z~1的SF星系的运动学，大多数都是旋转主导的，但是dynamically hot，而且highly turbulent
     * 和SAMI比较，相同恒星质量上SF星系的气体速度弥散度随红移快速增加，速度弥散度和质量的关系本身不强。
     * 暂时不能区分速度弥散的增加是feedback导致的还是盘的不稳定性导致的
-    
+
 
 #### [A Multi-wavelength Study of the Turbulent Central Engine of the Low-mass AGN hosted by NGC404](https://arxiv.org/abs/1707.02303)
     * VLA+ALMA分解了中心射电源，看到了17pc展宽的结构
@@ -334,3 +334,61 @@
     * support a model of gentle AGN feedback as opposed to periodically explosive scenarios
     * 这些fluctuation的能量耗散足以平衡cooling
     * 大尺度 (>100 kpc)的起伏都是并合引起的，对星系团外围重要；小尺度(< 1 kpc)的起伏来自等离子体的不稳定性；中等尺度的才trace AGN feedback这样的过程
+
+
+----
+
+## July 12:
+
+#### [Dust Properties of CII Detected z ∼ 5.5 Galaxies: New HST/WFC3 Near-IR Observations](https://arxiv.org/abs/1707.02980)
+    * 10个星系，WFC3+ALMA+Keck光谱；看IRX-beta分布
+    * 分布和local starburst以及SMC类似，但是beta分布很宽，而且有些IRX value很低
+    * 和恒星混合在一起，均匀分布的尘埃模型解释不了
+    * 光谱显示主要是贫金属，年轻星族
+
+
+#### [NGC 741 - Mergers and AGN feedback on galaxy group scale](https://arxiv.org/abs/1707.02985)
+    * Chandra+XMM的观测在一个group里看到了各种射电结构
+    * old central radio galaxy and a spectacular infalling head-tail source, strongly-bent jets, a 100kpc radio trail, intriguing narrow X-ray filaments, and gas sloshing features.
+    * 包含了这个group的merging history，从别的星系strip gas，AGN feedback的信息
+
+
+#### [The SDSS-IV MaNGA Sample: Design, Optimization, and Usage Considerations](https://arxiv.org/abs/1707.02989)
+    * Primary (1.5 Re); Secondary (2.5 Re); Color Enhanced Supplement (for low density region on color-magnitude plane)
+
+
+#### [Quasar outflows at z≥6: the impact on the host galaxies](https://arxiv.org/abs/1707.03014)
+    * 数值模拟，比较AGN和只有stellar feedback的情况
+    * z=9-6之间按照Eddington吸积率吸积；红移6的时候从10^5Msun长到了4x10^9Msun
+    * QSO outflow能够降低inflow gas mass；减少高密度气体比例，产生高速的外流
+
+
+#### [Gas dynamics of a luminous z = 6.13 quasar ULAS J1319+0950 revealed by ALMA high resolution observations](https://arxiv.org/abs/1707.03078)
+    * 高分辨率的[CII] line 观测建立velocity map，用tilted ring模型测旋转曲线，估计3.2 kpc以内的动力学质量
+    * 黑洞质量占恒星质量的比例比local relation预测的高了四倍
+
+
+#### [VLBA 24 and 43 GHz observations of massive binary black hole candidate PKS 1155+251](https://arxiv.org/abs/1707.03121)
+    * 这个源的射点结构在parsec尺度上很复杂，有一个hot spot正在contraction
+    * 这篇文章用了更高分辨的观测，还是不能分辨双黑洞和Compact Symmetric Object模型
+
+#### [Morpho-z: improving photometric redshifts with galaxy morphology](https://arxiv.org/abs/1707.03169)
+    * 看在Machine learning算法测测光红移里面加入Size，Sersic index和面亮度的改进
+    * 同时有5个波段的时候改进不大；但是波段少的时候可以提供改进
+    * 完全没有颜色信息的时候依然可以重现photoz distribution
+    * 训练集里加入QSO红移有帮助
+
+
+#### [Galaxy evolution in merging clusters: The passive core of the "Train Wreck" cluster of galaxies, A520](https://arxiv.org/abs/1707.03208)
+    - **Relevant**
+    * 和非并合的星系团比，并合星系团中心的quenched星系的比例偏高
+
+
+#### [Quasar Microlensing Models with Constraints on the Quasar Light Curves](https://arxiv.org/abs/1707.02982)
+    * 用Damped Random Walk模型和考虑了微引力透镜影响的模型看一个lensed QSO的光变
+
+
+#### [The empirical dependence of the tidal disruption event rate on stellar surface mass density and velocity dispersion](https://arxiv.org/abs/1707.02986)
+    * 33个TDE hosts的中心恒星面密度和速度弥散度的分析，发现他们比平均的sample更dense
+    * Quiescent, post-starburst星系的确是过多了
+    * TDE rate that rely on dynamical relaxation of the stars around the SMBH.
