@@ -392,3 +392,76 @@
     * 33个TDE hosts的中心恒星面密度和速度弥散度的分析，发现他们比平均的sample更dense
     * Quiescent, post-starburst星系的确是过多了
     * TDE rate that rely on dynamical relaxation of the stars around the SMBH.
+
+
+
+----
+
+## July 13:
+
+#### [First results from the IllustrisTNG simulations: the galaxy color bimodality](https://arxiv.org/abs/1707.03395)
+    - **Relevant** Will study
+    * 13 < logMhalo < 15的4000个group里面在z<1的恒星成分
+    * 10^15 Msun的Halo中心0.1 R_vir以内的恒星质量一半是卫星，一半是Central+ICL
+    * Diffuse star多在100 kpc之外；slope可以和DM halo一样shallow
+
+
+#### [First results from the IllustrisTNG simulations: matter and galaxy clustering](https://arxiv.org/abs/1707.03397)
+    * We find that baryonic effects increase the clustering of dark matter on small scales and damp the total matter power spectrum
+    * We find that the clustering length of the galaxy auto-correlation function depends strongly on stellar mass and redshift.
+
+#### [First results from the IllustrisTNG simulations: A tale of two elements -- chemical evolution of magnesium and europium](https://arxiv.org/abs/1707.03401)
+    * To this end we use the magnesium to iron ratio as a proxy for the effects of our SNII and SNIa metal return prescription
+    * The europium to iron ratio tracks the rare ejecta from neutron star – neutron star mergers, the assumed primary site of europium production in our models
+    * 在银河系质量星系里面Eu丰度和形成历史和主要星系性质没有相关
+    * 在低金属丰度端，[Eu/Fe]的spread可以重现，而且和z=2-4形成的时候的气体性质有关
+
+
+#### [The SAMI Galaxy Survey: Revising the Fraction of Slow Rotators in IFS Galaxy Surveys](https://arxiv.org/abs/1707.03402)
+    - **Relevant**
+    * 用SAMI样本，认为可以对V/sigma和lambda_R进行孔径改正；给出了随半径的2nd Polynomial的经验公式
+    * Seeing差的时候，中心很陡的V/sigma轮廓会受到很强的bias
+    * 其他结论都很平常，slow rotator比例随质量增加之类的
+
+
+#### [Dissecting Galaxies: Separating Star Formation, Shock Excitation and AGN Activity in the Central Region of NGC 613](https://arxiv.org/abs/1707.03404)
+    * S7 IFU巡天，把3x3 kpc中心区域的不同辐射贡献分开
+    * SF trace B波段连续流量；AGN和jet区域的bi-cone重合
+    * Shock主导的区域和H2以及[FeII]发射区域重合；也恰好是在AGN辐射区的边缘，可能是外流产生的
+
+
+#### [First results from the IllustrisTNG simulations: the stellar mass content of groups and clusters of galaxies](https://arxiv.org/abs/1707.03406)
+    - **Relevant** Will study carefully
+    * we demonstrate that the primary driver of galaxy color transition in the TNG model is supermassive blackhole feedback in its low-accretion state.
+    * a median color transition timescale在1.6 Gyr左右
+    * at fixed stellar mass, the color of a galaxy correlates with its SFR, age, metallicity, and gas fraction, as well as the magnetic properties of both its interstellar medium and extended gaseous halo.
+    * logMs>11.0的大质量星系在进入red sequence后平均增长25%的质量；18%的这些星系有一半质量是在red-sequence上来的。
+
+
+#### [Galaxy Properties from Narrow-band Photometry](https://arxiv.org/abs/1707.03461)
+    * J-PAS的人，argue窄带测光SED fitting有的时候可以比光谱拟合更精确
+
+#### [Black Hole Growth in Disk Galaxies Mediated by the Secular Evolution of Short Bars](https://arxiv.org/abs/1707.03537)
+    - 杜敏的文章
+    * 模拟看小尺度上的short bar能够维持多久，支持多大的黑洞
+    * 当黑洞质量长到0.05-0.2%的星系质量的时候，短棒会消解
+    * 可以解释为什么有pseudo-bulge的星系里面的黑洞和星系的质量比例低
+
+
+#### [The Carnegie-Irvine Galaxy Survey. V. Statistical study of bars and buckled bars](https://arxiv.org/abs/1707.03570)
+    - **Relevant**; 兆聿的文章
+    * buckled bar reveals itself as either a boxy/peanut-shaped bulge (at high i) or as a barlens structure (at low i)
+    * bar比例在低质量，高气体比例的晚型盘星系里面高
+    * buckled bar的比例在大质量早型盘星系里面比例高，和气体比例也有反相关
+    * 在大质量星系里，引力不稳定性弱，棒难形成，但是一旦形成很快就会buckle
+
+
+#### [H-ATLAS/GAMA: Magnification Bias Tomography. Astrophysical constraints above ∼1 arcmi](https://arxiv.org/abs/1707.03709)
+    * GAMA前景星系和背景H-Atlas巡天高红移星系的cross-correlation.
+    * Minimum halo mass to host a central galaxy有随红移的演化
+    * magnification bias: 前景星系的透镜放大效应会增加高红移星系被探测到的可能性
+
+
+#### [First results from the IllustrisTNG simulations: radio haloes and magnetic fields](https://arxiv.org/abs/1707.03396)
+    * 磁场和星系形成过程联系在一起；ETGs里面是irregular field；Disk星系里面多有大尺度，有秩序的磁场构型
+    * 预测各种射电观测，基本上radio halo的探测率和virial质量有关
