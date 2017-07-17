@@ -394,7 +394,6 @@
     * TDE rate that rely on dynamical relaxation of the stars around the SMBH.
 
 
-
 ----
 
 ## July 13:
@@ -465,3 +464,48 @@
 #### [First results from the IllustrisTNG simulations: radio haloes and magnetic fields](https://arxiv.org/abs/1707.03396)
     * 磁场和星系形成过程联系在一起；ETGs里面是irregular field；Disk星系里面多有大尺度，有秩序的磁场构型
     * 预测各种射电观测，基本上radio halo的探测率和virial质量有关
+
+
+
+----
+
+## July 14:
+
+#### [Active Galactic Nuclei outflows in galaxy discs](https://arxiv.org/abs/1707.03826)
+
+
+#### [Black Holes on FIRE: Stellar Feedback Limits Early Feeding of Galactic Nuclei](https://arxiv.org/abs/1707.03832)
+
+
+#### [The SAMI Galaxy Survey: Disk-halo interactions in radio-selected star-forming galaxies](https://arxiv.org/abs/1707.03879)
+
+
+#### [Flux sensitivity requirements for the detection of Lyman continuum radiation from star-forming galaxies below redshifts of 3](https://arxiv.org/abs/1707.03880)
+
+
+#### [Buried AGNs in Advanced Mergers:Mid-infrared color selection as a dual AGN finder](https://arxiv.org/abs/1707.03921)
+
+
+#### [Updating the (Supermassive Black Hole Mass) - (Spiral Arm Pitch Angle) Relation: A Strong Correlation for Galaxies with Pseudobulges](https://arxiv.org/abs/1707.04001)
+
+
+#### [A strong negative correlation between radio loudness RUV and optical-to-X-ray spectral index αox in low-luminosity AGNs](https://arxiv.org/abs/1707.03951)
+
+
+----
+
+## July 17:
+
+#### [The impact of chemistry on the structure of high-z galaxies](https://arxiv.org/abs/1707.04259)
+
+
+#### [The optimally-sampled galaxy-wide stellar initial mass function - Observational tests and the publicly available GalIMF code](https://arxiv.org/abs/1707.04260)
+
+
+#### [Two channels of supermassive black hole growth as seen on the galaxies mass-size plane](https://arxiv.org/abs/1707.04274)
+
+
+#### [ALMA Maps of Dust and Warm Dense Gas Emission in the Starburst Galaxy IC 5179](https://arxiv.org/abs/1707.04363)
+
+
+#### [The Origins of CII Emission in Local Star-forming Galaxies](https://arxiv.org/abs/1707.04435)
