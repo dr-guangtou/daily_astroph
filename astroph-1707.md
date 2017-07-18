@@ -509,3 +509,38 @@
 
 
 #### [The Origins of CII Emission in Local Star-forming Galaxies](https://arxiv.org/abs/1707.04435)
+
+
+----
+
+## July 18:
+
+#### [The Discovery of a Gravitationally Lensed Supernova Ia at Redshift 2.22](https://arxiv.org/abs/1707.04606)
+    -- **Interesting**
+
+
+#### [Measuring the X-shaped structures in edge-on galaxies](https://arxiv.org/abs/1707.04700)
+
+
+#### [HIFI Spectroscopy of H2O submm Lines in Nuclei of Actively Star Forming Galaxies](https://arxiv.org/abs/1707.04914)
+
+
+#### [The Dependence of Halo Mass on Galaxy Size at Fixed Stellar Mass Using Weak Lensing](https://arxiv.org/abs/1707.04924)
+    - **Relevant**
+
+
+#### [Size distribution of galaxies in SDSS DR7](https://arxiv.org/abs/1707.04979)
+
+
+#### [CALIFA reveals Prolate Rotation in Massive Early-type Galaxies: A Polar Galaxy Merger Origin?](https://arxiv.org/abs/1707.05130)
+    - **Relevant**
+
+
+#### [Molecular gas in three z~7 quasar host galaxies](https://arxiv.org/abs/1707.05247)
+
+
+#### [The PyCASSO database: Spatially resolved stellar population properties for CALIFA galaxies](https://arxiv.org/abs/1707.05293)
+    - **Relevant**
+
+
+#### [Chasing obscuration in type-I AGN: discovery of an eclipsing clumpy wind at the outer broad-line region of NGC 3783](https://arxiv.org/abs/1707.04671)
