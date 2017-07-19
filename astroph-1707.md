@@ -544,3 +544,53 @@
 
 
 #### [Chasing obscuration in type-I AGN: discovery of an eclipsing clumpy wind at the outer broad-line region of NGC 3783](https://arxiv.org/abs/1707.04671)
+
+
+----
+
+## July 19:
+
+#### [AGN and their host galaxies in the local Universe: two mass independent Eddington ratio distribution functions characterize black hole growth](https://arxiv.org/abs/1707.05323)
+
+
+#### [The spatially resolved star formation history of mergers: A comparative study of the LIRGs IC1623, NGC6090, NGC2623, and Mice](https://arxiv.org/abs/1707.05324)
+
+
+#### [The Size Evolution of Star-forming and Quenched Galaxies in the IllustrisTNG simulation](https://arxiv.org/abs/1707.05327)
+    - **Relevant**
+
+
+#### [Low-redshift analogs of submm galaxies: a diverse population](https://arxiv.org/abs/1707.05329)
+
+
+#### [The MOSDEF Survey: First Measurement of Nebular Oxygen Abundance at z>4](https://arxiv.org/abs/1707.05331)
+
+
+#### [The mean star formation rates of unobscured QSOs: searching for evidence of suppressed or enhanced star formation](https://arxiv.org/abs/1707.05334)
+
+
+#### [JVLA 1.5GHz continuum observation of CLASH clusters I: radio properties of the BCGs](https://arxiv.org/abs/1707.05336)
+
+
+#### [Molecular Line Emission as a Tool for Galaxy Observations (LEGO). I. HCN as a tracer of moderate gas densities in molecular clouds and galaxies](https://arxiv.org/abs/1707.05352)
+
+
+#### [Ionized Gas Kinematics around an Ultra-luminous X-ray Source in NGC 5252 : Additional Evidence for an Off-nuclear AGN](https://arxiv.org/abs/1707.05402)
+
+
+#### [Identifying Tools for Comparing Simulations and Observations of Spectral-line Data Cubes](https://arxiv.org/abs/1707.05415)
+
+
+#### [Polarization of the changing-look quasar J1011+5442](https://arxiv.org/abs/1707.05540)
+
+
+#### [Blind millimeter line emitter search using ALMA data toward gravitational lensing clusters](https://arxiv.org/abs/1707.05547)
+
+
+#### [Integral-field kinematics and stellar populations of early-type galaxies out to three half-light radii](https://arxiv.org/abs/1707.05735)
+
+
+#### [The uniformity and time-invariance of the intra-cluster metal distribution in galaxy clusters from the IllustrisTNG simulations](https://arxiv.org/abs/1707.05318)
+
+
+#### [Tracing the accretion history of supermassive Black Holes through X-ray variability: results from the Chandra Deep Field-South](https://arxiv.org/abs/1707.05332)
