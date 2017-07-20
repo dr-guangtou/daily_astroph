@@ -594,3 +594,28 @@
 
 
 #### [Tracing the accretion history of supermassive Black Holes through X-ray variability: results from the Chandra Deep Field-South](https://arxiv.org/abs/1707.05332)
+
+
+----
+
+## July 20:
+
+#### [Andromeda's Parachute: A Bright Quadruply Lensed Quasar at z=2.377](https://arxiv.org/abs/1707.05873)
+
+
+#### [Universal Scaling Relations in Scale-Free Structure Formation](https://arxiv.org/abs/1707.05799)
+
+
+#### [Outflow kinematics manifested by the H-alpha line: gas outflows in Type 2 AGNs. IV](https://arxiv.org/abs/1707.05895)
+
+
+#### [Swift J164449.3+573451 and Swift J2058.4+0516: Black hole mass estimates for tidal disruption event sources](https://arxiv.org/abs/1707.05898)
+
+
+#### [COS-Burst: Observations of the Impact of Starburst-Driven Winds on the Properties of the Circum-Galactic Medium](https://arxiv.org/abs/1707.05933)
+
+
+#### [Tests of star formation metrics in the low metallicity galaxy NGC 5253 using ALMA observations of H30α line emission](https://arxiv.org/abs/1707.06184)
+
+
+#### [Recoiling Supermassive Black Hole Escape Velocities from Dark Matter Halos](https://arxiv.org/abs/1707.06220)
