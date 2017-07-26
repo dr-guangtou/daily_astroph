@@ -619,3 +619,61 @@
 
 
 #### [Recoiling Supermassive Black Hole Escape Velocities from Dark Matter Halos](https://arxiv.org/abs/1707.06220)
+
+
+----
+
+## July 25:
+
+#### [Witnessing galaxy assembly in an extended z~3 structure7](https://arxiv.org/abs/1707.07003)
+
+
+#### [Gas Content and Kinematics in Clumpy, Turbulent Star-forming Disks](https://arxiv.org/abs/1707.07005)
+
+
+#### [How To Model Supernovae in Simulations of Star and Galaxy Formation](https://arxiv.org/abs/1707.07010)
+
+
+#### [Optical/Near-IR spatially resolved study of the H II galaxy Tol 02](https://arxiv.org/abs/1707.07025)
+
+
+#### [Star Formation of Merging Disk Galaxies with AGN Feedback Effects](https://arxiv.org/abs/1707.07382)
+
+
+#### [The faint radio sky: VLBA observations of the COSMOS field](https://arxiv.org/abs/1707.07512)
+
+
+#### [Shocks and cold fronts in merging galaxy clusters: new detections with Chandra](https://arxiv.org/abs/1707.07038)
+    - 利用新技术在Chandra图像里面找到的 6 shocks, 8 cold fronts and 8 with uncertain origin
+    - 使用Gaussian gradient magnitude (GGM) filter进行edge detection
+
+
+----
+
+## July 26:
+
+#### [Flux-ratio anomalies from discs and other baryonic structures in the Illustris simulation](https://arxiv.org/abs/1707.07680)
+
+
+#### [The reverberation signatures of rotating disc winds in active galactic nuclei](https://arxiv.org/abs/1707.07687)
+
+
+#### [ELDAR, a new method to identify AGN in multi-filter surveys: the ALHAMBRA test-case](https://arxiv.org/abs/1707.07690)
+
+
+#### [The Second Data Release of the KODIAQ Survey](https://arxiv.org/abs/1707.07905)
+
+
+#### [Galaxy And Mass Assembly (GAMA): The mechanisms for quiescent galaxy formation at z<1](https://arxiv.org/abs/1707.07989)
+    - **Relevant**
+
+
+#### [The ALHAMBRA survey: 2-D analysis of the stellar populations in massive early-type galaxies at z < 0.3](https://arxiv.org/abs/1707.07991)
+    - **Relevant**
+
+
+#### [Origin of low surface brightness galaxies: A dynamical study](https://arxiv.org/abs/1707.08085)
+    - **Relevant**
+
+
+#### [The correlation between radio power and Mach number for radio relics in galaxy clusters](https://arxiv.org/abs/1707.07677)
