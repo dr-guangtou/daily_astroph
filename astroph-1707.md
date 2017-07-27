@@ -677,3 +677,26 @@
 
 
 #### [The correlation between radio power and Mach number for radio relics in galaxy clusters](https://arxiv.org/abs/1707.07677)
+
+
+----
+
+## July 27:
+
+#### [Detection of Extraplanar Diffuse Ionized Gas in M83](https://arxiv.org/abs/1707.08126)
+
+
+#### [ALMA Observations of Circumnuclear Disks in Early Type Galaxies: 12CO(2-1) and Continuum Properties](https://arxiv.org/abs/1707.08126)
+
+
+#### [Very Large Array multi-band monitoring observations of M 31*](https://arxiv.org/abs/1707.08317)
+
+
+#### [The optical vs. mid-infrared spectral properties of 82 Type 1 AGNs: coevolution of AGN and starburst](https://arxiv.org/abs/1707.08395)
+
+
+#### [The SAMI Galaxy Survey: Data Release One with Emission-line Physics Value-Added Products](https://arxiv.org/abs/1707.08402)
+    - **Relevant, Important**
+
+
+#### [BAT AGN Spectroscopic Survey I: Spectral Measurements, Derived Quantities, and AGN Demographics](https://arxiv.org/abs/1707.08123)
