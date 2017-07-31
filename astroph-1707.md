@@ -700,3 +700,39 @@
 
 
 #### [BAT AGN Spectroscopic Survey I: Spectral Measurements, Derived Quantities, and AGN Demographics](https://arxiv.org/abs/1707.08123)
+
+
+----
+
+## July 28:
+
+#### [Active Galactic Nuclei with a Low-Metallicity Narrow-Line Region](https://arxiv.org/abs/1707.08731)
+
+
+#### [Observational Evidence For Constant Gas Accretion Rate Since z = 5](https://arxiv.org/abs/1707.08877)
+    * propose a novel method of measuring cosmic gas accretion rate: comparing the comoving densities of available Hi and H2 gas and the densities of existing stars at different redshifts
+    * Gas accretion rate density从z~5到现在基本都是差不多的
+    * 暗示宇宙恒星形成率的下降不完全是由气体吸积下降导致的
+
+
+----
+
+## July 30:
+
+#### [The most distant, luminous, dusty star-forming galaxies: redshifts from NOEMA and ALMA spectral scans](https://arxiv.org/abs/1707.08967)
+
+
+#### [ELUCID IV: Galaxy Quenching and its Relation to Halo Mass, Environment, and Assembly Bias](https://arxiv.org/abs/1707.09002)
+    - **Relevant**
+
+
+#### [An amplified dusty star-forming galaxy at z=6: unveiling an elusive population of galaxies](https://arxiv.org/abs/1707.09022)
+
+
+#### [Evolution of Galaxy Luminosity and Stellar-Mass Functions since z=1 with the Dark Energy Survey Science Verification Data](https://arxiv.org/abs/1707.09066)
+
+
+#### [Constraining the geometry and kinematics of the quasar broad emission line region using gravitational microlensing. I. Models and simulations](https://arxiv.org/abs/1707.09159)
+
+
+#### [A Relationship of Polycyclic Aromatic Hydrocarbon Features with Galaxy Merger in Star-forming Galaxies at z<0.2](https://arxiv.org/abs/1707.09358)
