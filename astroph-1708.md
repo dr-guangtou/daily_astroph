@@ -27,3 +27,41 @@
     - **Relevant**
     * 用CMB lensing给redMaPPer cluster做calibration
     * 结果与之前用速度弥散度，WL，和SZE得到的基本符合
+
+
+----
+
+## August 2:
+
+#### [Massive post-starburst galaxies at z > 1 are compact proto-spheroids](https://arxiv.org/abs/1708.00005)
+    - **Relevant**
+    * UDS里面的z>1的Post Starburst星系的Sersic index比SF星系还高，而且分布和old quiescent星系没差别；而且比较compact
+    * 形态转变可能发生在quenching之前或者过程中
+
+
+#### [Deep Imaging of the HCG 95 Field: I. Ultra-Diffuse Galaxies](https://arxiv.org/abs/1708.00013)
+    - **Relevant**; 郑宪忠组的工作
+    * HCG95附近5平方度的CNOSTg-和r-band巡天
+    * 50-60 UDG candidate；大部分有DECaLS z-band图像
+    * 也是看到了一些颜色很蓝的SF星系
+
+
+#### [Magellan/M2FS Spectroscopy of Galaxy Clusters: Stellar Population Model and Application to Abell 267](https://arxiv.org/abs/1708.00037)
+    * Magellan/M2FS spectrograph to survey the galactic populations and internal kinematics of galaxy clusters.
+    * 223 quiescent galaxies in Abell 267; Bayesian+SSP假设定运动学和星族
+
+
+#### [An extinction free AGN selection by 18-band SED fitting in mid-infrared in the AKARI NEP deep field](https://arxiv.org/abs/1708.00201)
+    * 多波段SED拟合选AGN，然后看之前color-color selection的问题
+    * Seyfert星系会被之前的方法忽略
+
+
+#### [The comoving mass density of MgII from z∼2 to 5.5](https://arxiv.org/abs/1708.00304)
+    * 用X-Shooter做的5.8<z<6.1的QSO前景的MgII吸收体巡天
+    * weak absorber的数量比从strong absorber按照exponential fit推出来的要多
+    * MgII absorber的typical host halo从高红移到现在应有显著演化
+
+
+#### [An Optically Faint Quasar Survey at z~5 in the CFHTLS Wide Field: Estimates of the Black Hole Masses and Eddington Ratios](https://arxiv.org/abs/1708.00314)
+    * 光学暗的高红移QSO的光谱观测，测了两个的黑洞质量和爱丁顿吸积率
+    * 这些QSO和高红移最亮的QSO不太一样，需要的z~6的seed mass不高10^3-10^5 Msun就够了
