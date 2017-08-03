@@ -65,3 +65,26 @@
 #### [An Optically Faint Quasar Survey at z~5 in the CFHTLS Wide Field: Estimates of the Black Hole Masses and Eddington Ratios](https://arxiv.org/abs/1708.00314)
     * 光学暗的高红移QSO的光谱观测，测了两个的黑洞质量和爱丁顿吸积率
     * 这些QSO和高红移最亮的QSO不太一样，需要的z~6的seed mass不高10^3-10^5 Msun就够了
+
+
+----
+
+## August 3:
+
+#### [Discovery of a Proto-cluster Associated with a Ly-α Blob Pair at z=2.3](https://arxiv.org/abs/1708.00447)
+
+
+#### [The WISSH Quasars Project III. X-ray properties of hyper-luminous quasars](https://arxiv.org/abs/1708.00452)
+
+
+#### [Spatially Resolved Patchy Lyman-α Emission Within the Central Kiloparsec of a Strongly Lensed Quasar Host Galaxy at z = 2.8](https://arxiv.org/abs/1708.00453)
+
+
+#### [The KMOS Cluster Survey (KCS) I: The fundamental plane and the formation ages of cluster galaxies at redshift 1.4<z<1.6](https://arxiv.org/abs/1708.00454)
+    - **Relevant**
+
+
+#### [The Cluster-EAGLE project: velocity bias and the velocity dispersion - mass relation of cluster galaxies](https://arxiv.org/abs/1708.00508)
+
+
+#### [Complex diffuse emission in the z=0.52 cluster PLCK~G004.5-19.5](https://arxiv.org/abs/1708.00789)
