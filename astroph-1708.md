@@ -72,19 +72,46 @@
 ## August 3:
 
 #### [Discovery of a Proto-cluster Associated with a Ly-α Blob Pair at z=2.3](https://arxiv.org/abs/1708.00447)
+    * 在已经有LAB探测的位置做窄带巡天，找到了更多的LAB和overdense的LAE，说明这个系统可以演化成质量非常大的星系团
+    * LAB主要位于外围，可能来自于刚刚infall的group
 
 
 #### [The WISSH Quasars Project III. X-ray properties of hyper-luminous quasars](https://arxiv.org/abs/1708.00452)
+    * WISE和SDSS挑选的QSO的X-ray，发现大多数都是Type-I而且绝大多数的2-10 KeV辐射没有什么遮挡
+    * 这些Hyper luminous的QSO的X-ray辐射和光学以及MIR的比值都偏低; 可能和高速度，高电离的AGN wind有关
 
 
 #### [Spatially Resolved Patchy Lyman-α Emission Within the Central Kiloparsec of a Strongly Lensed Quasar Host Galaxy at z = 2.8](https://arxiv.org/abs/1708.00453)
-
+    * 强引力透镜放大的QSO重构的像看到了QSO周围的延展LyAlpha发射
+    * 这些气体对QSO有遮挡，可以在QSO前方的吸收线的速度轮廓上看出来
 
 #### [The KMOS Cluster Survey (KCS) I: The fundamental plane and the formation ages of cluster galaxies at redshift 1.4<z<1.6](https://arxiv.org/abs/1708.00454)
     - **Relevant**
+    * B-band FP的zeropoint有显著演化，而且主要是来自星族的简单passive evolution；结构演化和运动学演化带来的贡献不到一半
+    * 更evolved的structure里面星族略年老 (hint)
 
 
 #### [The Cluster-EAGLE project: velocity bias and the velocity dispersion - mass relation of cluster galaxies](https://arxiv.org/abs/1708.00508)
-
+    * Velocity bias: 用星系代替暗物质trace cluster的速度弥散度带来的bias
+    * EAGLE模拟现实，按照恒星质量挑选星系，velocity bias影响很小，<5%
+    * bias和星系进入cluster的时间有关，时间越长，随着动力学摩擦变得越cold
 
 #### [Complex diffuse emission in the z=0.52 cluster PLCK~G004.5-19.5](https://arxiv.org/abs/1708.00789)
+    * X-ray disturbed的cluster里面发现了radio halo, radio relic，以及head-tail radio galaxies.
+
+
+----
+
+## August 3:
+
+#### [Galaxy Zoo: major galaxy mergers are not a significant quenching pathway](https://arxiv.org/abs/1708.00866)
+    * 用处在不同阶段的并合星系和CMD上不同颜色星系的SMF的比较看，Major merger能形成一条quenching通道，但不是最主要的
+    * Major merger rate随质量有上升
+
+
+#### [The MASSIVE Survey - VIII. Stellar Velocity Dispersion Profiles and Environmental Dependence of Early-Type Galaxies](https://arxiv.org/abs/1708.00870)
+    - **Relevant**
+    * 中心<5 kpc内的速度弥散度轮廓多数是negative的；外围到40 Kpc，一半是falling的，1/3是increasing的，剩下的是flat
+    * 轮廓和质量以及环境都有关系，大质量的大Halo的ETG几乎全都是flat或者increasing的profile
+    * 外围的速度弥散度轮廓没有看到BCG和卫星星系间的差异
+    * 上升的速度弥散度轮廓应该是总质量profile的变化占主导，不是简单的速度分布各项同性的变化。
