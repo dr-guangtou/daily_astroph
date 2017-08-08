@@ -115,3 +115,39 @@
     * 轮廓和质量以及环境都有关系，大质量的大Halo的ETG几乎全都是flat或者increasing的profile
     * 外围的速度弥散度轮廓没有看到BCG和卫星星系间的差异
     * 上升的速度弥散度轮廓应该是总质量profile的变化占主导，不是简单的速度分布各项同性的变化。
+
+
+----
+
+## August 5:
+
+#### [The Little Cub: Discovery of an Extremely Metal-Poor Star-Forming Galaxy in the Local Universe](https://arxiv.org/abs/1708.01260)
+
+
+#### [Molecular Gas and Star-Formation In Low Surface Brightness Galaxies](https://arxiv.org/abs/1708.01362)
+
+
+#### [Resolution of the apparent discrepancy between the number of massive subhaloes in Abell 2744 and ΛCDM](https://arxiv.org/abs/1708.01400)
+
+
+#### [A small-scale dynamo in feedback-dominated galaxies - III. Cosmological simulations](https://arxiv.org/abs/1708.01486)
+
+
+#### [A Multi-band Study of the remarkable Jet in Quasar 4C+19.44](https://arxiv.org/abs/1708.01500)
+
+
+----
+
+## August 6:
+
+
+#### [Search and modelling of remnant radio galaxies in the LOFAR Lockman Hole field](https://arxiv.org/abs/1708.01904)
+
+
+#### [The evolution of the star formation rate function in the EAGLE simulations: A comparison with UV, IR and Hα observations from z ~ 8 to z ~ 0](https://arxiv.org/abs/1708.01913)
+
+
+#### [A General Precipitation-Limited L_X-T-R Relation Among Early-Type Galaxies](https://arxiv.org/abs/1708.02189)
+
+
+#### [Discovery of a radio relic in the low mass, merging galaxy cluster PLCK G200.9-28.2](https://arxiv.org/abs/1708.01718)
