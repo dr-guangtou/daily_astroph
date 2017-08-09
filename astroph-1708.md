@@ -150,4 +150,21 @@
 #### [A General Precipitation-Limited L_X-T-R Relation Among Early-Type Galaxies](https://arxiv.org/abs/1708.02189)
 
 
-#### [Discovery of a radio relic in the low mass, merging galaxy cluster PLCK G200.9-28.2](https://arxiv.org/abs/1708.01718)
+#### [Discovery of a radio relic in the low mass, merging galaxy cluster PLCK G200.9-28.2](https://arxiv.org/abs/1708.02189)
+
+
+----
+
+## August 8:
+
+
+#### [NoSOCS in SDSS. VI. The Environmental Dependence of AGN in Clusters and Field in the Local Universe](https://arxiv.org/abs/1708.02242)
+
+
+#### [The Properties of Radio Galaxies and the Effect of Environment in Large Scale Structures at z∼1](https://arxiv.org/abs/1708.02251)
+
+
+#### [Extended Schmidt law holds for faint dwarf irregular galaxies](https://arxiv.org/abs/1708.02298)
+
+
+#### [The extended ROSAT-ESO Flux-Limited X-ray Galaxy Cluster Survey (REFLEX II) VII The Mass Function of Galaxy Clusters](https://arxiv.org/abs/1708.02449)
