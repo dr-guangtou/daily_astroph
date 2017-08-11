@@ -167,4 +167,68 @@
 #### [Extended Schmidt law holds for faint dwarf irregular galaxies](https://arxiv.org/abs/1708.02298)
 
 
+#### [The large-scale environment from cosmological simulations I: The baryonic cosmic web](https://arxiv.org/abs/1708.02302)
+
+
 #### [The extended ROSAT-ESO Flux-Limited X-ray Galaxy Cluster Survey (REFLEX II) VII The Mass Function of Galaxy Clusters](https://arxiv.org/abs/1708.02449)
+
+
+----
+
+## August 9:
+
+
+#### [A Widespread, Clumpy Starburst in the Isolated Ongoing Dwarf Galaxy Merger dm1647+21](https://arxiv.org/abs/1708.02587)
+
+
+#### [Panchromatic Hubble Andromeda Treasury. XIX. The Ancient Star Formation History of the M31 Disk](https://arxiv.org/abs/1708.02617)
+
+
+#### [Probing the Physics of Narrow Line Regions in Active Galaxies IV: Full data release of The Siding Spring Southern Seyfert Spectroscopic Snapshot Survey (S7)](https://arxiv.org/abs/1708.02683)
+
+
+#### [The dependence of the IR-radio correlation on the metallicity](https://arxiv.org/abs/1708.02687)
+
+
+#### [The Local Volume HI Survey: star formation properties](https://arxiv.org/abs/1708.02744)
+
+
+#### [The Pan-STARRS1 Medium-deep Survey: Star Formation Quenching in Group and Cluster Environments](https://arxiv.org/abs/1708.02850)
+
+
+#### [The NGC 454 system: anatomy of a mixed on-going merger](https://arxiv.org/abs/1708.02927)
+
+
+#### [X-Ray morphological analysis of the Planck ESZ clusters](https://arxiv.org/abs/1708.02590)
+
+
+#### [Discovery of an HI-rich Gas Reservoir in the Outskirts of SZ-effect Selected Clusters](https://arxiv.org/abs/1708.02600)
+
+
+----
+
+## August 10:
+
+
+#### [Dusty Cloud Acceleration by Radiation Pressure in Rapidly Star-Forming Galaxies](https://arxiv.org/abs/1708.02946)
+
+
+#### [A new gas cooling model for semi-analytical galaxy formation models](https://arxiv.org/abs/1708.02950)
+
+
+#### [The Evolutionary Sequence of Post-Starburst Galaxies](https://arxiv.org/abs/1708.03168)
+
+
+#### [What does Civλ1549 tell us about the physical driver of the Eigenvector Quasar Sequence?](https://arxiv.org/abs/1708.03187)
+
+
+#### [Statistical analysis of bound companions in the Coma cluster](https://arxiv.org/abs/1708.03202)
+
+
+#### [Gas inflows towards the nucleus of NGC1358](https://arxiv.org/abs/1708.03217)
+
+
+#### [Galaxies with prolate rotation in Illustris](https://arxiv.org/abs/1708.03311)
+
+
+#### [The XMM Cluster Outskirts Project (X-COP): Thermodynamic properties of the Intracluster Medium out to R200 in Abell 2319](https://arxiv.org/abs/1708.02954)
