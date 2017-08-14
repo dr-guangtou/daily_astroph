@@ -232,3 +232,33 @@
 
 
 #### [The XMM Cluster Outskirts Project (X-COP): Thermodynamic properties of the Intracluster Medium out to R200 in Abell 2319](https://arxiv.org/abs/1708.02954)
+
+
+----
+
+## August 13:
+
+
+#### [Massive quenched galaxies at z~0.7 retain large molecular gas reservoirs](https://arxiv.org/abs/1708.03337)
+    - **Important, Relevant**
+
+
+#### [The descendants of the first quasars in the BlueTides simulation](https://arxiv.org/abs/1708.03373)
+
+
+#### [Chandra Detection of Intra-cluster X-ray sources in Virgo](https://arxiv.org/abs/1708.03457)
+
+
+#### [The Complete Local Volume Groups Sample - I. Sample Selection and X-ray Properties of the High-Richness Subsample](https://arxiv.org/abs/1708.03555)
+
+
+#### [Morphological estimators on Sunyaev--Zel'dovich maps of MUSIC clusters of galaxies](https://arxiv.org/abs/1708.03325)
+
+
+#### [Weak-lensing calibration of a stellar mass-based mass proxy for redMaPPer and Voronoi Tessellation clusters in SDSS Stripe 82](https://arxiv.org/abs/1708.03329)
+
+
+#### [On Mass Concentrations & Magnitude Gaps of Galaxy Systems in the CS82 Survey](https://arxiv.org/abs/1708.03344)
+
+
+#### [VLA Radio Observations of the HST Frontier Fields Cluster Abell 2744: The Discovery of New Radio Relics](https://arxiv.org/abs/1708.03367)
