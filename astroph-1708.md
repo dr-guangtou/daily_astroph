@@ -262,3 +262,23 @@
 
 
 #### [VLA Radio Observations of the HST Frontier Fields Cluster Abell 2744: The Discovery of New Radio Relics](https://arxiv.org/abs/1708.03367)
+
+
+----
+
+## August 14:
+
+
+#### [Revealing the nebular properties and Wolf-Rayet population of IC10 with Gemini/GMOS](https://arxiv.org/abs/1708.03634)
+
+
+#### [Mystery solved: discovery of extended radio emission in the merging galaxy cluster Abell 2146](https://arxiv.org/abs/1708.03641)
+
+
+#### [Evolution of the accretion disk around the supermassive black hole of NGC 7213](https://arxiv.org/abs/1708.03727)
+
+
+#### [Quasar 2175 Å dust absorbers I: metallicity, depletion pattern, and kinematics](https://arxiv.org/abs/1708.04200)
+
+
+#### [HBT+: an improved code for finding subhalos and building merger trees in cosmological simulations](https://arxiv.org/abs/1708.03646)
