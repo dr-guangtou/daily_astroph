@@ -244,12 +244,17 @@
 
 
 #### [The descendants of the first quasars in the BlueTides simulation](https://arxiv.org/abs/1708.03373)
-
+    * 在BlueTides模拟里，高红移最大质量黑洞的Halo后裔并不是最大的, Halo mass分布也和小质量的SMBH的host halo分布差不多。
+    * 近邻宇宙最大Halo在高红移前身Halo里面的SMBH并不是最大的
 
 #### [Chandra Detection of Intra-cluster X-ray sources in Virgo](https://arxiv.org/abs/1708.03457)
+    - 李志远组的工作
+    * Virgo里面的X-ray点源数量有一些超出，可能是ICL里面的X-ray binary
 
 
 #### [The Complete Local Volume Groups Sample - I. Sample Selection and X-ray Properties of the High-Richness Subsample](https://arxiv.org/abs/1708.03555)
+    * 近邻宇宙里的完备样本的星系group的X-ray性质，cool core比例比以前预计低
+    * 以及还是有一些X-ray bright的星系群没有发现
 
 
 #### [Morphological estimators on Sunyaev--Zel'dovich maps of MUSIC clusters of galaxies](https://arxiv.org/abs/1708.03325)
@@ -262,6 +267,8 @@
 
 
 #### [VLA Radio Observations of the HST Frontier Fields Cluster Abell 2744: The Discovery of New Radio Relics](https://arxiv.org/abs/1708.03367)
+    * 结果如题；复习了一下radio halo和radio relic的基本知识
+
 
 
 ----
@@ -282,3 +289,20 @@
 
 
 #### [HBT+: an improved code for finding subhalos and building merger trees in cosmological simulations](https://arxiv.org/abs/1708.03646)
+
+
+----
+
+## August 15:
+
+
+#### [The total satellite population of the Milky Way](https://arxiv.org/abs/1708.04247)
+
+
+#### [Can the discrepancy between locally and globally derived neutral hydrogen mass functions be explained by a varying value of M*?](https://arxiv.org/abs/1708.04272)
+
+
+#### [Dark matter dynamics in Abell 3827: new data consistent with standard Cold Dark Matter](https://arxiv.org/abs/1708.04245)
+
+
+#### [OzDES multifibre spectroscopy for the Dark Energy Survey: Three year results and first data release](https://arxiv.org/abs/1708.04526)
