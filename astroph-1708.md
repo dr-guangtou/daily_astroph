@@ -306,3 +306,33 @@
 
 
 #### [OzDES multifibre spectroscopy for the Dark Energy Survey: Three year results and first data release](https://arxiv.org/abs/1708.04526)
+
+
+----
+
+## August 16:
+
+
+#### [Spatially resolved MaNGA observations of the host galaxy of superluminous supernova 2017egm](https://arxiv.org/abs/1708.04618)
+
+
+#### [Evidence of a Bottom-heavy Initial Mass Function in Massive Early-type Galaxies from Near-infrared Metal Lines](https://arxiv.org/abs/1708.04621)
+    - **Relevant**
+
+
+#### [Biases in metallicity measurements from global galaxy spectra: the effects of flux-weighting and diffuse ionized gas contamination](https://arxiv.org/abs/1708.04625)
+
+
+#### [Galaxy Zoo and SpArcFiRe: Constraints on spiral arm formation mechanisms from spiral arm number and pitch angles](https://arxiv.org/abs/1708.04628)
+
+
+#### [The puzzling interpretation of NIR indices: The case of NaI2.21](https://arxiv.org/abs/1708.04638)
+    - **Relevant**
+
+#### [The Nature of Deeply Buried Ultraluminous Infrared Galaxies: A Unified Model for Highly Obscured Dusty Galaxy Emission](https://arxiv.org/abs/1708.04709)
+
+
+#### [SIGAME simulations of the CII, OI and OIII line emission from star forming galaxies at z ~ 6](https://arxiv.org/abs/1708.04936)
+
+
+#### [The Chemical Evolution Carousel of Spiral Galaxies: Azimuthal Variations of Oxygen Abundance in NGC1365](https://arxiv.org/abs/1708.04966)
