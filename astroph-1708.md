@@ -283,6 +283,7 @@
 
 
 #### [Evolution of the accretion disk around the supermassive black hole of NGC 7213](https://arxiv.org/abs/1708.03727)
+    * Halpha轮廓里有一个长期变化，可以用吸积盘上的一个类似旋涡的结构来模拟
 
 
 #### [Quasar 2175 Å dust absorbers I: metallicity, depletion pattern, and kinematics](https://arxiv.org/abs/1708.04200)
@@ -314,25 +315,36 @@
 
 
 #### [Spatially resolved MaNGA observations of the host galaxy of superluminous supernova 2017egm](https://arxiv.org/abs/1708.04618)
+    * SLSN比一般的核坍缩超新星亮100倍左右；之前多在贫金属丰度的矮星系中发现。
+    * 这个SLSN超新星则是在旋涡星系的富金属丰度区域
 
 
 #### [Evidence of a Bottom-heavy Initial Mass Function in Massive Early-type Galaxies from Near-infrared Metal Lines](https://arxiv.org/abs/1708.04621)
     - **Relevant**
+    * 1.1-1.3 micron之间一批金属吸收线和sigma的关系，不是很清晰；作者认为KI和NaI和sigma有正相关，可以用bottom-heavy IMF解释
 
 
 #### [Biases in metallicity measurements from global galaxy spectra: the effects of flux-weighting and diffuse ionized gas contamination](https://arxiv.org/abs/1708.04625)
-
+    * 将星系看成是HII区和DIG的集合，考虑flux-weighting效应和DIG污染对气态丰度测量的影响。
 
 #### [Galaxy Zoo and SpArcFiRe: Constraints on spiral arm formation mechanisms from spiral arm number and pitch angles](https://arxiv.org/abs/1708.04628)
+    * SF和arm数量关系高于和螺距角的
+    * 核球比例越高，旋臂数量越少，越loose
 
 
 #### [The puzzling interpretation of NIR indices: The case of NaI2.21](https://arxiv.org/abs/1708.04638)
     - **Relevant**
+    * 和NaI 1.14 mircon的特征一样，都需要Na丰度比和IMF来解释观测
+    * [C/Fe]可能也和这个吸收特征相关
 
 #### [The Nature of Deeply Buried Ultraluminous Infrared Galaxies: A Unified Model for Highly Obscured Dusty Galaxy Emission](https://arxiv.org/abs/1708.04709)
-
+    * 用连续谱slope，PAH等值宽度，Si吸收强度诊断高度遮挡的ULIRGS
+    * AGN的贡献应该很高；有一个小的unobscured的区域就可以让ULIRGS看上去不是被遮挡的
 
 #### [SIGAME simulations of the CII, OI and OIII line emission from star forming galaxies at z ~ 6](https://arxiv.org/abs/1708.04936)
-
+    * 高红移SF星系里面[CII]很多都很暗或者没探测，模拟认为这是低金属丰度和低分子气体比例造成的。
+    * 模拟认为在高红移 [CII] 2/3来自弥散电离气体，1/3来自分子气体
 
 #### [The Chemical Evolution Carousel of Spiral Galaxies: Azimuthal Variations of Oxygen Abundance in NGC1365](https://arxiv.org/abs/1708.04966)
+    * Typoon观测棒旋星系，气态丰度除了负梯度之外，还有明显的角向变化
+    * 在inter-arm里面缓慢升高，可能是localized self-enrichment的作用；到了旋臂后，在downstream迅速下降；可能反映了旋臂上密度波压缩分子气体，SFR升高，SN率升高的效果
