@@ -348,3 +348,26 @@
 #### [The Chemical Evolution Carousel of Spiral Galaxies: Azimuthal Variations of Oxygen Abundance in NGC1365](https://arxiv.org/abs/1708.04966)
     * Typoon观测棒旋星系，气态丰度除了负梯度之外，还有明显的角向变化
     * 在inter-arm里面缓慢升高，可能是localized self-enrichment的作用；到了旋臂后，在downstream迅速下降；可能反映了旋臂上密度波压缩分子气体，SFR升高，SN率升高的效果
+
+
+----
+
+## August 17:
+
+
+#### [Accurate spectroscopic redshift of the multiply lensed quasar PSOJ0147 from the Pan-STARRS survey](https://arxiv.org/abs/1708.05131)
+
+
+#### [Quasar-Mode Feedback in Nearby Type 1 Quasars: Ubiquitous Kiloparsec-Scale Outflows and Correlations with Black Hole Properties](https://arxiv.org/abs/1708.05139)
+
+
+#### [A spectroscopic search for AGN activity in the reionization era](https://arxiv.org/abs/1708.05173)
+
+
+#### [A Magellan M2FS Spectroscopic Survey of Galaxies at 5.5<z<6.8: Program Overview and a Sample of the Brightest Lyman-alpha Emitters](https://arxiv.org/abs/1708.05249)
+
+
+#### [DustPedia: Multiwavelength Photometry and Imagery of 875 Nearby Galaxies in 42 Ultraviolet--Microwave Bands](https://arxiv.org/abs/1708.05335)
+
+
+#### [DustPedia: Multiwavelength Photometry and Imagery of 875 Nearby Galaxies in 42 Ultraviolet--Microwave Bands](https://arxiv.org/abs/1708.05335)
