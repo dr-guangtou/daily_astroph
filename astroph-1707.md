@@ -474,16 +474,20 @@
 #### [Active Galactic Nuclei outflows in galaxy discs](https://arxiv.org/abs/1707.03826)
 
 
-#### [Black Holes on FIRE: Stellar Feedback Limits Early Feeding of Galactic Nuclei](https://arxiv.org/abs/1707.03832)
+#### [Black Holes on FIRE: Stellar Feedback Limits Early Feeding of Galactic Nuclei](https://a      rxiv.org/abs/1707.03832)
+    * 如果在模拟里，黑洞吸积成长只和黑洞周围的气体有关，bursty SF会阻碍黑洞成长
 
 
 #### [The SAMI Galaxy Survey: Disk-halo interactions in radio-selected star-forming galaxies](https://arxiv.org/abs/1707.03879)
+    * 侧向星系里面看到发射线示踪的气体，和galactic wind有关；wind越明显，延展的射点连续辐射越强。
 
 
 #### [Flux sensitivity requirements for the detection of Lyman continuum radiation from star-forming galaxies below redshifts of 3](https://arxiv.org/abs/1707.03880)
 
 
 #### [Buried AGNs in Advanced Mergers:Mid-infrared color selection as a dual AGN finder](https://arxiv.org/abs/1707.03921)
+    * MIR color在并和星系里挑可能的buried AGN候选。
+    * 光学可能会miss一些single和dual AGN；而且并和晚期的AGN可能就是deeply buried的
 
 
 #### [Updating the (Supermassive Black Hole Mass) - (Spiral Arm Pitch Angle) Relation: A Strong Correlation for Galaxies with Pseudobulges](https://arxiv.org/abs/1707.04001)

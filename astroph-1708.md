@@ -277,10 +277,12 @@
 
 
 #### [Revealing the nebular properties and Wolf-Rayet population of IC10 with Gemini/GMOS](https://arxiv.org/abs/1708.03634)
+    * 并没有发现很多的WR stars
 
 
 #### [Mystery solved: discovery of extended radio emission in the merging galaxy cluster Abell 2146](https://arxiv.org/abs/1708.03641)
-
+    * VLA观测看到了radio halo和其他射电结构
+    * 这个radio halo的power很低，可能是刚刚形成
 
 #### [Evolution of the accretion disk around the supermassive black hole of NGC 7213](https://arxiv.org/abs/1708.03727)
     * Halpha轮廓里有一个长期变化，可以用吸积盘上的一个类似旋涡的结构来模拟
@@ -290,7 +292,8 @@
 
 
 #### [HBT+: an improved code for finding subhalos and building merger trees in cosmological simulations](https://arxiv.org/abs/1708.03646)
-
+    * 韩家信的工作；Halo finder的blending问题，如果依赖的是configuration或者phase space的clustering，在并和的时候，对于在粒子密度高的地方，subhalo就不容易被正确识别出来。
+    * HBT是用progenitor halo的particle list来做，对blending问题免疫
 
 ----
 
@@ -304,10 +307,12 @@
 
 
 #### [Dark matter dynamics in Abell 3827: new data consistent with standard Cold Dark Matter](https://arxiv.org/abs/1708.04245)
+    * 新的lensing模型显示没有中心DM的offset，DM分布也比较对称
 
 
 #### [OzDES multifibre spectroscopy for the Dark Energy Survey: Three year results and first data release](https://arxiv.org/abs/1708.04526)
-
+    * 第一次在MOS巡天中动态加入暂现源，确认了100多个SN
+    * 图7很有帮助；redshift成功率在per angstrom S/N > 2-3时很高
 
 ----
 
@@ -352,22 +357,12 @@
 
 ----
 
-## August 17:
+## August 21:
 
 
-#### [Accurate spectroscopic redshift of the multiply lensed quasar PSOJ0147 from the Pan-STARRS survey](https://arxiv.org/abs/1708.05131)
+#### [Triggering Active Galactic Nuclei in galaxy clusters](https://arxiv.org/abs/1708.05519)
 
 
-#### [Quasar-Mode Feedback in Nearby Type 1 Quasars: Ubiquitous Kiloparsec-Scale Outflows and Correlations with Black Hole Properties](https://arxiv.org/abs/1708.05139)
+#### [DES Science Portal: I - Computing Photometric Redshifts](https://arxiv.org/abs/1708.05643)
 
-
-#### [A spectroscopic search for AGN activity in the reionization era](https://arxiv.org/abs/1708.05173)
-
-
-#### [A Magellan M2FS Spectroscopic Survey of Galaxies at 5.5<z<6.8: Program Overview and a Sample of the Brightest Lyman-alpha Emitters](https://arxiv.org/abs/1708.05249)
-
-
-#### [DustPedia: Multiwavelength Photometry and Imagery of 875 Nearby Galaxies in 42 Ultraviolet--Microwave Bands](https://arxiv.org/abs/1708.05335)
-
-
-#### [DustPedia: Multiwavelength Photometry and Imagery of 875 Nearby Galaxies in 42 Ultraviolet--Microwave Bands](https://arxiv.org/abs/1708.05335)
+#### [DES Science Portal: II- Creating Science-Ready Catalogs](https://arxiv.org/abs/1708.05642)
