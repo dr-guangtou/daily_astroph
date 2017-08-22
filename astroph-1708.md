@@ -56,7 +56,7 @@
     * Seyfert星系会被之前的方法忽略
 
 
-#### [The comoving mass density of MgII from z∼2 to 5.5](https://arxiv.org/abs/1708.00304)
+#### [The comoving mass density of MgII from z=2 to 5.5](https://arxiv.org/abs/1708.00304)
     * 用X-Shooter做的5.8<z<6.1的QSO前景的MgII吸收体巡天
     * weak absorber的数量比从strong absorber按照exponential fit推出来的要多
     * MgII absorber的typical host halo从高红移到现在应有显著演化
@@ -365,4 +365,26 @@
 
 #### [DES Science Portal: I - Computing Photometric Redshifts](https://arxiv.org/abs/1708.05643)
 
+
 #### [DES Science Portal: II- Creating Science-Ready Catalogs](https://arxiv.org/abs/1708.05642)
+
+
+----
+
+## August 22:
+
+
+#### [The cosmic merger rate of stellar black hole binaries from the Illustris simulation](https://arxiv.org/abs/1708.05722)
+
+
+#### [An ALMA survey of submillimeter galaxies in the COSMOS field: Multiwavelength counterparts and redshift](https://arxiv.org/abs/1708.05748)
+
+
+#### [Haloes at the ragged edge: The importance of the splashback radius](https://arxiv.org/abs/1708.06181)
+    - **Relevant**
+
+
+#### [Galaxy cluster luminosities and colours, and their dependence on cluster mass and merger state](https://arxiv.org/abs/1708.05971)
+
+
+#### [Galaxy cluster luminosities and colours, and their dependence on cluster mass and merger state](https://arxiv.org/abs/1708.05971)
