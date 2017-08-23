@@ -403,9 +403,9 @@
 
 
 #### [Mahalo Deep Cluster Survey I. Accelerated and enhanced galaxy formation in the densest regions of a protocluster at z=2.5](https://arxiv.org/abs/1708.06369)
+    * At 97% confidence level, we find enhanced star formation across the star-forming main sequence of HAEs living in the most extreme ‘supergroup’
+    * the densest parts in the protocluster have had an accelerated formation of massive galaxies.
 
 
 #### [The Evolution of Bulge-Dominated Field Galaxies from z~1 to the Present](https://arxiv.org/abs/1708.06501)
-
-
-#### [The Evolution of Bulge-Dominated Field Galaxies from z~1 to the Present](https://arxiv.org/abs/1708.06501)
+    * 没说太多，就是z~0.8的passive field星系在一系列scaling relation上和cluster的星系没区别
