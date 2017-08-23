@@ -57,7 +57,7 @@
 
 
 #### [The comoving mass density of MgII from z=2 to 5.5](https://arxiv.org/abs/1708.00304)
-    * 用X-Shooter做的5.8<z<6.1的QSO前景的MgII吸收体巡天
+    * 用X-Shooter做的5.8-z-6.1的QSO前景的MgII吸收体巡天
     * weak absorber的数量比从strong absorber按照exponential fit推出来的要多
     * MgII absorber的typical host halo从高红移到现在应有显著演化
 
@@ -375,16 +375,37 @@
 
 
 #### [The cosmic merger rate of stellar black hole binaries from the Illustris simulation](https://arxiv.org/abs/1708.05722)
+    * 恒星级别的黑洞对的产生率和SFR相关，LIGO能观测的大多数都是贫金属星族的
 
 
 #### [An ALMA survey of submillimeter galaxies in the COSMOS field: Multiwavelength counterparts and redshift](https://arxiv.org/abs/1708.05748)
-
+    * 用ALMA 1.25高分辨观测定COSMOS里面SMG的红移；peak在2左右，而且越亮的SMG红移分布越偏高
 
 #### [Haloes at the ragged edge: The importance of the splashback radius](https://arxiv.org/abs/1708.06181)
+    * zoom-in simulation；在Virial附近有Halo c/a的变化，可能代表了Halo和filament速度场交接的地方，和splashback
+      radius有关
+
+
+#### [Galaxy cluster luminosities and colours, and their dependence on cluster mass and merger state](https://arxiv.org/abs/1708.05971)
     - **Relevant**
+    * 星系团内星系的总光度和DM Halo质量的相关很好，scatter也小
 
 
-#### [Galaxy cluster luminosities and colours, and their dependence on cluster mass and merger state](https://arxiv.org/abs/1708.05971)
+----
+
+## August 23:
 
 
-#### [Galaxy cluster luminosities and colours, and their dependence on cluster mass and merger state](https://arxiv.org/abs/1708.05971)
+#### [The Canada-France Imaging Survey: First results from the u-band component](https://arxiv.org/abs/1708.06356)
+
+
+#### [Morphological evidence for a past minor merger in the Seyfert galaxy NGC 1068](https://arxiv.org/abs/1708.06358)
+
+
+#### [Mahalo Deep Cluster Survey I. Accelerated and enhanced galaxy formation in the densest regions of a protocluster at z=2.5](https://arxiv.org/abs/1708.06369)
+
+
+#### [The Evolution of Bulge-Dominated Field Galaxies from z~1 to the Present](https://arxiv.org/abs/1708.06501)
+
+
+#### [The Evolution of Bulge-Dominated Field Galaxies from z~1 to the Present](https://arxiv.org/abs/1708.06501)
