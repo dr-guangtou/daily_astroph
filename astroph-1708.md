@@ -397,9 +397,11 @@
 
 
 #### [The Canada-France Imaging Survey: First results from the u-band component](https://arxiv.org/abs/1708.06356)
-
+    * CFHT-u: 10000 deg^2; CFHT-r: 5000 deg^2
+    * 主要是银河系科学
 
 #### [Morphological evidence for a past minor merger in the Seyfert galaxy NGC 1068](https://arxiv.org/abs/1708.06358)
+    * HSC观测在45 kpc以内找到了几个UDG类的天体；似乎还有类似loop和stream的结构
 
 
 #### [Mahalo Deep Cluster Survey I. Accelerated and enhanced galaxy formation in the densest regions of a protocluster at z=2.5](https://arxiv.org/abs/1708.06369)
@@ -409,3 +411,42 @@
 
 #### [The Evolution of Bulge-Dominated Field Galaxies from z~1 to the Present](https://arxiv.org/abs/1708.06501)
     * 没说太多，就是z~0.8的passive field星系在一系列scaling relation上和cluster的星系没区别
+
+
+----
+
+## August 23:
+
+
+#### [Do Low Surface Brightness galaxies host stellar bars?](https://arxiv.org/abs/1708.06768)
+    * LSB星系里面不容易host bar; 背后的相关可能是和Spin还有气体比例的
+
+
+#### [The SAMI Galaxy Survey: Global stellar populations on the size-mass plane](https://arxiv.org/abs/1708.06849)
+    - **Relevant**
+    * Mass-Size plane上连续的星族性质的变化
+    * that galaxies with high stellar surface mass density are older, more metal-rich and alpha-enhanced than less dense galaxies.
+    * 在Fixed的mass和size上讨论年龄和丰度与环境的相关
+
+
+#### [MUSE Illuminates Channels for Lyman Continuum Escape in the Halo of SBS 0335-52E](https://arxiv.org/abs/1708.07007)
+    * MUSE观测发现的延展的发射线气体Halo和filaments结构，可能来自feedback过程，而且是LyC逃逸的通道
+
+
+#### [Stellar Absorption Line Analysis of Local Star-Forming Galaxies: The Relation Between Stellar Mass, Metallicity, Dust Attenuation and Star Formation Rate](https://arxiv.org/abs/1708.07107)
+    * 重点是看continuum拟合得到的SFR和丰度能不能和电离气体得到的对应起来
+
+
+#### [NuSTAR Resolves the First Dual AGN above 10 keV in SWIFT J2028.5+2543](https://arxiv.org/abs/1708.06762)
+    * 一个Compton-thick AGN对的高能高分辨确认；光学上两个都不是AGN
+
+
+#### [Radio selection of the most distant galaxy clusters](https://arxiv.org/abs/1708.06910)
+    * most distant X-ray detected cluster known to date, Cl J1001 at zspec = 2.506, hosts a strong overdensity of radio sources.
+    * 通过射电巡天3GHz源的clustering找高红移星系团-->优点是可以找到正在形成中的cluster
+
+
+#### [Metallicity Fluctuation Statistics in the Interstellar Medium and Young Stars. I. Variance and Correlation](https://arxiv.org/abs/1708.06853)
+    - **Interesting**; Yuan-Sen Ting
+    * we introduce a first theoretical model, based on stochastically-forced diffusion, capable of predicting the multi-scale statistics of metal fields
+    * We derive the variance, correlation function, and power spectrum of the metal distribution from first principles, and determine how these quantities depend on elements' astrophysical origin sites and on the large-scale properties of galaxies.
