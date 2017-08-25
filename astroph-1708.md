@@ -415,7 +415,7 @@
 
 ----
 
-## August 23:
+## August 24:
 
 
 #### [Do Low Surface Brightness galaxies host stellar bars?](https://arxiv.org/abs/1708.06768)
@@ -450,3 +450,33 @@
     - **Interesting**; Yuan-Sen Ting
     * we introduce a first theoretical model, based on stochastically-forced diffusion, capable of predicting the multi-scale statistics of metal fields
     * We derive the variance, correlation function, and power spectrum of the metal distribution from first principles, and determine how these quantities depend on elements' astrophysical origin sites and on the large-scale properties of galaxies.
+
+
+----
+
+## August 25:
+
+#### [Dancing to ChaNGa: A Self-Consistent Prediction For Close SMBH Pair Formation Timescales Following Galaxy Mergers](https://arxiv.org/abs/1708.07126)
+    * We find that it is relatively rare for galaxy mergers to result in the formation of close SMBH pairs with sub-kpc separation and those that do form are often the result of Gyrs of orbital evolution following the galaxy merger.
+
+#### [The formation of UCDs and massive GCs: Quasar-like objects for testing for a variable stellar initial mass function (IMF)](https://arxiv.org/abs/1708.07127)
+    - **Interesting**
+    * 预测JWST观测现在的GC和UCD的前身，可以很好的区别bottom-heavy和top-heavy的IMF
+    * a metallicity- and density-dependent top-heavy IMF implies the most massive UCDs, at ages <100 Myr, to appear as objects with quasar-like luminosities with a 0.1-10% variability on a monthly time scale
+
+#### [Circumgalactic Oxygen Absorption and Feedback](https://arxiv.org/abs/1708.07140)
+    * 大致估计SF星系周围100kpc内的OVI气体质量，以及保持这些气体电离所需的能量，SN feedback不太够
+    * 和SMBH的联系？
+
+#### [Dwarf Galaxy Discoveries from the KMTNet Supernova Program I. The NGC 2784 Galaxy Group](https://arxiv.org/abs/1708.07326)
+    * 31个新的dwarf候选；KMNet打算观测15-20个group
+
+
+#### [XMM-Newton X-ray and HST weak gravitational lensing study of the extremely X-ray luminous galaxy cluster ClJ120958.9+495352 (z=0.902)](https://arxiv.org/abs/1708.07208)
+    * 在这个红移上已知X-ray最亮的cluster之一，并且已经产生了明显的cool core
+
+#### [What Do the Hitomi Observations Tell Us About the Turbulent Velocities in the Perseus Cluster? Probing the Velocity Field with Mock Observations](https://arxiv.org/abs/1708.07206)
+    * 结合模拟讨论Hitomi对Perseus的观测
+    * We find that sloshing motions can produce line shifts and widths similar to those measured by Hitomi in Perseus
+    * viscous效应展示的尺度比Hitomi PSF要小
+    * We also infer that if sloshing motions dominate the observed line-of-sight velocity gradient, Perseus must be observed from a line of sight which is at least somewhat inclined from the plane of these motions
