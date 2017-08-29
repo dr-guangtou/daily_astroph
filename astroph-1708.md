@@ -361,6 +361,9 @@
 
 
 #### [Triggering Active Galactic Nuclei in galaxy clusters](https://arxiv.org/abs/1708.05519)
+    - **Interesting**
+    * SAGE半解析模型，认为星系团里的RPS过程能trigger SF和AGN活动
+    * **和最近的Jellyfish的MUSE观测结果有联系**
 
 
 #### [DES Science Portal: I - Computing Photometric Redshifts](https://arxiv.org/abs/1708.05643)
@@ -480,3 +483,71 @@
     * We find that sloshing motions can produce line shifts and widths similar to those measured by Hitomi in Perseus
     * viscous效应展示的尺度比Hitomi PSF要小
     * We also infer that if sloshing motions dominate the observed line-of-sight velocity gradient, Perseus must be observed from a line of sight which is at least somewhat inclined from the plane of these motions
+
+
+----
+
+## August 28:
+
+#### [Galaxy wide radio induced feedback in a radio quiet quasar](https://arxiv.org/abs/1708.07530)
+    * Radio quiet系统，但是在几十Kpc外看到了AGN feedback的证据
+    * Radio jet能穿透ISM，进入CGM，并一路和气体相互作用
+
+
+#### [The Intrinsic Far-UV Spectrum of B1422+231](https://arxiv.org/abs/1708.07535)
+    * 连续谱和发射线成分中看到了differential microlensing magnification
+    * 能够得到intrinsic Lyα forest absorption spectrum，并看到了明显的 proximity effect
+        - Proximity region基本就代表了QSO的电离bubble的大小
+
+#### [A study of polycyclic aromatic nitrogen heterocycles (PANHs) in starburst-dominated galaxies: variations in the 6.2 μm emission profile](https://arxiv.org/abs/1708.07565)
+    * 很多星暴星系里面的6.2微米发射应该用PANH来解释
+        - 这个特征是在z~4的SMG里面有观测的 Riechers+2014
+
+#### [The host dark matter halos of OII emitters at 0.5 z 1.5](https://arxiv.org/abs/1708.07628)
+    * 用GALFORM模型看光谱巡天里挑选的OII发射星系的Halo性质
+    * 目前模型里给出的satellite OII emitter太少
+
+#### [Stellar Mass Function of Active and Quiescent Galaxies via the Continuity Equation](https://arxiv.org/abs/1708.07643)
+    * 用连续性方程描述SMF的演化
+        - 思路还是挺有意思的，这个连续性方程最早是用来看QSO的
+
+#### [The complementary roles of feedback and mergers in building the X-ray coronae of Milky Way-sized halos](https://arxiv.org/abs/1708.07820)
+    * 模拟结果：We show that a galactic corona is not a consequence of hot spherical accretion onto a galaxy but of mergers-induced shock heating and supernova feedback. Coronae grow inside-out and detach galaxies from the fila- mentary network as they outbalance the pressure of cold flows.
+    * 预测在高红移处不需要太大质量的Halo里面就有hot gas corona的存在
+    
+----
+
+## August 29:
+
+#### [Origin of chemically distinct discs in the Auriga cosmological simulations](https://arxiv.org/abs/1708.07834)
+    * 用高分辨模拟看怎样形成[alpha/Fe]-[Fe/H]的空间分布
+    * 高红移处强烈的high-Alpha/Fe恒星形成发生在星系内部，后续的SF更quiescent，更低alpha/Fe
+    * 或者是早期的high-Alpha/Fe恒星形成发生在星系外部，然后收缩，并re-exapansion
+        - alpha = (O + Mg + Si) / 3
+
+#### [Dissecting the active galactic nucleus in Circinus -- I. Peculiar mid-IR morphology explained by a dusty hollow cone](https://arxiv.org/abs/1708.07838)
+    * a compact dusty disk and a large-scale dusty cone shell, illuminated by a tilted accretion disk with an anisotropic emission pattern --> 用这个来解释VISIR观测到的40pc范围内的MIR dust辐射
+
+#### [Are high redshift Galaxies hot? - Temperature of z > 5 Galaxies and Implications on their Dust Properties](https://arxiv.org/abs/1708.07842)
+    - **Interesting**
+    * z > 5的星系的ISM因为金属丰度低，对UV辐射更透明；而且因为SFR高，UV辐射更强，所以FIR辐射的温度更warm
+    * SFR高的环境下，辐射压会让dust和SF区产生offset
+        - IRX-beta relation: total dust mass -- dust column density along the line of sight
+
+#### [Probing the kinematic morphology-density relation of early-type galaxies with MaNGA](https://arxiv.org/abs/1708.07843)
+    * We find no compelling evidence for a relationship between the angular momentum content of early-type galaxies and either local overdensity or radial position within the group at fixed stellar mass.
+
+#### [Detection of microgauss coherent magnetic fields in a galaxy five billion years ago](https://arxiv.org/abs/1708.07844)
+    * By exploiting the scenario where the polarized radio emission from a background source is gravitationally lensed by a foreground galaxy at z = 0.439 using broadband radio polarization data, we detected coherent μG magnetic fields in the lensing disk galaxy as seen 4.6 Gyrs ago
+    * 磁场强度和近邻星系类似了
+
+#### [MaNGA Uncovers the Angular Momentum Content of Central and Satellite Early-type Galaxies](https://arxiv.org/abs/1708.07845)
+    * confirm: slow-rotator fraction和质量关系很大
+    * 大质量的rotating星系性质上除了电离气体比例偏高并无特殊之处
+    * Satellite和Central也没有明显的差别
+
+#### [ALMA resolves the molecular gas in a young low-metallicity starburst galaxy at z=1.7](https://arxiv.org/abs/1708.07898)
+    * The intrinsic properties of RCSGA 032727–132609 show an enhanced star-formation activity compared to local spiral galaxies with similar molecular gas densities, supporting the ongoing merger-starburst phase scenario.
+
+#### [ALMA Multiple-Transition Molecular Line Observations of the Ultraluminous Infrared Galaxy IRAS 20551-4250: Different HCN, HCO+, HNC Excitation and Implications for Infrared Radiative Pumping](https://arxiv.org/abs/1708.08073)
+    * infrared radiative pumping plays a role in rotational excitation at v=0, at least for HCN and HNC
