@@ -217,18 +217,24 @@
 
 
 #### [The Evolutionary Sequence of Post-Starburst Galaxies](https://arxiv.org/abs/1708.03168)
-
+    - **Relevant** 和我之前做的事情很像
+    * 比较了Hdelta strong，[OII]弱的K+A星系里面，Halpha发射强和弱两类的演化联系
+    * Pure E+A主要在red sequence里面，而且形态更偏早型
 
 #### [What does Civλ1549 tell us about the physical driver of the Eigenvector Quasar Sequence?](https://arxiv.org/abs/1708.03187)
-
+    * Civ1549和Hbeta发射线起源不一样；1549和吸积率相关更高，和光度关系不大
 
 #### [Statistical analysis of bound companions in the Coma cluster](https://arxiv.org/abs/1708.03202)
-
+    * Coma外围有excess of late-type spirals，可能来自infall
 
 #### [Gas inflows towards the nucleus of NGC1358](https://arxiv.org/abs/1708.03217)
-
+    * 有内流和外流，还有可能来自AGN burst的ejecta；inflow rate比AGN需要的吸积率高得多
 
 #### [Galaxies with prolate rotation in Illustris](https://arxiv.org/abs/1708.03311)
+    - **Relevant, Important**
+    * Illustris里面59个明显的prolate rolating星系，质量越大比例越高
+    * Prolate和上一次并和活动明显相关，产生prolate的并和质量比比较高，轨道更radial一些；同时也让星系恒星成分看上去更prolate
+    * 半数的prolate rotator来自于gas-rich merger
 
 
 #### [The XMM Cluster Outskirts Project (X-COP): Thermodynamic properties of the Intracluster Medium out to R200 in Abell 2319](https://arxiv.org/abs/1708.02954)
@@ -241,7 +247,8 @@
 
 #### [Massive quenched galaxies at z~0.7 retain large molecular gas reservoirs](https://arxiv.org/abs/1708.03337)
     - **Important, Relevant**
-
+    * 大质量的K+A星系，里面还有相当的分子气体，说明Quenched并不代表分子气体被全部移除？
+        - 或者说明并没有真的quenched，有hidden SF或者后面还会继续进行SF
 
 #### [The descendants of the first quasars in the BlueTides simulation](https://arxiv.org/abs/1708.03373)
     * 在BlueTides模拟里，高红移最大质量黑洞的Halo后裔并不是最大的, Halo mass分布也和小质量的SMBH的host halo分布差不多。
@@ -258,10 +265,13 @@
 
 
 #### [Morphological estimators on Sunyaev--Zel'dovich maps of MUSIC clusters of galaxies](https://arxiv.org/abs/1708.03325)
-
+    * 用模拟测试不同的SZ map形态指示，来区分relaxed和disturbed clusters
+    * 开发了一个single 3-D estimator
 
 #### [Weak-lensing calibration of a stellar mass-based mass proxy for redMaPPer and Voronoi Tessellation clusters in SDSS Stripe 82](https://arxiv.org/abs/1708.03329)
-
+    - **Relevant, Important**
+    * 提出了一个新的指示星系团halo质量的参数，按照membership probability加权的星系团内成员星系总质量
+        - 可以学习一些简单的WL的基本知识。
 
 #### [On Mass Concentrations & Magnitude Gaps of Galaxy Systems in the CS82 Survey](https://arxiv.org/abs/1708.03344)
 
@@ -514,7 +524,7 @@
 #### [The complementary roles of feedback and mergers in building the X-ray coronae of Milky Way-sized halos](https://arxiv.org/abs/1708.07820)
     * 模拟结果：We show that a galactic corona is not a consequence of hot spherical accretion onto a galaxy but of mergers-induced shock heating and supernova feedback. Coronae grow inside-out and detach galaxies from the fila- mentary network as they outbalance the pressure of cold flows.
     * 预测在高红移处不需要太大质量的Halo里面就有hot gas corona的存在
-    
+
 ----
 
 ## August 29:
@@ -551,3 +561,45 @@
 
 #### [ALMA Multiple-Transition Molecular Line Observations of the Ultraluminous Infrared Galaxy IRAS 20551-4250: Different HCN, HCO+, HNC Excitation and Implications for Infrared Radiative Pumping](https://arxiv.org/abs/1708.08073)
     * infrared radiative pumping plays a role in rotational excitation at v=0, at least for HCN and HNC
+
+
+----
+
+## August 30:
+
+#### [Stellar Dynamics and Star-Formation Histories of z ∼ 1 Radio-loud Galaxies](https://arxiv.org/abs/1708.08461)
+    - **Interesting**
+    * z~1的radio AGN全部是在速度弥散度很高的早型星系里面，黑洞质量>10^8 Msun
+    * 在相同恒星质量上，z~1的radio loud AGN比例比低红移高得多
+
+#### [Structural and dynamical modeling of WINGS clusters. I. The distribution of cluster galaxies of different morphological classes within regular and irregular clusters](https://arxiv.org/abs/1708.08541)
+    * 在形态规则的星系团里，E和S0的分布比不规则星系团更像中心集中；Spiral的分布无差别
+
+#### [Emission Line Properties of Seyfert Galaxies in the 12 Micron Sample](https://arxiv.org/abs/1708.08563)
+    * Sy1和Sy2在NLR性质上和禁线光度函数上差别不大 (注意这里没有LINER)
+    * CIV线和[OIII]/Hbeta的相关比和UV光度大
+
+
+#### [Large turbulent reservoirs of cold molecular gas around high-redshift starburst galaxies](https://arxiv.org/abs/1708.08851)
+    * CH+只有在冷气体有supra-thermal energy input的情况下才能被激发，指示剧烈的dissipation或者非常强的紫外irradiation；只有在非常致密的气体里才出现
+    * 在z~2.5星暴星系里的hot galactic winds导致的dense shock wave里面发现
+    * 从CH+线的吸收上可以看到大量低密度，turbulent(通过吸收线宽)气体的存在
+
+
+#### [The BOSS Emission-Line Lens Survey V. Morphology and Substructure of Lensed Lyman-α Emitters at redshift z≈2.5 in the BELLS GALLERY](https://arxiv.org/abs/1708.08854)
+    * 利用透镜达到了很高的空间分辨率，发现这些LAE的clumpiness很高
+    * clump大小和近邻宇宙里最大的HII区差不多，350 kpc
+        - 拟合clump用的是EFF profile，用于HII区拟合 Elson+1987
+
+#### [Spatial Clustering of Dark Matter Halos: Secondary Bias, Neighbor Bias, and the Influence of Massive Neighbors on Halo Properties](https://arxiv.org/abs/1708.08451)
+    - **Relevant**
+    * 用LasDamas DM only simulation
+    * Neighbor bias (距离一个大质量近邻Halo的距离)可以解释很大一部分按照mass related parameters (age, concentration)选出来的Secondary bias.
+    * 剩下的Secondary bias可能需要用spin解释。
+
+#### [Buoyant AGN bubbles in the quasi-isothermal potential of NGC 1399](https://arxiv.org/abs/1708.08553)
+    * AGN outburst lifted的气体和冷却气体的总量差不多，AGN可以offset cooling
+    * cooling time比dynamical time长得多，所以可能看不到冷分子气体
+
+#### [Peering through the dust II: XMM−Newton observations of two additional FIRST-2MASS red quasar](https://arxiv.org/abs/1708.08914)
+    * 这些red QSO在X-ray没有特别Luminous，尘埃吸收主要发生在host galaxy里面，而不是核心周围
