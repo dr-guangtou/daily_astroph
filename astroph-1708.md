@@ -603,3 +603,43 @@
 
 #### [Peering through the dust II: XMM−Newton observations of two additional FIRST-2MASS red quasar](https://arxiv.org/abs/1708.08914)
     * 这些red QSO在X-ray没有特别Luminous，尘埃吸收主要发生在host galaxy里面，而不是核心周围
+
+----
+
+## August 31:
+
+#### [LOFAR discovery of an ultra-steep radio halo and giant head-tail radio galaxy in Abell 1132](https://arxiv.org/abs/1708.08928)
+
+
+#### [Close entrainment of massive molecular gas flows by radio bubbles in the central galaxy of Abell 1795](https://arxiv.org/abs/1708.08935)
+
+
+#### [A spatially resolved study of cold dust, molecular gas, HII regions, and stars in the z=2.12 submillimeter galaxy ALESS67.1](https://arxiv.org/abs/1708.08937)
+
+
+#### [Red Supergiants as Cosmic Abundance Probes: massive star clusters in M83, and the mass-metallicity relation of nearby galaxies](https://arxiv.org/abs/1708.08948)
+
+
+#### [GASP IV: A muse view of extreme ram-pressure stripping in the plane of the sky: the case of jellyfish galaxy JO204](https://arxiv.org/abs/1708.09035)
+
+
+#### [GASP VIII: Capturing the birth of a Tidal Dwarf Galaxy in an merging system at z∼0.05](https://arxiv.org/abs/1708.09037)
+
+
+#### [Morphological Segregation in the Surroundings of Cosmic Voids](https://arxiv.org/abs/1708.09045)
+
+
+#### [On the Structure of the AGN Torus through the Fraction of Optically-Selected Type 1 AGNs](https://arxiv.org/abs/1708.09110)
+
+
+#### [The role of molecular gas in galaxy transition in compact groups](https://arxiv.org/abs/1708.09159)
+
+
+#### [Strong suppression of star formation and spiral arm formation in disk galaxies with counter-rotating gas disks](https://arxiv.org/abs/1708.09232)
+
+
+#### [Determining the Nature of Late Gunn-Peterson Troughs with Galaxy Surveys](https://arxiv.org/abs/1708.08927)
+
+
+
+
