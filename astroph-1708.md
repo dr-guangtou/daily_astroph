@@ -609,37 +609,84 @@
 ## August 31:
 
 #### [LOFAR discovery of an ultra-steep radio halo and giant head-tail radio galaxy in Abell 1132](https://arxiv.org/abs/1708.08928)
+    * Ultra-steep spectrum radio halo
+        - turbulent re-acceleration模型可以预测一批 ultra-steep spectra halo
+        - hadronic模型解释得不好；宇宙线电子的动能分布是power-law的
+    * 含有一个超大的head-tail radio星系，可能给radio halo提供电子
 
 
 #### [Close entrainment of massive molecular gas flows by radio bubbles in the central galaxy of Abell 1795](https://arxiv.org/abs/1708.08935)
+    * 在一个AGN bubble的外壁看到的向内流的分子气体
+    * 总量很高，不太可能是被AGN feedback抬升出来的，而是AGN feedback导致的快速cooling
 
 
 #### [A spatially resolved study of cold dust, molecular gas, HII regions, and stars in the z=2.12 submillimeter galaxy ALESS67.1](https://arxiv.org/abs/1708.08937)
-
+    * 并合星系，看到了cold dust和气体贮藏在空间上的offset，可以解释这些高红移SMG在IRX-beta plane上位置和近邻SF星系的差别，不需要使用特殊的尘埃模型
+    * 中心和外围follow不一样的K-S law
 
 #### [Red Supergiants as Cosmic Abundance Probes: massive star clusters in M83, and the mass-metallicity relation of nearby galaxies](https://arxiv.org/abs/1708.08948)
+    * 用个别星团的红外光谱测丰度，得到的丰度和用其他方法估计的比较接近；丰度梯度在中心都比较平
 
 
 #### [GASP IV: A muse view of extreme ram-pressure stripping in the plane of the sky: the case of jellyfish galaxy JO204](https://arxiv.org/abs/1708.09035)
-
+    - **Interesting, MUSE**
+    * 一个个例分析，stripped的气体可以在30kpc被看到
+    * 气体由外向内剥离；恒星运动学依然是一个规则的盘; 盘外侧的恒星形成已经quenched
+    * 剥离的气体依然保持着盘的旋转速度，说明剥离非常有效，以及星系相对于IGM的速度高
 
 #### [GASP VIII: Capturing the birth of a Tidal Dwarf Galaxy in an merging system at z∼0.05](https://arxiv.org/abs/1708.09037)
+    * 看到了一个并合系统中，速度弥散度较高的区域，认为是一个正在形成中的tidal dwarf
 
 
 #### [Morphological Segregation in the Surroundings of Cosmic Voids](https://arxiv.org/abs/1708.09045)
+    * Voids里面更多的是晚型星系；而且这种形态的环境依赖还和Void的大小，以及在Void中的位置有关
 
 
 #### [On the Structure of the AGN Torus through the Fraction of Optically-Selected Type 1 AGNs](https://arxiv.org/abs/1708.09110)
-
+    * 在黑洞质量-Eddinton吸积率的2-D plane上，看Type-1的比例，并用clumpy torus模型提供解释
+    * 比例不受Eddington的测量方法影响，但和黑洞如何测量有关
 
 #### [The role of molecular gas in galaxy transition in compact groups](https://arxiv.org/abs/1708.09159)
 
 
 #### [Strong suppression of star formation and spiral arm formation in disk galaxies with counter-rotating gas disks](https://arxiv.org/abs/1708.09232)
+    * 模拟里面认为，盘星系里面如果有counter-rotating气体，可以有效的降低Spiral arm压缩气体的效率，起到抑制恒星形成的作用.
 
 
-#### [Determining the Nature of Late Gunn-Peterson Troughs with Galaxy Surveys](https://arxiv.org/abs/1708.08927)
+#### [Determining the Nature of Late Gunn-Peterson Troughs with Galaxy Surveys](https://arxiv.org/a     bs/1708.08927)
+    - **Interesting**
+    * 在稍低的红移处看到的G-P trough可以用于区分两种不同的再电离的情形
 
 
+----
+
+## September 1:
+
+#### [The limited role of galaxy mergers in driving stellar mass growth over cosmic time](https://arxiv.org/abs/1708.09396)
+    - **Important**
+    * Horion-AGN看并合的作用；Major和Minor merger对SF的增强都差不多
+    * 在宇宙尺度上看，并合对于恒星质量增加的作用不是特别大 (25%)
+    * 强调了smooth accretion的作用 .... (文章里讨论到了很低的恒星质量)
+
+#### [Probing star formation and feedback in dwarf galaxies. Integral field view of the blue compact galaxy Tololo 1937-423](https://arxiv.org/abs/1708.09407)
+    * 关于一个BCD的IFU细节；看到了两个阶段的SF，看到了星系外围的激波影响的区域
+
+#### [GOLDRUSH. III. A Systematic Search of Protoclusters at z∼4 Based on the >100deg2 Area](https://arxiv.org/abs/1708.09421)
+    - **HSC**
+    * g-dropout的overdensity来找z~3.8的protocluster
+    * 这些overdensity本身的相关尺度是35Mpc，按照模拟预测和近邻大质量星系团的前身相似
 
 
+#### [HI Kinematics, Mass Distribution, and Star Formation Threshold in NGC 6822, using the SKA pathfinder KAT-7](https://arxiv.org/abs/1708.09447)
+    * HI运动学到6kpc，全部都是DM主导的
+    * 用HI和Halpha看，cloud-growth criterion比Toomre-Q更好判断SF状态
+        - 这是一个不规则星系，cloud-growth criterion是考虑了local shear rate的
+
+#### [Outflows of hot molecular gas in ultra-luminous infra-red galaxies mapped with VLT-SINFONI](https://arxiv.org/abs/1708.09503)
+    * 用H2 2.12 microns示踪的热分子气体外流
+    * 假设热分子气体和冷分子气体比例是6x10^-5; 整体分子气体外流速率还是比SFR低不少
+    * 这些外流速度大多数没有达到系统的逃逸速度
+
+#### [A universal correlation between star-formation activity and molecular gas properties across environments](https://arxiv.org/abs/1708.09672)
+    * H2比例和SF效率都和距离SFR的main sequence的offset相关
+    * 但是这种相关是和环境关系不大的
