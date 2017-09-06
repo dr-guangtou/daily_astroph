@@ -653,7 +653,7 @@
     * 模拟里面认为，盘星系里面如果有counter-rotating气体，可以有效的降低Spiral arm压缩气体的效率，起到抑制恒星形成的作用.
 
 
-#### [Determining the Nature of Late Gunn-Peterson Troughs with Galaxy Surveys](https://arxiv.org/a     bs/1708.08927)
+#### [Determining the Nature of Late Gunn-Peterson Troughs with Galaxy Surveys](https://arxiv.org/abs/1708.08927)
     - **Interesting**
     * 在稍低的红移处看到的G-P trough可以用于区分两种不同的再电离的情形
 
