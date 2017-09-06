@@ -57,7 +57,7 @@
 
 ----
 
-## September 2:
+## September 5:
 
 #### [The spatially resolved star formation history of CALIFA galaxies: Cosmic time scales](https://arxiv.org/abs/1709.00413)
     * mass assembly curve; half mass and half light radius ratio; mass weighted age gradient，用这几个看assembly history
@@ -140,3 +140,21 @@
 #### [How does the cosmic web impact assembly bias?](https://arxiv.org/abs/1709.00834)
     * Halo assembly bias受到其在cosmic web中的位置的影响，主要来自于cosmic web tides引起的mass accretion history的影响。
     * 不能光用shear strength，要用shear tensor，和halo相对于大尺度filament的角度也有关系
+
+
+----
+
+## September 6:
+
+#### [The Hawaii SCUBA-2 Lensing Cluster Survey: Are Low-luminosity Submillimeter Galaxies Detected in the Rest-frame UV?](https://arxiv.org/abs/1709.01238)
+    * Intrinsically faint的SCUBA 850 micron的object，high-z, highly obscured objects
+    * S_870 v.s. S_Ks / S_870 基本趋势是submm越亮，比值越低，但是对于这些intrinsic faint的submm天体，比值似乎是bimodel的
+
+#### [Age bimodality in the central region of pseudobulges in S0 galaxies](https://arxiv.org/abs/1709.01283)
+    * 就是说S0里面pseudobulge的年龄是bimodel分布的，无聊。。。
+
+
+#### [Implications for the missing low-mass galaxies (satellites) problem from cosmic shear](https://arxiv.org/abs/1709.01276)
+    * 从小尺度物质功率谱间接推断small halo的abundance
+    * 用CFHTLS cosmic shear数据derive non-linear power spectrum, 用HaloFit转成linear的功率谱，和LCDM下的预测比较；从linear power spectrum可以得到halo abundance的估计
+    * 到5x10^9 Msun没有看到和LCDM的偏离
