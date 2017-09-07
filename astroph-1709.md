@@ -158,3 +158,37 @@
     * 从小尺度物质功率谱间接推断small halo的abundance
     * 用CFHTLS cosmic shear数据derive non-linear power spectrum, 用HaloFit转成linear的功率谱，和LCDM下的预测比较；从linear power spectrum可以得到halo abundance的估计
     * 到5x10^9 Msun没有看到和LCDM的偏离
+
+
+----
+
+## September 7:
+
+#### [The Herschel Bright Sources (HerBS): Sample definition and SCUBA-2 observations](https://arxiv.org/abs/1709.01514)
+
+
+#### [The distribution of local star formation activity as a function of galaxy stellar mass, environment and morphology](https://arxiv.org/abs/1709.01519)
+
+
+#### [Convergence properties of halo merger trees; halo and substructure merger rates across cosmic history](https://arxiv.org/abs/1709.01526)
+
+
+#### [Ultra-massive black hole feedback in compact galaxies](https://arxiv.org/abs/1709.01551)
+
+
+#### [HST Detection of Extended Neutral Hydrogen in a Massive Elliptical at z = 0.4](https://arxiv.org/abs/1709.01563)
+
+
+#### [The Hunt for Red Quasars: Luminous Obscured Black Hole Growth Unveiled in the Stripe 82 X-ray Survey](https://arxiv.org/abs/1709.01578)
+
+
+#### [The active nucleus of the ULIRG IRAS F00183-7111 viewed by NuSTAR](https://arxiv.org/abs/1709.01708)
+
+
+#### [A 85 kpc Halpha tail behind 2MASX J11443212+2006238 in A1367](https://arxiv.org/abs/1709.01735)
+
+
+#### [Optical and radio properties of extragalactic radio sources with recurrent jet activity](https://arxiv.org/abs/1709.01802)
+
+
+#### [Optical and radio properties of extragalactic radio sources with recurrent jet activity](https://arxiv.org/abs/1709.01802)
