@@ -192,3 +192,31 @@
 
 
 #### [Optical and radio properties of extragalactic radio sources with recurrent jet activity](https://arxiv.org/abs/1709.01802)
+
+
+----
+
+## September 8:
+
+#### [Crowded Field Galaxy Photometry: Precision Colors in the CLASH Clusters](https://arxiv.org/abs/1709.01925)
+
+
+#### [The XXL Survey XIX. A realistic population of simulated X-ray AGN: Comparison of models with observations](https://arxiv.org/abs/1709.01926)
+
+
+#### [Improved mass constraints for two nearby strong-lensing elliptical galaxies from Hubble Space Telescope Imaging](https://arxiv.org/abs/1709.01931)
+
+
+#### [Predicting emission line fluxes and number counts of distant galaxies for cosmological surveys](https://arxiv.org/abs/1709.01936)
+
+
+#### [The formation of hot gaseous haloes around galaxies](https://arxiv.org/abs/1709.01938)
+
+
+#### [The SAMI Galaxy Survey: understanding observations of large-scale outflows at low redshift with EAGLE simulations](https://arxiv.org/abs/1709.01939)
+
+
+#### [Galaxies into the Dark Ages](https://arxiv.org/abs/1709.02001)
+
+
+#### [2D Bayesian automated tilted-ring fitting of disk galaxies in large HI galaxy surveys: 2DBAT](https://arxiv.org/abs/1709.02049)
