@@ -177,46 +177,58 @@
 
 
 #### [HST Detection of Extended Neutral Hydrogen in a Massive Elliptical at z = 0.4](https://arxiv.org/abs/1709.01563)
-
+    - **Relevant, Important**
+    * 一个z~1.8的lens两侧3-5kpc处都看到了延展的HI发射
+    * 运动学上和FeII吸收气体运动学相近
 
 #### [The Hunt for Red Quasars: Luminous Obscured Black Hole Growth Unveiled in the Stripe 82 X-ray Survey](https://arxiv.org/abs/1709.01578)
-
+    * 在两个不同样本里找到了12个 (R-K) > 4的red quasar，都是宽线AGN
+    * 很高比例有外流，和X-ray辐射 --> transition phase?
 
 #### [The active nucleus of the ULIRG IRAS F00183-7111 viewed by NuSTAR](https://arxiv.org/abs/1709.01708)
-
+    * 一个红外星系的X-ray细致研究
+    * FeK线在过去几年里
 
 #### [A 85 kpc Halpha tail behind 2MASX J11443212+2006238 in A1367](https://arxiv.org/abs/1709.01735)
-
-
-#### [Optical and radio properties of extragalactic radio sources with recurrent jet activity](https://arxiv.org/abs/1709.01802)
-
+    * 如标题。。。。
 
 #### [Optical and radio properties of extragalactic radio sources with recurrent jet activity](https://arxiv.org/abs/1709.01802)
-
+    * 有部分射电星系有多个射电瓣或者其他奇怪结构暗示radio jet可能反复出现过多次
+    * 这些星系的host的星族，黑洞质量和一般FRII没有差别，但concentration更小，可能和多次并合有关
 
 ----
 
 ## September 8:
 
 #### [Crowded Field Galaxy Photometry: Precision Colors in the CLASH Clusters](https://arxiv.org/abs/1709.01925)
-
+    - **Relevant**
+    * 改进cluster中心区域的测光结果，尤其是对于颜色的测量和member的认证
+    * 新的catalog给出的LF可以看到cluster的SMF的slope没有太大的演化，且符合passive evolution
 
 #### [The XXL Survey XIX. A realistic population of simulated X-ray AGN: Comparison of models with observations](https://arxiv.org/abs/1709.01926)
-
+    * cosmo-OWLSs模拟里面的AGN和观测的比较，到z<3
+    * 考虑unabsorbed X-ray LF; Eddington ratio distribution; SMBH mass function; projected clustering function
 
 #### [Improved mass constraints for two nearby strong-lensing elliptical galaxies from Hubble Space Telescope Imaging](https://arxiv.org/abs/1709.01931)
-
+    * 就是之前那两个低红移，非常靠近中心的SL的HST图像的更细致的模拟
+    * 质量略有变化，之前的关于其中心是Kroupa IMF的结论不变
 
 #### [Predicting emission line fluxes and number counts of distant galaxies for cosmological surveys](https://arxiv.org/abs/1709.01936)
-
+    * 用COSMOS里的星系和FMOS-COSMOS的观测来预测发射线星系在不同流量的number density
+    * Halpha emitter在high fluxes端随红移下降得很快，可以用main sequence的演化解释
 
 #### [The formation of hot gaseous haloes around galaxies](https://arxiv.org/abs/1709.01938)
-
+    * EAGLE模拟里面看hot halo的形成；辐射冷却和动力学时标的比值有明显的bimodel分布
+    * 10^11.5质量以上的halo都有hot halo形成
 
 #### [The SAMI Galaxy Survey: understanding observations of large-scale outflows at low redshift with EAGLE simulations](https://arxiv.org/abs/1709.01939)
-
+    * 用EAGLE模拟SAMI观测的disk星系里面的outflow
+    * velocity dispersion > 150km/s的一般都是外流导致的；而且电离气体的温度较高>10^5 K
 
 #### [Galaxies into the Dark Ages](https://arxiv.org/abs/1709.02001)
-
+    * 讨论ALMA和ngVLA在2-3 microns上观测z>10的星系的CII 158线，并定红移和运动学
+        - [CII]和FIR的比例随着金属丰度下降增加，所以有利于高红移探测
 
 #### [2D Bayesian automated tilted-ring fitting of disk galaxies in large HI galaxy surveys: 2DBAT](https://arxiv.org/abs/1709.02049)
+    * 新工具, 适用于倾斜角20-70度之间的well resolved的HI观测
+    * 用的MultiNest，因为posterior是multi-modes的
