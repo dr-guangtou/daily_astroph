@@ -165,7 +165,9 @@
 ## September 7:
 
 #### [The Herschel Bright Sources (HerBS): Sample definition and SCUBA-2 observations](https://arxiv.org/abs/1709.01514)
-
+    * H-Atlas在500microns上最亮的星系的850micron探测
+    * 红移在Cosmic SFR peak上的最亮的FIR星系，FIR SED多样，不能简单用一个模板描述
+    * 根据模型，lensed星系的比例高，可达85%
 
 #### [The distribution of local star formation activity as a function of galaxy stellar mass, environment and morphology](https://arxiv.org/abs/1709.01519)
 
@@ -174,7 +176,9 @@
 
 
 #### [Ultra-massive black hole feedback in compact galaxies](https://arxiv.org/abs/1709.01551)
-
+    - **Relevant**
+    * Compact星系中的UMBH可能在早期有非常强烈的并合，吹散了kpc以外的气体，但是能在中心引发恒星形成，并留下一个compact remnant
+    *
 
 #### [HST Detection of Extended Neutral Hydrogen in a Massive Elliptical at z = 0.4](https://arxiv.org/abs/1709.01563)
     - **Relevant, Important**
