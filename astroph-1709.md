@@ -243,15 +243,24 @@
 ## September 11:
 
 #### [The Outer Halos of Very Massive Galaxies: BCGs and their DSC in the Magneticum Simulations](https://arxiv.org/abs/1709.02393)
-
+    - **Relevant**
+    * Magneticum模拟里面的BCG+ICL分布，叫Diffuse stellar component
+    * 尽管动力学上总能分开，面亮度上有时 1 Sersic也能拟合
+        - NSC的区分用两个Maxwellian分布拟合速度分布; 基本都在100kpc之外
 
 #### [Spatially-resolved spectroscopy of narrow-line Seyfert 1 host galaxies](https://arxiv.org/abs/1709.02514)
-
+    * NLS1的IFU观测，到2-3 kpc处，光谱被host星系的SF主导。
+    * sSFR和金属丰度都没有明显的特点
 
 #### [Dust masses of z>5 galaxies from SED fitting and ALMA upper limits](https://arxiv.org/abs/1709.02526)
+    * z~5 的Himiko的SED拟合，考虑了ALMA的上限，比较了连续和即时恒星形成模型下不同的dust质量
 
 
 #### [Distant clusters of galaxies in the 2XMM/SDSS footprint: follow-up observations with the LBT](https://arxiv.org/abs/1709.02436)
+    - **Relevant**
+    * 用X-ray和SDSS选高红移星系团，基本上就是有延展X-ray发射，但是SDSS上看不到星系团；用LBT做了follow-up
 
 
 #### [Stripped elliptical galaxies as probes of ICM physics: III. Deep Chandra Observation of NGC 4552 - Measuring the Viscosity of the Intracluster MediumT](https://arxiv.org/abs/1709.02784)
+    * X-ray观测发现一个正落入Virgo的Elliptical星系的tail附近的弥散X-ray结构
+    * 通过和模拟比较，认为ICM的粘性可以忽略不计
