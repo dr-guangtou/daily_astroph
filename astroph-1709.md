@@ -236,3 +236,22 @@
 #### [2D Bayesian automated tilted-ring fitting of disk galaxies in large HI galaxy surveys: 2DBAT](https://arxiv.org/abs/1709.02049)
     * 新工具, 适用于倾斜角20-70度之间的well resolved的HI观测
     * 用的MultiNest，因为posterior是multi-modes的
+
+
+----
+
+## September 11:
+
+#### [The Outer Halos of Very Massive Galaxies: BCGs and their DSC in the Magneticum Simulations](https://arxiv.org/abs/1709.02393)
+
+
+#### [Spatially-resolved spectroscopy of narrow-line Seyfert 1 host galaxies](https://arxiv.org/abs/1709.02514)
+
+
+#### [Dust masses of z>5 galaxies from SED fitting and ALMA upper limits](https://arxiv.org/abs/1709.02526)
+
+
+#### [Distant clusters of galaxies in the 2XMM/SDSS footprint: follow-up observations with the LBT](https://arxiv.org/abs/1709.02436)
+
+
+#### [Stripped elliptical galaxies as probes of ICM physics: III. Deep Chandra Observation of NGC 4552 - Measuring the Viscosity of the Intracluster MediumT](https://arxiv.org/abs/1709.02784)
