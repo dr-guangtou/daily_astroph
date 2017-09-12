@@ -268,26 +268,51 @@
 ## September 12:
 
 #### [An extreme proto-cluster of luminous dusty starbursts in the early Universe](https://arxiv.org/abs/1709.02809)
-
+    - **Important**
+    * Great Red Hope: z=4的包含了至少10个Herschel发现的dusty SF星系的proto cluster
+    * 260x310 kpc的范围；没有发现LyAlpha emitter，SFR超高，有一个覆盖了60kpc的LyAlpha blob
+    * M_H2 ~ 10^12 Msun;  M_halo > 10^13 Msun
 
 #### [Morphology and enhanced star formation in a Cartwheel-like ring galaxy](https://arxiv.org/abs/1709.02826)
-
+    * 小星系的head-on collision模拟车轮星系：恒星形成先被quenched，然后又被加强
+    * 可以用ring上的SF区域来trace dynamical stage
 
 #### [Angular momentum evolution of stellar disks at high redshifts](https://arxiv.org/abs/1709.03275)
-
+    - **Relevant, Important**
+    * m*=M*/Mhalo：盘恒星质量和Halo质量的比值
+    * j*=J*/Jhalo：DM Halo的角动量有多少比例传递到了恒星盘上
+    * 尽管决定m*和j*的SF和feedback物理过程随Halo质量和红移变化，但是j*/m*从z~3到现在基本恒定，而且比值~0.77，比较高
+        - 假设盘的角动量是fully conserved，j_d/m_d = 1，可以解释一些观测，半解析模型也在用
 
 #### [The relation between specific baryon angular momentum and mass for a sample of nearby low-mass galaxies with resolved HI kinematics](https://arxiv.org/abs/1709.03288)
-
+    * HI dominated的矮星系的单位角动量和重子物质质量之间有 j_b = q * Mb^a 的关系
+    * a~0.62和之前THINGS的结果以及 j_b prop_to Mb^(2/3)的理论预期相符合
+        - 之前有工作认为dwarf含有更高的单位角动量 Butler+2017; Chowdhury & Chengalur 2017
 
 #### [The origin and properties of massive prolate galaxies in the Illustris simulation](https://arxiv.org/abs/1709.03345)
+    - **Relevant, Important**
+    * 在Illustris模拟里面 35/839 logM*>11的星系是prolate的，9/21 logM*>12的星系是prolate
+    * prolate星系主要来自于major dry merger，而且倾向于沿着radial轨道进行并合
+    * 很多prolate都有绕minor axis的旋转，反映了progenitor的角动量
+        - Reduced inertia tensor method (Allgood+2006) 从模拟里测量shape
+    * 但是在shape-lambda图上，模拟和观测不太一致，prolate的星系模拟里面有太高的ellipticity
+        - 可能是因为并合太dry (Naab+2014) 或者分辨率不够高导致的 (Bois+2010, 2011)
 
 
 #### [The life cycle of starbursting circumnuclear gas discs](https://arxiv.org/abs/1709.03367)
-
+    * CND的三维数值模拟 RAMSES
+    * 近邻的Seyfert星系中心的星暴主要在100pc以内的clumps里可能就是dense的CND的不稳定性的结果
+    * SN的delay time distribution很重要
 
 #### [Galaxy 2-Point Covariance Matrix Estimation for Next Generation Surveys](https://arxiv.org/abs/1709.03057)
+    * 给出一种未来巡天里不需要模拟就能估计星系功率谱的covariance matrix的方法
+    * 只需要跑一个小的simulation，考虑了supersample variance
 
 
 #### [Super-Eddington Accretion Disks around Supermassive black Holes](https://arxiv.org/abs/1709.02845)
     - **Yanfei Jiang**
-    *
+    * 5x10^8 Msun黑洞周围吸积的3-D磁流体力学模拟 Athena++
+    * 测试有无vertical magnetic flux情况下的模拟
+    * 外流的luminosity只占辐射的15-30%; 吸积质量15-30%损失在外流里
+    * AGN disk上可以有 coherent的spiral wave-> 对传递角动量可能很重要
+        - 在fully ionised AGN disk里面，MRI是传递角动量的主要方式
