@@ -11,7 +11,6 @@
     * 改进的SPHGal版本的Gadget3模拟天线星系，可以重现二维的金属丰度分布
     * 并和后2.5Gyr演化为red sequence星系，椭圆星系形态，fast rotator
 
-
 #### [Glimpsing the Imprint of Local Environment on the Galaxy Stellar Mass Functions](https://arxiv.org/abs/1709.00011)
     * ORELSE巡天，0.5<z<1.3的SMF对环境的依赖
     * SMF的shape和环境有连续的，密切的联系; 对SF星系尤其是
@@ -35,7 +34,6 @@
     - **Relevant**
     * z~2的clumpy disk星系的thick disk观测，标高和质量相关
 
-
 #### [Calibration of ultraviolet, mid-infrared and radio star formation rate indicators](https://arxiv.org/abs/1709.00183)
     - **Useful**
     * WISE W4, Spitzer 24micron, 1.4GHz和Balmer corrected Halpha指示的SFR相关最好
@@ -43,7 +41,6 @@
 #### [J0811+4730: the most metal-poor star-forming dwarf galaxy known](https://arxiv.org/abs/1709.00202)
     * 一个非常低质量，超低金属丰度的矮星系
     * 严重地偏离了SF的main sequence和luminosity-metallicty relation
-
 
 #### [Virgo Redux: The Masses and Stellar Content of Nuclei in Early-Type Galaxies from Multi-Band Photometry and Spectroscopy](https://arxiv.org/abs/1709.00406)
     - **Relevant**
@@ -264,3 +261,33 @@
 #### [Stripped elliptical galaxies as probes of ICM physics: III. Deep Chandra Observation of NGC 4552 - Measuring the Viscosity of the Intracluster MediumT](https://arxiv.org/abs/1709.02784)
     * X-ray观测发现一个正落入Virgo的Elliptical星系的tail附近的弥散X-ray结构
     * 通过和模拟比较，认为ICM的粘性可以忽略不计
+
+
+----
+
+## September 12:
+
+#### [An extreme proto-cluster of luminous dusty starbursts in the early Universe](https://arxiv.org/abs/1709.02809)
+
+
+#### [Morphology and enhanced star formation in a Cartwheel-like ring galaxy](https://arxiv.org/abs/1709.02826)
+
+
+#### [Angular momentum evolution of stellar disks at high redshifts](https://arxiv.org/abs/1709.03275)
+
+
+#### [The relation between specific baryon angular momentum and mass for a sample of nearby low-mass galaxies with resolved HI kinematics](https://arxiv.org/abs/1709.03288)
+
+
+#### [The origin and properties of massive prolate galaxies in the Illustris simulation](https://arxiv.org/abs/1709.03345)
+
+
+#### [The life cycle of starbursting circumnuclear gas discs](https://arxiv.org/abs/1709.03367)
+
+
+#### [Galaxy 2-Point Covariance Matrix Estimation for Next Generation Surveys](https://arxiv.org/abs/1709.03057)
+
+
+#### [Super-Eddington Accretion Disks around Supermassive black Holes](https://arxiv.org/abs/1709.02845)
+    - **Yanfei Jiang**
+    *
