@@ -316,3 +316,39 @@
     * 外流的luminosity只占辐射的15-30%; 吸积质量15-30%损失在外流里
     * AGN disk上可以有 coherent的spiral wave-> 对传递角动量可能很重要
         - 在fully ionised AGN disk里面，MRI是传递角动量的主要方式
+
+----
+
+## September 12:
+
+#### [The ionization properties of extreme nearby star-forming regions](https://arxiv.org/abs/1709.03503)
+
+
+#### [Jekyll & Hyde: quiescence and extreme obscuration in a pair of massive galaxies 1.5 Gyr after the Big Bang](https://arxiv.org/abs/1709.03505)
+
+
+#### [Galactic Scale Feedback Observed in the 3C 298 Quasar Host Galaxy](https://arxiv.org/abs/1709.03510)
+
+
+#### [Supernova feedback in numerical simulations of galaxy formation: separating physics from numerics](https://arxiv.org/abs/1709.03515)
+
+
+#### [Dark Galaxy Candidates at Redshift ~3.5 Detected with MUSE](https://arxiv.org/abs/1709.03522)
+
+
+#### [The last 6 Gyr of dark matter assembly in massive galaxies from the Kilo Degree Survey](https://arxiv.org/abs/1709.03542)
+
+
+#### [The SAMI Galaxy Survey: the intrinsic shape of kinematically selected galaxies](https://arxiv.org/abs/1709.03585)
+
+
+#### [Bar quenching in gas-rich galaxies](https://arxiv.org/abs/1709.03604)
+
+
+#### [Determining the Halo Mass Scale where Galaxies Lose Their Gas](https://arxiv.org/abs/1709.03691)
+
+
+#### [Stochastic Order Redshift Technique (SORT): a simple, efficient and robust method to improve cosmological redshift measurements](https://arxiv.org/abs/1709.03499)
+
+
+#### [Exploratory X-ray Monitoring of Luminous Radio-Quiet Quasars at High Redshift: No Evidence for Evolution in X-ray Variability](https://arxiv.org/abs/1709.03521)
