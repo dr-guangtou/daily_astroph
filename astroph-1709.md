@@ -352,3 +352,60 @@
 
 
 #### [Exploratory X-ray Monitoring of Luminous Radio-Quiet Quasars at High Redshift: No Evidence for Evolution in X-ray Variability](https://arxiv.org/abs/1709.03521)
+
+
+----
+
+## September 13:
+
+#### [A Fundamental Test for Galaxy Formation Models: Matching the Lyman-α Absorption Profiles of Galactic Halos over Three Decades in Distances](https://arxiv.org/abs/1709.03988)
+
+
+#### [The VIMOS Ultra Deep Survey: On the nature, ISM properties, and ionizing spectra of CIII1909 emitters at z=2-4](https://arxiv.org/abs/1709.03990)
+
+
+#### [HST Grism Observations of a Gravitationally Lensed Redshift 10 Galaxy](https://arxiv.org/abs/1709.03992)
+
+
+#### [CO line emission from galaxies in the Epoch of Reionization](https://arxiv.org/abs/1709.03993)
+
+
+#### [Witnessing the birth of the red sequence: the physical scale and morphology of dust emission in hyper-luminous starbursts in the early Universe](https://arxiv.org/abs/1709.04191)
+
+
+#### [Minor Contribution of Quasars to Ionizing Photon Budget at z~6: Update on Quasar Luminosity Function at the Faint-end with Subaru/Suprime-Cam](https://arxiv.org/abs/1709.04413)
+
+
+#### [BAT AGN Spectroscopic Survey - V. X-ray properties of the Swift/BAT 70-month AGN catalog](https://arxiv.org/abs/1709.03989)
+
+
+----
+
+## September 14:
+
+#### [Composite Spectral Energy Distributions and Infrared-Optical Colors of Type 1 and Type 2 Quasars](https://arxiv.org/abs/1709.04468)
+
+
+#### [Hot dust in Panchromatic SED Fitting: Identification of AGN and improved galaxy properties](https://arxiv.org/abs/1709.04469)
+
+
+#### [On the UV compactness and morphologies of typical Lyman-a emitters from z~2 to z~6](https://arxiv.org/abs/1709.04470)
+
+
+#### [Tracing the stellar component of low surface brightness Milky Way Dwarf Galaxies to their outskirts I: Sextans](https://arxiv.org/abs/1709.04519)
+
+
+#### [Molecular gas in the Herschel-selected strongly lensed submillimeter galaxies at z~2-4 as probed by multi-J CO lines](https://arxiv.org/abs/1709.04740)
+
+
+#### [First Weak-lensing Results from "See Change": Quantifying Dark Matter in the Two Z>1.5 High-redshift Galaxy Clusters SPT-CL J2040-4451 and IDCS J1426+3508](https://arxiv.org/abs/1709.04561)
+
+
+----
+
+## September 18:
+
+#### [Dynamical Characterization of Galaxies at z~4-6 via Tilted Ring Fitting to ALMA CII Observations](https://arxiv.org/abs/1709.04954)
+
+
+#### [Deep Learning of Quasar Spectra to Discover and Characterize Damped Lya Systems](https://arxiv.org/abs/1709.04962)
