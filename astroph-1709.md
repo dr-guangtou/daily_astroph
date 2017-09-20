@@ -409,3 +409,62 @@
 
 
 #### [Deep Learning of Quasar Spectra to Discover and Characterize Damped Lya Systems](https://arxiv.org/abs/1709.04962)
+
+
+#### [LoCuSS: The infall of X-ray groups onto massive clusters](https://arxiv.org/abs/1709.04945)
+
+
+----
+
+## September 19:
+
+#### [Simulating Gamma-ray Emission in Star-forming Galaxies](https://arxiv.org/abs/1709.05343)
+
+
+#### [The effect of nuclear gas distribution on the mass determination of supermassive black holes](https://arxiv.org/abs/1709.05345)
+
+
+#### [Deep SOAR follow-up photometry of two Milky Way outer-halo companions discovered with Dark Energy Survey](https://arxiv.org/abs/1709.05345)
+
+
+#### [ALMA imaging of C2H emission in the disk of NGC1068](https://arxiv.org/abs/1709.05895)
+
+
+#### [Spatial fluctuations of the intergalactic temperature-density relation after hydrogen reionization](https://arxiv.org/abs/1709.05351)
+
+
+#### [The Universe is Reionizing at z~7: Bayesian Inference of the IGM Neutral Fraction Using Lyα Emission from Galaxies](https://arxiv.org/abs/1709.05356)
+
+
+#### [The Atacama Cosmology Telescope: The Two-Season ACTPol Sunyaev-Zel'dovich Effect Selected Cluster Catalog](https://arxiv.org/abs/1709.05600)
+
+
+#### [An automatic taxonomy of galaxy morphology using unsupervised machine learning](https://arxiv.org/abs/1709.05834)
+
+
+----
+
+## September 20:
+
+#### [A Faint Flux-Limited Lyman Alpha Emitter Sample at z∼0.3](https://arxiv.org/abs/1709.06092)
+
+
+#### [Mapping the Lyman-Alpha Emission Around a z~6.6 QSO with MUSE: Extended Emission and a Companion at Close Separation](https://arxiv.org/abs/1709.06096)
+
+
+#### [Dust attenuation in 2<z<3 star-forming galaxies from deep ALMA observations of the Hubble Ultra Deep Field](https://arxiv.org/abs/1709.06012)
+
+
+#### [A candidate sub-parsec binary black hole in the Seyfert galaxy NGC 7674](https://arxiv.org/abs/1709.06258)
+
+
+#### [Near-IR spectroscopy of luminous LoBAL quasars at 1<z<2.5](https://arxiv.org/abs/1709.06335)
+
+
+#### [New giant radio sources and underluminous radio halos in two galaxy clusters](https://arxiv.org/abs/1709.06364)
+
+
+#### [Type I shell galaxies as a test of gravity models](https://arxiv.org/abs/1709.06399)
+
+
+#### [Halpha imaging observations of early-type galaxies from the ATLAS3D survey](https://arxiv.org/abs/1709.06511)
