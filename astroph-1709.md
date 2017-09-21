@@ -468,3 +468,40 @@
 
 
 #### [Halpha imaging observations of early-type galaxies from the ATLAS3D survey](https://arxiv.org/abs/1709.06511)
+
+
+----
+
+## September 21:
+
+#### [Shaken Snow Globes: Kinematic Tracers of the Multiphase Condensation Cascade in Massive Galaxies, Groups, and Clusters](https://arxiv.org/abs/1709.06564)
+
+
+#### [ALMA reveals metals yet no dust within multiple components in CR7](https://arxiv.org/abs/1709.06569)
+
+
+#### [Understanding substructure in the SSA22 protocluster region using cosmological simulations](https://arxiv.org/abs/1709.06572)
+
+
+#### [Mass and metallicity scaling relations of high redshift star-forming galaxies selected by GRBs](https://arxiv.org/abs/1709.06574)
+
+
+#### [The central spheroids of Milky Way mass-sized galaxies](https://arxiv.org/abs/1709.06605)
+
+
+#### [Orbital decomposition of CALIFA spiral galaxies](https://arxiv.org/abs/1709.06649)
+
+
+#### [Environmental effects on galaxy evolution. II: quantifying the tidal features in NIR-images of the cluster Abell 85](https://arxiv.org/abs/1709.06681)
+
+
+#### [The interstellar medium in OIII-selected star-forming galaxies at z∼3.2](https://arxiv.org/abs/1709.06731)
+
+
+#### [Deep CO(1-0) Observations of z=1.62 Cluster Galaxies with Substantial Molecular Gas Reservoirs and Normal Star Formation Efficiencies](https://arxiv.org/abs/1709.06963)
+
+
+#### [The Role of Stellar Radial Motions in Shaping Galaxy Surface Brightness Profiles](https://arxiv.org/abs/1709.06968)
+
+
+#### [Recovering galaxy cluster gas density profiles with XMM-Newton and Chandra](https://arxiv.org/abs/1709.06570)
