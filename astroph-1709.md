@@ -505,3 +505,34 @@
 
 
 #### [Recovering galaxy cluster gas density profiles with XMM-Newton and Chandra](https://arxiv.org/abs/1709.06570)
+
+
+----
+
+## September 22:
+
+#### [Shaken Snow Globes: Kinematic Tracers of the Multiphase Condensation Cascade in Massive Galaxies, Groups, and Clusters](https://arxiv.org/abs/1709.07000)
+
+
+#### [Galaxy evolution in protoclusters](https://arxiv.org/abs/1709.07009)
+
+
+#### [Modeling the Infrared Reverberation Response of the Circumnuclear Dusty Torus in AGN: The Effects of Cloud Orientation and Anisotropic Illumination](https://arxiv.org/abs/1709.07011)
+
+
+#### [On the formation mechanisms of compact elliptical galaxies](https://arxiv.org/abs/1709.07012)
+
+
+#### [Star Formation Quenching in Green Valley Galaxies at 0.5≲z≲1.0 and Constraints with Galaxy Morphologies](https://arxiv.org/abs/1709.07015)
+
+
+#### [NuSTAR hard X-ray data and Gemini 3D spectra reveal powerful AGN and outflow histories in two low-redshift Lyman-α blobs](https://arxiv.org/abs/1709.07018)
+
+
+#### [Multiple origins for the DLA at zabs=0.313 toward PKS 1127−145 indicated by a complex dust depletion pattern of Ca, Ti, and Mn](https://arxiv.org/abs/1709.07030)
+
+
+#### [The radio structure of the peculiar narrow-line Seyfert 1 galaxy candidate J1100+4421](https://arxiv.org/abs/1709.07202)
+
+
+#### [A census of radio-selected AGN on the COSMOS field and of their FIR properties](https://arxiv.org/abs/1709.07230)
