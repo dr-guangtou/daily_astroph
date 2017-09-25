@@ -536,3 +536,28 @@
 
 
 #### [A census of radio-selected AGN on the COSMOS field and of their FIR properties](https://arxiv.org/abs/1709.07230)
+
+
+----
+
+## September 25:
+
+#### [Most pseudo-bulges can be formed at later stages of major mergers](https://arxiv.org/abs/1709.07455)
+
+
+#### [The Baryonic Collapse Efficiency of Galaxy Groups in the RESOLVE and ECO Surveys](https://arxiv.org/abs/1709.07462)
+
+
+#### [A Radio Relic and a Search for the Central Black Hole in the Abell 2261 Brightest Cluster Galaxy](https://arxiv.org/abs/1709.07489)
+
+
+#### [The multiphase circumgalactic medium traced by low metal ions in EAGLE zoom simulations](https://arxiv.org/abs/1709.07577)
+
+
+#### [Carbon Abundances in Starburst Galaxies of the Local Universe](https://arxiv.org/abs/1709.07587)
+
+
+#### [Neutral hydrogen (HI) gas content of galaxies at z≈0.32](https://arxiv.org/abs/1709.07596)
+
+
+#### [On the far-infrared metallicity diagnostics: applications to high-redshift galaxies](https://arxiv.org/abs/1709.07717)
