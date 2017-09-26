@@ -521,13 +521,19 @@
 
 
 #### [On the formation mechanisms of compact elliptical galaxies](https://arxiv.org/abs/1709.07012)
-
+    - **Relevant**
+    * SDSS里面的Compact Elliptical星系：主要分成两种情形
+    * Cluster里面的往往有明显的host和tidal feature，可能主要形成于stripping
+    * 其他环境里面的往往孤立，没有明显的stripping迹象，可能代表了Elliptical星系的质量低端
 
 #### [Star Formation Quenching in Green Valley Galaxies at 0.5≲z≲1.0 and Constraints with Galaxy Morphologies](https://arxiv.org/abs/1709.07015)
 
 
 #### [NuSTAR hard X-ray data and Gemini 3D spectra reveal powerful AGN and outflow histories in two low-redshift Lyman-α blobs](https://arxiv.org/abs/1709.07018)
-
+    - **Interesting**
+    * z~0.3的LAB，中心都是X-ray AGN
+    * 其中有一个在2年间有显著的fading，说明AGN的光变可以影响电离状态
+    * 有一个LAB呈现出bipolar外流的状态
 
 #### [Multiple origins for the DLA at zabs=0.313 toward PKS 1127−145 indicated by a complex dust depletion pattern of Ca, Ti, and Mn](https://arxiv.org/abs/1709.07030)
 
@@ -543,12 +549,15 @@
 ## September 25:
 
 #### [Most pseudo-bulges can be formed at later stages of major mergers](https://arxiv.org/abs/1709.07455)
-
+    * 还是Hammer那组人用SPH模拟argue，绝大多数的大质量pseudo-bulge和bar主导的星系可以通过富气体的Major merger形成
+    * 有些在并合后一段时间内会有像classical bulge一样的结构，但是最终气体耗散后还是更接近pseudo bulge
 
 #### [The Baryonic Collapse Efficiency of Galaxy Groups in the RESOLVE and ECO Surveys](https://arxiv.org/abs/1709.07462)
 
 
 #### [A Radio Relic and a Search for the Central Black Hole in the Abell 2261 Brightest Cluster Galaxy](https://arxiv.org/abs/1709.07489)
+    * A2261-BCG中心有个super flat的core，这篇文章通过射电观测看是否中心的一个knot是被踢出去的SMBH
+    * 4个knots里面有一个的速度弥散度误差很大，可能有SMBH，但是射电观测没有看到活动的radio core，只有一个offset的compact radio relic，证明radio AGN活动在一段时间前已经停止
 
 
 #### [The multiphase circumgalactic medium traced by low metal ions in EAGLE zoom simulations](https://arxiv.org/abs/1709.07577)
@@ -566,7 +575,10 @@
 
 
 #### [On the far-infrared metallicity diagnostics: applications to high-redshift galaxies](https://arxiv.org/abs/1709.07717)
-
+    *  Here, we focus on the applicability of the [OIII]88 μm/[NII]122 μm line ratio as a gas phase metallicity indicator in high redshift submillimetre luminous galaxies.
+    * 这个ratio同时对电离参数和电子密度敏感；用88和122微米的连续谱可以限制电离参数；[NII] 205 micron线可以用来限制电子密度
+    * z~3 的Submm亮的星系的ISM金属丰度接近solar metallicity
+        - 这些FIR fine structure线对消光不敏感
 
 #### [Internal dark matter structure of the most massive galaxy clusters](https://arxiv.org/abs/1709.07457)
     - 数值模拟看质量最大的DM halo的density profile从z~1到z~0都不太演化，和NFW符合得很好
@@ -577,21 +589,39 @@
 ## September 26:
 
 #### [Hubble Space Telescope Imaging of the Active Dwarf Galaxy RGG 118](https://arxiv.org/abs/1709.07884)
+    * 一个有AGN和50000 Msun BH的dwarf星系的HST形态观测：盘+pseudo bulge+中心点源
+    * 这个BH是under massive的；说明disk上的BH的增长可能主要通过secular过程
 
 
 #### [The role of atomic hydrogen in regulating the scatter of the mass-metallicity relation](https://arxiv.org/abs/1709.07890)
+    * ALFALA近邻SF星系的HI叠加：固定恒星质量上，HI mass和ISM金属丰度有反相关
+    * Mass-metalliciy关系的scatter可能和气体吸积过程的fluctuation有关
 
 
 #### [High-redshift AGN in the Chandra Deep Fields: the obscured fraction and space density of the sub-L∗ population](https://arxiv.org/abs/1709.07892)
+    * 102个z>3的sub-Lx的AGN (logLx<44)，60-80%受到 logN_H>23 的气体的遮挡
+    * 高红移的AGN的LF在low luminosity端稍稍变steep
 
 
 #### [ALMA shows that gas reservoirs of star-forming disks over the last 3 billion years are not predominantly molecular](https://arxiv.org/abs/1709.07933)
+    * z~0.2的HIGHz巡天，看SF星系的HI和H2的比例
+    * 和local universe一样，HI占主导，
+    * 而且这些星系虽然气体比例高，但气体速度弥散度依然不高，turbulence不高
 
 
 #### [Inspiraling Halo Accretion Mapped in Lyman-α Emission around a z∼3 Quasar](https://arxiv.org/abs/1709.08228)
-
+    - **Important**
+    * MUSE观测的一个z~3的QSO周围300kpc的Lyman Alpha nebulae，其中包括了多个LAE和AGN
+    * 更重要的是，气体以300km/s的速度在旋转，速度弥散度也不低 --> 来自QSO halo的inspiral accretion
+        - 并不是真的rotation，而是halo里面气体inspiral的projected shear的表现
 
 #### [Galaxy And Mass Assembly (GAMA): The Consistency of GAMA and WISE Derived Mass-to-Light Ratios](https://arxiv.org/abs/1709.08316)
+    - **Important, Relevant**
+    * 用z<0.15的passive galaxy看Optical SED拟合给出的M/L和WISE W1相比
+    * 得到了比较好的符合程度，M/L_W1~0.6，random error的影响很小
+        - 如果不只看Passive星系，M/L_W1还和年龄和SFH相关
 
 
 #### [Resolved Structure of Arp 220 Nuclei at λ~3 mm](https://arxiv.org/abs/1709.08537)
+    * ALMA超高分辨率观测，多个成分拟合两个nuclei，都有非常concentrated的高尘埃温度的成分
+    * 还可能有垂直于盘方向的外流
