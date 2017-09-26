@@ -552,12 +552,46 @@
 
 
 #### [The multiphase circumgalactic medium traced by low metal ions in EAGLE zoom simulations](https://arxiv.org/abs/1709.07577)
-
+    - 用EAGLE模拟看CGM里面的低电离absorber，和COS-Halos结果比较
+    - CII, SiII, SiIII, SiIV, MgII示踪了100kpc以内主要一部分的CGM气体贮藏，这些气体大部分会落入central星系
+    - $<0.5$ R200的CGM是two-phase的
 
 #### [Carbon Abundances in Starburst Galaxies of the Local Universe](https://arxiv.org/abs/1709.07587)
-
+    - 观测近邻星暴星系的[C/O]和[O/H]的丰度：高丰度，恒星形成率高的地方，大质量恒星对C的贡献更高
+    - 其他丰度处，主要还是中等质量恒星对C和N的贡献更高
 
 #### [Neutral hydrogen (HI) gas content of galaxies at z≈0.32](https://arxiv.org/abs/1709.07596)
+    - GMRT stacking HI spectrum --> z~0.3的HI气体 volume density没什么演化
+    - 小质量星系更富HI气体
 
 
 #### [On the far-infrared metallicity diagnostics: applications to high-redshift galaxies](https://arxiv.org/abs/1709.07717)
+
+
+#### [Internal dark matter structure of the most massive galaxy clusters](https://arxiv.org/abs/1709.07457)
+    - 数值模拟看质量最大的DM halo的density profile从z~1到z~0都不太演化，和NFW符合得很好
+
+
+----
+
+## September 26:
+
+#### [Hubble Space Telescope Imaging of the Active Dwarf Galaxy RGG 118](https://arxiv.org/abs/1709.07884)
+
+
+#### [The role of atomic hydrogen in regulating the scatter of the mass-metallicity relation](https://arxiv.org/abs/1709.07890)
+
+
+#### [High-redshift AGN in the Chandra Deep Fields: the obscured fraction and space density of the sub-L∗ population](https://arxiv.org/abs/1709.07892)
+
+
+#### [ALMA shows that gas reservoirs of star-forming disks over the last 3 billion years are not predominantly molecular](https://arxiv.org/abs/1709.07933)
+
+
+#### [Inspiraling Halo Accretion Mapped in Lyman-α Emission around a z∼3 Quasar](https://arxiv.org/abs/1709.08228)
+
+
+#### [Galaxy And Mass Assembly (GAMA): The Consistency of GAMA and WISE Derived Mass-to-Light Ratios](https://arxiv.org/abs/1709.08316)
+
+
+#### [Resolved Structure of Arp 220 Nuclei at λ~3 mm](https://arxiv.org/abs/1709.08537)
