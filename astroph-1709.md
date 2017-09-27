@@ -625,3 +625,43 @@
 #### [Resolved Structure of Arp 220 Nuclei at λ~3 mm](https://arxiv.org/abs/1709.08537)
     * ALMA超高分辨率观测，多个成分拟合两个nuclei，都有非常concentrated的高尘埃温度的成分
     * 还可能有垂直于盘方向的外流
+
+
+----
+
+## September 27:
+
+#### [Quenching star formation with quasar outflows launched by trapped IR radiation](https://arxiv.org/abs/1709.08638)
+
+
+#### [A photometric analysis of Abell 1689: two-dimensional multi-structure decomposition, morphological classification, and the Fundamental Plane](https://arxiv.org/abs/1709.08642)
+
+
+#### [Comparing galaxy formation in semi-analytic models and hydrodynamical simulations](https://arxiv.org/abs/1709.08647)
+
+
+#### [In search of cool flow accretion onto galaxies − where does the disk gas end?](https://arxiv.org/abs/1709.08733)
+
+
+#### [POLAMI: Polarimetric Monitoring of Active Galactic Nuclei at Millimetre Wavelengths. I. The program, calibration, and calibrators data products](https://arxiv.org/abs/1709.08742)
+
+
+#### [POLAMI: Polarimetric Monitoring of Active Galactic Nuclei at Millimetre Wavelengths. II. Widespread circular polarisation](https://arxiv.org/abs/1709.08743)
+
+
+#### [POLAMI: Polarimetric Monitoring of Active Galactic Nuclei at Millimetre Wavelengths. III. Characterisation of total flux density and polarisation variability of relativistic jets](https://arxiv.org/abs/1709.08744)
+
+
+#### [The Shape of Velocity Dispersion Profiles and the Dynamical State of Galaxy Clusters](https://arxiv.org/abs/1709.08749)
+
+
+#### [Chandra and NuSTAR follow-up observations of Swift-BAT selected AGN](https://arxiv.org/abs/1709.08762)
+
+
+#### [NGC 307 and the Effects of Dark-Matter Haloes on Measuring Supermassive Black Holes in Disc Galaxies](https://arxiv.org/abs/1709.08956)
+
+
+#### [The Discovery of a Five-Image Lensed Quasar at z = 3.34 using PanSTARRS and Gaia](https://arxiv.org/abs/1709.08975)
+
+
+#### [Gravitationally Lensed Quasars in Gaia: I. Resolving Small-Separation Lenses](https://arxiv.org/abs/1709.08976)
