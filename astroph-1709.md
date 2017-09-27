@@ -632,36 +632,64 @@
 ## September 27:
 
 #### [Quenching star formation with quasar outflows launched by trapped IR radiation](https://arxiv.org/abs/1709.08638)
+    * Multi-scattered radiation pressure对于模拟高红移QSO outflow很重要
+    * IR辐射由于能更好的穿透dense气体，更有效地将气体移出星系？
 
 
 #### [A photometric analysis of Abell 1689: two-dimensional multi-structure decomposition, morphological classification, and the Fundamental Plane](https://arxiv.org/abs/1709.08642)
+    - **Relevant**
+    * 挺无聊的，就是说当用Sersic拟合核球的时候，也能得到一个紧致的FP
 
 
 #### [Comparing galaxy formation in semi-analytic models and hydrodynamical simulations](https://arxiv.org/abs/1709.08647)
+    - **Important**
+    * EAGLE v.s. GALFORM
+    * SAM里面假定新形成的恒星有和气体一样的角动量导致了SAM里面对盘的单位角动量的高估
+    * 恒星聚集历史类似，但气体演化显著不同，EAGLE模拟里面的baryon cycle更慢
+    * GALFORM假定了AGB feedback和气体吸积都和Halo mass有关，人为地couple了这两个过程
 
 
 #### [In search of cool flow accretion onto galaxies − where does the disk gas end?](https://arxiv.org/abs/1709.08733)
+    * L* disk星系的proto disk气体可以在比之前预想的更大的半径和更低的column density上被看到
+    * 可以解释部分MgII absorber (就是说不是全部的absorber都是CGM)，也值得用很深的Halpha观测探测这些clumpy气体团块
 
 
 #### [POLAMI: Polarimetric Monitoring of Active Galactic Nuclei at Millimetre Wavelengths. I. The program, calibration, and calibrators data products](https://arxiv.org/abs/1709.08742)
+    * IRAM 30m在3.5和1.3mm上对一批射电噪的AGN (多数是Blazar) 测量 4个Stokes参数
+        - 射电jet里面的线偏振和圆偏振的变化反映了jet中等离子体的不均匀性的动力学演化
+        - 在毫米波观测主要是因为optical thin；以及不太受到Faraday rotation去偏振的影响
 
 
 #### [POLAMI: Polarimetric Monitoring of Active Galactic Nuclei at Millimetre Wavelengths. II. Widespread circular polarisation](https://arxiv.org/abs/1709.08743)
+    * Blazar大多数时候都有很弱的圆偏振，和长波测量结果差不多，说明引起圆偏振的物理效应不随波长变化：很可能是Jet的同步加速辐射的线偏振在螺旋形磁场里面Faraday conversion导致的
+        - 磁化等离子体的双折射效应
+    * 圆偏振也存在时变；圆偏振和线偏振在绝大多数时候没有相关
 
 
 #### [POLAMI: Polarimetric Monitoring of Active Galactic Nuclei at Millimetre Wavelengths. III. Characterisation of total flux density and polarisation variability of relativistic jets](https://arxiv.org/abs/1709.08744)
+    * Total flux和这两个波段之间的谱指数都存在高度的时变
+    * 短波段的偏振程度高；线偏振的时变频率和幅度都比总流量更大
+    * 符合jet发射区的multi-region模型；短波辐射来自一个比较小的区域
 
 
 #### [The Shape of Velocity Dispersion Profiles and the Dynamical State of Galaxy Clusters](https://arxiv.org/abs/1709.08749)
-
+    * 用Yang catalog里面的group看Halo里面的速度弥散度轮廓 (VDP) 和group的dynamical states (Gaussian或者non-Gaussian的velocity distribution)的关系
+    * Gaussian的group的VDP基本是单调下降
 
 #### [Chandra and NuSTAR follow-up observations of Swift-BAT selected AGN](https://arxiv.org/abs/1709.08762)
+    * Swift-BAT AGN的Chandra+NuStar X-ray SED研究，定光子谱指数和intrinsic absorption
+    * BAT AGN很多都是obscured AGN；有没有NuStar数据对定intrinsic absorption影响挺大
 
 
 #### [NGC 307 and the Effects of Dark-Matter Haloes on Measuring Supermassive Black Holes in Disc Galaxies](https://arxiv.org/abs/1709.08956)
-
+    - **Relevant, Interesting**
+    * 侧向盘星系里面看是否考虑DM Halo和多个不同M/L的成分对SMBH质量估计的影响
+    * 考虑Bulge+Disk成分和考虑Halo都对准确估计SMBH质量和质光比有帮助
 
 #### [The Discovery of a Five-Image Lensed Quasar at z = 3.34 using PanSTARRS and Gaia](https://arxiv.org/abs/1709.08975)
+    * PanSTARRS和WISE的QSO catalog和Gaia交叉比对找到了一个被两个透镜成5个像的lensed QSO
 
 
 #### [Gravitationally Lensed Quasars in Gaia: I. Resolving Small-Separation Lenses](https://arxiv.org/abs/1709.08976)
+    * Gaia的空间分辨率在0.1 arcsec左右，非常有助于分辨lensed QSO
+    * 在Gaia观测范围内，应该能找到1400个左右的lensed QSO
