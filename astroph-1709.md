@@ -699,19 +699,34 @@
 
 #### [Detection of Enhanced Central Mass-to-Light Ratios in Low-Mass Early-Type Galaxies: Evidence for Black Holes?](https://arxiv.org/abs/1709.09172)
     - **Relevant, Interesting**
+    * HST图像和Atlas3D动力学看 logM*~10.0 的星系的中心M/L，发现中心处有显著的升高
+    * 可能是黑洞 (Overmassive)或者是IMF的radial change
+    * 也认为可能和UCD有关，因为UCD里也看到了M/L的升高
 
 
 #### [SDSS-IV MaNGA: The Different Quenching Histories of Fast and Slow Rotators](https://arxiv.org/abs/1709.09175)
-    - **Interesting**
+    - **Relevant, Interesting**
+    * 质量匹配，都在SF-MSeq下方的Slow和Fast rotator，用delayed-tau模型拟合，发现Slow rotator的quenching时标都很短，fast-rotator的quenching时标分布很宽，也可以和slow rotator一样短
+    * Majer merger对整体的气体比例可能决定了remnant的运动学状态
 
 
 #### [Shocks and Spatially Offset Active Galactic Nuclei Produce Velocity Offsets in Emission Lines](https://arxiv.org/abs/1709.09177)
-
+    * 窄线区发射有速度offset可能代表了AGN外流的影响，这篇文章看得是发射线同时有空间偏离(<1kpc)的AGN
+    * 可能来自外流或者沿着Bar的吸积；发射线比值看是光致电离主导还是激波主导可以反映问题
+        - 用X-ray来精确定位AGN
 
 #### [Photometric redshifts for the next generation of deep radio continuum surveys - I: Template fitting](https://arxiv.org/abs/1709.09183)
-
+    * 看什么方法对未来深场射电连续谱巡天找到的星系定测光红移最好
+        - LOFAR, ASKAP, MeerKAT, SKA
 
 #### [Comparison of Stellar Population Model Predictions Using Optical and Infrared Spectroscopy](https://arxiv.org/abs/1709.09300)
-
+    - **Interesting, Relevant**
+    * 12个近邻Atlas3D星系的GNIRS optical-IR光谱分析
+    * 用BC03，FSPS，Maraston，MILES比较；光学波段一致，NIR差别很大
+    * Stellar library影响很大
+    * NIR波段对年龄不敏感，主要是在连续谱形状里，移除连续谱无助于限制年龄
+    * TP-AGB星的影响只是secondary的
 
 #### [The close environments of accreting massive black holes are shaped by radiative feedback](https://arxiv.org/abs/1709.09651)
+    * 用一组hard X-ray AGN看遮挡AGN的尘埃的分布和覆盖率和吸积率的关系
+    * 多数尘埃都分布在几个pc内，mass-normalized accretion rate越高，covering factor越小
