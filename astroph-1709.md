@@ -540,7 +540,6 @@
 
 #### [The radio structure of the peculiar narrow-line Seyfert 1 galaxy candidate J1100+4421](https://arxiv.org/abs/1709.07202)
 
-
 #### [A census of radio-selected AGN on the COSMOS field and of their FIR properties](https://arxiv.org/abs/1709.07230)
 
 
@@ -693,3 +692,26 @@
 #### [Gravitationally Lensed Quasars in Gaia: I. Resolving Small-Separation Lenses](https://arxiv.org/abs/1709.08976)
     * Gaia的空间分辨率在0.1 arcsec左右，非常有助于分辨lensed QSO
     * 在Gaia观测范围内，应该能找到1400个左右的lensed QSO
+
+----
+
+## September 27:
+
+#### [Detection of Enhanced Central Mass-to-Light Ratios in Low-Mass Early-Type Galaxies: Evidence for Black Holes?](https://arxiv.org/abs/1709.09172)
+    - **Relevant, Interesting**
+
+
+#### [SDSS-IV MaNGA: The Different Quenching Histories of Fast and Slow Rotators](https://arxiv.org/abs/1709.09175)
+    - **Interesting**
+
+
+#### [Shocks and Spatially Offset Active Galactic Nuclei Produce Velocity Offsets in Emission Lines](https://arxiv.org/abs/1709.09177)
+
+
+#### [Photometric redshifts for the next generation of deep radio continuum surveys - I: Template fitting](https://arxiv.org/abs/1709.09183)
+
+
+#### [Comparison of Stellar Population Model Predictions Using Optical and Infrared Spectroscopy](https://arxiv.org/abs/1709.09300)
+
+
+#### [The close environments of accreting massive black holes are shaped by radiative feedback](https://arxiv.org/abs/1709.09651)
