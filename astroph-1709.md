@@ -736,18 +736,26 @@
 ## September 29:
 
 #### [A 13CO Detection in a Brightest Cluster Galaxy](https://arxiv.org/abs/1709.09679)
+    - **Interesting， Relevant**
+    * BCG中用ALMA看到了中心offset的两团分子气体里面的2x10^9 Msun的13CO
+    * 有与之对应的12CO成分，CO-H2 factor看，如果用银河系的值则高估了分子气体质量很多。
 
 
 #### [What distinguishes the host galaxies of radio-loud and radio-quiet AGNs?](https://arxiv.org/abs/1709.09912)
-
+    * 在BH mass和Eddington ratio都match的前提下，比较RL和RQ的Type-II AGN的宿主性质
+    * 主要是concentration，形态分类，和电离气体的消光不一样，Radio loudness越大，Elliptical比例越高，消光越小；但是并合，相互作用特征无明显区别
 
 #### [The first 62 AGN observed with SDSS-IV MaNGA - I: their characterization and definition of a control sample](https://arxiv.org/abs/1709.10086)
-
+    * 和控制样本比，AGN OIII光度越高，年轻星族的贡献就越大--》黑洞和核球一起成长？
 
 #### [Stacked star formation rate profiles of bursty galaxies exhibit 'coherent' star formation](https://arxiv.org/abs/1709.10099)
+    * Coherent SFR: 用stacked SFR profiles去看，SF-seq 上面的星系的SFR在各个半径上都比下面的星系的SFR高--> 说明SF不是很bursty？
+    * 这篇文章用FIRE模拟看单个星系，说明虽然stacked起来看很平滑，但是单个星系还是可以很bursty的
 
 
 #### [EasyCritics I: Efficient detection of strongly-lensing galaxy groups and clusters in wide-field surveys](https://arxiv.org/abs/1709.09758)
-
+    * 假设light traces mass和有代表性的背景星系的红移分布，得到强引力透镜的critical curve，快速并行-GPU加速搜索strong lensing星系
 
 #### [Centrally Concentrated X-ray Radiation from an Extended Accreting Corona in Active Galactic Nuclei](https://arxiv.org/abs/1709.09799)
+    * AGN hard X-ray辐射的disk corona模型，大多数的硬X-ray辐射都来自于10倍史瓦西半径内的一个corona
+    * Corona通过辐射，热传导和质量交换和吸积盘couple在一起；Eddington ratio越高，corona size越大
