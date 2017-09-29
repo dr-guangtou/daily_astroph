@@ -695,7 +695,7 @@
 
 ----
 
-## September 27:
+## September 28:
 
 #### [Detection of Enhanced Central Mass-to-Light Ratios in Low-Mass Early-Type Galaxies: Evidence for Black Holes?](https://arxiv.org/abs/1709.09172)
     - **Relevant, Interesting**
@@ -730,3 +730,24 @@
 #### [The close environments of accreting massive black holes are shaped by radiative feedback](https://arxiv.org/abs/1709.09651)
     * 用一组hard X-ray AGN看遮挡AGN的尘埃的分布和覆盖率和吸积率的关系
     * 多数尘埃都分布在几个pc内，mass-normalized accretion rate越高，covering factor越小
+
+----
+
+## September 29:
+
+#### [A 13CO Detection in a Brightest Cluster Galaxy](https://arxiv.org/abs/1709.09679)
+
+
+#### [What distinguishes the host galaxies of radio-loud and radio-quiet AGNs?](https://arxiv.org/abs/1709.09912)
+
+
+#### [The first 62 AGN observed with SDSS-IV MaNGA - I: their characterization and definition of a control sample](https://arxiv.org/abs/1709.10086)
+
+
+#### [Stacked star formation rate profiles of bursty galaxies exhibit 'coherent' star formation](https://arxiv.org/abs/1709.10099)
+
+
+#### [EasyCritics I: Efficient detection of strongly-lensing galaxy groups and clusters in wide-field surveys](https://arxiv.org/abs/1709.09758)
+
+
+#### [Centrally Concentrated X-ray Radiation from an Extended Accreting Corona in Active Galactic Nuclei](https://arxiv.org/abs/1709.09799)
