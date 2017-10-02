@@ -759,3 +759,22 @@
 #### [Centrally Concentrated X-ray Radiation from an Extended Accreting Corona in Active Galactic Nuclei](https://arxiv.org/abs/1709.09799)
     * AGN hard X-ray辐射的disk corona模型，大多数的硬X-ray辐射都来自于10倍史瓦西半径内的一个corona
     * Corona通过辐射，热传导和质量交换和吸积盘couple在一起；Eddington ratio越高，corona size越大
+
+
+----
+
+## September 30:
+
+#### [Probing the Metal Enrichment of the Intergalactic Medium at z=5−6 Using the Hubble Space Telescope](https://arxiv.org/abs/1709.10111)
+
+
+#### [The multiwavelength spectrum of NGC 3115: Hot accretion flow properties](https://arxiv.org/abs/1709.10114)
+
+
+#### [First Characterization of the Neutral ISM in Two Local Volume Dwarf Galaxies](https://arxiv.org/abs/1709.10161)
+
+
+#### [Chandra and ALMA observations of the nuclear activity in two strongly lensed star forming galaxies](https://arxiv.org/abs/1709.10427)
+
+
+#### [Galaxy Cluster Mass Reconstruction Project: III. The impact of dynamical substructure on cluster mass estimates](https://arxiv.org/abs/1709.10108)
