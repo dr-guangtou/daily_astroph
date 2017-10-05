@@ -60,3 +60,68 @@
 
 
 #### [The NuSTAR Extragalactic Survey: Average broad-band X-ray spectral properties of the NuSTAR detected AGN](https://arxiv.org/abs/1710.01041)
+
+
+----
+
+## October 4:
+
+#### [The effect of non-equilibrium metal cooling on the interstellar medium](https://arxiv.org/abs/1710.01302)
+
+
+#### [Near Infrared Variability of obscured and unobscured X-ray selected AGN in the COSMOS field](https://arxiv.org/abs/1710.01306)
+
+
+#### [The Effect of Turbulence on Nebular Emission Line Ratios](https://arxiv.org/abs/1710.01312)
+
+
+#### [Estimating Photometric Redshifts for X-ray sources in the X-ATLAS field, using machine-learning techniques](https://arxiv.org/abs/1710.01313)
+
+
+#### [The New Galaxy Evolution Paradigm Revealed by the Herschel Surveys](https://arxiv.org/abs/1710.01314)
+
+
+#### [The natural emergence of the correlation between H2 and star formation rate surface densities in galaxy simulations](https://arxiv.org/abs/1710.01315)
+
+
+#### [The Fate of Gas rich Satellites in Clusters](https://arxiv.org/abs/1710.01319)
+
+
+#### [Specific Frequencies and Luminosity Profiles of Cluster Galaxies and Intracluster Light in Abell 1689](https://arxiv.org/abs/1710.01322)
+
+
+#### [How large are the globular cluster systems of early-type galaxies and do they scale with galaxy halo properties?](https://arxiv.org/abs/1710.01324)
+
+
+#### [A Steady-State Spectral Model For Electron Acceleration And Cooling In Blazar Jets: Application To 3C 279](https://arxiv.org/abs/1710.01334)
+
+
+#### [What made discy galaxies giant?](https://arxiv.org/abs/1710.01341)
+
+
+#### [A Slowly Precessing Disk in the Nucleus of M31 as the Feeding Mechanism for a Central Starburst](https://arxiv.org/abs/1710.01394)
+
+
+#### [HI debris in the IC 1459 galaxy group](https://arxiv.org/abs/1710.01399)
+
+
+#### [Diverse nuclear star-forming activities in the heart of NGC 253 resolved with ten-pc scale ALMA images](https://arxiv.org/abs/1710.01432)
+
+
+#### [Evidence for higher black hole spin in radio-loud quasars](https://arxiv.org/abs/1710.01440)
+
+
+
+#### [WISDOM Project - III: Molecular gas measurement of the supermassive black hole mass in the barred lenticular galaxy NGC442](https://arxiv.org/abs/1710.01488)
+
+
+#### [Properties of the molecular gas in the fast outflow in the Seyfert galaxy IC 5063](https://arxiv.org/abs/1710.01570)
+
+
+#### [The origin of the X-ray, radio and HI structures in the NGC 5903 galaxy group](https://arxiv.org/abs/1710.01650)
+
+
+#### [What Are "X-Shaped" Radio Sources Telling Us? II. Properties of a Sample of 87](https://arxiv.org/abs/1710.01652)
+
+
+#### [Characterization of the Omega-WINGS galaxy clusters. I. Stellar light and mass profiles](https://arxiv.org/abs/1710.01666)
