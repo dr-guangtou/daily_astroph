@@ -202,3 +202,57 @@
 
 
 #### [Dark Energy Survey Year 1 Results: Cross-Correlation Redshifts in the DES -- Calibration of the Weak Lensing Source Redshift Distributions](https://arxiv.org/abs/1710.02517)
+
+
+#### [Binary Population and Spectral Synthesis Version 2.1: construction, observational verification and new results](https://arxiv.org/abs/1710.02154)
+    - **Relevant**
+
+
+----
+
+## October 10:
+
+#### [Ionized gas outflows in infrared-bright dust-obscured galaxies selected with WISE and SDSS](https://arxiv.org/abs/1710.02525)
+    * 用OIII线的线宽和offset发现IR bright的DOGs的外流比低红移Sy2强
+
+#### [The Persistence of Population III Star Formation](https://arxiv.org/abs/1710.02528)
+
+
+#### [Tidal interaction, star formation and chemical evolution in blue compact dwarf galaxy Mrk 22](https://arxiv.org/abs/1710.02645)
+    * high ionization lines of HeII λ4686 and CIV λ5808 from young massive stars are detected.
+    * The galaxy has a large diffuse HI envelop.
+
+#### [Galaxy evolution in the metric of the Cosmic Web](https://arxiv.org/abs/1710.02676)
+    - **Interesting**
+    * 用GAMA看星系性质随到Cosmic web特征距离的关系
+        - massive and/or passive galaxies being located closer to the filament and wall than their less massive and/or star-forming counterparts.
+        - The red fraction of galaxies increases when closing in on nodes, and on filaments regardless of the distance to nodes.
+    * qualitative explanation in terms of anisotropic assembly bias: at a given mass, the accretion rate varies with the orientation and distance to filaments.
+
+#### [The Fine Line Between Normal and Starburst Galaxies](https://arxiv.org/abs/1710.02757)
+    * ALMA CO 3-2研究一批低红移，处于normal SF和星暴之间的红外亮星系
+    * 认为对于SFR不是特别高的星系，到SF—MSeq的距离主要反应了气体比例
+
+
+#### [The MUSE Hubble Ultra Deep Field Survey: I. Survey description, data reduction and source detection](https://arxiv.org/abs/1710.03002)
+    - **Relevant**
+    * MUSE 10 hours的观测，
+
+#### [Exploring the Cosmic Evolution of Habitability with Galaxy Merger Trees](https://arxiv.org/abs/1710.03033)
+    * We find that 18 per cent of the stellar mass in the Universe is likely to have been irradiated within the last 260 Myr, with GRBs dominating that fraction.
+    * There are galaxies at all masses which have retained a high habitable fraction (>50 per cent) over the last 6 Gyr
+
+
+#### [The AMIGA sample of isolated galaxies XIII. The HI content of an almost "nurture free" sample](https://arxiv.org/abs/1710.03034)
+    * 最大的HI single dish observations of isolated galaxies to date
+        - define a metric of HI normalcy in the absence of interactions.
+    * HI-mass和D25和L_B的scaling relation --> 和Virgo的星系比较可以看到HI deficiency的程度
+
+#### [MC2: Subaru and Hubble Space Telescope Weak-Lensing Analysis of the Double Radio Relic Galaxy Cluster PLCK G287.0+32.9](https://arxiv.org/abs/1710.02527)
+    - **Relevant**
+    * z~0.4的>1.5x10^15 Msun的cluster; 有复杂，不对称的radio relics
+    * 不同的radio relics可能来自与不同的sub-cluster的并合
+
+
+#### [A Detection of z~2.3 Cosmic Voids from 3D Lyman-α Forest Tomography in the COSMOS Field](https://arxiv.org/abs/1710.02612)
+    * Lyman-alpha forrest 3-D tomograhy using LRIS
