@@ -172,19 +172,27 @@
 ## October 9:
 
 #### [Characterising and Identifying Galaxy Protoclusters](https://arxiv.org/abs/1710.02148)
-
+    - **Interesting**
+    * 用SAM看protocluster，认为在10 comoving Mpc范围内，计入Apertur shape的影响找cluster更准确，且能估计descendents的质量
+    * z>2的大质量星系大多数都在proto cluster里面；而且有很多proto-cluster里面都有AGN
 
 #### [SPICA and the Chemical Evolution of Galaxies: The Rise of Metals and Dust](https://arxiv.org/abs/1710.02150)
-
+    * SPICA研究星系化学演化的主要科学目标：
+        - the assembly of nearby galaxies based on the spatial distribution of heavy element abundances, the global content of metals in galaxies reaching the knee of the luminosity function up to z ∼ 3, and the dust composition of galaxies at high-z.
 
 #### [xCOLD GASS: the complete IRAM-30m legacy survey of molecular gas for galaxy evolution studies](https://arxiv.org/abs/1710.02157)
-
+    * 532个logM>9, 0.01 z 0.05的星系的IRAM和APEX分子气体观测，Arecibo HI观测和多波段测光数据
+    * Both molecular gas fractions (fH2 ) and depletion timescale (tdep(H2)) vary with specific star formation rate much more strongly than they depend on stellar mass.
 
 #### [Galaxy evolution studies with the SPace IR telescope for Cosmology and Astrophysics (SPICA): the power of IR spectroscopy](https://arxiv.org/abs/1710.02189)
+    * 介绍SPICA的基本科学目标
 
 
 #### [Stellar Photometric Structures of the Host Galaxies of Nearby Type 1 Active Galactic Nuclei](https://arxiv.org/abs/1710.02194)
-
+    - **Minjin Kim**
+    * 235个Sy1的HST观测的decomposition研究
+    * NLSy1多在late type星系里面出现；有更高的可能性和pseudo bulge和bar成协
+    * RLSy1多在早型，大质量的host里面，尽管盘也很普遍
 
 #### [A wide dispersion in star formation rate and dynamical mass of 10^8 solar mass black hole host galaxies at redshift 6](https://arxiv.org/abs/1710.02212)
 
@@ -193,19 +201,23 @@
 
 
 #### [Tracing the evolution of dust obscured star-formation and accretion back to the reionisation epoch with SPICA](https://arxiv.org/abs/1710.02353)
-
+    * Trace the evolution of the obscured SFRD and BHARD over cosmic time, from the peak of their activity back to the reionisation epoch
 
 #### [Feedback and feeding in the context of galaxy evolution with SPICA: direct characterization of molecular outflows and inflows](https://arxiv.org/abs/1710.02356)
-
+    * SPICA关于AGN feedback的科学规划
+        - Outflowing gas is identified in the far-infrared through P-Cygni line shapes and absorption blueshifted wings in molecular lines with high dipolar moments, and through emission line wings of fine-structure lines of ionized gas.
 
 #### [Galaxy overdensities around 3C radio galaxies and quasars at 1<z<2.5 revealed by Spitzer 3.6/4.5μm and Pan-STARRS](https://arxiv.org/abs/1710.02360)
-
+    * 高红移3CR星系周围的IRAC1，2星系count有overdensity，4.5 micron的主要是passive星系
 
 #### [Dark Energy Survey Year 1 Results: Cross-Correlation Redshifts in the DES -- Calibration of the Weak Lensing Source Redshift Distributions](https://arxiv.org/abs/1710.02517)
+    - **Relevant**
+    * DES Y1的clustering redshift，用redMagic星系做模板
 
 
 #### [Binary Population and Spectral Synthesis Version 2.1: construction, observational verification and new results](https://arxiv.org/abs/1710.02154)
     - **Relevant**
+    * BPASS incorporates binary mass transfer and its effect on stellar evolution pathways, as well as the construction of simple stellar populations.
 
 
 ----
@@ -256,3 +268,76 @@
 
 #### [A Detection of z~2.3 Cosmic Voids from 3D Lyman-α Forest Tomography in the COSMOS Field](https://arxiv.org/abs/1710.02612)
     * Lyman-alpha forrest 3-D tomograhy using LRIS
+
+
+----
+
+## October 11:
+
+#### [The MOSDEF Survey: Broad Emission Lines at z=1.4-3.8](https://arxiv.org/abs/1710.03230)
+    * 高红移SF星系里10%左右有 FWHM>300km/s的宽线探测，可能和外流引起的shock有关
+
+#### [An Ultraviolet Survey of Low-Redshift Partial Lyman-Limit Systems with the HST Cosmic Origins Spectrograph](https://arxiv.org/abs/1710.03232)
+    * LLS, partial LLS, DLA的搜索和频率
+    * pLLS的频率显示0.3-3.0L*星系的气体halo大小在100kpc左右
+
+#### [Investigating the evolution of the dual AGN system ESO~509-IG066](https://arxiv.org/abs/1710.03233)
+    * 并和星系中的双AGN，有一个的X-ray光度在7年时间里下降10倍
+    * 光度下降的AGN没有NuSTAR探测，且有Halpha宽线，说明下降可能是黑洞吸积率下降导致的
+
+#### [Self-consistent bulge/disk/halo galaxy dynamical modeling using integral field kinematics](https://arxiv.org/abs/1710.03241)
+    - **Important, Relevant**
+    * The method fits equilibrium models to simultaneously reproduce the surface brightness, rotation and velocity dispersion profiles of a galaxy.
+    * Our implementation (MagRite) is computationally efficient and can generate well-resolved models and kinematic maps in under a minute on modern processors.
+
+#### [Early metal enrichment of gas-rich galaxies at z~5](https://arxiv.org/abs/1710.03315)
+    * 在高红移星系里面利用吸收线测undepleted元素O的丰度
+    * 并没有在z>4.7就有显著的金属丰度的下降
+        - Observations of DLAs at 0 < z < 4.5 indicate that their metallicity decreases at a modest rate of about 0.2 dex per unit redshift
+        - 即便在z~5，也需要考虑dust depletion效应
+
+#### [Tidally disrupted dusty clumps as the origin of broad emission lines in active galactic nuclei](https://arxiv.org/abs/1710.03419)
+    - **王建民**
+    * 关于宽线区的起源：Tidally disrupted clumps from the torus may represent the source of the broad-line region gas.
+    * 当尘埃团块运动到尘埃升华半径以内时会被瓦解掉，然后被光致电离掉
+
+#### [Calibrating Star Formation in WISE using Total Infrared Luminosity](https://arxiv.org/abs/1710.03469)
+    * WISE W3 12微米宽波段测光可以作为不错的SFR tracer，对质量和金属丰度都不敏感
+
+#### [Stellar populations, stellar masses and the formation of galaxy bulges and discs at z<3 in CANDELS](https://arxiv.org/abs/1710.03477)
+    * 1074个星系的核盘分解，多数星系的核球和盘都在UVJ diagram的SF区域里面，核球更倾向于dusty SF, 盘的SFR更高
+    * bulge和disk的质量比例演化不大，可能意味着有内外的质量交换或者共同成长
+
+#### [Intracluster Light at the Frontier II: The Frontier Fields Clusters](https://arxiv.org/abs/1710.03240)
+    - **Relevant**
+    * FF六个星系团的SED给出的到120kpc的年龄和丰度profiles，ICL贫金属，比大质量星系年轻
+    * 0.3 < z < 0.6 没有明显的ICL比例的变化
+    * ICL follows the shape of their DM halo
+
+#### [Halo mass and weak galaxy-galaxy lensing profiles in rescaled cosmological N-body simulations](https://arxiv.org/abs/1710.03251)
+    * 用rescaling的方法，通过几个数值模拟就能预测不同Halo的g-g lens信号，考虑到了质量-concentraction-红移之间的联系，精度在Halo小半径处还可以
+
+
+----
+
+## October 12:
+
+#### [Evidence of Absence of Tidal Features in the Outskirts of Ultra Diffuse Galaxies in the Coma Cluster](https://arxiv.org/abs/1710.03762)
+
+
+#### [Gas flows in the circumgalactic medium around simulated high-redshift galaxies](https://arxiv.org/abs/1710.03765)
+
+
+#### [The MUSE Hubble Ultra Deep Field Survey: II. Spectroscopic redshifts and comparisons to color selections of high-redshift galaxies](https://arxiv.org/abs/1710.03773)
+
+
+#### [On the incidence of MgII absorbers along the blazar sightlines](https://arxiv.org/abs/1710.04020)
+
+
+#### [M82 - A radio continuum and polarisation study II. Polarisation and rotation measures](https://arxiv.org/abs/1710.04050)
+
+
+#### [LLAMA: Nuclear stellar properties of Swift BAT AGN and matched inactive galaxies](https://arxiv.org/abs/1710.04098)
+
+
+#### [Messier 81's Planck view vs its halo mapping](https://arxiv.org/abs/1710.04166)
