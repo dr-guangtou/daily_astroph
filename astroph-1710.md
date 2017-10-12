@@ -323,21 +323,31 @@
 ## October 12:
 
 #### [Evidence of Absence of Tidal Features in the Outskirts of Ultra Diffuse Galaxies in the Coma Cluster](https://arxiv.org/abs/1710.03762)
-
+    - **Relevant, Interesting**
+    * 用deep Subaru图像看Coma星系团里的UDG有没有tidal作用引起的position angle twist
+    * UDG按照轴比，到Coma中心的距离等性质分类叠加，没有看到明显的潮汐作用引起的twist
 
 #### [Gas flows in the circumgalactic medium around simulated high-redshift galaxies](https://arxiv.org/abs/1710.03765)
-
+    * 模拟MUSE在z~3观测到的LAE中的CGM，发现SN feedback对CGM有影响
+    * Our simulations do not predict the presence of fast-moving neutral outflows in the CGM. 中性气体外流速度较低，质量随距离下降很快
 
 #### [The MUSE Hubble Ultra Deep Field Survey: II. Spectroscopic redshifts and comparisons to color selections of high-redshift galaxies](https://arxiv.org/abs/1710.03773)
-
+    * 132 secure redshifts were obtained for sources with no Hubble Space Telescope (HST) counterparts that were discovered in the MUSE data cubes by a blind search for emission-line features.
+    * 可以用这些红移测试dropout方法的完备性：在z>3, 只有20-40%的完备程度 --> 本文提供了改进
 
 #### [On the incidence of MgII absorbers along the blazar sightlines](https://arxiv.org/abs/1710.04020)
-
+    * 一般认为QSO背景上，速度偏离高于5000 km/s的MgII团块和QSO无关，但有人发现Blazer背景上的MgII比QSO的多得多
+    * 这篇文章用更大的样本证实了这一结论，一直到很大的速度偏离上都可以有associated的MgII团块
 
 #### [M82 - A radio continuum and polarisation study II. Polarisation and rotation measures](https://arxiv.org/abs/1710.04050)
-
+    * The magnetic field morphology is similar to the one in other nearby starburst galaxies (NGC1569, NGC253) with possible large-scale magnetic loops in the halo and a helical magnetic field inside the outflow cones.
 
 #### [LLAMA: Nuclear stellar properties of Swift BAT AGN and matched inactive galaxies](https://arxiv.org/abs/1710.04098)
+    * 对于星系性质matched的AGN和非AGN: study the spatially resolved stellar kinematics and luminosity distributions at near-infrared wavelengths on scales of 10-150 pc
+    * we find no evidence for a difference in the stellar kinematics and nuclear stellar luminosity excess between these active and inactive galaxies.
 
 
 #### [Messier 81's Planck view vs its halo mapping](https://arxiv.org/abs/1710.04166)
+    * the CMB temperature asymmetry method thus is shown to act as a direct tool to map the galactic haloes and/or the intergalactic bridges, invisible in other bands or by other methods.
+        - the main aim of testing if microwave data show a substantial temperature asymmetry of one side with respect to the other about the rotation axis of the galactic disks.
+        - the detected temperature asymmetries are always almost frequency independent is a strong indication of an effect due to the galaxy rotation
