@@ -351,3 +351,68 @@
     * the CMB temperature asymmetry method thus is shown to act as a direct tool to map the galactic haloes and/or the intergalactic bridges, invisible in other bands or by other methods.
         - the main aim of testing if microwave data show a substantial temperature asymmetry of one side with respect to the other about the rotation axis of the galactic disks.
         - the detected temperature asymmetries are always almost frequency independent is a strong indication of an effect due to the galaxy rotation
+
+
+----
+
+## October 13:
+
+#### [The Impact of Star Formation Histories on Stellar Mass Estimation: Implications from the Local Group Dwarf Galaxies](https://arxiv.org/abs/1710.04214)
+
+
+#### [Simulating a metallicity-dependent initial mass function: Consequences for feedback and chemical abundances](https://arxiv.org/abs/1710.04222)
+    * Here we investigate simulations of the formation of Milky Way analogues run with an empirically derived metallicity- dependent IMF
+    * IMF变化对星系形态和SFH影响不大
+    * 对增丰历史和z~0的金属丰度分布影响很大，alpha/Fe和Fe丰度的关系更陡，和观测符合更好 (但其实哪个都不够好)
+
+
+#### [The Redshift Completeness of Local Galaxy Catalogs](https://arxiv.org/abs/1710.04223)
+    * 用ASASSN巡天的SNe hosts看local universe的完备性，SN让某些星系更容易被发现
+    * z<0.03的红移完备度在80%左右
+
+
+#### [LLAMA: Normal star formation efficiencies of molecular gas in the centres of luminous Seyfert galaxies](https://arxiv.org/abs/1710.04224)
+
+
+#### [Decoupled Black Hole Accretion and Quenching: The Relationship Between BHAR, SFR, and Quenching in Milky Way and Andromeda-mass Progenitors Since z = 2.5](https://arxiv.org/abs/1710.04225)
+    * 找银河系或M31的可能的progenitors，把IR SED分成BHAR和SFR的贡献，高红移的BHAR和SFR的相对贡献更重要
+    * Additionally, our finding that BHAR/SFR ratios do not track the rate at which progenitors quench casts doubts over the idea that the suppression of star-formation is predominantly driven by luminous AGN feedback
+
+#### [LoCuSS: Pre-processing in galaxy groups falling into massive galaxy clusters at z=0.2](https://arxiv.org/abs/1710.04230)
+    - **Relevant**
+    * direct evidence of pre-processing of the galaxies residing in galaxy groups falling into galaxy clusters
+    * The fraction fSF of star forming galaxies in infalling groups is lower and with a flatter trend with respect to clustercentric radius when compared to the rest of the cluster galaxy population.
+
+
+#### [Uplift, feedback and buoyancy: radio lobe dynamics in NGC 4472](https://arxiv.org/abs/1710.04235)
+
+
+#### [Global enhancement and structure formation of the magnetic field in spiral galaxies](https://arxiv.org/abs/1710.04307)
+    * 模拟研究：we find out that galactic magnetic field is mostly aligned with gaseous structures
+    * 旋臂上的磁场有更强的平均场成分，气体密度和等离子体的beta参数有反相关
+    * 随着盘和旋臂的演化，盘外围的磁场更容易增强
+
+#### [Redshift determination of the BL Lac object 3C66A by the detection of its host galaxy cluster at z=0.340](https://arxiv.org/abs/1710.04309)
+    * TeV gamma射线波段最亮的河外源之一
+    * 找周围的group，认为这个AGN是group的成员之一，可以定出红移 z>0.33
+
+#### [Deepest view of AGN X-ray variability with the 7 Ms Chandra Deep Field-South survey](https://arxiv.org/abs/1710.04358)
+    * if present, the observed trend goes in the direction of decreasing AGN
+variability at fixed luminosity toward large redshifts.
+    * 还找到了几个fast transients
+
+
+#### [The effects of the IMF on the chemical evolution of elliptical galaxies](https://arxiv.org/abs/1710.04439)
+    - **Relevant**
+    * we find a better agreement with data by assuming an inverse trend, where the IMF goes from being bottom heavy in less massive galaxies to top heavy in more massive ones. This naturally produces a down- sizing in star formation, favoring massive stars in largest galaxies.
+
+
+#### [Modeling the HeII Transverse Proximity Effect: Constraints on Quasar Lifetime and Obscuration](https://arxiv.org/abs/1710.04527)
+    * We develop a fully Bayesian statistical formalism to compare far UV He ii Ly↵ transmission spectra of the background quasars to our models, and extract joint constraints on tage and Omega_obsc
+
+
+#### [The Fornax Deep Survey (FDS) with the VST: III. Low Surface Brightness (LSB) dwarfs and Ultra Diffuse Galaxies (UDGs) in the center of the Fornax cluster](https://arxiv.org/abs/1710.04616)
+    - **Relevant**
+    * Fornax Deep Survey的gri图像搜索LSB: 196个LSB和9个UDG candidates
+    * Large UDG更elongated; 中心180kpc LSB的密度下降
+    * Our findings are consistent with the small UDGs forming the tail of a continuous distribution of less extended LSB galaxies. However, the elongated and distorted shapes of the large UDGs could imply that they are tidally disturbed galaxies.
