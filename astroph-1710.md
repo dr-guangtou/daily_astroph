@@ -416,3 +416,32 @@ variability at fixed luminosity toward large redshifts.
     * Fornax Deep Survey的gri图像搜索LSB: 196个LSB和9个UDG candidates
     * Large UDG更elongated; 中心180kpc LSB的密度下降
     * Our findings are consistent with the small UDGs forming the tail of a continuous distribution of less extended LSB galaxies. However, the elongated and distorted shapes of the large UDGs could imply that they are tidally disturbed galaxies.
+
+
+----
+
+## October 14:
+
+#### [The influence of Massive Black Hole Binaries on the Morphology of Merger Remnants](https://arxiv.org/abs/1710.04658)
+
+
+#### [Supermassive black holes and their feedback effects in the IllustrisTNG simulation](https://arxiv.org/abs/1710.04659)
+
+
+#### [The Origin of Molecular Clouds In Central Galaxies](https://arxiv.org/abs/1710.04664)
+
+
+#### [The XXL Survey: XXII. The XXL-North spectrophotometric sample and galaxy stellar mass function in X-ray detected groups and clusters](https://arxiv.org/abs/1710.04667)
+
+
+#### [Rapid formation of black holes in galaxies: a self-limiting growth mechanism](https://arxiv.org/abs/1710.04683)
+
+
+#### [Census of the Local Universe (CLU) I: Characterization of Galaxy Catalogs from Preliminary Fields](https://arxiv.org/abs/1710.05016)
+
+
+#### [Connecting traces of galaxy evolution: the missing core mass -- morphological fine structure relation](https://arxiv.org/abs/1710.05025)
+    - **Relevant**
+
+
+#### [Charge exchange in galaxy clusters](https://arxiv.org/abs/1710.04784)
