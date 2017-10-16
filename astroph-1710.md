@@ -358,7 +358,10 @@
 ## October 13:
 
 #### [The Impact of Star Formation Histories on Stellar Mass Estimation: Implications from the Local Group Dwarf Galaxies](https://arxiv.org/abs/1710.04214)
-
+    * 用能分解SFH的local group dwarf星系看光学SED得到的质光比是不是可靠
+    * 金属丰度演化影响光学波段的质光比测量，但是近红外基本可靠
+    * 用单一金属丰度倾向于低估星系的质量，在最年轻的星族年龄，质量倾向于被高估
+    * V-band光度和B-V或者g-r颜色在单一颜色测量里给出的scatter最小
 
 #### [Simulating a metallicity-dependent initial mass function: Consequences for feedback and chemical abundances](https://arxiv.org/abs/1710.04222)
     * Here we investigate simulations of the formation of Milky Way analogues run with an empirically derived metallicity- dependent IMF
@@ -372,7 +375,7 @@
 
 
 #### [LLAMA: Normal star formation efficiencies of molecular gas in the centres of luminous Seyfert galaxies](https://arxiv.org/abs/1710.04224)
-
+    * gas fractions and central SFEs of both active and inactive galaxies are similar when controlling for host stellar mass and morphology (Hubble type)
 
 #### [Decoupled Black Hole Accretion and Quenching: The Relationship Between BHAR, SFR, and Quenching in Milky Way and Andromeda-mass Progenitors Since z = 2.5](https://arxiv.org/abs/1710.04225)
     * 找银河系或M31的可能的progenitors，把IR SED分成BHAR和SFR的贡献，高红移的BHAR和SFR的相对贡献更重要
@@ -385,6 +388,8 @@
 
 
 #### [Uplift, feedback and buoyancy: radio lobe dynamics in NGC 4472](https://arxiv.org/abs/1710.04235)
+    * 有和射电瓣重合的X-ray cavity： detect enhanced X-ray rims around the radio lobes with sharp surface brightness discontinuities
+    * 气体的温度比ambient气体的低，说明不是来自AGN引起的shock，而是被靠浮力上升的射点bubble抬升的气体
 
 
 #### [Global enhancement and structure formation of the magnetic field in spiral galaxies](https://arxiv.org/abs/1710.04307)
@@ -423,25 +428,38 @@ variability at fixed luminosity toward large redshifts.
 ## October 14:
 
 #### [The influence of Massive Black Hole Binaries on the Morphology of Merger Remnants](https://arxiv.org/abs/1710.04658)
-
+    * major merger里面traxial的host才更适合产生SMBH binary
+    * SMBH binary的decay会造成中心切向非各项同性的增加，因为slingshot机制把恒星送到径向的轨道上
 
 #### [Supermassive black holes and their feedback effects in the IllustrisTNG simulation](https://arxiv.org/abs/1710.04659)
-
+    * We show that the quenching of massive central galaxies happens coincidently with kinetic-mode feedback
+    * 当中心10kpc内的冷却时标小于1Gyr以及当热气体的entropy index小于35 KeV cm^2的时候，分子气体才能被探测到。
 
 #### [The Origin of Molecular Clouds In Central Galaxies](https://arxiv.org/abs/1710.04664)
-
+    - **Relevant**
+    * 55个SFR和分子质量分布很宽的group或cluster中心星系的X-ray观测
+    * Molecular gas mass is correlated with star formation rate, Hα line luminosity, and central atmospheric gas density.
+    * The depletion timescale of molecular gas due to star formation approaches 1 Gyr in most systems 但ALMA观测显示很多分子气体都是刚刚形成的
+    * Some and possibly all of the molecular gas may instead have condensed from atmospheric gas lifted outward either by buoyantly-rising X-ray bubbles or merger-induced gas motions.
 
 #### [The XXL Survey: XXII. The XXL-North spectrophotometric sample and galaxy stellar mass function in X-ray detected groups and clusters](https://arxiv.org/abs/1710.04667)
-
+    * XXL巡天里面164个星系团和星系群的成员的光谱观测
+    * The shape of the GSMF seems not to depend on environment (field versus G&C) or X-ray luminosity
 
 #### [Rapid formation of black holes in galaxies: a self-limiting growth mechanism](https://arxiv.org/abs/1710.04683)
-
+    - 李智，沈俊太
+    * We argue that bars drive gas right into the nucleus in the early stages of disk galaxy formation, where a nuclear star cluster and perhaps a massive black hole could be created.
+    * 当中心nuclei的质量超过盘质量的1%的时候，inflow就会在nuclei ring处停滞
 
 #### [Census of the Local Universe (CLU) I: Characterization of Galaxy Catalogs from Preliminary Fields](https://arxiv.org/abs/1710.05016)
-
+    * Palomar 48 inches的大天区Halpha巡天：在200Mpc内做到了70%的恒星质量完备，和85%的SFR完备
+    * 能够找到一些有趣的星系，比如BCD和green pea
 
 #### [Connecting traces of galaxy evolution: the missing core mass -- morphological fine structure relation](https://arxiv.org/abs/1710.05025)
     - **Relevant**
+    * 看ETG里面的core depletion mass和其他与并合相关的精细结构的相关
 
 
 #### [Charge exchange in galaxy clusters](https://arxiv.org/abs/1710.04784)
+    * perform the most systematic search for the O viii charge exchange line in cluster spectra using the RGS on board XMM-Newton.
+    * 21个星系团的叠加，没有看到14.82A处的预期的线：If the charge exchange source indeed exists, we would expect that the oxygen abundance is potentially overestimated by 8 − 22% in previous X-ray measurements which assumed pure thermal lines.
