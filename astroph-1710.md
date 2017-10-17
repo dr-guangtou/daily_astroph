@@ -463,3 +463,49 @@ variability at fixed luminosity toward large redshifts.
 #### [Charge exchange in galaxy clusters](https://arxiv.org/abs/1710.04784)
     * perform the most systematic search for the O viii charge exchange line in cluster spectra using the RGS on board XMM-Newton.
     * 21个星系团的叠加，没有看到14.82A处的预期的线：If the charge exchange source indeed exists, we would expect that the oxygen abundance is potentially overestimated by 8 − 22% in previous X-ray measurements which assumed pure thermal lines.
+
+
+----
+
+## October 15:
+
+#### [SDSS IV MaNGA - sSFR profiles and the slow quenching of discs in green valley galaxies](https://arxiv.org/abs/1710.05034)
+
+
+#### [SDSS-IV MaNGA: The Spatial Distribution of Star Formation and its Dependence on Mass, Structure and Environment](https://arxiv.org/abs/1710.05049)
+
+
+#### [The MUSE Hubble Ultra Deep Field Survey: III. Testing photometric redshifts to 30th magnitude](https://arxiv.org/abs/1710.05062)
+
+
+#### [Average Spectral Properties of Type Ia Supernova Host Galaxies](https://arxiv.org/abs/1710.05208)
+
+
+#### [The intrinsic shape of bulges in the CALIFA survey](https://arxiv.org/abs/1710.05222)
+
+
+#### [Near Infrared spectroscopic observations of high redshift C~{\sc i} absorbers](https://arxiv.org/abs/1710.05369)
+
+
+#### [The Old Host-Galaxy Environment of SSS17a, the First Electromagnetic Counterpart to a Gravitational Wave Source](https://arxiv.org/abs/1710.05439)
+
+
+#### [Demographics of Star-forming Galaxies since z∼2.5. I. The UVJ Diagram in CANDELS](https://arxiv.org/abs/1710.05489)
+
+
+#### [Modelling the gas kinematics of an atypical Lyman-alpha emitting compact dwarf galaxy](https://arxiv.org/abs/1710.05534)
+
+
+#### [Spatial clustering and halo occupation distribution modeling of local AGN via cross-correlation measurements with 2MASS galaxies](https://arxiv.org/abs/1710.05638)
+
+
+#### [Discovery of massive star formation quenching by nonthermal effects in the center of NGC 1097](https://arxiv.org/abs/1710.05695)
+
+
+#### [High resolution observations of Cen A: Yellow and red supergiants in a region of jet-induced star formation?](https://arxiv.org/abs/1710.05770)
+
+
+#### [AGN feedback in dwarf galaxies?](https://arxiv.org/abs/1710.05900)
+
+
+#### [Galaxies in X-ray Selected Clusters and Groups in Dark Energy Survey Data II: Hierarchical Bayesian Modeling of Red-Sequence Galaxy Luminosity Function](https://arxiv.org/abs/1710.05900)
