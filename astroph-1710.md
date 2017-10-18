@@ -509,3 +509,28 @@ variability at fixed luminosity toward large redshifts.
 
 
 #### [Galaxies in X-ray Selected Clusters and Groups in Dark Energy Survey Data II: Hierarchical Bayesian Modeling of Red-Sequence Galaxy Luminosity Function](https://arxiv.org/abs/1710.05900)
+
+
+----
+
+## October 17:
+
+#### [Flame: A Flexible Data Reduction Pipeline for Near-Infrared and Optical Spectroscopys](https://arxiv.org/abs/1710.05924)
+
+
+#### [CANDELS: Elevated Black Hole Growth in the Progenitors of Compact Quiescent Galaxies at z~2](https://arxiv.org/abs/1710.05921)
+
+
+#### [Green Valley galaxies as a transition population in different environments](https://arxiv.org/abs/1710.05928)
+
+
+#### [Stellar feedback strongly alters the amplification and morphology of galactic magnetic fields](https://arxiv.org/abs/1710.05932)
+
+
+#### [The impact of Lyman-α radiative transfer on large-scale clustering in the Illustris simulations](https://arxiv.org/abs/1710.06171)
+
+
+#### [Discovery of a new, 2.2 Mpc Giant Radio Galaxy at a redshift of 0.57](https://arxiv.org/abs/1710.06182)
+
+
+#### [Role of Electon Excitation and Nature of Molecular Gas in Cluster Central Elliptical Galaxies](https://arxiv.org/abs/1710.06186)
