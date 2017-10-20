@@ -534,3 +534,65 @@ variability at fixed luminosity toward large redshifts.
 
 
 #### [Role of Electon Excitation and Nature of Molecular Gas in Cluster Central Elliptical Galaxies](https://arxiv.org/abs/1710.06186)
+
+
+#### [Role of Electon Excitation and Nature of Molecular Gas in Cluster Central Elliptical Galaxies](https://arxiv.org/abs/1710.06186)
+
+
+----
+
+## October 18:
+
+#### [The MUSE Hubble Ultra Deep Field Survey: IV. Global properties of C III emitters](https://arxiv.org/abs/1710.06432)
+
+
+#### [The scaling relation between baryonic mass and stellar disc size of morphologically late-type galaxies](https://arxiv.org/abs/1710.06440)
+
+
+#### [The extent of chemically enriched gas around star-forming dwarf galaxies](https://arxiv.org/abs/1710.06441)
+
+
+#### [Validating Semi-Analytic Models of High-Redshift Galaxy Formation using Radiation Hydrodynamical Simulations](https://arxiv.org/abs/1710.06442)
+
+
+#### [Deep Subaru Hyper Suprime-Cam observations of Milky Way satellites Columba I and Triangulum II](https://arxiv.org/abs/1710.06444)
+
+
+#### [Modeling chemical abundance distributions for dwarf galaxies in the Local Group: the impact of turbulent metal diffusion](https://arxiv.org/abs/1710.06533)
+
+
+#### [Atomic Gas in Blue Ultra Diffuse Galaxies around Hickson Compact Groups](https://arxiv.org/abs/1710.06557)
+
+
+#### [GAMA/G10-COSMOS/3D-HST: The 0<z<5 cosmic star-formation history, stellar- and dust-mass densities](https://arxiv.org/abs/1710.06628)
+
+
+#### [A possible formation scenario for dwarf spheroidal galaxies - III. Adding star formation histories to the fiducial model](https://arxiv.org/abs/1710.06696)
+
+
+#### [Weak lensing magnification of SpARCS galaxy clusters](https://arxiv.org/abs/1710.06431)
+
+
+#### [The Splashback Feature around DES Galaxy Clusters: Galaxy Density and Weak Lensing Profiles](https://arxiv.org/abs/1710.06808)
+
+
+----
+
+## October 19:
+
+#### [Gas contents of galaxy groups from thermal Sunyaev-Zel'dovich effects](https://arxiv.org/abs/1710.06856)
+
+
+#### [Feeding the fire: Tracing the mass-loading of 10^7 K galactic outflows with O VI absorption](https://arxiv.org/abs/1710.06857)
+
+
+#### [Dependence of Halo Bias and Kinematics on Assembly Variables](https://arxiv.org/abs/1710.06862)
+
+
+#### [The Constant Average Relationship between Dust-obscured Star Formation and Stellar Mass from z=0 to z=2.5](https://arxiv.org/abs/1710.06872)
+
+
+#### [Spectral Energy Distribution Variations of Nearby Seyfert Galaxies During AGN Watch Monitoring Programs](https://arxiv.org/abs/1710.07051)
+
+
+#### [Spectral Energy Distribution Variations of Nearby Seyfert Galaxies During AGN Watch Monitoring Programs](https://arxiv.org/abs/1710.07051)
