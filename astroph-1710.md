@@ -596,3 +596,65 @@ variability at fixed luminosity toward large redshifts.
 
 
 #### [Spectral Energy Distribution Variations of Nearby Seyfert Galaxies During AGN Watch Monitoring Programs](https://arxiv.org/abs/1710.07051)
+
+
+----
+
+## October 22:
+
+#### [Probing the Hot X-ray Corona around the Massive Spiral Galaxy, NGC 6753, Using Deep XMM-Newton observations](https://arxiv.org/abs/1710.07286)
+
+
+#### [The Magellan Evolution of Galaxies Spectroscopic and Ultraviolet Reference Atlas (MEGaSaURA) I: The Sample and the Spectra](https://arxiv.org/abs/1710.07294)
+
+
+#### [Stellar mass functions and implications for a variable IMF](https://arxiv.org/abs/1710.07296)
+
+
+#### [Size--luminosity relations and UV luminosity functions at z=6−9 simultaneously derived from the complete Hubble Frontier Fields data](https://arxiv.org/abs/1710.07301)
+
+
+#### [The Circum-Galactic Medium of MASsive Spirals II: Probing the Nature of Hot Gaseous Halo around the Most Massive Isolated Spiral Galaxies](https://arxiv.org/abs/1710.07355)
+
+
+#### [Galaxy evolution in groups. NGC 3447/NGC 3447A: the odd couple in LGG 225](https://arxiv.org/abs/1710.07474)
+
+
+#### [SDSS-IV MaNGA: Evidence of the importance of AGN feedback in low-mass galaxies](https://arxiv.org/abs/1710.07568)
+
+
+#### [SDSS-IV MaNGA: Star formation cessation in low-redshift galaxies I. Dependence on stellar mass and structural properties](https://arxiv.org/abs/1710.07569)
+
+
+#### [The Magellan Evolution of Galaxies Spectroscopic and Ultraviolet Reference Atlas (MEGaSaURA) II: Stacked Spectra](https://arxiv.org/abs/1710.07499)
+
+
+#### [NuSTAR view of the black hole wind in the galaxy merger IRAS F11119+3257](https://arxiv.org/abs/1710.07485)
+    * NuSTAR观测证实了之前的一个ultra fast outflow的观测，wind launch radius在16倍Rs左右
+    * 和之前观测比，气体柱密度有变化，可能说明wind比较clumpy
+    * 有分子气体外流观测，支持wind能量守恒的图像
+
+
+----
+
+## October 23:
+
+#### [Constraints on the Evolution of the Galaxy Stellar Mass Function II: Quenching Time Scale of Galaxies and its Implication on their Star Formation Rate](https://arxiv.org/abs/1710.07637)
+
+
+#### [The Lopsidedness of Satellite Galaxy Systems in ΛCDM simulations](https://arxiv.org/abs/1710.07639)
+
+
+#### [The infrared-radio correlation of spheroid- and disc-dominated star-forming galaxies to z ∼ 1.5 in the COSMOS field](https://arxiv.org/abs/1710.07655)
+
+
+#### [The MUSE Hubble Ultra Deep Field Survey: V. Spatially resolved stellar kinematics of galaxies at redshift 0.2≲z≲0.8](https://arxiv.org/abs/1710.07694)
+
+
+#### [Determination of Dark Matter Halo Mass from Dynamics of Satellite Galaxies](https://arxiv.org/abs/1710.08003)
+
+
+#### [MultiDark-Galaxies: data release and first results](https://arxiv.org/abs/1710.08150)
+
+
+#### [Observational signatures of a warped disk associated with cold-flow accretion](https://arxiv.org/abs/1710.08398)
