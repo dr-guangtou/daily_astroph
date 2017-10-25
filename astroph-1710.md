@@ -658,3 +658,31 @@ variability at fixed luminosity toward large redshifts.
 
 
 #### [Observational signatures of a warped disk associated with cold-flow accretion](https://arxiv.org/abs/1710.08398)
+
+
+----
+
+## October 24:
+
+#### [The Mass Growth and Stellar Ages of Galaxies: Observations versus Simulations](https://arxiv.org/abs/1710.08421)
+
+
+#### [On the nature of the luminous Lya emitter CR7 and its UV components: physical conditions and JWST predictions](https://arxiv.org/abs/1710.08422)
+
+
+#### [Two-Face(s): ionized and neutral gas winds in the local Universe](https://arxiv.org/abs/1710.08423)
+
+
+#### [Discovery of strong Balmer line absorption in two luminous LoBAL quasars at z~1.5](https://arxiv.org/abs/1710.08563)
+
+
+#### [Resolved star formation and molecular gas properties of green valley galaxies: a first look with ALMA and MaNGA](https://arxiv.org/abs/1710.08610)
+
+
+#### [Properties of the circumgalactic medium in simulations compared to observations](https://arxiv.org/abs/1710.08726)
+
+
+#### [A census of cool core galaxy clusters in IllustrisTNG](https://arxiv.org/abs/1710.08420)
+
+
+#### [Gas and galaxies in filament between clusters of galaxies: The study of A399-A401](https://arxiv.org/abs/1710.08699)
