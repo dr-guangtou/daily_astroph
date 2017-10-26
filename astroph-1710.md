@@ -686,3 +686,40 @@ variability at fixed luminosity toward large redshifts.
 
 
 #### [Gas and galaxies in filament between clusters of galaxies: The study of A399-A401](https://arxiv.org/abs/1710.08699)
+
+
+----
+
+## October 25:
+
+#### [The Reionization Lensing Cluster Survey (RELICS) and the Brightest High-z Galaxies](https://arxiv.org/abs/1710.08930)
+
+
+#### [Sloshing in its cD halo: MUSE kinematics of the central galaxy NGC 3311](https://arxiv.org/abs/1710.08941)
+
+
+#### [Very compact millimeter sizes for composite star-forming/AGN submillimeter galaxies](https://arxiv.org/abs/1710.09021)
+
+
+#### [The ISLAnds Project III: Variable Stars in Six Andromeda Dwarf Spheroidal Galaxies](https://arxiv.org/abs/1710.09038)
+
+
+#### [TUGC 4703 interacting pair near to an isolated spiral galaxy NGC 2718: A Milky Way Magellanic Cloud analogue](https://arxiv.org/abs/1710.09040)
+
+
+#### [BAT AGN Spectroscopic Survey--VIII. Type 1 AGN With Massive Absorbing Columns](https://arxiv.org/abs/1710.09117)
+
+
+#### [Quasar Photometric Redshifts and Candidate Selection: A New Algorithm Based on Optical and Mid-Infrared Photometric Data](https://arxiv.org/abs/1710.09155)
+
+
+#### [The MUSE Hubble Ultra Deep Field Survey: VII. FeII* Emission in Star-Forming Galaxies](https://arxiv.org/abs/1710.09195)
+
+
+#### [Fossil group origins: VIII RXJ075243.6+455653 a transitionary fossil group](https://arxiv.org/abs/1710.09229)
+
+
+#### [RELICS: Strong Lens Models for Five Galaxy Clusters From the Reionization Lensing Cluster Survey](https://arxiv.org/abs/1710.09329)
+
+
+#### [Morpho-kinematic properties of field S0 bulges in the CALIFA survey](https://arxiv.org/abs/1710.09349)
