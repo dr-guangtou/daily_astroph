@@ -723,3 +723,49 @@ variability at fixed luminosity toward large redshifts.
 
 
 #### [Morpho-kinematic properties of field S0 bulges in the CALIFA survey](https://arxiv.org/abs/1710.09349)
+
+
+----
+
+## October 26:
+
+#### [Tidal dwarf galaxies in cosmological simulations](https://arxiv.org/abs/1710.09380)
+
+
+#### [The Close AGN Reference Survey (CARS): Mrk 1018 halts dimming and experiences strong short-term variability](https://arxiv.org/abs/1710.09382)
+
+
+#### [SDSS-IV MaNGA: Identification of active galactic nuclei in optical integral field unit surveys](https://arxiv.org/abs/1710.09389)
+
+
+#### [The Faint End of the z=5 Quasar Luminosity Function from the CFHTLS](https://arxiv.org/abs/1710.09390)
+
+
+#### [Does the Galaxy-Halo Connection Vary with Environment?](https://arxiv.org/abs/1710.09392)
+
+
+#### [Linking black-hole growth with host galaxies: The accretion-stellar mass relation and its cosmic evolution](https://arxiv.org/abs/1710.09399)
+
+
+#### [On the Spatially Resolved Star Formation History in M51 I: Hybrid UV+IR Star Formation Laws and IR Emission from Dust Heated by Old Stars](https://arxiv.org/abs/1710.09401)
+
+
+#### [The resolved star formation history of M51a through successive Bayesian marginalisation](https://arxiv.org/abs/1710.09402)
+
+
+#### [On the Spatially Resolved Star-Formation History in M51 II: X-ray Binary Population Evolution](https://arxiv.org/abs/1710.09403)
+
+
+#### [Radiative cooling of swept up gas in AGN-driven galactic winds and its implications for molecular outflows](https://arxiv.org/abs/1710.09433)
+
+
+#### [The connection between the peaks in velocity dispersion and star-forming clumps of turbulent galaxies](https://arxiv.org/abs/1710.09457)
+
+
+#### [The Sunburst Arc: Direct Lyman α escape observed in the brightest known lensed galaxy](https://arxiv.org/abs/1710.09482)
+
+
+#### [Galaxy populations in massive z=0.2-0.9 clusters: I. Analysis of spectroscopy](https://arxiv.org/abs/1710.09514)
+
+
+#### [LOFAR reveals the giant: a low-frequency radio continuum study of the outflow in the nearby FR I radio galaxy 3C 31](https://arxiv.org/abs/1710.09746)
