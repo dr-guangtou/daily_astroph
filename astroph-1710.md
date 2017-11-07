@@ -1,4 +1,4 @@
-# Astro-ph: 2017-September
+# Astro-ph: 2017-October
 
 ---- Song Huang ----
 
@@ -769,3 +769,104 @@ variability at fixed luminosity toward large redshifts.
 
 
 #### [LOFAR reveals the giant: a low-frequency radio continuum study of the outflow in the nearby FR I radio galaxy 3C 31](https://arxiv.org/abs/1710.09746)
+
+
+----
+
+## October 29:
+
+#### [Lyα-Lyman Continuum connection in 3.5 < z < 4.3 star-forming galaxies from the VUDS survey](https://arxiv.org/abs/1710.10184)
+
+
+#### [Molecular gas in AzTEC/C159: a star-forming disk galaxy 1.3Gyr after the Big Bang](https://arxiv.org/abs/1710.10181)
+
+
+#### [Cosmological evolution of the Nitrogen abundance](https://arxiv.org/abs/1710.10075)
+
+
+#### [A new model framework for circumgalactic Lyα radiative transfer constrained by galaxy-Lyα forest clustering](https://arxiv.org/abs/1710.10053)
+
+
+#### [The KMOS Cluster Survey (KCS) III: fundamental plane of cluster galaxies at z≃1.80 in JKCS 041](https://arxiv.org/abs/1710.10050)
+
+
+#### [Tidal origin of NGC 1427A in the Fornax cluster](https://arxiv.org/abs/1710.09947)
+
+
+#### [A Spectroscopic Survey of the Fields of 28 Strong Gravitational Lenses: The Group Catalog](https://arxiv.org/abs/1710.09908)
+
+
+#### [A Spectroscopic Survey of the Fields of 28 Strong Gravitational Lenses: Implications for H0](https://arxiv.org/abs/1710.09900)
+
+
+#### [Inefficient jet-induced star formation in Centaurus A: High resolution ALMA observations of the northern filaments](https://arxiv.org/abs/1710.09851)
+
+----
+
+## October 30:
+
+#### [Multiple Mechanisms Quench Passive Spiral Galaxies](https://arxiv.org/abs/1710.10843)
+
+
+#### [The VIMOS Ultra-Deep Survey: evidence for AGN feedback in galaxies with CIII-λ1908Å~emission 10.8 to 12.5 Gyr ago](https://arxiv.org/abs/1710.10715)
+
+
+#### [Revealing the Milky Way's Hidden Circumgalactic Medium with the COS Quasar Database for Galactic Absorption Lines](https://arxiv.org/abs/1710.10703)
+
+
+#### [Spiral arms in CALIFA galaxies traced by non-circular velocities, abundances, and extinctions](https://arxiv.org/abs/1710.10320)
+
+
+#### [ALMA CO(3-2) Observations of Star-Forming Filaments in a Gas-Poor Dwarf Spheroidal Galaxy](https://arxiv.org/abs/1710.10282)
+
+
+#### [Dust temperature and mid-to-total infrared color distributions for star-forming galaxies at 0<z<4](https://arxiv.org/abs/1710.10276)
+
+
+#### [The MUSE Hubble Ultra Deep Field Survey VIII : Extended Lyman-alpha haloes around high-redshift star-forming galaxies](https://arxiv.org/abs/1710.10271)
+
+
+#### [The most massive black holes on the Fundamental Plane of Black Hole Accretion](https://arxiv.org/abs/1710.10268)
+
+
+#### [The most massive black holes on the Fundamental Plane of Black Hole Accretion](https://arxiv.org/abs/1710.10268)
+
+
+#### [Overdensity of galaxies in the environment of quasar pairs](https://arxiv.org/abs/1710.10759)
+
+
+----
+
+## October 31:
+
+#### [The most ancient spiral galaxy: a 2.6-Gyr-old disk with a tranquil velocity field](https://arxiv.org/abs/1710.11130)
+
+
+#### [The Dearth of z~10 Galaxies in all HST Legacy Fields -- The Rapid Evolution of the Galaxy Population in the First 500 Myr](https://arxiv.org/abs/1710.11131)
+
+
+#### [The mass-metallicity relations for gas and stars in star-forming galaxies: strong outflow vs variable IMF](https://arxiv.org/abs/1710.11135)
+
+
+#### [Initial Mass Function Variability (or not) Among \\ Low-Velocity Dispersion, Compact Stellar Systems](https://arxiv.org/abs/1710.11144)
+
+
+#### [Through a Smoother Lens: An expected absence of LCDM substructure detections from hydrodynamic and dark matter only simulations](https://arxiv.org/abs/1710.11148)
+
+
+#### [Boxy Orbital Structures in Rotating Bar Models](https://arxiv.org/abs/1710.11163)
+
+
+#### [The Star Forming Main Sequence of Dwarf Low Surface Brightness Galaxies](https://arxiv.org/abs/1710.11236)
+
+
+#### [Lost but not Forgotten: Intracluster Light in Galaxy Groups and Clusters](https://arxiv.org/abs/1710.11313)
+
+
+#### [Modelling the cosmic spectral energy distribution and extragalactic background light over all time](https://arxiv.org/abs/1710.11329)
+
+
+#### [Gas clump formation via thermal instability in high-redshift dwarf galaxy mergers](https://arxiv.org/abs/1710.11503)
+
+
+#### [Exploring SMBH Assembly with Semi-analytic Modelling](https://arxiv.org/abs/1710.11532)
