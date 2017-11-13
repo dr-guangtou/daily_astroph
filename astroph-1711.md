@@ -144,3 +144,98 @@
 
 
 #### [Gas sloshing regulates and records the evolution of the Fornax Cluster](https://arxiv.org/abs/1710.01523)
+
+
+----
+
+## Nov 7:
+
+#### [Very low-luminosity galaxies in the early universe have observed sizes similar to single star cluster complexes](https://arxiv.org/abs/1710.02090)
+
+
+#### [The power of infrared AGN selection in mergers: a theoretical study](https://arxiv.org/abs/1710.02094)
+
+
+#### [The KMOS3D Survey: rotating compact star forming galaxies and the decomposition of integrated line widths](https://arxiv.org/abs/1710.02111)
+
+
+#### [Broadband Photometric Reverberation Mapping Analysis on SDSS-RM and Stripe 82 Quasars](https://arxiv.org/abs/1710.02167)
+
+
+#### [Bayesian surface photometry analysis for early-type galaxies](https://arxiv.org/abs/1710.02188)
+    - **Relevant**
+
+
+#### [Demise of Faint Satellites around Isolated Early-type Galaxies](https://arxiv.org/abs/1710.02336)
+
+
+#### [Connecting the Cosmic Star Formation Rate with the Local Star Formation](https://arxiv.org/abs/1710.02481)
+
+
+#### [A 100 kpc nebula associated with the "Teacup" fading quasar](https://arxiv.org/abs/1710.02529)
+
+
+#### [Mass profile decomposition of the Frontier Fields cluster MACS J0416-02403. Insights on the Dark-Matter inner profile](https://arxiv.org/abs/1710.02109)
+
+
+#### [Mass profile decomposition of the Frontier Fields cluster MACS J0416-02403. Insights on the Dark-Matter inner profile](https://arxiv.org/abs/1710.02109)
+
+
+----
+
+## Nov 8:
+
+#### [Serendipitous discovery of quadruply-imaged quasars: two diamonds](https://arxiv.org/abs/1710.02674)
+
+
+#### [Stripping of the Hot Gas Halos in Member Galaxies of Abell 1795](https://arxiv.org/abs/1710.02675)
+
+
+#### [Global Properties of M31's Stellar Halo from the SPLASH Survey: III. Measuring the Stellar Velocity Dispersion Profile](https://arxiv.org/abs/1710.02700)
+
+
+#### [The luminous, massive and solar metallicity galaxy hosting the Swift gamma-ray burst, GRB 160804A at z = 0.737](https://arxiv.org/abs/1710.02706)
+
+
+#### [Serendipitous discovery of an optical emission line jet in NGC\,232](https://arxiv.org/abs/1710.02706)
+
+
+----
+
+## Nov 9:
+
+#### [Deep learning for galaxy surface brightness profile fitting](https://arxiv.org/abs/1710.03108)
+
+
+#### [The Sloan Digital Sky Survey Reverberation Mapping Project: Hα and Hβ Reverberation Measurements From First-year Spectroscopy and Photometry](https://arxiv.org/abs/1710.03114)
+
+
+#### [The Lyman Alpha Reference Sample. VIII. Characterizing Lyman-Alpha Scattering in Nearby Galaxies](https://arxiv.org/abs/1710.03123)
+
+
+#### [Testing for Shock-Heated X-ray Gas Around Compact Steep Spectrum Radio Galaxies](https://arxiv.org/abs/1710.03157)
+
+
+#### [Cosmic Star Formation: a simple model of the SFRD(z)](https://arxiv.org/abs/1710.03416)
+
+
+#### [The MUSE Hubble Ultra Deep Field Survey VI: The Faint-End of the Lya Luminosity Function at 2.91 < z < 6.64 and Implications for Reionisation](https://arxiv.org/abs/1710.03095)
+
+
+----
+
+## Nov 12:
+
+#### [The KMOS Deep Survey (KDS) II: The evolution of the stellar-mass Tully-Fisher relation since z ~ 4](https://arxiv.org/abs/1710.03604)
+    * 在相同质量上，高红移disk星系旋转比local的慢
+    * 但很多近邻disk星系的前身在高红移未必是旋转主导的，不过dispersion主导的星系的质量-速度关系一样
+
+
+#### [SILVERRUSH. V. Census of Lya, OIII5007, Ha, and CII158um Line Emission with ~1000 LAEs at z=4.9-7.0 Revealed with Subaru/HSC](https://arxiv.org/abs/1710.03735)
+    * SPLASH:Spitzer+HSC的一个很大的高红移LAE样本
+    * Lya等值宽度越高，Halpha等值宽度也越高，Lya逃逸比例也越高；这个关系和z=0-2类似
+    * Lya等值宽度和金属丰度的简单反相关可以解释看到的[OII]/Halpha和Lya等值宽度的关系
+
+
+#### [The Illustris Simulation: Supermassive Black Hole - Galaxy Connection Beyond the Bulge](https://arxiv.org/abs/1710.03958)
+    * Illustris 里面也有黑洞质量和旋臂pitch angle的关系
