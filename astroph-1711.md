@@ -273,6 +273,10 @@
 
 
 #### [The Dependence of Bar Frequency on Galaxy Mass, Colour, and Gas Content -- and Angular Resolution -- in the Local Universe](https://arxiv.org/abs/1711.04867)
+    - **Relevant**
+    * S4G样本；bar比例在10^10 Msun达到最高，和颜色以及HI气体比例关系不大
+    * Bars are thus as common in blue, gas-rich galaxies as they are in red, gas- poor galaxies.
+    * 之前SDSS的结论主要受到分辨率的影响
 
 
 #### [Characterizing Dust Attenuation in Local Star Forming Galaxies: Inclination Effects and the 2175Å Feature](https://arxiv.org/abs/1711.04814)
@@ -301,9 +305,38 @@
 
 
 #### [RAiSE III: 3C radio AGN energetics and composition](https://arxiv.org/abs/1711.04600)
-
+    * We propose a new methodology to calculate the jet powers of the largest, most powerful radio sources based on combinations of their size, lobe luminosity and shape of their radio spectrum
+    * lobe光度和谱指数就能估计jet power，不需要resolve; 加上lobe的大小可以估计体积，从而可以估计jet age
 
 
 #### [DES meets Gaia: discovery of strongly lensed quasars from a multiplet search](https://arxiv.org/abs/1711.03971)
     - first lens models of the first two, strongly lensed quasars from a combined search in WISE and Gaia over the DES footprint.
     * DES+WISE quasar multiplet selection
+
+----
+
+## Nov 14:
+
+#### [The evolution of the mass-metallicity relation in IllustrisTNG](https://arxiv.org/abs/1711.05261)
+
+
+#### [A WISE view of the composite luminosity function of cluster members](https://arxiv.org/abs/1711.05266)
+
+
+#### [The Stellar Populations of Two Ultra-Diffuse Galaxies from Optical and Near-infrared Photometry](https://arxiv.org/abs/1711.05272)
+    - **Relevant**
+
+
+#### [Disruption of Dark Matter Substructure: Fact or Fiction?](https://arxiv.org/abs/1711.05276)
+
+
+#### [SPLASH-SXDF Multi-wavelength Photometric Catalog](https://arxiv.org/abs/1711.05280)
+
+
+#### [Using Real and Simulated Measurements of the Thermal Sunyaev-Zel'dovich Effect to Constrain Models of AGN Feedback](https://arxiv.org/abs/1711.05304)
+
+
+#### [A hidden molecular outflow in the LIRG Zw 049.057](https://arxiv.org/abs/1711.05321)
+
+
+#### [Sunyaev-Zel'dovich Effect and X-ray Scaling Relations from Weak-Lensing Mass Calibration of 32 SPT Selected Galaxy Clusters](https://arxiv.org/abs/1711.05344)
