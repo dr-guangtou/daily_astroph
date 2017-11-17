@@ -315,7 +315,7 @@
 
 ----
 
-## Nov 14:
+## Nov 15:
 
 #### [The evolution of the mass-metallicity relation in IllustrisTNG](https://arxiv.org/abs/1711.05261)
 
@@ -340,3 +340,33 @@
 
 
 #### [Sunyaev-Zel'dovich Effect and X-ray Scaling Relations from Weak-Lensing Mass Calibration of 32 SPT Selected Galaxy Clusters](https://arxiv.org/abs/1711.05344)
+
+
+----
+
+## Nov 16:
+
+#### [Improving galaxy morphologies for SDSS with Deep Learning](https://arxiv.org/abs/1711.05744)
+    - **Interesting; Useful**
+
+
+#### [Galaxy structure from multiple tracers: III. Radial variations in M87's IMF](https://arxiv.org/abs/1711.05813)
+    - **Relevant**
+
+
+#### [KDG 218, a Nearby Ultra-Diffuse Galaxy](https://arxiv.org/abs/1711.06074)
+    - **Relevant**
+
+
+#### [Galaxy And Mass Assembly: Automatic Morphological Classification of Galaxies Using Statistical Learning](https://arxiv.org/abs/1711.06125)
+    - **Interesting; Useful**
+
+
+#### [Using Strong Gravitational Lensing to Identify Fossil Group Progenitors](https://arxiv.org/abs/1711.06205)
+    - **Relevant**
+
+
+#### [A Multi-wavelength Analysis of Binary-AGN Candidate PSO J334.2028+01.4075](https://arxiv.org/abs/1711.05750)
+
+
+#### [An excess of low-mass X-ray binaries in the outer halo of NGC 4472](https://arxiv.org/abs/1711.05756)
