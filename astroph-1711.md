@@ -370,3 +370,21 @@
 
 
 #### [An excess of low-mass X-ray binaries in the outer halo of NGC 4472](https://arxiv.org/abs/1711.05756)
+
+----
+
+## Nov 19:
+
+#### [Joint NuSTAR and Chandra analysis of the obscured quasar in IC 2497 - Hanny's Voorwerp system](https://arxiv.org/abs/1711.06270)
+
+
+#### [Occurrence of LINER galaxies within the galaxy group environment](https://arxiv.org/abs/1711.06291)
+
+
+#### [Stellar population properties for 2 million galaxies from SDSS DR14 and DEEP2 DR4 from full spectral fitting](https://arxiv.org/abs/1711.06575)
+
+
+#### [A possible binary AGN in Mrk 622?](https://arxiv.org/abs/1711.06655)
+
+
+#### [Modelling Baryonic Effects on Galaxy Cluster Mass Profiles](https://arxiv.org/abs/1711.06366)
