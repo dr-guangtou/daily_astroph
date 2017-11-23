@@ -371,6 +371,7 @@
 
 #### [An excess of low-mass X-ray binaries in the outer halo of NGC 4472](https://arxiv.org/abs/1711.05756)
 
+
 ----
 
 ## Nov 19:
@@ -388,3 +389,84 @@
 
 
 #### [Modelling Baryonic Effects on Galaxy Cluster Mass Profiles](https://arxiv.org/abs/1711.06366)
+
+
+----
+
+## Nov 20:
+
+#### [Identifying the progenitors of present-day early-type galaxies in observational surveys: correcting `progenitor bias' using the Horizon-AGN simulation](https://arxiv.org/abs/1711.06694)
+    - **Important, Relevant**
+    * We provide a framework for alleviating ‘progenitor bias’ – the bias that occurs if one uses only early-type galaxies to study the progenitor population.
+    * At all redshifts, the majority of mergers have one late-type progenitor, with late-late mergers dominating at z > 1.5 and early-early mergers becoming significant only at z < 0.5.
+    * At high redshift, almost all massive late-type galaxies, regardless of their local environment or star-formation rate, are progenitors of local early-type galaxies
+
+
+#### [The stellar orbit distribution in present-day galaxies inferred from the CALIFA survey](https://arxiv.org/abs/1711.06728)
+    - **Important, Relevant**
+    * Our analysis derives the orbit-circularity distribution as a function of galaxy mass and its volume-averaged total distribution
+    * 在大多数质量段，恒星都处于中等角动量的轨道上，既不是完全cold也不是完全hot
+    * 给出了一个orbital based Hubble diagram
+
+
+#### [Hierarchical Bayesian inference of the Initial Mass Function in Composite Stellar Populations](https://arxiv.org/abs/1711.07192)
+    - **Relevant**
+    * To alleviate these limitations, in this paper we have developed a unique hierarchical Bayesian framework for modelling composite stellar populations (CSPs). Within this framework we use a parameterized IMF prior to regulate a direct inference of the IMF.
+    * Our results suggest that using a single SSP biases the determination of the IMF slope to a higher value than the true slope, although the trend with stellar velocity dispersion is overall recovered.
+    * Our results suggest that using a single SSP biases the determination of the IMF slope to a higher value than the true slope, although the trend with stellar velocity dispersion is overall recovered.
+
+#### [Models of gravitational lens candidates from Space Warps CFHTLS](https://arxiv.org/abs/1711.07297)
+    - SpaghettiLens引力透镜建模；就是大致看了一下模型给出的lensing质量的分布
+
+#### [Mapping the Tidal Disruption of the Hercules Dwarf: A Wide-Field DECam Imaging Search for RR Lyrae Stars](https://arxiv.org/abs/1711.07469)
+    - 三个和矮星系关联的RR Lyr，都位于潮汐半径之外
+    - 已知9个RR Lyr位于潮汐半径以内，这个比例暗示潮汐瓦解的影响
+
+
+#### [Chandra Imaging of the Outer Accretion Flow onto the Black Hole at the Center of the Perseus Cluster](https://arxiv.org/abs/1711.07418)
+    - Hitomi 观测发现了距离黑洞6-45pc的来自吸积物质的FeK alpha荧光发射；这篇工作是用Chandra补充观测
+    - X-ray也可以做lucky imaging
+
+
+----
+
+## Nov 21:
+
+#### [Simulating and interpreting deep JWST/NIRSpec observations in the Hubble Ultra Deep Field](https://arxiv.org/abs/1711.07481)
+
+
+#### [Gemini IFU, VLA and HST observations of the OH Megamaser galaxy IRASF23199+0123: the hidden monster and its outflow](https://arxiv.org/abs/1711.07522)
+
+
+#### [Infalling groups and galaxy transformations in the cluster A2142](https://arxiv.org/abs/1711.07806)
+
+
+#### [Diffuse ionized gas in galaxies across the Hubble sequence at the CALIFA resolution](https://arxiv.org/abs/1711.07844)
+
+
+#### [Physical Conditions in Ultra Fast Outflows in AGN](https://arxiv.org/abs/1711.07965)
+
+
+#### [Quasar lenses and pairs in the VST-ATLAS and Gaia](https://arxiv.org/abs/1711.07492)
+
+
+#### [The broad band SEDs of four 'hypervariable' AGN](https://arxiv.org/abs/1711.07538)
+
+
+----
+
+## Nov 22:
+
+#### [Revisiting the bulge-halo conspiracy II: Towards explaining its puzzling dependence on redshift](https://arxiv.org/abs/1711.07986)
+
+
+#### [CO excitation in the Seyfert galaxy NGC 34: stars, shock or AGN driven?](https://arxiv.org/abs/1711.07995)
+
+
+#### [Tracing the Assembly History of NGC 1395 through its Globular Cluster System](https://arxiv.org/abs/1711.08046)
+
+
+#### [Discovery of 21 New Changing-look AGNs in Northern Sky](https://arxiv.org/abs/1711.08122)
+
+
+#### [Resolving the Internal Structure of Circum-Galactic Medium using Gravitationally Lensed Quasars](https://arxiv.org/abs/1711.08131)
