@@ -470,3 +470,71 @@
 
 
 #### [Resolving the Internal Structure of Circum-Galactic Medium using Gravitationally Lensed Quasars](https://arxiv.org/abs/1711.08131)
+
+
+----
+
+## Nov 26:
+
+#### [Ultra-Red Galaxies Signpost Candidate Proto-Clusters at High Redshift](https://arxiv.org/abs/1711.08803)
+
+
+#### [Galaxies Probing Galaxies in PRIMUS - I. Sample, Spectroscopy, and Characteristics of the z~0.5 MgII-Absorbing Circumgalactic Medium](https://arxiv.org/abs/1711.08807)
+
+
+#### [Measuring the Physical Conditions in High-Redshift Star-Forming Galaxies: Insights from KBSS-MOSFIRE](https://arxiv.org/abs/1711.08820)
+
+
+#### [3D motions in the Sculptor dwarf galaxy as a glimpse of a new era](https://arxiv.org/abs/1711.08945)
+
+
+#### [MUSE observations of M87: radial gradients for the stellar initial-mass function and the abundance of Sodium](https://arxiv.org/abs/1711.08980)
+
+
+#### [NGC 5626: a massive fast rotator with a twist](https://arxiv.org/abs/1711.08981)
+
+
+#### [MUSE observations of the counter-rotating nuclear ring in NGC 7742](https://arxiv.org/abs/1711.08982)
+
+
+#### [MUSE observations of the counter-rotating nuclear ring in NGC 7742](https://arxiv.org/abs/1711.08982)
+
+
+----
+
+## Nov 27:
+
+#### [The Orbit and Origin of the Ultra-faint Dwarf Galaxy Segue~1](https://arxiv.org/abs/1711.09097)
+
+
+#### [Discovery of a thin stellar stream in the SLAMS survey](https://arxiv.org/abs/1711.09103)
+
+
+#### [Cold Filamentary Accretion and the Formation of Metal Poor Globular Clusters and Halo Stars](https://arxiv.org/abs/1711.09108)
+
+
+#### [From light to baryonic mass: the effect of the stellar mass-to-light ratio on the Baryonic Tully-Fisher relation](https://arxiv.org/abs/1711.09112)
+
+
+#### [Galaxy And Mass Assembly (GAMA): the G02 field, Herschel-ATLAS target selection and Data Release 3](https://arxiv.org/abs/1711.09139)
+
+
+#### [SDSS-IV MANGA: Spatially Resolved Star Formation Main Sequence and LI(N)ER Sequence](https://arxiv.org/abs/1711.09162)
+
+
+#### [Increased Prevalence of Bent Lobes for Double-Lobed Radio Galaxies in Dense Environments](https://arxiv.org/abs/1711.09290)
+
+
+#### [Globular cluster population of the HST frontier fields galaxy J07173724+3744224](https://arxiv.org/abs/1711.09500)
+
+
+#### [Kinematics and Optical Depth in the Green Peas: Suppressed Superwinds in Candidate LyC Emitters](https://arxiv.org/abs/1711.09516)
+
+
+#### [Radio Galaxy Zoo: A Search for Hybrid Morphology Radio Galaxies](https://arxiv.org/abs/1711.09611)
+
+
+#### [The diverse density profiles of galaxy clusters with self-interacting dark matter plus baryons](https://arxiv.org/abs/1711.09096)
+
+
+#### [The shape of galaxy dark matter halos in massive galaxy clusters: Insights from strong gravitational lensing](https://arxiv.org/abs/1711.09882)
