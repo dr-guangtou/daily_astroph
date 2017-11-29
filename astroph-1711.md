@@ -505,6 +505,8 @@
 ## Nov 27:
 
 #### [The Orbit and Origin of the Ultra-faint Dwarf Galaxy Segue~1](https://arxiv.org/abs/1711.09097)
+    * proper motion measurement for the ultra-faint dwarf spheroidal galaxy Segue 1
+    * Segue 1 is rather tightly bound to the Milky Way.
 
 
 #### [Discovery of a thin stellar stream in the SLAMS survey](https://arxiv.org/abs/1711.09103)
@@ -529,12 +531,60 @@
 
 
 #### [Kinematics and Optical Depth in the Green Peas: Suppressed Superwinds in Candidate LyC Emitters](https://arxiv.org/abs/1711.09516)
+    * HST UV spectrum of GP看其中有没有superwind，以及对Lyalpha逃逸的影响
+    * The data suggest that high ionization kinematics tracing superwind activity may correlate with low optical depth in some objects
+    * 但极端的GP中却看到弱的低电离吸收线，速度很低
 
 
 #### [Radio Galaxy Zoo: A Search for Hybrid Morphology Radio Galaxies](https://arxiv.org/abs/1711.09611)
+    * 25 new candidate hybrid morphology radio galaxies: 两次的FR类型不一样
+    * 这些奇怪的射电星系形态可能源于环境，也可能来自于自身AGN性质，比如进动
 
 
 #### [The diverse density profiles of galaxy clusters with self-interacting dark matter plus baryons](https://arxiv.org/abs/1711.09096)
+    * SIDM+Baryon: They exhibit a greater diversity in both dark matter and stellar density profiles than their collisionless (CDM) counterparts
 
 
 #### [The shape of galaxy dark matter halos in massive galaxy clusters: Insights from strong gravitational lensing](https://arxiv.org/abs/1711.09882)
+    * 用Cluster里面multiimages的分布看DM halo形状
+    * We find tentative evidence that some galaxies’ dark matter has surprisingly similar ellipticity to their stars, but orientation if often misaligned.
+
+
+----
+
+## Nov 28:
+
+#### [AKARI/IRC source catalogues and source counts for the IRAC Dark Field, ELAIS North and the AKARI Deep Field South](https://arxiv.org/abs/1711.09097)
+
+
+#### [Correlation Between the Total Gravitating Mass of Groups and Clusters and the Supermassive Black Hole Mass of Brightest Galaxies](https://arxiv.org/abs/1711.09900)
+
+
+#### [Tomographic Intensity Mapping versus Galaxy Surveys: Observing the Universe in H-alpha emission with new generation instruments](https://arxiv.org/abs/1711.09900)
+
+
+#### [Bars in dark matter-dominated dwarf galaxy discs](https://arxiv.org/abs/1711.09914)
+
+
+#### [To the Galactic Virial Radius with Hyper Suprime-Cam](https://arxiv.org/abs/1711.09928)
+
+
+#### [Cross-ionization of gas in AGN companion galaxies as a probe of AGN radiation in time and angle](https://arxiv.org/abs/1711.09936)
+
+
+#### [Digging for red nuggets: discovery of a hot halo surrounding a massive, compact relic galaxy](https://arxiv.org/abs/1711.09983)
+
+
+#### [Starbursts in and out of the star-formation main sequence](https://arxiv.org/abs/1711.10047)
+
+
+#### [No sign of strong molecular gas outflow in an infrared-bright dust-obscured galaxy with strong ionized-gas outflow](https://arxiv.org/abs/1711.10091)
+
+
+#### [Circumnuclear Multi-phase Gas in Circinus Galaxy I: Non-LTE calculations of CO lines](https://arxiv.org/abs/1711.10117)
+
+
+#### [Galaxy Kinematics and Mass Calibration in Massive SZE Selected Galaxy Clusters to z=1.3](https://arxiv.org/abs/1711.09903)
+
+
+#### [Solar abundance ratios of the iron-peak elements in the Perseus Cluster](https://arxiv.org/abs/1711.11035)
