@@ -588,3 +588,63 @@
 
 
 #### [Solar abundance ratios of the iron-peak elements in the Perseus Cluster](https://arxiv.org/abs/1711.11035)
+
+
+----
+
+## Nov 29:
+
+#### [SDSS-IV MaNGA: What Shapes The Distribution Of Metals In Galaxies? Exploring The Roles Of The Local Gas Fraction And Escape Velocity](https://arxiv.org/abs/1711.10492)
+
+
+#### [On the rate of black hole binary mergers in galactic nuclei due to dynamical hardening](https://arxiv.org/abs/1711.10494)
+
+
+#### [S0 galaxies are faded spirals: clues from their angular momentum content](https://arxiv.org/abs/1711.10499)
+    - **Relevant**
+
+
+#### [Clustering Constraints on the Relative Sizes of Central and Satellite Galaxies](https://arxiv.org/abs/1711.10500)
+    - **Relevant, Important**
+
+
+#### [LOFAR-Boötes: Properties of high- and low-excitation radio galaxies at 0.5<z<2.0](https://arxiv.org/abs/1711.10504)
+
+
+#### [The Stripe 82 Massive Galaxy Project III: A Lack of Growth Among Massive Galaxies](https://arxiv.org/abs/1711.10506)
+    - **Relevant, Important**
+
+
+#### [Quasar 2175 Å dust absorbers II: Correlation analysis and relationship with other absorption line systems](https://arxiv.org/abs/1711.10525)
+
+
+#### [Star formation suppression and bar ages in nearby barred galaxies](https://arxiv.org/abs/1711.10537)
+
+
+#### [Gathering dust: A galaxy-wide study of dust emission from cloud complexes in NGC 300](https://arxiv.org/abs/1711.10548)
+
+
+#### [Stellar populations of galaxies in the ALHAMBRA survey up to z∼1. II. Stellar populations of quiescent galaxies within the stellar mass- and the UVJ colour-colour diagrams](https://arxiv.org/abs/1711.10590)
+    - **Relevant**
+
+
+#### [The MUSE 3D view of feedback in a high-metallicity radio galaxy at z = 2.9](https://arxiv.org/abs/1711.10601)
+
+
+#### [Advanced gas-rich galaxy major mergers in the most luminous, heavily dust-obscured quasars at z>3](https://arxiv.org/abs/1711.10615)
+
+
+#### [Tidal Stripping and Post-Merger Relaxation of Dark Matter Halos: Causes and Consequences of Mass Loss](https://arxiv.org/abs/1711.10620)
+
+
+#### [ALMA observations of molecular clouds in three group centered elliptical galaxies: NGC 5846, NGC 4636, and NGC 5044](https://arxiv.org/abs/1711.10630)
+    - **Relevant**
+
+
+#### [The SAMI Galaxy Survey: The Low-Redshift Stellar Mass Tully-Fisher Relation](https://arxiv.org/abs/1711.10726)
+
+
+#### [Total Molecular Gas Masses of Planck - Herschel Selected Strongly Lensed Hyper Luminous Infrared Galaxies](https://arxiv.org/abs/1711.10827)
+
+
+#### [KiDS+2dFLenS+GAMA: Testing the cosmological model with the EG statistic](https://arxiv.org/abs/1711.10999)
