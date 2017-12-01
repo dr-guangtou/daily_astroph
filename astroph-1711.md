@@ -648,3 +648,25 @@
 
 
 #### [KiDS+2dFLenS+GAMA: Testing the cosmological model with the EG statistic](https://arxiv.org/abs/1711.10999)
+
+
+----
+
+## Nov 30:
+
+#### [Chasing the observational signatures of seed black holes at z > 7: candidate statistics](https://arxiv.org/abs/1711.11033)
+
+
+#### [Similar star formation rate and metallicity evolution timescales drive the fundamental metallicity relation](https://arxiv.org/abs/1711.11039)
+
+
+#### [Bulgeless galaxies in the COSMOS field: environment and star formation evolution at z<1](https://arxiv.org/abs/1711.11102)
+
+
+#### [AMI-LA Observations of the SuperCLASS Super-cluster](https://arxiv.org/abs/1711.11199)
+
+
+#### [J1154+2443: a low-redshift compact star-forming galaxy with a 46 per cent leakage of Lyman continuum photons](https://arxiv.org/abs/1711.11449)
+
+
+#### [Quasar Accretion Disk Sizes With Continuum Reverberation Mapping From the Dark Energy Survey](https://arxiv.org/abs/1711.11588)
