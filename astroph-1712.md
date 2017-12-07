@@ -46,7 +46,7 @@
 
 ----
 
-## Dec 2:
+## Dec 4:
 
 #### [Bars and spirals in tidal interactions with an ensemble of galaxy mass models](https://arxiv.org/abs/1712.00882)
 
@@ -75,3 +75,74 @@
 
 #### [The HectoMAP Cluster Survey - I. redMaPPer Clusters](https://arxiv.org/abs/1712.00872)
     - **Relevant**
+
+
+----
+
+## Dec 5:
+
+#### [Spatially resolved kinematics in the central 1 kpc of a compact star-forming galaxy at z=2.3 from ALMA CO observations](https://arxiv.org/abs/1712.01283)
+
+
+#### [The Near-Infrared CO Absorption Band as a Probe to the Innermost Part of an AGN Obscuring Material](https://arxiv.org/abs/1712.01287)
+
+
+#### [Spitzer Observations of the North Ecliptic Pole](https://arxiv.org/abs/1712.01290)
+
+
+#### [The VANDELS survey: Dust attenuation in star-forming galaxies at z=3−4](https://arxiv.org/abs/1712.01292)
+
+
+#### [Deep VLA observations of the cluster 1RXS J0603.3+4214 in the frequency range 1-2 GHz](https://arxiv.org/abs/1712.01327)
+
+
+#### [The connection between mass, environment and slow rotation in simulated galaxies](https://arxiv.org/abs/1712.01398)
+
+
+#### [Red" but Not "Dead": Actively Star-forming Brightest Cluster Galaxies at Low Redshifts](https://arxiv.org/abs/1712.01482)
+    - **Relevant**
+
+
+----
+
+## Dec 6:
+
+#### [The virial mass distribution of ultra-diffuse galaxies in clusters and groups](https://arxiv.org/abs/1712.01838)
+    - **Relevant**
+
+
+#### [Solving the puzzle of discrepant quasar variability on monthly time-scales implied by SDSS and CRTS data sets](https://arxiv.org/abs/1712.01848)
+
+
+#### [What makes red quasars red? Observational evidence for dust extinction from line ratio analysis](https://arxiv.org/abs/1712.01851)
+
+
+#### [The contribution of HI-bearing ultra-diffuse galaxies to the cosmic number density of galaxies](https://arxiv.org/abs/1712.01855)
+
+
+#### [Clumpy Galaxies in CANDELS. II. Physical Properties of UV-bright Clumps at 0.5≤z<3](https://arxiv.org/abs/1712.01858)
+
+
+#### [An 800 million solar mass black hole in a significantly neutral universe at redshift 7.5](https://arxiv.org/abs/1712.01860)
+    - **Interesting**
+
+
+#### [Hubble Space Telescope Wide Field Camera 3 Discovers A r_p = 1 Kpc Dual Active Galactic Nucleus in the Minor Galaxy Merger SDSS J0924+0510 at z = 0.1495](https://arxiv.org/abs/1712.01866)
+
+
+#### [XXL Survey XXI. The environment and clustering of X-ray AGN in the XXL-South field](https://arxiv.org/abs/1712.01872)
+
+
+#### [Copious Amounts of Dust and Gas in a z=7.5 Quasar Host Galaxy](https://arxiv.org/abs/1712.01886)
+
+
+#### [ALMA detection of extended CII emission in Himiko at z=6.6](https://arxiv.org/abs/1712.01890)
+
+
+#### [Radio Polarization Properties of Quasars and Active Galaxies at High Redshifts](https://arxiv.org/abs/1712.01909)
+
+
+#### [Improving Photometric Redshift Estimation using GPz: size information, post processing and improved photometry](https://arxiv.org/abs/1712.02256)
+
+
+#### [Sub-structure and merger detection in resolved NIKA Sunyaev-Zel'dovich images of distant clusters](https://arxiv.org/abs/1712.01836)
