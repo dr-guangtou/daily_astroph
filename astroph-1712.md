@@ -146,3 +146,59 @@
 
 
 #### [Sub-structure and merger detection in resolved NIKA Sunyaev-Zel'dovich images of distant clusters](https://arxiv.org/abs/1712.01836)
+
+
+----
+
+## Dec 7:
+
+#### [On the CGM Fundamental Plane: The Halo Mass Dependency of Circumgalactic HI](https://arxiv.org/abs/1712.02348)
+
+
+#### [The Herschel-ATLAS Data Release 2, Paper I. Submillimeter and Far-infrared Images of the South and North Galactic Poles: The Largest Herschel Survey of the Extragalactic Sky](https://arxiv.org/abs/1712.02361)
+
+
+#### [Deep ALMA photometry of distant X-ray AGN: improvements in star formation rate constraints, and AGN identification](https://arxiv.org/abs/1712.02363)
+
+
+#### [The Sloan Digital Sky Survey Reverberation Mapping Project: Composite Lags at z≲1](https://arxiv.org/abs/1712.02366)
+
+
+#### [Evidence for Merger-Driven Growth in Luminous, High-z, Obscured AGN in the CANDELS/COSMOS Field](https://arxiv.org/abs/1712.02424)
+
+
+#### [Clusters of galaxies identified from all sky surveys of 2MASS, WISE and SuperCOSMOS](https://arxiv.org/abs/1712.02491)
+
+
+#### [Identifying the subtle signatures of feedback from distant AGN using ALMA observations and the EAGLE hydrodynamical simulations](https://arxiv.org/abs/1712.02708)
+
+
+#### [Identifying the subtle signatures of feedback from distant AGN using ALMA observations and the EAGLE hydrodynamical simulations](https://arxiv.org/abs/1712.02708)
+
+
+----
+
+## Dec 10:
+
+#### [The Association of Molecular Gas and Natal Super Star Clusters in Henize 2-10](https://arxiv.org/abs/1712.02791)
+
+
+#### [The combined effect of AGN and supernovae feedback in launching massive molecular outflows in high-redshift galaxies](https://arxiv.org/abs/1712.02794)
+
+
+#### [Discrete Effects in Stellar Feedback: Individual Supernovae, Hypernovae, and IMF Sampling in Dwarf Galaxies](https://arxiv.org/abs/1712.02795)
+
+
+#### [Small- and Large-Scale Galactic Conformity in SDSS DR7](https://arxiv.org/abs/1712.02797)
+
+
+#### [What Makes the Family of Barred Disc Galaxies So Rich: Damping Stellar Bars in Spinning Haloes](https://arxiv.org/abs/1712.02802)
+
+
+#### [Little Blue Dots in the Hubble Space Telescope Frontier Fields: Precursors to Globular Clusters?](https://arxiv.org/abs/1712.02935)
+
+
+#### [Galaxy growth in a massive halo in the first billion years of cosmic history](https://arxiv.org/abs/1712.03020)
+
+
+#### [The Clustering of High-Redshift (2.9 ≤ z ≤ 5.1) Quasars in SDSS Stripe 82](https://arxiv.org/abs/1712.03128)
