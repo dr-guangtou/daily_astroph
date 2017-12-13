@@ -202,3 +202,89 @@
 
 
 #### [The Clustering of High-Redshift (2.9 ≤ z ≤ 5.1) Quasars in SDSS Stripe 82](https://arxiv.org/abs/1712.03128)
+
+
+----
+
+## Dec 11:
+
+#### [Merger-Induced Metallicity Dilution in Cosmological Galaxy Formation Simulations](https://arxiv.org/abs/1712.03250)
+
+
+#### [Painting galaxies into dark matter halos using machine learning](https://arxiv.org/abs/1712.03255)
+
+
+#### [Validity of abundances derived from spaxel spectra of the MaNGA survey](https://arxiv.org/abs/1712.03418)
+
+
+#### [Revealing HI gas in emission and absorption on pc to kpc scales in a galaxy at z ~ 0.017](https://arxiv.org/abs/1712.03511)
+
+
+#### [The EDGE-CALIFA survey: the influence of galactic rotation on the molecular depletion time across the Hubble sequence](https://arxiv.org/abs/1712.03591)
+
+
+#### [Galaxy And Mass Assembly (GAMA): Blue spheroids within 87 Mpc](https://arxiv.org/abs/1712.03644)
+
+
+#### [Stellar Stream and Halo Structure in the Andromeda Galaxy From a Subaru/Hyper Suprime-Cam Survey](https://arxiv.org/abs/1712.03654)
+
+
+#### [Testing Star Formation Laws in a Starburst Galaxy At Redshift 3 Resolved with ALMA](https://arxiv.org/abs/1712.03661)
+
+
+#### [CHANG-ES IX: Radio scale heights and scale lengths of a consistent sample of 13 spiral galaxies seen edge-on and their correlations](https://arxiv.org/abs/1712.03780)
+
+
+#### [The Galaxy-Halo Connection for 1.5≲z≲5 as revealed by the \emph{Spitzer} Matching survey of the UltraVISTA ultra-deep Stripes](https://arxiv.org/abs/1712.03844)
+
+
+#### [The Spitzer Matching Survey of the UltraVISTA Ultra-deep Stripes (SMUVS): the Evolution of Dusty and Non-Dusty Galaxies with Stellar Mass at z=2-6](https://arxiv.org/abs/1712.03905)
+
+
+#### [SDSS J1056+5516: A Triple AGN or an SMBH Recoil Candidate?](https://arxiv.org/abs/1712.03909)
+
+
+#### [ALMA Twenty-six arcmin2 Survey of GOODS-S at One-millimeter (ASAGAO): X-ray AGN Properties of Millimeter-Selected Galaxies](https://arxiv.org/abs/1712.03350)
+
+
+----
+
+## Dec 12:
+
+#### [AGN Feedback Compared: Jets versus Radiation](https://arxiv.org/abs/1712.03955)
+
+
+#### [An alternate approach to measure specific star formation rates at 2<z<7](https://arxiv.org/abs/1712.03959)
+
+
+#### [The origin of the diverse morphologies and kinematics of Milky Way-mass galaxies in the FIRE-2 simulations](https://arxiv.org/abs/1712.03966)
+
+
+#### [The Luminous X-Ray Halos of Two Compact Elliptical Galaxies](https://arxiv.org/abs/1712.03978)
+
+
+#### [The ALMA Frontier Fields Survey - IV. Lensing-corrected 1.1 mm number counts in Abell 2744, MACSJ0416.1-2403 and MACSJ1149.5+2223](https://arxiv.org/abs/1712.03983)
+
+
+#### [Kiloparsec-scale gaseous clumps and star formation at z=5−7](https://arxiv.org/abs/1712.03985)
+
+
+#### [The metallicity distribution of HI systems in the EAGLE cosmological simulation](https://arxiv.org/abs/1712.03988)
+
+
+#### [Major impact from a minor merger - The extraordinary hot molecular gas flow in the Eye of the NGC 4194 Medusa galaxy](https://arxiv.org/abs/1712.04030)
+
+
+#### [Diffuse X-ray-emitting Gas in Major Mergers](https://arxiv.org/abs/1712.04049)
+
+
+#### [Observing galaxy mergers at the epoch of reionization](https://arxiv.org/abs/1712.04110)
+
+
+#### [Enhancing the H2O Megamaser Detection Rate Using Optical and Mid-infrared Photometry](https://arxiv.org/abs/1712.04204)
+
+
+#### [A Hubble Space Telescope Imaging Study of Four FeLoBAL Quasar Host Galaxies](https://arxiv.org/abs/1712.04403)
+
+
+#### [A Hubble Space Telescope Imaging Study of Four FeLoBAL Quasar Host Galaxies](https://arxiv.org/abs/1712.04403)
