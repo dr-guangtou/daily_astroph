@@ -288,3 +288,43 @@
 
 
 #### [A Hubble Space Telescope Imaging Study of Four FeLoBAL Quasar Host Galaxies](https://arxiv.org/abs/1712.04403)
+
+
+----
+
+## Dec 13:
+
+#### [On the radial acceleration relation of ΛCDM satellite galaxies](https://arxiv.org/abs/1712.04448)
+
+
+#### [On the Origin of Diffuse Ionized Gas in the Antennae Galaxy](https://arxiv.org/abs/1712.04450)
+
+
+#### [Slicing COSMOS with SC4K: the evolution of typical Lya emitters and the Lya escape fraction from z~2 to z~6](https://arxiv.org/abs/1712.04451)
+
+
+#### [Inferring the star-formation histories of massive quiescent galaxies with BAGPIPES: Evidence for multiple quenching mechanisms](https://arxiv.org/abs/1712.04452)
+
+
+#### [VALES: IV. Exploring the transition of star formation efficiencies between normal and starburst galaxies using APEX/SEPIA Band-5 and ALMA at low redshift](https://arxiv.org/abs/1712.04460)
+
+
+#### [Modeling the Impact of Baryons on Subhalo Populations with Machine Learning](https://arxiv.org/abs/1712.04467)
+
+
+#### [Photometric redshifts for the next generation of deep radio continuum surveys - II. Gaussian processes and hybrid estimates](https://arxiv.org/abs/1712.04476)
+
+
+#### [Molecular outflow and feedback in the obscured Quasar XID2028 revealed by ALMA](https://arxiv.org/abs/1712.04505)
+
+
+#### [Herschel and ALMA Observations of Massive SZE-selected Clusters](https://arxiv.org/abs/1712.04540)
+
+
+#### [Quasar outflow energetics from broad absorption line variability](https://arxiv.org/abs/1712.04715)
+
+
+#### [HERUS: The Far-IR/Submm Spectral Energy Distributions of Local ULIRGs & Photometric Atlas](https://arxiv.org/abs/1712.04843)
+
+
+#### [HERUS: The Far-IR/Submm Spectral Energy Distributions of Local ULIRGs & Photometric Atlas](https://arxiv.org/abs/1712.04843)
