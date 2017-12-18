@@ -327,4 +327,71 @@
 #### [HERUS: The Far-IR/Submm Spectral Energy Distributions of Local ULIRGs & Photometric Atlas](https://arxiv.org/abs/1712.04843)
 
 
-#### [HERUS: The Far-IR/Submm Spectral Energy Distributions of Local ULIRGs & Photometric Atlas](https://arxiv.org/abs/1712.04843)
+----
+
+## Dec 14:
+
+#### [Abundance ratios in dwarf elliptical galaxies](https://arxiv.org/abs/1712.04953)
+    - **Relevant**
+
+
+#### [The Sloan Digital Sky Survey Quasar Catalog: Fourteenth Data Release](https://arxiv.org/abs/1712.05029)
+
+
+#### [The Effect of Filaments and Tendrils on the HI Content of Galaxies](https://arxiv.org/abs/1712.05045)
+
+
+#### [Group quenching and galactic conformity at low redshift](https://arxiv.org/abs/1712.05318)
+
+
+#### [The continuous rise of bulges out of galactic disks](https://arxiv.org/abs/1712.05354)
+
+
+#### [The Star Formation Reference Survey. II. Activity demographics and host-galaxy properties for Infrared-selected galaxies](https://arxiv.org/abs/1712.05371)
+
+
+#### [Probing the nature of dark matter by forward modeling flux ratios in strong gravitational lenses](https://arxiv.org/abs/1712.04945)
+    *  The free streaming length of the dark matter particle, and its possible interactions, imprint a measurable signature on the density profiles and abundance of structure on sub-galactic scales
+    * 用强引力透镜四重像的forward model来看小尺度结构的特征
+
+
+#### [Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-angular Momentum Case](https://arxiv.org/abs/1712.04964)
+    - **Yuan Feng; Luis Ho**
+    * we adopt the most updated AGN physics, including the descriptions of radiation and wind from the hot accretion flows and wind from cold accretion disks.
+    * 孤立椭圆星系环境；考虑了hot和cold accretion
+
+
+----
+
+## Dec 17:
+
+#### [Stellar Population Synthesis of star forming clumps in galaxy pairs and non-interacting spiral galaxies](https://arxiv.org/abs/1712.05408)
+
+
+#### [The multiplicity and anisotropy of galactic satellite accretion](https://arxiv.org/abs/1712.05409)
+
+
+#### [Intra-cluster Globular Clusters in a Simulated Galaxy Cluster](https://arxiv.org/abs/1712.05410)
+    - **Relevant**
+
+
+#### [M∗/L gradients driven by IMF variation: Large impact on dynamical stellar mass estimates](https://arxiv.org/abs/1712.05414)
+    - **Relevant**
+
+
+#### [Data release of UV to submm broadband fluxes for simulated galaxies from the EAGLE project](https://arxiv.org/abs/1712.05583)
+
+
+#### [On the Optimal Choice of Nucleosynthetic Yields, IMF and Number of SN Ia for Chemical Evolution Modelling](https://arxiv.org/abs/1712.05686)
+
+
+#### [ATCA observations of the MACS-Planck Radio Halo Cluster Project II. Radio observations of an intermediate redshift cluster sample](https://arxiv.org/abs/1712.05443)
+
+
+#### [Multi-wavelength scaling relations in galaxy groups: a detailed comparison of GAMA and KiDS observations to BAHAMAS simulations](https://arxiv.org/abs/1712.05463)
+
+
+#### [Thermodynamic Profiles of Galaxy Clusters from a Joint X-ray/SZ Analysis](https://arxiv.org/abs/1712.05464)
+
+
+#### [First detection of a virial shock with SZ data: implication for the mass accretion rate of Abell 2319](https://arxiv.org/abs/1712.05762)
