@@ -395,3 +395,106 @@
 
 
 #### [First detection of a virial shock with SZ data: implication for the mass accretion rate of Abell 2319](https://arxiv.org/abs/1712.05762)
+
+
+----
+
+## Dec 25:
+
+#### [The Jets of AGN as giant co-axial cables](https://arxiv.org/abs/1712.08414)
+
+
+#### [The VIMOS Public Extragalactic Redshift Survey (VIPERS). AGN feedback in NeV emitters](https://arxiv.org/abs/1712.08168)
+
+
+----
+
+## Dec 22:
+
+#### [The mystery of the 'Kite' radio source in Abell 2626: insights from new Chandra observations](https://arxiv.org/abs/1712.07884)
+
+
+#### [Caught in the rhythm II: Competitive alignments of satellites with their inner halo and central galaxy](https://arxiv.org/abs/1712.07818)
+
+
+#### [The galaxy environment in GAMA G3C groups using the Kilo Degree Survey Data Release 3](https://arxiv.org/abs/1712.07670)
+
+
+#### [Direct Lyman continuum and Lyman-alpha escape observed at redshift 4](https://arxiv.org/abs/1712.07661)
+
+
+#### [Imaging the Molecular Outflows of the Prototypical ULIRG NGC 6240 with ALMA](https://arxiv.org/abs/1712.07660)
+
+
+----
+
+## Dec 21:
+
+
+#### [A deep narrowband survey for planetary nebulae at the outskirts of M33](https://arxiv.org/abs/1712.07595)
+
+
+#### [FUV line emission, gas kinematics, and discovery of Fe XXI λ1354.1 in the sightline towards a filament in M87](https://arxiv.org/abs/1712.07535)
+
+
+#### [GAMA/H-ATLAS: The Local Dust Mass Function and Cosmic Density as a Function of Galaxy Type - A Benchmark for Models of Galaxy Evolution](https://arxiv.org/abs/1712.07261)
+
+
+#### [The Herschel-ATLAS Data Release 2 Paper II: Catalogues of far-infrared and submillimetre sources in the fields at the south and north Galactic Poles](https://arxiv.org/abs/1712.07241)
+
+
+#### [Dark Energy Survey Year 1 Results: Calibration of redMaGiC Redshift Distributions in DES and SDSS from Cross-Correlations](https://arxiv.org/abs/1712.07298)
+
+
+#### [The environment of radio galaxies: A signature of AGN feedback at high redshifts](https://arxiv.org/abs/1712.07219)
+
+
+
+----
+
+## Dec 20:
+
+
+#### [SDSS-IV MaNGA: A Distinct Mass Distribution Explored in Slow-Rotating Early-type Galaxies](https://arxiv.org/abs/1712.06684)
+
+
+#### [Major Merging History in CANDELS. I. Evolution of the Incidence of Massive Galaxy-Galaxy Pairs from z=3 to z~0](https://arxiv.org/abs/1712.06611)
+
+
+#### [Near-Infrared Stellar Populations in the metal-poor, Dwarf irregular Galaxies Sextans A and Leo A](https://arxiv.org/abs/1712.06594)
+
+
+#### [Near-Infrared Stellar Populations in the metal-poor, Dwarf irregular Galaxies Sextans A and Leo A](https://arxiv.org/abs/1712.06594)
+
+
+----
+
+## Dec 19:
+
+
+#### [Cosmic CARNage I: on the calibration of galaxy formation models](https://arxiv.org/abs/1712.06420)
+
+
+#### [Fast, Collimated Outflow in the Western Nucleus of Arp 220](https://arxiv.org/abs/1712.06381)
+
+
+#### [Spatially Resolved Dust, Gas, and Star Formation in the Dwarf Magellanic Irregular NGC4449](https://arxiv.org/abs/1712.06233)
+
+
+#### [Large scale correlations in gas traced by MgII absorbers around low mass galaxies](https://arxiv.org/abs/1712.06069)
+
+
+#### [The extended Planetary Nebula Spectrograph (ePN.S) early-type galaxy survey. The kinematic diversity of stellar halos and the relation between halo transition scale and stellar mass](https://arxiv.org/abs/1712.05833)
+
+
+#### [Reconciling observed and simulated stellar halo masses](https://arxiv.org/abs/1712.05808)
+    - **Important**
+
+
+#### [Discovery of a z = 7.452 High Equivalent Width Lyman-α Emitter from the Hubble Space Telescope Faint Infrared Grism Survey](https://arxiv.org/abs/1712.05807)
+
+
+#### [Escape of ionizing radiation from high redshift dwarf galaxies: role of AGN feedback](https://arxiv.org/abs/1712.05804)
+
+
+#### [Escape of ionizing radiation from high redshift dwarf galaxies: role of AGN feedback](https://arxiv.org/abs/1712.05804)
