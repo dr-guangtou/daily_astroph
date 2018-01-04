@@ -498,3 +498,48 @@
 
 
 #### [Escape of ionizing radiation from high redshift dwarf galaxies: role of AGN feedback](https://arxiv.org/abs/1712.05804)
+
+
+----
+
+## Dec 29:
+
+#### [Galaxy Evolution in the Cluster Abell 85: New Insights from the Dwarf Population](https://arxiv.org/abs/1712.09857)
+    - **Relevant**
+
+
+#### [Evolution of the cluster optical galaxy luminosity function in the CFHTLS : breaking the degeneracy between mass and redshift](https://arxiv.org/abs/1712.09481)
+    - **Relevant**
+
+
+#### [Colors of Dwarf Ellipticals from GALEX to WISE](https://arxiv.org/abs/1712.09446)
+
+
+#### [Removing the Impact of Correlated PSF Uncertainties in Weak Lensing](https://arxiv.org/abs/1712.09736)
+    - **Relevant**
+
+
+#### [First Sunyaev-Zel'dovich mapping with NIKA2: implication of cluster substructures on the pressure profile and mass estimate](https://arxiv.org/abs/1712.09587)
+
+
+----
+
+## Dec 27:
+
+#### [On Estimating the Mass of Keplerian Accretion Disks in H2O Maser Galaxies](https://arxiv.org/abs/1712.09170)
+
+
+#### [The independence of neutral and ionized gas outflows in low-z galaxies](https://arxiv.org/abs/1712.08944)
+
+
+#### [Unveiling the inner morphology and gas kinematics of NGC 5135 with ALMA](https://arxiv.org/abs/1712.08834)
+
+
+#### [The detection of missing baryons in galaxy halos with kinetic Sunyaev-Zel'dovich effect](https://arxiv.org/abs/1712.08619)
+
+
+#### [MAGI: many-component galaxy initialiser](https://arxiv.org/abs/1712.08760)
+
+
+#### [Galaxy-galaxy weak-lensing measurement from SDSS: II. host halo properties of galaxy groups](https://arxiv.org/abs/1712.09030)
+    - **Relevant**
