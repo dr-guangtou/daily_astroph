@@ -14,15 +14,21 @@
 ## Jan 3:
 
 #### [Orbital and escape dynamics in barred galaxies - III. The 3D system: Correlations between the basins of escape and the NHIMs](https://arxiv.org/abs/1801.00651)
+    * smaller alignment index (SALI) method is deployed for determining the regular, sticky or chaotic nature of bounded orbits.
 
 
 #### [SILVERRUSH. VII. Subaru/HSC Identifications of 42 Protocluster Candidates at z~6-7 with the Spectroscopic Redshifts up to z=6.574: Implications for Cosmic Reionization](https://arxiv.org/abs/1801.00531)
+    * these protocluster candidates are progenitors of the present-day clusters with a mass of 10^14 M⊙
+    * 讨论了Lya等值宽度和overdensity的关系以及红移演化：正相关；演化小，due to the existence of the ionized bubbles around galaxy overdensities easing the escape of Lyα emission from the partly neutral intergalactic medium (IGM).
 
 
 #### [A Study of the Effect of Bulges on Bar Formation in Disk galaxies](https://arxiv.org/abs/1801.00181)
+    * 核球和盘的质量比太大了就不易形成棒，阈值和concentration有关
 
 
 #### [SILVERRUSH. VI. A simulation of Lyα emitters in the reionization epoch and a comparison with Subaru Hyper Suprime-Cam survey early data](https://arxiv.org/abs/1801.00067)
+    * LAE的解析模型，和HSC观测比较; match了LAE的LF，很多模型都能重现角自相关函数，但是LAE比例对模型的区分能力很高
+    * Halo里面Lya的光深的dispersion和其对Halo质量的依赖很重要
 
 
 ----
@@ -30,26 +36,42 @@
 ## Jan 4:
 
 #### [Deviations from hydrostatic equilibrium in the circumgalactic medium: spinning hot haloes and accelerating flows](https://arxiv.org/abs/1801.00788)
+    * EAGLE模拟：小Halo里面的CGM热力学压力对平衡引力的贡献下降
+    * Feedback在小halo里面导致了对流体静力学平衡的偏离: spinning hot halos and net outward accelerations
 
 
 #### [A direct calibration of the IRX-β relation in Lyman-break Galaxies at z=3-5](https://arxiv.org/abs/1801.00791)
-
+    *  We establish functional forms for the IRX-β relation to z ∼ 5: 没有明显红移演化，基本符合Calzetti law
 
 #### [SDSS-IV MaNGA: Galaxy Pair Fraction and Correlated Active Galactic Nuclei](https://arxiv.org/abs/1801.00792)
-
+    - **付海**
+    * MaNGA里的105个pair，看AGN比例：We find a strong (∼5×) excess of binary AGNs over random pairing and a mild (∼20%) deficit of single AGNs.
+    * We suggest tidally-induced galactic-scale shocks and AGN cross-ionization as two plausible channels to produce low-luminosity narrow-line-selected binary AGNs.
 
 #### [Black-hole-regulated star formation in massive galaxies](https://arxiv.org/abs/1801.00807)
     - **Important**
-
+    * Here we show that the star formation histories (SFHs) of nearby massive galaxies, as measured from their integrated optical spectra, depend on the mass of the central super-massive black hole.
+    * 但这篇文章有很多问题，没有forward modeling会有影响; 三个样本的质量范围很大，也没有match质量或者速度弥散度；星族模型差异很小；而且并不能解释原因
 
 #### [Re-visiting the extended Schmidt law: the important role of existing stars in regulating star formation](https://arxiv.org/abs/1801.00888)
+    - **施勇**
+    * extended Schmidt law: 恒星形成率和气体质量面密度以及恒星质量面密度相关。
+    * 可以解释dwarf里面一些恒星形成效率极低的区域
+    * suggest an important role for existing stars in helping to regulate star formation through the effect of their gravity on the mid-plane pressure in a wide range of galactic environments.
 
 
 #### [The GALEX Ultraviolet Virgo Cluster Survey (GUViCS). VII.: BCG UV upturn and the FUV-NUV color up to redshift 0.35](https://arxiv.org/abs/1801.00985)
-    - **Important**
+    - **Important, Relevant**
+    * The observed GALEX FUV-NUV color can be used to probe the UV upturn approximately to redshift 0.5.
+    * We clearly detect a population of blue FUV-NUV BCGs in the redshift range 0.10-0.35
+    * The existence of a large number of UV upturns around redshift 0.25 favors the existence of a binary channel among the sources proposed in the literature.
 
 
 #### [An interacting galaxy pair at the origin of a light echo](https://arxiv.org/abs/1801.01005)
+    * we identified an interacting galaxy pair at redshift z = 0.04865 in which the Seyfert-2 nucleus of the main galaxy (ShaSS 073) is exciting an extended emission line region (EELR, ∼ 170 kpc2) in the disk of the less massive companion (ShaSS 622).
+    *  ShaSS 073-622 provides all the ingredients listed in the recipe of a light echo where a high-ionised region maintains memory of a preceding more energetic phase of a now faded AGN.
 
 
 #### [Remnant radio-loud AGN in the Herschel-ATLAS field](https://arxiv.org/abs/1801.01067)
+    * LOFAR+VLA看ATLAS field里面的radio-loud AGN remnants
+    * 延展射电瓣的fading可能很快
