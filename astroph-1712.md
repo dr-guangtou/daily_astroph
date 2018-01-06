@@ -543,3 +543,6 @@
 
 #### [Galaxy-galaxy weak-lensing measurement from SDSS: II. host halo properties of galaxy groups](https://arxiv.org/abs/1712.09030)
     - **Relevant**
+    * We divide the groups into four halo mass bins, and measure the signals around four different halo-center tracers: brightest central galaxy (BCG), luminosity-weighted center, number-weighted center and X-ray peak position.
+    * The galaxy-galaxy lensing signals show that BCGs, among the four candidates, are the best halo-center tracers.
+    * We model the lensing signals using a combination of four contributions: off-centered NFW host halo profile, sub-halo contribution, stellar contribution, and projected 2-halo term.
