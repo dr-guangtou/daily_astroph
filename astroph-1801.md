@@ -75,3 +75,85 @@
 #### [Remnant radio-loud AGN in the Herschel-ATLAS field](https://arxiv.org/abs/1801.01067)
     * LOFAR+VLA看ATLAS field里面的radio-loud AGN remnants
     * 延展射电瓣的fading可能很快
+
+
+----
+
+## Jan 7:
+
+#### [SHARDS: Constraints on the dust attenuation law of star-forming galaxies at z~2](https://arxiv.org/abs/1801.01128)
+
+
+#### [Metal Abundances of KISS Galaxies. VI. New Metallicity Relations for the KISS Sample of Star-Forming Galaxies](https://arxiv.org/abs/1801.01133)
+
+
+#### [MUSE spectroscopy and deep observations of a unique compact JWST target, lensing cluster CLIO](https://arxiv.org/abs/1801.01140)
+
+
+#### [Deep CFHT Y-band Imaging of VVDS-F22 Field: II. Quasar Selection and Quasar Luminosity Function](https://arxiv.org/abs/1801.01245)
+
+
+#### [ALMA observation of the disruption of molecular gas in M87](https://arxiv.org/abs/1801.01264)
+
+
+#### [Brightest group galaxies-II: the relative contribution of BGGs to the total baryon content of groups at z<1.3](https://arxiv.org/abs/1801.01492)
+
+
+#### [A Model Connecting Galaxy Masses, Star Formation Rates, and Dust Temperatures Across Cosmic Time](https://arxiv.org/abs/1801.01499)
+
+
+#### [The Large-scale Environmental Effect on Galactic Conformity](https://arxiv.org/abs/1801.01617)
+
+
+#### [The Herschel-ATLAS: magnifications and physical sizes of 500μm-selected strongly lensed galaxies](https://arxiv.org/abs/1801.01831)
+
+
+#### [I. Analysis of candidates for interacting galaxy clusters](https://arxiv.org/abs/1801.01498)
+
+
+#### [The triply-ionized carbon forest from eBOSS: cosmological correlations with quasars in SDSS-IV DR14](https://arxiv.org/abs/1801.01852)
+
+
+#### [The triply-ionized carbon forest from eBOSS: cosmological correlations with quasars in SDSS-IV DR14](https://arxiv.org/abs/1801.01852)
+
+
+----
+
+## Jan 8:
+
+#### [The NuSTAR Extragalactic Surveys: source catalog and the Compton-thick fraction in the UDS field](https://arxiv.org/abs/1801.01881)
+
+
+#### [Evidence for radial variations in the stellar mass-to-light ratio of massive galaxies from weak and strong lensing](https://arxiv.org/abs/1801.01883)
+    - **Relevant**
+
+
+#### [First Data Release of the All-sky NOAO Source Catalog](https://arxiv.org/abs/1801.01885)
+
+
+#### [Dark matter contraction and stellar-mass-to-light ratio gradients in massive early-type galaxies](https://arxiv.org/abs/1801.01887)
+
+
+#### [The global and radial stellar mass assembly of Milky Way-sized galaxies](https://arxiv.org/abs/1801.01919)
+    - **Relevant**
+
+
+#### [Infrared Contributions of X-Ray Selected Active Galactic Nuclei in Dusty Star-Forming Galaxies](https://arxiv.org/abs/1801.02233)
+
+
+#### [Radial migration in a stellar galactic disc with thick components](https://arxiv.org/abs/1801.02403)
+
+
+#### [A metal-line strength indicator for Damped Lyman Alpha (DLA) systems at low signal-to-noise](https://arxiv.org/abs/1801.02605)
+
+
+#### [Quenching or Bursting: the Role of Stellar Mass, Environment, and Specific Star Formation Rate to z ∼ 1](https://arxiv.org/abs/1801.02618)
+
+
+#### [Do satellite galaxies trace matter in galaxy clusters?](https://arxiv.org/abs/1801.02317)
+
+
+#### [Suzaku Observations of Heavily Obscured (Compton-thick) Active Galactic Nuclei selected by Swift/BAT Hard X-ray Survey](https://arxiv.org/abs/1801.01880)
+
+
+#### [The 105 month Swift-BAT all-sky hard X-ray survey](https://arxiv.org/abs/1801.01882)
