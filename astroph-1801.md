@@ -157,3 +157,41 @@
 
 
 #### [The 105 month Swift-BAT all-sky hard X-ray survey](https://arxiv.org/abs/1801.01882)
+
+
+----
+
+## Jan 9:
+
+#### [LOFAR/H-ATLAS: The low-frequency radio luminosity - star-formation rate relation](https://arxiv.org/abs/1801.02629)
+
+
+#### [Variations of the stellar initial mass function in semi-analytical models II: the impact of Cosmic Ray regulation](https://arxiv.org/abs/1801.02631)
+
+
+#### [The Next Generation Fornax Survey (NGFS): II. The Central Dwarf Galaxy Population](https://arxiv.org/abs/1801.02633)
+    - **Interesting, Relevant**
+
+
+#### [UV-Luminous, Star-Forming Hosts of z~2 Reddened Quasars in the Dark Energy Survey](https://arxiv.org/abs/1801.02635)
+
+
+#### [An ALMA CII survey of 27 quasars at z>5.94](https://arxiv.org/abs/1801.02641)
+
+
+#### [Spitzer Matching survey of the UltraVISTA ultra-deep Stripes (SMUVS): Full-mission IRAC Mosaics and Catalogs](https://arxiv.org/abs/1801.02660)
+
+
+#### [An Empirical Mass Function Distribution](https://arxiv.org/abs/1801.02723)
+
+
+#### [Robust Cross-correlation-based Measurement of Clump Sizes in Galaxies](https://arxiv.org/abs/1801.02776)
+
+
+#### [A Near-Infrared Period-Luminosity Relation for Miras in NGC 4258, an Anchor for a New Distance Ladder](https://arxiv.org/abs/1801.02711)
+
+
+#### [Detection of Low Metallicity Warm Plasma in a Galaxy Overdensity Environment at z ~ 0.2](https://arxiv.org/abs/1801.02844)
+
+
+#### [An Off-Axis Galaxy Cluster Merger: Abell 0141](https://arxiv.org/abs/1801.03015)
