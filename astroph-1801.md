@@ -195,3 +195,34 @@
 
 
 #### [An Off-Axis Galaxy Cluster Merger: Abell 0141](https://arxiv.org/abs/1801.03015)
+
+
+----
+
+## Jan 10:
+
+#### [Accretion of satellites onto central galaxies in clusters: merger mass ratios and orbital parameters](https://arxiv.org/abs/1801.03096)
+
+
+#### [Stellar Streams Discovered in the Dark Energy Survey](https://arxiv.org/abs/1801.03097)
+
+
+#### [A Candidate z∼10 Galaxy Strongly Lensed into a Spatially Resolved Arc](https://arxiv.org/abs/1801.03103)
+
+
+#### [Full-disc 13CO(1-0) mapping across nearby galaxies of the EMPIRE survey and the CO-to-H2 conversion factor](https://arxiv.org/abs/1801.03105)
+
+
+#### [Revisiting the Stellar Velocity Ellipsoid - Hubble type relation: observations versus simulations](https://arxiv.org/abs/1801.03352)
+
+
+#### [Searching for Dual Active Galactic Nuclei](https://arxiv.org/abs/1801.03451)
+
+
+#### [Spatially-Offset AGN Candidates in the CLASS Survey](https://arxiv.org/abs/1801.03456)
+
+
+#### [The Dark Energy Survey Image Processing Pipeline](https://arxiv.org/abs/1801.03177)
+
+
+#### [The Dark Energy Survey Data Release 1](https://arxiv.org/abs/1801.03181)
