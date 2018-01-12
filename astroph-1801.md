@@ -226,3 +226,44 @@
 
 
 #### [The Dark Energy Survey Data Release 1](https://arxiv.org/abs/1801.03181)
+
+
+----
+
+## Jan 11:
+
+#### [Chemical pre-processing of cluster galaxies over the past 10 billion years in the IllustrisTNG simulations](https://arxiv.org/abs/1801.03500)
+
+
+#### [Probing star formation and ISM properties using galaxy disk inclination I: Evolution in disk opacity since z∼0.7](https://arxiv.org/abs/1801.03501)
+
+
+#### [ALMA observations of AGN fuelling: the case of PKS B1718-649](https://arxiv.org/abs/1801.03514)
+
+
+#### [Formation of Globular Cluster Systems: From Dwarf Galaxies to Giants](https://arxiv.org/abs/1801.03515)
+
+
+#### [First Results from the Herschel and ALMA Spectroscopic Surveys of the SMC: The Relationship Between CII-bright Gas and CO-bright Gas at Low Metallicity](https://arxiv.org/abs/1801.03518)
+
+
+#### [Radio-emitting narrow-line Seyfert 1 galaxies in the JVLA perspective](https://arxiv.org/abs/1801.03519)
+
+
+#### [Galactic Reddening in 3D from Stellar Photometry - An Improved Map](https://arxiv.org/abs/1801.03555)
+    - **Important**
+
+
+#### [Abell 1367: a high fraction of late-type galaxies displaying HI morphological and kinematic perturbations](https://arxiv.org/abs/1801.03601)
+
+
+#### [Galaxy And Mass Assembly (GAMA): The effect of galaxy group environment on active galactic nuclei](https://arxiv.org/abs/1801.03725)
+
+
+#### [Semi-Analytic Galaxies - I. Synthesis of environmental and star-forming regulation mechanisms](https://arxiv.org/abs/1801.03883)
+
+
+#### [Semi-Analytic Galaxies - II. Revealing the role of environmental and mass quenching in galaxy formation](https://arxiv.org/abs/1801.03884)
+
+
+#### [Semi-Analytic Galaxies - II. Revealing the role of environmental and mass quenching in galaxy formation](https://arxiv.org/abs/1801.03884)
