@@ -267,3 +267,91 @@
 
 
 #### [Semi-Analytic Galaxies - II. Revealing the role of environmental and mass quenching in galaxy formation](https://arxiv.org/abs/1801.03884)
+
+
+----
+
+## Jan 14:
+
+#### [Gas Kinematics in FIRE Simulated Galaxies Compared to Spatially Unresolved HI Observations](https://arxiv.org/abs/1801.03933)
+
+
+#### [Discovery of a new fundamental plane dictating galaxy cluster evolution from gravitational lensing](https://arxiv.org/abs/1801.03943)
+
+
+#### [The Need for Speed: Escape velocity and dynamical mass measurements of the Andromeda galaxy](https://arxiv.org/abs/1801.03949)
+
+
+#### [Jeans that fit: weighing the mass of the Milky Way analogues in the ΛCDM universe](https://arxiv.org/abs/1801.03950)
+    * we recover the underlying mass distribution of the parent galaxy, within distance r/kpc ∈ [10, 100], with a bias of ∼ 12% and a dispersion of ∼ 14%.
+    * Dispersion反映了LCDM Halo的内禀性质
+
+#### [Dynamics and Shocks from Hα Emission of Nearby Galaxy Mergers](https://arxiv.org/abs/1801.03981)
+
+
+#### [Connecting optical and X-ray tracers of galaxy cluster relaxation](https://arxiv.org/abs/1801.03999)
+    * The three optical relaxation measures considered are:
+        1. the shape of the member-galaxy projected velocity distribution measured by the Anderson-Darling (AD) statistic
+        2. the stellar mass gap between the most-massive and second-most-massive cluster galaxy
+        3. the offset between the most-massive galaxy (MMG) position and the luminosity- weighted cluster centre
+    * The shape of the radial velocity distribution as a useful proxy for cluster relaxation
+
+
+
+#### [Spectroscopic Observations of the Outflowing Wind in the Lensed Quasar SDSS J1001+5027](https://arxiv.org/abs/1801.04071)
+
+
+#### [Growing up in a megalopolis: Environmental effects on galaxy evolution in a supercluster at z~0.65 in UKIDSS UDS](https://arxiv.org/abs/1801.03939)
+    - **Relevant**
+    * 光谱确认4个大星系团和一堆小星系groups
+    * quiescent星系的分析再次确认了preprocessing的重要性
+
+#### [Full-sky ray-tracing simulation of weak lensing using ELUCID simulations: exploring galaxy intrinsic alignment and cosmic shear correlations](https://arxiv.org/abs/1801.03941)
+    * We rule out a model in which the satellite galaxies are radially aligned with the center galaxy, otherwise the shear-correlations on small scales are too high.
+    * They found that the orientations of elliptical galaxies follow that of the host halos, albeit with some mis-alignment, and that the spins of spiral galaxies follow that of their host halos. -- conclusion from Kang et al. 2007
+
+
+----
+
+## Jan 15:
+
+#### [Feedack from Reorienting AGN Jets](https://arxiv.org/abs/1801.04276)
+
+
+#### [Galaxy and Mass Assembly (GAMA): Morphological transformation of galaxies across the green valley](https://arxiv.org/abs/1801.04276)
+
+
+#### [A 2-3 billion year old major merger paradigm for the Andromeda galaxy and its outskirts](https://arxiv.org/abs/1801.04279)
+
+
+#### [Cool-Core Clusters : Role of BCG, Star Formation & AGN-Driven Turbulence](https://arxiv.org/abs/1801.04282)
+
+
+#### [The SAMI Galaxy Survey: Spatially Resolving the Main Sequence of Star Formation](https://arxiv.org/abs/1801.04283)
+
+
+#### [The AGN Luminosity Fraction in Merging Galaxies](https://arxiv.org/abs/1801.04328)
+
+
+#### [SDSS IV MaNGA: Dependence of Global and Spatially-resolved SFR-M* Relations on Galaxy Properties](https://arxiv.org/abs/1801.04446)
+
+
+#### [A NuSTAR census of coronal parameters in Seyfert galaxies](https://arxiv.org/abs/1801.04456)
+
+
+#### [The dependence of galaxy clustering on tidal environment in the Sloan Digital Sky Survey](https://arxiv.org/abs/1801.04568)
+
+
+#### [Shape of LOSVDs in barred disks: Implications for future IFU surveys](https://arxiv.org/abs/1801.04629)
+
+
+#### [Spatially resolving the dust properties and submillimetre excess in M 33](https://arxiv.org/abs/1801.04806)
+
+
+#### [Spatially resolved star formation and dust attenuation in Mrk848: Comparison of the integral field spectra and the UV-to-IR SED](https://arxiv.org/abs/1801.04860)
+
+
+#### [Cosmic web dependence of galaxy clustering and quenching in SDSS](https://arxiv.org/abs/1801.04878)
+
+
+#### [The NuSTAR Extragalactic Surveys: X-ray spectroscopic analysis of the bright hard-band selected sample](https://arxiv.org/abs/1801.04280)
