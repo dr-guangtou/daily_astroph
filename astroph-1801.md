@@ -297,7 +297,6 @@
     * The shape of the radial velocity distribution as a useful proxy for cluster relaxation
 
 
-
 #### [Spectroscopic Observations of the Outflowing Wind in the Lensed Quasar SDSS J1001+5027](https://arxiv.org/abs/1801.04071)
 
 
@@ -355,3 +354,34 @@
 
 
 #### [The NuSTAR Extragalactic Surveys: X-ray spectroscopic analysis of the bright hard-band selected sample](https://arxiv.org/abs/1801.04280)
+
+
+----
+
+## Jan 16:
+
+#### [Consistent modelling of the meta-galactic UV background and the thermal/ionization history of the intergalactic medium](https://arxiv.org/abs/1801.04931)
+
+
+#### [The dependence of galaxy clustering on stellar mass, star-formation rate and redshift at z = 0.8-2.2, with HiZELS](https://arxiv.org/abs/1801.04933)
+
+
+#### [The Effects of Environment on the Evolution of the Galaxy Stellar Mass Function](https://arxiv.org/abs/1801.04934)
+
+
+#### [BlueTides simulation: establishing black hole-galaxy relations at high-redshift](https://arxiv.org/abs/1801.04951)
+
+
+#### [Impact of Lyman alpha pressure on metal-poor dwarf galaxies](https://arxiv.org/abs/1801.04952)
+
+
+#### [The Sloan Digital Sky Survey Reverberation Mapping Project: the CIV Blueshift, Its Variability, and Its Dependence Upon Quasar Properties](https://arxiv.org/abs/1801.05111)
+
+
+#### [Radio haloes in nearby galaxies modelled with 1D cosmic-ray transport using SPINNAKER](https://arxiv.org/abs/1801.05211)
+
+
+#### [A search for faint high-redshift radio galaxy candidates at 150 MHz](https://arxiv.org/abs/1801.05281)
+
+
+#### [Accretion of clumpy cold gas onto massive black hole binaries: a possible fast route to binary coalescence](https://arxiv.org/abs/1801.04937)
