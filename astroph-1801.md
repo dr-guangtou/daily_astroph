@@ -385,3 +385,28 @@
 
 
 #### [Accretion of clumpy cold gas onto massive black hole binaries: a possible fast route to binary coalescence](https://arxiv.org/abs/1801.04937)
+
+
+#### [Accretion of clumpy cold gas onto massive black hole binaries: a possible fast route to binary coalescence](https://arxiv.org/abs/1801.04937)
+
+
+----
+
+## Jan 17:
+
+#### [Dark Matter Substructure in Numerical Simulations: A Tale of Discreteness Noise, Runaway Instabilities, and Artificial Disruption](https://arxiv.org/abs/1801.05427)
+
+
+#### [The VLT/MUSE view of the central galaxy in Abell 2052. Ionized gas swept by the expanding radio source](https://arxiv.org/abs/1801.05435)
+
+
+#### [Discovery of a dual AGN at z~3.3 with 20kpc separation](https://arxiv.org/abs/1801.05442)
+
+
+#### [The resolved stellar populations in the LEGUS galaxies](https://arxiv.org/abs/1801.05467)
+
+
+#### [Timing the formation and assembly of early-type galaxies via spatially resolved stellar populations analysis](https://arxiv.org/abs/1801.05486)
+
+
+#### [The origin of ICM enrichment in the outskirts of present-day galaxy clusters from cosmological hydrodynamical simulations](https://arxiv.org/abs/1801.05425)
