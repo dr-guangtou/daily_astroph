@@ -458,24 +458,44 @@
 ## Jan 21:
 
 #### [Galaxy mergers moulding the circum-galactic medium - I. The impact of a major merger](https://arxiv.org/abs/1801.06183)
+    *  Our work demonstrates the effect the merger has on the characteristic size of the CGM, its metallicity, and the predicted covering fraction of various commonly observed gas-phase species, such as H i, C iv, and O vi.
+    * merger-induced outflows can increase the CGM metallicity by 0.2−0.3 dex within 0.5 Gyr post-merger.
 
 
 #### [No Assembly Required: Mergers are Mostly Irrelevant for the Growth of Low-mass Dwarf Galaxies](https://arxiv.org/abs/1801.06187)
+    * **Interesting**
+    * The stellar populations of these dwarf galaxies at z = 0 are formed essentially entirely "in situ": over 90% of the stellar mass is formed in the main progenitor in all but two cases
+    * 按模拟里看，UDF也有可能有satellite，但是现在可能看不到
+    *  The important implication for near-field cosmology is that star formation histories of comparably massive galaxies derived from resolved CMDs should trace the build-up of stellar mass in one main system across cosmic time
 
 
 #### [Optical, near-IR and sub-mm IFU Observations of the nearby dual AGN Mrk 463](https://arxiv.org/abs/1801.06190)
+    * The optical data, which map the full extent of the merger, show evidence for a biconical outflow and material outflowing at >600 km s−1, both associated with the Mrk463E nucleus, together with large scale gradients likely related to the ongoing galaxy merger.
+    * Compared to the current AGN luminosity, the energy budget of the cloud implies a luminosity drop in Mrk463E by a factor 3–20 over the last 40,000 years.
 
 
 #### [Aligned metal absorbers and the ultraviolet background at the end of reionization](https://arxiv.org/abs/1801.06193)
+    * 把位置相同的不同电离度的absorber和模拟比较
+    * When considering our paired high-ionization absorbers (Civ/Siiv), the observed statistics strongly prefer the hard, spatially-uniform UVB.
 
 
 #### [Evidence of a non universal stellar Initial Mass Function. Insights from HST optical imaging of 6 Ultra Faint Dwarf Milky Way Satellites](https://arxiv.org/abs/1801.06195)
+    - **Relevant**
+    * we demonstrate that the sub-solar stellar initial mass function (IMF) of 6 ultra- faint dwarf Milky Way Satellites (UFDs) is more bottom light than the IMF of the Milky Way disk.
+    * We find that the IMF slope correlates well with the galaxy mean metallicity and, to a lesser degree, with the velocity dispersion and the total mass.
+    * 用ABC-MCMC区分不同CMD模型
 
 
 #### [The Enigmatic (Almost) Dark Galaxy Coma P: The Atomic Interstellar Medium](https://arxiv.org/abs/1801.06211)
+    * While Coma P has regions of dense HI gas reaching the NHI = 10^21 cm−2 level typically associated with ongoing star formation, it lacks massive star formation as traced by Hα emission.
+    * The HI kinematics are extremely complex: a simple model of a rotating disk cannot describe the HI gas in Coma P.
 
 
 #### [The Megamaser Cosmology Project. X. High Resolution Maps and Mass Constraint for SMBHs](https://arxiv.org/abs/1801.06332)
+    * high resolution (sub-mas) VLBI maps of nuclear H2O megamasers for seven galaxies.
+    * The HI morphology is irregular, reaching only moderate maxima in mass surface density
 
 
-#### [Particle acceleration in the superwinds of starburst galaxies](https://arxiv.org/abs/1801.06483)
+#### [Particle acceleration in the superwinds of starburst galaxies](https: //arxiv.org/abs/1801.06483)
+    * we calculate the cosmic ray production associated with the superwind using parameters that correspond to the nearby southern starburst galaxy NGC 253
+    * NGC 253 and similar starbursts can only accelerate iron nuclei beyond ∼ 10^18 eV under very special conditions
