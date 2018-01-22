@@ -401,12 +401,81 @@
 
 
 #### [Discovery of a dual AGN at z~3.3 with 20kpc separation](https://arxiv.org/abs/1801.05442)
+    **Important**
+    * we report the detection of a narrow-line emitter within the extended Lyα nebula
+(∼ 120 kpc diameter) of the luminous radio-quiet quasi-stellar object (QSO) LBQS 0302−0019 at z = 3.286.
 
 
 #### [The resolved stellar populations in the LEGUS galaxies](https://arxiv.org/abs/1801.05467)
+    * we present the photometric catalogs for all the apparently single stars identified in the 50 LEGUS galaxies.
+    * Our analysis shows that the fraction of massive stars forming in star clusters and stellar associations is about constant with the star formation rate.
+    *  At low star formation rates this translates to an excess of mass in clustered environments as compared to model predictions of cluster evolution, suggesting that a significant fraction of stars form in unbound systems.
 
 
 #### [Timing the formation and assembly of early-type galaxies via spatially resolved stellar populations analysis](https://arxiv.org/abs/1801.05486)
+    **Relevant**
 
 
 #### [The origin of ICM enrichment in the outskirts of present-day galaxy clusters from cosmological hydrodynamical simulations](https://arxiv.org/abs/1801.05425)
+    * This confirms that the in situ enrichment of the ICM in the outskirts of present-day clusters does not play a significant role, and its uniform metal abundance is rather the consequence of the accretion of both low-metallicity and pre-enriched (at z > 2) gas
+
+
+----
+
+## Jan 18:
+
+#### [Surface density: a new parameter in the fundamental metallicity relation of star-forming galaxies](https://arxiv.org/abs/1801.05808)
+    * PCA分析，恒星面密度可以降低FMR的scatter
+
+
+#### [KMOS LENsing Survey (KLENS) : morpho-kinematic analysis of star-forming galaxies at z∼2](https://arxiv.org/abs/1801.05816)
+    - **Important**
+    * KMOS lensing survey (KLENS), which is exploiting gravitational lensing to study the kinematics of 24 star forming galaxies at 1.4 < z < 3.5
+    * we find that the fraction of rotation dominated galaxies increases with the stellar mass, and decreases for galaxies with a positive offset from the main sequence (higher specific star formation rate).
+    * galaxies at high redshift do not satisfy the stability criterion, or that the adopted parametrisation of the specific star formation rate and molecular properties fail at high redshift.
+
+
+#### [Globular Cluster Formation and Evolution in the Context of Cosmological Galaxy Assembly: Open Questions](https://arxiv.org/abs/1801.05818)
+    - **Review**
+
+
+#### [Formation of massive seed black holes via collisions and accretion](https://arxiv.org/abs/1801.05841)
+    * Here we explore a modification of such scenarios where a massive primordial star cluster is initially produced. Subsequent stellar collisions give rise to the formation of massive objects
+
+
+#### [AGN Black hole mass estimates using polarization in broad emission Lines](https://arxiv.org/abs/1801.06097)
+    * We use the Monte Carlo radiative transfer code stokes for exploring polarization properties of Type 1 AGNs. We model equatorial scattering using flared-disk geometry for a set of different SMBH masses assuming Thomson scattering.
+
+
+#### [A Precise Distance to the Host Galaxy of the Binary Neutron Star Merger GW170817 Using Surface Brightness Fluctuations](https://arxiv.org/abs/1801.06080)
+    * Combining our distance measurement with the corrected recession velocity of NGC 4993 implies a Hubble constant H0 = 71.9 ± 7.1 km s−1 Mpc−1 .
+    * A comparison of our result to the GW-inferred value of H0 indicates a binary orbital inclination of i~137 deg.
+    * HST可以做100Mpc的SBF，JWST可以做300 Mpc以内的
+
+
+----
+
+## Jan 21:
+
+#### [Galaxy mergers moulding the circum-galactic medium - I. The impact of a major merger](https://arxiv.org/abs/1801.06183)
+
+
+#### [No Assembly Required: Mergers are Mostly Irrelevant for the Growth of Low-mass Dwarf Galaxies](https://arxiv.org/abs/1801.06187)
+
+
+#### [Optical, near-IR and sub-mm IFU Observations of the nearby dual AGN Mrk 463](https://arxiv.org/abs/1801.06190)
+
+
+#### [Aligned metal absorbers and the ultraviolet background at the end of reionization](https://arxiv.org/abs/1801.06193)
+
+
+#### [Evidence of a non universal stellar Initial Mass Function. Insights from HST optical imaging of 6 Ultra Faint Dwarf Milky Way Satellites](https://arxiv.org/abs/1801.06195)
+
+
+#### [The Enigmatic (Almost) Dark Galaxy Coma P: The Atomic Interstellar Medium](https://arxiv.org/abs/1801.06211)
+
+
+#### [The Megamaser Cosmology Project. X. High Resolution Maps and Mass Constraint for SMBHs](https://arxiv.org/abs/1801.06332)
+
+
+#### [Particle acceleration in the superwinds of starburst galaxies](https://arxiv.org/abs/1801.06483)
