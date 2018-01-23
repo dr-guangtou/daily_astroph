@@ -499,3 +499,41 @@
 #### [Particle acceleration in the superwinds of starburst galaxies](https: //arxiv.org/abs/1801.06483)
     * we calculate the cosmic ray production associated with the superwind using parameters that correspond to the nearby southern starburst galaxy NGC 253
     * NGC 253 and similar starbursts can only accelerate iron nuclei beyond ∼ 10^18 eV under very special conditions
+
+
+----
+
+## Jan 22:
+
+#### [Galactic disk winds driven by cosmic ray pressure](https: //arxiv.org/abs/1801.06544)
+
+
+#### [Kinematics of the SN Refsdal host revealed by MUSE: a regularly rotating spiral galaxy at z~1.5](https: //arxiv.org/abs/1801.06546)
+
+
+#### [Elemental gas-phase abundances of intermediate redshift type Ia supernova star-forming host galaxies](https: //arxiv.org/abs/1801.06547)
+
+
+#### [ALMA Reveals an Inhomogeneous Compact Rotating Dense Molecular Torus at the NGC 1068 Nucleus](https: //arxiv.org/abs/1801.06564)
+
+
+#### [The SAMI Galaxy Survey: gas content and interaction as the drivers of kinematic asymmetry](https: //arxiv.org/abs/1801.06628)
+
+
+#### [A Dust spectral energy distribution model with hierarchical Bayesian inference. I. Formalism & benchmarking](https: //arxiv.org/abs/1801.06660)
+
+
+#### [A multiwavelength survey of HI-excess galaxies with surprisingly inefficient star formation](https: //arxiv.org/abs/1801.06880)
+
+
+#### [Emission-line diagnostics of nearby HII regions including interacting binary populations](https: //arxiv.org/abs/1801.07068)
+
+
+#### [Cospatial Star Formation and Supermassive Black Hole Growth in z∼3 Galaxies: Evidence for In-situ Co-evolution](https: //arxiv.org/abs/1801.07072)
+
+
+#### [Inner and outer star forming regions over the disks of spiral galaxies. I. Sample characterization](https: //arxiv.org/abs/1801.07126)
+
+
+#### [Probing galaxy assembly bias with LRG weak lensing observations](https: //arxiv.org/abs/1801.06551)
+    * **Relevant**
