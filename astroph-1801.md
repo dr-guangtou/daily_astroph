@@ -537,3 +537,43 @@
 
 #### [Probing galaxy assembly bias with LRG weak lensing observations](https: //arxiv.org/abs/1801.06551)
     * **Relevant**
+
+
+----
+
+## Jan 23:
+
+#### [The Second Nucleus of NGC 7727: Direct Evidence for the Formation and Evolution of an Ultracompact Dwarf Galaxy](https: //arxiv.org/abs/1801.07254)
+
+
+#### [Red, redder, reddest: SCUBA-2 imaging of colour-selected \textit{Herschel} sources](https: //arxiv.org/abs/1801.07266)
+
+
+#### [The Conditional Colour-Magnitude Distribution: I. A Comprehensive Model of the Colour-Magnitude-Halo Mass Distribution of Present-Day Galaxies](https: //arxiv.org/abs/1801.07272)
+    - **Relevant**
+
+
+#### [Stellar Halos in Illustris- Probing the Histories of Milky Way-Mass Galaxies](https: //arxiv.org/abs/1801.07273)
+    - **Relevant**
+
+
+#### [Discovery of two neighboring satellites in the Carina constellation with MagLiteS](https: //arxiv.org/abs/1801.07279)
+
+
+#### [ALMA observations of lensed Herschel sources : Testing the dark-matter halo paradigm](https: //arxiv.org/abs/1801.07282)
+
+
+#### [Spatially-unresolved SED fitting can underestimate galaxy masses: a solution to the missing mass problem](https: //arxiv.org/abs/1801.07368)
+    - **Relevant, Important**
+
+
+#### [What to expect from dynamical modelling of galactic haloes II: the spherical Jeans equation](https: //arxiv.org/abs/1801.07373)
+
+
+#### [Precision determination of corotation radii in galaxy disks: Tremaine-Weinberg v. Font-Beckman for NGC 3433](https: //arxiv.org/abs/1801.07476)
+
+
+#### [Predicting Quasar Continua Near Lyman-α with Principal Component Analysis](https: //arxiv.org/abs/1801.07679)
+
+
+#### [Early growth of high redshift black holes](https: //arxiv.org/abs/1801.07685)
