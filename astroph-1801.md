@@ -414,6 +414,10 @@
 
 #### [Timing the formation and assembly of early-type galaxies via spatially resolved stellar populations analysis](https://arxiv.org/abs/1801.05486)
     **Relevant**
+    * We find rather flat age and [Mg/Fe] radial gradients, weakly dependent on the effective velocity dispersion of the galaxy within half-light radius.
+    * metallicity gradients become steeper with increasing galaxy velocity dispersion.
+    * we find a tight age-[Mg/Fe] relation, supporting that the duration of the star formation is the main driver of the [Mg/Fe] enhancement in massive ETGs.
+    * 使用了[α/Fe]-variable MILES stellar population synthesis models 
 
 
 #### [The origin of ICM enrichment in the outskirts of present-day galaxy clusters from cosmological hydrodynamical simulations](https://arxiv.org/abs/1801.05425)
@@ -506,37 +510,64 @@
 ## Jan 22:
 
 #### [Galactic disk winds driven by cosmic ray pressure](https: //arxiv.org/abs/1801.06544)
+    * Cosmic ray pressure gradients transfer energy and momentum to extraplanar gas in disk galaxies, potentially driving significant mass loss as galactic winds. This may be particularly important for launching high-velocity outflows of “cool” (T 􏰬 104 K) gas.
+    * Cosmic ray streaming at the Alfvn speed enables the effective sound speed Ceff to increase from the footpoint to a critical point (一般在李盘1-6 kpc处)
+        - 一般thermal wind的有效声速是下降的
 
 
 #### [Kinematics of the SN Refsdal host revealed by MUSE: a regularly rotating spiral galaxy at z~1.5](https: //arxiv.org/abs/1801.06546)
+    * show strong [O ii]-line emissions pointing to a clear rotation pattern.
+    * 旋转曲线上升很陡，peak在1kpc处，然后变平下降
+    * face-on测量的气体速度弥散度和近邻星系类似，比高红移星系低
 
 
 #### [Elemental gas-phase abundances of intermediate redshift type Ia supernova star-forming host galaxies](https: //arxiv.org/abs/1801.06547)
+    * The maximum luminosity of type Ia supernovae (SNe Ia) depends on the oxygen abun- dance of the regions of the host galaxies where they explode.
+    * We find a trend of decreasing oxygen abundance with increasing redshift for the most massive galaxies.
 
 
 #### [ALMA Reveals an Inhomogeneous Compact Rotating Dense Molecular Torus at the NGC 1068 Nucleus](https: //arxiv.org/abs/1801.06564)
+    * we have detected the rotation of this compact emission, with the eastern and western sides being redshifted and blueshifted, respectively.
+    * HCN J=3–2 and HCO+ J=3–2能比较好的探测torus附近分子气体的运动学
+    * The dense molecular gas in the torus and that of the host galaxy from the AGN along the torus direction are found to be counter-rotating, suggesting an external process happened in the past at the NGC 1068 nucleus.
 
 
 #### [The SAMI Galaxy Survey: gas content and interaction as the drivers of kinematic asymmetry](https: //arxiv.org/abs/1801.06628)
+    * We find that local environment, measured as distance to nearest neighbour, is inversely correlated with kinematic asymmetry for galaxies with log(M∗/M⊙) > 10.0, but there is no significant correlation for galaxies with log(M∗/M⊙) < 10.0.
+    * secular effects derived from gas fraction and gas mass may be the primary causes of asymmetry in low mass galaxies.
 
 
 #### [A Dust spectral energy distribution model with hierarchical Bayesian inference. I. Formalism & benchmarking](https: //arxiv.org/abs/1801.06660)
+    - **Tool**
+    * HerBIE: The originality of this code is to apply the hierarchical Bayesian approach to full dust models, including realistic optical properties, stochastic heating and the mixing of physical conditions in the observed regions.
 
 
 #### [A multiwavelength survey of HI-excess galaxies with surprisingly inefficient star formation](https: //arxiv.org/abs/1801.06880)
+    * outliers in the gas fraction vs. NUV r color and stellar mass surface density scaling relations based on the GALEX Arecibo SDSS Survey (GASS).
+    * multiple possible reasons for the H I excess in these systems.
 
 
 #### [Emission-line diagnostics of nearby HII regions including interacting binary populations](https: //arxiv.org/abs/1801.07068)
+    - **Important**
+    * at population ages above 10 Myr, single-star models rapidly decrease in flux and ionization strength, while binary-star model still produce strong flux and high O III/H  ratios.
+    * we find higher metallicities than previously estimated for the H II regions from dwarf galaxies.
+    * Comparing the equivalent width of H  emission between mod- els and observations, we find that accounting for ionizing photon leakage can a↵ect age estimates for HII regions
 
 
 #### [Cospatial Star Formation and Supermassive Black Hole Growth in z∼3 Galaxies: Evidence for In-situ Co-evolution](https: //arxiv.org/abs/1801.07072)
+    * a sub-kpc localization of the sites of supermassive black hole (SMBH) growth in three active galactic nuclei (AGN) at z~3 in relation to the regions of intense star formation in their hosts.
+    * AGN are located within the compact regions of gas-rich, heavily obscured, intense nuclear star formation
 
 
 #### [Inner and outer star forming regions over the disks of spiral galaxies. I. Sample characterization](https: //arxiv.org/abs/1801.07126)
+    * 725 inner H ii regions and a sample of 671 outer H ii regions, all of them detected and extracted from the observations of a sample of 263 nearby, isolated, spiral galaxies observed by the CALIFA survey..
+    * inner H ii regions show smaller equivalent widths, greater extinction and luminosities, along with greater values of [N ii] λ6583/Hα and [O ii] λ3727/[O iii] λ5007 emission-line ratios, indicating higher metallicites and lower ionization parameters.
 
 
 #### [Probing galaxy assembly bias with LRG weak lensing observations](https: //arxiv.org/abs/1801.06551)
     * **Relevant**
+    * Slow-growing vs. fast-growing LRG: present significantly different clustering properties on scales of 1-30Mpc.
+    * We show that fast- and slow-growing LRGs have similar lensing profiles, which implies that they live in haloes of similar mass.
 
 
 ----
