@@ -395,6 +395,10 @@
 ## Jan 17:
 
 #### [Dark Matter Substructure in Numerical Simulations: A Tale of Discreteness Noise, Runaway Instabilities, and Artificial Disruption](https://arxiv.org/abs/1801.05427)
+    - **Important, Relevant**
+    * We confirm the conclusions from our more analytical assessment in van den Bosch et al. that most disruption is numerical in origin; as long as a subhalo is resolved with sufficient mass and force resolution, a bound remnant survives.
+    * This implies that state-of-the-art cosmological simulations still suffer from significant overmerging. We demonstrate that this is mainly due to inadequate force-softening, which causes ex- cessive mass loss and artificial tidal disruption.
+    * OTOO+: GPU treecode
 
 
 #### [The VLT/MUSE view of the central galaxy in Abell 2052. Ionized gas swept by the expanding radio source](https://arxiv.org/abs/1801.05435)
@@ -417,7 +421,7 @@
     * We find rather flat age and [Mg/Fe] radial gradients, weakly dependent on the effective velocity dispersion of the galaxy within half-light radius.
     * metallicity gradients become steeper with increasing galaxy velocity dispersion.
     * we find a tight age-[Mg/Fe] relation, supporting that the duration of the star formation is the main driver of the [Mg/Fe] enhancement in massive ETGs.
-    * 使用了[α/Fe]-variable MILES stellar population synthesis models 
+    * 使用了[α/Fe]-variable MILES stellar population synthesis models
 
 
 #### [The origin of ICM enrichment in the outskirts of present-day galaxy clusters from cosmological hydrodynamical simulations](https://arxiv.org/abs/1801.05425)
@@ -602,9 +606,39 @@
 
 
 #### [Precision determination of corotation radii in galaxy disks: Tremaine-Weinberg v. Font-Beckman for NGC 3433](https: //arxiv.org/abs/1801.07476)
+    * Here comparing two methods, one of which measures the pattern speed and the other the radius of corotation, using two instruments (an integral field spectrometer and a Fabry-Perot interferometer) and using both the stellar and interstellar velocity fields
+    *  ratio of the corotation radius to the length of the bar: 可以反映暗物质晕对bar的braking效应
 
 
 #### [Predicting Quasar Continua Near Lyman-α with Principal Component Analysis](https: //arxiv.org/abs/1801.07679)
+    * we opted for a non-parametric predictive approach based on principal component analysis (PCA) to predict the intrinsic spectrum from the spectral properties at redder (i.e. unabsorbed) wavelengths.
+    * constructed a projection matrix to predict the blue-side coefficients from a fit to the red-side spectrum.
+    * We find that both z > 7 quasars, and in particular ULAS J1342+0928, show signs of damping wing-like absorption at wavelengths redward of Lyα.
 
 
 #### [Early growth of high redshift black holes](https: //arxiv.org/abs/1801.07685)
+
+
+----
+
+## Jan 24:
+
+#### [Evidence for a mass-dependent AGN Eddington ratio distribution via the flat relationship between SFR and AGN luminosity](https: //arxiv.org/abs/1801.07717)
+
+
+#### [The SCUBA-2 Cosmology Legacy Survey: The EGS deep field - II. Morphological transformation and multi-wavelength properties of faint submillimetre galaxies](https: //arxiv.org/abs/1801.07718)
+
+
+#### [The RINGS Survey III: Medium-Resolution Halpha Fabry-Perot Kinematic Dataset](https: //arxiv.org/abs/1801.07750)
+
+
+#### [A catalog of quasar properties from the Baryon Oscillation Spectroscopic Survey](https: //arxiv.org/abs/1801.07907)
+
+
+#### [Evolution of N/O ratios in galaxies from cosmological hydrodynamical simulations](https: //arxiv.org/abs/1801.07911)
+
+
+#### [The associated absorption features in quasar spectra of the Sload Digital Sky survey .I. \MgII\ absorption doublets](https: //arxiv.org/abs/1801.07998)
+
+
+#### [The associated absorption features in quasar spectra of the Sload Digital Sky survey .I. \MgII\ absorption doublets](https: //arxiv.org/abs/1801.07998)
