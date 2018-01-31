@@ -593,6 +593,8 @@
 
 
 #### [Discovery of two neighboring satellites in the Carina constellation with MagLiteS](https: //arxiv.org/abs/1801.07279)
+    * Carina II is located at ∼ 36 kpc from the Sun, with MV ∼ −4.5 and rh ∼ 90 pc, and it is further confirmed by the discovery of 3 RR Lyrae at the right distance.
+    * Together with several other systems detected by the Dark Energy Camera, Carina II and III form a strongly anisotropic cloud of satellites in the vicinity of the Magellanic Clouds.
 
 
 #### [ALMA observations of lensed Herschel sources : Testing the dark-matter halo paradigm](https: //arxiv.org/abs/1801.07282)
@@ -624,21 +626,130 @@
 ## Jan 24:
 
 #### [Evidence for a mass-dependent AGN Eddington ratio distribution via the flat relationship between SFR and AGN luminosity](https: //arxiv.org/abs/1801.07717)
+    * AGN X-ray光度和SFR相关不好，可能来自于AGN自身的光变--需要了解AGN eddingtong吸积率在不同红移的分布；一个普适的分布可能性很低，尤其是在高红移
+    * Eddington ratio distribution may instead depend upon host galaxy properties, such as SFR and/or stellar mass.
+    * 需要: incorporating a mass dependency in the AGN Eddington ratio distribution for star-forming host galaxies
 
 
 #### [The SCUBA-2 Cosmology Legacy Survey: The EGS deep field - II. Morphological transformation and multi-wavelength properties of faint submillimetre galaxies](https: //arxiv.org/abs/1801.07718)
+    - **Interesting, Relevant**
+    * We identify counterparts for 75 % of the whole sample.
+    * The redshift distributions of the 450 and 850 μm samples peak at different redshifts
+        - 但红外光度相近；大部分星系都在SF主序的高质量端
+    * we find that the most luminous galaxies are consistent with the Meurer law, while the less luminous galaxies lie below this relation.
+    * large，不规则的disk逐渐转变为spheroids: morphologically supports the scenario of SMGs as progenitors of massive elliptical galaxies.
 
 
 #### [The RINGS Survey III: Medium-Resolution Halpha Fabry-Perot Kinematic Dataset](https: //arxiv.org/abs/1801.07750)
+    * RINGS: we are obtaining and modeling Hα and H I 21 cm spectroscopic data as well as multi-band photometric data. 19个近邻spiral星系
 
 
 #### [A catalog of quasar properties from the Baryon Oscillation Spectroscopic Survey](https: //arxiv.org/abs/1801.07907)
 
 
 #### [Evolution of N/O ratios in galaxies from cosmological hydrodynamical simulations](https: //arxiv.org/abs/1801.07911)
+    * the observed increasing trend of N/O at high O/H
+        - as the consequence of metallicity gradients which have settled in the galaxy interstellar medium, where the innermost galactic regions have the highest O/H abundances and the highest N/O ratios
+        - as the consequence of an underlying average mass-metallicity relation: less massive galaxies have lower average O/H and N/O ratios than the more massive ones.
+    * the predicted N/O–O/H relation is due to the mostly secondary origin of N in stars
 
 
 #### [The associated absorption features in quasar spectra of the Sload Digital Sky survey .I. \MgII\ absorption doublets](https: //arxiv.org/abs/1801.07998)
+    * The fraction of associated Mg II systems with high velocity outflows correlates with the average luminosities of their central quasars, indicating a relationship between outflows and the quasar feedback power.
 
 
-#### [The associated absorption features in quasar spectra of the Sload Digital Sky survey .I. \MgII\ absorption doublets](https: //arxiv.org/abs/1801.07998)
+
+----
+
+## Jan 25:
+
+#### [An ALMA view of star formation efficiency suppression in early-type galaxies after gas-rich minor mergers](https: //arxiv.org/abs/1801.08140)
+
+
+#### [The star formation history of the Sextans dwarf spheroidal galaxy: a true fossil of the pre-reionization era](https: //arxiv.org/abs/1801.08145)
+
+
+#### [Resolving the Host Galaxy of a Distant Blazar with LBT/LUCI1 + ARGOS](https: //arxiv.org/abs/1801.08157)
+
+
+#### [Chasing the observational signatures of seed black holes at z > 7: candidate observability](https: //arxiv.org/abs/1801.08165)
+
+
+#### [The MASSIVE Survey IX: Photometric Analysis of 35 High Mass Early-Type Galaxies with HST WFC3/IR](https: //arxiv.org/abs/1801.08245)
+
+
+#### [Constraints on Radial Migration in Spiral Galaxies - II. Angular momentum distribution and preferential migration](https: //arxiv.org/abs/1801.08455)
+
+
+#### [A Gravitationally Lensed Quasar Discovered in OGLE](https: //arxiv.org/abs/1801.08455)
+
+
+----
+
+## Jan 28:
+
+#### [Galaxy Zoo: Morphological classification of galaxy images from the Illustris simulation](https: //arxiv.org/abs/1801.08541)
+
+
+#### [Direct Collapse to Supermassive Black Hole Seeds with Radiative Transfer: Isolated Halos](https: //arxiv.org/abs/1801.08545)
+
+
+#### [Lurking systematics in predicting galaxy cold gas masses using dust luminosities and star formation rates](https: //arxiv.org/abs/1801.08687)
+
+
+#### [Stellar metallicity variations across spiral arms in disk galaxies with multiple populations](https: //arxiv.org/abs/1801.08711)
+
+
+#### [Stellar metallicity variations across spiral arms in disk galaxies with multiple populations](https: //arxiv.org/abs/1801.08711)
+
+
+----
+
+## Jan 29:
+
+#### [Improving Weak Lensing Mass Map Reconstructions using Gaussian and Sparsity Priors: Application to DES SV](https: //arxiv.org/abs/1801.08945)
+
+
+----
+
+## Jan 30:
+
+#### [A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE). III. Constraining the quenching time in the stripped galaxy NGC 4330](https: //arxiv.org/abs/1801.08945)
+
+
+#### [Origins of ultra-diffuse galaxies in the Coma cluster - I. Constraints from velocity phase-space](https: //arxiv.org/abs/1801.09686)
+    - **Important, Relevant**
+
+
+#### [UV SEDs of early-type cluster galaxies: A new look at the UV upturn](https: //arxiv.org/abs/1801.09688)
+    - **Important, Relevant**
+
+
+#### [History and destiny of an emerging early-type galaxy: New IFU insights on the major-merger remnant NGC7252](https: //arxiv.org/abs/1801.09691)
+
+
+#### [Continuum Reverberation Mapping of the Accretion Disks in Two Seyfert 1 Galaxies](https: //arxiv.org/abs/1801.09692)
+
+
+#### [Origins of ultra-diffuse galaxies in the Coma cluster II. Constraints from their stellar populations](https: //arxiv.org/abs/1801.09695)
+    - **Important, Relevant**
+
+
+#### [Secular black-hole growth: Normal black holes in bulge-less galaxies: the largely quiescent, merger-free growth of black holes over cosmic time](https: //arxiv.org/abs/1801.09699)
+
+
+#### [The energetics of AGN radiation pressure-driven outflows](https: //arxiv.org/abs/1801.09700)
+
+
+#### [HFF-DeepSpace Photometric Catalogs of the Twelve Hubble Frontier Fields, Clusters and Parallels: Photometry, Photometric Redshifts, and Stellar Masses](https: //arxiv.org/abs/1801.09734)
+    - **Useful**
+
+
+#### [Total density profile of massive early-type galaxies in Horizon-AGN simulation: impact of AGN feedback and comparison with observations](https: //arxiv.org/abs/1801.09754)
+    - **Important, Relevant**
+
+
+#### [The Epoch of IGM heating by early sources of X-rays](https: //arxiv.org/abs/1801.09719)
+
+
+#### [Yet another UFO in the X-ray spectrum of a high-z lensed QSO](https: //arxiv.org/abs/1801.09839)
