@@ -753,3 +753,31 @@
 
 
 #### [Yet another UFO in the X-ray spectrum of a high-z lensed QSO](https: //arxiv.org/abs/1801.09839)
+
+
+----
+
+## Jan 31:
+
+#### [The l5780 and l5797 diffuse interstellar bands in the Antennae Galaxy as seen by MUSE](https: //arxiv.org/abs/1801.10162)
+
+
+#### [The fraction of dark matter within galaxies from the IllustrisTNG simulations](https: //arxiv.org/abs/1801.10170)
+
+
+#### [Particle content, radio-galaxy morphology and jet power: all radio-loud AGN are not equal](https: //arxiv.org/abs/1801.10172)
+
+
+#### [A clumpy and anisotropic galaxy halo at z=1 from gravitational-arc tomography](https: //arxiv.org/abs/1801.10175)
+
+
+#### [Metal-rich, Metal-poor: Updated Stellar Population Models for Old Stellar Systems](https: //arxiv.org/abs/1801.10185)
+    - **Important, Relevant**
+
+#### [FirstLight II: Star formation rates of primeval galaxies from z=5-15](https: //arxiv.org/abs/1801.10382)
+
+
+#### [Suppression of globular cluster formation in metal-poor gas clouds by Lyman-alpha radiation feedback](https: //arxiv.org/abs/1801.10473)
+
+
+#### [Suppression of globular cluster formation in metal-poor gas clouds by Lyman-alpha radiation feedback](https: //arxiv.org/abs/1801.10473)
