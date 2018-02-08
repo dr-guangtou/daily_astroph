@@ -121,3 +121,98 @@ sources
     * ProFound + ProFit处理星系图像
     * All photometry is executed on dilated segmentation maps that fully contain the identifiable flux, rather than using more traditional circular or ellipse based photometry
     * EBImage watershed function used in ProFound (Gregoire et al. 2010)
+
+
+----
+
+## Feb 6:
+
+#### [Kinematics of Simulated Galaxies I: Connecting Dynamical and Morphological Properties of Early-Type Galaxies at Different Redshifts](https://arxiv.org/abs/1802.01583)
+    - **Important, Relevant**
+
+
+#### [The First Detection of Neutral Hydrogen in Emission in a Strong Spiral Lens](https://arxiv.org/abs/1802.01588)
+
+
+#### [PISCO: The Pmas/ppak Integral-field Supernova hosts COmpilation](https://arxiv.org/abs/1802.01589)
+
+
+#### [The enhancement of rapidly quenched galaxies in distant clusters at 0.5<z<1.0](https://arxiv.org/abs/1802.01593)
+    - **Relevant**
+
+
+#### [The mass-size relation of LRGs from BOSS and DECaLS](https://arxiv.org/abs/1802.01596)
+    - **Relevant**
+
+
+#### [The KMOS Cluster Survey (KCS) II - The Effect of Environment on the Structural Properties of Massive Cluster Galaxies at Redshift 1.39<z<1.61](https://arxiv.org/abs/1802.01609)
+    - **Important, Relevant**
+
+
+#### [SDSS-IV MaNGA: Global stellar population and gradients for about 2000 early-type and spiral galaxies on the mass-size plane](https://arxiv.org/abs/1802.01819)
+    - **Relevant**
+
+
+#### [The spectral energy distribution of the hyperluminous, hot dust-obscured galaxy W2246−0526](https://arxiv.org/abs/1802.01865)
+
+
+#### [The contribution of faint AGNs to the ionizing background at z~4](https://arxiv.org/abs/1802.01953)
+
+
+#### [AGN feedback and the origin and fate of the hot gas in early-type galaxies](https://arxiv.org/abs/1802.02005)
+
+
+#### [A study of two dwarf irregular galaxies with asymmetrical star formation distributions](https://arxiv.org/abs/1802.02060)
+
+
+#### [Ionized and molecular gas kinematics in a z=1.4 star-forming galaxy](https://arxiv.org/abs/1802.02135)
+
+
+#### [ASAGAO. Average Morphology of High-z Dusty Star-Forming Galaxies is an Exponential-Disk (n≃1) Harboring an AGN](https://arxiv.org/abs/1802.02136)
+
+
+#### [The Inhomogeneous Reionization Times of Present-day Galaxies](https://arxiv.org/abs/1802.02136)
+    * Galaxies with M(z = 0)>10^11M⊙ reionized earlier than the universe as a whole, by up to ∼ 500 Myrs, with significant scatter. For Milky-Way-like galaxies, zR ranged from 8 to 15.
+
+
+----
+
+## Feb 7:
+
+#### [LeMMINGs. I. The eMERLIN legacy survey of nearby galaxies. 1.5-GHz parsec-scale radio structures and cores](https://arxiv.org/abs/1802.02162)
+    * high-resolution (0.2 arcsec) 1.5-GHz radio images of 103 nearby galaxies from the Palomar sample
+    * Half of the sample shows jetted morphologies. The remaining half shows single radio cores or complex morphologies.
+    * Radio core luminosities correlate with black hole (BH) mass down to ∼10^7 M⊙, but a break emerges at lower masses.
+    * In conclusion, LINER nuclei are the scaled-down version of FR I radio galaxies; Seyferts show less collimated jets
+
+
+#### [Galaxy pairs in the SDSS - XIII. The connection between enhanced star formation and molecular gas properties in galaxy mergers](https://arxiv.org/abs/1802.02166)
+    * We find that the galaxy pairs have shorter depletion times and an average molecular gas fraction enhancement of 0.4 dex compared to the mass matched control sample drawn from xCOLDGASS.
+    * the gas masses (and fractions) in galaxy pairs and their depletion times are consistent with those of non-mergers whose SFRs are similarly elevated.
+
+
+#### [The New Numerical Galaxy Catalogue (ν^2 GC): Properties of Active Galactic Nuclei and Their Host Galaxies](https://arxiv.org/abs/1802.02169)
+    * 如果假定吸积率指数下降，以及吸积时标和halo或者bulge的动力学时标相当，z<1.5的AGN比例会被低估
+    * accretion timescale of such less luminous AGNs instead should be a function of the black hole mass and the accreted gas mass.
+    * Such models predict a longer accretion timescale for less luminous AGNs at z < 1.0 than bright QSOs
+
+
+#### [Physical and numerical stability and instability of AGN bubbles in a hot intracluster medium](https://arxiv.org/abs/1802.02177)
+    * Compare four hydrodynamical schemes in idealized simulations of a rising bubble inflated by AGN feedback in a hot stratified ICM: (traditional) smoothed particle hydrodynamics (TSPH), a pressure flavour of SPH (PSPH), a meshless finite mass (MFM) scheme, as well as an Eulerian code with adaptive mesh refinement.
+
+
+#### [Spectrophotometric Redshifts In The Faint Infrared Grism Survey: Finding Overdensities Of Faint Galaxies](https://arxiv.org/abs/1802.02239)
+    * With the more-accurate spectrophotometric redshifts (SPZs), we searched the FIGS fields for galaxy over- densities. We identified 24 overdensities across the 4 fields.
+
+
+#### [LBT/MODS spectroscopy of globular clusters in the irregular galaxy NGC 4449](https://arxiv.org/abs/1802.02338)
+    - **Interesting**
+    * The inferred cluster ages are typically older than ∼9 Gyr, although ages are derived with large uncertainties. The clusters exhibit intermediate metallicities, in the range −1.2 [Fe/H]  −0.7, and typically sub-solar [α/F e] ratios, with a peak at ∼ −0.4.
+    * The majority of clusters appear also under-abundant in CN compared to Milky Way halo globular clusters, perhaps because of the lack of a conspicuous N-enriched, second-generation of stars like that observed in Galactic globular clusters.
+
+
+#### [xGASS: Total cold gas scaling relations and molecular-to-atomic gas ratios of galaxies in the local Universe](https://arxiv.org/abs/1802.02373)
+    * a gas fraction-limited census of the atomic hydrogen (Hi) gas content of 1179 galaxies selected only by stellar mass
+    * We find that atomic gas fractions keep increasing with decreasing stellar mass, with no sign of a plateau down to log M⋆/M⊙ = 9.
+    * Total gas reservoirs remain Hi-dominated across our full stellar mass range, hence total gas fraction scaling relations closely resemble atomic ones
+    * variations of Rmol are mostly driven by changes of the Hi reservoirs, with a clear dependence on μ⋆
