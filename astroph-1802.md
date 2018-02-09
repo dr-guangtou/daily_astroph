@@ -113,7 +113,7 @@ sources
 #### [Intermediate-mass black holes in dwarf galaxies out to redshift ∼ 2.4 in the Chandra COSMOS Legacy Survey](https://arxiv.org/abs/1802.01567)
     * 40 AGNs in dwarf galaxies: Type 2 AGN with 1E4-1E5 Msun BH.
     * AGN fraction at dwarf end is low and decreases with stellar mass.
-    * AGN fraction in dwarf is lower at high-z: different with massive galaxies.    
+    * AGN fraction in dwarf is lower at high-z: different with massive galaxies.
 
 
 #### [ProFound: Source Extraction and Application to Modern Survey Data](https://arxiv.org/abs/1802.00937)
@@ -216,3 +216,31 @@ sources
     * We find that atomic gas fractions keep increasing with decreasing stellar mass, with no sign of a plateau down to log M⋆/M⊙ = 9.
     * Total gas reservoirs remain Hi-dominated across our full stellar mass range, hence total gas fraction scaling relations closely resemble atomic ones
     * variations of Rmol are mostly driven by changes of the Hi reservoirs, with a clear dependence on μ⋆
+
+
+----
+
+## Feb 8:
+
+#### [The dragonfly nearby galaxies survey. Iv. A giant stellar disk in ngc 2841](https://arxiv.org/abs/1802.02583)
+    - **Relevant, Interesting**
+
+
+#### [Panchromatic SED modelling of spatially-resolved galaxies](https://arxiv.org/abs/1802.02583)
+    - **Relevant**
+
+
+#### [Climbing to the top of the galactic mass ladder: evidence for frequent prolate-like rotation among the most massive galaxies](https://arxiv.org/abs/1802.02591)
+    - **Important, Relevant**
+
+
+#### [Action-based dynamical models of dwarf spheroidal galaxies: application to Fornax](https://arxiv.org/abs/1802.02606)
+
+
+#### [The Infrared Medium-deep Survey. IV. Low Eddington Ratio of A Faint Quasar at z∼6: Not Every Supermassive Black Hole is Growing Fast in the Early Universe](https://arxiv.org/abs/1802.02782)
+
+
+#### [A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).I. Introduction to the Survey](https://arxiv.org/abs/1802.02829)
+
+
+#### [A Universal Entropy Profile for the Hot Atmospheres of Galaxies and Clusters within R2500](https://arxiv.org/abs/1802.02589)
