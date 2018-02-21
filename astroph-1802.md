@@ -244,3 +244,210 @@ sources
 
 
 #### [A Universal Entropy Profile for the Hot Atmospheres of Galaxies and Clusters within R2500](https://arxiv.org/abs/1802.02589)
+
+
+----
+
+## Feb 11:
+
+#### [Environmental Quenching of Low-Mass Field Galaxies](https://arxiv.org/abs/1802.03017)
+
+
+#### [Reignition of Star Formation in Dwarf Galaxies](https://arxiv.org/abs/1802.03019)
+
+
+#### [Supermassive Black Holes with High Accretion Rates in Active Galactic Nuclei. IX 10 New Observations of Reverberation Mapping and Shortened Hβ Lags](https://arxiv.org/abs/1802.03022)
+
+
+#### [A Multi-Frequency Study of the Milky Way-like Spiral Galaxy NGC 6744](https://arxiv.org/abs/1802.03075)
+
+
+#### [The Maximum Flux of Star-Forming Galaxies](https://arxiv.org/abs/1802.03117)
+
+
+#### [Sub-arcsecond imaging of Arp\,299-A at 150 MHz with LOFAR: Evidence for a starburst-driven outflow](https://arxiv.org/abs/1802.03226)
+
+
+#### [The Super-NFW model: an analytic dynamical model for cold dark matter haloes and elliptical galaxies](https://arxiv.org/abs/1802.03349)
+
+
+#### [Galaxy halo expansions: a new biorthogonal family of potential-density pairs](https://arxiv.org/abs/1802.03350)
+
+
+#### [Galaxy halo expansions: a new biorthogonal family of potential-density pairs](https://arxiv.org/abs/1802.03350)
+
+
+----
+
+## Feb 12:
+
+#### [Extended and broad Lyman alpha emission around a BAL quasar at z~5](https://arxiv.org/abs/1802.03400)
+
+
+#### [The WISSH Quasars Project IV. BLR versus kpc-scale winds](https://arxiv.org/abs/1802.03423)
+
+
+#### [Deconstructing a galaxy: colour distributions of point sources in Messier 83](https://arxiv.org/abs/1802.03595)
+
+
+#### [The Strong Gravitational Lens Finding Challenge](https://arxiv.org/abs/1802.03609)
+
+
+#### [Evolution of spatially resolved star formation main sequence and surface density profiles in massive disc galaxies at 0≲z≲1: inside-out stellar mass buildup and quenching](https://arxiv.org/abs/1802.03782)
+
+
+#### [The HIX galaxy survey II: HI kinematics of HI eXtreme galaxies](https://arxiv.org/abs/1802.04043)
+
+
+#### [Dark-ages Reionization and Galaxy Formation Simulation - XIV. Gas accretion, cooling and star formation in dwarf galaxies at high redshift](https://arxiv.org/abs/1802.03879)
+
+
+----
+
+## Feb 13:
+
+#### [Extended and broad Lyman alpha emission around a BAL quasar at z~5](https://arxiv.org/abs/1802.03400)
+
+
+----
+
+## Feb 14:
+
+#### [Predictions and sensitivity forecasts for reionization-era CII line intensity mapping](https://arxiv.org/abs/1802.04804)
+
+
+#### [The SAMI Galaxy Survey: gravitational potential and surface density drive stellar populations -- I. early-type galaxies](https://arxiv.org/abs/1802.04807)
+
+
+#### [Acoustic Disturbances in Galaxy Clusters](https://arxiv.org/abs/1802.04808)
+
+
+----
+
+## Feb 15:
+
+#### [The JWST Extragalactic Mock Catalog: Modeling galaxy populations from the UV through the near-IR over thirteen billion years of cosmic history](https://arxiv.org/abs/1802.05272)
+
+
+#### [Gemini Follow-up of two massive HI clouds discovered with the Australian Square Kilometer Array Pathfinder](https://arxiv.org/abs/1802.05279)
+
+
+#### [The Next Generation Virgo Cluster Survey (NGVS). XVIII. Measurement and Calibration of Surface Brightness Fluctuation Distances for Bright Galaxies in Virgo (and Beyond)](https://arxiv.org/abs/1802.05526)
+    * The multi-band NGVS data set provides multiple options for calibrating the SBF distances, and we explore various calibrations involving individual color indices as well as combinations of two different colors.
+    * We present a preliminary catalog of distances for 89 galaxies brighter than BT ≈ 13.0 mag within the survey footprint
+
+
+#### [The 500 ks Chandra observation of the z = 6.31 QSO SDSS J1030+0524](https://arxiv.org/abs/1802.05613)
+    * 发现在2年时间内有显著的光变
+    * We also report the discovery of diffuse X-ray emission that extends for 30"x20" southward the QSO
+        * may be either associated with the radio lobe of a nearby, foreground radio galaxy (at z~1-2), or ascribed to the feedback from the QSO itself acting on its surrounding environment
+
+
+#### [Alone on a wide wide sea. The origin of SECCO 1, an isolated star-forming gas cloud in the Virgo cluster](https://arxiv.org/abs/1802.05625)
+    * We provide new evidence supporting an age as young as <∼ 4 Myr for the stars that are currently ionising the gas in SECCO 1.
+    * We also identify three additional candidate pressure-supported dark clouds in Virgo among the targets of the SECCO survey.
+
+
+----
+
+## Feb 18:
+
+#### [A model for AGN variability on multiple timescales](https://arxiv.org/abs/1802.05717)
+
+
+#### [Obscured star-formation in bright z ~ 7 Lyman-break galaxies](https://arxiv.org/abs/1802.05720)
+
+
+#### [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs) III. Star formation properties of the host galaxies at z≳6 studied with ALMA](https://arxiv.org/abs/1802.05742)
+
+
+#### [The mid-infrared properties and gas content of active galaxies over large look-back times](https://arxiv.org/abs/1802.05760)
+
+
+#### [Duty-cycle and energetics of remnant radio-loud AGN](https://arxiv.org/abs/1802.05806)
+
+
+#### [Early-type galaxy spin evolution in the Horizon-AGN simulation](https://arxiv.org/abs/1802.05916)
+
+
+#### [X-ray Reverberation Mapping and Dramatic Variability of Seyfert 1 Galaxy 1H 1934-063](https://arxiv.org/abs/1802.06056)
+
+
+----
+
+## Feb 19:
+
+#### [ALMA view of a massive spheroid progenitor: a compact rotating core of molecular gas in an AGN host at z=2.226](https://arxiv.org/abs/1802.06083)
+
+
+#### [The Influence of Galaxy Environment on the Stellar Initial Mass Function of Early-Type Galaxies](https://arxiv.org/abs/1802.06084)
+    - **Important, Relevant**
+    * SPIDER, Wang et al. group catalog; sigma*-bin; stacking; index; MIUSCAT/EMILES model
+    * We find that this result is robust against the set of isochrones used in the stellar population models, as well as the way the effect of elemental abundance ratios is taken into account.
+    * For the first time, we show that there is no dependence of Γb on environment or galaxy hierarchy, as measured within the 3′′ SDSS fibre, thus leaving the IMF as an intrinsic galaxy property, possibly set already at high redshift.
+
+
+#### [CHANG-ES XI: Circular Polarization in the Cores of Nearby Galaxies](https://arxiv.org/abs/1802.06168)
+
+
+#### [Hubble Space Telescope Observations of Extended O III λ5007 Emission in Nearby QSO2s: New Constraints On AGN / Host Galaxy Interaction](https://arxiv.org/abs/1802.06184)
+
+
+#### [Neutral gas properties of Lyman continuum emitting galaxies: column densities and covering fractions from UV absorption lines](https://arxiv.org/abs/1802.06378)
+
+
+#### [A study of the HI and optical properties of Low Surface Brightness galaxies: spirals, dwarfs and irregulars](https://arxiv.org/abs/1802.06408)
+    * We found that LSB and HSB galaxies span a similar range in HI and stellar masses, and have a similar MHI/M⋆-M⋆ relationship.
+        - 这文章里的LSB的定义并不严格: mu_0 > 22 mag/arcsec^2
+
+
+#### [SEAGLE - I: A pipeline for simulating and modeling strong lenses from cosmological hydrodynamic simulations](https://arxiv.org/abs/1802.06629)
+    * We identify and extract an ensemble of simulated lens galaxies and use the GLAMER ray-tracing lensing code to create mock lenses similar to those observed in the SLACS and SL2S surveys
+    * We find the average total density slope of EAGLE lenses, t = 2.26 (0.25 rms) to be higher than SL2S, t = 2.16 or SLACS, t = 2.08.
+    * We find a very strong correlation between the external shear (γ) and the complex ellipticity (ε), with γ ∼ ε/4.
+
+
+----
+
+## Feb 20:
+
+#### [Wandering Supermassive Black Holes in Milky Way Mass Halos](https://arxiv.org/abs/1802.06783)
+
+
+#### [Star-forming galaxies are predicted to lie on a fundamental plane of mass, star formation rate and α-enhancement](https://arxiv.org/abs/1802.06786)
+
+
+#### [Star Formation Histories of the LEGUS Dwarf Galaxies (I): recent History of NGC1705, NGC4449 and Holmberg II](https://arxiv.org/abs/1802.06792)
+
+
+#### [SDSS-IV MaNGA: Modelling the metallicity gradients of gas and stars - radially dependent metal outflow vs IMF](https://arxiv.org/abs/1802.06793)
+
+
+#### [Stellar Populations of over one thousand z∼0.8 Galaxies from LEGA-C: Ages and Star Formation Histories from Dn4000 and Hδ](https://arxiv.org/abs/1802.06799)
+
+
+#### [Globular Clusters in High-Redshift Dwarf Galaxies: A Case Study from the Local Group](https://arxiv.org/abs/1802.06801)
+
+
+#### [The Cosmic Web Around The Brightest Galaxies During The Epoch Of Reionization](https://arxiv.org/abs/1802.06802)
+
+
+#### [Ships Passing in the Night: Spectroscopic Analysis of Two Ultra-Faint Satellites in the Constellation Carina](https://arxiv.org/abs/1802.06810)
+
+
+#### [Stellar populations of galaxies in the ALHAMBRA survey up to z∼1. III. The stellar content of the quiescent galaxy population during the last 8 Gyr](https://arxiv.org/abs/1802.06813)
+
+
+#### [Next Generation Virgo Cluster Survey (NGVS). XXXII:~Search for a Globular Cluster Substructure in the Virgo Galaxy Cluster Core](https://arxiv.org/abs/1802.06814)
+
+
+#### [Multi-scale simulations of black hole accretion in barred galaxies. II. Self-gravitating disk models](https://arxiv.org/abs/1802.06873)
+
+
+#### [Extinction Maps and Dust-to-Gas Ratios in Nearby Galaxies](https://arxiv.org/abs/1802.06915)
+
+
+#### [Search for low-frequency diffuse radio emission around a shock in the massive galaxy cluster MACS J0744.9+3927](https://arxiv.org/abs/1802.06791)
+
+
+#### [Reconstruction of the two-dimensional gravitational potential of galaxy clusters from X-ray and Sunyaev-Zel'dovich measurements](https://arxiv.org/abs/1802.07118)
