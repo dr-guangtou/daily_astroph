@@ -451,3 +451,52 @@ sources
 
 
 #### [Reconstruction of the two-dimensional gravitational potential of galaxy clusters from X-ray and Sunyaev-Zel'dovich measurements](https://arxiv.org/abs/1802.07118)
+
+
+----
+
+## Feb 21:
+
+#### [The Fate of Supernova-Heated Gas in Star-Forming Regions of the LMC: Lessons for Galaxy Formation?](https://arxiv.org/abs/1802.07263)
+    * 冲压剥离可能对超新星反馈的外流气体有加强作用，产生expelled gas (LMC里面有例子)
+
+#### [The SINS/zC-SINF survey of z~2 galaxy kinematics: SINFONI adaptive optics-assisted data and kiloparsec-scale emission line properties](https://arxiv.org/abs/1802.07276)
+    * SINFONI AO对35个z~2的大质量，SF main sequence上的SF星系的Halpha和[NII]线在1.5kpc分辨率的观测。
+    * [NII]/Halpha梯度基本是flat或者negative的
+
+#### [Exploring the limits of AGN feedback: black holes and the star formation histories of low-mass galaxies](https://arxiv.org/abs/1802.07277)
+    * 比3x10^10质量小的星系的SFH和SMBH mass关系不大
+
+
+#### [GASP. V. Ram-pressure stripping of a ring Hoag's-like galaxy in a massive cluster](https://arxiv.org/abs/1802.07294)
+    * Abell 3667里面的一个有一点像Hoag object 的星系，可能来自infall之前的气体吸积，同时受到RPS的影响。
+
+
+#### [GASP. VII. Gas accretion onto an isolated galaxy](https://arxiv.org/abs/1802.07296)
+    * 孤立的星系，有lopsided的形状，年轻的HII区等，可能来自最近的气体吸积
+    * 其实和M101长得差不多
+
+#### [GASP IX. Jellyfish galaxies in phase-space: an orbital study of intense ram-pressure stripping in clusters](https://arxiv.org/abs/1802.07297)
+    * Jellyfish星系在相空间的分布和星系团其他星系不同，peculiar速度更高
+
+
+#### [The Updated BaSTI Stellar Evolution Models and Isochrones: I. Solar Scaled Calculations](https://arxiv.org/abs/1802.07319)
+    * Henrey integration
+
+
+#### [The chemical connection between Damped Lyman-α systems and Local Group dwarf galaxies](https://arxiv.org/abs/1802.07325)
+    * S和Zn是挥发性元素，不会depelet到尘埃中去，常用[S/Zn]可以用作[alpha/Fe]的估计
+    * S主要来自core collapsed SN；Zn和Fe trace的增丰过程不太一样，Zn不主要来自SN Ia
+    * [O/S]可以作用[S/H]的替代
+    * DLA中星系的SFH和银河系盘以及dSph都不太一样
+
+
+#### [Extreme conditions in the molecular gas of lensed star-forming galaxies at z~3](https://arxiv.org/abs/1802.07430)
+    - **Chentao Yang; Zhi-yu Zhang**
+    * SEPIA 5 receiver on APEX
+    * z~3的lensed星系中CO(7-6)/CO(2-1)和CO(1-0)显示了气体的large excitation status
+
+
+#### [On the (fast) quenching of (young) low-mass galaxies to z∼0.6. New spotlights on environment lead role](https://arxiv.org/abs/1802.07628)
+    * VIPER, z>0.65: local density对于dwarf星系的quiescent很重要，而且可能随着红移更重要
+    * 用的是NUV-r v.s. r-K color-color diagram
