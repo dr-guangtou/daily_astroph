@@ -451,6 +451,8 @@ sources
 
 
 #### [Reconstruction of the two-dimensional gravitational potential of galaxy clusters from X-ray and Sunyaev-Zel'dovich measurements](https://arxiv.org/abs/1802.07118)
+    * Lucy-Richardson deprojection method估计星系团的三维引力势
+    * 从X-ray数据和SZ数据能得到相近的结果
 
 
 ----
@@ -500,3 +502,43 @@ sources
 #### [On the (fast) quenching of (young) low-mass galaxies to z∼0.6. New spotlights on environment lead role](https://arxiv.org/abs/1802.07628)
     * VIPER, z>0.65: local density对于dwarf星系的quiescent很重要，而且可能随着红移更重要
     * 用的是NUV-r v.s. r-K color-color diagram
+
+
+----
+
+## Feb 22:
+
+#### [Quantifying Feedback from Narrow Line Region Outflows in Nearby Active Galaxies. I. Spatially Resolved Mass Outflow Rates for the Seyfert 2 Galaxy Markarian 573](https://arxiv.org/abs/1802.07734)
+
+
+#### [Diversity in the stellar velocity dispersion profiles of a large sample of Brightest Cluster Galaxies z≤0.3](https://arxiv.org/abs/1802.07745)
+
+
+#### [Radiative transfer calculations of the diffuse ionised gas in disc galaxies with cosmic ray feedback](https://arxiv.org/abs/1802.07749)
+
+
+#### [Starburst to quiescent from HST/ALMA: Stars and dust unveil minor mergers in submillimeter galaxies at z∼4.5](https://arxiv.org/abs/1802.07751)
+
+
+#### [Dusty galaxies in the Epoch of Reionization: simulations](https://arxiv.org/abs/1802.07772)
+
+
+#### [The Gemini/HST galaxy cluster project: Redshift 0.2-1.0 cluster sample, X-ray data and optical photometry catalog](https://arxiv.org/abs/1802.07816)
+
+
+#### [An outflow in the Seyfert ESO 362-G18 revealed by Gemini-GMOS/IFU Observations](https://arxiv.org/abs/1802.07853)
+
+
+#### [The Isophotal Structure of Star-forming Galaxies at 0.5<z<1.8 in CANDELS: Implications for the Evolution of Galaxy Structure](https://arxiv.org/abs/1802.07930)
+
+
+#### [Local anti-correlation between star-formation rate and gas-phase metallicity in disk galaxies](https://arxiv.org/abs/1802.08111)
+
+
+#### [New constraints on Lyman-α opacity with a sample of 62 quasars at z > 5.7](https://arxiv.org/abs/1802.08177)
+
+
+#### [SDSS-IV MaNGA: Stellar angular momentum of about 2300 galaxies: unveiling the bimodality of massive galaxy properties](https://arxiv.org/abs/1802.08213)
+
+
+#### [A New Approach for Measuring Power Spectra and Reconstructing Time Series in Active Galactic Nuclei](https://arxiv.org/abs/1802.07958)
