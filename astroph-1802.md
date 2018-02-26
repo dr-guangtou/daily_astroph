@@ -430,21 +430,27 @@ sources
 
 
 #### [The Cosmic Web Around The Brightest Galaxies During The Epoch Of Reionization](https://arxiv.org/abs/1802.06802)
+    * Conditional LF里面的scatter参数越大，高红移看到的最亮星系越不太可能是最大质量的halo里面的
 
 
 #### [Ships Passing in the Night: Spectroscopic Analysis of Two Ultra-Faint Satellites in the Constellation Carina](https://arxiv.org/abs/1802.06810)
+    * Carina II和III的恒星测量，都是DM主导的矮星系，没有Gamma ray超出
 
 
 #### [Stellar populations of galaxies in the ALHAMBRA survey up to z∼1. III. The stellar content of the quiescent galaxy population during the last 8 Gyr](https://arxiv.org/abs/1802.06813)
+    * 没什么特别的，就是一个SED fitting，看quiescent星系的星族参数，以及Quiescent比例随红移升高
 
 
 #### [Next Generation Virgo Cluster Survey (NGVS). XXXII:~Search for a Globular Cluster Substructure in the Virgo Galaxy Cluster Core](https://arxiv.org/abs/1802.06814)
-
+    - **Interesting**
+    * 从Color空间里找到Virgo里面一个年龄相对年轻的GC的可能的子结构
 
 #### [Multi-scale simulations of black hole accretion in barred galaxies. II. Self-gravitating disk models](https://arxiv.org/abs/1802.06873)
 
 
 #### [Extinction Maps and Dust-to-Gas Ratios in Nearby Galaxies](https://arxiv.org/abs/1802.06915)
+    * Dust-to-gas ratio和metallicity有power law相关
+    * SED拟合得到的相关比isochrone拟合得到的要低
 
 
 #### [Search for low-frequency diffuse radio emission around a shock in the massive galaxy cluster MACS J0744.9+3927](https://arxiv.org/abs/1802.06791)
@@ -542,3 +548,28 @@ sources
 
 
 #### [A New Approach for Measuring Power Spectra and Reconstructing Time Series in Active Galactic Nuclei](https://arxiv.org/abs/1802.07958)
+
+
+----
+
+## Feb 25:
+
+#### [Probing Evolutionary Population Synthesis Models in the Near Infrared with Early Type Galaxies](https://arxiv.org/abs/1802.08280)
+    - **Relevant, Interesting**
+
+
+#### [On the Gas Content and Efficiency of AGN Feedback in Low-redshift Quasars](https://arxiv.org/abs/1802.08364)
+
+
+#### [Kinematics, Turbulence and Star Formation of z ~1 Strongly Lensed Galaxies seen with MUSE](https://arxiv.org/abs/1802.08451)
+
+
+#### [Galaxy And Mass Assembly (GAMA): The environmental dependence of the galaxy main sequence](https://arxiv.org/abs/1802.08456)
+    - **Relevant**
+
+
+#### [The Leo-I group: new dwarf galaxy and UDG candidates](https://arxiv.org/abs/1802.08657)
+    - **Relevant**
+
+
+#### [X-ray study of a sample of FR0 radio galaxies: unveiling the nature of the central engine](https://arxiv.org/abs/1802.08581)
