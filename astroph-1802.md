@@ -573,3 +573,46 @@ sources
 
 
 #### [X-ray study of a sample of FR0 radio galaxies: unveiling the nature of the central engine](https://arxiv.org/abs/1802.08581)
+
+
+----
+
+## Feb 26:
+
+#### [Giant galaxy growing from recycled gas: ALMA maps the circumgalactic molecular medium of the Spiderweb in CI](https://arxiv.org/abs/1802.08742)
+
+
+#### [Large Scale Environment of a z=6.61 Luminous Quasar Probed by Lyα Emitters and Lyman Break Galaxies](https://arxiv.org/abs/1802.08912)
+
+
+#### [Galaxy Tagging: photometric redshift refinement and group richness enhancement](https://arxiv.org/abs/1802.09009)
+
+
+#### [A survey for dwarf galaxy remnants around fourteen globular clusters in the outer halo](https://arxiv.org/abs/1802.09255)
+
+
+#### [Baryon Budget of the Hot Circumgalactic Medium of Massive Spiral Galaxies](https://arxiv.org/abs/1802.09453)
+
+
+#### [Circumnuclear star formation in Mrk~42 mapped with Gemini Near-infrared Integral Field Spectrograph](https://arxiv.org/abs/1802.09471)
+
+
+#### [Dissecting star-formation in the "Atoms-for-Peace" galaxy: Ultra-Violet Imaging Telescope observations of the post-merger galaxy NGC7252](https://arxiv.org/abs/1802.09493)
+
+
+#### [The Diversity of Atomic Hydrogen in Slow Rotator Early-type Galaxies](https://arxiv.org/abs/1802.09495)
+
+
+#### [X-ray properties of high-richness CAMIRA clusters in the Hyper Suprime-Cam Subaru Strategic Program field](https://arxiv.org/abs/1802.08692)
+
+
+#### [The multidimensional dependence of halo bias in the eye of a machine: a tale of halo structure, assembly and environment](https://arxiv.org/abs/1802.08692)
+
+
+#### [Impact of young stellar components on quiescent galaxies: deconstructing cosmic chronometers](https://arxiv.org/abs/1802.09473)
+
+
+#### [Integrating human and machine intelligence in galaxy morphology classification tasks](https://arxiv.org/abs/1802.08713)
+
+
+#### [Chandra and XMM-Newton Obersvations of the Abell 3391/Abell 3395 Intercluster Filament](https://arxiv.org/abs/1802.08688)
