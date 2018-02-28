@@ -616,3 +616,31 @@ sources
 
 
 #### [Chandra and XMM-Newton Obersvations of the Abell 3391/Abell 3395 Intercluster Filament](https://arxiv.org/abs/1802.08688)
+
+
+----
+
+## Feb 27:
+
+#### [The frequency of very young galaxies in the local Universe: I. A test for galaxy formation and cosmological models](https://arxiv.org/abs/1802.09530)
+
+
+#### [Large velocity dispersion of molecular gas in bars of strongly barred galaxies, NGC 1300 and NGC 5383](https://arxiv.org/abs/1802.09532)
+
+
+#### [The Sagittarius dwarf galaxy: Where did all the gas go?](https://arxiv.org/abs/1802.09533)
+
+
+#### [Tidal disruption of dwarf spheroidal galaxies: the strange case of Crater II](https://arxiv.org/abs/1802.09537)
+
+
+#### [The hELENa project - II. Abundance distribution trends of early-type galaxies: from dwarfs to giants](https://arxiv.org/abs/1802.09537)
+
+
+#### [Evolution of the Stellar Mass--Metallicity Relation - I: Galaxies in the z~0.4 Cluster Cl0024](https://arxiv.org/abs/1802.09560)
+
+
+#### [Molecular line emission in NGC 4945, imaged with ALMA](https://arxiv.org/abs/1802.09852)
+
+
+#### [Stacked lensing estimators and their covariance matrices: Excess surface mass density vs. Lensing shear](https://arxiv.org/abs/1802.09696)
