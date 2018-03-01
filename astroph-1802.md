@@ -644,3 +644,31 @@ sources
 
 
 #### [Stacked lensing estimators and their covariance matrices: Excess surface mass density vs. Lensing shear](https://arxiv.org/abs/1802.09696)
+
+
+----
+
+## Feb 28:
+
+#### [The imprint of cosmic reionisation on the luminosity function of galaxies](https://arxiv.org/abs/1802.10096)
+
+
+#### [The nature of luminous Lyman-alpha emitters at z~2-3: maximal dust-poor starbursts and highly ionising AGN](https://arxiv.org/abs/1802.10102)
+
+
+#### [Alignment between satellite and central galaxies in the SDSS DR7: dependence on large-scale environment](https://arxiv.org/abs/1802.10105)
+
+
+#### [Modelling the UV spectrum of SDSS-III/BOSS galaxies: hints towards the detection of the UV upturn at high-z](https://arxiv.org/abs/1802.10114)
+
+
+#### [The cosmic evolution of the spatially-resolved star formation rate and stellar mass of the CALIFA survey](https://arxiv.org/abs/1802.10118)
+
+
+#### [Extraplanar H II Regions in Spiral Galaxies. I. Low-Metallicity Gas Accreting through the Disk-Halo Interface of NGC 4013](https://arxiv.org/abs/1802.10165)
+
+
+#### [Extraplanar H II Regions in Spiral Galaxies. II. In Situ Star Formation in the Interstellar Thick Disk of NGC 4013](https://arxiv.org/abs/1802.10166)
+
+
+#### [A Study of Environmental Effects on Galaxy Spin Using MaNGA Data](https://arxiv.org/abs/1802.10265)
