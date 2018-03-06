@@ -115,4 +115,25 @@ WISE J101326.25+611220.1.
 
 ## Mar 5:
 
-#### [Evolution of the anti-truncated stellar profiles of S0 galaxies since z=0.6 in the SHARDS survey: II - Structural and photometric evolution](https://arxiv.org/abs/1803.00570)
+#### [Red Misfits in the Sloan Digital Sky Survey: Properties of Star-forming Red Galaxies](https://arxiv.org/abs/1803.01027)
+
+
+#### [The LABOCA/ACT Survey of Clusters at All Redshifts: multi-wavelength analysis of background submillimeter galaxies](https://arxiv.org/abs/1803.01102)
+
+
+#### [Two more, bright, z > 6 quasars from VST ATLAS and WISE](https://arxiv.org/abs/1803.01424)
+
+
+#### [Connections between star cluster populations and their host galaxy nuclear rings](https://arxiv.org/abs/1803.01501)
+
+
+#### [Hard X-ray View of HCG 16 (Arp 318)](https://arxiv.org/abs/1803.01513)
+
+
+#### [Constraints on submicrojansky radio number counts based on evolving VLA-COSMOS luminosity functions](https://arxiv.org/abs/1803.01569)
+
+
+#### [Detection of O III at z~3: A Galaxy above the Main Sequence, Rapidly Assembling its Stellar Mass](https://arxiv.org/abs/1803.01839)
+
+
+#### [Stellar and AGN feedback in isolated early-type galaxies: the role in regulating star formation and ISM properties](https://arxiv.org/abs/1803.01444)
