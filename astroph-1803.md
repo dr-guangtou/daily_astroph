@@ -116,12 +116,19 @@ WISE J101326.25+611220.1.
 ## Mar 5:
 
 #### [Red Misfits in the Sloan Digital Sky Survey: Properties of Star-forming Red Galaxies](https://arxiv.org/abs/1803.01027)
+    * Red optical color但形成恒星，不光是dusty edge-on导致的
+    * The proportion of Red Misfits is nearly independent of environment and this population exhibits both intermediate morphologies and an enhanced likelihood of hosting an AGN.
+    * transition population
 
 
 #### [The LABOCA/ACT Survey of Clusters at All Redshifts: multi-wavelength analysis of background submillimeter galaxies](https://arxiv.org/abs/1803.01102)
+    * LABOCA, ATCA 2.1GHz, PACS+SPIRE
+    * LASCAR 870 μm maps were reduced using a multi-scale iterative pipeline that removes the SZE increment signal, yielding point-source sensitivities of σ ∼ 2mJybeam−1
+    * Compared to −1.7 previous results for single-dish surveys, our redshift distribution has a comparatively larger fraction of sources at z > 3 and the high-redshift tail is more extended.
 
 
 #### [Two more, bright, z > 6 quasars from VST ATLAS and WISE](https://arxiv.org/abs/1803.01424)
+    * 3-D color space找高红移QSO：i − z : z − W1 : W1 − W2 with the WISE W1(3.4 micron) and W2 (4.5 micron) bands taking the place of the usual NIR J band to help decrease stellar dwarf contamination.
 
 
 #### [Connections between star cluster populations and their host galaxy nuclear rings](https://arxiv.org/abs/1803.01501)
@@ -137,3 +144,89 @@ WISE J101326.25+611220.1.
 
 
 #### [Stellar and AGN feedback in isolated early-type galaxies: the role in regulating star formation and ISM properties](https://arxiv.org/abs/1803.01444)
+    - **Important, Relevant**
+    * By means of high-resolution two-dimensional hydrodynamical simulations, we study the three feedback (the thermalization of winds from AGBs, red giants, planetary nebula phases, SNe feedback, and AGN feedback) effects in suppressing star formation activities on the cosmological evolution of early-type galaxies with different stellar masses.
+
+
+----
+
+## Mar 6:
+
+#### [The radial acceleration relation is a natural consequence of the baryonic Tully-Fisher relation](https://arxiv.org/abs/1803.01849)
+
+
+#### [Metal Deficiency in Two Massive Dead Galaxies at z∼2](https://arxiv.org/abs/1803.01852)
+    - **Relevant**
+
+
+#### [Revealing the Warm and Hot Halo Baryons via Thomson Scattering of Quasar Light](https://arxiv.org/abs/1803.01855)
+
+
+#### [The origin of the structure of large-scale magnetic fields in disc galaxies](https://arxiv.org/abs/1803.01856)
+
+
+#### [Rotation curves of galaxies and the stellar mass-to-light ratio](https://arxiv.org/abs/1803.01860)
+
+
+#### [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). IV. Discovery of 41 Quasars and Luminous Galaxies at 5.7 < z < 6.9](https://arxiv.org/abs/1803.01861)
+
+
+#### [Texas Spectroscopic Search for Lyα Emission at the End of Reionization I. Constraining the Lyα Equivalent Width Distribution at 6.0 < z < 7.0](https://arxiv.org/abs/1803.01870)
+
+
+#### [Estimating the Mass of the Milky Way Using the Ensemble of Classical Satellite Galaxies](https://arxiv.org/abs/1803.01878)
+
+
+#### [A comparison between semi-analytical gas cooling models and hydrodynamical simulations](https://arxiv.org/abs/1803.01923)
+
+
+#### [The origins of post-starburst galaxies at z<0.05](https://arxiv.org/abs/1803.02201)
+
+
+#### [Stability of the Broad Line Region Geometry and Dynamics in Arp 151 Over Seven Years](https://arxiv.org/abs/1803.02318)
+
+
+#### [A Window On The Earliest Star Formation: Extreme Photoionization Conditions of a High-Ionization, Low-Metallicity Lensed Galaxy at z~2](https://arxiv.org/abs/1803.02340)
+
+
+
+----
+
+## Mar 7:
+
+#### [Revolutionizing Our Understanding of AGN Feedback and its Importance to Galaxy Evolution in the Era of the Next Generation Very Large Array](https://arxiv.org/abs/1803.02357)
+
+
+#### [The structure and stability of orbits in Hoag-like ring systems](https://arxiv.org/abs/1803.02346)
+
+
+#### [Merger history of central galaxies in Semi-Analytic Models of galaxy formation](https://arxiv.org/abs/1803.02363)
+    - **Relevant**
+
+
+#### [The SLUGGS Survey: A comparison of total-mass profiles of early-type galaxies from observations and cosmological simulations, to ∼4 effective radii](https://arxiv.org/abs/1803.02373)
+    - **Relevant**
+
+
+#### [Identifying Mergers Using Quantitative Morphologies in Zoom Simulations of High-Redshift Galaxies](https://arxiv.org/abs/1803.02374)
+
+
+#### [The Kormendy Relation of Galaxies in the Frontier Fields Clusters: Abell S1063 and MACS J1149.5+2223](https://arxiv.org/abs/1803.02375)
+
+
+#### [ALMA Multiple-Transition Observations of High Density Molecular Tracers in Ultraluminous Infrared Galaxies](https://arxiv.org/abs/1803.02408)
+
+
+#### [An Analysis Framework for Understanding the Origin of Nuclear Activity in Low-Power Radio Galaxies](https://arxiv.org/abs/1803.02482)
+
+
+#### [An Hα Imaging Survey of the Low-surface-brightness Galaxies Selected from the Fall Sky Region of the 40% ALFALFA \ion{H}{1} Survey](https://arxiv.org/abs/1803.02650)
+
+
+#### [The Stellar Populations of HII galaxies: A tale of three bursts](https://arxiv.org/abs/1803.02778)
+
+
+#### [Winds as the origin of radio emission in z=2.5 radio-quiet extremely red quasars](https://arxiv.org/abs/1803.02821)
+
+
+#### [Likelihood for Detection of Sub-parsec Supermassive Black Hole Binaries in Spectroscopic Surveys](https://arxiv.org/abs/1803.02368)
