@@ -230,3 +230,16 @@ WISE J101326.25+611220.1.
 
 
 #### [Likelihood for Detection of Sub-parsec Supermassive Black Hole Binaries in Spectroscopic Surveys](https://arxiv.org/abs/1803.02368)
+
+
+----
+
+## Mar 8:
+
+#### [The Role of Galaxies and AGN in Reionising the IGM - I: Keck Spectroscopy of 5 < z < 7 Galaxies in the QSO Field J1148+5251](https://arxiv.org/abs/1803.02981)
+
+
+#### [Deep spectroscopy of nearby galaxy clusters: IV The quench of the star formation in galaxies in the infall region of Abell\ 85](https://arxiv.org/abs/1803.03045)
+
+
+#### [The Large Sky Area Multi-Object Fibre Spectroscopic Telescope (LAMOST) Quasar Survey: Quasar Properties from Data Release Two and Three](https://arxiv.org/abs/1803.03063)
