@@ -243,3 +243,81 @@ WISE J101326.25+611220.1.
 
 
 #### [The Large Sky Area Multi-Object Fibre Spectroscopic Telescope (LAMOST) Quasar Survey: Quasar Properties from Data Release Two and Three](https://arxiv.org/abs/1803.03063)
+
+
+----
+
+## Mar 11:
+
+#### [Exploring the Dust Content of Galactic Winds With Herschel. II. Nearby Dwarf Galaxies](https://arxiv.org/abs/1803.03269)
+
+
+#### [The Fornax Cluster VLT Spectroscopic Survey. I - VIMOS spectroscopy of compact stellar systems in the Fornax core region](https://arxiv.org/abs/1803.03275)
+
+
+#### [The Fornax Cluster VLT Spectroscopic Survey II - Planetary Nebulae kinematics within 200 kpc of the cluster core](https://arxiv.org/abs/1803.03276)
+
+
+#### [The Evolution of Environmental Quenching Timescales to z∼1.6](https://arxiv.org/abs/1803.03305)
+
+
+#### [SDSS-IV MaNGA: The Spectroscopic Discovery of Strongly Lensed Galaxies](https://arxiv.org/abs/1803.03604)
+
+
+#### [A Gemini view of the galaxy cluster RXC J1504-0248: insights on the nature of the central gaseous filaments](https://arxiv.org/abs/1803.03625)
+
+
+----
+
+## Mar 12:
+
+#### [Spectroscopic decomposition of NGC 3521: unveiling the properties of the bulge and disc](https://arxiv.org/abs/1803.03653)
+
+
+#### [Accurately predicting the escape fraction of ionizing photons using restframe ultraviolet absorption lines](https://arxiv.org/abs/1803.03655)
+
+
+#### [Early-type galaxies in the Antlia Cluster: Catalogue and isophotal analysis](https://arxiv.org/abs/1803.03678)
+
+
+#### [Lyman-alpha emitters gone missing: the different evolution of the bright and faint populations](https://arxiv.org/abs/1803.03789)
+
+
+#### [A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).III. Star formation in the stripped gas of NGC 4254](https://arxiv.org/abs/1803.04177)
+
+
+#### [Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-Angular Momentum Case](https://arxiv.org/abs/1803.03675)
+
+
+----
+
+## Mar 13:
+
+#### [SHINING, A Survey of Far Infrared Lines in Nearby Galaxies. I: Survey Description, Observational Trends, and Line Diagnostics](https://arxiv.org/abs/1803.04419)
+
+
+#### [The rate of Type-Ia supernovae in galaxy clusters out to redshift 1.75](https://arxiv.org/abs/1803.04421)
+
+
+#### [SHINING, A Survey of Far Infrared Lines in Nearby Galaxies. II: Line-Deficit Models, AGN impact, [CII]-SFR Scaling Relations, and Mass-Metallicity Relation in (U)LIRGS](https://arxiv.org/abs/1803.04422)
+
+
+#### [Stellar and nebular diagnostics in the UV for star-forming galaxies](https://arxiv.org/abs/1803.04425)
+
+
+#### [Detection of a population of carbon-enhanced metal-poor stars in the Sculptor dwarf spheroidal galaxy](https://arxiv.org/abs/1803.04538)
+
+
+#### [On The Nature of ultra-faint Dwarf Galaxy Candidates II: The case of Cetus II](https://arxiv.org/abs/1803.04563)
+
+
+#### [Cosmic clocks: A Tight Radius - Velocity Relationship for HI-Selected Galaxies](https://arxiv.org/abs/1803.04716)
+
+
+#### [The Dramatic Size and Kinematic Evolution of Massive Early-Type Galaxies](https://arxiv.org/abs/1803.04734)
+
+
+#### [A single population of red globular clusters around the massive compact galaxy NGC 1277](https://arxiv.org/abs/1803.04893)
+
+
+#### [Galaxy And Mass Assembly (GAMA): Gas Fuelling of Spiral Galaxies in the Local Universe II. -- Direct Measurement of the Dependencies on Redshift and Host Halo Mass of Stellar Mass Growth in Central Disk Galaxies](https://arxiv.org/abs/1803.04962)
