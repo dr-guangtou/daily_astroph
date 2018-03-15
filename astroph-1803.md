@@ -321,3 +321,26 @@ WISE J101326.25+611220.1.
 
 
 #### [Galaxy And Mass Assembly (GAMA): Gas Fuelling of Spiral Galaxies in the Local Universe II. -- Direct Measurement of the Dependencies on Redshift and Host Halo Mass of Stellar Mass Growth in Central Disk Galaxies](https://arxiv.org/abs/1803.04962)
+
+
+----
+
+## Mar 14:
+
+#### [Unveiling the dynamical state of massive clusters through the ICL fraction](https://arxiv.org/abs/1803.04981)
+
+
+#### [X-ray scaling relations from a complete sample of the richest maxBCG clusters](https://arxiv.org/abs/1803.05007)
+
+
+#### [Galaxy And Mass Assembly (GAMA): impact of the group environment on galaxy star formation](https://arxiv.org/abs/1803.05076)
+
+
+#### [Warm FIRE: Simulating Galaxy Formation with Resonant Sterile Neutrino Dark Matter](https://arxiv.org/abs/1803.05424)
+
+
+#### [Revisiting the Cooling Flow Problem in Galaxies, Groups, and Clusters of Galaxies](https://arxiv.org/abs/1803.04972)
+
+
+#### [Detecting Weak Spectral Lines in Interferometric Data through Matched Filtering](https://arxiv.org/abs/1803.04987)
+    - *Interesting*
