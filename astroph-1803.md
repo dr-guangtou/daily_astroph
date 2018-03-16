@@ -344,3 +344,22 @@ WISE J101326.25+611220.1.
 
 #### [Detecting Weak Spectral Lines in Interferometric Data through Matched Filtering](https://arxiv.org/abs/1803.04987)
     - *Interesting*
+
+
+----
+
+## Mar 15:
+
+#### [Chaos and Variance in Galaxy Formation](https://arxiv.org/abs/1803.05445)
+
+
+#### [Does circumgalactic OVI trace low-pressure gas beyond the accretion shock? Clues from HI and low-ion absorption, line kinematics, and dust extinction](https://arxiv.org/abs/1803.05446)
+
+
+#### [The Origin of Faint Tidal Features Around Galaxies in the RESOLVE Survey](https://arxiv.org/abs/1803.05447)
+
+
+#### [Optical validation and characterization of Planck PSZ1 sources at the Canary Islands observatories. I. First year of ITP13 observations](https://arxiv.org/abs/1803.05764)
+
+
+#### [Optical validation and characterization of Planck PSZ1 sources at the Canary Islands observatories. I. First year of ITP13 observations](https://arxiv.org/abs/1803.05764)
