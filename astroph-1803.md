@@ -322,12 +322,12 @@ WISE J101326.25+611220.1.
 
 #### [Galaxy And Mass Assembly (GAMA): Gas Fuelling of Spiral Galaxies in the Local Universe II. -- Direct Measurement of the Dependencies on Redshift and Host Halo Mass of Stellar Mass Growth in Central Disk Galaxies](https://arxiv.org/abs/1803.04962)
 
-
 ----
 
-## Mar 14:
+### Mar 14
 
 #### [Unveiling the dynamical state of massive clusters through the ICL fraction](https://arxiv.org/abs/1803.04981)
+
     - **Relevant, Important**
     * 方法值得关注: The ICL fraction is calculated in three optical filters using the CHEFs IntraCluster Light Estimator, a robust and accurate algorithm free of a priori assumptions
     *  the ICL fraction in the three bands is, on average, higher for the merging clusters, ranging between ∼ 7−23%, compared with the ∼ 2−11% found for the relaxed systems.
@@ -335,6 +335,7 @@ WISE J101326.25+611220.1.
     * 不过结果值得考虑，为什么merging会比relaxed的ICL比例高？难道不是relaxed的才是ICL已经就位的系统吗？
 
 #### [X-ray scaling relations from a complete sample of the richest maxBCG clusters](https://arxiv.org/abs/1803.05007)
+
     - **Interesting, Relevant**
     * 38个N>200的MaxBCG clusters
     * While the expected cluster temperatures should be scattered around 5 - 10 keV from the optical richness, the observed range extends to temperatures as low as 1.5 keV. (redMapper也是，smaller halo mass?)
@@ -342,11 +343,11 @@ WISE J101326.25+611220.1.
     * However, the scatter of the LX − N and YX − N relations are also large and asymmetric with more outliers towards lower LX or YX .
 
 #### [Galaxy And Mass Assembly (GAMA): impact of the group environment on galaxy star formation](https://arxiv.org/abs/1803.05076)
+
     - **Relevant, Interesting**
     * We select 1197 Galaxy And Mass Assembly (GAMA) groups at 0.05 ≤ z ≤ 0.2 and analyze the projected phase space (PPS) diagram
     * We find that the fraction of star-forming group members is higher in the PPS regions dominated by recently accreted galaxies, whereas passive galaxies dominate the virialized regions.
     * we conclude for low-mass halos that star-forming group galaxies represent an infalling population from the field to the halo and show suppressed star formation.
-
 
 #### [Warm FIRE: Simulating Galaxy Formation with Resonant Sterile Neutrino Dark Matter](https://arxiv.org/abs/1803.05424)
 
@@ -360,22 +361,22 @@ WISE J101326.25+611220.1.
 #### [Detecting Weak Spectral Lines in Interferometric Data through Matched Filtering](https://arxiv.org/abs/1803.04987)
     - *Interesting*
 
-
 ----
 
-## Mar 15:
+### Mar 15
 
 #### [Chaos and Variance in Galaxy Formation](https://arxiv.org/abs/1803.05445)
+
     * we show how perturbations introduced by floating-point roundoff, random number generators, and seemingly trivial differences in algorithmic behaviour can produce non-trivial differences in star formation histories, circumgalactic medium (CGM) properties, and the distribution of stellar mass.
     * Instead, simulations map a point in a space of possible initial conditions points to a volume of possible final states.
 
-
 #### [Does circumgalactic OVI trace low-pressure gas beyond the accretion shock? Clues from HI and low-ion absorption, line kinematics, and dust extinction](https://arxiv.org/abs/1803.05446)
+
     * OVI气体可能示踪的是从virially-shocked gas冷却来的，需要有多种gas-phase来解释观测
     * 也可能示踪的是激波外侧的和UV背景热平衡的电离气体，只要有一种gas phase就够了。
 
-
 #### [The Origin of Faint Tidal Features Around Galaxies in the RESOLVE Survey](https://arxiv.org/abs/1803.05447)
+
     - **Relevant**
     * DECam Legacy Survey, which reaches an r-band 3σ depth of ∼27.9 mag arcsec−2 for a 100 arcsec2 feature.
     * The frequency of tidal features in the gas-poor (gas-to-stellar mass ratio < 0.1) subsample is lower than in the gas-rich subsample
@@ -383,4 +384,33 @@ WISE J101326.25+611220.1.
     * the presence of TFs around gas-rich galaxies does not correlate with stellar or halo mass, suggesting these TFs are often tails/arms from resonant interactions.
 
 #### [Optical validation and characterization of Planck PSZ1 sources at the Canary Islands observatories. I. First year of ITP13 observations](https://arxiv.org/abs/1803.05764)
+
     * we confirm 53 clusters, which means that 46% of this PSZ1 subsample has been validated and characterized with this technique.
+
+----
+
+### Mar 18
+
+#### [The redshift evolution of rest-UV spectroscopic properties in Lyman Break Galaxies at z ~ 2-4](https://arxiv.org/abs/1803.05912)
+
+#### [Molecular Emission from a Galaxy Associated with a z~2.2 Damped Lyman-alpha Absorber](https://arxiv.org/abs/1803.05914)
+
+#### [Update on the X-ray variability plane for active galactic nuclei: The role of the obscuration](https://arxiv.org/abs/1803.05925)
+
+#### [Observational constraints on the sub-galactic matter-power spectrum from galaxy-galaxy strong gravitational lensing](https://arxiv.org/abs/1803.05952)
+
+#### [Star Forming Galaxies as AGN Imposters? A Theoretical Investigation of the Mid-infrared Colors of AGNs and Extreme Starbursts](https://arxiv.org/abs/1803.05980)
+
+#### [Thick turbulent gas disks with magnetocentrifugal winds in active galactic nuclei - Model infrared emission and optical polarization](https://arxiv.org/abs/1803.06182)
+
+#### [GASP. X: APEX detection of molecular gas in the tails and in the disks of ram-pressure stripped galaxies](https://arxiv.org/abs/1803.06183)
+
+#### [Ultra-Violet Imaging Telescope view of ram-pressure stripping in action: Star formation in the stripped gas of the GASP jellyfish galaxy JO201 in Abell 85](https://arxiv.org/abs/1803.06193)
+
+#### [Identification of SDSSJ141324.27+530527.0 as A New "Changing-Look" Quasar with a "Turn-on" Transition](https://arxiv.org/abs/1803.06255)
+
+#### [Mass-invariance of the iron enrichment in the hot haloes of massive ellipticals, groups, and clusters of galaxies](https://arxiv.org/abs/1803.06296)
+
+#### [Mass-Metallicity Relation from Cosmological Hydrodynamical Simulations and X-ray Observations of Galaxy Groups and Clusters](https://arxiv.org/abs/1803.06297)
+
+#### [Twin radio relics in a near-by low-mass galaxy cluster Abell 168](https://arxiv.org/abs/1803.06129)
