@@ -436,3 +436,31 @@ WISE J101326.25+611220.1.
 
 
 #### [The mm-wave compact component of AGN](https://arxiv.org/abs/1803.06877)
+
+
+----
+
+### Mar 20
+
+#### [A new strong-lensing galaxy at z=0.066: Another elliptical galaxy with a lightweight IMF](https://arxiv.org/abs/1803.07082)
+
+
+#### [Discovery of a Very Large (~20 kpc) Galaxy at z=3.72](https://arxiv.org/abs/1803.07145)
+
+
+#### [A Search for Gravitationally Lensed Quasars in Pan-STARRS1: Spectroscopy and Sources of Shear in the Diamond 2M1134−2103](https://arxiv.org/abs/1803.07175)
+
+
+#### [The Lyman Alpha Reference Sample IX: Revelations from deep surface photometry](https://arxiv.org/abs/1803.07207)
+
+
+#### [Color Dispersion as an Indicator of Stellar Population Complexity: Insights from the Pixel Color-Magnitude Diagrams of 32 Bright Galaxies in Abell 1139 and Abell 2589](https://arxiv.org/abs/1803.07223)
+
+
+#### [Evolution of LMC-mass dwarf galaxies in the EAGLE simulation](https://arxiv.org/abs/1803.07269)
+
+
+#### [The VANDELS ESO public spectroscopic survey: observations and first data release](https://arxiv.org/abs/1803.07373)
+
+
+#### [The VANDELS ESO spectroscopic survey](https://arxiv.org/abs/1803.07414)
