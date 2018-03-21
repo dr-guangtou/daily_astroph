@@ -414,3 +414,25 @@ WISE J101326.25+611220.1.
 #### [Mass-Metallicity Relation from Cosmological Hydrodynamical Simulations and X-ray Observations of Galaxy Groups and Clusters](https://arxiv.org/abs/1803.06297)
 
 #### [Twin radio relics in a near-by low-mass galaxy cluster Abell 168](https://arxiv.org/abs/1803.06129)
+
+
+----
+
+### Mar 19
+
+#### [Forward Modeling of Spectroscopic Galaxy Surveys: Application to SDSS](https://arxiv.org/abs/1803.06343)
+
+
+#### [The Role of Cosmic Ray Transport in Shaping the Simulated Circumgalactic Medium](https://arxiv.org/abs/1803.06345)
+
+
+#### [The Spitzer-IRAC/MIPS Extragalactic Survey (SIMES): II enhanced nuclear accretion rate in galaxy groups at z∼0.2](https://arxiv.org/abs/1803.06356)
+
+
+#### [A Candidate Tidal Disruption Event in a Quasar at z=2.359 from Abundance Ratio Variability](https://arxiv.org/abs/1803.06362)
+
+
+#### [Detection of a Double Relic in the Torpedo Cluster: SPT-CL J0245-5302](https://arxiv.org/abs/1803.06634)
+
+
+#### [The mm-wave compact component of AGN](https://arxiv.org/abs/1803.06877)
