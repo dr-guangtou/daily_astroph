@@ -464,3 +464,30 @@ WISE J101326.25+611220.1.
 
 
 #### [The VANDELS ESO spectroscopic survey](https://arxiv.org/abs/1803.07414)
+
+
+#### [The VANDELS ESO spectroscopic survey](https://arxiv.org/abs/1803.07414)
+
+----
+
+### Mar 21
+
+#### [Massive, Absorption-selected Galaxies at Intermediate Redshifts](https://arxiv.org/abs/1803.07563)
+
+
+#### [Prediction of Supernova Rates in Known Galaxy-galaxy Strong-lens Systems](https://arxiv.org/abs/1803.07569)
+
+
+#### [Stellar Population Properties of Ultracompact Dwarfs in M87: a Mass-metallicity Correlation Connecting Low-metallicity Globular Clusters and Compact Ellipticals](https://arxiv.org/abs/1803.07577)
+
+
+#### [The Swift/BAT AGN Spectroscopic Survey -- IX. The clustering environments of an unbiased sample of Local AGN](https://arxiv.org/abs/1803.07589)
+
+
+#### [Gravitationally Lensed Quasars in Gaia: II. Discovery of 24 Lensed Quasars](https://arxiv.org/abs/1803.07601)
+
+
+#### [Formation of S0s via disc accretion around high-redshift compact ellipticals](https://arxiv.org/abs/1803.07745)
+
+
+#### [Formation of S0s via disc accretion around high-redshift compact ellipticals](https://arxiv.org/abs/1803.07745)
