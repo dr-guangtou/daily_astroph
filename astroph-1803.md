@@ -443,9 +443,13 @@ WISE J101326.25+611220.1.
 ### Mar 20
 
 #### [A new strong-lensing galaxy at z=0.066: Another elliptical galaxy with a lightweight IMF](https://arxiv.org/abs/1803.07082)
+    - **Important, Relevant**
 
 
 #### [Discovery of a Very Large (~20 kpc) Galaxy at z=3.72](https://arxiv.org/abs/1803.07145)
+    - **Interesting**
+    * UV luminous，星族年轻，其他星族性质和尘埃消光与相近红移处的小星系类似
+    * may be a scaled-up version of chain galaxies seen in deep HST imaging, or alternatively, a nearly equal-mass merger involving two super-L∗ galaxies in its early stage.
 
 
 #### [A Search for Gravitationally Lensed Quasars in Pan-STARRS1: Spectroscopy and Sources of Shear in the Diamond 2M1134−2103](https://arxiv.org/abs/1803.07175)
@@ -455,39 +459,77 @@ WISE J101326.25+611220.1.
 
 
 #### [Color Dispersion as an Indicator of Stellar Population Complexity: Insights from the Pixel Color-Magnitude Diagrams of 32 Bright Galaxies in Abell 1139 and Abell 2589](https://arxiv.org/abs/1803.07223)
+    - **Important, Relevant**
 
 
 #### [Evolution of LMC-mass dwarf galaxies in the EAGLE simulation](https://arxiv.org/abs/1803.07269)
 
 
 #### [The VANDELS ESO public spectroscopic survey: observations and first data release](https://arxiv.org/abs/1803.07373)
+    * main targets are star-forming galaxies at redshift 2.4 < z < 5.5; and massive passive galaxies in the range 1 < z < 2.5
 
 
 #### [The VANDELS ESO spectroscopic survey](https://arxiv.org/abs/1803.07414)
+    - **Useful**
+    * The survey has obtained ultra-deep optical (0.48 < λ < 1.0 μm) spectroscopy of ≃2100 galaxies within the redshift interval 1.0 ≤ z ≤ 7.0, over a total area of ≃ 0.2 deg2 centred on the CANDELS UDS and CDFS fields.
 
-
-#### [The VANDELS ESO spectroscopic survey](https://arxiv.org/abs/1803.07414)
 
 ----
 
 ### Mar 21
 
 #### [Massive, Absorption-selected Galaxies at Intermediate Redshifts](https://arxiv.org/abs/1803.07563)
+    * Five of seven high-metallicity, absorption-selected galaxies at intermediate redshifts, z ≈ 0.5 − 0.8, have large molecular gas masses
+    * The high-metallicity absorption-selected galaxies at z ≈ 0.5 − 0.8 appear distinct from populations of star-forming galaxies
+    * 分子气体贮藏大，但是SFR低，可能正在transition？(但为什么吸收气体的金属丰度高)
 
 
 #### [Prediction of Supernova Rates in Known Galaxy-galaxy Strong-lens Systems](https://arxiv.org/abs/1803.07569)
+    * We build a compilation of 128 galaxy-galaxy strong-lens systems from the Sloan Lens ACS Survey (SLACS)
+    * Within this compilation, we estimate the event rates of strongly-lensed Type Ia SN (SNIa) and core-collapse SN (CCSN) to be 1.23 ± 0.12 and 10.4 ± 1.1 per year
 
 
 #### [Stellar Population Properties of Ultracompact Dwarfs in M87: a Mass-metallicity Correlation Connecting Low-metallicity Globular Clusters and Compact Ellipticals](https://arxiv.org/abs/1803.07577)
+    - **Relevant**
+    * The M87 UCDs have ages   8 Gyr and [α/Fe] ≃ 0.4 dex 基于Lick index
+    * The literature UCDs, located in lower-density environments than M87, extend to younger ages and smaller [α/Fe] (at given metallicities) than M87 UCD
+    * The Virgo dE nuclei largely follow the average MZR of UCDs, whereas most of the M87 GCs are offset towards higher metallicities for given stellar masses.
 
 
 #### [The Swift/BAT AGN Spectroscopic Survey -- IX. The clustering environments of an unbiased sample of Local AGN](https://arxiv.org/abs/1803.07589)
+    * projected cross-correlation function between the AGN and 2MASS galaxies, and interpreting it via halo occupation distribution (HOD) and subhalo-based models
+    * We also find evidence that obscured AGN tend to reside in denser environments than unobscured AGN, even when samples were matched in luminosity, redshift, stellar mass, and Eddington ratio. 和Host halo的assembly history有关？
 
 
 #### [Gravitationally Lensed Quasars in Gaia: II. Discovery of 24 Lensed Quasars](https://arxiv.org/abs/1803.07601)
+    * Candidates were selected in the Pan-STARRS footprint with quasar-like WISE colours or as pho- tometric quasars from SDSS, requiring either multiple detections in Gaia or a single Gaia detection near a morphological galaxy
+    * 利用的是GAIA 0.1“的高空间分辨率
 
 
 #### [Formation of S0s via disc accretion around high-redshift compact ellipticals](https://arxiv.org/abs/1803.07745)
+    - **Relevant**
+    *  In particular, we show that the merger with a massive gas-rich satellite can lead to the formation of a baryonic disc around an elliptical.
+    * As a consequence, S0s in the field may be the most likely candidates to have evolved from elliptical progenitors. Our scenario also naturally explains recent observations which indicate that field S0s may have older bulges than discs, contrary to cluster S0s which seem to have older discs than bulges. (这个观测证据是从哪来的?)
+
+----
+
+### Mar 22
+
+#### [Star Formation Histories of the LEGUS dwarf galaxies. II. Spatially resolved star formation history of the Magellanic irregular NGC 4449](https://arxiv.org/abs/1803.08041)
 
 
-#### [Formation of S0s via disc accretion around high-redshift compact ellipticals](https://arxiv.org/abs/1803.07745)
+#### [Star-forming galaxies at low-redshift in the SHARDS survey](https://arxiv.org/abs/1803.08045)
+
+#### [Hidden in plain sight: a massive, dusty starburst in a galaxy protocluster at z=5.7 in the COSMOS field](https://arxiv.org/abs/1803.08048)
+
+#### [BCG Mass Evolution in Cosmological Hydro-Simulations](https://arxiv.org/abs/1803.08049)
+
+#### [A quartet of black holes and a missing duo: probing the low-end of the Mbh - sigma relation with the adaptive optics assisted integral-field spectroscopy](https://arxiv.org/abs/1803.08055)
+
+#### [Structural and Dynamical Properties of Galaxies in a Hierarchical Universe: Sizes and Specific Angular Momenta](https://arxiv.org/abs/1803.08056)
+
+#### [Chandra X-rays from the redshift 7.54 quasar ULAS J1342+0928](https://arxiv.org/abs/1803.08105)
+
+#### [Predicting the Neutral Hydrogen Content of Galaxies From Optical Data Using Machine Learning](https://arxiv.org/abs/1803.08334)
+
+#### [Limits on turbulent propagation of energy in cool-core clusters of galaxies](https://arxiv.org/abs/1803.08175)
