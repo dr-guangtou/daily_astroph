@@ -533,3 +533,22 @@ WISE J101326.25+611220.1.
 #### [Predicting the Neutral Hydrogen Content of Galaxies From Optical Data Using Machine Learning](https://arxiv.org/abs/1803.08334)
 
 #### [Limits on turbulent propagation of energy in cool-core clusters of galaxies](https://arxiv.org/abs/1803.08175)
+
+
+----
+
+### Mar 25
+
+#### [AGN mass estimates in large spectroscopic surveys: the effect of host galaxy light](https://arxiv.org/abs/1803.08504)
+
+
+#### [Probing black hole accretion in quasar pairs at high redshift](https://arxiv.org/abs/1803.08508)
+
+
+#### [SDSS-IV MaNGA: The Spatially Resolved Stellar Initial Mass Function in ∼400 Early-Type Galaxies](https://arxiv.org/abs/1803.08515)
+
+
+#### [The Chandra COSMOS Legacy Survey: Compton Thick AGN at high redshift](https://arxiv.org/abs/1803.08547)
+
+
+#### [Multi-wavelength campaign on NGC 7469: III. Spectral energy distribution and the AGN wind photoionisation modelling, plus detection of diffuse X-rays from the starburst with Chandra HETGS](https://arxiv.org/abs/1803.08525)
