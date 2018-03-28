@@ -552,3 +552,70 @@ WISE J101326.25+611220.1.
 
 
 #### [Multi-wavelength campaign on NGC 7469: III. Spectral energy distribution and the AGN wind photoionisation modelling, plus detection of diffuse X-rays from the starburst with Chandra HETGS](https://arxiv.org/abs/1803.08525)
+
+
+----
+
+### Mar 27
+
+#### [Predicting Lyman-alpha escape fractions with a simple observable: Lyman-alpha in emission as an empirically calibrated star formation rate indicator](https://arxiv.org/abs/1803.08923)
+
+
+#### [PSFGAN: a generative adversarial network system for separating quasar point sources and host galaxy light](https://arxiv.org/abs/1803.08925)
+
+
+#### [Cross-calibration of CO- vs dust-based gas masses and assessment of the dynamical mass budget in Herschel-SDSS Stripe82 galaxies](https://arxiv.org/abs/1803.08926)
+
+
+#### [An Extensive Photometric Catalog of CALIFA Galaxies](https://arxiv.org/abs/1803.08933)
+
+
+#### [The Extended Distribution of Baryons Around Galaxies](https://arxiv.org/abs/1803.08963)
+
+
+#### [Condition for dust evacuation from the first galaxies](https://arxiv.org/abs/1803.09032)
+
+
+#### [Instability of Supersonic Cold Streams Feeding Galaxies II. Nonlinear Evolution of Surface and Body Modes of Kelvin-Helmholtz Instability](https://arxiv.org/abs/1803.09105)
+
+
+#### [The DEIMOS 10k spectroscopic survey catalog of the COSMOS field](https://arxiv.org/abs/1803.09251)
+
+
+#### [Formation of tidally induced bars in galactic flybys: prograde versus retrograde encounters](https://arxiv.org/abs/1803.09465)
+
+
+#### [Reignited star formation in dwarf galaxies quenched during reionization](https://arxiv.org/abs/1803.09477)
+
+
+#### [The Extreme Faint End of the UV Luminosity Function at z∼6 Through Gravitational Telescopes: a comprehensive assessment of strong lensing uncertainties](https://arxiv.org/abs/1803.09747)
+
+
+#### [Upper limits on the presence of central massive black holes in two ultra-compact dwarf galaxies in Centaurus A](https://arxiv.org/abs/1803.09750)
+
+
+#### [Semi-analytic forecasts for JWST - I. UV luminosity functions at z = 4 - 10](https://arxiv.org/abs/1803.09761)
+
+
+#### [Dark Matter in Ultra-Diffuse Galaxies in the Virgo Cluster from their Globular Cluster Populations](https://arxiv.org/abs/1803.09768)
+
+
+#### [The imprints of AGN feedback within a supermassive black hole's sphere of influence](https://arxiv.org/abs/1803.09769)
+
+
+#### [A VLT/MUSE galaxy survey towards QSO Q1410: looking for a WHIM traced by BLAs in inter-cluster filaments](https://arxiv.org/abs/1803.09794)
+
+
+#### [Evolution of Late-type Galaxies in a Cluster Environment: Effects of High-speed Multiple Encounters with Early-type Galaxies](https://arxiv.org/abs/1803.09915)
+
+
+#### [Planck Observations of M33](https://arxiv.org/abs/1803.10135)
+
+
+#### [Serendipitous discovery of a strong-lensed galaxy in integral field spectroscopy from MUSE](https://arxiv.org/abs/1803.09277)
+
+
+#### [RELICS: Strong Lensing analysis of the galaxy clusters Abell S295, Abell 697, MACS J0025.4-1222, and MACS J0159.8-0849](https://arxiv.org/abs/1803.09557)
+
+
+#### [Discovery of a diffuse optical line emitting halo in the core of the Centaurus cluster of galaxies: Line emission outside the protection of the filaments](https://arxiv.org/abs/1803.09765)
