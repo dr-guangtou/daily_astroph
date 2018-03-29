@@ -619,3 +619,37 @@ WISE J101326.25+611220.1.
 
 
 #### [Discovery of a diffuse optical line emitting halo in the core of the Centaurus cluster of galaxies: Line emission outside the protection of the filaments](https://arxiv.org/abs/1803.09765)
+
+
+----
+
+### Mar 28
+
+#### [A catalog of polychromatic bulge-disk decompositions of ~ 17.600 galaxies in CANDELS](https://arxiv.org/abs/1803.10234)
+
+
+#### [GAME: GAlaxy Machine learning for Emission lines](https://arxiv.org/abs/1803.10236)
+
+
+#### [A galaxy lacking dark matter](https://arxiv.org/abs/1803.10237)
+
+
+#### [Identification of galaxies that experienced a recent major drop of star formation](https://arxiv.org/abs/1803.10239)
+
+
+#### [An enigmatic population of luminous globular clusters in a galaxy lacking dark matter](https://arxiv.org/abs/1803.10240)
+
+
+#### [A Close Relationship between Lyman Alpha and Mg II in Green Pea Galaxies](https://arxiv.org/abs/1803.10243)
+
+
+#### [Smooth HI Low Column Density Outskirts In Nearby Galaxies](https://arxiv.org/abs/1803.10291)
+
+
+#### [Why are some galaxies not barred?](https://arxiv.org/abs/1803.10445)
+
+
+#### [Constraining the radio jet proper motion of the high-redshift quasar J2134-0419 at z=4.3](https://arxiv.org/abs/1803.10452)
+
+
+#### [Study of central light concentration in nearby galaxies](https://arxiv.org/abs/1803.10724)
