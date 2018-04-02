@@ -653,3 +653,22 @@ WISE J101326.25+611220.1.
 
 
 #### [Study of central light concentration in nearby galaxies](https://arxiv.org/abs/1803.10724)
+
+
+----
+
+### Mar 29
+
+#### [Keck/Palomar Cosmic Web Imagers (KCWI/PCWI) Reveal an Enormous Lyα Nebula in an Extremely Overdense QSO Pair Field at z=2.45](https://arxiv.org/abs/1803.10781)
+
+
+#### [The Next Generation Fornax Survey (NGFS): III. Revealing the Spatial Substructure of the Dwarf Galaxy Population inside half of Fornax's Virial Radius](https://arxiv.org/abs/1803.10784)
+
+
+#### [Dense Gas, Dynamical Equilibrium Pressure, and Star Formation in Nearby Star-Forming Galaxies](https://arxiv.org/abs/1803.10785)
+
+
+#### [Gradient Pattern Analysis Applied to Galaxy Morphology](https://arxiv.org/abs/1803.10853)
+
+
+#### [A Machine Learning Approach to Galaxy-LSS Classification I: Imprints on Halo Merger Trees](https://arxiv.org/abs/1803.11156)
