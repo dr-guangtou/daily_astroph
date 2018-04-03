@@ -21,3 +21,16 @@
 #### [Broadband X-ray Spectral Analysis of the Double-Nucleus Luminous Infrared Galaxy Mrk 4763](https://arxiv.org/abs/1804.11223)
     * E: Intrinsic SED is X-ray weak relative to the UV luminosity;  We suggest that the merger triggered a rapid growth of the black hole in Mrk 463E
     * W: Eddington ratio is low (< 10−3) and it might be still in an early phase of merger-driven AGN activity.
+
+
+----
+
+## Apr 2:
+
+#### [Modeling Nearly Spherical Pure-Bulge Galaxies with Stellar Mass-to-Light Ratio Gradient under ΛCDM and MOND Paradigms: I. Methodology, Dynamical Stellar Mass and Fundamental Mass Plane](https://arxiv.org/abs/1804.00040)
+
+
+#### [Spectroscopic Constraints on UV Metal Line Emission at z~6-9: The Nature of Lyman-alpha Emitting Galaxies in the Reionization-Era](https://arxiv.org/abs/1804.00041)
+
+
+#### [Survey of Water and Ammonia in Nearby galaxies (SWAN): Resolved Ammonia Thermometry, and Water and Methanol Masers in IC 342, NGC 6946 and NGC 2146](https://arxiv.org/abs/1804.00578)

@@ -1,4 +1,4 @@
-# Astro-ph: 2018-March
+
 
 ---- Song Huang ----
 
@@ -672,3 +672,5 @@ WISE J101326.25+611220.1.
 
 
 #### [A Machine Learning Approach to Galaxy-LSS Classification I: Imprints on Halo Merger Trees](https://arxiv.org/abs/1803.11156)
+    * Correlations between galaxy properties and their cosmic environment can be used to predict galaxy membership to void/wall or filament/cluster with an accuracy of 93%.
+    * To this end, we have discovered that the shape and depth of the merger tree, formation time and density of the galaxy are strongly associated with the cosmic environment.
