@@ -28,9 +28,17 @@
 ## Apr 2:
 
 #### [Modeling Nearly Spherical Pure-Bulge Galaxies with Stellar Mass-to-Light Ratio Gradient under ΛCDM and MOND Paradigms: I. Methodology, Dynamical Stellar Mass and Fundamental Mass Plane](https://arxiv.org/abs/1804.00040)
+    - **Relevant**
+    * Our analysis allows for gradients in the stellar mass- to-light ratio (M⋆/L) and uses a generalized Osipkov-Merritt model for the VD anisotropy. 
+    *  We then present the projected dynamical stellar mass, M⋆e, within the effective radius Re, and the fundamental mass plane as a function of gradient strength K
+    * The fundamental mass plane derived for the nearly round pure-bulge galaxies has coefficients consistent with the virial expectation and only the zero point scales with K.
 
 
 #### [Spectroscopic Constraints on UV Metal Line Emission at z~6-9: The Nature of Lyman-alpha Emitting Galaxies in the Reionization-Era](https://arxiv.org/abs/1804.00041)
+    * However in the zLyα = 8.683 galaxy EGSY8p7, we detect a 4.6σ emission line in the narrow spectral window expected for NVλ1243.
+    * With this new detection, five of thirteen known Lyα emitters at z > 7 have now been shown to have intense UV line emission, suggesting that extreme radiation fields are commonplace among the Lyα population
 
 
 #### [Survey of Water and Ammonia in Nearby galaxies (SWAN): Resolved Ammonia Thermometry, and Water and Methanol Masers in IC 342, NGC 6946 and NGC 2146](https://arxiv.org/abs/1804.00578)
+    * We identify two new water masers in IC 342, and one new water maser in each of NGC 6946 and NGC 2146.
+    * The two galaxies NGC 253 and NGC 2146, with the most vigorous star formation, host H2O kilomasers.
