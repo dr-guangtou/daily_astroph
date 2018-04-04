@@ -42,3 +42,28 @@
 #### [Survey of Water and Ammonia in Nearby galaxies (SWAN): Resolved Ammonia Thermometry, and Water and Methanol Masers in IC 342, NGC 6946 and NGC 2146](https://arxiv.org/abs/1804.00578)
     * We identify two new water masers in IC 342, and one new water maser in each of NGC 6946 and NGC 2146.
     * The two galaxies NGC 253 and NGC 2146, with the most vigorous star formation, host H2O kilomasers.
+
+
+----
+
+## Apr 3:
+
+#### [Dissolved Massive Metal-Rich Globular Clusters can cause the Range of UV Upturn Strengths found among Early-Type Galaxies](https://arxiv.org/abs/1804.00668)
+
+
+#### [Around The Way: Testing ΛCDM with Milky Way Stellar Stream Constraints](https://arxiv.org/abs/1804.00669)
+
+
+#### [Fast Winds Drive Slow Shells: A Model for the Circumgalactic Medium as Galactic Wind-Driven Bubbles](https://arxiv.org/abs/1804.00741)
+
+
+#### [Investigation of the cosmic ray population and magnetic field strength in the halo of NGC 891](https://arxiv.org/abs/1804.00752)
+
+
+#### [The Projected Dark and Baryonic Ellipsoidal Structure of 20 CLASH Galaxy Clusters](https://arxiv.org/abs/1804.00664)
+
+
+#### [CLUMP-3D. Testing ΛCDM with galaxy cluster shapes](https://arxiv.org/abs/1804.00667)
+
+
+#### [CLUMP-3D: Three-dimensional Shape and Structure of 20 CLASH Galaxy Clusters from Combined Weak and Strong Lensing](https://arxiv.org/abs/1804.00676)
