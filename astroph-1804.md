@@ -55,15 +55,99 @@
 
 
 #### [Fast Winds Drive Slow Shells: A Model for the Circumgalactic Medium as Galactic Wind-Driven Bubbles](https://arxiv.org/abs/1804.00741)
+    * CGM 包含大量气体，速度低，金属丰度高，在SF和Passive星系中类似，而且是multi-phase
+    * Galactic wind driven bubble的模型可以解释这些
+    * The sample contains new redshifts for 37 Planck galaxy clusters that were not included in the original release of PSZ2 Planck catalogue 
 
 
 #### [Investigation of the cosmic ray population and magnetic field strength in the halo of NGC 891](https://arxiv.org/abs/1804.00752)
+    * Free–free absorption is probably important at and below about 150 MHz in the disks of edge-on galaxies.
+    * spectral ageing of CREs is important and that diffusive propagation dominates.
+    * The halo scale heights at 146 MHz decrease with increasing magnetic field strengths which is a signature of dominating synchrotron losses of CREs.
 
 
 #### [The Projected Dark and Baryonic Ellipsoidal Structure of 20 CLASH Galaxy Clusters](https://arxiv.org/abs/1804.00664)
+    - **Important, Relevant**
+    * 2-D shear map + average magnification 联合限制，break mass-sheet degeneracy; 2-D elliptical NFW halo
+    * spherical mass estimates 其实很精确
+    * Projected halo axis ratio ~ 0.67 at 10^15 Msun
+    * ICM和DM符合得很好
 
 
 #### [CLUMP-3D. Testing ΛCDM with galaxy cluster shapes](https://arxiv.org/abs/1804.00667)
-
+    - **Important, Relevant**
+    * The cluster shapes and concentrations are consistent with ΛCDM predictions. 
+    * The CLASH clusters are randomly oriented, as expected given the sample selection criteria. 
+    * Shapes agree with numerical results for DM-only halos, which hints at baryonic physics being not so effective in making halos rounder.
 
 #### [CLUMP-3D: Three-dimensional Shape and Structure of 20 CLASH Galaxy Clusters from Combined Weak and Strong Lensing](https://arxiv.org/abs/1804.00676)
+    - **Important, Relevant**
+    * Triaxial NFW halo拟合星系团的WL和SL观测
+    * halo concentration decreases with increasing cluster mass
+    * 三维轴比 q_a = 0.52 @10^15 Msun halo
+
+
+----
+
+## Apr 4:
+
+#### [An Iwasawa-Taniguchi Effect for Compton-thick Active Galactic Nuclei](https://arxiv.org/abs/1804.01100)
+    *  report a statistically significant anti-correlation between the rest-frame equivalent width (EW) of the narrow core of the neutral Fe Kα fluorescence emission line, ubiquitously observed in the reflection spectra of obscured AGN, and the mid-infrared 12 μm continuum luminosity
+    * X-ray波段的Baldwin效应
+    * 这篇文章关注的是obscured AGN：consistent with multiple studies of the X-ray Baldwin effect for unobscured and mildly obscured AGN.
+
+
+#### [HST  Grism Confirmation of 16 Structures at 1.4<z<2.8 from the Clusters Around Radio-Loud AGN (CARLA) Survey](https://arxiv.org/abs/1804.01500)
+    * 用高红移射电QSO示踪星系团：spectroscopic confirmation of 16 distant structures at 1.4 < z < 2.8 associated with the targeted powerful high-redshift radio-loud AGN.
+    * We find that 10^10 − 10^11 M⊙ member galaxies of our confirmed CARLA structures form significantly fewer stars than their field counterparts at all redshifts within 1.4 ≤ z ≤ 2. 
+    * We also observe higher star-forming activity in the structure cores up to z = 2, finding similar trends as cluster surveys at slightly lower redshifts (1.0 < z < 1.5).
+
+
+#### [AGN X-ray emission in galaxy clusters: contamination to the ICM X-ray luminosity](https://arxiv.org/abs/1804.01096)
+    * Modelling of the X-ray emission from the simulated SMBHs within the cosmological hydrodynamical Magneticum Pathfinder Simulation
+    * we study the evolution of the LFs in the soft (SXR) and hard (HXR) X-ray bands by means of synthetic X-ray data generated with the PHOX simulator,
+    * Also generate full eROSITA mock observations to predict the level of contamination due to AGN of the intra-cluster medium (ICM) X-ray emission, which can affect cluster detection especially at high redshifts.
+    * z~1-1.5, 在Soft x-ray上20-40%的星系团里AGN辐射会比ICM强
+
+
+#### [Characterization of a subsample of the Planck SZ source cluster catalogues using optical SDSS DR12 data](https://arxiv.org/abs/1804.01356)
+    * The sample contains new redshifts for 37 Planck galaxy clusters that were not included in the original release of PSZ2 Planck catalogue 
+
+#### [Discovery of large-scale diffuse radio emission in low-mass galaxy cluster Abell 1931](https://arxiv.org/abs/1804.01099)
+    * diffuse, ultra-steep spectrum radio source in the low-mass cluster Abell 1931
+    * 10^14 Msun halo mass 也不算小cluster了
+    * remnant radio galaxy that has shut off around 200 Myr ago. 
+
+----
+
+## Apr 5:
+
+#### [The impact of feedback and the hot halo on the rates of gas accretion onto galaxies](https://arxiv.org/abs/1804.01537)
+    * We find that at redshifts z~2 the accretion rate onto the galaxy increases with halo mass in the halo mass range 10^10 − 10^11.7 M⊙, flattens between the halo masses 10^11.7 − 10^12.7 M⊙, and increases again for higher-mass haloes --> 可能是和AGN feedback有关的现象
+    * The ratio of the cooling radius and the virial radius : 这个受到AGN和stellar feedback的影响
+
+
+#### [Discovery of disc truncations above the galaxies' mid-plane in Milky Way-like galaxies](https://arxiv.org/abs/1804.01546)
+    - **Relevant**
+    * We find that the radius of the truncation (26±0.5 kpc) is independent of wavelength. Surprisingly, we identify (at all wavelengths) the truncation at altitudes as high as 3 kpc above the mid-plane
+    * We find the characteristic U-shape radial colour profile associated with a star formation threshold at the location of the truncation. 
+    * 侧向星系的投影研究，应该用类似Skirt的3-D模型来考虑
+
+
+#### [Discovery of a vast ionized gas cloud in the M51 system](https://arxiv.org/abs/1804.01699)
+    - **Interesting**
+    * discovery of a vast cloud of ionized gas 130 (32 kpc) north of the interacting system M51: an extended, di↵use H↵-emitting feature with no embedded compact regions.
+    * IFU观测在运动学上确认物理上和M51有联系；而且发射线比值显示来自很硬的电离源，不像是年轻恒星；金属丰度可能还比较高，不像是下落的原初气体
+
+
+#### [Dark halo structure in the Carina dwarf spheroidal galaxy: joint analysis of multiple stellar components](https://arxiv.org/abs/1804.01739)
+    * 有两个年龄和运动学不同成分的dSph，用non-spherical动力学模型考虑
+    * probably has a larger and denser dark halo than found in previous works and a less cuspy inner dark matter density profile
+    * 暗物质湮灭：Carina should be one of the most promising detectable targets among classical dSph galaxies.
+    * 可以用anisotropy profile看tidal evolution的证据
+
+
+#### [The Payne: self-consistent ab initio fitting of stellar spectra](https://arxiv.org/abs/1804.01530)
+    - **Important**
+    * A general method for the precise and simultaneous determination of numerous stellar labels from observed spectra, based on fitting physical spectral models.
+    * At its core The Payne has an approach to accurate and precise interpolation and prediction of the spectrum in high-dimensional label-space, which is flexible and robust, yet based on only a moderate number of ab initio models (O(1000) for 25 labels)
