@@ -151,3 +151,65 @@
     - **Important**
     * A general method for the precise and simultaneous determination of numerous stellar labels from observed spectra, based on fitting physical spectral models.
     * At its core The Payne has an approach to accurate and precise interpolation and prediction of the spectrum in high-dimensional label-space, which is flexible and robust, yet based on only a moderate number of ab initio models (O(1000) for 25 labels)
+
+
+----
+
+## Apr 6:
+
+#### [The Incomplete Conditional Stellar Mass Function: Unveiling the stellar mass functions of galaxies at 0.1<z<0.8 from BOSS observation](https://arxiv.org/abs/1804.01993)
+
+
+#### [Outflows in the inner kiloparsec of NGC 1566 as revealed by molecular (ALMA) and ionized gas (Gemini-GMOS/IFU) kinematics](https://arxiv.org/abs/1804.02054)
+
+
+#### [Forming Super Star Clusters Power the Central Starburst in NGC 253](https://arxiv.org/abs/1804.02083)
+
+
+#### [Halometry from Astrometry](https://arxiv.org/abs/1804.01991)
+
+
+#### [Absorption by Spinning Dust: a Contaminant for High-Redshift 21 cm Observations](https://arxiv.org/abs/1804.02250)
+
+
+#### [AREPO-RT: Radiation hydrodynamics on a moving mesh](https://arxiv.org/abs/1804.01987)
+
+
+----
+
+## Apr 7:
+
+#### [The Black Hole in the Most Massive Ultracompact Dwarf Galaxy M59-UCD3](https://arxiv.org/abs/1804.02399)
+
+
+#### [Spatially Resolved Stellar Kinematics from LEGA-C: Increased Rotational Support in z~0.8 Quiescent Galaxies](https://arxiv.org/abs/1804.02402)
+
+
+#### [Submillimeter flux as a probe of molecular ISM mass in high-z galaxies](https://arxiv.org/abs/1804.02403)
+
+
+#### [Stellar Mass and 3.4 Micron M/L Ratio Evolution of Brightest Cluster Galaxies in COSMOS since z ~ 1.0](https://arxiv.org/abs/1804.02404)
+
+
+#### [Revealing the host galaxy of a quasar 2175 Å dust absorber at z = 2.12](https://arxiv.org/abs/1804.02410)
+
+
+#### [J-PLUS: The Javalambre Photometric Local Universe Survey](https://arxiv.org/abs/1804.02667)
+
+
+#### [J-PLUS: Morphological star/galaxy classification by PDF analysis](https://arxiv.org/abs/1804.02673)
+
+
+#### [Seeing Red in NGC 1978, NGC 55, and NGC 3109](https://arxiv.org/abs/1804.02720)
+
+
+#### [Calibration and LIMITATIONS of the Mg II line-based BLACK HOLE MASSES](https://arxiv.org/abs/1804.02798)
+
+
+#### [Exploring Relations Between BCG \& Cluster Properties in the SPectroscopic IDentification of eROSITA Sources Survey from 0.05<z<0.3](https://arxiv.org/abs/1804.02868)
+
+
+#### [A 3.5-million Solar Masses Black Hole in the Centre of the Ultracompact Dwarf Galaxy Fornax UCD3](https://arxiv.org/abs/1804.02938)
+
+
+#### [`Rings' of diffuse radio emission surrounding the Bullet cluster](https://arxiv.org/abs/1804.02588)
