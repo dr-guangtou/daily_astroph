@@ -213,3 +213,37 @@
 
 
 #### [`Rings' of diffuse radio emission surrounding the Bullet cluster](https://arxiv.org/abs/1804.02588)
+
+
+----
+
+## Apr 7:
+
+#### [Massive black hole and Population III galaxy formation in over-massive dark matter halos with violent merger histories](https://arxiv.org/abs/1804.03143)
+
+
+#### [The dual role of starburst and active galactic nuclei in driving extreme molecular outflows](https://arxiv.org/abs/1804.03147)
+
+
+#### [Direct evidence of AGN-feedback: a post starburst galaxy stripped of its gas by AGN-driven winds](https://arxiv.org/abs/1804.03150)
+
+
+#### [Systematic search for tidal features around nearby galaxies: I. Enhanced SDSS imaging of the Local Volume](https://arxiv.org/abs/1804.03330)
+
+
+#### [An Investigation of intra-cluster light evolution using cosmological hydro-dynamical simulations](https://arxiv.org/abs/1804.03335)
+
+
+#### [Main sequence of star forming galaxies beyond the Herschel confusion limit](https://arxiv.org/abs/1804.03482)
+
+
+#### [HI Observations of Major-Merger Pairs at Z = 0: Atomic Gas and Star Formation](https://arxiv.org/abs/1804.03500)
+
+
+#### [Evidence for the formation of the young counter-rotating stellar disk from gas acquired by IC 719](https://arxiv.org/abs/1804.03149)
+
+
+#### [J-PLUS: On the identification of new cluster members in the double galaxy cluster A2589 & A2593 using PDFs](https://arxiv.org/abs/1804.03640)
+
+
+#### [J-PLUS: On the identification of new cluster members in the double galaxy cluster A2589 & A2593 using PDFs](https://arxiv.org/abs/1804.03640)
