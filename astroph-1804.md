@@ -155,7 +155,7 @@
 
 ----
 
-## Apr 6:
+## Apr 8:
 
 #### [The Incomplete Conditional Stellar Mass Function: Unveiling the stellar mass functions of galaxies at 0.1<z<0.8 from BOSS observation](https://arxiv.org/abs/1804.01993)
 
@@ -177,7 +177,7 @@
 
 ----
 
-## Apr 7:
+## Apr 9:
 
 #### [The Black Hole in the Most Massive Ultracompact Dwarf Galaxy M59-UCD3](https://arxiv.org/abs/1804.02399)
 
@@ -217,7 +217,7 @@
 
 ----
 
-## Apr 7:
+## Apr 10:
 
 #### [Massive black hole and Population III galaxy formation in over-massive dark matter halos with violent merger histories](https://arxiv.org/abs/1804.03143)
 
@@ -246,4 +246,180 @@
 #### [J-PLUS: On the identification of new cluster members in the double galaxy cluster A2589 & A2593 using PDFs](https://arxiv.org/abs/1804.03640)
 
 
-#### [J-PLUS: On the identification of new cluster members in the double galaxy cluster A2589 & A2593 using PDFs](https://arxiv.org/abs/1804.03640)
+----
+
+## Apr 11:
+
+#### [The dust and [CII] morphologies of redshift ~4.5 sub-millimeter galaxies at ~200pc resolution: The absence of large clumps in the interstellar medium of high-redshift galaxies](https://arxiv.org/abs/1804.03663)
+
+
+#### [ZFIRE: 3D Modeling of Rotation, Dispersion, and Angular Momentum of Star-Forming Galaxies at z~2](https://arxiv.org/abs/1804.03669)
+
+
+#### [Chemical enrichment in isolated barred spiral galaxies](https://arxiv.org/abs/1804.03672)
+
+
+#### [J-PLUS: 2-D analysis of the stellar population in NGC 5473 and NGC 5485](https://arxiv.org/abs/1804.03727)
+
+
+#### [Difference in dwarf galaxy surface brightness profiles as a function of environment](https://arxiv.org/abs/1804.03837)
+
+
+#### [J-PLUS: measuring Hα emission line fluxes in the nearby universe](https://arxiv.org/abs/1804.04039)
+
+
+#### [Weak-lensing mass calibration of the Sunyaev-Zel'dovich effect using APEX-SZ galaxy clusters](https://arxiv.org/abs/1804.03671)
+
+
+#### [Some assembly required: assembly bias in massive dark matter halos](https://arxiv.org/abs/1804.04055)
+
+
+----
+
+## Apr 12:
+
+#### [The emission and distribution of dust of the torus of NGC 1068](https://arxiv.org/abs/1804.04134)
+    * Observations of NGC 1068 covering the 19.7−53.0 μm wavelength range using FORCAST and HAWC+ onboard SOFIA
+    * find an observational turn-over of the torus emission in the 30−40 μm wavelength range with a characteristic temperature of 70 − 100 K
+    * the 1 − 20 μm wavelength range is not able to probe the full extent of the torus.
+
+
+#### [Current velocity data on dwarf galaxy NGC1052-DF2 do not constrain it to lack dark matter](https://arxiv.org/abs/1804.04136)
+
+
+#### [The Maximum Stellar Surface Density Due to the Failure of Stellar Feedback](https://arxiv.org/abs/1804.04137)
+    * 解释恒星形成feedback和最高恒星面密度的关系: Sigma_Max ~ 100 x Sigma_Crit
+    * An alternative model wherein stellar feedback becomes ineffective at moderating star formation above some Σcrit, so the supply of star-forming gas is rapidly converted to stars before the system can contract to higher surface density.
+    * Moreover the predicted Σmax is robust to spatial scale and metallicity, and is preserved even if multiple episodes of star formation/gas inflow occur.
+
+
+#### [Measured and found wanting: reconciling mass-estimates of ultra-diffuse galaxies](https://arxiv.org/abs/1804.04139)
+    * 小样本tracer测量质量的误差容易被低估
+
+
+#### [Galaxy and Mass Assembly (GAMA): Variation in Galaxy Structure Across the Green Valley](https://arxiv.org/abs/1804.04470)
+    - **Relevant**
+    * Using KiDS and VIKING derived postage stamp images, a group of eight volunteers visually classified bars, rings, morphological lenses, tidal streams, shells and signs of merger activity for all systems.
+    * We find a significant surplus of rings (2.3σ) and lenses (2.9σ) in disk-type galaxies as they transition across the green valley. 
+    * We recover a bar fraction of ∼ 44% which remains flat with colour, however, we find that the presence of a bar acts to modulate the incidence of rings and (to a lesser extent) lenses
+
+
+#### [Stellar Velocity Dispersion: Linking Quiescent Galaxies to their Dark Matter Halos](https://arxiv.org/abs/1804.04492)
+    - **Important, Relevant**
+    * Stellar velocity dispersion is proportional to dark matter halo velocity dispersion for both central and satellite galaxies.
+    * This proportionality holds even when a line-of-sight aperture dispersion is calculated in analogy to observations. 
+    * In contrast, at a given stellar velocity dispersion, the dark matter halo mass of satellite galaxies is smaller than virial equilibrium expectations
+
+
+#### [Tidally induced morphology of M33 in hydrodynamical simulations of its recent interaction with M31](https://arxiv.org/abs/1804.04536)
+    * 用M31和M33的相互作用：explain the distorted gaseous and stellar disks of M33, as well as the increased star formation rate in both objects around 2 Gyr ago. 
+    * In addition to the spiral arms, tidal forces produced the stellar stream similar to the observed one and triggered a star formation burst at similar radii as it is observed.
+
+
+#### [Constraining the H2 column density distribution at z∼3 from composite DLA spectra](https://arxiv.org/abs/1804.04611)
+    * We present a new technique to directly measure the H2 column density distribution function fH2 (N) from the average H2 absorption signal
+    * We find one order of magnitude higher H2 incident rate in a sub-sample of extremely strong DLAs 
+
+
+#### [Wavelength Dependent PSFs and their impact on Weak Lensing Measurements](https://arxiv.org/abs/1804.04277)
+    * We find that PSF chromaticity is present in that redder stars appear smaller than bluer stars in the g, r, and i-bands at the 1-2 per cent level and in the z and y-bands at the 0.1-0.2 per cent level.
+    * PSF trace radius和波长有power law相关
+    * chromaticity主要由大气引起，也有来自光学系统的贡献
+
+----
+
+## Apr 15:
+
+#### [The angular momentum-mass relation: a fundamental law from dwarf irregulars to massive spirals](https://arxiv.org/abs/1804.04663)
+
+
+#### [C IV BAL disappearance in a large SDSS QSO sample](https://arxiv.org/abs/1804.04666)
+
+
+#### [NIHAO XV: The environmental impact of the host galaxy on galactic satellite and field dwarf galaxies](https://arxiv.org/abs/1804.04667)
+
+
+#### [Resolving the nuclear obscuring disk in the Compton-thick Seyfert galaxy NGC5643 with ALMA](https://arxiv.org/abs/1804.04842)
+
+
+#### [Resolving the nuclear obscuring disk in the Compton-thick Seyfert galaxy NGC5643 with ALMA](https://arxiv.org/abs/1804.04842)
+
+
+----
+
+## Apr 16:
+
+#### [The FABLE simulations: A feedback model for galaxies, groups and clusters](https://arxiv.org/abs/1804.05064)
+
+
+#### [New Interpretation of the mass-temperature relation and mass calibration of galaxy clusters based on the fundamental plane](https://arxiv.org/abs/1804.05070)
+
+
+#### [ALMA Observations of Molecular Absorption in the Gravitational Lens PMN 0134-0931](https://arxiv.org/abs/1804.05377)
+
+
+#### [The dense molecular gas in the z∼6 QSO SDSS J231038.88+185519.7 resolved by ALMA](https://arxiv.org/abs/1804.05566)
+
+
+#### [On the scatter of the present-day stellar metallicity-mass relation of cluster dwarf galaxies](https://arxiv.org/abs/1804.05679)
+
+
+#### [GHASP: an Hα kinematical survey of spiral galaxies - XI. Distribution of luminous and dark matter in spiral and irregular nearby galaxies using WISE photometry](https://arxiv.org/abs/1804.05820)
+
+
+#### [Detection of an optical/UV jet/counterjet and Multiple Spectral Components in M84](https://arxiv.org/abs/1804.05122)
+
+
+#### [Separating diffuse from point-like sources - a Bayesian approach](https://arxiv.org/abs/1804.05591)
+
+
+----
+
+## Apr 17:
+
+#### [The Size-Luminosity Relationship of Quasar Narrow-Line Regions](https://arxiv.org/abs/1804.05848)
+
+
+#### [Dust Attenuation Curves in the Local Universe: Demographics and New Laws for Star-forming Galaxies and High-redshift Analogs](https://arxiv.org/abs/1804.05850)
+
+
+#### [The EDGE-CALIFA Survey: Molecular and Ionized Gas Kinematics in Nearby Galaxies](https://arxiv.org/abs/1804.05853)
+
+
+#### [A Complete Census of Luminous Stellar Variability on Day to Decade Timescales](https://arxiv.org/abs/1804.05860)
+
+
+#### [Long-term optical, UV, and X-ray continuum variations in the changing-look AGN HE 1136-2304](https://arxiv.org/abs/1804.05911)
+
+
+#### [The XXL Survey: XXXI. Classification and host galaxy properties of 2.1 GHz ATCA XXL-S radio sources](https://arxiv.org/abs/1804.05983)
+
+
+#### [Precision Scaling Relations for Disk Galaxies in the Local Universe](https://arxiv.org/abs/1804.06086)
+
+
+#### [Building CX peanut-shaped disk galaxy profiles. The relative importance of the 3D families of periodic orbits bifurcating at the vertical 2:1 resonance](https://arxiv.org/abs/1804.06199)
+
+
+#### [Tidally induced bars in Illustris galaxies](https://arxiv.org/abs/1804.06241)
+
+
+#### [The WISSH QSOs project V. ALMA reveals the cradle of a giant galaxy around a z=4.4 hyper-luminous QSO](https://arxiv.org/abs/1804.06399)
+
+
+#### [Setting the stage for cosmic chronometers I. Minimizing frosting with an optimized selection of cosmic chronometers](https://arxiv.org/abs/1804.05864)
+
+
+#### [The Aemulus Project I: Numerical Simulations for Precision Cosmology](https://arxiv.org/abs/1804.05865)
+
+
+#### [The Aemulus Project II: Emulating the Halo Mass Function](https://arxiv.org/abs/1804.05866)
+
+
+#### [The Aemulus Project II: Emulating the Halo Mass Function](https://arxiv.org/abs/1804.05866)
+
+
+#### [The Aemulus Project III: Emulation of the Galaxy Correlation Function](https://arxiv.org/abs/1804.05867)
+
+
+#### [Weak-Lensing Mass Calibration of ACTPol Sunyaev-Zel'dovich Clusters with the Hyper Suprime-Cam Survey](https://arxiv.org/abs/1804.05873)
