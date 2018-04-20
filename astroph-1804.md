@@ -455,21 +455,40 @@
 ## Apr 19:
 
 #### [A Low Lyman Continuum Escape Fraction of <10% for Extreme [OIII] Emitters in an Overdensity at z∼3.5](https://arxiv.org/abs/1804.06845)
+    * [Oiii]/[Oii] has been put forward as an indirect estimator of the Lyman Continuum (LyC) escape fraction (fesc) at z>4.5 when the opaque IGM renders LyC photons unobservable
+    * 但VIMOS u-band对一个z~3.5的overdensity的stacking没有发现lyman continuum光子，虽然OIII/OII比值较高
+    * [Oiii]/[Oii]> 3 does not guarantee significant LyC leakage for a population.
 
 
 #### [Resolving the ISM at the peak of cosmic star formation with ALMA - The distribution of CO and dust continuum in z~2.5 sub-millimetre galaxies](https://arxiv.org/abs/1804.06852)
+    * ALMA CO运动学显示first order还是符合disk rotation的
+    * We show that the resolved spatial distribution of the gas and dust continuum can be uncorrelated to the stellar emission, challenging energy balance assumptions in global SED fitting.
+    * we find that the cool molecular gas emission in these sources (radii ∼5–14 kpc) is clearly more extended than the rest-frame ∼250 μm dust continuum by a factor > 2.
 
 
 #### [Dust Evolution in Galaxy Cluster Simulations](https://arxiv.org/abs/1804.06855)
+    * We trace the dust grain size distribution by means of a two-size approximation.
+    * 在z~3，SF最强的时候：the proto-cluster regions are rich of dusty gas.
+    * Compared to the case in which only dust production in stellar ejecta is active, if we include processes occurring in the cold ISM,the dust content is enhanced by a factor 2 − 3.
 
 
 #### [The Shocking Power Sources of LINERs](https://arxiv.org/abs/1804.06888)
+    * We measure diagnostic emission line ratios as a function of distance from the nucleus and compare them to models for different excitation mechanisms
+    * The physical model that best describes our targets comprises a low-luminosity, accretion- powered active nucleus that photoionizes the gas within ∼20 pc of the galaxy center and shocks that excite the gas at larger distances.
 
 
 #### [An HI study of the collisional ring galaxy NGC 922](https://arxiv.org/abs/1804.07037)
+    * The H I morphology and kinematics of NGC 922 show that this galaxy is not the product of a simple drop-through interaction, but has a more complex interaction history.
+    * 气体盘有翘曲，气体比例高，sSFR高
 
 
 #### [Star formation in the outskirts of DDO 154: A top-light IMF in a nearly dormant disc](https://arxiv.org/abs/1804.07072)
+    * young main sequence stars 不在外围的HI disc里面
+    * The best-fitting IMF is deficient in high mass stars compared to a canonical Kroupa IMF
+    * Star formation law depressed compared to the Kennicutt-Schmidt Star Formation Law
 
 
 #### [Revisiting the stellar mass -- angular momentum -- morphology relation: extension to higher bulge fraction, and the effect of bulge type](https://arxiv.org/abs/1804.07083)
+    * THINGS, CALIFA and Romanowsky & Fall datasets: Mass-j relation
+    * Pseudo-bulge和classical bulge的normalization不同
+    * These results are consistent with the hypothesis that while growth in either bulge type is linked to a decrease in j∗/M∗, the mechanisms that build pseudobulges seem to be less efficient at increasing bulge mass per decrease in specific angular momentum than those that build classical bulges.
