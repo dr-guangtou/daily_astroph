@@ -423,3 +423,53 @@
 
 
 #### [Weak-Lensing Mass Calibration of ACTPol Sunyaev-Zel'dovich Clusters with the Hyper Suprime-Cam Survey](https://arxiv.org/abs/1804.05873)
+
+
+----
+
+## Apr 18:
+
+#### [The XXL Survey XXXII. Spatial clustering of the XXL-S AGN](https://arxiv.org/abs/1804.06409)
+
+
+#### [Snake in the Clouds: A new nearby dwarf galaxy in the Magellanic bridge](https://arxiv.org/abs/1804.06430)
+
+
+#### [Two Separate Outflows in the Dual Supermassive Black Hole System NGC 6240](https://arxiv.org/abs/1804.06563)
+
+
+#### [NIHAO XVI: The properties and evolution of kinematically selected discs, bulges and stellar haloes](https://arxiv.org/abs/1804.06635)
+
+
+#### [The Fornax3D project: overall goals, galaxy sample, MUSE data analysis and initial results](https://arxiv.org/abs/1804.06795)
+
+
+#### [X-ray versus infrared selection of distant galaxy clusters: A case study using the XMM-LSS and SpARCS cluster samples](https://arxiv.org/abs/1804.06475)
+
+
+#### [Probing the Curious Case of a Galaxy Cluster Merger in Abell 115 with High Fidelity Chandra X-ray Temperature and Radio Maps](https://arxiv.org/abs/1804.06493)
+
+
+----
+
+## Apr 19:
+
+#### [A Low Lyman Continuum Escape Fraction of <10% for Extreme [OIII] Emitters in an Overdensity at z∼3.5](https://arxiv.org/abs/1804.06845)
+
+
+#### [Resolving the ISM at the peak of cosmic star formation with ALMA - The distribution of CO and dust continuum in z~2.5 sub-millimetre galaxies](https://arxiv.org/abs/1804.06852)
+
+
+#### [Dust Evolution in Galaxy Cluster Simulations](https://arxiv.org/abs/1804.06855)
+
+
+#### [The Shocking Power Sources of LINERs](https://arxiv.org/abs/1804.06888)
+
+
+#### [An HI study of the collisional ring galaxy NGC 922](https://arxiv.org/abs/1804.07037)
+
+
+#### [Star formation in the outskirts of DDO 154: A top-light IMF in a nearly dormant disc](https://arxiv.org/abs/1804.07072)
+
+
+#### [Revisiting the stellar mass -- angular momentum -- morphology relation: extension to higher bulge fraction, and the effect of bulge type](https://arxiv.org/abs/1804.07083)
