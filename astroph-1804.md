@@ -445,9 +445,12 @@
 
 
 #### [X-ray versus infrared selection of distant galaxy clusters: A case study using the XMM-LSS and SpARCS cluster samples](https://arxiv.org/abs/1804.06475)
+    - **Relevant**
+    * 相同区域MIR和X-ray选的高红移cluster: We divide the SpARCS distant cluster sample into three sub-samples: a) X-ray bright, b) X-ray faint, MIR bright, and c) X-ray faint, MIR faint clusters. 
 
 
 #### [Probing the Curious Case of a Galaxy Cluster Merger in Abell 115 with High Fidelity Chandra X-ray Temperature and Radio Maps](https://arxiv.org/abs/1804.06493)
+    * We propose that the high X-ray spectral temperature between the subclusters results from the interaction of the bow shocks driven into the intracluster medium by the motion of the subclusters relative to one another.
 
 
 ----
@@ -492,3 +495,59 @@
     * THINGS, CALIFA and Romanowsky & Fall datasets: Mass-j relation
     * Pseudo-bulge和classical bulge的normalization不同
     * These results are consistent with the hypothesis that while growth in either bulge type is linked to a decrease in j∗/M∗, the mechanisms that build pseudobulges seem to be less efficient at increasing bulge mass per decrease in specific angular momentum than those that build classical bulges.
+
+
+----
+
+## Apr 22:
+
+#### [Is the dark-matter halo spin a predictor of galaxy spin and size?](https://arxiv.org/abs/1804.07306)
+
+
+#### [Deep Learning Identifies High-z Galaxies in a Central Blue Nugget Phase in a Characteristic Mass Range](https://arxiv.org/abs/1804.07307)
+
+
+#### [Circumnuclear star-formation and AGN activity: Clues from surface brightness radial profile of PAHs and [SIV]](https://arxiv.org/abs/1804.07311)
+
+
+#### [Legacy of star formation in the pre-reionization universe](https://arxiv.org/abs/1804.07372)
+
+
+#### [Young stellar clumps in the interacting systems: Arp305](https://arxiv.org/abs/1804.07503)
+
+
+#### [A new approach to uncovering substructure: proof of concept using Abell 2744](https://arxiv.org/abs/1804.07401)
+
+
+#### [Chandra Survey of Nearby Galaxies: Testing the Accretion Model for Low-luminosity AGNs](https://arxiv.org/abs/1804.07482)
+
+
+#### [Chandra Survey of Nearby Galaxies: Testing the Accretion Model for Low-luminosity AGNs](https://arxiv.org/abs/1804.07482)
+
+
+----
+
+## Apr 23:
+
+#### [The First Tidally Disrupted Ultra-Faint Dwarf Galaxy? - Spectroscopic Analysis of the Tucana III Stream](https://arxiv.org/abs/1804.07761)
+
+
+#### [Modelling the Tucana III stream - a close passage with the LMC](https://arxiv.org/abs/1804.07762)
+
+
+#### [The XMM-SERVS survey: new XMM-Newton point-source catalog for the XMM-LSS field](https://arxiv.org/abs/1804.07763)
+
+
+#### [A relation between characteristic stellar age of galaxies and their intrinsic shape](https://arxiv.org/abs/1804.07769)
+
+
+#### [The Auriga Stellar Haloes: Connecting stellar population properties with accretion and merging history](https://arxiv.org/abs/1804.07798)
+
+
+#### [Automated detection of very Low Surface Brightness galaxies in the Virgo Cluster](https://arxiv.org/abs/1804.08332)
+
+
+#### [A catalogue of masses, structural parameters and velocity dispersion profiles of 112 Milky Way globular clusters](https://arxiv.org/abs/1804.08359)
+
+
+#### [Effects of NII and Hα Line Blending on the WFIRST Galaxy Redshift Survey](https://arxiv.org/abs/1804.08061)
