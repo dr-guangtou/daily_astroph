@@ -514,15 +514,22 @@
 
 
 #### [Young stellar clumps in the interacting systems: Arp305](https://arxiv.org/abs/1804.07503)
+    * Here we pay special attention to the star-forming region between the interacting galaxies – a tidal dwarf galaxy (TDG) candidate.
+    * TDG is metal poor in comparison to the parental galaxy.
+    * Low velocity difference between TDG, NGC 4017 and the gaseous bridge between them evidences that the lifetime of TDG is restricted by the time of its fall back onto the parent galaxy.
 
 
 #### [A new approach to uncovering substructure: proof of concept using Abell 2744](https://arxiv.org/abs/1804.07401)
+    - **Relevant**
+    * 用小波方法在2-D mass map上找子结构
+    * Han et al. (2017) found that the substructure masses can be significantly underpredicted by SUBFIND and thus be in part responsible for the apparent tension with ΛCDM that is found using subhalo masses alone.
 
 
 #### [Chandra Survey of Nearby Galaxies: Testing the Accretion Model for Low-luminosity AGNs](https://arxiv.org/abs/1804.07482)
+    * for low-luminosity AGNs (LLAGNs), either the intrinsic absorption column density, or the fraction of absorbed AGNs, positively scales with the Eddington ratio
+    * they are powered by hot accretion flows surrounding supermassive black holes.
+    * X-ray absorption来自外流，吸积率越高，外流越强
 
-
-#### [Chandra Survey of Nearby Galaxies: Testing the Accretion Model for Low-luminosity AGNs](https://arxiv.org/abs/1804.07482)
 
 
 ----
@@ -530,24 +537,47 @@
 ## Apr 23:
 
 #### [The First Tidally Disrupted Ultra-Faint Dwarf Galaxy? - Spectroscopic Analysis of the Tucana III Stream](https://arxiv.org/abs/1804.07761)
+    - **Relevant**
+    * Tucana III星流的恒星观测: 速度梯度很大： The large velocity gradient of the stream implies that Tucana III is likely on a radial orbit.
+    * 还看到了可能的金属丰度梯度, 所以前身更像是星系
 
 
 #### [Modelling the Tucana III stream - a close passage with the LMC](https://arxiv.org/abs/1804.07762)
 
 
 #### [The XMM-SERVS survey: new XMM-Newton point-source catalog for the XMM-LSS field](https://arxiv.org/abs/1804.07763)
+    * We provide an X-ray catalog of 5242 sources detected in the soft (0.5–2 keV), hard (2–10 keV), and/or full (0.5–10 keV) band
 
 
 #### [A relation between characteristic stellar age of galaxies and their intrinsic shape](https://arxiv.org/abs/1804.07769)
+    - **Important, Relevant** 
+    * We find a strong correlation of stellar population age with location in the (V/σ, εe) diagram that links the ratio of ordered ro- tation to random motions in a galaxy to its observed ellipticity.
+    * For the large majority of galaxies that are oblate rotating spheroids, we find that characteristic stellar age follows the intrinsic ellipticity of galaxies remarkably well.
+    * 越老的星系越原
 
 
 #### [The Auriga Stellar Haloes: Connecting stellar population properties with accretion and merging history](https://arxiv.org/abs/1804.07798)
+    - **Relevant**
+    * cosmological magneto-hydrodynamical high-resolution simulations of Milky Way-mass galaxies
+    * Auriga haloes are typically too massive.
+    * We find a connection between population gradients and mass assembly history: galaxies with few significant progenitors have more massive haloes, possess large negative halo metallicity gradients and steeper density profiles
+    * 对于 in-situ + ex-situ stellar halo 也一样，基本都是强调丰度梯度
 
 
 #### [Automated detection of very Low Surface Brightness galaxies in the Virgo Cluster](https://arxiv.org/abs/1804.08332)
+    - **Important, Relevant** 
+    * to detect extended LSB features auto- matically using the DBSCAN algorithm
+    * none of the new sources have effective radii larger than 1.5 Kpc and do not meet the criteria for ultra-diffuse galaxy (UDG)
+    * DBSCAN (Density-based spatial clustering of applications with noise, Ester et al. 1996)
 
 
 #### [A catalogue of masses, structural parameters and velocity dispersion profiles of 112 Milky Way globular clusters](https://arxiv.org/abs/1804.08359)
+    - **Important, Reference**
+    * 结合N-body模拟看银河系GC的质量，质量函数和结构参数
+    * We confirm the strong correlation between the global mass functions of globular clusters and their relaxation times
+    * We also find a correlation of the escape velocity from the centre of a globular cluster and the fraction of first generation stars (FG)
 
 
 #### [Effects of NII and Hα Line Blending on the WFIRST Galaxy Redshift Survey](https://arxiv.org/abs/1804.08061)
+    * Due to the finite spectroscopic resolution of the WFIRST grism, the Hα line and the neighboring [N ii] lines are not separately resolved, leading to a potential bias in the redshift that depends on the [N ii]/Hα ratio.
+    * Using the Buzzard-v1.1 simulation of mock galaxies, we explore the effect of line blending and mass (hence environment)- dependent [Nii]/Hα ratio on redshift-space distortion (RSD) and baryon acoustic oscillation (BAO) measurements.
