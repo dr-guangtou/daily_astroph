@@ -530,8 +530,6 @@
     * they are powered by hot accretion flows surrounding supermassive black holes.
     * X-ray absorption来自外流，吸积率越高，外流越强
 
-
-
 ----
 
 ## Apr 23:
@@ -581,3 +579,34 @@
 #### [Effects of NII and Hα Line Blending on the WFIRST Galaxy Redshift Survey](https://arxiv.org/abs/1804.08061)
     * Due to the finite spectroscopic resolution of the WFIRST grism, the Hα line and the neighboring [N ii] lines are not separately resolved, leading to a potential bias in the redshift that depends on the [N ii]/Hα ratio.
     * Using the Buzzard-v1.1 simulation of mock galaxies, we explore the effect of line blending and mass (hence environment)- dependent [Nii]/Hα ratio on redshift-space distortion (RSD) and baryon acoustic oscillation (BAO) measurements.
+
+
+----
+
+## Apr 24:
+
+#### [MIKiS: the Multi-Instrument Kinematic Survey of Galactic Globular Clusters. I. Velocity dispersion profiles and rotation signals of 11 globular clusters](https://arxiv.org/abs/1804.08618)
+
+
+#### [Quasars probing quasars X: The quasar pair spectral database](https://arxiv.org/abs/1804.08624)
+
+
+#### [A Deeper Look at the New Milky Way Satellites: Sagittarius II, Reticulum II, Phoenix II, and Tucana III](https://arxiv.org/abs/1804.08627)
+
+
+#### [Catching galaxies in the act of quenching star formation](https://arxiv.org/abs/1804.08631)
+
+
+#### [X-ray properties of AGN in Brightest Cluster Galaxies I: a systematic study of the Chandra archive in the 0.2<z<0.3 and 0.55<z<0.75 redshift range](https://arxiv.org/abs/1804.08631)
+
+
+#### [Projected alignment of non-sphericities of stellar, gas, and dark matter distributions in galaxy clusters: analysis of the Horizon-AGN simulation](https://arxiv.org/abs/1804.08843)
+
+
+#### [Calibrated, cosmological hydrodynamical simulations with variable IMFs I: Method and effect on global galaxy scaling relations](https://arxiv.org/abs/1804.09079)
+
+
+#### [HERschel Observations of Edge-on Spirals (HEROES). IV. Dust energy balance problem](https://arxiv.org/abs/1804.09079)
+
+
+#### [Overview of the DESI Legacy Imaging Surveys](https://arxiv.org/abs/1804.08657)
