@@ -610,3 +610,16 @@
 
 
 #### [Overview of the DESI Legacy Imaging Surveys](https://arxiv.org/abs/1804.08657)
+
+
+----
+
+## Apr 25:
+
+#### [Serendipitous Detection of HI Absorption Sets the True Redshift of 4C +15.05 to z=0.833](https://arxiv.org/abs/1804.09225)
+
+
+#### [A massive core for a cluster of galaxies at a redshift of 4.3](https://arxiv.org/abs/1804.09231)
+
+
+#### [The origin of the relation between metallicity and size in star-forming galaxies](https://arxiv.org/abs/1804.09406)
