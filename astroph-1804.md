@@ -623,3 +623,12 @@
 
 
 #### [The origin of the relation between metallicity and size in star-forming galaxies](https://arxiv.org/abs/1804.09406)
+
+
+#### [COSMOGRAIL XVII: Time delays for the quadruply imaged quasar PG 1115+080](https://arxiv.org/abs/1804.09183)
+
+
+#### [LOFAR discovery of a double radio halo system in Abell 1758 and radio/X-ray study of the cluster pair](https://arxiv.org/abs/1804.09187)
+
+
+#### [LOFAR discovery of a double radio halo system in Abell 1758 and radio/X-ray study of the cluster pair](https://arxiv.org/abs/1804.09187)
