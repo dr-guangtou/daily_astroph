@@ -632,3 +632,25 @@
 
 
 #### [LOFAR discovery of a double radio halo system in Abell 1758 and radio/X-ray study of the cluster pair](https://arxiv.org/abs/1804.09187)
+
+
+----
+
+## Apr 26:
+
+#### [Investigating the Lyman photon escape in local starburst galaxies with the Cosmic Origins Spectrograph](https://arxiv.org/abs/1804.09721)
+
+
+#### [Nuclear Star Clusters in Cosmological Simulations](https://arxiv.org/abs/1804.09819)
+
+
+#### [The Black Hole Masses and Eddington Ratios of Type 2 Quasars](https://arxiv.org/abs/1804.09852)
+
+
+#### [The rest-frame UV-to-optical spectroscopy of APM 08279+5255 - BAL classification and black hole mass estimates](https://arxiv.org/abs/1804.10038)
+
+
+#### [Bright Compact Bulges (BCBs) at intermediate redshifts](https://arxiv.org/abs/1804.10072)
+
+
+#### [Halo Profiles and the Concentration-Mass Relation for a ΛCDM Universe](https://arxiv.org/abs/1804.10199)
