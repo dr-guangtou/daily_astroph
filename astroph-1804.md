@@ -654,3 +654,31 @@
 
 
 #### [Halo Profiles and the Concentration-Mass Relation for a ΛCDM Universe](https://arxiv.org/abs/1804.10199)
+
+
+----
+
+## Apr 29:
+
+#### [Modelling dust rings in early-type galaxies through a sequence of radiative transfer simulations and 2D image fitting](https://arxiv.org/abs/1804.10207)
+
+
+#### [Stellar and Molecular Gas Rotation in a Recently-Quenched Massive Galaxy at z~0.7](https://arxiv.org/abs/1804.10216)
+
+
+#### [Analysis of interacting and isolated quasars](https://arxiv.org/abs/1804.10219)
+
+
+#### [Gaia Proper Motions and Orbits of the Ultra-Faint Milky Way Satellites](https://arxiv.org/abs/1804.10230)
+
+
+#### [Cosmic Ray Driven Outflows in an Ultraluminous Galaxy](https://arxiv.org/abs/1804.10302)
+
+
+#### [Why are classical bulges more common in S0 galaxies than in spiral galaxies?](https://arxiv.org/abs/1804.10394)
+
+
+#### [VLBA+GBT observations of the COSMOS field and radio source counts at 1.4 GHz](https://arxiv.org/abs/1804.10464)
+
+
+#### [The time-scales of major mergers from simulations of isolated binary galaxy collisions](https://arxiv.org/abs/1804.10559)
