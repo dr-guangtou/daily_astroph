@@ -682,3 +682,29 @@
 
 
 #### [The time-scales of major mergers from simulations of isolated binary galaxy collisions](https://arxiv.org/abs/1804.10559)
+
+
+
+----
+
+## Apr 30:
+
+#### [The ionisation parameter of star-forming galaxies evolves with the specific star formation rate](https://arxiv.org/abs/1804.10621)
+
+
+#### [A thorough view of the nuclear region of NGC 253 - Combined Herschel, SOFIA and APEX dataset](https://arxiv.org/abs/1804.10860)
+
+
+#### [Gaia DR2 Gravitational Lens Systems I: New lensed quasar candidates around known quasars](https://arxiv.org/abs/1804.11051)
+
+
+#### [Characterisation of a candidate dual AGN](https://arxiv.org/abs/1804.11232)
+
+
+#### [Extreme [OIII] Emitters at z ∼ 0.5](https://arxiv.org/abs/1804.11309)
+
+
+#### [Milky Way Cepheid Standards for Measuring Cosmic Distances and Application to Gaia DR2: Implications for the Hubble Constant](https://arxiv.org/abs/1804.10655)
+
+
+#### [Radio observations of the double-relic galaxy cluster Abell 1240](https://arxiv.org/abs/1804.11352)
