@@ -72,3 +72,31 @@
 
 
 #### [Studying galaxy troughs and ridges using Weak Gravitational Lensing with the Kilo-Degree Survey](https://arxiv.org/abs/1805.00562)
+
+
+----
+
+## May 2:
+
+#### [Cloud-Scale Molecular Gas Properties in 15 Nearby Galaxies](https://arxiv.org/abs/1805.00937)
+
+
+#### [Can we improve CIV-based single epoch black hole mass estimations?](https://arxiv.org/abs/1805.00942)
+
+
+#### [Momentum-driven Winds from Radiatively Efficient Black Hole Accretion and Their Impact on Galaxies](https://arxiv.org/abs/1805.00946)
+
+
+#### [Formation of ultra-compact dwarf galaxies from supergiant molecular clouds](https://arxiv.org/abs/1805.01071)
+
+
+#### [Correlation between centre offsets and gas velocity dispersion of galaxy clusters in cosmological simulations](https://arxiv.org/abs/1805.01165)
+
+
+#### [Unbiased clustering estimates with the DESI fibre assignment](https://arxiv.org/abs/1805.00951)
+
+
+#### [Statistical separation of weak gravitational lensing and intrinsic ellipticities based on galaxy colour information](https://arxiv.org/abs/1805.01240)
+
+
+#### [Statistical separation of weak gravitational lensing and intrinsic ellipticities based on galaxy colour information](https://arxiv.org/abs/1805.01240)
