@@ -167,3 +167,28 @@
 
 
 #### [Galaxy Zoo: constraining the origin of spiral arms](https://arxiv.org/abs/1805.01782)
+
+
+----
+
+## May 7:
+
+#### [The origin of the mid-infrared nuclear polarization of active galactic nuclei](https://arxiv.org/abs/1805.01899)
+
+
+#### [First evidence of diffuse ultra-steep-spectrum radio emission surrounding the cool core of a cluster](https://arxiv.org/abs/1805.01900)
+
+
+#### [The limb-brightened jet of M87 down to 7 Schwarzschild radii scale](https://arxiv.org/abs/1805.02478)
+
+
+#### [SFHs OF Z∼1 Galaxies in LEGA-C](https://arxiv.org/abs/1805.02568)
+
+
+#### [Quantifying the AGN-driven outflows in ULIRGs (QUADROS) III: Measurements of the radii and kinetic powers of 8 near-nuclear outflows](https://arxiv.org/abs/1805.02647)
+
+
+#### [Comparison of physical and observational galaxy cluster modelling](https://arxiv.org/abs/1805.01968)
+
+
+#### [Physical modelling of galaxy clusters detected by Planck](https://arxiv.org/abs/1805.01991)
