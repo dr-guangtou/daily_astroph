@@ -143,18 +143,32 @@
 ## May 6:
 
 #### [A Population of Bona Fide Intermediate Mass Black Holes Identified as Low Luminosity Active Galactic Nuclei](https://arxiv.org/abs/1805.01467)
+    * we identified a sample of 305 IMBH candidates having masses 3 × 10^4 < MBH < 2 × 10^5M⊙, which reside in galaxy centers and are accreting gas that creates characteristic signatures of a type I active galactic nucleus (AGN).
+        - 10个有X-ray确认是AGN
 
 
 #### [Galactic forces rule dynamics of Milky Way dwarf galaxies](https://arxiv.org/abs/1805.01469)
+    * 银河系dwarfs的velocity gradients也是aligned，银河系的潮汐力正在扭曲这些矮星系
+    * 不能简单的用dwarf的动力学质量估计来估计总质量或者暗物质比例
 
 
 #### [Evolution of the UV upturn in cluster galaxies: Abell 1689](https://arxiv.org/abs/1805.01472)
+    - **Interesting**
+    * We find that the range of UV upturn strengths in the population as a whole has not declined over the past 2.2 Gyrs. This is consistent with a model where hot horizontal branch stars, produced by a Helium-enriched population, provide the required UV flux.
+    * Helium abundances of at least 1.5 times the primor- dial value for this HB population
+    * 作者认为来自贫金属星的可能可以排除，但是富金属只是对平均星族而言
+        - UV upturn在越大质量的星系里越明显，作者认为这是排除了贫金属星的证据，但越大质量的椭圆星系里，来自并合的贫金属星也越多
 
 
 #### [The abundances and properties of Dual AGN and their host galaxies in the EAGLE simulations](https://arxiv.org/abs/1805.01479)
+    * 30kpc内的AGN pair算dual-AGN，在光度比较高的范围里，比例非常低
+    * 主要由于在星系和黑洞并合期间的快速光变，同时是AGN的时间短
+    * 能观测到的Dual-AGN比例随红移升高
 
 
 #### [Dust in the Wind: Composition and Kinematics of Galaxy Outflows at the Peak Epoch of Star Formation](https://arxiv.org/abs/1805.01484)
+    * We find that the interstellar medium seen in absorption is dominated by outflowing material
+    * Mass loss rates in the low ionization phase are comparable to or in excess of the star formation rate, with total outflow rates likely higher when accounting for ionized gas.
 
 
 #### [50% of Quasar Outflows are Situated at Least 100 Parsecs From the Central Source](https://arxiv.org/abs/1805.01543)
