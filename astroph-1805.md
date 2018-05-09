@@ -169,6 +169,7 @@
 #### [Dust in the Wind: Composition and Kinematics of Galaxy Outflows at the Peak Epoch of Star Formation](https://arxiv.org/abs/1805.01484)
     * We find that the interstellar medium seen in absorption is dominated by outflowing material
     * Mass loss rates in the low ionization phase are comparable to or in excess of the star formation rate, with total outflow rates likely higher when accounting for ionized gas.
+    * Gas phase Si abundances are significantly super-solar relative to Fe and Ni ([Si/Fe]~0.4), indicating a combination of α-enhancement and dust depletion.
 
 
 #### [50% of Quasar Outflows are Situated at Least 100 Parsecs From the Central Source](https://arxiv.org/abs/1805.01543)
@@ -178,6 +179,11 @@
 
 
 #### [A Mini-BAL Outflow at 900 pc from the Central Source: VLT/X-shooter Observations](https://arxiv.org/abs/1805.01545)
+    * The main outflow component spans the velocity range −1500 to −3000 km s−1 and has detected absorption troughs from both high-ionization species: C iv, N v, O vi, Si iv, P v, and S iv
+    * low-ionization species: H i, C ii, Mg ii, Al ii, Al iii, Si ii, and Si iii
+    * 从这些光谱信息里可以拟合光致电离模型，得到H柱密度和电离参数，电子密度,以及电离气体到中心电离源的距离
+        - 这个距离很重要，一般在几pc到几十kpc之间；高光度QSO大多数在几百到几千pc之间
+        - 但之前主要是用singly ionized元素来定距离，有model dependence
 
 
 #### [Galaxy Zoo: constraining the origin of spiral arms](https://arxiv.org/abs/1805.01782)
@@ -206,3 +212,25 @@
 
 
 #### [Physical modelling of galaxy clusters detected by Planck](https://arxiv.org/abs/1805.01991)
+
+
+----
+
+## May 8:
+
+#### [A lower limit to the accretion disc radius in the low-luminosity AGN NGC 1052 derived from high-angular resolution data](https://arxiv.org/abs/1805.01899)
+
+
+#### [Detecting strongly lensed supernovae at z ~ 5-7 with LSST](https://arxiv.org/abs/1805.02662)
+
+
+#### [Molecular Gas Contents and Scaling Relations for Massive Passive Galaxies at Intermediate Redshifts from the LEGA-C Survey](https://arxiv.org/abs/1805.02667)
+
+
+#### [A New Technique for Measuring Polycyclic Aromatic Hydrocarbon Emission in Different Environments](https://arxiv.org/abs/1805.03079)
+
+
+#### [Three dynamically distinct stellar populations in the halo of M49](https://arxiv.org/abs/1805.03092)
+
+
+#### [Evolution of the degree of substructures in simulated galaxy clusters](https://arxiv.org/abs/1805.02658)
