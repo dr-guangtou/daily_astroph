@@ -173,9 +173,14 @@
 
 
 #### [50% of Quasar Outflows are Situated at Least 100 Parsecs From the Central Source](https://arxiv.org/abs/1805.01543)
+    * Our results show that Siv absorption is only detected in 25% of Civ BAL outflows. The smaller detection fraction is due to the higher total column density (NH) needed to detect Siv absorption.
+    * We find that at least 50% of quasar outflows are at distances larger than 100 pc from the central source, and at least 12% are at distances larger than 1000 pc.
 
 
 #### [VLT/X-Shooter Survey of BAL Quasars: Large Distance Scale and AGN Feedback](https://arxiv.org/abs/1805.01544)
+    * S iv and S iv* troughs, whose ratio can be used to determine the distance of the outflows from the central source (R)
+    * At least two of the outflows have a kinetic luminosity greater than 0.5% of their Eddington luminosity, implying that they are able to provide significant AGN feedback.
+    * most of these outflows are situated far away from the AGN accretion disk; and that a significant portion of them can contribute to AGN feedback processes.
 
 
 #### [A Mini-BAL Outflow at 900 pc from the Central Source: VLT/X-shooter Observations](https://arxiv.org/abs/1805.01545)
@@ -187,16 +192,24 @@
 
 
 #### [Galaxy Zoo: constraining the origin of spiral arms](https://arxiv.org/abs/1805.01782)
-
+    * Swing amplification theory with respect to directly measured spiral arm numbers from Galaxy Zoo 2
+    * Neither a universal cored or cuspy inner dark matter profile can correctly predict observed numbers of arms in galaxies.
+    * Approximately 40 per cent of unbarred spiral galaxies at z   0.1 and M∗   1010M⊙ have spiral arms that can be modelled by swing amplification.
+    * 剩下的都是2-arm system，可以用tidal interactions来解释
 
 ----
 
 ## May 7:
 
 #### [The origin of the mid-infrared nuclear polarization of active galactic nuclei](https://arxiv.org/abs/1805.01899)
+    * For all radio quiet objects, we found that the nuclear polarization is low (< 1 per cent).
+    * Only the radio-loud Cygnus A exhibits significant nuclear polarization (∼11 per cent), attributable to synchrotron emission from the pc-scale jet close to the core. 
+    * For highly obscured objects arises from a self-absorbed MIR polarized clumpy torus and/or dichroism from the host galaxy, while for unabsorbed cores, MIR polarization arises from dust scattering in the torus and/or surrounding nuclear dust.
 
 
 #### [First evidence of diffuse ultra-steep-spectrum radio emission surrounding the cool core of a cluster](https://arxiv.org/abs/1805.01900)
+    * First discovery of a cool-core cluster with an associated mini halo that also shows ultra-steep-spectrum emission extending well beyond the core that resembles radio halo emission
+    * the steep-spectrum radio emission outside the core could be produced by a minor merger that powers electron re-acceleration without disrupting the cool core.
 
 
 #### [The limb-brightened jet of M87 down to 7 Schwarzschild radii scale](https://arxiv.org/abs/1805.02478)
