@@ -247,3 +247,37 @@
 
 
 #### [Evolution of the degree of substructures in simulated galaxy clusters](https://arxiv.org/abs/1805.02658)
+
+
+----
+
+## May 9:
+
+#### [Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter](https://arxiv.org/abs/1805.03203)
+
+
+#### [The spectral and environment properties of z∼2.0−2.5 quasar pairs](https://arxiv.org/abs/1805.03206)
+
+
+#### [The star formation rate and stellar content contributions of morphological components in the EAGLE simulations](https://arxiv.org/abs/1805.03210)
+
+
+#### [AGN Feedback and Multi-phase Gas in Giant Elliptical Galaxies](https://arxiv.org/abs/1805.03217)
+
+
+#### [Simulating the evolution of optically dark HI clouds in the Virgo cluster : will no-one rid me of this turbulent sphere](https://arxiv.org/abs/1805.03414)
+
+
+#### [Discovery of two bright z∼5 quasars with SkyMapper, Pan-STARRS1 and WISE](https://arxiv.org/abs/1805.03429)
+
+
+#### [Ultra-Violet Imaging Telescope Observations of the Star-Forming Ring in NGC7252: Evidence of Possible AGN Feedback Suppressing Central Star Formation](https://arxiv.org/abs/1805.03543)
+
+
+#### [Enhanced atomic gas fractions in recently merged galaxies: quenching is not a result of post-merger gas exhaustion](https://arxiv.org/abs/1805.03604)
+
+
+#### [The ALHAMBRA survey: tight dependence of the optical mass-to-light ratio on galaxy colour up to z = 1.5](https://arxiv.org/abs/1805.03609)
+
+
+#### [The XMM Cluster Survey: joint modelling of the LX−T scaling relation for clusters and groups of galaxies](https://arxiv.org/abs/1805.03465)
