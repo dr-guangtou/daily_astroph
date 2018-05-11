@@ -213,18 +213,29 @@
 
 
 #### [The limb-brightened jet of M87 down to 7 Schwarzschild radii scale](https://arxiv.org/abs/1805.02478)
+    * Global mm-VLBI Array (GMVA) 在86GHz上研究 7-100 R_sch上的jet formation
+    * brightness temperature --> magnetic energy dominance at the jet base
+    * GMVA: GBT, IRAM 30m, PdBI
 
 
 #### [SFHs OF Z∼1 Galaxies in LEGA-C](https://arxiv.org/abs/1805.02568)
-
+    - **Important**
+    * emcee+FSPS拟合光谱：质量加权年龄和星系速度弥散度以及SF活动紧密相关, 高速度弥散度的星系形成得更早更快
+    * 许多恒星形成星系的SF peak还没来：many of these still have either constant or rising SFRs on timescales > 100 Myrs.
+        - 所以z~1的SF星系的z~2前身可能质量要小很多 
+    * we show that the current SF activity of massive galaxies (> L∗ ) at z ∼ 1 correlates with SF levels at least 3 Gyrs prior: SFHs retain ‘memory’ on a large fraction of the Hubble time.
 
 #### [Quantifying the AGN-driven outflows in ULIRGs (QUADROS) III: Measurements of the radii and kinetic powers of 8 near-nuclear outflows](https://arxiv.org/abs/1805.02647)
 
 
 #### [Comparison of physical and observational galaxy cluster modelling](https://arxiv.org/abs/1805.01968)
+    * 模拟星系团气体的AMI array观测 (SZ效应)
 
 
 #### [Physical modelling of galaxy clusters detected by Planck](https://arxiv.org/abs/1805.01991)
+    * 54个Planck星系团：Our mass estimates derived from Planck data are obtained from the results of the Bayesian detection algorithm PowellSnakes (PwS)
+    * We find that for 37 of the clusters, the AMI mass estimates are lower than both values obtained from Planck data
+    * radio-source confusion & CMB noise and measurable radio-sources causes AMI mass estimates to be systematically low.
 
 
 ----
@@ -281,3 +292,36 @@
 
 
 #### [The XMM Cluster Survey: joint modelling of the LX−T scaling relation for clusters and groups of galaxies](https://arxiv.org/abs/1805.03465)
+
+
+
+----
+
+## May 10:
+
+#### [On the Interpretation of Far-infrared Spectral Energy Distributions. I: The 850 μm Molecular Mass Estimator](https://arxiv.org/abs/1805.03649)
+
+
+#### [The formation and hierarchical assembly of globular cluster populations](https://arxiv.org/abs/1805.03652)
+
+
+#### [Bar resilience to flybys in a cosmological framework](https://arxiv.org/abs/1805.03658)
+
+
+#### [FIGS: Spectral fitting constraints on the star formation history of massive galaxies at Cosmic Noon](https://arxiv.org/abs/1805.03665)
+
+
+#### [Spatially resolved cold molecular outflows in ULIRGs](https://arxiv.org/abs/1805.03667)
+
+
+#### [The XXL Survey: XXX. Characterisation of the XLSSsC N01 supercluster and analysis of the galaxy stellar populations](https://arxiv.org/abs/1805.03842)
+
+
+#### [Recovering stellar population parameters via two full-spectrum fitting algorithms in the absence of model uncertainties](https://arxiv.org/abs/1805.03972)
+
+
+#### [The Dearth of Difference between Central and Satellite Galaxies I. Perspectives on star formation quenching and AGN activities](https://arxiv.org/abs/1805.04004)
+
+
+#### [The discrimination between star-forming and AGN galaxies in the absence of Hα and [NII]: A machine learning approach](https://arxiv.org/abs/1805.04069)
+
