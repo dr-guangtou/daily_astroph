@@ -357,22 +357,42 @@
 ## May 13:
 
 #### [Enhancing AGN efficiency and cool-core formation with anisotropic thermal conduction](https://arxiv.org/abs/1805.04109)
+    * Explore the impact of ATC on the prevalence of cool-cores (CCs) using 12 pairs of magnetohydrodynamical galaxy cluster simulations
+    * 包含ATC会导致Cool Core cluster比例升高
+    * With ATC included, the energy required for the central black hole to achieve self-regulation is reduced and the gas fraction in the cluster core increases, resulting in larger CC fractions
+        - In a magnetized, weakly collisional plasma, such as the ICM, anisotropic thermal conduction (ATC) is the relevant heat transport process, with heat transport perpendicular to the magnetic field suppressed.
 
 
 #### [Late Bloomer Galaxies: Growing Up in Cosmic Autumn](https://arxiv.org/abs/1805.04110)
+    - **Interesting**
+    * CSI里挑选的在过去2Gyr里形成大部分恒星的大质量星系，做了专门的SFH重构测试
+    * Late bloomers account for ∼20% of z ∼ 0.6 galaxies with masses of the modern Milky Way, with a moderate dependence on mass.
+    * At galaxies with both old and young SFHs cover the full range of morphology and environment (excluding rich groups or clusters), albeit with a mild but suggestive correlation with local environment.
 
 
 #### [Gemini/GMOS Spectroscopy of Globular Clusters in the Merger Remnant Galaxy M85](https://arxiv.org/abs/1805.04113)
+    * 20个GC的GMOS观测
+    * Find a strong rotation signal: 和stellar rotation的方向不一致
+    * About a half of the GCs are an intermediate-age population of which the mean age is ∼ 3.7 ± 1.9 Gyr, having a mean [Fe/H] value of –0.26. The other half are old and metal-poor.
 
 
 #### [Discovery of the most ultra-luminous QSO using Gaia, SkyMapper and WISE](https://arxiv.org/abs/1805.04317)
+    * Discovery of the ultra-luminous QSO SMSS J215728.21-360215.1 with magnitude z = 16.9 and W4= 7.42 at redshift 4.75
+    * With the highest unlensed UV-optical luminosity currently known in the Universe. 
+    * It is classed as a weak-emission-line QSO and possesses broad absorption line features.
 
 
 #### [Integrated-light analyses vs. colour-magnitude diagrams - II. Leo A, an extremely young dwarf in the Local Group](https://arxiv.org/abs/1805.04323)
+    - **Relevant, Useful**
+    * We have used GTC/OSIRIS in long-slit mode to obtain a high-quality integrated light spectrum by scanning a selected region within Leo A, for which a CMD reaching the old main mequence turn-off (oMSTO) is available from HST. 符合得很好
+    * The analysis of high S/N spectra seems to provide more reliable SFH estimates than that of CMDs not reaching the oMSTO. 
 
 
 #### [Evolution of the Outflows in NGC 3516](https://arxiv.org/abs/1805.04406)
+    * 有吸收trough的光变：We interpret both the changes and appearance of the new trough as bulk motion across the line-of-sight.
 
 
 #### [Simulations of the flocculent spiral M33: what drives the spiral structure?](https://arxiv.org/abs/1805.04443)
+    * We find that gravitational instabilities in the stars and gas are able to reproduce the observed spiral pattern and velocity field of M33, as seen in HI, and no interaction is required.
+    * The gas component appears to have a significant role in producing the structure, so if there is little feedback, both the gas and stars organise into clear spiral arms, likely due to a lower combined Q 
 
