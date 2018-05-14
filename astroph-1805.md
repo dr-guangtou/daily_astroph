@@ -226,6 +226,9 @@
     * we show that the current SF activity of massive galaxies (> L∗ ) at z ∼ 1 correlates with SF levels at least 3 Gyrs prior: SFHs retain ‘memory’ on a large fraction of the Hubble time.
 
 #### [Quantifying the AGN-driven outflows in ULIRGs (QUADROS) III: Measurements of the radii and kinetic powers of 8 near-nuclear outflows](https://arxiv.org/abs/1805.02647)
+    * Outflow regions are compact (0.08 < R[OIII] < 1.5 kpc), and the electron densities measured are relative high
+    * Relatively modest mass outflow rates
+    * Find no clear evidence for correlations between the properties of the out- flows and the bolometric luminosities of the AGN
 
 
 #### [Comparison of physical and observational galaxy cluster modelling](https://arxiv.org/abs/1805.01968)
@@ -243,21 +246,38 @@
 ## May 8:
 
 #### [A lower limit to the accretion disc radius in the low-luminosity AGN NGC 1052 derived from high-angular resolution data](https://arxiv.org/abs/1805.01899)
+    * The continuum emission within the innermost ∼ 17 pc around the black hole to be of non-thermal, synchrotron origin and to set a limit to the maximum contribution of a standard accretion disc. 
+    * Introduce a truncated accretion disc and derive a truncation radius to mass-light conversion efficiency relation, which we use to reconcile the inferred accretion power with the continuum luminosity.
 
 
 #### [Detecting strongly lensed supernovae at z ~ 5-7 with LSST](https://arxiv.org/abs/1805.02662)
+    * We find that the LSST main survey could detect ∼ 1 − 2 lensed Population III (Pop III) SN but 130-1400 Pop I/II SNe.
 
 
 #### [Molecular Gas Contents and Scaling Relations for Massive Passive Galaxies at Intermediate Redshifts from the LEGA-C Survey](https://arxiv.org/abs/1805.02667)
+    - **Important, Interesting**
+    * Here we present deep Atacama Large Millimeter/submillimeter Array (ALMA) observations of CO(2–1) emission in 8 massive (Mstar ∼ 10^11 M⊙) galaxies at z ∼ 0.7 selected to lie a factor of 3–10 below the star-forming sequence at this redshift,
+    * We significantly detect half the sample, finding molecular gas fractions <􏰂 0.1. We show that the molecular and stellar rotational axes are broadly consistent, arguing that the molecular gas was not accreted after the galaxies became quiescent.
+    * SF星系的scaling relation会高估气体比例
 
 
 #### [A New Technique for Measuring Polycyclic Aromatic Hydrocarbon Emission in Different Environments](https://arxiv.org/abs/1805.03079)
+    - by Yanxia Xie & Luis Ho
+    * Decompose the emission features of polycyclic aromatic hydrocarbons (PAHs) from mid-infrared spectra using theoretical PAH templates in conjunction with modified blackbody components for the dust continuum and an extinction term.
+    * In addition to providing accurate measurements of the PAH emission, including upper limits thereof, our fits can reproduce reasonably well the overall continuum shape and constrain the line-of-sight extinction
 
 
 #### [Three dynamically distinct stellar populations in the halo of M49](https://arxiv.org/abs/1805.03092)
+    - **Relevant, Interesting**
+    * We study the position-velocity-plane for bright and faint PN populations out to 95 kpc radius, and employ a multi-Gaussian model for the velocity distribution to identify stellar populations with distinct kinematics and histories.
+    * We find two kinematically distinct PN populations associated with the main M49 halo and the extended intra-group light (IGL).
+    * The blue colours of the IGL component are consistent with a population of stars formed in low-mass galaxies at redshift ∼ 0.5 that has since evolved passively, as suggested by other data.
 
 
 #### [Evolution of the degree of substructures in simulated galaxy clusters](https://arxiv.org/abs/1805.02658)
+    * 1) subhalos identified with SUBFIND; 2) overdense regions localized by dividing the cluster into octants; 3) offset between the potential minimum and the center of mass.
+    * None of the diagnostics indicate a correlation between the mass of the cluster and the fraction of substructures. 
+    * All the diagnostics suggest an evolution of substructures with redshift.
 
 
 ----
@@ -265,12 +285,18 @@
 ## May 9:
 
 #### [Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter](https://arxiv.org/abs/1805.03203)
+    * We present simulations of a galactic halo within a generic inelastic model using a novel numerical implementation in the AREPO code to study arbitrary multi-state inelastic dark matter scenarios.
 
 
 #### [The spectral and environment properties of z∼2.0−2.5 quasar pairs](https://arxiv.org/abs/1805.03206)
+    * Stacked UV spectrum of quasars in pair: a moderate flux excess for the most prominent broad emission lines, a ∼30% decrease in flux at λ=800–900 ̊A compared to a stack of brighter quasars not in pairs at similar redshifts
+    * 出现proximate LLS的rate也要比single QSO高
+    * 多出来的Lyman alpha吸收气体来自double Quasar halo里面的气体
 
 
 #### [The star formation rate and stellar content contributions of morphological components in the EAGLE simulations](https://arxiv.org/abs/1805.03210)
+    * At high redshift most galaxies of all masses are asymmetric. By redshift z ≃ 1.5 the Hubble sequence is established and after this time most of the stellar mass is in spheroids whose contribution to the stellar mass budget continues to rise to the present day.
+    * The rate of growth of spheroids decreases at z < 2 while the rate of decay of discs remains roughly constant at z < 1.
 
 
 #### [AGN Feedback and Multi-phase Gas in Giant Elliptical Galaxies](https://arxiv.org/abs/1805.03217)
@@ -324,4 +350,29 @@
 
 
 #### [The discrimination between star-forming and AGN galaxies in the absence of Hα and [NII]: A machine learning approach](https://arxiv.org/abs/1805.04069)
+
+
+----
+
+## May 13:
+
+#### [Enhancing AGN efficiency and cool-core formation with anisotropic thermal conduction](https://arxiv.org/abs/1805.04109)
+
+
+#### [Late Bloomer Galaxies: Growing Up in Cosmic Autumn](https://arxiv.org/abs/1805.04110)
+
+
+#### [Gemini/GMOS Spectroscopy of Globular Clusters in the Merger Remnant Galaxy M85](https://arxiv.org/abs/1805.04113)
+
+
+#### [Discovery of the most ultra-luminous QSO using Gaia, SkyMapper and WISE](https://arxiv.org/abs/1805.04317)
+
+
+#### [Integrated-light analyses vs. colour-magnitude diagrams - II. Leo A, an extremely young dwarf in the Local Group](https://arxiv.org/abs/1805.04323)
+
+
+#### [Evolution of the Outflows in NGC 3516](https://arxiv.org/abs/1805.04406)
+
+
+#### [Simulations of the flocculent spiral M33: what drives the spiral structure?](https://arxiv.org/abs/1805.04443)
 
