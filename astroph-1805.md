@@ -436,21 +436,44 @@
 ## May 14:
 
 #### [Simulating galactic dust grain evolution on a moving mesh](https://arxiv.org/abs/1805.04521)
+    * We employ a particle-based method for dust subject to dynamical forces including drag and gravity. The drag force is implemented using a second-order semi-implicit integrator and validated using several dust-hydrodynamical test problems
+    * The grain size distribution is discretised with a second-order piecewise linear method and evolves in time according to various dust physi- cal processes, including accretion, sputtering, shattering, and coagulation.
 
 
 #### [PLCK G165.7+67.0: A New Massive Lensing Cluster Discovered in an HST Census of Sub-Millimeter Giant Arcs Selected Using Planck/Herschel](https://arxiv.org/abs/1805.04790)
+    - **Interesting**
+    * HST WFC3-NIR imaging in the fields of six strongly-lensed Dusty Star Forming Galaxies (DSFGs) at z=2-4 identified by color and compactness through a new method of discovering massive lensing clusters
+    * The red and spatially-extended lensed DSFG in G165 bisects the critical curve, incurring a high magnification factor of >∼30 and producing a counter-image that is detected in our new longer wavelength ground- and space-based imaging data
+    * PKCK G165.7+67.0 at z=0.351: high dark matter concentration, relatively weak X-ray flux and low SZ decrement may potentially be explained as a pre-merger for which the intracluster gas is diluted while the surface mass densities integrated along the line-of-sight remains supercritical to strong lensing effects.
 
 
 #### [The disk averaged star formation relation for Local Volume dwarf galaxies](https://arxiv.org/abs/1805.05003)
+    * We therefore explore a method for estimating the surface density of the atomic gas from global H i parameters
+    * Find that our approximation produces values for the surface density of atomic hydrogen within typically 0.5 dex of the true value.
 
 
 #### [HST followup observations of two bright z ~ 8 candidate galaxies from the BoRG pure-parallel survey](https://arxiv.org/abs/1805.05038)
+    * Our results confirm one galaxy, BoRG 0116+1425 747, as a highly probable z ∼ 8 source, but reveal that BoRG 0116+1425 630 - previously the brightest known z > 8 candidate (mAB = 24.5) - is likely to be a z ∼ 2 interloper.
+    * We show that while previous BoRG results favored a shallow power-law decline in the bright end of the luminosity function prior to reionization, there is now no evidence for departure from a Schechter function form and therefore no evidence for a difference in galaxy formation processes before and after reionization.
 
 
 #### [A Likely Super Massive Black Hole Revealed by its Einstein Radius in Hubble Frontier Fields Images](https://arxiv.org/abs/1805.05051)
+    - **Interesting**
+    * Here, we directly measure the mass of a SMBH in the brightest cluster galaxy (BCG) of MACS J1149+2223.5 at z = 0.54 through one of the multiply-lensed images of a background spiral galaxy at z = 1.49 projected close to the BCG
+    * An intrinsically compact region in one of the spiral arms is lensed into an arc that curves towards the BCG center. Crucially, this arc has a radius of curvature of only ∼0".6, betraying the presence of a local compact deflector.
+    * The SMBH is noticeably offset by 4.4±0.3 kpc from the BCG light centre, plausibly the result of a kick imparted ∼ 2.9×107 years ago during the merger of two SMBHs, placing it just beyond the stellar core.
 
 
 #### [The clustering of galaxies with pseudo bulge and classical bulge in the local Universe](https://arxiv.org/abs/1805.05063)
+    - **Relevant, Interesting**
+    * Simard+2011的经典核球和伪核球星系
+    * We find that, when limited to a certain stellar mass range and matched in color and concentration, all the samples present similar clustering amplitudes and neighbour counts on scales above ∼ 0.1h−1Mpc.
+    * On smaller scales, in contrast, pseudo-bulge and pure-disk galaxies similarly show strong excess in close neighbour count when compared to control galaxies, at all masses probed.
+    * These results imply strong connections between galactic bulges and galaxy-galaxy interactions in the local Universe, although it is unclear how they are physically linked in the current theory of galaxy formation.
 
 
 #### [Recoiling supermassive black hole in changing-look AGN Mrk 1018](https://arxiv.org/abs/1805.05251)
+    * The spectral type of Mrk 1018 changed from Type 1.9 to 1 and returned back to 1.9 over a period of 40 years.
+    * Two kinematically distinct broad-line components, blueshifted and redshifted components, are found from spectral decomposition. 速度差别变化有明显的pattern
+    * An oscillating recoiled supermassive black hole (rSMBH) scenario is proposed to explain the observed velocity offset in broad emission lines.
+    * Perturbations of the accretion disk caused by pericentric passage can reasonably explain the AGN activity and spectral change in Mrk 1018.
