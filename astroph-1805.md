@@ -430,3 +430,27 @@
     * We find that gravitational instabilities in the stars and gas are able to reproduce the observed spiral pattern and velocity field of M33, as seen in HI, and no interaction is required.
     * The gas component appears to have a significant role in producing the structure, so if there is little feedback, both the gas and stars organise into clear spiral arms, likely due to a lower combined Q 
 
+
+----
+
+## May 14:
+
+#### [Simulating galactic dust grain evolution on a moving mesh](https://arxiv.org/abs/1805.04521)
+
+
+#### [PLCK G165.7+67.0: A New Massive Lensing Cluster Discovered in an HST Census of Sub-Millimeter Giant Arcs Selected Using Planck/Herschel](https://arxiv.org/abs/1805.04790)
+
+
+#### [The disk averaged star formation relation for Local Volume dwarf galaxies](https://arxiv.org/abs/1805.05003)
+
+
+#### [HST followup observations of two bright z ~ 8 candidate galaxies from the BoRG pure-parallel survey](https://arxiv.org/abs/1805.05038)
+
+
+#### [A Likely Super Massive Black Hole Revealed by its Einstein Radius in Hubble Frontier Fields Images](https://arxiv.org/abs/1805.05051)
+
+
+#### [The clustering of galaxies with pseudo bulge and classical bulge in the local Universe](https://arxiv.org/abs/1805.05063)
+
+
+#### [Recoiling supermassive black hole in changing-look AGN Mrk 1018](https://arxiv.org/abs/1805.05251)
