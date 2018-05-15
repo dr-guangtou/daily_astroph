@@ -315,6 +315,10 @@
 
 
 #### [The ALHAMBRA survey: tight dependence of the optical mass-to-light ratio on galaxy colour up to z = 1.5](https://arxiv.org/abs/1805.03609)
+    - **Useful**
+    * we derive the mass-to-light ratio vs. colour relation (MLCR) both for quiescent and star-forming galaxies.
+    * The rest-frame i−band mass-to-light ratio of quiescent and star-forming galaxies presents a tight correlation with the rest-frame (g − i) colour up to z = 1.5. Such MLCR is linear for quiescent galaxies and quadratic for star-forming galaxies.
+    * The derived MLCRs do not present a significant redshift evolution and are compatible with previous local results in the literature. Finally, these tight relations also hold for g− and r−band luminosities.
 
 
 #### [The XMM Cluster Survey: joint modelling of the LX−T scaling relation for clusters and groups of galaxies](https://arxiv.org/abs/1805.03465)
@@ -326,30 +330,60 @@
 ## May 10:
 
 #### [On the Interpretation of Far-infrared Spectral Energy Distributions. I: The 850 μm Molecular Mass Estimator](https://arxiv.org/abs/1805.03649)
+    * 用850 micron单波段光度估计尘埃质量：We argue the major driver of scatter in the Lν,850-Mmol relation arises from variations in the molecular gas to dust mass ratio
 
 
 #### [The formation and hierarchical assembly of globular cluster populations](https://arxiv.org/abs/1805.03652)
+    - **Interesting**
+    * Many previous works have argued that the observed linear relation between total GC mass and halo mass points to a fundamental GC – dark matter connection or indicates that GCs formed at very high redshift before feedback processes introduced nonlinearity in the baryon-to-dark matter mass relation
+    * Constant mass ratio来自中心极限定理：by the central limit theorem, it is expected at z = 0 independent of the GC-to-halo mass relation at the time of GC formation.
+    * It predicts that the cosmic GC formation rate peaked at z ∼ 4, too late for GCs to contribute significantly to the UV luminosity density during reionization.
 
 
 #### [Bar resilience to flybys in a cosmological framework](https://arxiv.org/abs/1805.03658)
+    * we study the effects that a very unequal-mass flyby crossing the stellar disc has on the stability of the pre-existing bar.
+    * After 1 Gyr, the bar shows a remarkable resilience, reforming with properties comparable to those it had before the interaction
+    * flyby在短时间内扔可以破坏棒结构
 
 
 #### [FIGS: Spectral fitting constraints on the star formation history of massive galaxies at Cosmic Noon](https://arxiv.org/abs/1805.03665)
+    - **Relevant**
+    * 52 massive galaxies – with stellar mass log(Ms/M⊙) ∼> 10.5 – over the redshift range 0.5 < z < 2
+    * Using the cumulative distribution of stellar ages by mass, we define a “quenching timescale” that is found to correlate with stellar mass.
+    * Radial colour gradients within each galaxy are also explored, finding a wider scatter in the star-forming subsample, but no conclusive trend with respect to the population parameters.
+    * 用6个base models拟合Grism光谱
 
 
 #### [Spatially resolved cold molecular outflows in ULIRGs](https://arxiv.org/abs/1805.03667)
+    * Finally, the luminosity-weighted age-mass relation of the passive populations within cluster virial radii show signatures of recent environmental quenching: 从250pc-1kpc
+    * The mass outflow rates are 12 − 400 M⊙ yr−1 and the inclination corrected average velocity of the outflowing gas 350 − 550 km s−1 (vmax = 500 − 900 km s−1 ). The origin of these outflows can be explained by the strong nuclear starbursts although the contribution of an obscured AGN can not be completely ruled out.
+    * The outflow depletion times are 15 − 80 Myr.
+    * The majority of the outflowing gas will return to the disk after 5 − 10 Myr and become available to form new stars.
 
 
 #### [The XXL Survey: XXX. Characterisation of the XLSSsC N01 supercluster and analysis of the galaxy stellar populations](https://arxiv.org/abs/1805.03842)
+    * z=0.3的一个supercluster里面11个星系团virial区域星系的星族
+    * For log(M∗/M⊙) ≥ 10.8, no trends with environment emerge, as massive galaxies are mostly already passive in all environments
 
 
 #### [Recovering stellar population parameters via two full-spectrum fitting algorithms in the absence of model uncertainties](https://arxiv.org/abs/1805.03972)
+    - **Relevant** 
+    * 比较pPXF和STARLIGHT
+    * pPXF: The bias increases for younger ages and systematically makes recovered ages older, M∗/Lr larger and metallicities lower than the true values.
+    * Starlight: However, with larger input E(B-V), the biases of the output parameter do not converge to zero even at the highest S/N and are strongly affected by the shape of the error spectra.
+    * 在相同的精度上STARLIGHT比pPXF慢得多
 
 
 #### [The Dearth of Difference between Central and Satellite Galaxies I. Perspectives on star formation quenching and AGN activities](https://arxiv.org/abs/1805.04004)
+    - **Relevant**
+    * We find that the quenched fractions of centrals and satellites of similar stellar masses have similar dependence on host halo mass.
+    * The quenched fractions of centrals and satellites of similar masses show similar dependencies on bulge-to-total light ratio, central velocity dispersion and halo-centric distance in halos of given halo masses.
 
 
 #### [The discrimination between star-forming and AGN galaxies in the absence of Hα and [NII]: A machine learning approach](https://arxiv.org/abs/1805.04069)
+    * 没有Halpha和NII也可以用其他的发射线分辨AGN和SF星系
+    * 用Hbeta和OIII还有4000AA break
+    * We show that in this survey, for example, g − r colour can provide the same accuracy as galaxy stellar mass to predict whether or not a galaxy hosts an AGN.
 
 
 ----
