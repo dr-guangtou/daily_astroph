@@ -477,3 +477,46 @@
     * Two kinematically distinct broad-line components, blueshifted and redshifted components, are found from spectral decomposition. 速度差别变化有明显的pattern
     * An oscillating recoiled supermassive black hole (rSMBH) scenario is proposed to explain the observed velocity offset in broad emission lines.
     * Perturbations of the accretion disk caused by pericentric passage can reasonably explain the AGN activity and spectral change in Mrk 1018.
+
+
+----
+
+## May 15:
+
+#### [The PAU Survey: A Forward Modeling Approach for Narrow-band Imaging](https://arxiv.org/abs/1805.05340)
+
+
+#### [Multiple populations within globular clusters in Early-type galaxies Exploring their effect on stellar initial mass function estimates](https://arxiv.org/abs/1805.05343)
+
+
+#### [The COS-AGN survey: Revealing the nature of circum-galactic gas around hosts of active galactic nuclei](https://arxiv.org/abs/1805.05348)
+
+
+#### [The evolution of the baryon fraction in halos as a cause of scatter in the galaxy stellar mass in the EAGLE simulation](https://arxiv.org/abs/1805.05349)
+
+
+#### [Cold Molecular Outflows in the Local Universe](https://arxiv.org/abs/1805.05352)
+
+
+#### [The Metallicity Dependence of the HI Shielding Layers in Nearby Galaxies](https://arxiv.org/abs/1805.05353)
+
+
+#### [An ALMA survey of the SCUBA-2 Cosmology Legacy Survey UKIDSS/UDS field: number counts of submillimeter galaxies](https://arxiv.org/abs/1805.05362)
+
+
+#### [An ALMA survey of the SCUBA-2 Cosmology Legacy Survey UKIDSS/UDS field: Identifying candidate z~4.5 [CII] emitters](https://arxiv.org/abs/1805.05363)
+
+
+#### [The MALATANG Survey: the L_gas-L_IR correlation on sub-kiloparsec scale in six nearby star-forming galaxies as traced by HCN J=4-3 and HCO^+ J=4-3](https://arxiv.org/abs/1805.05619)
+
+
+#### [Search For Star Cluster Age Gradients Across Spiral Arms of Three LEGUS Disk Galaxies](https://arxiv.org/abs/1805.05643)
+
+
+#### [The recoiling black hole candidate 3C 186: spatially-resolved quasar feedback and further evidence of a blue-shifted broad line region](https://arxiv.org/abs/1805.05860)
+
+
+#### [Suppression of Star Formation in Low-Mass Galaxies Caused by the Reionization of their Local Neighborhood](https://arxiv.org/abs/1805.05358)
+
+
+#### [Radio Galaxy Zoo: Machine learning for radio source host galaxy cross-identification](https://arxiv.org/abs/1805.05540)
