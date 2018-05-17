@@ -484,21 +484,45 @@
 ## May 15:
 
 #### [The PAU Survey: A Forward Modeling Approach for Narrow-band Imaging](https://arxiv.org/abs/1805.05340)
+    * MCCL, Monte Carlo Control Loops: forward modeling calibration of weak lensing
+    * forward modeling the 40 narrow-band photometry given by the novel PAU Survey (PAUS). 
+    * Physics of the Accelerating Universe Survey, PAUCam@WHT
 
 
 #### [Multiple populations within globular clusters in Early-type galaxies Exploring their effect on stellar initial mass function estimates](https://arxiv.org/abs/1805.05343)
+    - **Interesting**
+    * 逻辑是，如果球状星团中的恒星有multiple population的化学证据，那么也会影响早型星系中心星族的
+    * we focus on spectral features in the integrated optical spectrum and the global mass-to-light ratio that have been used to infer variations in the stellar initial mass function.
+    * We conclude that while the multiple populations may be present in massive early-type galaxies, they are likely not responsible for the observed variations in the mass- to-light ratio and IMF sensitive line strengths.
 
 
 #### [The COS-AGN survey: Revealing the nature of circum-galactic gas around hosts of active galactic nuclei](https://arxiv.org/abs/1805.05348)
+    * 19 quasar sightlines that probe the CGM of 20 optically-selected AGN host galaxies with impact parameters 80 <ρimp< 300 kpc.
+    * only Lyα shows a high covering fraction whilst many of the metal ions are not detected in individual sightlines.
+    * However, stacked spectra of the COS-AGN and control samples show significant enhancements in the EW of both Si iii and Ly↵ at impact parameters > 164 kpc 
+    * 可能是由于AGN坐在的Halo里面气体的性质不同，或者是CGM受到了之前星暴等活动的影响 
 
 
 #### [The evolution of the baryon fraction in halos as a cause of scatter in the galaxy stellar mass in the EAGLE simulation](https://arxiv.org/abs/1805.05349)
+    - **Relevant, Important**
+    * The stellar masses of central galaxies in halos with M200c > 10^11M⊙ were shown to correlate with the DMO halo maximum circular velocity, with ≈ 0.2 dex of scatter that is uncorrelated with other DMO halo properties.
+    * We find that the scatter in M∗ correlates with the mean age of the galaxy stellar population such that more massive galaxies at fixed Vmax,DMO are younger. --> 固定的Halo Vmax处，质量大的星系更年轻
+    * 来自固定Halo质量和concentration处，重子物质质量的差别
+    * 而重子物质的弥散，来自于halo演化历史上feedback的强度和气体吸积的历史
+    - Reddick+2013; Chaves-Montero+2016; Matthee+2017: V_max: maximum circular velocity比M200c和stellar mass的相关更好
 
 
 #### [Cold Molecular Outflows in the Local Universe](https://arxiv.org/abs/1805.05352)
+    * We infer an empirical analytical function relating the outflow rate simultaneously to the SFR, LAGN, and galaxy stellar mass
+    * Outflow可以既是energy driven，也是radiation pressure driven的
+    * "Fossil outflows": 之前AGN活动造成的，现在正在fading的outflow
+    * Less than 5 per cent of the outflowing gas escapes the galaxy
+    * 光靠这样的AGN feedback不足以清除整个星系里的气体，当然可以quench中心区域
+    * Radio power和分子气体外流没什么关系
 
 
 #### [The Metallicity Dependence of the HI Shielding Layers in Nearby Galaxies](https://arxiv.org/abs/1805.05353)
+    * At intermediate to high metallicities (0.3 − 2 times solar), we find that the H I surface densities saturate at sufficiently large total gas surface density.
 
 
 #### [An ALMA survey of the SCUBA-2 Cosmology Legacy Survey UKIDSS/UDS field: number counts of submillimeter galaxies](https://arxiv.org/abs/1805.05362)
@@ -520,3 +544,43 @@
 
 
 #### [Radio Galaxy Zoo: Machine learning for radio source host galaxy cross-identification](https://arxiv.org/abs/1805.05540)
+
+
+----
+
+## May 16:
+
+#### [Probing feedback in high-z galaxies using extended UV luminosity functions](https://arxiv.org/abs/1805.05954)
+
+
+#### [The origin of scatter in the star formation rate - stellar mass relation](https://arxiv.org/abs/1805.05956)
+
+
+#### [Characterising the Circum-Galactic Medium of Damped Lyman-α Absorbing Galaxies](https://arxiv.org/abs/1805.05956)
+
+
+#### [Kinetys II: Constraints on spatial variations of the stellar initial mass function from K-band spectroscopy](https://arxiv.org/abs/1805.05964)
+
+
+#### [The onset of star formation 250 million years after the Big Bang](https://arxiv.org/abs/1805.05966)
+
+
+#### [A Semi-Analytical Line Transfer (SALT) Model II: the effects of a Bi-Conical geometry](https://arxiv.org/abs/1805.05966)
+
+
+#### [The Keck Lyman Continuum Spectroscopic Survey (KLCS): The Emergent Ionizing Spectrum of Galaxies at z∼3](https://arxiv.org/abs/1805.06071)
+
+
+#### [The shape alignment of satellite galaxies in galaxy pairs in SDSS](https://arxiv.org/abs/1805.06096)
+
+
+#### [The environmental properties of radio-emitting AGN](https://arxiv.org/abs/1805.06233)
+
+
+#### [Mg II line properties in lobe-dominated quasars](https://arxiv.org/abs/1805.06263)
+
+
+#### [Narrow vs. Broad line Seyfert 1 galaxies: X-ray, optical and mid-infrared AGN characteristics](https://arxiv.org/abs/1805.06437)
+
+
+#### [Radio/X-ray monitoring of the broad-line radio galaxy 3C 382. High-energy view with XMM-Newton and NuSTAR](https://arxiv.org/abs/1805.06229)
