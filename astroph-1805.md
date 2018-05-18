@@ -569,18 +569,70 @@
 
 
 #### [The Keck Lyman Continuum Spectroscopic Survey (KLCS): The Emergent Ionizing Spectrum of Galaxies at z∼3](https://arxiv.org/abs/1805.06071)
+    * 124个z=3的星系的Keck观测：We measure the ratio of ionizing to non-ionizing UV flux density, 900AA/1500AA
+    * To quantify the emergent ratio of ionizing to non-ionizing UV flux density – we use detailed Monte Carlo modeling of the opacity of H I in the intergalactic (IGM) and circumgalactic (CGM) medium as a function of source redshift
+    * <f_900/f_1500>_out = 0.057, 随Lya的EW升高而升高
 
 
 #### [The shape alignment of satellite galaxies in galaxy pairs in SDSS](https://arxiv.org/abs/1805.06096)
+    - **Relevant**
+    * By stacking tens of thousands satellites around galaxy pairs, we found statistically strong signals of tangential alignment of the major axes of the satellites in the facing area (projected areas between two primaries in the sky plane) and radial alignment in the away area (areas in the opposite sides of facing area
+    * Alignment信号随着主星系对的光度而增强，随着星系对间的距离升高而变弱
 
 
 #### [The environmental properties of radio-emitting AGN](https://arxiv.org/abs/1805.06233)
+    * 1.4GHz辐射越强的AGN越容易出现在cluster中
+    * 质量大于10^11.3的radio-AGN几乎都是central；比这个质量小的几乎都是satellites
+    * Radio AGN which also emit in the MIR show a marked preference to be found as isolated galaxies
 
 
 #### [Mg II line properties in lobe-dominated quasars](https://arxiv.org/abs/1805.06263)
+    * We find no correlation between Mg ii line width and inclination, unlike previous studies of the general quasar population
 
 
 #### [Narrow vs. Broad line Seyfert 1 galaxies: X-ray, optical and mid-infrared AGN characteristics](https://arxiv.org/abs/1805.06437)
+    * We found that black hole mass, coronal line luminosities, X-ray hardness ratio and X-ray, optical and MIR luminosities are higher for the BLAGNs than for NLS1s, while policyclic aromatic hydrocarbon (PAH) contribution and the accretion rates are higher for the NLS1s.
 
 
 #### [Radio/X-ray monitoring of the broad-line radio galaxy 3C 382. High-energy view with XMM-Newton and NuSTAR](https://arxiv.org/abs/1805.06229)
+    * Find the presence of a warm absorber, an iron Kα line with no associated Compton reflection hump, and a variable soft excess well described by a thermal Comptonization component.
+    * Two-corona模型：UV emission and soft excess are produced by a warm (kT ≃ 0.6 keV), optically thick (τ ≃ 20) corona consistent with being a slab fully covering a nearly passive accretion disc, while the hard X-ray emission is due to a hot corona intercepting roughly 10% of the soft emission.
+
+----
+
+## May 17:
+
+#### [On the orientation of Narrow Line Seyfert I](https://arxiv.org/abs/1805.06459)
+
+
+#### [Simulations of Jet Heating in Galaxy Clusters: Successes and Numerical Challenges](https://arxiv.org/abs/1805.06461)
+
+
+#### [The role of molecular gas in the nuclear regions of IRAS 00183-7111. ALMA and X-ray investigations of an ultraluminous infrared galaxy](https://arxiv.org/abs/1805.06477)
+
+
+#### [The Fraction of Active Galactic Nuclei in the USS 1558-003 Protocluster at z = 2.53](https://arxiv.org/abs/1805.06569)
+
+
+#### [The role of environment in the observed Fundamental Plane of radio Active Galactic Nuclei](https://arxiv.org/abs/1805.06600)
+
+
+#### [Strong-lensing Measurement of the Mass-density Profile out to 3 Effective Radii for z∼0.5 Early-type Galaxies](https://arxiv.org/abs/1805.06624)
+
+
+#### [A scenario on the power-law total mass-density profile of the inner regions of early-type-galaxies](https://arxiv.org/abs/1805.06629)
+
+
+#### [Is the IMF in ellipticals bottom-heavy? Clues from their chemical abundances](https://arxiv.org/abs/1805.06841)
+
+
+#### [Probing star formation and ISM properties using galaxy disk inclination II: Testing typical FUV attenuation corrections out to z∼0.7](https://arxiv.org/abs/1805.06889)
+
+
+#### [GalWeight: A New and Effective Weighting Technique for Determining Galaxy Cluster and Group Membership](https://arxiv.org/abs/1805.06479)
+
+
+#### [Estimating Sky Level](https://arxiv.org/abs/1805.06711)
+
+
+#### [15-GHz radio emission from nearby low-luminosity active galactic nuclei](https://arxiv.org/abs/1805.06696)
