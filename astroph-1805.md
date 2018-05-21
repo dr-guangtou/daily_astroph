@@ -603,36 +603,111 @@
 ## May 17:
 
 #### [On the orientation of Narrow Line Seyfert I](https://arxiv.org/abs/1805.06459)
+    * We first show that the different redshift and mass distributions of radio–loud and –quiet NLS1s could be ascribed to observational biases.
+    * Most of the different observational features of radio–loud and radio–quiet NLS1s are ascribed to the orientation of an intrinsically structured jet.
 
 
 #### [Simulations of Jet Heating in Galaxy Clusters: Successes and Numerical Challenges](https://arxiv.org/abs/1805.06461)
+    * Eulerian code athena using high-resolution Godunov methods with low numerical diffusion.
+    * We find that successful regulation of the cooling flow can be achieved with kinetic jets. Heating is anisotropic and is mostly distributed along the jet axis where the cooling flow is suppressed
+    * Away from the jet axis the cooling flow is reduced by weak shock heating, but not fully suppressed
+    * Turbulence is a significant source of heating only near the cluster centre, but this mechanism becomes inefficient at ∼ 50 kpc scales 
 
 
 #### [The role of molecular gas in the nuclear regions of IRAS 00183-7111. ALMA and X-ray investigations of an ultraluminous infrared galaxy](https://arxiv.org/abs/1805.06477)
+    * CO traced分子气体：molecular gas may contribute only a fraction of the AGN obscuration;
+    * The nuclear regions of IRAS 00183-7111 are likely stratified into different layers of matter: one inner and highly ionized by the strong radiation field of the AGN (as inferred from the high-ionization iron line found in the X-ray spectra), and one outer and colder, extending more than 5 kpc from the nucleus (as traced by the molecular gas observed with ALMA).
 
 
 #### [The Fraction of Active Galactic Nuclei in the USS 1558-003 Protocluster at z = 2.53](https://arxiv.org/abs/1805.06569)
+    * We have identified two X-ray AGN at the redshift of USS 1558−003, one of which is the radio galaxy.
+    * USS 1558−003 does not have a significantly higher fraction of AGN than field galaxies at similar redshifts.
+        - Those measurements have shown that while luminous AGN are substantially rarer in clusters than the field in the local universe, the AGN fraction is approximately the same in clusters and the field by 1 < z < 1.5, and there is some evidence that the AGN fraction is greater in dense environments at z > 2 (Martini et al. 2013; Alberts et al. 2016).
 
 
 #### [The role of environment in the observed Fundamental Plane of radio Active Galactic Nuclei](https://arxiv.org/abs/1805.06600)
+    * AGN properties are strongly environment-dependent: massive haloes are more likely to host radiatively inefficient (low-excitation) radio AGN, as well as a higher fraction of radio luminous, extended sources.
 
 
 #### [Strong-lensing Measurement of the Mass-density Profile out to 3 Effective Radii for z∼0.5 Early-type Galaxies](https://arxiv.org/abs/1805.06624)
+    - **Relevant**
+    * The lens redshifts of the sample have a mean value of 0.52, but the source redshifts span a wide range from 0.8 to 3.5, which leads to a wide range of Einstein radii up to three effective radii.
+    * The total mass distribution is very close to isothermal one with the average logarithmic density slope gamma=2.0
+    * We find the density profile would be steeper with increasing radius.
 
 
 #### [A scenario on the power-law total mass-density profile of the inner regions of early-type-galaxies](https://arxiv.org/abs/1805.06629)
+    * We point out that, in the inner region of an early type galaxy, the average value of the equation of state ω determines the power-law index γ of the total mass-density profile
 
 
 #### [Is the IMF in ellipticals bottom-heavy? Clues from their chemical abundances](https://arxiv.org/abs/1805.06841)
+    - **Important, Relevant**
+    * We tested initial mass functions already used in a previous work, as well as two new models, based on low-mass tapered (”bimodal”) IMFs, where the IMF becomes either (1) bottom-heavy in more massive galaxies, or (2) is time-dependent, switching from top-heavy to bottom-heavy in the course of galactic evolution.
+    * 和观测比，最好的模型是 either by models with a constant, Salpeter IMF, or by those with a time-dependent distribution.
+    * We conclude that a constant, time-independent bottom-heavy IMF does not reproduce the data, especially the increase of the [α/Fe] ratio with galactic stellar mass, whereas a variable IMF, switching to bottom-heavy at late times can match observations.
 
 
 #### [Probing star formation and ISM properties using galaxy disk inclination II: Testing typical FUV attenuation corrections out to z∼0.7](https://arxiv.org/abs/1805.06889)
+    * We find that combining MIR (rest-frame ∼13μm) and FUV luminosities gives the most inclination-independent SFRs and reduces the intrinsic SFR scatter of the methods we tested.
+    * 用UV-slope改正SFR效果并不好
 
 
 #### [GalWeight: A New and Effective Weighting Technique for Determining Galaxy Cluster and Group Membership](https://arxiv.org/abs/1805.06479)
+    * This technique is specifically designed to simultaneously maximize the number of bona fide cluster members while minimizing the number of contaminating interlopers.
+    * It is effective in identifying members in both the virial and infall regions with high efficiency.
 
 
 #### [Estimating Sky Level](https://arxiv.org/abs/1805.06711)
+    - **Relevant**
+    * Employs optimal filters for both spatial and pixel intensity distributions.
+    * It incorporates growth of masks around detected objects and a statistical estimate of the flux from undetected faint galaxies in the remaining sky pixels.
+    * This background sky estimator is more accurate and is less affected by surface brightness profiles of galaxies and the local image environment compared with other methods.
 
 
 #### [15-GHz radio emission from nearby low-luminosity active galactic nuclei](https://arxiv.org/abs/1805.06696)
+    * We detect 20 out of 31 (64 %) low-ionization nuclear emission-line region (LINER) nuclei, ten out of 14 (71 %) low-luminosity Seyfert galaxies, and 15 out of 31 (48 %) transition objects. 
+    * Radio-X-ray-M_SMBH and Radio-Optical-M_SMBH fundamental plane
+    * We find conclusive evidence that the nuclear 15 GHz radio luminosity function (RLF) of all the detected Palomar Sample LLAGN has a turnover at the low-luminosity end, and is best-fitted with a broken power law.
+
+
+----
+
+## May 20:
+
+#### [The Formation of Ultra Diffuse Galaxies in Cored Dark Matter Halos Through Tidal Stripping and Heating](https://arxiv.org/abs/1805.06896)
+
+
+#### [Cosmological simulations of black hole growth II: how (in)significant are merger events for fuelling nuclear activity?](https://arxiv.org/abs/1805.06902)
+
+
+#### [A Theory for the Variation of Dust Attenuation Laws in Galaxies](https://arxiv.org/abs/1805.06905)
+
+
+#### [Spectroscopic decomposition of the galaxy and halo of the cD galaxy NGC 3311](https://arxiv.org/abs/1805.06913)
+
+
+#### [Morphology of AGN Emission Line Regions in SDSS-IV MaNGA Survey](https://arxiv.org/abs/1805.06916)
+
+
+#### [A Mid-IR Selected Changing-Look Quasar and Physical Scenarios for Abrupt AGN Fading](https://arxiv.org/abs/1805.06920)
+
+
+#### [A new physical interpretation of optical and infrared variability in quasars](https://arxiv.org/abs/1805.06921)
+
+
+#### [The impact of assembly bias on the halo occupation in hydrodynamical simulations](https://arxiv.org/abs/1805.06938)
+
+
+#### [Luminous WISE-selected Obscured, Unobscured, and Red Quasars in Stripe 82](https://arxiv.org/abs/1805.06951)
+
+
+#### [Time-dependent Pattern Speeds in Barred Galaxies](https://arxiv.org/abs/1805.07131)
+
+
+#### [The Discovery of a New Massive Molecular Gas Component Associated with the Submillimeter Galaxy SMM J02399-0136](https://arxiv.org/abs/1805.07212)
+
+
+#### [The Star Formation History in the M31 Bulge](https://arxiv.org/abs/1805.07225)
+
+
+#### [Multifractality Signatures in Quasars Time Series. I. 3C 273](https://arxiv.org/abs/1805.07287)
