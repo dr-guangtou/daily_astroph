@@ -718,21 +718,43 @@
 
 
 #### [The impact of assembly bias on the halo occupation in hydrodynamical simulations](https://arxiv.org/abs/1805.06938)
-
+    - **Relevant, Important**
+    * 用EAGLE和Illustris研究investigate the variations in galaxy occupancy of the dark matter haloes with the large-scale environment and halo formation time
+    * Low-mass haloes in the most dense environments are more likely to host a central galaxy than those in the least dense environments
+    * At a fixed low halo mass, early-formed haloes are more likely to host a central galaxy than late- formed haloes since they have had more time to assemble.
+    * The satellite occupation shows a reverse trend where early-formed haloes host fewer satellites due to having more time to merge with the central galaxy.
+    * Early-formed haloes hosting more massive galaxies.
 
 #### [Luminous WISE-selected Obscured, Unobscured, and Red Quasars in Stripe 82](https://arxiv.org/abs/1805.06951)
+    * S82区域里147个红外颜色选择的22 micron流量完备AGN样本的光谱观测
+        - 57 blue, unobscured Type-1 (broad-lined) sources; 69 obscured, Type-2 (narrow-lined) sources; and 21 moderately-reddened Type-1 sources (broad- linedandE(B−V)>0.25).
+    * While the X-ray correlation with L[OIII] is consistent with previous findings, the most infrared-luminous sources appear to deviate from established relations such that they are either under-luminous in X-rays or over-luminous in the infrared.
+    * 光度上看，reddened Type-1 dominates high-luminosity end; Type-2 dominates low luminosity
 
 
 #### [Time-dependent Pattern Speeds in Barred Galaxies](https://arxiv.org/abs/1805.07131)
+    * Double-bar的星系模拟：The interaction of the two bars, which rotate at distinct speeds, primarily affects the size, strength and pattern speed of the inner bar.
+        - When the two bars are perpendicular to each other, the size and the pattern speed of the inner bar decrease and its strength increases.
+    * On the other hand, the characteristics of the outer bar are substantially influenced by its adjacent spiral structure.
+    * When the spiral structure disappears, the size of the outer bar increases and its strength and pattern speed decrease.
+        - 旋臂消失后，外棒大小增加，强度下降，并变慢
 
 
 #### [The Discovery of a New Massive Molecular Gas Component Associated with the Submillimeter Galaxy SMM J02399-0136](https://arxiv.org/abs/1805.07212)
+    * SMG原型之一，有多个正在并和的成分
+    * The GBT CO(1-0)line profile is comprised of two distinct velocity components separated by about 600 km s−1 and suggests the presence of a new component of molecular gas that had not been previously identified. 发现了一个速度不一样的大质量气体成分 
+    * W1 is arguably a merger remnant; alternatively, it could be a massive molecular outflow associated with the AGN, or perhaps inflowing metal-enriched molecular gas fueling the ongoing activity.
 
 
 #### [The Star Formation History in the M31 Bulge](https://arxiv.org/abs/1805.07225)
+    * Construct Nyquist-sampled images and use a deconvolu- tion method to detect sources and measure their photometry
+    * We confirm that the majority of stars (>70%) in the M31 bulge are indeed very old (> 5 Gyr) and metal-rich ([Fe/H]∼0.3).
+    * Bulge里的SFR在过去1Gyr内有明显的提高; 这些中等年龄的恒星可能来自久期演化产生的恒星形成的贡献
 
 
 #### [Multifractality Signatures in Quasars Time Series. I. 3C 273](https://arxiv.org/abs/1805.07287)
+    * The presence of multifractality in a time series shows different correlations for different time scales as well as intermittent behaviour that cannot be captured by a single scaling exponent.
+    * The Multifractal Detrended Moving Average algorithm (MFDMA) has been used to study the scaling in non-linear, complex and dynamic systems.
 
 
 ----
@@ -740,6 +762,11 @@
 ## May 21:
 
 #### [Characterizing Circumgalactic Gas around Massive Ellipticals at z ~ 0.4 I. Initial Results](https://arxiv.org/abs/1805.07364)
+    - **Important**
+    * COS观测：halo gas around 16 luminous red galaxies (LRGs) at z = 0.21 − 0.55.
+    * 中性氢柱密度普遍不低，160kpc内中值 logN_HI=16.6；平均覆盖比例44%; 100kpc以内为70%.
+    * We find that intermediate ions probed by CIII and SiIII are the most prominent UV metal lines in LRG halos；覆盖率达75%。
+    * The COS-LRG survey shows that massive quiescent halos contain widespread chemically- enriched cool gas and that little distinction between LRG and star-forming halos is found in their H I and C III content.
 
 
 #### [Variable broad lines and outflow in the weak blazar PBC J2333.9-2343](https://arxiv.org/abs/1805.07364)
@@ -747,6 +774,9 @@
     * We have also detected a broad component of the [OIII]λ5007 line, which is blue-shifted and of high velocity, suggesting an origin from a highly disturbed medium, possibly an outflow. 
 
 #### [VIS3COS: I. survey overview and the role of environment and stellar mass on star formation](https://arxiv.org/abs/1805.07371)
+    * We find a decrease in the median star formation rate from low to high-density environments in all bins of stellar mass and a sharp rise of the quenched fraction (from ∼ 10% to ∼ 40 − 60%) of intermediate stellar mass galaxies
+    * The quenched fraction for massive galaxies shows little dependence on environment being constant at ∼ 30 − 40%. 
+    * [OII]发射线等值宽度从低密度到高密度也有一个下降
 
 
 #### [Quantifying the abundance of faint, low-redshift satellite galaxies in the COSMOS survey](https://arxiv.org/abs/1805.07407)
@@ -757,21 +787,34 @@
 
 
 #### [A New Perspective on the Large-Scale Tidal Effect on the Galaxy Luminosity and Morphology](https://arxiv.org/abs/1805.07492)
-
-
-#### [A New Perspective on the Large-Scale Tidal Effect on the Galaxy Luminosity and Morphology](https://arxiv.org/abs/1805.07492)
+    * Study the mean tidal coherence of galaxy environments as a function of intrinsic luminosity determined by the absolute r-band magnitude.
+    * The tidal coherence of a galaxy environment is estimated as the cosine of the angle between two minor eigenvectors of the tidal field smoothed at the scales of 2 and 30 h−1Mpc centered on each of the local galaxies
+    * It is found that the samples containing more luminous wall and field galaxies yield lower mean values of the tidal coherence
+    * The early-type spiral field galaxies show no significant dependence on the tidal coherence, while both of the least and most luminous elliptical wall galaxies are found to dwell in the regions with highest tidal coherence.
 
 
 #### [The ensemble photometric variability of over 10^5 quasars in the Dark Energy Camera Legacy Survey and the Sloan Digital Sky Survey](https://arxiv.org/abs/1805.07747)
+    * SDSS+DeCALS: 15 years of baseline
+    * we use the multi-dimensional parametric fitting to explore the relationships between the quasar variability amplitude and a wide variety of quasar properties, including redshift (positive), bolometric luminosity (negative), rest-frame wavelength (negative), and black hole mass (uncertain).
+    * 光变幅度用一个 power-law 函数描述，指数和红移反相关，和热光度正相关，和波长正相关，和黑洞质量正相关。
+    * A significantly negative correlation between the variability amplitude and the Eddington ratio is found, which may be explained as an effect of accretion disk instability.
 
 
 #### [Classifying galaxy spectra at 0.5<z<1 with self-organizing maps](https://arxiv.org/abs/1805.07845)
-
+    * We trained semi-supervised self-organizing map networks using a set of templates covering the wavelength range from far ultraviolet to near infrared.
+    * The class ordering provided by the one-dimensional self-organizing maps corresponds to an ordering in physical prop- erties, a potentially important feature for the exploration of large datasets.
 
 #### [Explaining changing-look AGN with state transition triggered by rapid mass accretion rate drop](https://arxiv.org/abs/1805.07873)
+    * We suggest that all changing-look AGNs are similarly associated with the state transition at L/LEdd ∼ a few percent.
 
 
 #### [A dynamical mechanism for the origin of nuclear rings](https://arxiv.org/abs/1805.07969)
+    * Our theory is based on shear viscous forces among nested annuli of gas
+    * The fact that gas follows non circular orbits in an external barred potential has profound consequences: instead of driving all the gas to the centre, viscosity creates a trapping region where it is energetically favourable to form a stable ring
+    * We conclude that whether this mechanism for ring formation is relevant for real galaxies ultimately depends on the effective equation of state of the ISM.
 
 
 #### [First gas-phase metallicity gradients of 0.1≲z≲0.8 galaxies with MUSE](https://arxiv.org/abs/1805.08131)
+    * gas-phase metallicity gradients of 84 star-forming galaxies between 0.08 < z < 0.84. 平均的气体金属丰度梯度是negative的，但弥散很大
+    * We notice a slight trend for a more negative metallicity gradient with both increasing stellar mass and increasing star formation rate (SFR). 但可能是选择效应，且不显著
+    * Size小的星系梯度弥散大，Size大的星系几乎没有positive gradient
