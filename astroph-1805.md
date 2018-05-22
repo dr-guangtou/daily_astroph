@@ -675,24 +675,46 @@
 ## May 20:
 
 #### [The Formation of Ultra Diffuse Galaxies in Cored Dark Matter Halos Through Tidal Stripping and Heating](https://arxiv.org/abs/1805.06896)
+    - **Important, Relevant**
+    * A set of satellite galaxies born in ~10^10-10^11 Msun halos, similar to field dwarfs, which suffer a dramatic reduction in surface brightness due to tidal stripping and heating.
+    * We apply a semi-analytic model describing the change in stellar mass and half-light radius of dwarf satellites, occupying either cored or cuspy halos, to cluster subhalos in the Bolshoi simulation.
+    * Galaxies in cored dark-matter halos expand significantly in response to tidal stripping and heating, whereas galaxies in cuspy halos experience limited size evolution. 
 
 
 #### [Cosmological simulations of black hole growth II: how (in)significant are merger events for fuelling nuclear activity?](https://arxiv.org/abs/1805.06902)
 
-
 #### [A Theory for the Variation of Dust Attenuation Laws in Galaxies](https://arxiv.org/abs/1805.06905)
+    - **Important**
+    * 用数值模拟解释消光曲线shape和bump强度的变化：we employ a constant underlying dust extinction law in all cases, and examine how the role of geometry and radiative transfer effects impact the resultant attenuation curves.
+    * The slopes of normalized attenuation laws depend primarily on the complexities of star-dust geometry. Increasing fractions of unobscured young stars flatten normalized curves, while increasing fractions of unobscured old stars steepen curves.
+    * we find dramatic variation in the 2175A ̊ ultraviolet (UV) bump strength, including a subset of curves with little to no bump.
+        - These bump strengths are primarily influenced by the fraction of unobscured O and B stars in our model, with the impact of scattered light having only a secondary effect.
 
 
 #### [Spectroscopic decomposition of the galaxy and halo of the cD galaxy NGC 3311](https://arxiv.org/abs/1805.06913)
+    - **Important, Relevant**
+    * BUDDI decomposition of MUSE datacube 
+    * The bulk of the stars in both the halo and the central galaxy are very old, but the halo is more metal poor and less α-enriched than the galaxy.
 
 
 #### [Morphology of AGN Emission Line Regions in SDSS-IV MaNGA Survey](https://arxiv.org/abs/1805.06916)
+    * In this work, we quantify the morphologies of the narrow-line regions in 308 nearby AGNs from MaNGA galaxies.
+    * We find that a large fraction (81%) of these AGN have bi-conical NLR morphology.
+    * Our inferred opening angle distribution implies a number ratio of type I to type II AGN of 1:1.6–2.3, consistent with other measurements of the type I / type II ratio at low AGN luminosities
+    * Redder mid-IR color (lower effective temperature of dust) corresponds to stronger and narrower photo-ionized bicones.
 
 
 #### [A Mid-IR Selected Changing-Look Quasar and Physical Scenarios for Abrupt AGN Fading](https://arxiv.org/abs/1805.06920)
+    * WISE J1052+1519 is an extreme photometric outlier, fading by more than a factor of two at 3.4 and 4.6μm since 2009
+    * Swift target-of-opportunity observations in 2017 show even stronger fading in the soft X-rays compared to the ROSAT detection of this source in 1995
+    * The broad Hβ emission has vanished and that the quasar has become significantly redder. 
+    * MIR数据不支持是遮挡引起的变化；changes in the innermost regions of the accretion disk that occur on the thermal and heating/cooling front timescales
 
 
 #### [A new physical interpretation of optical and infrared variability in quasars](https://arxiv.org/abs/1805.06921)
+    * Four epochs of spectroscopy of SDSS J110057.70- 005304.5, a quasar at a redshift of z = 0.378 whose UV continuum and broad hydrogen emission lines have faded, and then returned over the past ≈20 years.
+    * Is best explained by dramatic changes in the innermost regions of the accretion disk.
+    * The optical continuum has been rising since mid-2016, leading to a prediction of a rise in hydrogen emission line flux in the next year. Increases in the infrared flux are beginning to follow, delayed by a ∼3 year observed timescale.
 
 
 #### [The impact of assembly bias on the halo occupation in hydrodynamical simulations](https://arxiv.org/abs/1805.06938)
@@ -711,3 +733,45 @@
 
 
 #### [Multifractality Signatures in Quasars Time Series. I. 3C 273](https://arxiv.org/abs/1805.07287)
+
+
+----
+
+## May 21:
+
+#### [Characterizing Circumgalactic Gas around Massive Ellipticals at z ~ 0.4 I. Initial Results](https://arxiv.org/abs/1805.07364)
+
+
+#### [Variable broad lines and outflow in the weak blazar PBC J2333.9-2343](https://arxiv.org/abs/1805.07364)
+    * The source is highly variable at all frequencies, in particular the strongest variations are found in the broad Hα component with a flux increase of 61±4 per cent between 2009 and 2016
+    * We have also detected a broad component of the [OIII]λ5007 line, which is blue-shifted and of high velocity, suggesting an origin from a highly disturbed medium, possibly an outflow. 
+
+#### [VIS3COS: I. survey overview and the role of environment and stellar mass on star formation](https://arxiv.org/abs/1805.07371)
+
+
+#### [Quantifying the abundance of faint, low-redshift satellite galaxies in the COSMOS survey](https://arxiv.org/abs/1805.07407)
+    - **Relevant**
+    * 用简单的 magnitude-size cut 挑选satellite dwarf galxies
+    * estimating the average satellite population around a given sample of nearby bright galaxies, using a combination of size and magnitude cuts (to select low-redshift dwarf galaxies preferentially) and clustering measurements (to estimate the fraction of true satellites in the cut sample). 
+    * The most effective of the size-magnitude cuts considered recover the clustering signal around low-redshift primaries (z < 0.15) with about two-thirds of the signal and 80\%\ of the signal-to-noise ratio obtainable using the full COSMOS photometric redshifts. 
+
+
+#### [A New Perspective on the Large-Scale Tidal Effect on the Galaxy Luminosity and Morphology](https://arxiv.org/abs/1805.07492)
+
+
+#### [A New Perspective on the Large-Scale Tidal Effect on the Galaxy Luminosity and Morphology](https://arxiv.org/abs/1805.07492)
+
+
+#### [The ensemble photometric variability of over 10^5 quasars in the Dark Energy Camera Legacy Survey and the Sloan Digital Sky Survey](https://arxiv.org/abs/1805.07747)
+
+
+#### [Classifying galaxy spectra at 0.5<z<1 with self-organizing maps](https://arxiv.org/abs/1805.07845)
+
+
+#### [Explaining changing-look AGN with state transition triggered by rapid mass accretion rate drop](https://arxiv.org/abs/1805.07873)
+
+
+#### [A dynamical mechanism for the origin of nuclear rings](https://arxiv.org/abs/1805.07969)
+
+
+#### [First gas-phase metallicity gradients of 0.1≲z≲0.8 galaxies with MUSE](https://arxiv.org/abs/1805.08131)
