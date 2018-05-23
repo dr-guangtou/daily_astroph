@@ -818,3 +818,40 @@
     * gas-phase metallicity gradients of 84 star-forming galaxies between 0.08 < z < 0.84. 平均的气体金属丰度梯度是negative的，但弥散很大
     * We notice a slight trend for a more negative metallicity gradient with both increasing stellar mass and increasing star formation rate (SFR). 但可能是选择效应，且不显著
     * Size小的星系梯度弥散大，Size大的星系几乎没有positive gradient
+
+
+----
+
+## May 22:
+
+#### [Stellar Mass Profiles of Quiescent Galaxies in Different Environments at z∼0](https://arxiv.org/abs/1805.08214)
+
+
+#### [Emission from the Ionized Gaseous Halos of Low Redshift Galaxies and Their Neighbors](https://arxiv.org/abs/1805.08217)
+
+
+#### [A catalogue of faint local radio AGN and the properties of their host galaxies](https://arxiv.org/abs/1805.08221)
+
+
+#### ["Direct" Gas-Phase Metallicity in Local Analogs of High-Redshift Galaxies: Empirical Metallicity Calibrations for High-Redshift Star-Forming Galaxies](https://arxiv.org/abs/1805.08224)
+
+
+#### [NOEMA Observations of a Molecular Cloud in the low-metallicity Galaxy Kiso 5639](https://arxiv.org/abs/1805.08253)
+
+
+#### [The rapid growth phase of supermassive black holes](https://arxiv.org/abs/1805.08293)
+
+
+#### [The Origin of Filamentary Star Forming Clouds in Magnetised Galaxies](https://arxiv.org/abs/1805.08509)
+
+
+#### [The first 62 AGN observed with SDSS-IV MaNGA - II: resolved stellar populations](https://arxiv.org/abs/1805.08655)
+
+
+#### [A Galaxy Redshift Survey near HST/COS AGN Sight Lines](https://arxiv.org/abs/1805.08767)
+
+
+#### [Fourier Power Function Shapelets (FPFS) Shear Estimator: Performance on Image Simulations](https://arxiv.org/abs/1805.08514)
+
+
+#### [Fourier Power Function Shapelets (FPFS) Shear Estimator: Performance on Image Simulations](https://arxiv.org/abs/1805.08514)
