@@ -825,33 +825,57 @@
 ## May 22:
 
 #### [Stellar Mass Profiles of Quiescent Galaxies in Different Environments at z∼0](https://arxiv.org/abs/1805.08214)
+    - **Relevant**
+    * stellar mass profiles of 147 isolated quiescent galaxies in very low-density environ- ments (i.e., void regions) in the local Universe
+    * We do not find any isolated quiescent galaxies with log(M∗/M⊙) > 11.2.
+    * At fixed mass, quiescent galaxies in voids have similar central (1 kpc) mass densities (Σ1) and central velocity dispersions (σ1) compared to their counterparts in groups and clusters.
 
 
 #### [Emission from the Ionized Gaseous Halos of Low Redshift Galaxies and Their Neighbors](https://arxiv.org/abs/1805.08217)
+    * We identify an inflection in the radial profile of the Hα+N[II] radial emission profile at a projected radius of ∼ 50 kpc and suggest that beyond this radius the emission from ionized gas in spatially correlated halos dominates the profile.
+    * We also observe that the physical nature of the gaseous halo connects to primary galaxy morphology beyond any relationship to the galaxy’s stellar mass and star formation rate.
 
 
 #### [A catalogue of faint local radio AGN and the properties of their host galaxies](https://arxiv.org/abs/1805.08221)
+    * galaxies that exhibit a significant excess in their radio luminosities, compared to what is expected from the observed levels of star-formation activity in these systems.
+    * We show that these faint AGN make a non-negligible contribution to the radio luminosity function at low luminosities
+    * 典型宿主星系为大质量早型星系，各种环境都有，偏向高密度环境
+    * 即便排除了明亮的AGN，1.4GHz射电光度得到的SFR也要再考虑一下
 
 
 #### ["Direct" Gas-Phase Metallicity in Local Analogs of High-Redshift Galaxies: Empirical Metallicity Calibrations for High-Redshift Star-Forming Galaxies](https://arxiv.org/abs/1805.08224)
+    - **边福彦**
+    * Direct gas-phase oxygen abundance using the well-detected auroral line [O III]λ4363 in the stacked spectra of a sample of local analogs of high-redshift galaxies.
+    * We find significant systematic offsets between the metallicity calibrations for our local analogs of high-redshift galaxies and those derived from the local H II regions and a sample of local reference galaxies
+    * 新的calibration能保证N2和O3N2 indicator给出一致的结果
+    * The different empirical metallicity calibration relations in the local analogs and the SDSS reference galaxies can be shown to be primarily due to the change of ionized ISM conditions.
 
 
 #### [NOEMA Observations of a Molecular Cloud in the low-metallicity Galaxy Kiso 5639](https://arxiv.org/abs/1805.08253)
-
+    * 贫金属矮星系里的一个巨大恒星形成区：This is an enormous concentration of molecular mass at one end of a small galaxy, suggesting a recent accretion.
+    * 分子云性质倒是很正常
+    * If high pressure is associated with the formation of massive clusters, then metal-poor galaxies such as dwarfs in the early universe could have been the hosts of metal-poor globular clusters.
 
 #### [The rapid growth phase of supermassive black holes](https://arxiv.org/abs/1805.08293)
+    * EAGLE模拟：SMBH的高效分线性质量增长发生在 L* 星系里
+    * 质量再小的被SF feedback调控了气体内流；质量更大的被SMBH feedback调控
+    * Major merger play a substantial role in triggering the rapid growth phase of BHs in the low-redshift Universe
 
 
 #### [The Origin of Filamentary Star Forming Clouds in Magnetised Galaxies](https://arxiv.org/abs/1805.08509)
+    * Strong magnetic fields prevent the formation of stars because patches of the interstellar medium are magnetically subcritical.
 
 
 #### [The first 62 AGN observed with SDSS-IV MaNGA - II: resolved stellar populations](https://arxiv.org/abs/1805.08655)
+    * STARLIGHT研究：to study the effects of the active nuclei on the star formation history of the host galaxies.
+    * We find that the fraction of young stellar populations (SP) in high-luminosity AGN is higher in the inner (R ≤ 0.5 Re) regions when compared with the control sample
+    * The most luminous AGN seems to have been triggered by a recent supply of gas that has also triggered recent star formation (t ≤ 40 Myrs) in the central region.
 
 
 #### [A Galaxy Redshift Survey near HST/COS AGN Sight Lines](https://arxiv.org/abs/1805.08767)
+    * For most of these sight lines the design criteria of > 90% completeness over a > 1 Mpc region down to 􏰉 0.1 L∗ luminosities at z ≤ 0.1
 
 
 #### [Fourier Power Function Shapelets (FPFS) Shear Estimator: Performance on Image Simulations](https://arxiv.org/abs/1805.08514)
-
-
-#### [Fourier Power Function Shapelets (FPFS) Shear Estimator: Performance on Image Simulations](https://arxiv.org/abs/1805.08514)
+    * Four shapelet modes are calculated from the power function of every galaxy’s Fourier transform after deconvolving the Point Spread Function (PSF) in Fourier space. 从Shapelets得到ellipticity and responsivity
+    * The FPFS method is developed without any assumption on galaxy morphology, nor any approximation for the PSF correction.
