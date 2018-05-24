@@ -879,3 +879,20 @@
 #### [Fourier Power Function Shapelets (FPFS) Shear Estimator: Performance on Image Simulations](https://arxiv.org/abs/1805.08514)
     * Four shapelet modes are calculated from the power function of every galaxy’s Fourier transform after deconvolving the Point Spread Function (PSF) in Fourier space. 从Shapelets得到ellipticity and responsivity
     * The FPFS method is developed without any assumption on galaxy morphology, nor any approximation for the PSF correction.
+
+
+----
+
+## May 22:
+
+#### [Reevaluating Old Stellar Populations](https://arxiv.org/abs/1805.08784)
+
+
+#### [Mass and Light of Abell 370: A Strong and Weak Lensing Analysis](https://arxiv.org/abs/1805.08784)
+
+
+#### [GLACiAR, an open-source python tool for simulations of source recovery and completeness in galaxy surveys](https://arxiv.org/abs/1805.08985)
+
+
+#### [Ultraviolet and optical view of galaxies in the Coma Supercluster](https://arxiv.org/abs/1805.09029)
+
