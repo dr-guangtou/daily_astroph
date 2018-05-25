@@ -883,16 +883,52 @@
 
 ----
 
-## May 22:
+## May 23:
 
 #### [Reevaluating Old Stellar Populations](https://arxiv.org/abs/1805.08784)
+    - **Important** 
+    * Here we reevaluate the properties of old stellar populations using a new set of stellar population synthesis models, designed to incorporate the effects of binary stellar evolution pathways as a function of stellar mass and age.
+    * We find that single-aged stellar population models incorporating binary stars, as well as new stellar evolution and atmosphere models, can reproduce the colours and spectral indices observed in both globular clusters and quiescent galaxies.
 
 
 #### [Mass and Light of Abell 370: A Strong and Weak Lensing Analysis](https://arxiv.org/abs/1805.08784)
+    * We combine constraints from a catalog of 1344 weakly lensed galaxies and 39 multiply-imaged sources comprised of 114 multiple images
+    * In an effort to study how our total projected mass distribution traces light, we measure the stellar mass density distribution using Spitzer/Infrared Array Camera imaging. Comparing our total mass density to our stellar mass density in a radius of 0.3 Mpc, we find a mean projected stellar to total mass ratio of ⟨f ∗⟩ = 0.011 ± 0.003 (stat.)
 
 
 #### [GLACiAR, an open-source python tool for simulations of source recovery and completeness in galaxy surveys](https://arxiv.org/abs/1805.08985)
+    * In this paper we present GLACiAR, an open python tool available on GitHub to estimate the completeness and selection functions in galaxy surveys.
+    * The code generates artificial galaxies that follow S ́ersic profiles with different indexes and with customizable size, redshift and spectral energy distribution properties, adds them to input images, and measures the recovery rate.
 
 
 #### [Ultraviolet and optical view of galaxies in the Coma Supercluster](https://arxiv.org/abs/1805.09029)
+    * We identify the different components of the cosmic-web: large-scale filaments and voids using Discrete Persistent Structures Extractor, and groups and clusters using Hierarchical Density-based spatial clustering of applications with noise
+    * We find that in the Coma supercluster the median emission in Hα inclines, while the g − r and FUV − NUV colours of galaxies become bluer moving further away from the spine of the filaments out to a radius of ∼ 1 Mpc.
 
+
+----
+
+## May 24:
+
+#### [Cooler and smoother -- the impact of cosmic rays on the phase structure of galactic outflows](https://arxiv.org/abs/1805.09333)
+
+
+#### [Formation of a Malin 1 analogue in IllustrisTNG by stimulated accretion](https://arxiv.org/abs/1805.09341)
+
+
+#### [A Submillimeter Perspective on the GOODS Fields (SUPER GOODS). III. A Large Sample of ALMA Sources in the GOODS-S](https://arxiv.org/abs/1805.09424)
+
+
+#### [The intrinsic three-dimensional shape of galactic bars](https://arxiv.org/abs/1805.09481)
+
+
+#### [Angular momentum of dwarf galaxies](https://arxiv.org/abs/1805.09735)
+
+
+#### [Merger driven star-formation activity in Cl J1449+0856 at z=1.99 as seen by ALMA and JVLA](https://arxiv.org/abs/1805.09789)
+
+
+#### [Simulated Analogs of Merging Galaxy Clusters Constrain the Viewing Angle](https://arxiv.org/abs/1805.09375)
+
+
+#### [Optical Substructure and BCG Offsets of Sunyaev-Zel'dovich and X-ray Selected Galaxy Clusters](https://arxiv.org/abs/1805.09631)
