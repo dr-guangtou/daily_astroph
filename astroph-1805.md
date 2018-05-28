@@ -932,3 +932,31 @@
 
 
 #### [Optical Substructure and BCG Offsets of Sunyaev-Zel'dovich and X-ray Selected Galaxy Clusters](https://arxiv.org/abs/1805.09631)
+
+
+----
+
+## May 27:
+
+#### [The Interstellar Medium Properties of Heavily Reddened Quasars & Companions at z~2.5 with ALMA & JVLA](https://arxiv.org/abs/1805.09825)
+
+
+#### [RELICS: A Strong Lens Model for SPT-CLJ0615-5746, a z=0.972 Cluster](https://arxiv.org/abs/1805.09834)
+
+
+#### [A cosmic dance at z~3: Detecting the host galaxies of the dual AGN system LBQS0302-0019 and Jil with HAWK-I+GRAAL](https://arxiv.org/abs/1805.09845)
+
+
+#### [The VIMOS Public Extragalactic Redshift Survey (VIPERS). The complexity of galaxy populations at 0.4< z<1.3 revealed with unsupervised machine-learning algorithms](https://arxiv.org/abs/1805.09904)
+
+
+#### [The VIMOS Public Extragalactic Redshift Survey (VIPERS). Unsupervised classification with photometric redshifts: a method to accurately classify large galaxy samples without spectroscopic information](https://arxiv.org/abs/1805.09905)
+
+
+#### [Star Formation Rate Distribution in the Galaxy NGC 1232](https://arxiv.org/abs/1805.09911)
+
+
+#### [Warm Molecular Hydrogen in Nearby, Luminous Infrared Galaxies](https://arxiv.org/abs/1805.09926)
+
+
+#### [The Stellar Halo of the Spiral Galaxy NGC 1560](https://arxiv.org/abs/1805.10056)
