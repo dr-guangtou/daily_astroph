@@ -960,3 +960,31 @@
 
 
 #### [The Stellar Halo of the Spiral Galaxy NGC 1560](https://arxiv.org/abs/1805.10056)
+
+
+----
+
+## May 28:
+
+#### [Similar Scaling Relations for the Gas Content of Galaxies across Environments to z ~ 3.5](https://arxiv.org/abs/1805.10291)
+
+
+#### [The formation of extremely diffuse galaxy cores by merging supermassive black holes](https://arxiv.org/abs/1805.10295)
+
+
+#### [The Brightest Galaxies in the Dark Ages: Galaxies' Dust Continuum Emission During the Reionization Era](https://arxiv.org/abs/1805.10301)
+
+
+#### [New database for a sample of optically bright lensed quasars in the northern hemisphere](https://arxiv.org/abs/1805.10336)
+
+
+#### [The Effect of AGN on the Global HI Content of Isolated Low-Mass Galaxies](https://arxiv.org/abs/1805.10874)
+
+
+#### [Impact of filaments on galaxy formation in their residing dark matter haloes](https://arxiv.org/abs/1805.11067)
+
+
+#### [Using transfer learning to detect galaxy mergers](https://arxiv.org/abs/1805.10289)
+
+
+#### [Using transfer learning to detect galaxy mergers](https://arxiv.org/abs/1805.10289)
