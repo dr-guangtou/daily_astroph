@@ -987,4 +987,45 @@
 #### [Using transfer learning to detect galaxy mergers](https://arxiv.org/abs/1805.10289)
 
 
-#### [Using transfer learning to detect galaxy mergers](https://arxiv.org/abs/1805.10289)
+----
+
+## May 29:
+
+#### [The art of modeling CO, [CI], and [CII] in cosmological galaxy formation models](https://arxiv.org/abs/1805.11093)
+
+
+#### [Quasar Lenses in the South: searches over the DES public footprint](https://arxiv.org/abs/1805.11103)
+
+
+#### [Modelling of integrated-light spectra from the optical to the near-infrared: the globular cluster G280 in M31](https://arxiv.org/abs/1805.11396)
+
+
+#### [The strong correlation between post-starburst fraction and environment](https://arxiv.org/abs/1805.11475)
+
+
+#### [The Arecibo Legacy Fast ALFA Survey: The ALFALFA Extragalactic HI Source Catalog](https://arxiv.org/abs/1805.11499)
+
+
+#### [Molecular gas in the northern nucleus of Mrk273: Physical and chemical properties of the disk and its outflow](https://arxiv.org/abs/1805.11582)
+
+
+----
+
+## May 30:
+
+#### [Confirmation of double peaked Lyman-alpha emission at z=6.593: Witnessing a galaxy directly contributing to the reionisation of the Universe](https://arxiv.org/abs/1805.11621)
+
+
+#### [Bootes III is a disrupting dwarf galaxy associated with the Styx stellar stream](https://arxiv.org/abs/1805.11624)
+
+
+#### [Discovery of a Molecular Collision Front in Interacting Galaxies NGC 4567/4568 with ALMA](https://arxiv.org/abs/1805.11630)
+
+
+#### [Resolved Star Formation Efficiency in the Antennae Galaxies](https://arxiv.org/abs/1805.12039)
+
+
+#### [KiDS-450: Enhancing cosmic shear with clipping transformations](https://arxiv.org/abs/1805.12084)
+
+
+#### [Radio Galaxy Zoo: ClaRAN - A Deep Learning Classifier for Radio Morphologies](https://arxiv.org/abs/1805.12008)
