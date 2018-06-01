@@ -1029,3 +1029,53 @@
 
 
 #### [Radio Galaxy Zoo: ClaRAN - A Deep Learning Classifier for Radio Morphologies](https://arxiv.org/abs/1805.12008)
+
+
+----
+
+## May 31:
+
+#### [The gas-phase metallicities of star-forming galaxies in aperture-matched SDSS samples follow potential rather than mass or average surface density](https://arxiv.org/abs/1805.12131)
+
+
+#### [Why Post-Starburst Galaxies are Now Quiescent](https://arxiv.org/abs/1805.12132)
+
+
+#### [The STRong lensing Insights into the Dark Energy Survey (STRIDES) 2016 follow-up campaign. II. New quasar lenses from double component fitting](https://arxiv.org/abs/1805.12151)
+
+
+#### [Star-formation rates of cluster galaxies: nature vs nurture](https://arxiv.org/abs/1805.12175)
+
+
+#### [The origin of kinematically distinct cores and misaligned gas discs in galaxies from cosmological simulations](https://arxiv.org/abs/1805.12271)
+
+
+#### [Blooming Trees: Substructures and Surrounding Groups of Galaxy Clusters](https://arxiv.org/abs/1805.12306)
+
+
+#### [The evolution of galaxy shapes in CANDELS: from prolate to oblate](https://arxiv.org/abs/1805.12331)
+
+
+#### [Dependence of optical Active Galactic Nuclei identification on stellar population models](https://arxiv.org/abs/1805.12373)
+
+
+#### [KiDS-SQuaD: The KiDS Strongly lensed Quasar Detection project](https://arxiv.org/abs/1805.12436)
+
+
+#### [The stellar population and initial mass function of NGC 1399 with MUSE](https://arxiv.org/abs/1805.12551)
+
+
+#### [The many flavours of photometric redshifts](https://arxiv.org/abs/1805.12574)
+
+
+#### [The relative impact of baryons and cluster shape on weak lensing mass estimates of galaxy clusters](https://arxiv.org/abs/1805.12186)
+
+
+#### [Prospects for Determining the Mass Distributions of Galaxy Clusters on Large Scales Using Weak Gravitational Lensing](https://arxiv.org/abs/1805.12226)
+
+
+#### [A long hard-X-ray look at the dual active galactic nuclei of M51 with NuSTAR](https://arxiv.org/abs/1805.12140)
+
+
+#### [Tracking the Iron Kα line and the Ultra Fast Outflow in NGC 2992 at different accretion states](https://arxiv.org/abs/1805.12149)
+
