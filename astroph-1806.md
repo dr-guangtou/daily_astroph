@@ -59,4 +59,39 @@
 #### [Constraints on the Chemical Enrichment History of the Perseus Cluster of Galaxies from High-Resolution X-ray Spectroscopy](https://arxiv.org/abs/1806.00932)
 
 
-#### [Constraints on the Chemical Enrichment History of the Perseus Cluster of Galaxies from High-Resolution X-ray Spectroscopy](https://arxiv.org/abs/1806.00932)
+
+----
+
+## June 4:
+
+#### [Stellar populations dominated by massive stars in dusty starburst galaxies across cosmic time](https://arxiv.org/abs/1806.01280)
+
+
+#### [Introducing RomulusC: A Cosmological Simulation of a Galaxy Cluster with Unprecedented Resolution](https://arxiv.org/abs/1806.01282)
+
+
+#### [The star-formation law at GMC scales in M33, the Triangulum Galaxy](https://arxiv.org/abs/1806.01293)
+
+
+#### [The first sample of spectroscopically confirmed ultra-compact massive galaxies in the Kilo Degree Survey](https://arxiv.org/abs/1806.01307)
+
+
+#### [What powers Hyperluminous Infrared galaxies at z~1-2?](https://arxiv.org/abs/1806.01336)
+
+
+#### [The different growth pathways of Brightest Cluster Galaxies and the Intra-Cluster Light](https://arxiv.org/abs/1806.01480)
+
+
+#### [Evolution of Starburst Galaxies in the Illustris Simulation](https://arxiv.org/abs/1806.01628)
+
+
+#### [ALMA observations of a metal-rich damped Lyα absorber at z = 2.5832: evidence for strong galactic winds in a galaxy group](https://arxiv.org/abs/1806.01715)
+
+
+#### [The Lyman Continuum Escape Survey: Ionizing Radiation from [O III]-Strong Sources at a Redshift of 3.1](https://arxiv.org/abs/1806.01741)
+
+
+#### [A Two-Dimensional Spectroscopic Study of Emission Line Galaxies in the Faint Infrared Grism Survey (FIGS) I: Detection Method and Catalog](https://arxiv.org/abs/1806.01787)
+
+
+#### [Molecular gas in two companion cluster galaxies at z=1.2](https://arxiv.org/abs/1806.01826)
