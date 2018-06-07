@@ -62,36 +62,99 @@
 
 ----
 
-## June 4:
+## June 5:
 
 #### [Stellar populations dominated by massive stars in dusty starburst galaxies across cosmic time](https://arxiv.org/abs/1806.01280)
+    - **Important, Relevant, Zhiyu Zhang**
+    * 13C/18O ratio as tracer of high-mass end of IMF 
 
 
 #### [Introducing RomulusC: A Cosmological Simulation of a Galaxy Cluster with Unprecedented Resolution](https://arxiv.org/abs/1806.01282)
+    - **Relevant**
+    * The highest resolution cosmological hydro- dynamic simulation of a galaxy cluster run to date. RomulusC, a zoom-in simulation of a halo with z = 0 mass 10^14 Msun
+    * ICM，BCG的恒星质量与观测一致
+    * We find that non-BCG cluster member galaxies are substantially quenched compared to the field down to dwarf galaxy masses and, at low masses, quenching is seen to have no dependence on mass or distance from cluster center
 
 
 #### [The star-formation law at GMC scales in M33, the Triangulum Galaxy](https://arxiv.org/abs/1806.01293)
+    * 100 pc尺度上per pixel SFR研究，SCUBA-2, Herschel, Spitzer
+    * At kpc scales, we find that a linear Schmidt-type power law index is suitable for molecular gas, but the index appears to be much higher with total gas, and gas from dust.
 
 
 #### [The first sample of spectroscopically confirmed ultra-compact massive galaxies in the Kilo Degree Survey](https://arxiv.org/abs/1806.01307)
+    - **Relevant, Interesting**
+    * M* > 8 x 10^10 Msun; Re < 1.5 kpc
+    * We confirmed, as bona fide UCMGs, 19 out of the 28 candidates with new redshifts, whereas a further 46 UCMG candidates are confirmed with literature redshifts (35 at z < 0.5).
+    * Selection:
+        - MAG_AUTO; MAG_GAaP; 2-Moffat PSF; Sersic modelling; Circulated Re 
+        - Stellar mass: BC03 + Chabrier IMF; with Sersic flux correction
+        - 有个与HSC重合
+        - 有一些的Sersic index很高; axis ratio small
 
 
 #### [What powers Hyperluminous Infrared galaxies at z~1-2?](https://arxiv.org/abs/1806.01336)
+    * examining the behaviour of the infrared AGN luminosity function in relation to the infrared galaxy luminosity function.
+    * 在L_IR = 10^13 Lsun一下，两个LF非常不一样，但在高LIR端基本一致。。。作者以此认为HyLIRGS的供能主要来自AGN
 
 
 #### [The different growth pathways of Brightest Cluster Galaxies and the Intra-Cluster Light](https://arxiv.org/abs/1806.01480)
+    - **Relevant**
+    * 用SAM看ICL的起源：(1) one considers both mergers and stellar stripping (named STANDARD model), and one considers only mergers (named MERG- ERS model).
+    * BCG和ICL在z=0.7-0.8以下是共同演化的
+    * ICL主要来自大量小质量比的盘星系的stripping，主要在150 kpc以内
+    * After z ∼ 0.4 − 0.5, the ICL, instead, grows very fast and its contribution keeps increasing down to the present time.
 
 
 #### [Evolution of Starburst Galaxies in the Illustris Simulation](https://arxiv.org/abs/1806.01628)
+    * Make use of the Illustris simulation to test how different triggering mechanisms can effect starburst events.
+    * From Illustris, we select 196 starburst galaxies at z = 0.15 and split them into post-merger and pre-merger/harassment driven starburst samples. 
+    * We also find that pre-merger/harassment starbursts are redder than post-merger starbursts, this could be driven by environmental effects
 
 
 #### [ALMA observations of a metal-rich damped Lyα absorber at z = 2.5832: evidence for strong galactic winds in a galaxy group](https://arxiv.org/abs/1806.01715)
+    * Search for CO(3-2) emission from the galaxy counterpart of a high-metallicity Damped Lyα Absorber (DLA) at z = 2.5832 towards the quasar Q0918+1636: 没有探测到
+    * Instead we detect CO(3-2) emission from another intensely star-forming galaxy at an impact parameter of 117 kpc from the line-of-sight
+        - DLA中有一个component和这个系统速度符合，可能来自外流?
 
 
 #### [The Lyman Continuum Escape Survey: Ionizing Radiation from [O III]-Strong Sources at a Redshift of 3.1](https://arxiv.org/abs/1806.01741)
+    * 在z=3.1的LAE中找continuum：For 61 sources, of which 77% are spectroscopically confirmed and 53 have measures of [O iii] emission, we detect Lyman continuum leakage in 30%, a rate significantly higher than in continuum-selected Lyman break galaxies.
+    * We find escape fractions of 2 to 82% for individual objects, and infer an average 20% escape fraction by fitting composite SEDs for our detected samples. 
+    * 但是没有individual detection的那些，stacking后也没有明显的探测
 
 
 #### [A Two-Dimensional Spectroscopic Study of Emission Line Galaxies in the Faint Infrared Grism Survey (FIGS) I: Detection Method and Catalog](https://arxiv.org/abs/1806.01787)
+    * EMission-line 2-Dimensional (EM2D), to the near-infrared G102 grism obser- vations obtained with the Wide-Field Camera 3 (WFC3)
+    * 得到一个有空间分辨的SFR测量的SF星系的样本
+    * The advantage of 2D emission line measurements includes significant improvement of galaxy redshift measurements, approaching the level of accuracy seen in high spectral resolution data 
 
 
 #### [Molecular gas in two companion cluster galaxies at z=1.2](https://arxiv.org/abs/1806.01826)
+    * 观测z=1.2星系团里两个挨得很近的SF星系的气体，研究环境的影响: NOEMA CO(2-1)
+    * The two target galaxies have molecular gas mass and depletion time that are marginally compatible with, but smaller than those of main sequence field galaxies, suggesting that the molecular gas has not been refueled enough.
+
+
+----
+
+## June 6:
+
+#### [HDUV: The Hubble Deep UV Legacy Survey](https://arxiv.org/abs/1806.01853)
+
+
+#### [New evidence for the dusty wind model: Polar dust and a hot core in the type-1 Seyfert ESO323-G77](https://arxiv.org/abs/1806.01863)
+
+
+#### [The MUSE Hubble Ultra Deep Field Survey: XII. MgII emission and absorption in star-forming galaxies](https://arxiv.org/abs/1806.01864)
+
+
+#### [A resolved warm/dense gas Schmidt-Kennicutt relationship in a binary HyLIRG at z=2.41](https://arxiv.org/abs/1806.01951)
+
+
+#### [Spectroscopic Confirmation of Five Galaxy Clusters at z > 1.25 in the 2500 sq. deg. SPT-SZ Survey](https://arxiv.org/abs/1806.01962)
+
+
+#### [Radio jets and gamma-ray emission in radio-silent narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/1806.02058)
+    * We have detected six narrow-line Seyfert 1 (NLS1) galaxies at 37 GHz that were previously classified as radio silent and two that were classified as radio quiet.
+    * 强度更像是相对论性喷流
+
+#### [Spectroscopic Confirmation of Five Galaxy Clusters at z > 1.25 in the 2500 sq. deg. SPT-SZ Survey](https://arxiv.org/abs/1806.01962)
