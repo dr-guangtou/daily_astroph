@@ -139,22 +139,36 @@
 ## June 6:
 
 #### [HDUV: The Hubble Deep UV Legacy Survey](https://arxiv.org/abs/1806.01853)
+    * F275W, F336W: 100 arcmin^2
+    * By reaching depths of 27.5-28.0 mag (5σ in 0.4 apertures), these are the deepest high-resolution UV data over such a large area taken to date.
+    * (1) provide a complete sample of faint star-forming galaxies at z ∼ 1 − 3, (2) constrain the ionizing photon escape fraction from galaxies at z ∼ 2 − 3, and (3) track the build-up of bulges and the disappearance of clumpy disk galaxies through reliable internal stellar population properties at sub-kpc resolution out to z ∼ 3.
 
 
 #### [New evidence for the dusty wind model: Polar dust and a hot core in the type-1 Seyfert ESO323-G77](https://arxiv.org/abs/1806.01863)
+    * Seyfert的warm dust发射很多来自polar区域，而不是dust torus
+    * MIDI偏振观测：Approximately 65% of the correlated flux between 8 and 13μm is unresolved at all available baseline lengths. The remaining 35% is partially resolved and shows angular structure.
+    * dust emission of this object is also polar extended: CAT3D-WIND模型
 
 
 #### [The MUSE Hubble Ultra Deep Field Survey: XII. MgII emission and absorption in star-forming galaxies](https://arxiv.org/abs/1806.01864)
+    * 0.7 <z <2.3的381个星系：MgII 2796, 2803双线可以从吸收到发射
+    * Emission-line ratios observed in galaxies with Mg ii in emission are consistent with nebular emission from Hii regions.
+    * Galaxies with Mg ii in emission have lower stellar masses, smaller sizes, bluer spectral slopes and lower optical depth than those with absorption. 
+    * 有MgII吸收的星系中dust和中性气体的比例更高; 和质量相关也挺明显，大质量的多吸收
 
 
 #### [A resolved warm/dense gas Schmidt-Kennicutt relationship in a binary HyLIRG at z=2.41](https://arxiv.org/abs/1806.01951)
+    * HATLAS J084933.4+021443, a z = 2.41 binary HyLIRG with at least two additional
+luminous companion galaxies
+    * All four component galaxies are spatially (∼0 . 3 or 2.5 kpc) resolved in CO J:7–6, [C i] 2–1, H O and the millimetre (mm) to 2 sub-mm continuum.
+    *  Both W and T follow a resolved ‘warm/dense gas’ SK relationship with power law n~1.7, significantly steeper than n=1 relation for cold molecular gas in nearby SF galaxies.
 
 
 #### [Spectroscopic Confirmation of Five Galaxy Clusters at z > 1.25 in the 2500 sq. deg. SPT-SZ Survey](https://arxiv.org/abs/1806.01962)
+    * SPT-SZ巡天，spectroscopic confirmation of five galaxy clusters at 1.25 < z < 1.5
+    * velocity dispersions yield dynamical cluster masses in good agreement with SZ masses for these clusters.
 
 
 #### [Radio jets and gamma-ray emission in radio-silent narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/1806.02058)
     * We have detected six narrow-line Seyfert 1 (NLS1) galaxies at 37 GHz that were previously classified as radio silent and two that were classified as radio quiet.
     * 强度更像是相对论性喷流
-
-#### [Spectroscopic Confirmation of Five Galaxy Clusters at z > 1.25 in the 2500 sq. deg. SPT-SZ Survey](https://arxiv.org/abs/1806.01962)
