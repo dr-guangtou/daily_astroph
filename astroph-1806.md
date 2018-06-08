@@ -202,21 +202,36 @@ luminous companion galaxies
 ## June 7:
 
 #### [Modeling the atomic-to-molecular transition in cosmological simulations of galaxy formation](https://arxiv.org/abs/1806.02341)
+    * 宇宙学模拟里面atom to molecular的转化都是post process的，这篇文章提供了一个改进
+    * we propose to compute all surface quantities in face-on projections and perform the modeling in two dimensions.
+    * Appendix contains interesting technical details
 
 
 #### [The limited role of large-scale environment compared with optical AGN in nearby isolated elliptical galaxies](https://arxiv.org/abs/1806.02368)
-
+    * Here we study the role of large-scale environment in 573 isolated elliptical galaxies out to z = 0.08.
+    * We find that 80% of galaxies at lower densities (QLSS ≤ -5.0) correspond to ‘red and dead’ elliptical galaxies
+    * We have identified 33 blue, star-forming isolated ellipticals, which are in low density environments (median QLSS∼ -6.0). A half of them are star-forming nuclei, whereas 92% of the isolated elliptical galaxies with emission lines corresponds to AGN or transition/composite objects in the BPT diagram.
+        - Lacerna et al. 2016 有几个质量比较大的isolated elliptical galaxies, 可以看一下
 
 #### [The mass and environmental dependence on the secular processes of AGN in terms of morphology, colour, and specific star-formation rate](https://arxiv.org/abs/1806.02369)
+    * we found an increment on the fraction of SFN with denser LSS in low-mass star forming and red isolated galaxies.
+    * Regarding AGN, we find a clear increment of the fraction of AGN with denser environment in quenched and red isolated galaxies, independently of the stellar mass.
 
 
 #### [The bivariate luminosity and mass functions of the local HRS galaxy sample. The stellar, dust, gas mass functions](https://arxiv.org/abs/1806.02567)
+    * Herschel ⋆ Reference Survey (HRS)
+    * Our statistical analysis allows us to characterise the HRS, that, although non homogeneously selected and partially biased towards low IR luminosities, may be considered as representative of the local LT galaxy population.
 
 
 #### [Evidence for the existence of abundant intracluster light at z= 1.24](https://arxiv.org/abs/1806.02687)
-
+    - **Relevant**
+    * We report measurements of the spatial distribution, color, and quantity of diffuse intracluster stars for a massive galaxy cluster at a redshift of 1.24.
+    * Our detection of the significant ICL fraction in this unprecedentedly high redshift regime strongly indicates that intracluster stars, contrary to most previous studies, might have formed during a short period and early in the history of the Virgo-like massive cluster formation and might be concurrent with the formation of the brightest cluster galaxy.
 
 #### [The complex jet- and bar-perturbed kinematics in NGC 3393 as revealed with ALMA and GEMINI-GMOS/IFU](https://arxiv.org/abs/1806.02756)
-
-
-#### [The complex jet- and bar-perturbed kinematics in NGC 3393 as revealed with ALMA and GEMINI-GMOS/IFU](https://arxiv.org/abs/1806.02756)
+    * NGC 3393, a nearby Seyfert 2 galaxy with nuclear radio jets, large-scale and nuclear bars, and a posited secondary super massive black hole, provides an interesting laboratory to test the physics of inflows and outflows.
+    * 电离气体有三个主要成分：
+        - A narrow (σ < 115 km/s) component present in the complete FOV, which is consistent with rotation in the galaxy disk. 
+        - A broad (σ > 115 km/s) redshifted component, detected near the NE and SW radio lobes; which we interpret as a radio jet driven outflow. 
+        - And a broad (σ > 115 km/s) blueshifted component that shows high velocities in a region perpendicular to the radio jet axis; we interpret this as an equatorial outflow.
+    * The highly disturbed kinematics of the inner region can be explained by perturbations induced by the nuclear bar and interactions with the large scale bar.
