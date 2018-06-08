@@ -39,24 +39,48 @@
 
 
 #### [Photometric identification and MMT spectroscopy of new extremely metal-poor galaxies: towards a better understanding of young stellar populations at low metallicity](https://arxiv.org/abs/1806.00551)
+    - **Relevant**
+    * 100 Mpc内的极贫金属星系的大质量恒星比例和高红移显著不一样
+    * 新的 selection方法：We apply our technique to uncover candidate XMPs in SDSS imaging at magnitudes 16 < i < 23
+    * HeII 4686线里可能有双星贡献的证据: we find that the equivalent width of the He ii λ4686 high-ionization emission line does not scale with that of Hβ in our sample, suggesting that binary evolution or other processes on > 10 Myr timescales contribute substantially
+    * Selection: g-r v.s. r-i color，与[OIII]选择显著不一样
 
 
 #### [Mass Modeling of Frontier Fields Cluster MACS J1149.5+2223 Using Strong and Weak Lensing](https://arxiv.org/abs/1806.00698)
+    - **Relevant**
+    * We create total mass maps using 38 multiple images (13 sources) and 608 weak lensing galaxies, as well as 100 multiple images of 31 star-forming regions in the galaxy that hosts Supernova Refsdal.
+    * the stellar mass fraction for this cluster peaks on the primary BCG
+    * finding that MACS1149 has a higher stellar mass fraction than these other clusters, but a star formation efficiency typical of massive clusters.
 
 
 #### [Widespread QSO-driven outflows in the early Universe](https://arxiv.org/abs/1806.00786)
+    * Stacking analysis of a sample of 48 QSOs at 4.5 < z < 7.1 detected by ALMA in the [CII]λ158μm line to investigate the presence and the properties of massive, cold outflows traced by broad [CII] wings.
+    * The luminosity of the broad [CII] emission increases with LAGN, while it does not significantly depend on the SFR of the host galaxy
+    * Extend to 2kpc; outflow rate is ~100-300 Msun/yr
 
 
 #### [Discovery of the kinematic alignment of early-type galaxies in the Virgo cluster](https://arxiv.org/abs/1806.00886)
+    - **Relevant**
+    * we discovered that 57 Virgo early-type galaxies tend to prefer the specific PAkin values of 20◦ and 100◦, suggesting that they are kinematically aligned with each other.
+    * They are further associated with the directions of the two distinct axes of the Virgo cluster extending east-west and north-south, strongly suggesting that the two distinct axes are the filamentary structures within the cluster as a trace of infall patterns of galaxies.
 
 
 #### [Puzzling Lyman-alpha line profiles in green pea galaxies](https://arxiv.org/abs/1806.01027)
+    * 很多Green pea的Lya线都是双峰的
+    * We select a sample of twelve archival green peas and we apply numerical radiative transfer models to reproduce the observed Lyα spectral profiles, using the geometry of expanding, homogeneous spherical shells. 
+    * 但constrained shell models解释不了双峰谱线
 
 
 #### [Discovery of a radio galaxy at z = 5.72](https://arxiv.org/abs/1806.01191)
+    * discovery of the most distant radio galaxy to date, TGSS1530 at a redshift of z = 5.72 close to the presumed end of the Epoch of Reionisation.
+    * TGSS 150MHz, with ultra-steep spectral index; compact in 1.4 GHz
+    * TGSS1530 is comparable to ‘non-radio’ Lyman alpha emitters (LAEs) at a similar redshift
 
 
 #### [Constraints on the Chemical Enrichment History of the Perseus Cluster of Galaxies from High-Resolution X-ray Spectroscopy](https://arxiv.org/abs/1806.00932)
+    * O, Ne, Mg, Si, S, Ar, Ca, Cr, Mn, Ni, Fe丰度测量
+    * A simple model in which the enrichment pattern in the Perseus Cluster core and the proto-solar nebula are identical gives a surprisingly good description of the high-resolution X-ray spectroscopy results
+    * However, this pattern is challenging to reproduce with linear combinations of existing supernova nucleosynthesis calculations
 
 
 
@@ -172,3 +196,27 @@ luminous companion galaxies
 #### [Radio jets and gamma-ray emission in radio-silent narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/1806.02058)
     * We have detected six narrow-line Seyfert 1 (NLS1) galaxies at 37 GHz that were previously classified as radio silent and two that were classified as radio quiet.
     * 强度更像是相对论性喷流
+
+----
+
+## June 7:
+
+#### [Modeling the atomic-to-molecular transition in cosmological simulations of galaxy formation](https://arxiv.org/abs/1806.02341)
+
+
+#### [The limited role of large-scale environment compared with optical AGN in nearby isolated elliptical galaxies](https://arxiv.org/abs/1806.02368)
+
+
+#### [The mass and environmental dependence on the secular processes of AGN in terms of morphology, colour, and specific star-formation rate](https://arxiv.org/abs/1806.02369)
+
+
+#### [The bivariate luminosity and mass functions of the local HRS galaxy sample. The stellar, dust, gas mass functions](https://arxiv.org/abs/1806.02567)
+
+
+#### [Evidence for the existence of abundant intracluster light at z= 1.24](https://arxiv.org/abs/1806.02687)
+
+
+#### [The complex jet- and bar-perturbed kinematics in NGC 3393 as revealed with ALMA and GEMINI-GMOS/IFU](https://arxiv.org/abs/1806.02756)
+
+
+#### [The complex jet- and bar-perturbed kinematics in NGC 3393 as revealed with ALMA and GEMINI-GMOS/IFU](https://arxiv.org/abs/1806.02756)
