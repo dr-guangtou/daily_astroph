@@ -235,3 +235,10 @@ luminous companion galaxies
         - A broad (σ > 115 km/s) redshifted component, detected near the NE and SW radio lobes; which we interpret as a radio jet driven outflow. 
         - And a broad (σ > 115 km/s) blueshifted component that shows high velocities in a region perpendicular to the radio jet axis; we interpret this as an equatorial outflow.
     * The highly disturbed kinematics of the inner region can be explained by perturbations induced by the nuclear bar and interactions with the large scale bar.
+
+
+----
+
+## June 10:
+
+#### [Modeling the atomic-to-molecular transition in cosmological simulations of galaxy formation](https://arxiv.org/abs/1806.02341)
