@@ -290,18 +290,39 @@ luminous companion galaxies
 
 
 #### [Widespread star formation inside galactic outflows](https://arxiv.org/abs/1806.03301)
+    * MaNGA: We find that star formation occurs inside at least half of the galactic outflows in our sample; 但因为AGN和Shock，不容易通过发射线诊断出来
+    * Star formation in outflows can also potentially contribute to establishing the scaling relations between black holes and their host spheroids.  
+    * 外流里的SN feedback可以对CGM和IGM产生化学增丰；young stars ejected on large orbits may also contribute to the reionization of the Universe.
 
 
 #### [Star formation and gas inflows in the OH Megamaser galaxy IRAS03056+2034](https://arxiv.org/abs/1806.03341)
+    * The HST data reveals spiral arms containing knots of emission associated to star forming regions
+    * The emission-line flux distributions reveal a ring of star forming regions with radius of 786 pc centred at the nucleus of the galaxy
+    * The emission-line ratios and radio emission suggest that the gas at the nuclear region is excited by both starburst activity and an active galactic nucleus.
 
 
 #### [The Extremely Luminous Quasar Survey in the SDSS footprint. II. The North Galactic Cap Sample](https://arxiv.org/abs/1806.03374)
+    * Based on a near-infrared/infrared JKW2 color cut, the ELQS selection efficiently uses random forest methods to classify quasars and to estimate photometric redshifts
+    * The presented quasar catalog comprises a total of 270 objects, of which 39 are newly identified in this work with spectroscopy 
+    * A first analysis of the QLF suggests a relatively steep bright end slope of β ≈ −4 for this sample. This result contrasts with previous results in the same redshift range, which find a much flatter slope around β ∼ −2.5,
 
 
 #### [Ultra-dense Broad-line Region Scale Outflow in Highly Reddened Quasar SDSS J145057.28+530007.6](https://arxiv.org/abs/1806.03352)
+    * discovery of highly reddening and hydrogen Balmer and metastable helium broad absorption lines in the quasar SDSS J145057.28+530007.6
+    * the accretion disk is completely obscured
+    * We propose that the ultra-dense outflow gases appear in the vicinity of the surface of the BLR or are located at most 3.12 pc away from the engine.
 
 
 #### [The Infrared Emission and Opening Angle of the Torus in Quasars](https://arxiv.org/abs/1806.03783)
+    - Ming-Yang Zhuang, Luis, Shangguan
+    * We perform detailed decomposition of the infrared (1 − 500 μm) spectral energy distribution of 76 z < 0.5 Palomar-Green quasars, combining photometric data from 2MASS, WISE, and Herschel with Spitzer spectroscopy. 
+    * favor recent torus spectral models that properly treat the different sublimation temperatures of silicates and graphite and consider a polar wind component.
+    * The torus luminosity correlates well with the strength of the ultraviolet/optical continuum and the broad Hβ emission line
+    * The half-opening angle of the torus, a measure of its covering factor, declines with increasing accretion rate until the Eddington ratio reaches ∼ 0.5, above which the trend reverses.
 
 
 #### [Detection of the Far-infrared [O III] and Dust Emission in a Galaxy at Redshift 8.312: Early Metal Enrichment in the Heart of the Reionization Era](https://arxiv.org/abs/1806.04132)
+    - **Important**
+    * We present the Atacama Large Millimeter/submillimeter Array (ALMA) detection of the [Oiii] 88 μm line and dust continuum emission in a Y -dropout Lyman break galaxy (LBG), MACS0416 Y1
+    * This [O iii] detection confirms the LBG with a spectroscopic redshift of z = 8.3118 ± 0.0003
+    * The ultraviolet-to-far IR spectral energy distribution modeling where the [O iii] emissivity model is incorporated suggests the presence of a moderately-evolved stellar component with the stellar mass of Mstar = 5 × 10^9M⊙
