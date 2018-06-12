@@ -242,15 +242,32 @@ luminous companion galaxies
 ## June 10:
 
 #### [Spatially resolved electron density in the Narrow Line Region of z<0.02 radio AGNs](https://arxiv.org/abs/1806.02839)
+    * present electron density maps for a sample of outflowing and non-outflowing Seyfert galaxies at z<0.02
+    * WiFeS观测：We use the ratio of the [Sii]λ6716,6731 emission lines to derive spatially resolved electron densities
+    * We find a spatial correlation between the sites of high star formation and high electron density for targets without an active ionized outflow.  
+    * The correlation between the star forming sites and electron density ceases for targets with an outflow. The density within the outflowing medium is not uniform and shows both low and high density sites
 
 
 #### [Morphology and kinematics of orbital components in CALIFA galaxies across the Hubble sequence](https://arxiv.org/abs/1806.02886)
+    - **Important**
+    * The correlation between the star forming sites and electron density ceases for targets with an outflow. The density within the outflowing medium is not uniform and shows both low and high density sites
+    * We find that: (1) kinematic hotter components are generally more concentrated and rounder than colder components, and (2) all components become more concentrated and thicker/rounder in more massive galaxies;
+    * Sersic n is not a good discriminator between rotating bulges and non-rotating bulges.
+    * Cold和Hot比例和bulge还有disk成分有很好的相关
+    * The warm orbits mainly contribute to disks in low-mass late-type galaxies, and to bulges in high-mass early-type galaxies.
 
 
 #### [The Carnegie-Chicago Hubble Program. IV. The Distances to NGC 4424, NGC 4526, and NGC 4536 via the Tip of the Red Giant Branch](https://arxiv.org/abs/1806.02900)
+    * We present here deep Hubble Space Telescope (HST) ACS/WFC imaging of the resolved stellar populations in the metal- poor halos of the SN Ia host galaxies NGC 4424, NGC 4526, and NGC 4536. 
+    * 把SN Ia和TRGB链接起来
+    * good agreement between our TRGB distances and the available Cepheid distances for NGC4424 and NGC4536, demonstrating consistency between the distance scales currently derived from stars of Population I and II.
 
 
 #### [Galaxy Cluster Mass Reconstruction Project - IV. Understanding the effects of imperfect membership on cluster mass estimation](https://arxiv.org/abs/1806.03199)
+    * We study the impact of membership contamination and incompleteness on cluster mass estimates obtained with 25 commonly used techniques applied to nearly 1000 mock clusters
+    * contaminated or incomplete galaxy samples 对估计质量影响很大
+    * We establish an empirical model quantifying the effect of imperfect membership on cluster mass estimation and discuss its universal and method-dependent features
+    * Imperfect membership thus alters cluster counts determined from spectroscopic surveys
 
 
 ----
@@ -258,9 +275,18 @@ luminous companion galaxies
 ## June 11:
 
 #### [A redshift-independent efficiency model: star formation and stellar masses in dark matter halos at z>4](https://arxiv.org/abs/1806.03299)
+    - **Important**
+    * 实际上是一种empirical modeling：explore the connection between the ultra-violet (UV) luminosity functions (LFs) of high-z galaxies and the distribution of stellar masses and star-formation histories (SFHs) in their host dark matter halos.
+    * 假设SF效率与红移无关; 但与halo 质量相关，通过z=4的UV LF做校准
+    * we find a stellar-to-halo mass relation at z = 4 − 10 that scales with halo mass at Mh < 10^11 M⊙ as M⋆ ∝ Mh2, with a normalization that is higher than the relation inferred at z = 0
 
 
 #### [Clocking the Evolution of Post-Starburst Galaxies: Methods and First Results](https://arxiv.org/abs/1806.03301)
+    - **Important**
+    * Degeneracy between the time elapsed since the starburst ended (post-burst age), the fraction of stellar mass produced in the burst (burst strength), and the burst duration
+    * SED拟合532个Post SB星系：In addition to an old stellar population and a recent starburst, 48% of the galaxies are best fit with a second recent burst.
+    * 低质量星系更容易经历第二次星暴：the fraction of their young stellar mass is more strongly anti-correlated with their total stellar mass.
+    * We discover a significant (4σ) decline, with a 117-230 Myr characteristic depletion time, in the molecular gas to stellar mass fraction with the post-burst age. 作者认为这个不是SF，也不是SN Feedback可以解释的，可能是AGN?
 
 
 #### [Widespread star formation inside galactic outflows](https://arxiv.org/abs/1806.03301)
