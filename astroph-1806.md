@@ -241,4 +241,41 @@ luminous companion galaxies
 
 ## June 10:
 
-#### [Modeling the atomic-to-molecular transition in cosmological simulations of galaxy formation](https://arxiv.org/abs/1806.02341)
+#### [Spatially resolved electron density in the Narrow Line Region of z<0.02 radio AGNs](https://arxiv.org/abs/1806.02839)
+
+
+#### [Morphology and kinematics of orbital components in CALIFA galaxies across the Hubble sequence](https://arxiv.org/abs/1806.02886)
+
+
+#### [The Carnegie-Chicago Hubble Program. IV. The Distances to NGC 4424, NGC 4526, and NGC 4536 via the Tip of the Red Giant Branch](https://arxiv.org/abs/1806.02900)
+
+
+#### [Galaxy Cluster Mass Reconstruction Project - IV. Understanding the effects of imperfect membership on cluster mass estimation](https://arxiv.org/abs/1806.03199)
+
+
+----
+
+## June 11:
+
+#### [A redshift-independent efficiency model: star formation and stellar masses in dark matter halos at z>4](https://arxiv.org/abs/1806.03299)
+
+
+#### [Clocking the Evolution of Post-Starburst Galaxies: Methods and First Results](https://arxiv.org/abs/1806.03301)
+
+
+#### [Widespread star formation inside galactic outflows](https://arxiv.org/abs/1806.03301)
+
+
+#### [Star formation and gas inflows in the OH Megamaser galaxy IRAS03056+2034](https://arxiv.org/abs/1806.03341)
+
+
+#### [The Extremely Luminous Quasar Survey in the SDSS footprint. II. The North Galactic Cap Sample](https://arxiv.org/abs/1806.03374)
+
+
+#### [Ultra-dense Broad-line Region Scale Outflow in Highly Reddened Quasar SDSS J145057.28+530007.6](https://arxiv.org/abs/1806.03352)
+
+
+#### [The Infrared Emission and Opening Angle of the Torus in Quasars](https://arxiv.org/abs/1806.03783)
+
+
+#### [Detection of the Far-infrared [O III] and Dust Emission in a Galaxy at Redshift 8.312: Early Metal Enrichment in the Heart of the Reionization Era](https://arxiv.org/abs/1806.04132)
