@@ -8,9 +8,13 @@
 ## June 3:
 
 #### [The abundance of satellite galaxies in the inner region of ΛCDM Milky Way sized haloes](https://arxiv.org/abs/1806.00041)
+    * investigate the survivability of these model inner satellites in the presence of a central stellar disk with a set of ideal simulations.  Aquarius+GalForm SAM 预测的inner satellites
+    * while the additional disk can completely disrupt some satellites with very close percentres, 60 percent of them could still survive to the present day
+    * Therefore, unless half a dozen satellite galaxies could be discovered within 40 kpc of the MW by future surveys, the deficiency in the inner satellite galaxy population may post a serious challenge to the standard ΛCDM theory.
 
 
 #### [Discovery of OH absorption from a galaxy at z~0.05: implications for large surveys with SKA pathfinders](https://arxiv.org/abs/1806.00172)
+    * first detection of OH absorption in diffuse gas at z > 0, along with another eight strin- gent limits on OH column densities for cold atomic gas in galaxies at 0 < z < 0.4.
 
 
 #### [Gas outflows from the z= 7.54 quasar : predictions from the BlueTides Simulation](https://arxiv.org/abs/1806.00184)
@@ -26,6 +30,9 @@
 
 
 #### [Approximating photo-z PDFs for large surveys](https://arxiv.org/abs/1806.00014)
+    - **Useful, Relevant**
+    * This paper presents qp, a Python package for manipulating parametrizations of 1-dimensional PDFs, as suitable for photo-z PDF compression
+    *  Additionally, we find that quantiles and samples outperform step functions, and we encourage further consideration of these formats for PDF approximation.
 
 
 ----
@@ -326,3 +333,31 @@ luminous companion galaxies
     * We present the Atacama Large Millimeter/submillimeter Array (ALMA) detection of the [Oiii] 88 μm line and dust continuum emission in a Y -dropout Lyman break galaxy (LBG), MACS0416 Y1
     * This [O iii] detection confirms the LBG with a spectroscopic redshift of z = 8.3118 ± 0.0003
     * The ultraviolet-to-far IR spectral energy distribution modeling where the [O iii] emissivity model is incorporated suggests the presence of a moderately-evolved stellar component with the stellar mass of Mstar = 5 × 10^9M⊙
+
+
+----
+
+## June 12:
+
+#### [Evidence of Environmental Quenching at Redshift z ~ 2](https://arxiv.org/abs/1806.04142)
+
+
+#### [The Local Group on FIRE: Dwarf galaxy populations across a suite of hydrodynamic simulations](https://arxiv.org/abs/1806.04143)
+
+
+#### [Optically faint massive Balmer Break Galaxies at z>3 in the CANDELS/GOODS fields](https://arxiv.org/abs/1806.04152)
+
+
+#### [What drives the evolution of gas kinematics in star-forming galaxies?](https://arxiv.org/abs/1806.04233)
+
+
+#### [MUSE crowded field 3D spectroscopy in NGC300 I. First results from central fields](https://arxiv.org/abs/1806.04280)
+
+
+#### [Nuclear starburst activity induced by elongated bulges in spiral galaxies](https://arxiv.org/abs/1806.04353)
+
+
+#### [A complete disclosure of the hidden type-1 AGN in NGC 1068 thanks to 52 years of broadband polarimetric observation](https://arxiv.org/abs/1806.04415)
+
+
+#### [The oxygen abundance gradients in the gas discs of galaxies in the EAGLE simulation](https://arxiv.org/abs/1806.04575)
