@@ -340,24 +340,49 @@ luminous companion galaxies
 ## June 12:
 
 #### [Evidence of Environmental Quenching at Redshift z ~ 2](https://arxiv.org/abs/1806.04142)
+    - **Interesting, Relevant**
+    * Environment quenching: is observed as strong clustering of quiescent galaxies around quiescent galaxies on angular scales θ ≤ 20 arcsec, corresponding to a proper(comoving) scale of 168 (502) kpc at z = 2.
+        - 只对quiescent周围的quiescent有类似的效应
+    * The effect is mass dependent in the sense that the quenching probability is stronger for galaxies of smaller mass (M∗ < 10^10M⊙) than for more massive ones
+    * The spatial scale where the effect is observed suggests these environments are massive halos, in which case the observed effect would likely be satellite quenching
+    * 还有红移依赖，z=1.6比z=2.6要强; satellite quenching时标: 1.5-4.0 Gyr
 
 
 #### [The Local Group on FIRE: Dwarf galaxy populations across a suite of hydrodynamic simulations](https://arxiv.org/abs/1806.04143)
+    * 超高分辨率的ELVIS-on-FIRE: predict the existence of ∼ 3 unidentified galaxies with M∗ ∼ 10^5 M⊙ within 300 kpc of the MW. 
+    * 没有TBTF和missing satellite问题: Among the satellites, TBTF is resolved primarily by subhalo disruption and overall mass loss; central density profiles of subhalos are of secondary importance.
+    * 问题: None of our simulations produces a compact, baryon-dominated, high-density dwarf elliptical-type galaxy
 
 
 #### [Optically faint massive Balmer Break Galaxies at z>3 in the CANDELS/GOODS fields](https://arxiv.org/abs/1806.04152)
+    * A sample of 33 Balmer Break Galaxies (BBGs) selected as dropouts in the deepest HST/F160W images of the two CANDELS/GOODS fields
+    * Finally, our results point out that one of every ten massive log(M/M⊙) > 11 galaxies in the local Universe was assembled in the first 1.5 Gyr after the Big Bang.
 
 
 #### [What drives the evolution of gas kinematics in star-forming galaxies?](https://arxiv.org/abs/1806.04233)
+    * 用FIRE模拟看为什么盘星系的气体速度弥散度在高红移更高
+    * In both the observed and simulated galaxies, σintr is positively correlated with SFR. σintr increases with redshift out to z ∼ 1 and then flattens beyond that
+    * we show that increased gas inflow leads to subsequent enhanced star formation, and enhancements in σintr tend to temporally coincide with increases mass inflow rates and SFR.
 
 
 #### [MUSE crowded field 3D spectroscopy in NGC300 I. First results from central fields](https://arxiv.org/abs/1806.04280)
+    - **Interesting**
+    * (1) PSF-fitting 3D spectroscopy with PampelMUSE, as already successfully pioneered in globular clusters, yields deblended spectra of individually distinguishable stars, thus providing a complete inventory of blue/red supergiants, and AGB stars of type M and C. 还有有发射线的行星状星云
+    * Maps of H ii regions, supernova remnants, and the diffuse interstellar medium at a high level of sensitivity; 还有WR星
 
 
 #### [Nuclear starburst activity induced by elongated bulges in spiral galaxies](https://arxiv.org/abs/1806.04353)
+    * We find a statistically significant correlation between bulge elongation and nuclear starbursts in the sense that the fraction of nuclear starbursts increases with bulge elongation. 
+    * These results suggest that non-axisymmetric bulges can efficiently feed the gas into the centre of galaxies to trigger nuclear starburst activity.
 
 
 #### [A complete disclosure of the hidden type-1 AGN in NGC 1068 thanks to 52 years of broadband polarimetric observation](https://arxiv.org/abs/1806.04415)
+    * first broadband polarization spectrum of an active galactic nucleus (AGN) by compiling the 0.1 – 100 μm, 4.9 GHz and 15 GHz continuum polarization of NGC 1068 from more than 50 years of observations.
+    * The impact of the Big Blue bump and infrared bump, together with electron, Mie scattering, dichroism and synchrotron emission are naturally highlighted in polarization, allowing us to reveal the type-1 AGN core inside this type-2 object with unprecedented precision
+    * in the case of NGC 1068, Thomson scattering is the dominant mechanism for the polarization in the optical band.
 
 
 #### [The oxygen abundance gradients in the gas discs of galaxies in the EAGLE simulation](https://arxiv.org/abs/1806.04575)
+    * The estimated median oxygen gradient is −0.011±0.002 dex kpc−1, which is shallower than observed
+    * However, the oxygen gradient shows a clear correlation with gas disc size so that shallower abundance slopes are found for increasing gas disc sizes.
+    * Positive oxygen gradients are detected for ≈ 40 per cent of the analysed gas discs, with a slight higher frequency in low mass galaxies.
