@@ -386,3 +386,22 @@ luminous companion galaxies
     * The estimated median oxygen gradient is −0.011±0.002 dex kpc−1, which is shallower than observed
     * However, the oxygen gradient shows a clear correlation with gas disc size so that shallower abundance slopes are found for increasing gas disc sizes.
     * Positive oxygen gradients are detected for ≈ 40 per cent of the analysed gas discs, with a slight higher frequency in low mass galaxies.
+
+
+----
+
+## June 13:
+
+#### [A Revised Velocity for the Globular Cluster GC-98 in the Ultra Diffuse Galaxy NGC1052-DF2](https://arxiv.org/abs/1806.04685)
+
+
+#### [Spatial distribution of the Milky Way hot gaseous halo constrained by Suzaku X-ray observations](https://arxiv.org/abs/1806.04832)
+
+
+#### [Constraints on the Thermal Contents of the X-ray Cavities of Cluster MS 0735.6+7421 with Sunyaev-Zel'dovich Effect Observations](https://arxiv.org/abs/1806.05050)
+
+
+#### [AGN Feedback in Galaxy Group 3C 88: Cavities, Shock and Jet Reorientation](https://arxiv.org/abs/1806.04692)
+
+
+#### [AGN Feedback in Galaxy Group 3C 88: Cavities, Shock and Jet Reorientation](https://arxiv.org/abs/1806.04692)
