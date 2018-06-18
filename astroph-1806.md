@@ -404,4 +404,60 @@ luminous companion galaxies
 #### [AGN Feedback in Galaxy Group 3C 88: Cavities, Shock and Jet Reorientation](https://arxiv.org/abs/1806.04692)
 
 
-#### [AGN Feedback in Galaxy Group 3C 88: Cavities, Shock and Jet Reorientation](https://arxiv.org/abs/1806.04692)
+----
+
+## June 14:
+
+#### [KYDISC: Galaxy Morphology, Quenching, and Mergers in the Cluster Environment](https://arxiv.org/abs/1806.05186)
+
+
+#### [Bridging Star-Forming Galaxy and AGN Ultraviolet Luminosity Functions at z=4 with the SHELA Wide-Field Survey](https://arxiv.org/abs/1806.05187)
+
+
+#### [An ALMA survey of CO in submillimetre galaxies: companions, triggering, and the environment in blended sources](https://arxiv.org/abs/1806.05193)
+
+
+#### [The AKARI 2.5-5 Micron Spectra of Luminous Infrared Galaxies in the Local Universe](https://arxiv.org/abs/1806.05198)
+
+
+#### [The optical properties of dust: the effects of composition, size, and structure](https://arxiv.org/abs/1806.05420)
+
+
+#### [The Globular Cluster Systems of Ultra-Diffuse Galaxies in the Coma Cluster](https://arxiv.org/abs/1806.05425)
+
+
+#### [Local Volume HI Survey: the far-infrared radio correlation](https://arxiv.org/abs/1806.05447)
+
+
+----
+
+## June 17:
+
+#### [The Clusters Hiding in Plain Sight (CHiPS) survey: A first discovery of a massive nearby cluster around PKS1353-341](https://arxiv.org/abs/1806.05676)
+
+
+#### [Instability of Supersonic Cold Streams Feeding Galaxies III: Kelvin-Helmholtz Instability in Three Dimensions](https://arxiv.org/abs/1806.05677)
+
+
+#### [The formation and assembly history of the Milky Way revealed by its globular cluster population](https://arxiv.org/abs/1806.05680)
+
+
+#### [Compact Groups analysis using weak gravitational lensing II: CFHT Stripe 82 data](https://arxiv.org/abs/1806.05685)
+
+
+#### [First Spectroscopic Study of a Young Quasar](https://arxiv.org/abs/1806.05691)
+
+
+#### [A dust-enshrouded tidal disruption event with a resolved radio jet in a galaxy merger](https://arxiv.org/abs/1806.05717)
+
+
+#### [The circumgalactic medium of eBOSS emission line galaxies: signatures of galactic outflows in gas distribution and kinematics](https://arxiv.org/abs/1806.05786)
+
+
+#### [Deep Extragalactic VIsible Legacy Survey (DEVILS): Motivation, Design and Target Catalogue](https://arxiv.org/abs/1806.05808)
+
+
+#### [Near-identical star formation rate densities from Hα and FUV at redshift zero](https://arxiv.org/abs/1806.05875)
+
+
+#### [Reconfinement and Loss of Stability in Jets from Active Galactic Nuclei](https://arxiv.org/abs/1806.05683)
