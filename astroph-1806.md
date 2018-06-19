@@ -434,9 +434,19 @@ luminous companion galaxies
 ## June 17:
 
 #### [The Clusters Hiding in Plain Sight (CHiPS) survey: A first discovery of a massive nearby cluster around PKS1353-341](https://arxiv.org/abs/1806.05676)
+    * Discover new, nearby, and massive galaxy clusters that were incorrectly identified as isolated point
+sources in the ROSAT All-Sky Survey.
+    * The presence of a relaxed X-ray morphology, a central temperature drop, and a central cooling time around 400 Myr points to it being a strong cool-core cluster.
+    * We see weak evidence of localized excess entropy at a radius of 200 kpc which, if real, could imply a recent (∼180 Myr) energetic outburst in the core that has risen buoyantly to a larger radius
+    * 如果不是中心点源太亮，应该是可以被认证为cluster的，可能要在未来的X-ray巡天里考虑这个
+    - There are only four known examples of galaxy clusters hosting central quasars: H1821+643 (Russell et al. 2010), 3C 186 (Siemiginowska et al. 2005, 2010), IRAS 09104+4109 (O’Sullivan et al. 2012), and the Phoenix cluster (McDonald et al. 2012).
 
 
 #### [Instability of Supersonic Cold Streams Feeding Galaxies III: Kelvin-Helmholtz Instability in Three Dimensions](https://arxiv.org/abs/1806.05677)
+    * For streams that are subsonic or transonic with respect to the halo sound speed, the instability in 3D is qualitatively similar to that in 2D, except that it progresses at a faster pace
+    * For supersonic streams, the instability grows much faster in 3D and it can be qualitatively different due to 3D azimuthal modes
+    * Contrary to the 2D estimates, we find that in 3D the KHI can lead to significant stream deceleration and energy dissipation. 
+    * 这些耗散的能量可以power LAB
 
 
 #### [The formation and assembly history of the Milky Way revealed by its globular cluster population](https://arxiv.org/abs/1806.05680)
@@ -461,3 +471,58 @@ luminous companion galaxies
 
 
 #### [Reconfinement and Loss of Stability in Jets from Active Galactic Nuclei](https://arxiv.org/abs/1806.05683)
+
+
+----
+
+## June 18:
+
+#### [Formation of S0 galaxies through mergers. Morphological properties: tidal relics, lenses, ovals, and other inner components](https://arxiv.org/abs/1806.06070)
+
+
+#### [Polarization as a probe of thick dust disk in edge-on galaxies: application to NGC 891](https://arxiv.org/abs/1806.06101)
+
+
+#### [CO Tully-Fisher Relation of Star-forming Galaxies at z=0.05-0.3](https://arxiv.org/abs/1806.06272)
+
+
+#### [The Carnegie-Irvine Galaxy Survey. VII. Constraints on the Origin of S0 Galaxies from Their Photometric Structure](https://arxiv.org/abs/1806.06350)
+
+
+#### [Mixing between Seyfert and HII-region excitation in local active galaxies](https://arxiv.org/abs/1806.06364)
+
+
+#### [Kinematic signatures of reverberation mapping of close binaries of supermassive black holes in active galactic nuclei](https://arxiv.org/abs/1806.06487)
+
+
+#### [Broadband spectral energy distributions of SDSS-selected quasars and of their host galaxies: intense activity at the edge of the quenching](https://arxiv.org/abs/1806.06516)
+
+
+#### [Comparison of the extraplanar Hα and UV emissions in the halos of nearby edge-on spiral galaxies](https://arxiv.org/abs/1806.06525)
+
+
+#### [The Carnegie-Irvine Galaxy Survey. VI. Quantifying Spiral Structure](https://arxiv.org/abs/1806.06591)
+
+
+#### [Dynamical modelling of dwarf-spheroidal galaxies using Gaussian-process emulation](https://arxiv.org/abs/1806.06614)
+
+
+#### [Mapping the neutral atomic hydrogen gas outflow in the restarted radio galaxy 3C 236](https://arxiv.org/abs/1806.06653)
+
+
+#### [Resolving Quiescent Galaxies at z≳2: I. Search for Gravitationally Lensed Sources and Characterization of their Structure, Stellar Populations, and Line Emission](https://arxiv.org/abs/1806.06814)
+
+
+#### [Resolving Quiescent Galaxies at z≳2: II. Direct Measures of Rotational Support](https://arxiv.org/abs/1806.06815)
+
+
+#### [Chandra and HST Snapshots of Fossil System Progenitors](https://arxiv.org/abs/1806.06819)
+
+
+#### [Stellar Populations in the Outer Disk and Halo of the Spiral Galaxy M101](https://arxiv.org/abs/1806.06828)
+
+
+#### [Identification and analysis of the young population in the starburst galaxy NGC 253](https://arxiv.org/abs/1806.06841)
+
+
+#### [The progeny of a Cosmic Titan: a massive multi-component proto-supercluster in formation at z=2.45 in VUDS](https://arxiv.org/abs/1806.06073)
