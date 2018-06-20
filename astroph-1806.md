@@ -477,31 +477,54 @@ sources in the ROSAT All-Sky Survey.
 
 ## June 18:
 
-#### [Formation of S0 galaxies through mergers. Morphological properties: tidal relics, lenses, ovals, and other inner components](https://arxiv.org/abs/1806.06070)
+#### [Formation of S0 galaxies through mergers. Morphological properties: tidal relics, lenses, ovals, and other inner components](https://arxiv.org/abs/1  806.06070)
+    * 还是看并和能不能形成S0，major merger后1-2 Gyr: Contrary to popular expectations, most of them do not exhibit any morphological traces of their past merger origin under typical observing conditions and at distances as nearby as 30 Mpc.
+    * Major merger remnant 形成的S0一般没有bar
+    * All remnants contain a lens or oval, identically ubiquitous in local S0s. 7) These lenses/ovals do not come from bar dilution in major merger cases --> oval不是来自bar
 
 
 #### [Polarization as a probe of thick dust disk in edge-on galaxies: application to NGC 891](https://arxiv.org/abs/1806.06101)
+    * 解释侧向盘星系的尘埃薄盘外的偏振辐射:it is essential to include a geometrically thick dust layer in the radiative transfer model
+    * include polarizations due to both dust scattering and dichroic extinction which is responsible for the observed interstellar polarization in the Milky Way.
 
 
 #### [CO Tully-Fisher Relation of Star-forming Galaxies at z=0.05-0.3](https://arxiv.org/abs/1806.06272)
+    * We present here the first TFR of galaxies beyond the local Universe that uses carbon monoxide (CO) as the kinematic tracer.
+    * we find no significant evolution in the slopes and zero-points of the TFRs since z ≈ 0.3, this in either luminosity or mass. 
 
 
 #### [The Carnegie-Irvine Galaxy Survey. VII. Constraints on the Origin of S0 Galaxies from Their Photometric Structure](https://arxiv.org/abs/1806.06350)
+    - **Gao Hua**
+    * Many S0s do not host prominent bulges. S0 galaxies have a broad distribution of bulge-to-total ratios (B/T ) and S ́ersic indices (n), with average values of B/T = 0.34 ± 0.15 and n = 2.62 ± 1.02, qualitatively consistent with the notion that S0s define a parallel sequence with and may have evolved from spiral galaxies.
+    * bulges of S0s form a surprisingly uniform sequence on both the Kormendy and fundamental plane relations
+    * Most of the S0s reside in the field and in groups; cluster environment is not a necessary condition for S0 production.
+    * 而且现在晚型星系的核球也和S0明显不一样，不太可能是直接的前身
 
 
 #### [Mixing between Seyfert and HII-region excitation in local active galaxies](https://arxiv.org/abs/1806.06364)
+    * NebulaBayes: 用AGN NLR + HII解释观测的SDSS Seyfert 1光谱
+    * The majority of the Balmer line emission in the majority of Seyfert-classified SDSS spectra arises from contaminating H II regions within the fixed-size aperture.
 
 
 #### [Kinematic signatures of reverberation mapping of close binaries of supermassive black holes in active galactic nuclei](https://arxiv.org/abs/1806.06487)
+    * we demonstrate how to composite the hybrid 2-dimensional transfer functions of binary BLRs around the CB-SMBHs in AGNs, providing an opportunity of identifying them from reverberation mapping (RM) data.
+    * there are variation-coupling effects in the transfer functions, arising from the coupling of CB-SMBH light curves in the Fourier space.
+    * In order to search for CB- SMBHs in time-domain space, selection of target candidates should focus on local AGNs with Hβ double-peaked profiles and weaker near-infrared emission.
 
 
 #### [Broadband spectral energy distributions of SDSS-selected quasars and of their host galaxies: intense activity at the edge of the quenching](https://arxiv.org/abs/1806.06516)
+    * SED shows an excess at 1-2 μm (when compared to the aforementioned SEDs normalized in the near-UV) and a prominent bump around 4-6 μm, followed by a decrease out to ∼ 20 μm and a subsequent far-IR bump.
 
 
 #### [Comparison of the extraplanar Hα and UV emissions in the halos of nearby edge-on spiral galaxies](https://arxiv.org/abs/1806.06525)
+    * compare vertical profiles of the extraplanar Hα emission to those of the UV emission for 38 nearby edge-on late-type galaxies.
 
 
 #### [The Carnegie-Irvine Galaxy Survey. VI. Quantifying Spiral Structure](https://arxiv.org/abs/1806.06591)
+    - **Yu Si-Yue**
+    * We describe robust methods to measure the number of arms, their mean strength, length, and pitch angle. The arm strength depends only weakly on the adopted radii over which it is measured, and it is stronger in bluer bands than redder bands.
+    * 1-D and 2-D Fourier decomposition to measure the number, strength, and pitch angle of spiral arms
+    * 用Mock图像做了高红移探测的测试
 
 
 #### [Dynamical modelling of dwarf-spheroidal galaxies using Gaussian-process emulation](https://arxiv.org/abs/1806.06614)
@@ -526,3 +549,40 @@ sources in the ROSAT All-Sky Survey.
 
 
 #### [The progeny of a Cosmic Titan: a massive multi-component proto-supercluster in formation at z=2.45 in VUDS](https://arxiv.org/abs/1806.06073)
+    * the complex shape of a proto-supercluster at z ∼ 2.45 in the COSMOS field
+    * 用2-D Voronoi镶嵌加上重叠的redshift slices得到三维密度场
+    * Hyperion: 60x60x150 comoving Mpc^3，5x10^15 Msun的一个protocluster
+    * contains at least 7 density peaks within 2.4 􏰁 z 􏰁 2.5 connected by filaments that exceed the average density of the volume.
+    * 每个peak质量都不小，在z~0.8-1.6差不多就该位力化了
+    * 
+
+
+----
+
+## June 19:
+
+#### [Deciphering the activity and quiescence of high-redshift cluster environments: ALMA observations of ClJ1449+0856 at z=2](https://arxiv.org/abs/1806.06856)
+
+
+#### [A machine-learning method for identifying multi-wavelength counterparts of submillimeter galaxies: training and testing using AS2UDS and ALESS](https://arxiv.org/abs/1806.06859)
+
+
+#### [A new quadruple-image gravitational lens in an edge-on disk galaxy at z=0.0956](https://arxiv.org/abs/1806.06861)
+
+
+#### [A three-phase amplification of the cosmic magnetic field in galaxies](https://arxiv.org/abs/1806.06866)
+
+
+#### [A MegaCam Survey of Outer Halo Satellites. I. Description of the Survey](https://arxiv.org/abs/1806.06889)
+
+
+#### [A MegaCam Survey of Outer Halo Satellites. III. Photometric and Structural Parameters](https://arxiv.org/abs/1806.06891)
+
+
+#### [Using the Properties of Broad Absorption Line Quasars to Illuminate Quasar Structure](https://arxiv.org/abs/1806.07090)
+
+
+#### [MOJAVE XVI: Multi-Epoch Linear Polarization Properties of Parsec-Scale AGN Jet Cores](https://arxiv.org/abs/1806.07312)
+
+
+#### [The Tully-Fisher relation for flat galaxies](https://arxiv.org/abs/1806.07384)
