@@ -586,3 +586,59 @@ sources in the ROSAT All-Sky Survey.
 
 
 #### [The Tully-Fisher relation for flat galaxies](https://arxiv.org/abs/1806.07384)
+
+
+----
+
+## June 20:
+
+#### [Chasing Lyman alpha-emitting galaxies at z = 8.8](https://arxiv.org/abs/1806.07392)
+
+
+#### [Connecting and dissecting galaxies' angular momenta and neutral gas in a hierarchical universe: cue DARK SAGE](https://arxiv.org/abs/1806.07402)
+
+
+#### ["Zombie" or active? An alternative explanation to the properties of star-forming galaxies at high redshift](https://arxiv.org/abs/1806.07423)
+
+
+#### [On the early evolution of Local Group dwarf galaxy types: star formation and supernova feedback](https://arxiv.org/abs/1806.07679)
+
+
+#### [Nature and chemical abundances of a sample of Lyman-α emitter objects at high redshift](https://arxiv.org/abs/1806.07732)
+
+
+#### [The Halo Masses of Galaxies to z∼3: A Hybrid Observational and Theoretical Approach](https://arxiv.org/abs/1806.07752)
+
+
+#### [X-ray study of the double radio relic Abell 3376 with Suzaku](https://arxiv.org/abs/1806.07817)
+
+
+#### [Molecular gas and star formation in an absorption-selected galaxy: Hitting the bull's eye at z = 2.46](https://arxiv.org/abs/1806.07827)
+
+
+----
+
+## June 21:
+
+#### [UniverseMachine: The Correlation between Galaxy Growth and Dark Matter Halo Assembly from z=0-10](https://arxiv.org/abs/1806.07893)
+
+
+#### [Extreme Population III Starbursts and Direct Collapse Black Holes Stimulated by High Redshift Quasars](https://arxiv.org/abs/1806.07901)
+
+
+#### [Magnification Bias of Distant Galaxies in the Hubble Frontier Fields: Testing Wave vs. Particle Dark Matter Predictions](https://arxiv.org/abs/1806.07905)
+
+
+#### [First constraints on the stellar mass function of star-forming clumps at the peak of cosmic star formation](https://arxiv.org/abs/1806.07922)
+
+
+#### [Dense Molecular Gas in the Nearby Low Metallicity Dwarf Starburst Galaxy IC 10](https://arxiv.org/abs/1806.07973)
+
+
+#### [Galaxy And Mass Assembly (GAMA): the signatures of galaxy interactions as viewed from small scale galaxy clustering](https://arxiv.org/abs/1806.08255)
+
+
+#### [Survey parameters for detecting 21cm - Lyα emitter cross correlations with the Square Kilometre Array](https://arxiv.org/abs/1806.07902)
+
+
+#### [A precise extragalactic test of General Relativity](https://arxiv.org/abs/1806.08300)
