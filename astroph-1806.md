@@ -642,3 +642,70 @@ sources in the ROSAT All-Sky Survey.
 
 
 #### [A precise extragalactic test of General Relativity](https://arxiv.org/abs/1806.08300)
+
+----
+
+## June 24:
+
+#### [Reverberation Mapping of Luminous Quasars at High-z](https://arxiv.org/abs/1806.08358)
+
+
+#### [The Sloan Digital Sky Survey Reverberation Mapping Project: Accretion-Disk Sizes from Continuum Lags](https://arxiv.org/abs/1806.08360)
+
+
+#### [Distant monsters: high redshift AGN predictions from a ΛCDM cosmological model](https://arxiv.org/abs/1806.08370)
+
+
+#### [The initial mass function in the Coma Berenices dwarf galaxy from deep near-infrared HST observations](https://arxiv.org/abs/1806.08380)
+
+
+#### [Revisiting the "forbidden" region: AGN radiative feedback with radiation trapping](https://arxiv.org/abs/1806.08387)
+
+
+#### [Observations of the MIssing Baryons in the warm-hot intergalactic medium](https://arxiv.org/abs/1806.08395)
+
+
+#### [Galaxy pre-processing in substructures around z∼0.4 galaxy clusters](https://arxiv.org/abs/1806.08435)
+
+
+#### [The PAU Survey: star-galaxy classification with multi narrow-band data](https://arxiv.org/abs/1806.08545)
+
+
+----
+
+## June 25:
+
+#### [z ~ 2.5 - 3 Ionizers in the GOODS-N Field](https://arxiv.org/abs/1806.08798)
+
+
+#### [Galaxies Probing Galaxies in PRIMUS - II. The Coherence Scale of the Cool Circumgalactic Medium](https://arxiv.org/abs/1806.08801)
+
+
+#### [AGN must be very efficient at powering outflows](https://arxiv.org/abs/1806.08914)
+
+
+#### [Starburst-AGN mixing: TYPHOON observations of NGC 1365, NGC 1068, and the effect of spatial resolution on the AGN fraction](https://arxiv.org/abs/1806.08958)
+
+
+#### [THE MOSDEF SURVEY: The Nature of Mid-Infrared Excess Galaxies and a Comparison of IR and UV Star Formation Tracers at z~2](https://arxiv.org/abs/1806.08989)
+
+
+#### [Kinematic scaling relations of CALIFA galaxies: A dynamical mass proxy for galaxies across the Hubble sequence](https://arxiv.org/abs/1806.09013)
+
+
+#### [The Sloan Digital Sky Survey Reverberation Mapping Project: Quasar Host Galaxies at z<0.8 from Image Decomposition](https://arxiv.org/abs/1806.09083)
+
+
+#### [The remnant radio galaxy associated with NGC 1534](https://arxiv.org/abs/1806.09255)
+
+
+#### [The Prevalence of Type III Disc Breaks in HI-rich and Low-spin Galaxies](https://arxiv.org/abs/1806.09353)
+
+
+#### [Calibrated, cosmological hydrodynamical simulations with variable IMFs II: Correlations between the IMF and global galaxy properties](https://arxiv.org/abs/1806.09406)
+
+
+#### [Probing multi-phase outflows and AGN feedback in compact radio galaxies: the case of PKSB 1934-63](https://arxiv.org/abs/1806.09461)
+
+
+#### [Spectroscopic characterization of the proto-cluster of galaxies around 7C 1756+6520 at z ~ 1.4](https://arxiv.org/abs/1806.09493)
