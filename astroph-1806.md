@@ -709,3 +709,43 @@ sources in the ROSAT All-Sky Survey.
 
 
 #### [Spectroscopic characterization of the proto-cluster of galaxies around 7C 1756+6520 at z ~ 1.4](https://arxiv.org/abs/1806.09493)
+
+
+#### [Spectroscopic characterization of the proto-cluster of galaxies around 7C 1756+6520 at z ~ 1.4](https://arxiv.org/abs/1806.09493)
+
+
+----
+
+## June 26:
+
+#### [Kinematics of cluster galaxies and their relation to galaxy evolution](https://arxiv.org/abs/1806.09672)
+
+
+#### [Kinematics of cluster galaxies and their relation to galaxy evolution](https://arxiv.org/abs/1806.09672)
+
+----
+
+## June 27:
+
+#### [Spectropolarimetry of High Redshift Obscured and Red Quasars](https://arxiv.org/abs/1806.10138)
+
+
+#### [The Stripe 82 1-2 GHz Very Large Array Snapshot Survey: Multiwavelength Counterparts](https://arxiv.org/abs/1806.10140)
+
+
+#### [The Stripe 82 1-2 GHz Very Large Array Snapshot Survey: host galaxy properties and accretion rates of radio galaxies](https://arxiv.org/abs/1806.10140)
+
+
+#### [Lessons on the high-z Universe from local Laboratories: Extreme Environments in Blueberry Galaxies](https://arxiv.org/abs/1806.10149)
+
+
+#### [LBT/ARGOS adaptive optics observations of z∼2 lensed galaxies](https://arxiv.org/abs/1806.10211)
+
+
+#### [Active Galaxy Nuclei at high redshifts properties and environment of Type 1 and 2 AGNs](https://arxiv.org/abs/1806.10224)
+
+
+#### [AzTEC 1.1 mm observations of high-z protocluster environments: SMG overdensities and misalignment between AGN jets and SMG distribution](https://arxiv.org/abs/1806.10291)
+
+
+#### [Swift data hint at a binary Super Massive Black Hole candidate at sub-parsec separation](https://arxiv.org/abs/1806.10150)
