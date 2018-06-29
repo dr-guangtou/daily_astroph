@@ -721,8 +721,6 @@ sources in the ROSAT All-Sky Survey.
 #### [Kinematics of cluster galaxies and their relation to galaxy evolution](https://arxiv.org/abs/1806.09672)
 
 
-#### [Kinematics of cluster galaxies and their relation to galaxy evolution](https://arxiv.org/abs/1806.09672)
-
 ----
 
 ## June 27:
@@ -749,3 +747,33 @@ sources in the ROSAT All-Sky Survey.
 
 
 #### [Swift data hint at a binary Super Massive Black Hole candidate at sub-parsec separation](https://arxiv.org/abs/1806.10150)
+
+
+----
+
+## June 28:
+
+#### [The Impact of Binaries on the Stellar Initial Mass Function](https://arxiv.org/abs/1806.10605)
+
+
+#### [HOD modelling of high redshift galaxies using the BLUETIDES simulation](https://arxiv.org/abs/1806.10612)
+
+
+#### [Color gradients reflect an inside-out growth in early-type galaxies of the cluster MACS J1206.2-0847](https://arxiv.org/abs/1806.10625)
+
+
+#### [Non-parametric decompositions of disk galaxies in S4G using DiskFit](https://arxiv.org/abs/1806.10630)
+    * We present photometric models of 532 disk galaxies in 3.6{\mu}m images from the Spitzer Survey of Stellar Structure in Galaxies (S4G) using the non-parametric DiskFit algorithm
+
+
+#### [On the model of the circumgalactic mist: the implications of cloud sizes in galactic winds and halos](https://arxiv.org/abs/1806.10688)
+    * The CGm model is based on the idea that the observed cold halo gas may be a composite of cold, dense and small cloudlets embedded in a hot diffuse halo, resembling terrestrial clouds and mist.
+
+
+#### [Inside a Beehive: the Multiple Merging Processes in the Galaxy Cluster Abell 2142](https://arxiv.org/abs/1806.10864)
+
+
+#### [Merging Cluster Collaboration: A Panchromatic Atlas of Radio Relic Mergers](https://arxiv.org/abs/1806.10619)
+    * We find that the line-of-sight velocity components of the mergers are typically small compared with the maximum three dimensional relative velocity
+    * 说明并合方向的主轴倾向于与视线方向垂直
+    * In 28 of the 29 systems we identify substructures in the galaxy population aligned with the radio relic(s) and presumed associated merger induced shock.
