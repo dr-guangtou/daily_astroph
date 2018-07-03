@@ -777,3 +777,43 @@ sources in the ROSAT All-Sky Survey.
     * We find that the line-of-sight velocity components of the mergers are typically small compared with the maximum three dimensional relative velocity
     * 说明并合方向的主轴倾向于与视线方向垂直
     * In 28 of the 29 systems we identify substructures in the galaxy population aligned with the radio relic(s) and presumed associated merger induced shock.
+
+
+----
+
+## July 1:
+
+#### [The highly polarized dusty emission core of Cygnus A](https://arxiv.org/abs/1806.11114)
+
+
+#### [Globular Clusters Formed within Dark Halos I: present-day abundance, distribution and kinematics](https://arxiv.org/abs/1806.11118)
+
+
+#### [Dissecting the roles of mass and environment quenching in galaxy evolution with EAGLE](https://arxiv.org/abs/1806.11120)
+
+
+#### [The Star Formation Efficiency per Free Fall Time in Nearby Galaxies](https://arxiv.org/abs/1806.11121)
+
+
+#### [Far-IR dust properties of highly dust obscured AGNs from the AKARI and WISE all-sky surveys](https://arxiv.org/abs/1806.11126)
+
+
+#### [Solar chemical composition in the hot gas of cool-core ellipticals, groups, and clusters of galaxies](https://arxiv.org/abs/1806.11145)
+
+
+#### [Slow Cooling in Low Metallicity Clouds: An Origin of Globular Cluster Bimodality?](https://arxiv.org/abs/1806.11163)
+
+
+#### [Kinematics of the Atomic ISM in M33 on 80 pc scales](https://arxiv.org/abs/1806.11218)
+
+
+#### [Chromodynamical Analysis of Lenticular Galaxies using Globular Clusters and Planetary Nebulae](https://arxiv.org/abs/1806.11242)
+
+
+#### [Ghost busting: introducing a new, robust galaxy finder algorithm for simulations](https://arxiv.org/abs/1806.11417)
+
+
+#### [The Fraction of Stars That Form in Clusters in Different Galaxies](https://arxiv.org/abs/1806.11537)
+
+
+#### [The 3CR Chandra extragalactic survey at 1.0<z<1.5](https://arxiv.org/abs/1806.11125)
