@@ -15,21 +15,43 @@
 
 
 #### [The Detection of Intergalactic Halpha Emission from the Slug Nebula at z~2.3](https://arxiv.org/abs/1807.00054)
+    * Slug Nebular: Characterized by high surface brightnesses over intergalactic scales, its Lyα emission may either trace high-density ionized gas (“clumps”) or large column densities of neutral material.
+    * 可以用Halpha line区分这两种情况：用MOSFIRE的观测
+    * Our measurements argue for the origin of the Lyα emission being recombination radiation, suggesting the presence of high-density ionized gas. 
+    * our high-resolution spectroscopic study of the Lyα emission does not show evidence of a rotating disk pattern and suggest a more complex origin for at least some parts of the Slug Nebula.
 
 
 #### [The Kinematics of Extended Lyman-alpha Emission in a Low Mass, Low Metallicity Galaxy at z = 2.3](https://arxiv.org/abs/1807.00065)
-
+    - Chen Yu-Guang
+    * Lyα halo of Q2343-BX418, a low mass (M⋆ = 5×10^8 M⊙), low metallicity (Z ≈ 0.25 Z⊙) star-forming galaxy at z = 2.3 的KCWI观测
+    * we detect Lyα in emission to a radius of 23 kpc, and measure an exponential scale length of 6 kpc in the outer region of the extended halo.
+    * Lyman alpha线双峰，且两个peak的间距和比例随位置变化：these observations are consistent with a model in which the peak ratio is largely determined by the radial component of the outflow velocity
 
 #### [The Probability Distribution Function of Gas Surface Density in M33](https://arxiv.org/abs/1807.00166)
+    * The probability distribution functions (PDFs) for atomic, molecular, and total gas surface densities are determined at a resolution of about 50 pc from available HI and CO emission line data
+    * Most of the total gas PDFs from the central region to the edge of the star-forming disk are well-fitted by log-normal functions whose width decreases radially outwards.
+    * HI气体速度弥散度在整个盘上都差不多；在large radius上，turbulent ISM的Mach数更低，更多的HI气体处于Warm phase
+    * The molecular gas PDFs do not show strong deviations from log-normal functions in the central region where molecular fractions are high
+    * Southern spiral arm和dense filament上的分子气体的PDF是power law的 --> Self-gravity dominance
 
 
 #### [Investigation of dust attenuation and star formation activity in galaxies hosting GRBs](https://arxiv.org/abs/1807.00635)
+    * The most extinguished GRBs are preferentially found in the more massive hosts and the UV bump is preferentially found in the most extinguished GRB l.o.s. 
+    * We find a great variety in the derived attenuation curves of GRBHs, the UV slope can be similar, flatter or even steeper than the extinction curve slope. Half of the attenuation curves are consistent with the Calzetti attenuation law and there is evidence of a UV bump in only one GRBH.
+    * We find that the flatter (steeper) attenuation curves are found in galaxies with the highest (lowest) SFR and stellar masses.
 
 
 #### [Tidally induced bars in gas-rich dwarf galaxies orbiting the Milky Way](https://arxiv.org/abs/1807.00674)
+    * Dwarf围着大质量星系引力势orbit的模拟：In all cases bars of similar length formed in the stellar disk of the dwarfs at the first pericenter passage. However, unexpectedly, the gaseous component remained approximately axisymmetric and unaffected by the bar potential.
+    * When the bar is spun up by the tidal force torque, it is also shortened. Conversely, if it is slowed down, it gets longer.
+    * In the models with a low gas fraction the bars were more pronounced and survived until the end of the simulations, while in the dwarfs with a high gas fraction the bars were destroyed after the second or third pericenter passage. 
 
 
 #### [On the observational diagnostics to separate classical and disk-like bulges](https://arxiv.org/abs/1807.00806)
+    - **Relevant**
+    * We argue that the bulge Sérsic index is a poor diagnostics to discriminate different bulge types.
+    * We find that the combination of line-strength with either kinematic or photometric diagnostics does not provide a clear separation for half of the sample bulges.
+    * All bulges turn out to be thick oblate spheroids, but only one has a flattening consistent with that expected for outer disks.
 
 
 #### [Knowledge transfer of Deep Learning for galaxy morphology from one survey to another](https://arxiv.org/abs/1807.00807)
@@ -38,15 +60,25 @@
 
 
 #### [Lyα emitters in a cosmological volume I: the impact of radiative transfer](https://arxiv.org/abs/1807.00006)
+    * Here we develop a physically-motivated scheme to predict LAEs in cosmological simulations. The escape of Lyα photons is computed using a Monte Carlo radiative transfer code which outputs a Lyα escape fraction.
+    * The Lyα photons escape through an outflowing neutral gas medium, implemented assuming different geometries. 
+    * Our full models populate LAEs in less massive haloes than what is obtained with abundance matching.
 
 
 #### [Constraining the Stellar Mass Function from the Deficiency of Tidal Disruption Flares in the Nuclei of Massive Galaxies](https://arxiv.org/abs/1807.00029)
+    * The rate of tidal disruption flares (TDFs) per mass of the disrupting black hole encodes information on the present-day mass function (PDMF) of stars in the clusters surrounding super massive black holes.
+    * 用TDF rate对SMBH质量的依赖看星团的PDMF，对黑洞自旋只有很小的依赖
+    * We show that existing data can marginally constrain the minimum and maximum masses of stars in the cluster, and the high- mass end of the PDMF slope, as well as the overall TDF rate. 
 
 
 #### [A new powerful and highly variable disk wind in an AGN-star forming galaxy, the case of MCG-03-58-007](https://arxiv.org/abs/1807.00548)
+    * Discovery of a new candidate for a fast disk wind, in the nearby Seyfert 2 galaxy MCG-03-58-007
+    * two deep absorption troughs at E = 7.4 ± 0.1 keV and E = 8.5 ± 0.2 keV. 对应蓝移的Fe XXVI线，可以用告诉，高度电离，高柱密度的outflow absorber解释
+    * The presence of the lower velocity component of the disk wind is independently confirmed by the analysis of a follow-up XMM-Newton & NuSTAR observation 
 
 
 #### [Polarimetric and spectroscopic study of radio-quiet weak emission line quasars](https://arxiv.org/abs/1807.00630)
+    * A small subset of optically selected radio-quiet quasars showing weak or no emission lines may turn out to be the elusive radio-quiet BL Lac objects, or simply be radio- quiet QSOs with a still-forming/shielded broad line region (BLR) --> 如果是BL Lac，应该有很高的偏振
 
 
 ----
