@@ -33,6 +33,8 @@
 
 
 #### [Knowledge transfer of Deep Learning for galaxy morphology from one survey to another](https://arxiv.org/abs/1807.00807)
+    * We test the performance of DL models, trained with Sloan Digital Sky Survey (SDSS) data, on Dark Energy survey (DES) using images for a sample of 5000 galaxies with a similar redshift distribution to SDSS
+    * A fast domain adaptation step, consisting in a further training with a small DES sample of galaxies (∼500-300), is enough for obtaining an accuracy > 95% and a sig- nificant improvement in the completeness and purity values.
 
 
 #### [Lyα emitters in a cosmological volume I: the impact of radiative transfer](https://arxiv.org/abs/1807.00006)
@@ -52,10 +54,91 @@
 ## July 3:
 
 #### [The stellar mass function of galaxies in Planck-selected clusters at 0.5 < z < 0.7: new constraints on the timescale and location of satellite quenching](https://arxiv.org/abs/1807.00820)
+    - **Relevant**
+    * study the abundance of star-forming and quiescent galaxies in a sample of 21 clusters at 0.5 < z < 0.7 by Planck
+    * find that the shape of the SMF of star-forming galaxies does not depend on environment, while the SMF of quiescent galaxies has a significantly steeper low-mass slope in the clusters compared to the field
+    * 环境quenching的效率： The fEQ shows no stellar-mass dependence in any environment, but it increases from 40% in the cluster outskirts to ∼ 90% in the cluster centres.
+    * 在模型里，environment quenching开始的radius和作用的timescale有简并
+
 
 
 #### [The Close AGN Reference Survey (CARS): No evidence of galaxy-scale hot outflows in two nearby AGN](https://arxiv.org/abs/1807.00839)
+    * We aimed to detect hot gas bubbles that would indicate the existence of powerful, galaxy-scale outflows in our target: 但没有探测到，只能给出上限
+    * highly-ionized gas structures on kpc scales are not inflated by a hot outflow in either target, and instead are likely caused by photo-ionization of pre-existing gas streams of different origins.
 
 
 #### [Barlenses in the CALIFA survey: combining the photometric and stellar population analysis](https://arxiv.org/abs/1807.01092)
+    - **Relevant**
+    * barlenses account for a significant portion of light of photometric bulges: 说明bar对聚集中心质量很重要
+    * We find that 25 ± 2% of the 1064 galaxies in the whole CALIFA sample show either X-shape or barlens feature. 光度贡献占13%左右
 
+
+----
+
+## July 4:
+
+#### [On the shape and evolution of a cosmic ray regulated galaxy-wide stellar initial mass function](https://arxiv.org/abs/1807.01319)
+    - **Relevant**
+    * a new derivation of the shape and evolution of the integrated galaxy- wide initial mass function (IGIMF), incorporating explicitly the effects of cosmic rays (CRs) as regulators of the chemical and thermal state of the gas in the dense cores of molecular clouds.
+    * we focus on the physical conditions corresponding to IGIMF shapes that are simultaneously shallower at high-mass end and steeper at the low-mass end than a Kroupa IMF. 
+    * 要解释椭圆星系的alpha abundance和excess of low mass stars
+    * 基本上就是设计出了一种新的IGIMF，在SFR高的时候，既能top heavy，又能bottom heavy
+
+
+#### [The structure of post-starburst galaxies at 0.5<z<2: evidence for two distinct quenching routes at different epochs](https://arxiv.org/abs/1807.01325)
+    * At high redshift (z > 1), PSBs are typically massive (M∗ > 10^10 M⊙), very compact and exhibit high Sérsic indices, with structures that differ significantly from their star-forming progenitors but are similar to massive passive galaxies.
+    * at lower redshift (0.5 < z < 1), PSBs are generally of low mass (M∗ < 10^10 M⊙) and exhibit compact but less concentrated profiles
+    * Our results suggest that high-z PSBs are an intrinsically different population to those at lower redshifts, and indicate different quenching routes are active at different epochs.
+
+
+#### [ALMA CO(2-1) observations in the XUV disk of M83](https://arxiv.org/abs/1807.01373)
+    * We obtained CO(2-1) observations with ALMA of a small region in a 1.5’× 3’ rectangle located at rgal = 7.85′ over a bright UV region of M83. There is no CO detection
+    * We obtained CO(2-1) observations with ALMA of a small region in a 1.5’× 3’ rectangle located at rgal = 7.85′ over a bright UV region of M83. There is no CO detection
+
+
+#### [Intrinsic and observed dual AGN fractions from major mergers](https://arxiv.org/abs/1807.01490)
+    * 用Spiral pair major merger看并合导致的dual AGN比例
+
+
+#### [The SAMI Galaxy Survey: Spatially Resolved Metallicity and Ionization Mapping](https://arxiv.org/abs/1807.01522)
+    * 25个Face on spiral的SAMI数据分析：We find a weak trend of steepening metallicity gradient with galaxy stellar mass, with values ranging from -0.03 to -0.20 dex/Re
+    * We find that the ionization parameter has no significant correlation with either SFR, sSFR (specific star formation rate), or metallicity.
+    * We find a typical ionization parameter range of 7.0 < log(q) < 7.8 for our galaxy sample with no significant overall structure -- 电离参数变化这么大，使用金属丰度诊断的时候要格外小心
+
+
+#### [Hierarchical modeling and statistical calibration for photometric redshifts](https://arxiv.org/abs/1807.01391)
+    * Standard template fitting delivers interpretable models and errors, but lacks flexibility to learn inaccuracies in the observed photometry or the spectral templates
+    * Machine learning addresses those issues, but requires representative training data, and the resulting models and uncertainties cannot be interpreted in the context of a physical model or outside of the training data.
+    * 用一个Hierarchical Bayesian model: By optimizing the full posterior distribution of the model and solving for its (thousands of) parameters, one can perform a global statistical calibration of the data and the SED model. 在DES数据上测试
+
+#### [Constraints on reionisation from the z=7.5 QSO ULASJ1342+0928](https://arxiv.org/abs/1807.01593)
+    * we quantify the presence of Lyα damping wing absorption from the EoR in the spectrum of ULASJ1342+0928.
+    * 用Bayesian模型同时考虑了QSO本征辐射的不确定性和再电离时期的HII分布 (使用了大数值模拟)
+
+
+----
+
+## July 5:
+
+#### [Optical spectroscopy of local type-1 AGN LINERs](https://arxiv.org/abs/1807.01717)
+
+
+#### [Disentangling the AGN and Star-Formation connection using XMM-Newton](https://arxiv.org/abs/1807.01723)
+
+
+#### [Stellar masses, metallicity gradients and suppressed star formation revealed in a new sample of absorption selected galaxies](https://arxiv.org/abs/1807.01755)
+
+
+#### [Investigating kpc-scale radio emission properties of narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/1807.01945)
+
+
+#### [The Evolution of Chemical Abundance in Quasar Broad Line Region](https://arxiv.org/abs/1807.01978)
+
+
+#### [Azimuthal variations of gas-phase oxygen abundance in NGC 2997](https://arxiv.org/abs/1807.02043)
+
+
+#### [Bayesian bulge-disc decomposition of galaxy images](https://arxiv.org/abs/1807.02097)
+
+
+#### [Bayesian bulge-disc decomposition of galaxy images](https://arxiv.org/abs/1807.02097)
