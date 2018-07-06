@@ -121,24 +121,42 @@
 ## July 5:
 
 #### [Optical spectroscopy of local type-1 AGN LINERs](https://arxiv.org/abs/1807.01717)
+    * We study the 22 local (z < 0.025) type-1 LINERs from the Palomar Survey, on the basis of opti- cal ground- and space-based long-slit spectroscopic observations taken with TWIN/CAHA and ALFOSC/NOT.
+    * We found that the broad Hα component is sometimes elusive in our ground-based spectroscopy whereas it is ubiquitous for space-based data
+    * we exclude the pAGBs-stars scenario in favor of the AGN as the dominant mechanism of ionisation in these LINERs, being shocks however relevant.
 
 
 #### [Disentangling the AGN and Star-Formation connection using XMM-Newton](https://arxiv.org/abs/1807.01723)
+    * In this work, we use data from the X-ATLAS and XMM-XXL North fields and compile the largest X-ray sample up to date, to investigate how X-ray selected AGN affect the star-formation of their host galaxies in a wide redshift and luminosity baseline
+    * Our results show a correlation between the X-ray Luminosity (LX ) and the SFR of the host galaxy, at all redshifts and luminosities spanned by our sample.
+    * Our analysis reveals that the AGN enhances the star-formation of its host galaxy, when the galaxy lies below the main sequence and quenches the star-formation of the galaxy it lives in, when the host lies above the main sequence. ---> 这个结论因果有问题的样子...
 
 
 #### [Stellar masses, metallicity gradients and suppressed star formation revealed in a new sample of absorption selected galaxies](https://arxiv.org/abs/1807.01755)
+    * We spectroscopically confirm seven galaxies harbouring damped absorbers (a 70% success-rate)
+    * Absorbing galaxies with log10[M⋆ (M⊙)] > 10 have star formation rates that are lower than predicted for the main sequence of star formation. 
 
 
 #### [Investigating kpc-scale radio emission properties of narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/1807.01945)
+    * Using 1.4 GHz FIRST, 1.4 GHz NVSS, 327 MHz WENNS, and 150 MHz TGSS catalogues we find the radio- detection of merely ∼ 4.5 per cent (498/11101) NLS1s, with majority (407/498 ∼ 81.7 per cent) of them being RL-NLS1s.
+    * We find that the most of our radio-detected NLS1s are compact (< 30 kpc), exhibit both flat as well as steep radio spectra, and are distributed across a wide range of 1.4 GHz radio luminosities
+    * The diagnostic plots based on the mid-IR colours suggest that the radio emission in NLS1s is mostly powered by AGN, while nuclear star-formation may have a significant contribution in NLS1s of low radio luminosities.
 
 
 #### [The Evolution of Chemical Abundance in Quasar Broad Line Region](https://arxiv.org/abs/1807.01978)
+    * We find a significant correlation between quasar BLR metallicity and BH mass (bolometric luminosity) but no correlation between quasar BLR metallicity and redshift. 
+    * We find quasar BLR metallicity is 0.3 ∼ 1.0 dex higher than their host galaxies.
+    * We propose a possibility that the high metallicity in quasar BLR might be caused by metal enrichment from massive star formation in the nucleus region of quasars or even the accretion disk.
 
 
 #### [Azimuthal variations of gas-phase oxygen abundance in NGC 2997](https://arxiv.org/abs/1807.02043)
+    * Here, we report the discovery of pronounced azimuthal variations of H ii region oxygen abundance in NGC 2997, a spiral galaxy at approximately 11.3 Mpc
+    * We find 0.06 dex azimuthal variations in the oxygen abundance on top of a radial abundance gradient that is comparable to those seen in other star-forming disks.
+    * 在旋臂上更高，在臂间更低
 
 
 #### [Bayesian bulge-disc decomposition of galaxy images](https://arxiv.org/abs/1807.02097)
+    - **Relevant, Important**
+    * We introduce PHI, a fully Bayesian Markov-chain Monte Carlo algorithm designed for the structural decomposition of galaxy images.
+    * In two-component bulge+disc galaxies we find that the bulge structural parameters are recovered less well than those of the disc, particularly when the bulge contributes a lower fraction to the luminosity
 
-
-#### [Bayesian bulge-disc decomposition of galaxy images](https://arxiv.org/abs/1807.02097)
