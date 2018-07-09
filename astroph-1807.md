@@ -192,3 +192,24 @@
     * We introduce PHI, a fully Bayesian Markov-chain Monte Carlo algorithm designed for the structural decomposition of galaxy images.
     * In two-component bulge+disc galaxies we find that the bulge structural parameters are recovered less well than those of the disc, particularly when the bulge contributes a lower fraction to the luminosity
 
+
+----
+
+## July 8:
+
+#### [Faraday rotation maps of disk galaxies](https://arxiv.org/abs/1807.02113)
+
+
+#### [Testing the Breathing Mode in Intermediate Mass Galaxies and its Predicted Star Formation Rate-Size Anti-Correlation](https://arxiv.org/abs/1807.02118)
+
+
+#### [Metallicity gradients in the globular cluster systems of early-type galaxies: In-situ and accreted components?](https://arxiv.org/abs/1807.02142)
+
+
+#### [Weak-lensing shear measurement with machine learning: teaching artificial neural networks about feature noise](https://arxiv.org/abs/1807.02120)
+
+
+#### [Parsec-scale radio structure of 14 Fanaroff-Riley type 0 radio galaxies](https://arxiv.org/abs/1807.02505)
+
+
+#### [Parsec-scale radio structure of 14 Fanaroff-Riley type 0 radio galaxies](https://arxiv.org/abs/1807.02505)
