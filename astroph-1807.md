@@ -198,18 +198,96 @@
 ## July 8:
 
 #### [Faraday rotation maps of disk galaxies](https://arxiv.org/abs/1807.02113)
+    * Here we compute synthetic Faraday rotation maps at z = 0 for a set of disk galaxies from the Auriga high-resolution cosmological simulations
+    * We also find that the structure and angular power spectra of the synthetic all-sky Faraday rotation maps vary strongly with azimuthal position along the solar circle.
+    * Radial and vertical magnetic field components that are only ordered on scales of a few kpc.
+    * This represents a severe obstacle for attempts to reconstruct the global magnetic field of the Milky Way from Faraday rotation maps alone without including additional observables.
 
 
 #### [Testing the Breathing Mode in Intermediate Mass Galaxies and its Predicted Star Formation Rate-Size Anti-Correlation](https://arxiv.org/abs/1807.02118)
+    - **Relevant**
+    * One prediction of this quasi-periodic, galactic-scale “breathing” is an anti-correlation between star formation rate (SFR) and half-light radius as central gas overdensities lead to starbursts whose feedback drags stars to larger radii while star formation dwindles.
+    * 用COSMOS星系来测试：中等质量, 0.3<z<0.4，sSFR越高，size越大，越disk dominated
+        - 和模拟里给出的breathing model不一样
 
 
 #### [Metallicity gradients in the globular cluster systems of early-type galaxies: In-situ and accreted components?](https://arxiv.org/abs/1807.02142)
+    - **Relevant, Important**
+    * The gradients in the metal-rich and metal-poor GC subpopulations are the same, within measurement uncertainties, in a given galaxy. 
+    * These GC gradients are similar in strength to the stellar metallicity gradient of the host galaxy
+    * At the very largest radii (e.g. greater than 8 galaxy effective radii) there is some evidence that the GC gradients become flat with near constant mean metallicity.
+    * We conclude that although metal-rich GCs are predominately formed during the in-situ phase and metal-poor GCs during the accretion phase of massive galaxy formation, they do not have a strict one-to-one connection.
 
 
 #### [Weak-lensing shear measurement with machine learning: teaching artificial neural networks about feature noise](https://arxiv.org/abs/1807.02120)
+    * Crucially, the shear measurement must address and compensate for a range of interwoven nuisance effects related to the instrument optics and detector, noise in the images, unknown galaxy morphologies, colors, blending of sources, and selection effects.
+    * We present a simple architecture that learns to regress shear point estimates and weights via shallow artificial neural networks. The networks are trained on simulations of the forward observing process, and take combinations of moments of the galaxy images as inputs.
+    * To address this issue, the proposed training algorithm minimizes bias over multiple realizations of individual source galaxies, reducing the sensitivity to properties of the overall sample of source galaxies.
 
 
 #### [Parsec-scale radio structure of 14 Fanaroff-Riley type 0 radio galaxies](https://arxiv.org/abs/1807.02505)
+    * Compact Radio Source: FR0
+    * The radio properties of fourteen FR 0s on parsec (pc) scales derived from their very long baseline interferometry (VLBI) imaging observations.
+    * Four sources show relativistic beaming with Doppler boosting factors ranging from 1.7 to 6.
+    * The radio properties of the FR 0s inferred from the VLBI data resemble GHz-peaked spectrum or compact steep-spectrum sources.
 
 
-#### [Parsec-scale radio structure of 14 Fanaroff-Riley type 0 radio galaxies](https://arxiv.org/abs/1807.02505)
+----
+
+## July 9:
+
+#### [Near infrared spectroscopy and star-formation histories of 3<z<4 quiescent galaxies](https://arxiv.org/abs/1807.02523)
+
+
+#### [The Structural and Kinematic Evolution of Central Star Clusters in Dwarf Galaxies and Their Dependence on Dark Matter Halo Profiles](https://arxiv.org/abs/1807.02526)
+
+
+#### [A powerful radio-loud quasar at the end of cosmic reionization](https://arxiv.org/abs/1807.02531)
+
+
+#### [Accurate number densities and environments of massive ultracompact galaxies at 0.02 < z < 0.3](https://arxiv.org/abs/1807.02534)
+
+
+#### [Resolving the Powerful Radio-loud Quasar at z~6](https://arxiv.org/abs/1807.02560)
+
+
+#### [NGC 6744 - A nearby Milky Way twin with a very low-luminosity AGN](https://arxiv.org/abs/1807.02604)
+
+
+#### [Probing AGN Inner Structure with X-ray Obscured Type 1 AGN](https://arxiv.org/abs/1807.02699)
+
+
+#### [Outflows in the Seyfert 2 galaxy NGC5643 traced by the [SIII] emission](https://arxiv.org/abs/1807.02743)
+
+
+#### [Shocked POststarburst Galaxy Survey. III. The Ultraviolet Properties of SPOGs](https://arxiv.org/abs/1807.02952)
+
+
+#### [Near-infrared morphologies of the host galaxies of narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/1807.02970)
+
+
+#### [Forming Lenticular Galaxies via Violent Disk Instability](https://arxiv.org/abs/1807.02986)
+
+
+#### [Mass modelling of a superthin galaxy, FGC1540](https://arxiv.org/abs/1807.02992)
+
+
+#### [The cosmic epoch dependence of environmental effects on size evolution of red-sequence early-type galaxies](https://arxiv.org/abs/1807.03060)
+
+
+#### [The XXL Survey XXVIII. Galaxy luminosity functions of the XXL-N clusters](https://arxiv.org/abs/1807.03207)
+
+
+#### [The PAU Survey: Spectral features and galaxy clustering using simulated narrow band photometry](https://arxiv.org/abs/1807.03260)
+
+
+#### [X-ray Properties of SPT Selected Galaxy Clusters at 0.2<z<1.5 Observed with XMM-Newton](https://arxiv.org/abs/1807.02556)
+
+
+#### [Gaia GraL III - Gaia DR2 Gravitational Lens Systems: A systematic blind search for new lensed systems](https://arxiv.org/abs/1807.02845)
+
+
+#### [An Evaluation of 10 Lensing Models of the Frontier Fields Cluster MACSJ0416.1-2403](https://arxiv.org/abs/1807.3291)
+
+
+#### [Disclosing the properties of low-redshift dual AGN through XMM-Newton and SDSS spectroscopy](https://arxiv.org/abs/1807.3085)
