@@ -291,3 +291,40 @@
 
 
 #### [Disclosing the properties of low-redshift dual AGN through XMM-Newton and SDSS spectroscopy](https://arxiv.org/abs/1807.3085)
+
+
+----
+
+## July 9:
+
+#### [A magnified view of circumnuclear star formation and feedback around an AGN at z=2.6](https://arxiv.org/abs/1807.03313)
+
+
+#### [Extreme AGN variability: evidence of magnetically elevated accretion?](https://arxiv.org/abs/1807.03314)
+
+
+#### [Neutral versus ionized gas kinematics at z~2.6: The AGN-host starburst galaxy PKS 0529-549](https://arxiv.org/abs/1807.03321)
+
+
+#### [A subarcsecond near-infrared view of massive galaxies at z > 1 with Gemini Multiconjugate Adaptive Optics](https://arxiv.org/abs/1807.03324)
+
+
+#### [Spatially-resolved Dense Molecular Gas Excitation in the Nearby LIRG VV 114](https://arxiv.org/abs/1807.03345)
+
+
+#### [The molecular gas content in obscured AGN at z > 1](https://arxiv.org/abs/1807.03378)
+
+
+#### [The Local Cluster Survey I: Evidence of Outside-In Quenching in Dense Environments](https://arxiv.org/abs/1807.03388)
+
+
+#### [On the [α/Fe]-[Fe/H] relations in early-type galaxies](https://arxiv.org/abs/1807.03416)
+
+
+#### [HST imaging of four gravitationally lensed quasars](https://arxiv.org/abs/1807.03553)
+
+
+#### [DEIMOS Observations of WISE-Selected, Optically Obscured AGNs](https://arxiv.org/abs/1807.03747)
+
+
+#### [A Lonely Giant: The Sparse Satellite Population of M94 Challenges Galaxy Formation](https://arxiv.org/abs/1807.03779)
