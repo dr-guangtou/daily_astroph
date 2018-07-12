@@ -328,3 +328,35 @@
 
 
 #### [A Lonely Giant: The Sparse Satellite Population of M94 Challenges Galaxy Formation](https://arxiv.org/abs/1807.03779)
+
+
+#### [A Lonely Giant: The Sparse Satellite Population of M94 Challenges Galaxy Formation](https://arxiv.org/abs/1807.03779)
+
+
+----
+
+## July 10:
+
+#### [ZFOURGE: Using Composite Spectral Energy Distributions to Characterize Galaxy Populations at 1<z<4](https://arxiv.org/abs/1807.03785)
+
+
+#### [Modeling the Baryon Cycle in Low Mass Galaxy Encounters: the Case of NGC 4490 & NGC 4485](https://arxiv.org/abs/1807.03791)
+
+
+#### [The extended radio jet of an off-nuclear low-mass AGN in NGC 5252](https://arxiv.org/abs/1807.03792)
+
+
+#### [Cosmic CARNage II: the evolution of the galaxy stellar mass function in observations and galaxy formation models](https://arxiv.org/abs/1807.03796)
+
+
+#### [No evidence for an Eddington-ratio dependence of X-ray weakness in BALQSOs](https://arxiv.org/abs/1807.03868)
+
+
+#### [Systematic Redshift of the Fe III UV Lines in Quasars. Measuring Supermassive Black Hole Masses under the Gravitational Redshift Hypothesis](https://arxiv.org/abs/1807.04048)
+
+
+#### [The Opacity of the Intergalactic Medium Measured Along Quasar Sightlines at z~6](https://arxiv.org/abs/1807.04229)
+
+
+#### [EasyCritics II. Testing its efficiency: new gravitational lens candidates in CFHTLenS](https://arxiv.org/abs/1807.3793)
+
