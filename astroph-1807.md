@@ -360,3 +360,45 @@
 
 #### [EasyCritics II. Testing its efficiency: new gravitational lens candidates in CFHTLenS](https://arxiv.org/abs/1807.3793)
 
+
+----
+
+## July 11:
+
+#### [Cosmological simulations of dwarfs: the need for ISM physics beyond SN feedback alone](https://arxiv.org/abs/1807.4288)
+
+
+#### [Searching for the Lowest Metallicity Galaxies](https://arxiv.org/abs/1807.4289)
+
+
+#### [Flat Rotation Curves found in Merging Dusty Starbursts at z=2.3 through Tilted-Ring Modeling](https://arxiv.org/abs/1807.4291)
+
+
+#### [Prevalence of neutral gas in centres of merging galaxies](https://arxiv.org/abs/1807.4298)
+
+
+#### [Molecular gas filaments and star-forming knots beneath an X-ray cavity in RXC J1504-0248](https://arxiv.org/abs/1807.4331)
+
+
+#### [Near-infrared emission lines in starburst galaxies at 0.5 < z < 0.9 : Discovery of a merger sequence of extreme obscurations](https://arxiv.org/abs/1807.4350)
+
+
+#### [On measuring the Galactic dark matter halo with hypervelocity stars](https://arxiv.org/abs/1807.4468)
+
+
+#### [XMMPZCAT: A catalogue of photometric redshifts for X-ray sources](https://arxiv.org/abs/1807.4526)
+
+
+#### [Measuring supermassive black hole peculiar motion using H2O megamasers](https://arxiv.org/abs/1807.4598)
+
+
+#### ["Super-deblended" Dust Emission in Galaxies: II. Far-IR to (sub)millimeter photometry and high redshift galaxy candidates in the full COSMOS field](https://arxiv.org/abs/1807.4697)
+
+
+#### [The KMOS^3D Survey: Demographics and Properties of Galactic Outflows at z = 0.6 - 2.7](https://arxiv.org/abs/1807.4738)
+
+
+#### [Gravitational lensing detection of an extremely dense environment around a galaxy cluster](https://arxiv.org/abs/1807.4277)
+
+
+#### [Gravitational lensing detection of an extremely dense environment around a galaxy cluster](https://arxiv.org/abs/1807.4277)
