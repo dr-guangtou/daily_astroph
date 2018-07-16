@@ -8,7 +8,8 @@
 ## July 2:
 
 #### [Assembling the Milky Way bulge from globular clusters: Evidence from the double red clump](https://arxiv.org/abs/1807.00004)
-    * Here we report our discovery that the stars in the two RCs show a significant (> 5.3σ) difference in CN-band strength, in stark contrast to that expected in the X-shaped bulge scenario.
+    * Here we report our discovery that the stars in the two RCs show a significant (> 5.3σ) differen
+    * ce in CN-band strength, in stark contrast to that expected in the X-shaped bulge scenario.
     * The difference in CN abundance and the population ratio between the two RCs are comparable to those observed in GCs between the first- and later generation stars. 
         - Double RCs来自多个星族，而不是X-shape bulge
     * a significant population of stars in the Milky Way bulge were assembled from disrupted proto-GCs.
@@ -401,4 +402,30 @@
 #### [Gravitational lensing detection of an extremely dense environment around a galaxy cluster](https://arxiv.org/abs/1807.4277)
 
 
-#### [Gravitational lensing detection of an extremely dense environment around a galaxy cluster](https://arxiv.org/abs/1807.4277)
+
+----
+
+## July 15:
+
+#### [Searching for Environmental Effects on Galaxy Kinematics in Groups and Clusters at z~1 from the ORELSE Survey](https://arxiv.org/abs/1807.4763)
+
+
+#### [Testing Convolutional Neural Networks for finding strong gravitational lenses in KiDS](https://arxiv.org/abs/1807.4764)
+
+
+#### [Velocity-resolved reverberation mapping of five bright Seyfert 1 galaxies](https://arxiv.org/abs/1807.4784)
+
+
+#### [Deep LOFAR 150 MHz imaging of the Boötes field: Unveiling the faint low-frequency sky](https://arxiv.org/abs/1807.4878)
+
+
+#### [Luminosity Profiles of Prominent Stellar Halos](https://arxiv.org/abs/1807.4922)
+
+
+#### [Predictably Missing Satellites: Subhalo Abundance in Milky Way-like Halos](https://arxiv.org/abs/1807.5180)
+
+
+#### [The XXL Survey: XVI. The clustering of X-ray selected galaxy clusters at z~0.3](https://arxiv.org/abs/1807.04760)
+
+
+#### [The XXL Survey: XVI. The clustering of X-ray selected galaxy clusters at z~0.3](https://arxiv.org/abs/1807.04760)
