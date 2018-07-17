@@ -428,4 +428,30 @@
 #### [The XXL Survey: XVI. The clustering of X-ray selected galaxy clusters at z~0.3](https://arxiv.org/abs/1807.04760)
 
 
-#### [The XXL Survey: XVI. The clustering of X-ray selected galaxy clusters at z~0.3](https://arxiv.org/abs/1807.04760)
+----
+
+## July 16:
+
+#### [A Robust Tip of the Red Giant Branch Distance to the Fireworks Galaxy (NGC 6946)](https://arxiv.org/abs/1807.05229)
+
+
+#### [Λ CDM Predictions for the Satellite Population of M33](https://arxiv.org/abs/1807.05318)
+
+
+#### [A highly magnified gravitationally lensed red quasar at z = 2.5 with significant flux anomaly: Uncovering a missing population](https://arxiv.org/abs/1807.05434)
+
+
+#### [SHARP - V. Modelling gravitationally-lensed radio arcs imaged with global VLBI observations](https://arxiv.org/abs/1807.05566)
+
+
+#### [CO (7-6), [CI] 370 micron and [NII] 205 micron Line Emission of the QSO BRI 1335-0417 at Redshift 4.407](https://arxiv.org/abs/1807.05681)
+
+
+#### [Growth problems of stellar black holes in early galaxies](https://arxiv.org/abs/1807.05760)
+
+
+#### [AutoSpec: Fast Automated Spectral Extraction Software for IFU Datacubes](https://arxiv.org/abs/1807.05922)
+
+
+#### [Are NLS1s highly accreting low black hole mass AGNs?](https://arxiv.org/abs/1807.05260)
+
