@@ -408,24 +408,45 @@
 ## July 15:
 
 #### [Searching for Environmental Effects on Galaxy Kinematics in Groups and Clusters at z~1 from the ORELSE Survey](https://arxiv.org/abs/1807.4763)
+    - **Relevant**
+    * the dependence of galaxy kinematics on the environ- ment for a sample of 94 star-forming galaxies at z ∼ 0.9 from the ORELSE survey
+    * We constructed the stellar-mass/B-band Tully-Fisher relation and found no dependence of the intrinsic scatter on both local and global environment.
+    * We found that, at fixed stellar mass, SC1604 galaxies have ∼ 30% smaller dynamical masses on average.
+    * We also observed that SC1604 galaxies in general show ∼ 20% lower stellar specific angular momentum (j∗) with respect to the HR-COSMOS sample. 高密度环境下并和频率高，损失角动量多
 
 
 #### [Testing Convolutional Neural Networks for finding strong gravitational lenses in KiDS](https://arxiv.org/abs/1807.4764)
+    * We present two ConvNet lens-finders which we have trained with a dataset composed of real galaxies from the Kilo Degree Survey (KiDS) and simulated lensed sources.
+    * In particular, the single-band ConvNet can select a sample of lens candidates with ∼ 50% purity, retrieving 3 out of 4 of the confirmed gravitational lenses in the LRG sample
 
 
 #### [Velocity-resolved reverberation mapping of five bright Seyfert 1 galaxies](https://arxiv.org/abs/1807.4784)
+    * 一批AGN的反响映射成图，除了定黑洞质量外，to look for velocity-dependent time delays that might be indicators of the gross kinematics of the broad-line region.
+    * We observe velocity dependent Hβ lags in each case, and find that the patterns have changed in the intervening five years for three AGNs that were also observed in 2007.
 
 
 #### [Deep LOFAR 150 MHz imaging of the Boötes field: Unveiling the faint low-frequency sky](https://arxiv.org/abs/1807.4878)
+    * LOw Frequency ARray (LOFAR) at 120-168 MHz of the Boötes field 巡天，10091射电源 (150MHz=1.998 meter)
+    * The derived 150 MHz source counts present a flattening below sub-mJy flux densities, that is in agreement with previous results from high- and low- frequency surveys. This flattening has been argued to be due to an increasing contribution of star-forming galaxies and faint active galactic nuclei.
 
 
 #### [Luminosity Profiles of Prominent Stellar Halos](https://arxiv.org/abs/1807.4922)
+    - **Relevant**
+    * 54个侧向盘星系，有很明显的halo结构
+    * A single Sersic profile fitted to the surface brightness along the minor-axis of the disk shows a luminosity excess in the central regions for the majority of sample galaxies. This central excess is considered to be caused by the central bulge component
+    * There is a weak tendency of increasing n with increasing luminosity and central velocity dispersion, but there is no dependence on the local background density
 
 
 #### [Predictably Missing Satellites: Subhalo Abundance in Milky Way-like Halos](https://arxiv.org/abs/1807.5180)
+    * Motivated by recent studies that identified ways in which the Milky Way is atypical (e.g., Licquia et al. 2015), we investigate how the properties of dark matter halos with mass comparable to our Galaxy’s — including concentration, spin, shape, and scale factor of the last major merger — correlate with the subhalo abundance.
+    * Concentration is the most informative single parameter for predicting subhalo abundance. 
+    * 用模拟看，银河系的subhalo abundance应当比类似的Vmax halo少一些
 
 
 #### [The XXL Survey: XVI. The clustering of X-ray selected galaxy clusters at z~0.3](https://arxiv.org/abs/1807.04760)
+    - **Relevant**
+    * We measured the angle-averaged two-point correlation function of the XXL cluster sample. 
+    * The XXL cluster clustering appears fully consistent with standard cosmological predictions. The analysis presented in this work demonstrates the feasibility of a cosmological exploitation of the XXL cluster clustering
 
 
 ----
@@ -433,25 +454,81 @@
 ## July 16:
 
 #### [A Robust Tip of the Red Giant Branch Distance to the Fireworks Galaxy (NGC 6946)](https://arxiv.org/abs/1807.05229)
+    * We employ a Bayesian maximum-likelihood modeling method that incorporates the completeness of the photometry, and allows us to model the luminosity function of the RGB population.
+    * Our final distance of 7.72 ± 0.32 Mpc is higher than most values published previously in the literature. 
+    * 这个星系里有10个观测到的超新星
 
 
 #### [Λ CDM Predictions for the Satellite Population of M33](https://arxiv.org/abs/1807.05318)
+    * M33也应该有几个自己的卫星，但没有观测到：This ‘satellites of satellites’ hierarchy has recently been explored in the context of the dwarf galaxies discovered around the Milky Way’s Magellanic Clouds in the Dark Energy Survey. 
+    * If M33 is on its first infall into M31’s halo, its proposed satellites are expected to remain bound to M33 today. However, if M33 experienced a recent tidal interaction with M31, the number of surviving satellites depends strongly on the distance achieved at pericenter due to the effects of tidal stripping.
 
 
 #### [A highly magnified gravitationally lensed red quasar at z = 2.5 with significant flux anomaly: Uncovering a missing population](https://arxiv.org/abs/1807.05434)
+    * The discovery of a gravitationally lensed dust-reddened QSO at z = 2.517 discovered in a survey for red QSOs by infrared selection.
+    * We find that compared to the central image of the cusp, the nearby, brightest image is anomalous by a factor of ∼ 7 − 11. Although the source is extremely bright in the mid-infrared, a magnification by a factor of ∼ 50 − 120 places an upper limit of 1.35 mJy on the intrinsic mid-infrared brightnes
 
 
 #### [SHARP - V. Modelling gravitationally-lensed radio arcs imaged with global VLBI observations](https://arxiv.org/abs/1807.05566)
+    * We present milliarcsecond (mas) angular resolution observations of the gravitationally lensed radio source MG J0751+2716 (at z = 3.2) obtained with global Very Long Baseline Interferometry (VLBI) at 1.65 GH
+    * By identifying compact sub-components in the multiple images, we constrain the mass distribution of the foreground z = 0.35 gravi- tational lens using analytic models: find an inner mass-density slope steeper than isothermal for the main lensing galaxy
+    * We find randomly distributed image position residuals of about 3 mas, which are much larger that the measurement errors (40 μas on average). 在mas精度上，smooth质量分布假设不正确
 
 
 #### [CO (7-6), [CI] 370 micron and [NII] 205 micron Line Emission of the QSO BRI 1335-0417 at Redshift 4.407](https://arxiv.org/abs/1807.05681)
-
+    * 红移4的一个红外亮Quasar的ALMA观测：As a warm dense gas tracer, the CO (7−6) emission shows a more compact spatial distribution and a significantly higher peak velocity dispersion than the other two lines that probe lower density gas, a picture favoring a merger-triggered star formation (SF) scenario over an orderly rotating SF disk.
+    * a possible QSO-driven gas outflow that reaches a maximum line-of-sight velocity of 500 to 600km s−1
 
 #### [Growth problems of stellar black holes in early galaxies](https://arxiv.org/abs/1807.05760)
-
+    * 模拟研究z=10的一个星系里面的100 Msun的黑洞在不同情况下的质量增长
+    * We find that, within the limits of our model, BH seeds cannot grow by more than 30%, suggesting that accretion on light-seed models are inadequate to explain high-z SMBH. 
+    * 早期黑洞会用X-ray假设IGM，也许会在HI 21cm的功率谱里面留下信号
 
 #### [AutoSpec: Fast Automated Spectral Extraction Software for IFU Datacubes](https://arxiv.org/abs/1807.05922)
+    * However, a great deal of information available within these datacubes is overlooked in favor of photometrically based spatial information
+    * Further, implementing our custom designed algorithms also improves the signal-to-noise of the extracted spectra and successfully deblends sources from nearby contaminants
 
 
 #### [Are NLS1s highly accreting low black hole mass AGNs?](https://arxiv.org/abs/1807.05260)
+    * To test this, we use a sample of 35 NLS1s and 54 BLS1s with similar X-ray luminosity distributions and good XMM-Newton observations.
+    * 用X-ray scaling relation得到黑洞质量
+    * On average, NLS1s have lower BH masses, but the difference between the average MBH of NLS1s and BLS1s in our sample is only marginally significant
+    * Even stronger differences between NLS1s and BLS1s are inferred when the accretion rate distributions of NLS1s are compared to BLS1s, suggesting that the two populations are indeed distinct
+
+
+----
+
+## July 17:
+
+#### [Does black-hole growth depend on the cosmic environment?](https://arxiv.org/abs/1807.06013)
+
+
+#### [ALMA [CI]3P1−3P0 observations of NGC6240: a puzzling molecular outflow, and the role of outflows in the global αCO factor of (U)LIRGs](https://arxiv.org/abs/1807.06015)
+
+
+#### [The Dragonfly Nearby Galaxies Survey. V. HST/ACS Observations of 23 Low Surface Brightness Objects in the Fields of NGC1052, NGC1084, M96, and NGC4258](https://arxiv.org/abs/1807.06016)
+
+
+#### [SDSS-IV MaNGA: Spatially resolved star-formation histories and the connection to galaxy physical properties](https://arxiv.org/abs/1807.06066)
+
+
+#### [Evolution of galaxy size--stellar mass relation from the Kilo Degree Survey](https://arxiv.org/abs/1807.06085)
+
+
+#### [Identifying quasars with astrometric and mid-infrared methods from APOP and ALLWISE](https://arxiv.org/abs/1807.06177)
+
+
+#### [Relationships between HI Gas Mass, Stellar Mass and Star Formation Rate of HICAT+WISE (HI-WISE) Galaxies](https://arxiv.org/abs/1807.06246)
+
+
+#### [Revisiting the clustering of narrow-line AGN in the local Universe: Joint dependence on stellar mass and color](https://arxiv.org/abs/1807.06395)
+
+
+#### [Long term X-ray variability characteristics of the narrow-line Seyfert 1 galaxy RE~J1034+396](https://arxiv.org/abs/1807.06460)
+
+
+#### [Forecasts on dark energy from the X-ray cluster survey with eROSITA: constraints from counts and clustering](https://arxiv.org/abs/1807.06021)
+
+
+#### [The hyperluminous Compton-thick z∼2 quasar nucleus of the hot DOG W1835+4355 observed by NuSTAR](https://arxiv.org/abs/1807.06022)
 
