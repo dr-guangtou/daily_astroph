@@ -501,34 +501,75 @@
 ## July 17:
 
 #### [Does black-hole growth depend on the cosmic environment?](https://arxiv.org/abs/1807.06013)
+    * Results show that BHAR does not significantly depend on overdensity or cosmic-web environment once M⋆ is controlled
+    * We find that BHAR is strongly related to host- galaxy M⋆, regardless of environment.
 
 
 #### [ALMA [CI]3P1−3P0 observations of NGC6240: a puzzling molecular outflow, and the role of outflows in the global αCO factor of (U)LIRGs](https://arxiv.org/abs/1807.06015)
+    * We discover that the receding and approaching sides of the H2 outflow, aligned east-west, exceed 10 kpc in their total extent.
+    * the outflow emission peaks between the two active galactic nuclei (AGN), rather than on either of the two, and that it dominates the velocity field in this nuclear region
 
 
 #### [The Dragonfly Nearby Galaxies Survey. V. HST/ACS Observations of 23 Low Surface Brightness Objects in the Fields of NGC1052, NGC1084, M96, and NGC4258](https://arxiv.org/abs/1807.06016)
+    - **Relevant, Important**
+    * 4个group里面看到的24个LSB的HST/ACS图像，7个是新发现的
+    * 用TRGB和SB fluctuation来测量距离
+    * This suggests that assuming group membership based solely on projected proximity is ∼ 75 % successful in this regime.  
+    * Four of the objects fall in the class of ultra diffuse galaxies (UDGs)
+    * Several of the galaxies appear to contain one or more star cluster-like objects and/or a bright, cen- tral nuclear star cluster, while others have none.
+
+
+#### [The Distance of the Dark Matter Deficient Galaxy NGC1052-DF2](https://arxiv.org/abs/1807.06025)
+    - **Relevant**
+    * Trujillo et al. (2018) proposed a much closer distance of 13 Mpc, based largely on a putative detection of the tip of the red giant branch (TRGB) in the color-magnitude diagram (CMD) and a recalibration of our SBF measurement. 
+    * Here we analyze the CMD using both fully populated galaxy models and other galaxies in our HST sample, and demonstrate that Trujillo et al. almost certainly confused blends for individual red giants in their analysis.
+    * From a megamaser-TRGB-SBF distance ladder we obtain D = 18.7 ± 1.7 Mpc, consistent with our previous measurement and with the distance to NGC1052.
 
 
 #### [SDSS-IV MaNGA: Spatially resolved star-formation histories and the connection to galaxy physical properties](https://arxiv.org/abs/1807.06066)
+    * The spatial distribution of star-formation is dependent primarily on stellar mass, with a noticeable change in the distribution at M∗> 10^10M⊙ .
+    * Galaxies above this mass have an increasing fraction of regions that are forming stars with increasing radius, whereas lower mass galaxies have a constant fraction of star forming regions with radius. --> inside-out growth and quenching at high-mass 
 
 
 #### [Evolution of galaxy size--stellar mass relation from the Kilo Degree Survey](https://arxiv.org/abs/1807.06085)
+    - **Relevant**
+    * structural parameters of about 340, 000 galaxies from the Kilo Degree Survey (KiDS) in 153 square degrees of data release 1, 2 and 3.
+    * 2-D Single Sersic fit to 4 bands images 
+    * Our results show a significant evolution of the structural quantities at intermediate redshift for the massive spheroids, while almost no evolution has found for less massive ones
+    * disc dominated systems show a milder evolution in the less massive systems
 
 
 #### [Identifying quasars with astrometric and mid-infrared methods from APOP and ALLWISE](https://arxiv.org/abs/1807.06177)
+    * We used a near-zero proper motion criterion in conjuction with WISE (all-sky Wide-field Infrared Survey Explorer) [W1 − W2] color to select quasar candidates. 
 
 
 #### [Relationships between HI Gas Mass, Stellar Mass and Star Formation Rate of HICAT+WISE (HI-WISE) Galaxies](https://arxiv.org/abs/1807.06246)
+    * Of the 3,513 HICAT sources, we find 3.4 μm counterparts for 2,896 sources (80%) and provide new WISE matched aperture photometry for these galaxies.
+    * Our observations of the spiral sample show that Hi mass increases with stellar mass with a power-law index 0.35; however, this value is dependent on T-type, which affects both the median and the dispersion of Hi mass. 
+    * We also observe an upper limit on the Hi gas fraction, which is consistent with a halo spin parameter model.
 
 
 #### [Revisiting the clustering of narrow-line AGN in the local Universe: Joint dependence on stellar mass and color](https://arxiv.org/abs/1807.06395)
+    * AGN in galaxies with blue colors or massive red galaxies with M∗ >∼ 10^10.5M⊙ are found to show almost identical clustering amplitudes at all scales to control galaxies of the same mass, color and structural parameters. --> 在哪种颜色的星系里，AGN活动的触发过程都是一样的。
+    * The antibias of AGN at scales between ∼ 100kpc and a few Mpc, as found in Li et al. (2006b) for the AGN as a whole, is observed only for the AGN hosted by galaxies with red colors and relatively low masses
+    * Our result implies that the mass assembly history of dark halos may play an additional role in the AGN activity in low-mass red galaxies.
 
 
 #### [Long term X-ray variability characteristics of the narrow-line Seyfert 1 galaxy RE~J1034+396](https://arxiv.org/abs/1807.06460)
+    * 印度AstroSat的结果：The X-ray spectra in the 0.3 - 20 keV region are well fit with a model consisting of a power-law and a soft excess described by a thermal-Compton emission with a large optical depth,
+    * variability is slightly larger in the hard band.
+    * there are evidences to suggest that the variability sharply increases at longer time scales. 
 
 
 #### [Forecasts on dark energy from the X-ray cluster survey with eROSITA: constraints from counts and clustering](https://arxiv.org/abs/1807.06021)
+    - **Interesting**
+    * 对预测能力有影响的考量：(i) X-ray follow-up observations, (ii) photometric and spectroscopic redshifts, and (iii) accurate knowl- edge of the observable – mass relation down to the scale of galaxy groups. 
+    * 125000 clusters with more than 50 photons; M500c>10^13 Msun; 在1.6ks的曝光下
+    * Our findings correspond to a dark-energy figure of merit in the range of 116 − 162 (after the four years of all-sky survey)
+    * 最重要的是To secure improved mass calibrations and to include high-redshift clusters (z >0.5) as well as objects at the group-mass scale 
 
 
 #### [The hyperluminous Compton-thick z∼2 quasar nucleus of the hot DOG W1835+4355 observed by NuSTAR](https://arxiv.org/abs/1807.06022)
+    * The source exhibits a Compton-thick column density and a prominent soft excess
+    * The heavily obscured nature, together with Lbol, the ratio of X-ray to mid-infrared luminosity, the rest-frame optical morphology, and the host star formation rate are indicative of its evolutionary stage. 
 
