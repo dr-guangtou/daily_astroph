@@ -573,3 +573,25 @@
     * The source exhibits a Compton-thick column density and a prominent soft excess
     * The heavily obscured nature, together with Lbol, the ratio of X-ray to mid-infrared luminosity, the rest-frame optical morphology, and the host star formation rate are indicative of its evolutionary stage. 
 
+
+----
+
+## July 18:
+
+#### [A 100-pc Scale, Fast and Dense Outflow in Narrow-Line Seyfert 1 Galaxy IRAS04576+0912](https://arxiv.org/abs/1807.06594)
+
+
+#### [Ring Galaxies Through Off-Center Minor Collisions by Tuning Bulge-to-Disk Mass Ratio of Progenitors](https://arxiv.org/abs/1807.06598)
+
+
+#### [SOFIA/HAWC+ detection of a gravitationally lensed starburst galaxy at z = 1.03](https://arxiv.org/abs/1807.06664)
+
+
+#### [The Frequency of Dwarf Galaxy Multiples at Low Redshift in SDSS vs. Cosmological Expectations](https://arxiv.org/abs/1807.06673)
+
+
+#### [High-resolution radio imaging of two luminous quasars beyond redshift 4.5](https://arxiv.org/abs/1807.06837)
+
+
+#### [Cosmic dance in the Shapley Concentration Core - I. A study of the radio emission of the BCGs and tailed radio galaxies](https://arxiv.org/abs/1807.06904)
+
