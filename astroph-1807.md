@@ -595,3 +595,37 @@
 
 #### [Cosmic dance in the Shapley Concentration Core - I. A study of the radio emission of the BCGs and tailed radio galaxies](https://arxiv.org/abs/1807.06904)
 
+
+----
+
+## July 19:
+
+#### [A Deficit of Dark Matter from Jeans Modeling of the Ultra-diffuse Galaxy NGC 1052-DF2](https://arxiv.org/abs/1807.07069)
+
+
+#### [The Molecular and Ionized Gas Phases of an AGN-driven Outflow in a Typical Massive Galaxy at z=2](https://arxiv.org/abs/1807.07074)
+
+
+#### [Far-infrared Herschel SPIRE spectroscopy of lensed starbursts reveals physical conditions of ionised gas](https://arxiv.org/abs/1807.07080)
+
+
+#### [A Quantification of the Butterfly Effect in Cosmological Simulations and Implications for Galaxy Scaling Relations](https://arxiv.org/abs/1807.07084)
+
+
+#### [Abundance matching with the mean star formation rate: there is no missing satellites problem in the Milky Way](https://arxiv.org/abs/1807.07093)
+
+
+#### [Simulating an Isolated Dwarf Galaxy with Multi-Channel Feedback and Chemical Yields from Individual Stars](https://arxiv.org/abs/1807.07182)
+
+
+#### [A catalog of merging dwarf galaxies in the local universe](https://arxiv.org/abs/1807.07195)
+
+
+#### [The duty cycle of the radio galaxy B2 0258+35](https://arxiv.org/abs/1807.07280)
+
+
+#### [UVIT imaging of WLM : Demographics of star forming regions in the nearby dwarf irregular galaxy](https://arxiv.org/abs/1807.07359)
+
+
+#### [Modeling projection effects in optically-selected cluster catalogues](https://arxiv.org/abs/1807.07072)
+
