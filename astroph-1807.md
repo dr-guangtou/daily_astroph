@@ -601,9 +601,11 @@
 ## July 19:
 
 #### [A Deficit of Dark Matter from Jeans Modeling of the Ultra-diffuse Galaxy NGC 1052-DF2](https://arxiv.org/abs/1807.07069)
-
+    * Models in which the galaxy obeys a standard stellar-halo mass relation are in tension with the data and also require a large central density core. Better fits are obtained when the halo mass is left free, even after accounting for increased model complexity. 
 
 #### [The Molecular and Ionized Gas Phases of an AGN-driven Outflow in a Typical Massive Galaxy at z=2](https://arxiv.org/abs/1807.07074)
+    * We develop an empirical method to characterize the impact of projection effects on redMaPPer cluster catalogues. We use numerical simulations to validate our method and illustrate its robustness.
+    * We demonstrate that modeling of projection effects is a necessary component for cluster abundance studies capable of reaching ≈ 5% mass calibration uncertainties
 
 
 #### [Far-infrared Herschel SPIRE spectroscopy of lensed starbursts reveals physical conditions of ionised gas](https://arxiv.org/abs/1807.07080)
@@ -629,3 +631,53 @@
 
 #### [Modeling projection effects in optically-selected cluster catalogues](https://arxiv.org/abs/1807.07072)
 
+
+----
+
+## July 22:
+
+#### [The prevalence and properties of cold gas inflows and outflows around galaxies in the local Universe](https://arxiv.org/abs/1807.07575)
+    * We find low-velocity outflows to be prevalent in regions of high SFRs and stellar masses; low-mass没有detection
+    * We also find tentative detections of inflowing gas in high mass galaxies across the star forming populations.
+    * The vast majority of the outflows unlikely to escape the host system
+
+
+#### [Evolution of the galaxy stellar mass functions and UV luminosity functions at z=6−9 in the Hubble Frontier Fields](https://arxiv.org/abs/1807.07580)
+    * UV luminosity functions (UV LF) for galaxies from z = 6 − 9 within the Frontier Field cluster MACSJ0416.1-2403 and its parallel field.
+    * The low-mass end of our stellar mass functions to these limits and redshifts continues to become steeper from z=6 to z=9.
+    * Our results support a smooth decline of ρUV towards high redshifts.
+    * Briefly, we compute the stellar masses and rest-frame magnitudes using a custom template-fitting routine SMpy6 (Duncan et al. 2014)
+
+
+#### [The supernova rate beyond the optical radius](https://arxiv.org/abs/1807.07585)
+    * we investigate the supernova (SN) rate in the outskirts of galaxies, using the largest and most homogeneous set of nearby supernovae (SNe) from the Lick Observatory Supernova Search (LOSS). 
+    * we find that the rate beyond the optical radius of spiral galaxies is 2.5 ± 0.5 SNe per millennium, while dwarf galaxies host 4.0 ± 2.2 SNe per millennium.
+    * The relative ratio of core-collapse to Type Ia SNe is comparable in the inner and outer parts of spirals, and in dwarf galaxies.
+
+
+#### [Emergence and Variability of Broad Absorption Line Quasar Outflows](https://arxiv.org/abs/1807.07594)
+    * Emergent CIV BAL: After visually defining a set of emergent BALs, follow-up observations were obtained with the Gemini Observatory for 105 quasars.
+    * We find an emergence rate consistent with the previously reported disappearance rate of BAL quasars given the relative numbers of non-BAL and BAL quasars in the SDSS.
+    * the coherence time-scale of BALs is less than 100 rest-frame days.
+
+
+#### [An X-ray view of central engines of low luminosity quasars (LLQSO) in the local Universe](https://arxiv.org/abs/1807.07641)
+    * We find that although the bolometric luminosities of the LLQSOs are lower than those of the higher redshift quasars by almost an order of magnitude, their distribution of the Eddington rate λ Edd is similar.
+    * UV luminosity of the source increases, the X-ray luminosity decreases
+    * 低光度的原因不是中性气体遮挡; 可能就是黑洞质量低
+
+#### [Schwarzschild dynamical model of the Fornax dwarf spheroidal galaxy](https://arxiv.org/abs/1807.07852)
+    * spherically symmetric Schwarzschild orbit superposition method
+    * 有证据显示Fornax在一个质量比较大的halo里，M/L符合constant
+    * 方法不需要对轨道非各向同性有假设：The derived anisotropy is close to zero in the centre of the galaxy and decreases with radius, but remains consistent with isotropic orbits at all radii at 1σ confidence level.
+
+
+#### [The role of galaxies and AGN in reionizing the IGM - II: metal-tracing the faint sources of reionization at 5≲z≲6](https://arxiv.org/abs/1807.07899)
+    * study the contribution of faint sources to the UV background using the cross-correlation of metal absorbers with the intergalactic medium (IGM) transmission in a proximate Quasi Stellar Object (QSO) sightline.
+    * Cross-correlation with the Lyman-α forest of the QSOs indicates that these objects (CIV absorbers) are surrounded by a highly opaque region of neutral hydrogen to r<5 cMpc/h followed by an excess of transmission at r<10 cMpc/h detected at 2.7σ.  
+    * 可能是faint galaxies的clustering造成的
+
+
+#### [A high dust emissivity index β for a CO-faint galaxy in a filamentary Lyα nebula at z=3.1](https://arxiv.org/abs/1807.07933)
+    * CO J=4-3光度比相同远红外光度的DSFGs要低，CO depletion时标短
+    * It is suggested that this source is in a transition phase from DSFG to a gas-poor, early-type galaxy.
