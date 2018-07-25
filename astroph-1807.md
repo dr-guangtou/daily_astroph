@@ -627,6 +627,9 @@
 
 
 #### [UVIT imaging of WLM : Demographics of star forming regions in the nearby dwarf irregular galaxy](https://arxiv.org/abs/1807.07359)
+    * We find that the UV emission is extended at least up to 1.7 kpc, with the NUV emission more extended than the FUV
+    * We identify several complexes with temperature T > 17500 K which are likely to be the OB associations present in the galaxy. Halpha也可见
+    * The hot star forming regions are found to be clumpy in nature and show a hierarchical structure, with sizes in the range of 4 - 50 pc, with a large number with sizes < 10 pc. 
 
 
 #### [Modeling projection effects in optically-selected cluster catalogues](https://arxiv.org/abs/1807.07072)
@@ -681,3 +684,72 @@
 #### [A high dust emissivity index β for a CO-faint galaxy in a filamentary Lyα nebula at z=3.1](https://arxiv.org/abs/1807.07933)
     * CO J=4-3光度比相同远红外光度的DSFGs要低，CO depletion时标短
     * It is suggested that this source is in a transition phase from DSFG to a gas-poor, early-type galaxy.
+
+
+----
+
+## July 23:
+
+#### [The physics of multiphase gas flows: fragmentation of a radiatively cooling gas cloud in a hot wind](https://arxiv.org/abs/1807.07971)
+    * Idealised simulations of the interaction of a hot supersonic wind with a cold cloud with the moving-mesh code arepo in setups with and without radiative cooling.
+    * 当cloud尺寸大于cooling length的时候，云团开始碎裂
+    * Those show that radiative cooling causes the power spectral index to gradually increase when the initial cloud radius is larger than the cooling length and with increasing time until the cloud is fully dissolved in the hot wind.
+    * 需要1pc的分辨率才能理解这个过程，This physics is, how- ever, necessary to reliably model observed column densities and covering fractions of Lyman-α haloes, high-velocity clouds, and broad-line regions of active galactic nuclei.
+
+#### [Mid-IR Variability of Quasars and A Luminous Transient Event in A WISE-Selected AGN](https://arxiv.org/abs/1807.07985)
+    * WISE选的AGN，45个MIR光变明显，且不是blazars的后续观测；
+    * 只有7个有光学光变，5个是光学AGN
+    * 一个里面看到了transient：We find that the most likely source of the transient is a super-luminous supernova (SLSN) in W0948+0318.
+    * MIR颜色没变化，SN有可能位于Torus内
+
+
+#### [The dearth of difference between central and satellite galaxies II. Comparison of observations with L-GALAXIES and EAGLE in star formation quenching](https://arxiv.org/abs/1807.08198)
+
+
+#### [Ring Galaxies in the EAGLE Hydrodynamical Simulations](https://arxiv.org/abs/1807.08251)
+
+
+#### [Unravelling the complex structure of AGN-driven outflows III. The outflow size-luminosity relation](https://arxiv.org/abs/1807.08356)
+
+
+#### [The XXL Survey: XXXIV. Double irony in XXL-North. A tale of two radio galaxies in a supercluster at z = 0.14](https://arxiv.org/abs/1807.08653)
+
+
+#### [The Next Generation Virgo Cluster Survey (NGVS) XXXI. The kinematics of intra-cluster globular clusters in the core of the Virgo cluster](https://arxiv.org/abs/1807.08750)
+
+
+----
+
+## July 24:
+
+#### [Connecting the X-ray properties of weak-line and typical quasars: testing for a geometrically thick accretion disk](https://arxiv.org/abs/1807.08757)
+
+
+#### [Clustered Supernovae Drive Powerful Galactic Winds After Super-Bubble Breakout](https://arxiv.org/abs/1807.08758)
+
+
+#### [The role of mergers in driving morphological transformation over cosmic time](https://arxiv.org/abs/1807.08761)
+
+
+#### [Stellar populations and star formation histories of the nuclear star clusters in six nearby galaxies](https://arxiv.org/abs/1807.08765)
+
+
+#### [Wobbling galaxy spin axes in dense environments](https://arxiv.org/abs/1807.08819)
+
+
+#### [SDSS-IV MaNGA: The intrinsic shape of slow rotator early-type galaxies](https://arxiv.org/abs/1807.08867)
+
+
+#### [The Atacama Cosmology Telescope: CO(J = 3 - 2) mapping and lens modeling of an ACT-selected dusty star-forming galaxy](https://arxiv.org/abs/1807.08895)
+
+
+#### [The interacting late-type host galaxy of the radio-loud narrow-line Seyfert 1 IRAS 20181-224](https://arxiv.org/abs/1807.08953)
+
+
+#### [Cold gas in a complete sample of group-dominant early-type galaxies](https://arxiv.org/abs/1807.09110)
+
+
+#### [Constraints on Cosmology and Baryonic Feedback with the Deep Lens Survey Using Galaxy-Galaxy and Galaxy-Mass Power Spectra](https://arxiv.org/abs/1807.09195)
+
+
+#### [Constraints on Cosmology and Baryonic Feedback with the Deep Lens Survey Using Galaxy-Galaxy and Galaxy-Mass Power Spectra](https://arxiv.org/abs/1807.09195)
