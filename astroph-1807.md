@@ -753,3 +753,46 @@
 
 
 #### [Constraints on Cosmology and Baryonic Feedback with the Deep Lens Survey Using Galaxy-Galaxy and Galaxy-Mass Power Spectra](https://arxiv.org/abs/1807.09195)
+
+
+----
+
+## July 25:
+
+#### [The rise and fall of the UV upturn: z=0.3, 0.55 and 0.7](https://arxiv.org/abs/1807.09274)
+
+
+#### [The mass-metallicity relation of high-z type-2 active galactic nuclei](https://arxiv.org/abs/1807.09276)
+
+
+#### [Spectroscopic investigation of a reionized galaxy overdensity at z=7](https://arxiv.org/abs/1807.09277)
+
+
+#### [Is every strong lens model unhappy in its own way? Uniform modelling of a sample of 12 quadruply+ imaged quasars](https://arxiv.org/abs/1807.09278)
+
+
+#### [Column Density Profiles of Cold Clouds Driven by Galactic Outflows](https://arxiv.org/abs/1807.09279)
+
+
+#### [The stellar populations of the central region of M31](https://arxiv.org/abs/1807.09284)
+
+
+#### [The extended HeIIλ4686 emission in the extremely metal-poor galaxy SBS0335-052E seen with MUSE](https://arxiv.org/abs/1807.09307)
+
+
+#### [Detection of the gravitational redshift in the orbit of the star S2 near the Galactic centre massive black hole](https://arxiv.org/abs/1807.09409)
+
+
+#### [The Utility of Lyman-alpha Emission Lines as a Probe of Interactions between High Redshift Galaxies and their Environments](https://arxiv.org/abs/1807.09579)
+
+
+#### [Kinematics and physical properties of the nearby galaxy NGC 4656 and its TDG candidate](https://arxiv.org/abs/1807.09714)
+
+
+#### [Impact of radio sources and cosmic infrared background on thermal Sunyaev-Zel’dovich - gravitational lensing cross correlation](https://arxiv.org/abs/1807.09412)
+
+
+#### [A large accretion disk of extreme eccentricity in the TDE ASASSN-14li](https://arxiv.org/abs/1807.09311)
+
+
+#### [A large accretion disk of extreme eccentricity in the TDE ASASSN-14li](https://arxiv.org/abs/1807.09311)
