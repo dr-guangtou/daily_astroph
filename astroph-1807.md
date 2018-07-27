@@ -787,7 +787,9 @@
 
 
 #### [Kinematics and physical properties of the nearby galaxy NGC 4656 and its TDG candidate](https://arxiv.org/abs/1807.09714)
-
+    * NGC 4656UV has a low metallicity (12+log(O/H)∼8.2) and it follows the mass-metallicity relation (MZR) for normal dwarf galaxies.
+    * NGC 4656的丰度梯度很平，可能和interaction有关
+    * we propose that NGC 4656 and 4656UV are a pair of interacting galaxies. NGC 4656UV is a companion of NGC 4656 and it does not have a tidal origin. 
 
 #### [Impact of radio sources and cosmic infrared background on thermal Sunyaev-Zel’dovich - gravitational lensing cross correlation](https://arxiv.org/abs/1807.09412)
 
@@ -795,4 +797,38 @@
 #### [A large accretion disk of extreme eccentricity in the TDE ASASSN-14li](https://arxiv.org/abs/1807.09311)
 
 
-#### [A large accretion disk of extreme eccentricity in the TDE ASASSN-14li](https://arxiv.org/abs/1807.09311)
+----
+
+## July 26:
+
+#### [Galaxy populations in the most distant SPT-SZ clusters - I. Environmental quenching in massive clusters at 1.4≲z≲1.7](https://arxiv.org/abs/1807.09768)
+
+
+#### [Free-floating molecular clumps and gas mixing: hydrodynamic aftermaths of the intracluster−interstellar medium interaction](https://arxiv.org/abs/1807.09771)
+
+
+#### [Evolution of the AGN UV luminosity function from redshift 7.5](https://arxiv.org/abs/1807.09774)
+
+
+#### [Forming circumnuclear disks and rings in galactic nuclei: a competition between supermassive black hole and nuclear star cluster](https://arxiv.org/abs/1807.09780)
+
+
+#### [Violent quenching: molecular gas blown to 1000 km/s during a major merger](https://arxiv.org/abs/1807.09789)
+
+
+#### [Cosmic happenstance: 24-μm selected, multi-component Herschel sources are line-of-sight projections](https://arxiv.org/abs/1807.09790)
+
+
+#### [Investigating the cause of the α-z relation](https://arxiv.org/abs/1807.09793)
+
+
+#### [A mass-velocity anisotropy relation in galactic stellar disks](https://arxiv.org/abs/1807.09833)
+
+
+#### [The changing GMC population in galaxy interactions](https://arxiv.org/abs/1807.09980)
+
+
+#### [Modeling the Milky Way as a Dry Galaxy](https://arxiv.org/abs/1807.10019)
+
+
+#### [Dust in the Eye of Andromeda](https://arxiv.org/abs/1807.10238)
