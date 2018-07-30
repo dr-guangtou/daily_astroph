@@ -808,27 +808,96 @@
 
 
 #### [Evolution of the AGN UV luminosity function from redshift 7.5](https://arxiv.org/abs/1807.09774)
+    * we homogenise these data sets to identical cosmologies, intrinsic AGN spectra, and magnitude systems.
+    * The luminosity function has a double power law form at all redshifts
+    * In spite of this steepening, the contribution of AGN to the hydrogen photoionization rate at z ∼ 6 is subdominant (< 3%), although it can be non-negligible (∼ 10%) if these luminosity functions hold down to M1450 = −18. 
 
 
 #### [Forming circumnuclear disks and rings in galactic nuclei: a competition between supermassive black hole and nuclear star cluster](https://arxiv.org/abs/1807.09780)
-
+    * 模拟研究：formation of circumnuclear gas structures from the tidal disruption of molecular clouds in galactic nuclei
+    * 发现黑洞质量和核心星团的质量比例对气体结构影响很大
+    * Extended disks form only inside the sphere of influence of the SMBH. In contrast, compact rings naturally form outside the SMBH’s sphere of influence, where the gravity is dominated by the NSC.
+    * 尺寸比较紧致的核周环可以在黑洞的Sphere of influence之外形成
 
 #### [Violent quenching: molecular gas blown to 1000 km/s during a major merger](https://arxiv.org/abs/1807.09789)
+    - **Interesting** 
+    * z=0.66的一个大质量 (10^11 Msun)，compact merger remnant中看到了1000 km/s的分子外流，且没有AGN活动。
+    * 认为是中心星暴驱动；但现在看不到AGN，不代表过去不是AGN驱动的
+    * We argue that this is the molecular component of a multiphase outflow, expelled from the central starburst within the past 5 Myr through stellar feedback
 
 
 #### [Cosmic happenstance: 24-μm selected, multi-component Herschel sources are line-of-sight projections](https://arxiv.org/abs/1807.09790)
+    * This is in good agreement with the results of recent simulations, which indicate that single-dish observations of the FIR sky should be strongly contaminated by line of sight projection effects.
+    * COSMOS field里用MIR选的，FIR亮的，多成分星系多数都是视线方向的重合导致的。
 
 
 #### [Investigating the cause of the α-z relation](https://arxiv.org/abs/1807.09793)
+    * High-z radio galaxies with steep radio spectrum
+    * Traditional explanations invoke either (i) intrinsic relations between spectral index and power, (ii) environ- mental differences at high redshift, or (iii) higher inverse Compton losses due to the increased photon energy density of the cosmic microwave background.
 
 
 #### [A mass-velocity anisotropy relation in galactic stellar disks](https://arxiv.org/abs/1807.09833)
+    * presents the modeling of the azimuthal-to-radial axis ratio of the velocity ellipsoid of galactic disks from stellar dispersion maps using integral field spectroscopy data of the CALIFA survey. 
+    * The anisotropy distribution shows a large diversity in the orbital structure of disk galaxies, from tangential to radial stellar orbits.
+    * 盘中心更各项同性，到了外面轨道变得越来越radial
+    * The Milky Way orbital anisotropy profile measured from the Second Gaia Data Release is consistent with those of CALIFA galaxies
+    * More (less) luminous disks have more radial (isotropic and somewhat tangential, respectively) orbits
+    * epicycle theory fails to reproduce the diversity of azimuthal anisotropy of stellar random motions
 
 
 #### [The changing GMC population in galaxy interactions](https://arxiv.org/abs/1807.09980)
+    * We see the cloud population shift to large unbound clouds in the wake of the companion passage
+    * These are then sheared apart as they leave the protection of the spiral arms.
+    * Overall this cloud population produces a shallower mass function than the disc in isolation, especially in the arms compared to the inter-arm regions.
 
 
 #### [Modeling the Milky Way as a Dry Galaxy](https://arxiv.org/abs/1807.10019)
+    * We find that net angular-momentum of the dark-matter halo with a spin parameter of λ = 0.06 is required to form a relatively short bar (∼ 4 kpc) with a high pattern speed
+    * In our simulations the observed gap in the velocity distribution, which is expected to be caused by the outer Lindblad resonance (the so-called Hercules stream), appears to be a time-dependent structure.
 
 
 #### [Dust in the Eye of Andromeda](https://arxiv.org/abs/1807.10238)
+    * Herschel-derived images of warm dust in the Andromeda Galaxy, M31, with unprecedented spatial resolution (∼ 30 pc), column density accuracy
+    * 中心尘埃结构：a prominent feature of which is a ∼ 500 pc bar-like structure seen previously in Hα
+        - Our maps show it to be the site of the warmest dust, with a mean line-of-sight temperature ∼ 30 K
+        - 引力引起的bar; nested bar
+
+
+----
+
+## July 30:
+
+#### [Dissection of the collisional and collisionless mass components in a mini sample of CLASH and HFF massive galaxy clusters at z≈0.4](https://arxiv.org/abs/1807.10286)
+
+
+#### [The SPLASH and Chandra COSMOS Legacy Survey: the Cross Power Between Near-Infrared and X-Ray Background Fluctuations](https://arxiv.org/abs/1807.10304)
+
+
+#### [The FIRST Classifier: Compact and Extended Radio Galaxy Classification using Deep Convolutional Neural Networks](https://arxiv.org/abs/1807.10380)
+
+
+#### [Optical spectroscopy of young tidal objects around two interacting galaxy pairs](https://arxiv.org/abs/1807.10404)
+
+
+#### [Galaxy Morphology Classification with Deep Convolutional Neural Networks](https://arxiv.org/abs/1807.10406)
+
+
+#### [Rebutting fake news on full spectral fitting](https://arxiv.org/abs/1807.10423)
+
+
+#### [NIHAO XVII: The diversity of dwarf galaxy kinematics and implications for the HI velocity function](https://arxiv.org/abs/1807.10518)
+
+
+#### [Extreme Gaseous Outflows in Radio-Loud Narrow-Line Seyfert 1 Galaxies](https://arxiv.org/abs/1807.10518)
+
+
+#### [Cluster kinematics and stellar rotation in NGC 419 with MUSE and adaptive optics](https://arxiv.org/abs/1807.10612)
+
+
+#### [Pristine Dwarf-Galaxy Survey I: A detailed photometric and spectroscopic study of the very metal-poor Draco II satellite](https://arxiv.org/abs/1807.10655)
+
+
+#### [The Keck Cosmic Web Imager Integral Field Spectrograph](https://arxiv.org/abs/1807.10356)
+
+
+#### [Relativistic reflection from accretion disks in the population of Active Galactic Nuclei at z=0.5-4](https://arxiv.org/abs/1807.10677)
