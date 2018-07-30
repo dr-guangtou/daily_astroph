@@ -868,36 +868,68 @@
 ## July 30:
 
 #### [Dissection of the collisional and collisionless mass components in a mini sample of CLASH and HFF massive galaxy clusters at z≈0.4](https://arxiv.org/abs/1807.10286)
+    * we are able to disentangle this mass term from the diffuse dark matter in our new strong-lensing analysis, with approximately 50-100 secure multiple images per cluster, effectively separating the collisional and collisionless mass components of the clusters.
+    * 200 kpc内的total mass fraction非常接近，但是热气体比例很不一样
+    * Moreover, we do not find a statistically significant offset between the positions of the peak of the diffuse dark matter component and of the BCG in the more complex clusters of the sample.
 
 
 #### [The SPLASH and Chandra COSMOS Legacy Survey: the Cross Power Between Near-Infrared and X-Ray Background Fluctuations](https://arxiv.org/abs/1807.10304)
+    * We study the source-subtracted near-infrared and X-ray background fluctuations of the COSMOS field
+    * Auto power spectrum & cros power spectrum
+    * We find that the soft X-ray band is correlated with 3.6 and 4.5μm at ∼ 4 σ significance level.
+    * We compare the new measurements with existing models for the contributions from known populations at z<7, which are not subtracted. The model predictions are consistent with the measurements but we cannot rule out contributions from other components
+    * Direct Collapse Black Holes (DCBH) 可能有贡献
 
 
 #### [The FIRST Classifier: Compact and Extended Radio Galaxy Classification using Deep Convolutional Neural Networks](https://arxiv.org/abs/1807.10380)
+    * Radio galaxies have been traditionally been classified as Fanaroff-Riley (FR) I and II, although some exhibit more complex ’bent’ morphologies arising from environmental factors or intrinsic properties.
+    * We developed the FIRST Classifier based on a trained Deep Convolutional Neural Network Model to automate the morphological classification of compact and extended radio sources observed in the FIRST radio survey.
 
 
 #### [Optical spectroscopy of young tidal objects around two interacting galaxy pairs](https://arxiv.org/abs/1807.10404)
+    * GMOS spectra of Hi-rich tidal features located around the outskirts of two interacting galaxy pairs, NGC 3166/9 and NGC 4725/47.
+    * confirmed the tidal origins of TDG candidate AGC 208457, which has emerged from the tidal debris of an interaction between the NGC 3166/9 galaxy pair. 
 
 
 #### [Galaxy Morphology Classification with Deep Convolutional Neural Networks](https://arxiv.org/abs/1807.10406)
+    * propose a variant of residual networks (ResNets) for galaxy morphology classification.
+    * the proposed network achieves the state-of-the-art classification performance among the networks, namely, Dieleman, AlexNet, VGG, Inception and ResNets. 
 
 
 #### [Rebutting fake news on full spectral fitting](https://arxiv.org/abs/1807.10423)
+    * 关于Ge 2018年文章里对Starlight在Av高的时候表现的批评，尤其是和信噪比的趋势
+    * This is entirely due to an AV < 1 mag condition imposed while initializing the Markov chains in the code.
 
 
 #### [NIHAO XVII: The diversity of dwarf galaxy kinematics and implications for the HI velocity function](https://arxiv.org/abs/1807.10518)
+    * 矮星系里的HI W50/2和理论预测的最大旋转速度比过低，可能是小质量星系不是完全旋转主导；HI分布过于集中
+    * Additionally, mass loss driven by supernovae and projection effects (dwarf galaxies are in general not thin disks) further reduce the linewidths.
+    * This choice is normally irrelevant in real-life galaxy work but can become critical in artificial experiments
+    * We replicate their spectral fitting experiments, find- ing much smaller biases. Furthermore both bias and scatter in the derived properties all converge as S/N increases, as one would expect. 
 
 
 #### [Extreme Gaseous Outflows in Radio-Loud Narrow-Line Seyfert 1 Galaxies](https://arxiv.org/abs/1807.10518)
+    * Four radio-loud NLS1 galaxies with extreme emission-line shifts, indicating radial outflow velocities of the ionized gas of up to 2450 km/s
+    * An ionization stratification (higher line shift at higher ionization potential) implies that we see a large-scale outflow rather than single, localized jet-cloud interactions.
+    * Given the radio loudness of these NLS1 galaxies, the observations are consistent with a pole on view onto their central engines, so that the effects of polar outflows are maximized
 
 
 #### [Cluster kinematics and stellar rotation in NGC 419 with MUSE and adaptive optics](https://arxiv.org/abs/1807.10612)
+    * A stacking analysis of spectra at both sides of the extended MSTO reveals signifi- cant rotational broadening. Our analysis further provides tentative evidence that red MSTO stars rotate faster than their blue counterparts.
 
 
 #### [Pristine Dwarf-Galaxy Survey I: A detailed photometric and spectroscopic study of the very metal-poor Draco II satellite](https://arxiv.org/abs/1807.10655)
+    * Dra II is old (13.5 ±0.5 Gyr), very metal poor, very faint (L = 180+124 L ), and at a distance d = 21.5 ± 0.4 kpc.
+    * 用CaHK窄带看，非常的贫金属
+    * 是一个Dynamical code system
 
 
 #### [The Keck Cosmic Web Imager Integral Field Spectrograph](https://arxiv.org/abs/1807.10356)
+    * The novel design provides blue-optimized seeing-limited imaging from 350-560 nm with configurable spectral resolution from 1000 − 20000 in a field of view up to 20" × 33"
+    * Selectable volume phase holographic (VPH) gratings and high performance dielectric, multilayer silver and enhanced aluminum coatings provide end-to-end peak efficiency in excess of 45% while accommodating the future addition of a red channel that will extend wavelength coverage to 1 micron.
 
 
 #### [Relativistic reflection from accretion disks in the population of Active Galactic Nuclei at z=0.5-4](https://arxiv.org/abs/1807.10677)
+    * Using the Bayesian X-ray analysis (BXA) package, we fit 199 hard band (2–7 keV) selected sources in the redshift range z=0.5–4 with three models: (i) an absorbed power-law, (ii) the first model plus a narrow reflection component, and (iii) the second model with an additional relativistic broadened reflection. 
+    * 有两个可以有单独的探测；差不多50%的源都有这个迹象。
+    * Preliminary evidence is found that the spin of the black hole is high, with a maximally spinning Kerr BH model (a=1) providing a significantly better fit than a Schwarzschild model (a=0).
