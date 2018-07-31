@@ -865,7 +865,7 @@
 
 ----
 
-## July 30:
+## July 29:
 
 #### [Dissection of the collisional and collisionless mass components in a mini sample of CLASH and HFF massive galaxy clusters at z≈0.4](https://arxiv.org/abs/1807.10286)
     * we are able to disentangle this mass term from the diffuse dark matter in our new strong-lensing analysis, with approximately 50-100 secure multiple images per cluster, effectively separating the collisional and collisionless mass components of the clusters.
@@ -933,3 +933,38 @@
     * Using the Bayesian X-ray analysis (BXA) package, we fit 199 hard band (2–7 keV) selected sources in the redshift range z=0.5–4 with three models: (i) an absorbed power-law, (ii) the first model plus a narrow reflection component, and (iii) the second model with an additional relativistic broadened reflection. 
     * 有两个可以有单独的探测；差不多50%的源都有这个迹象。
     * Preliminary evidence is found that the spin of the black hole is high, with a maximally spinning Kerr BH model (a=1) providing a significantly better fit than a Schwarzschild model (a=0).
+
+
+----
+
+## July 30:
+
+#### [A catalogue of structural and morphological measurements for DES Y1](https://arxiv.org/abs/1807.10767)
+
+
+#### [Luminosity functions of cluster galaxies: The Near-ultraviolet luminosity function at <z>∼0.05](https://arxiv.org/abs/1807.10775)
+
+
+#### [A comparison of young star properties with local galactic environment for LEGUS/LITTLE THINGS dwarf irregular galaxies](https://arxiv.org/abs/1807.10829)
+
+
+#### [Dynamical Evolution and Merger Time-scales of LISA Massive Black Hole Binaries in Disk Galaxy Mergers](https://arxiv.org/abs/1807.11004)
+
+
+#### [Highly Accreting Quasars at High Redshift](https://arxiv.org/abs/1807.11006)
+
+
+#### [The Complete Local Volume Groups Sample - II. A study of the Central Radio Galaxies in the High−Richness Sub-sample](https://arxiv.org/abs/1807.11095)
+
+
+#### [Shark: introducing an open source, free and flexible semi-analytic model of galaxy formation](https://arxiv.org/abs/1807.11180)
+
+
+#### [VEGAS: A VST Early-type GAlaxy Survey. III. Mapping the galaxy structure, interactions and intragroup light in the NGC 5018 group](https://arxiv.org/abs/1807.11204)
+
+
+#### [Calibrated, cosmological hydrodynamical simulations with variable IMFs III: Spatially-resolved properties and evolution](https://arxiv.org/abs/1807.11310)
+
+
+#### [The 3CR Chandra snapshot survey: extragalactic radio sources with 0.5<z<1.0](https://arxiv.org/abs/1807.10774)
+
