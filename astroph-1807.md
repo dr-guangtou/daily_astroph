@@ -940,31 +940,59 @@
 ## July 30:
 
 #### [A catalogue of structural and morphological measurements for DES Y1](https://arxiv.org/abs/1807.10767)
+    - **Useful**
+    * A structural and morphological catalogue for 45 million objects selected from the first year of data from the Dark Energy Survey (DES): GALFIT + ZEST+
+    * we consider a sample of state-of-the-art image simulations with a realistic distribution
+    * Indeed, the parameters in the fil- ters i and r can be overall well recovered up to MAG_AUTO ≤ 21.5, corresponding to a fitting completeness of ∼ 90% below this threshold, for a total of 25 million galaxies.
 
 
 #### [Luminosity functions of cluster galaxies: The Near-ultraviolet luminosity function at <z>∼0.05](https://arxiv.org/abs/1807.10775)
+    * NUV luminosity functions for 6471 NUV detected galaxies in 28 0.02 < z < 0.08 clusters and consider their dependence on cluster properties.
+    * There are significant differences in the NUV LFs for clusters having low and high X-ray luminosities and for sparse and dense clusters, though none are particularly well fitted by the Schechter form,
+    * For the blue galaxies alone, the luminosity distributions indicate that for high LX and high velocity dispersion cluster subsamples (i.e. the higher mass clusters), there are relatively fewer high UV luminosity galaxies
 
 
 #### [A comparison of young star properties with local galactic environment for LEGUS/LITTLE THINGS dwarf irregular galaxies](https://arxiv.org/abs/1807.10829)
+    * We find no trend of cluster characteristics with environmental properties, implying that larger scale effects are more important in determining cluster characteristics or that rapid dynamical evolution erases memory of the initial conditions.
+    * 大质量的OB星协主要在高压力和高HI面密度的地方发现；高压力的地方HII区的Halpha面亮度更高；高度聚集的大质量恒星可能倾向于高压力区域
 
 
 #### [Dynamical Evolution and Merger Time-scales of LISA Massive Black Hole Binaries in Disk Galaxy Mergers](https://arxiv.org/abs/1807.11004)
+    * realistic simulations probing BH dynamics in unequal-mass disc galaxy mergers, into and beyond the binary hardening stage, are performed by combining smooth particle hydrodynamics and direct N-body codes.
+    * a BH binary forms and hardens on time-scales of at most 100 Myr, coalescing on another few hundred Myr time-scale, depending on the characteristic density and orbital eccentricity
 
 
 #### [Highly Accreting Quasars at High Redshift](https://arxiv.org/abs/1807.11006)
+    * Quasars radiating at extreme Eddington ratios (hereafter xA quasars)
+    * xA quasars show extreme properties in terms of Civλ1549 equivalent width and blueshift amplitudes.
+    * xA quasars show distinguishing properties that make them easily identifiable in large sur- veys and potential “standard candles” for cosmological applications.
 
 
 #### [The Complete Local Volume Groups Sample - II. A study of the Central Radio Galaxies in the High−Richness Sub-sample](https://arxiv.org/abs/1807.11095)
+    * 26个星系群的GMRT和VLA观测：we find a high detection rate, with 92% of the dominant galaxies hosting radio sources.
+    * The majority (54%) are point-like, but 23% have radio jets, and another 15% are diffuse radio sources with no clear jet/lobe morphology
+    * We find that jet sources are more common in X-ray bright groups, with radio non-detections found only in X-ray faint systems
 
 
 #### [Shark: introducing an open source, free and flexible semi-analytic model of galaxy formation](https://arxiv.org/abs/1807.11180)
+    - **Important**
+    * we implement several different models for gas cooling, active galactic nuclei, stellar and photo-ionisation feedback, and star formation.
+    * We compare SHARK with other SAMs and the hydrodynamical simulation EAGLE, and find that SAMs have a much higher halo baryon fraction due to large amounts of intra-halo gas, which in the case of EAGLE is in the intergalactic medium.
 
 
 #### [VEGAS: A VST Early-type GAlaxy Survey. III. Mapping the galaxy structure, interactions and intragroup light in the NGC 5018 group](https://arxiv.org/abs/1807.11204)
+    - **Relevant**
+    * We found that ∼ 41% of the total g-band luminosity of the group is in the form of intragroup light (IGL). The IGL has a (g - r) color consistent with those of other galaxies in the group
 
 
 #### [Calibrated, cosmological hydrodynamical simulations with variable IMFs III: Spatially-resolved properties and evolution](https://arxiv.org/abs/1807.11310)
+    - **Relevant, Interesting**
+    * We compare these findings with our new cosmological, hydrodynamical simulations based on the EAGLE model that self-consistently vary the IMF on a perparticle basis such that it becomes either bottom-heavy (LoM-50) or top-heavy (HiM-50) in high-pressure environments. 来重现观测到的negative IMF slope gradient
+    * We find negative metallicity radial gradients for both simulations, but positive and flat [Mg/Fe] gradients in LoM-50 and HiM-50
+    * the local MLE increases and decreases with local [Mg/Fe] in LoM-50 and HiM-50,
 
 
 #### [The 3CR Chandra snapshot survey: extragalactic radio sources with 0.5<z<1.0](https://arxiv.org/abs/1807.10774)
+    * This data set extends the current Chandra coverage of the 3CR extragalactic catalog up to redshift z=1.0
+    * All radio nuclei in our sample have an X-ray counterpart. We also discovered X-ray emission associated with the eastern knot of 3CR 154, with radio hotspots in 3CR 41, 3CR 54 and 3CR 225B and with the southern lobe of 3CR 107.
 
