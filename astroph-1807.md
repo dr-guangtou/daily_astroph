@@ -1009,37 +1009,74 @@
 ## July 31:
 
 #### [Constraints on accretion disk size in the massive type 1 quasar PG 2308+098 from optical continuum reverberation lags](https://arxiv.org/abs/1807.11481)
+    * Wavelength dependent reverberation mapping: the derived disk size is slightly (1.2 − 1.8 times) larger than the theoretical disk size: 波长越长，lag越大
+    * This result is roughly in accordance with previous studies of lower mass active galactic nuclei (AGNs), where measured disk sizes have been found to be larger than the standard disk model predictions by a factor of ∼ 3
 
 
 #### [Intracluster light: a luminous tracer for dark matter in clusters of galaxies](https://arxiv.org/abs/1807.11488)
     - **Important, Relevant**
+    * Using the Modified Hausdorff distance (MHD) as a way of quantifying the similarities between the mass and ICL distributions, we find an excellent agreement (MHD∼25 kpc) between the two components.
 
 
 #### [SDSS IV MaNGA: Characterizing Non-Axisymmetric Motions in Galaxy Velocity Fields Using the Radon Transform](https://arxiv.org/abs/1807.11503)
+    - **Interesting**
+    * We show how the Radon transform (defined as a series of line integrals through an image at different orientations and offsets from the origin) can be used as a simple, non-parametric tool to characterize galaxy velocity fields, specifically their global kinematic position angles (PAk) and any radial variation or asymmetry in PAk
+    * We separately classify gas and stellar velocity fields into five categories based on the shape of their radial PAk profiles. At least half of stellar velocity fields and two-thirds of gas velocity fields are found to show detectable deviations from uniform coplanar circular motion, although most of these variations are symmetric about the center of the galaxy.
+    * We present evidence that one class of symmetric PAk variations is likely associated with bars and/or oval distortions, while another class is more consistent with warped disks.
 
 
 #### [A 50 pc scale view of star formation efficiency across NGC 628](https://arxiv.org/abs/1807.11506)
+    * ALMA+MUSE: Systematic spatial offsets between molecular clouds and H II regions illustrate the time evolution of star-forming regions.
+    * we infer molecular gas depletion times of 1−3 Gyr, but also find the increase of scatter in the star formation relation on small scales is consistent with gas and H II regions being only weakly correlated at the cloud (50 pc) scale.
+    * 在小尺度上，分子云团和HII区重叠的时间很短
 
 
 #### [Signatures of multiple episodes of AGN activity in the core of Abell 1795](https://arxiv.org/abs/1807.11520)
+    * GMRT 610MHz+235MHz; + X-ray:  For the first time we observe radio emission corresponding to the NW X-ray depression, which provides evidence in favor of the classification of the depression as a cavity.
+    * All observed signatures both in radio and X-ray are consistent with several consecutive episodes of AGN activity, which gave rise to the observed morphology NW and SW from the core.
 
 
 #### [Theoretical predictions for IMF diagnostics in UV spectroscopy of star clusters](https://arxiv.org/abs/1807.11524)
+    - **Relevant**
+    * SLUG 高分辨紫外光谱合成，预测谱线等值宽度，探索用紫外光谱研究IMF的能力
+    * we still do not yet fully break the known degeneracy between the cluster mass and α3
+    * We find that observations sensitive to a modest equivalent width of ≃ 9 ̊A are sufficient to improve the recovery of the IMF slope parameter by ≃ 32% (interquartile range of posterior PDF median residuals), moving to ≃ 39% when we include all the significant spectral features in the wavelength range 900 − 3000  ̊A.
 
 
 #### [SDSS IV MaNGA - An archaeological view of the Cosmic Star Formation History](https://arxiv.org/abs/1807.11528)
+    * We confirm that the Star-Forming Main Sequence holds as a tight relation in this range of redshifts, and evolves strongly in both the zero-point and slope. 
+    * We demonstrate that the progenitors of lo- cal RGs were more actively forming stars in the past
 
 
 #### [Covariances of Galaxy Stellar Mass Functions and Correlation Functions](https://arxiv.org/abs/1807.11532)
+    - **Useful**
+    * We compute covariance matrices for many observed estimates of the stellar mass func- tion of galaxies from z = 0 to z ≈ 4, and for one estimate of the projected correlation function of galaxies split by stellar mass at z <0.5
+    * All covariance matrices include contributions due to large scale structure, the preference for galaxies to be found in groups and clusters, and for shot noise.
+    * 模拟galaxy-halo connection时很有用
 
 
 #### [BST1047+1156: An extremely diffuse and gas-rich object in the Leo I Group](https://arxiv.org/abs/1807.11544)
+    - **Interesting** 
+    * detection of diffuse starlight in an extragalactic HI cloud in the nearby Leo I galaxy group 
+    * Spanning ∼ 2 kpc in radius, it has a peak surface brightness of μB=28.8 mag arcsec−2, making it the lowest surface brightness object ever detected via integrated light
+    * its peak HI column density is well below levels where star formation is typically observed in galaxies.
+    * The object sports two tidal tails and is found embedded within diffuse gas connecting the spiral galaxy M96 to the group’s extended HI Leo Ring
 
 
 #### [The SAMI Galaxy Survey: embedded discs and radial trends in outer dynamical support across the Hubble sequence](https://arxiv.org/abs/1807.11547)
+    - **Relevant**
+    * V/sigma profile out to 1.5 Re
+    * We do not find many galaxies with kinematic transitions such as those expected between the inner in-situ and outer accreted stars within the radial range probed.
+    * We find that the radial distribution of dynamical support in galaxies is linked to their visual morphology. Late-type systems have higher rotational support at all radii and steeper V/σ gradients compared to early-type galaxies.
 
 
 #### [Using deep Residual Network to search for galaxy-Lyα emitter lens candidates based on spectroscopic-selection](https://arxiv.org/abs/1807.11678)
+    - **Useful**
+    * Based on this spectroscopic-selection method, we introduce the Deep Residual Network (Resnet, one kind of deep Convolutional Neural Networks) to search the galaxy-Lyα emitter (LAEs) lens candidates by recognizing the Lyα emissions from the redshift of 2 < z < 3 in the Data Release 12 (DR12) of the Baryon Oscillation Spectroscopic Survey (BOSS)
+    * We then apply our Resnet model to our predictive data contained with 174 known lens candidates. Finally we obtain 1232 hits including 161 (92.5%) of the 174 known candidates.
 
 
 #### [Redshift inference from the combination of galaxy colors and clustering in a hierarchical Bayesian model](https://arxiv.org/abs/1807.11873)
+    * We present a framework for constraining both the redshift probability distributions of galaxy populations and the redshifts of their individual members.
+    * We use a hierarchical Bayesian model (HBM) which provides full posterior distributions on those redshift probability distributions
+    * we show how to combine survey photometry of single galaxies and the information contained in the galaxy clustering against a well-characterized tracer population in a robust way
