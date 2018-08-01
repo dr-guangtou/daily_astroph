@@ -802,9 +802,16 @@
 ## July 26:
 
 #### [Galaxy populations in the most distant SPT-SZ clusters - I. Environmental quenching in massive clusters at 1.4≲z≲1.7](https://arxiv.org/abs/1807.09768)
+    - **Relevant**
+    * All five show clear overdensities of red galaxies whose colors agree with the initial cluster redshift estimates, although one (SPT-CLJ0607-4448) shows a galaxy concentration much less prominent than the others.
+    * Our results thus point towards an efficient suppression of star formation in massive galaxies in the central regions of the most massive clusters, occurring already earlier than z ∼ 1.5.
 
 
 #### [Free-floating molecular clumps and gas mixing: hydrodynamic aftermaths of the intracluster−interstellar medium interaction](https://arxiv.org/abs/1807.09771)
+    * RAMSES模拟一个Virgo cluster
+    * We find that the tails of ram pressure stripped galaxies give rise to a population of up to more than a hundred clumps of molecular gas lurking in the cluster
+    * Their lifetime (  300 Myr) is small compared to the age of the cluster.
+    * The stars formed in all of the galaxy tails combined amount to an irrelevant contribution to the intracluster light.
 
 
 #### [Evolution of the AGN UV luminosity function from redshift 7.5](https://arxiv.org/abs/1807.09774)
@@ -996,3 +1003,43 @@
     * This data set extends the current Chandra coverage of the 3CR extragalactic catalog up to redshift z=1.0
     * All radio nuclei in our sample have an X-ray counterpart. We also discovered X-ray emission associated with the eastern knot of 3CR 154, with radio hotspots in 3CR 41, 3CR 54 and 3CR 225B and with the southern lobe of 3CR 107.
 
+
+----
+
+## July 31:
+
+#### [Constraints on accretion disk size in the massive type 1 quasar PG 2308+098 from optical continuum reverberation lags](https://arxiv.org/abs/1807.11481)
+
+
+#### [Intracluster light: a luminous tracer for dark matter in clusters of galaxies](https://arxiv.org/abs/1807.11488)
+    - **Important, Relevant**
+
+
+#### [SDSS IV MaNGA: Characterizing Non-Axisymmetric Motions in Galaxy Velocity Fields Using the Radon Transform](https://arxiv.org/abs/1807.11503)
+
+
+#### [A 50 pc scale view of star formation efficiency across NGC 628](https://arxiv.org/abs/1807.11506)
+
+
+#### [Signatures of multiple episodes of AGN activity in the core of Abell 1795](https://arxiv.org/abs/1807.11520)
+
+
+#### [Theoretical predictions for IMF diagnostics in UV spectroscopy of star clusters](https://arxiv.org/abs/1807.11524)
+
+
+#### [SDSS IV MaNGA - An archaeological view of the Cosmic Star Formation History](https://arxiv.org/abs/1807.11528)
+
+
+#### [Covariances of Galaxy Stellar Mass Functions and Correlation Functions](https://arxiv.org/abs/1807.11532)
+
+
+#### [BST1047+1156: An extremely diffuse and gas-rich object in the Leo I Group](https://arxiv.org/abs/1807.11544)
+
+
+#### [The SAMI Galaxy Survey: embedded discs and radial trends in outer dynamical support across the Hubble sequence](https://arxiv.org/abs/1807.11547)
+
+
+#### [Using deep Residual Network to search for galaxy-Lyα emitter lens candidates based on spectroscopic-selection](https://arxiv.org/abs/1807.11678)
+
+
+#### [Redshift inference from the combination of galaxy colors and clustering in a hierarchical Bayesian model](https://arxiv.org/abs/1807.11873)
