@@ -25,3 +25,26 @@
     * training a feed-forward CNN on dirty images, and find that neural networks can simultaneously adapt to dirty images generated from vastly different uv-coverages.
     * we use the recurrent inference machine (RIM) introduced in Putzky & Welling (2017). This provides a fast and automated alternative to the traditional CLEAN algorithm.
 
+----
+
+## August 2:
+
+#### [Stellar Radiation is Critical for Regulating Star Formation and Driving Outflows in Low Mass Dwarf Galaxies](https://arxiv.org/abs/1808.00468)
+
+
+#### [A Galaxy-Scale Fountain of Cold Molecular Gas Pumped by a Black Hole](https://arxiv.org/abs/1808.00473)
+
+
+#### [The Massively Accreting Cluster A2029](https://arxiv.org/abs/1808.00488)
+
+
+#### [OMEGA - OSIRIS Mapping of Emission-line Galaxies in A901/2: IV. - Extinction of Star-Formation Estimators with Inclination](https://arxiv.org/abs/1808.00530)
+
+
+#### [Galaxy Structure in the Ultraviolet: The Dependence of Morphological Parameters on Rest-Frame Wavelength](https://arxiv.org/abs/1808.00577)
+
+
+#### [Supermassive black holes with high accretion rates in active galactic nuclei. VII. Reconstruction of velocity-delay maps by maximum entropy method](https://arxiv.org/abs/1808.00705)
+
+
+#### [Supermassive black holes with high accretion rates in active galactic nuclei. VII. Reconstruction of velocity-delay maps by maximum entropy method](https://arxiv.org/abs/1808.00705)
