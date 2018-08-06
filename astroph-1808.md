@@ -65,4 +65,20 @@
     * These super-Eddington accretors show diverse geometry and kinematics.
 
 
+----
+
+## August 3:
+
+#### [The QUEST-La Silla AGN variability survey: connection between AGN variability and black hole physical properties](https://arxiv.org/abs/1808.00967)
+
+
+#### [Stellar Feedback and the Energy Budget of Late-Type Galaxies: Missing Baryons and Core Creation](https://arxiv.org/abs/1808.00971)
+
+
+#### [Witnessing galaxy assembly at the edge of the reionization epoch](https://arxiv.org/abs/1808.01146)
+
+
+#### [Low-luminosity AGN and X-ray binary populations in COSMOS star-forming galaxies](https://arxiv.org/abs/1808.00970)
+
+
 

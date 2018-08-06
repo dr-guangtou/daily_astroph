@@ -238,6 +238,10 @@
 ## July 9:
 
 #### [Near infrared spectroscopy and star-formation histories of 3<z<4 quiescent galaxies](https://arxiv.org/abs/1807.02523)
+    - **Important, Interesting**
+    * Keck–MOSFIRE H and K spectra for a sample of 24 candidate quiescent galaxies at 3 < z < 4, identified from their rest-frame UVJ colors and photometric redshifts in the ZFOURGE and 3DHST surveys.
+    * High equivalent-width [O iii] emission is observed in two galaxies, contributing up to 30% of the K-band flux and mimicking the UV J colors of an old stellar population. --> UVJ selection 20%机会失败
+    * The implied formation histories reveal that these galaxies have quenched on average 300 Myr prior to being observed, between z = 3.5 and 5, and that half of their stars were formed by z ∼ 5.5 
 
 
 #### [The Structural and Kinematic Evolution of Central Star Clusters in Dwarf Galaxies and Their Dependence on Dark Matter Halo Profiles](https://arxiv.org/abs/1807.02526)
