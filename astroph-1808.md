@@ -67,18 +67,59 @@
 
 ----
 
-## August 3:
+## August 5:
 
 #### [The QUEST-La Silla AGN variability survey: connection between AGN variability and black hole physical properties](https://arxiv.org/abs/1808.00967)
+    * We found that the amplitude of the variability (A) depends solely on the rest frame emission wavelength and the Eddington ratio, where A anti-correlates with both λrest and L/LEdd.
+        - Its amplitude is inversely related to the accretion rate.
+    * For 20.6% of the variable sources in our sample, a DRW model is not appropriate to describe the variability
 
 
 #### [Stellar Feedback and the Energy Budget of Late-Type Galaxies: Missing Baryons and Core Creation](https://arxiv.org/abs/1808.00971)
-
+    * By fitting halo profiles to the rotation curves of galaxies in the SPARC data set, we measure the “missing baryon” mass for individual late-type systems.
+    * we show that the maximum energy available from supernovae is typically not enough to completely eject these “missing baryons” from a halo, but it is often sufficient to heat them to the virial temperature.
+    * the energy available from supernova feedback is always enough to convert a primordial cusp into a core and has magnitude consistent with what is required to heat the “missing baryons” to the virial temperature.
 
 #### [Witnessing galaxy assembly at the edge of the reionization epoch](https://arxiv.org/abs/1808.01146)
 
 
 #### [Low-luminosity AGN and X-ray binary populations in COSMOS star-forming galaxies](https://arxiv.org/abs/1808.00970)
+    * X-ray stacking analysis of ∼75,000 star-forming galaxies between 0.1 < z < 5.0 using the Chandra COSMOS Legacy survey to study the X-ray emission of low-luminosity active galactic nuclei (AGN)
+    * Comparing the measured luminosities to established XRB scaling relations, we find that the redshift evolution of the luminosity per star formation rate (SFR) of XRBs depends sensitively on the assumed obscuration
+    * After subtracting the estimated XRB contribution from the stacks, we find that most stacks at z > 1.3 exhibit a significant X-ray excess indicating nuclear emission. The AGN emission is strongly correlated with stellar mass but does not exhibit an additional correlation with SFR.
+    * The hardness ratios of the high-redshift stacks indicate that the AGN are substantially obscured 
 
 
+----
+
+## August 6:
+
+#### [Black Hole - Galaxy Scaling Relationships for Active Galactic Nuclei with Reverberation Masses](https://arxiv.org/abs/1808.01329)
+
+
+#### [On the influence of environment on star forming galaxies](https://arxiv.org/abs/1808.01628)
+
+
+#### [ALMA 12CO (J=1--0) imaging of the nearby galaxy M83: Variations in the efficiency of star formation in giant molecular clouds](https://arxiv.org/abs/1808.01702)
+
+
+#### [An early-type galaxy with an inner star-forming disk](https://arxiv.org/abs/1808.01730)
+
+
+#### [GAMA/G10-COSMOS/3D-HST: Evolution of the galaxy stellar mass function over 12.5Gyrs](https://arxiv.org/abs/1808.01754)
+
+
+#### [Revealing Dusty Supernovae in High-Redshift (Ultra-)Luminous InfraRed Galaxies Through Near-Infrared Integrated Light Variability](https://arxiv.org/abs/1808.01780)
+
+
+#### [CANDELSz7: a large spectroscopic survey of CANDELS galaxies in the reionization epoch](https://arxiv.org/abs/1808.01847)
+
+
+#### [Extreme jet bending on kiloparsec scales : the 'doughnut' in NGC 6109](https://arxiv.org/abs/1808.01967)
+
+
+#### [teep Hard-X-ray Spectra Indicate Extremely High Accretion Rates in Weak Emission-Line Quasars](https://arxiv.org/abs/1808.01306)
+
+
+#### [teep Hard-X-ray Spectra Indicate Extremely High Accretion Rates in Weak Emission-Line Quasars](https://arxiv.org/abs/1808.01306)
 
