@@ -81,6 +81,8 @@
     * the energy available from supernova feedback is always enough to convert a primordial cusp into a core and has magnitude consistent with what is required to heat the “missing baryons” to the virial temperature.
 
 #### [Witnessing galaxy assembly at the edge of the reionization epoch](https://arxiv.org/abs/1808.01146)
+    * Serenity-18, a galaxy at z ≃ 5.939 for which we could measure the content of molecular gas; 还有 gas clump/filament which is possibly feeding its growth
+    * The metal poor gas is detected through a damped Lyman-α absorber observed at a spatial separation of 40 kpc and at the same redshift
 
 
 #### [Low-luminosity AGN and X-ray binary populations in COSMOS star-forming galaxies](https://arxiv.org/abs/1808.00970)
@@ -95,31 +97,59 @@
 ## August 6:
 
 #### [Black Hole - Galaxy Scaling Relationships for Active Galactic Nuclei with Reverberation Masses](https://arxiv.org/abs/1808.01329)
+    - **Important**
+    * We have separated the host galaxy from the bright central AGN, allowing a re-examination of the MBH − Lbulge and MBH − Lgalaxy relationships and the MBH − Mbulge and MBH − Mstars relationships using V-H color to constrain the stellar mass-to-light ratio. 
+    * We also find good agreement with the expectations from the Illustris simulations, although the agreement with other simulations is less clear because of the different black hole mass ranges that are probed.
+    * MBH − Lbulge is found to have the least scatter, and is therefore the best predictor of MBH among the relationships examined here.
+    * We have examined MBH/Mstars and find a clear trend with black hole mass but not galaxy mass.
 
 
 #### [On the influence of environment on star forming galaxies](https://arxiv.org/abs/1808.01628)
+    * GAEA SAM研究
+    * We analyse the origin of differences between physical properties of satellites and those of their central counterparts, identified by matching the Vmax of their host haloes at the accretion time of the satellites.
+    * In contrast, our model predicts larger differences with respect to data for the molecular gas mass and star formation rate.
+        - that differences in the gas content arise after accretion, and can be entirely ascribed to the instantaneous strip- ping of the hot gas reservoir.
+    * We argue that these disagreements could be largely resolved with the inclusion of a proper treatment for ram-pressure stripping of cold gas and a more gradual stripping of the hot gas reservoir. 
 
 
 #### [ALMA 12CO (J=1--0) imaging of the nearby galaxy M83: Variations in the efficiency of star formation in giant molecular clouds](https://arxiv.org/abs/1808.01702)
+    * In the eastern arm, the CO peaks form two arc-shaped ridges that run along the arm and exhibit a distinct difference in the activity of star formation: the one on the leading side has numerous H II regions associated with it, whereas the other one on the trailing side has only a few.
 
 
 #### [An early-type galaxy with an inner star-forming disk](https://arxiv.org/abs/1808.01730)
+    * We report a discovery of an ETG (SDSS J142055.01+400715.7) with M∗=10^10 M⊙ that offers direct evidence for gas-rich merging as the origin of low-mass ETGs.
+    * Furthermore, the inner disk harbors on-going star formation, indicating the merging to be gas rich. 
 
 
 #### [GAMA/G10-COSMOS/3D-HST: Evolution of the galaxy stellar mass function over 12.5Gyrs](https://arxiv.org/abs/1808.01754)
+    - **Relevant, Important**
+    * Surprisingly, when fitting a two-component Schechter function, we find essentially no evidence of temporal evolution in M⋆, the two α slope parameters, or the normalisation of the low-mass component.
+    * Instead, our fits suggest that the various shape parameters have been exceptionally stable over cosmic time, as has the normalisation of the low- mass component, and that the evolution of the stellar-mass function is well described by a simple build up of the high-mass component over time.
+    * Finally, we find that the evolution of the stellar-mass function, and the observed stellar mass density, can be well described by a simple model of constant growth in the high-mass source density
 
 
 #### [Revealing Dusty Supernovae in High-Redshift (Ultra-)Luminous InfraRed Galaxies Through Near-Infrared Integrated Light Variability](https://arxiv.org/abs/1808.01780)
+    * 在高红移ULIRGS里找SN: to search for the presence of supernovae through the variability of the integrated restframe infrared light of the entire hosts.
+    * We obtain a sample of (U)LIRGs that have secure optical counterparts, and examine their light curves in 3–5 μm in the IRAC Dark Field (IDF), 有14年的数据
+    * We present two cases where the distinct features in their light curves are consistent with multiple supernovae overlapping in time.
 
 
 #### [CANDELSz7: a large spectroscopic survey of CANDELS galaxies in the reionization epoch](https://arxiv.org/abs/1808.01847)
+    * results of CANDELSz7, an ESO large program aimed at confirming spectroscopically a homogeneous sample of z≃6 and z≃7 star forming galaxies.
+    * FORS2 12-20小时的光谱
+    * For about 40% of the galaxies we could determine a spectroscopic redshift, mainly through the detection of a single emission line that we interpret as Lyα emission
+    * we assemble a sample of ≃ 260 galaxies that we use to explore the evolution of the Lyα fraction in Lyman break galaxies and the change in the shape of the emission line between z ∼ 6 and z ∼ 7. 
 
 
 #### [Extreme jet bending on kiloparsec scales : the 'doughnut' in NGC 6109](https://arxiv.org/abs/1808.01967)
+    * We find the radio morphology of the counter-jet to be highly distorted, showing a unique ‘doughnut’ structure ∼6 kpc in diameter.
+    * The doughnut is overpressured compared with the surrounding atmosphere as measured with Chandra.
+    * A light jet being deflected by gas flows and winds just outside the transition between the galaxy and cluster atmospheres appears to be a more plausible interpretation.
 
 
-#### [teep Hard-X-ray Spectra Indicate Extremely High Accretion Rates in Weak Emission-Line Quasars](https://arxiv.org/abs/1808.01306)
+#### [Steep Hard-X-ray Spectra Indicate Extremely High Accretion Rates in Weak Emission-Line Quasars](https://arxiv.org/abs/1808.01306)
+    * WLQs have steeper X-ray spectra, suggesting higher accretion rates with respect to “typical” quasars.
+    * Collectively, the four radio-intermediate WLQs have lower photon indices with respect to the six radio-quiet WLQs, as may be expected if the spectra of the first group are contaminated by X-ray emission from a jet.
+    * We detect soft excess emission in our lowest-redshift radio-quiet WLQ, in agreement with previous findings suggesting that the prominence of this feature is associated with a high accretion rate.
 
-
-#### [teep Hard-X-ray Spectra Indicate Extremely High Accretion Rates in Weak Emission-Line Quasars](https://arxiv.org/abs/1808.01306)
 
