@@ -153,3 +153,24 @@
     * We detect soft excess emission in our lowest-redshift radio-quiet WLQ, in agreement with previous findings suggesting that the prominence of this feature is associated with a high accretion rate.
 
 
+----
+
+## August 6:
+
+#### [Mid-Infrared Spectroscopic Evidence for AGN Heating Warm Molecular Gas](https://arxiv.org/abs/1808.02035)
+
+
+#### [A GBT Survey of the HALOGAS Galaxies and Their Environments I: Revealing the full extent of HI around NGC891, NGC925, NGC4414 & NGC4565](https://arxiv.org/abs/1808.02041)
+
+
+#### [Shocks or Photoionization: Direct Temperature Measurements of the Low-Ionization Gas in Quiescent Galaxies](https://arxiv.org/abs/1808.02041)
+
+
+#### [The z=0.54 LoBAL Quasar SDSS J085053.12+445122.5: I. Spectral Synthesis Analysis Reveals a Massive Outflow](https://arxiv.org/abs/1808.02441)
+
+
+#### [Deep Very Large Array observations of the merging cluster CIZA J2242.8+5301: continuum and spectral imaging](https://arxiv.org/abs/1808.02447)
+
+
+#### [Correlations between the Dark Matter and Baryonic Properties of CLASH Galaxy Clusters](https://arxiv.org/abs/1808.02136)
+
