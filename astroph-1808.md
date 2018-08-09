@@ -202,27 +202,55 @@
 ## August 6:
 
 #### [Connecting Young Star Clusters to CO Molecular Gas in NGC 7793 with ALMA-LEGUS](https://arxiv.org/abs/1808.02496)
+    * We find a strong spatial correlation between young star clusters and GMCs such that all clusters still associated with a GMC are younger than 11 Myr and display a median age of 2 Myr.
+    * The age distribution increases gradually as the cluster–GMC distance increases, with star clusters that are spatially unassociated with molecular gas exhibiting a median age of 7 Myr.
+    * Star clusters are significantly more clustered than the molecular cloud hierarchy 
 
 
 #### [Angular Momentum and Galaxy Formation Revisited: Scaling Relations for Disks and Bulges](https://arxiv.org/abs/1808.02525)
+    - **Interesting**
+    * We show that the stellar specific angular momentum j⋆, mass M⋆, and bulge fraction β⋆ of normal galaxies of all morphological types are consistent with a simple model based on a linear superposition of independent disks and bulges.
+    * This model correctly predicts that galaxies follow a curved 2D surface in the 3D space of logj⋆, logM⋆, and β⋆
 
 
 #### [Investigation of the orientation of galaxies in clusters: the importance, methods and results of research](https://arxiv.org/abs/1808.02573)
+    - **Relevant**
+    * Now, the method allowed analysis both position angles of galaxy major axes and two angles describing the spatial orientation of galaxies
+    * We have found that the orientations of galaxies in analyzed clusters are not random. It means that we genuinely confirmed an existence of the alignment of galaxies in rich Abells’ galaxy clusters.
 
 
 #### [A Deep Lyα Survey in ECDF-S and COSMOS: I. General Properties of Lyman-alpha Emitters at z∼2](https://arxiv.org/abs/1808.02704)
+    * The narrowband surveys conducted at Magellan II telescope allow us to obtain a sample of 452 LAEs reaching a 5σ limiting magnitude of ∼ 26 mag
+    * There are six LAEs detected by the Spitzer/MIPS 24μm or even Herschel far-infrared observations. 
+    * LAE覆盖的质量和SFR范围都很大
+    * they are mostly low-mass star-forming galaxies and follow the star formation main sequence relations or their extrapolations to the low-mass end, implying a normal star-forming nature of LAEs.
 
 
 #### [A star-forming dwarf galaxy candidate in the halo of NGC 4634](https://arxiv.org/abs/1808.02801)
+    * We investigate the nature and origin of a star-forming dwarf galaxy candidate located in the halo of the edge-on Virgo galaxy NGC 4634 with a projected distance of 1.4 kpc
+    * The high oxygen abundance (12 + log(O/H) ≈ 8.72) of the dwarf galaxy candidate leads to the conclusion that it was formed from pre-enriched material. 
 
 
 #### [The `Cosmic Seagull': a highly magnified disk-like galaxy at z~2.8 behind the Bullet Cluster](https://arxiv.org/abs/1808.02828)
+    * Atacama Large Millimeter/submillimeter Array measurements of the ‘Cosmic Seagull’, a strongly magnified galaxy at 𝑧 = 2.7779 behind the Bullet Cluster.
+    * Magnification在50倍左右；旋转曲线的分辨率超高
+    * We find no evidence for a decreasing rotation curve, from which we derive a dynamical mass
 
 
 #### [A high-resolution mosaic of the neutral hydrogen in the M81 triplet](https://arxiv.org/abs/1808.02840)
+    * 超级好的HI数据：The data reveal many small-scale anomalous velocity features highlighting the complexity of the interacting M81 triplet.
+    * This comparison provides evidence for the presence of a substantial reservoir of low-column density gas in the northern part of the triplet, probably associated with M82. Such a reservoir is not found in the southern part.
+    * We report a number of newly discovered kpc-sized low-mass H i clouds with H i masses of a few times 10^6 M⊙. 都和Tidal feature有关
 
 
 #### [Bayesian photometric redshifts of blended sources](https://arxiv.org/abs/1808.02846)
+    - **Relevant**
+    * We present a Bayesian photometric redshift method for blended sources with an arbitrary number of intrinsic components.
+    * Using Bayesian model comparison, we infer the probability that a source is blended and the number of components that it contains. We make available blendz, a Python implementation of our method. 
 
 
 #### [AGN feedback in the Phoenix cluster](https://arxiv.org/abs/1808.02872)
+    * XMM/RGS观测，研究发射X-ray的“冷”气体：We detect for the first time evidence of O VIII and FeXXI-XXII emission lines, the latter demonstrating the presence of gas below 2 keV.
+    * Cooling rate below 2 keV是350 Msun/yr；和SFR近似
+    * This cooling rate is high enough to produce the molecular gas found in the filaments via instabilities during the buoyant rising time.
+    * The line broadening indicates that the turbulence (∼ 300 km s−1 or less) is below the level required to produce and propagate the heat throughout the cool core.
