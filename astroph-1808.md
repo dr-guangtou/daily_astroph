@@ -155,7 +155,7 @@
 
 ----
 
-## August 6:
+## August 7:
 
 #### [Mid-Infrared Spectroscopic Evidence for AGN Heating Warm Molecular Gas](https://arxiv.org/abs/1808.02035)
     * We use four MIR diagnostics to estimate the contribution of the AGN to the total MIR emission. 
@@ -199,7 +199,7 @@
 
 ----
 
-## August 6:
+## August 8:
 
 #### [Connecting Young Star Clusters to CO Molecular Gas in NGC 7793 with ALMA-LEGUS](https://arxiv.org/abs/1808.02496)
     * We find a strong spatial correlation between young star clusters and GMCs such that all clusters still associated with a GMC are younger than 11 Myr and display a median age of 2 Myr.
@@ -254,3 +254,41 @@
     * Cooling rate below 2 keV是350 Msun/yr；和SFR近似
     * This cooling rate is high enough to produce the molecular gas found in the filaments via instabilities during the buoyant rising time.
     * The line broadening indicates that the turbulence (∼ 300 km s−1 or less) is below the level required to produce and propagate the heat throughout the cool core.
+
+
+----
+
+## August 9:
+
+#### [Standoff Distance of Bow Shocks in Galaxy Clusters as Proxy for Mach Number](https://arxiv.org/abs/1808.02885)
+    * One of the pure geometrical proxies to the shock Mach number is the standoff distance, i.e. the distance between the leading edge of the shock and the contact discontinuity. 即便仪器分辨率不够，也可以用来估计subcluster并合的速度
+    * a combination of the standoff distance with measurements of the Mach number from density/temperature jumps can differentiate between the pre- and post-merger stages, at least when the merger axis is close to the plane of sky or if the merger axis angle to the line of sight can be inferred. 
+
+
+#### [Nitrogen-to-Oxygen Abundance Ratio Variation In Quiescent Galaxies](https://arxiv.org/abs/1808.02891)
+    - **Important**
+    * We establish a gas phase abundance pattern calibration for quiescent galaxies using optical emission lines.
+    * We show that the relative trend in N/O abun- dance can still be reliably measured based on [N ii] λλ6548,6583/[O ii] λλ3726,3729 and a direct measurement of the electron temperature.
+    * Combining [O ii] λλ3726,3729/[O ii] λ7320,7330 and [S ii] λλ6716,6731/[S ii] λ4068,4076
+    * We establish the calibration for N/O based on [N ii]/[O ii] and a temperature tracer.
+
+
+#### [The Evolution of Assembly Bias](https://arxiv.org/abs/1808.02896)
+    - **Relevant**
+    * Dark matter only simulation: We investigate how the clustering of haloes and their galaxy content depend on halo formation time and concentration, and how these relationships evolve with redshift. 
+    * we look at the evolution of assembly bias reflected in the galaxy distribution by examining the galaxy correlation functions relative to those of shuffled galaxy samples which remove the occupancy variation. This correlation functions ratio monotonically decreases with larger redshift and for lower number density samples, going below unity in some cases, leading to reduced galaxy clustering. 
+
+
+#### [Intense CIII 1907,1909 emission from a strong Lyman continuum emitting galaxy](https://arxiv.org/abs/1808.03059)
+    * first complete ultraviolet (UV) spectrum of a strong Lyman continuum(LyC) emitter at low redshift – the
+compact, low-metallicity, star-forming galaxy J1154+2443 – with a Lyman continuum escape fraction of 46% discovered recently.
+    * The Space Telescope Imaging Spectrograph spectrum shows strong Lyα and C iii] λ1909 emission, as well as O iii] λ1666
+    * Combining our measurements and earlier determinations from the literature, we find a trend of increasing ξ0 ion
+with increasing C iii] λ1909 equivalent width, which can be understood by a combination of decreasing stellar population age and metallicity.
+
+
+#### [Properties of AGN selected by their mid-IR colours: evidence for a physically distinct mode of black hole growth](https://arxiv.org/abs/1808.03145)
+    * Narrow emission line properties and stellar populations of a sample of 1385 AGN selected to have strong excess emission at mid-infrared wavelengths based on comparing Wide-field Infrared Survey Explorer W1-W2 band colours with optical stellar absorption line indicators.
+    * 和那些没有MIR excess的AGN组成的control样本进行比较
+    * The mid-IR excess and control samples differ strongly in [OIII] line luminosity, ionized gas excitation mechanism, ionization state and electron density.
+    * radio-detected, mid-IR excess AGN constitute the most luminous and highly ionized AGN in the local Universe and they contribute primarily to the growth of black holes in the most massive galaxies.
