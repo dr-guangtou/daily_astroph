@@ -292,3 +292,42 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
     * 和那些没有MIR excess的AGN组成的control样本进行比较
     * The mid-IR excess and control samples differ strongly in [OIII] line luminosity, ionized gas excitation mechanism, ionization state and electron density.
     * radio-detected, mid-IR excess AGN constitute the most luminous and highly ionized AGN in the local Universe and they contribute primarily to the growth of black holes in the most massive galaxies.
+
+
+----
+
+## August 12:
+
+#### [Probing star formation in galaxies at z≈1 via a Giant Metrewave Radio Telescope stacking analysis](https://arxiv.org/abs/1808.03279)
+
+
+#### [A Giant Metrewave Radio Telescope survey for associated HI 21-cm absorption in the Caltech-Jodrell Flat-spectrum sample](https://arxiv.org/abs/1808.03280)
+
+
+#### [HST F160W Imaging of Very Massive Galaxies at 1.5<z<3.0: Diversity of Structures and the Effect of Close Pairs on Number Density Estimates](https://arxiv.org/abs/1808.03284)
+
+
+#### [CLUES about M33: the reversed radial stellar age gradient in the outskirts of Triangulum galaxy](https://arxiv.org/abs/1808.03286)
+
+
+#### [Extragalactic Imprints in Galactic Dust Maps](https://arxiv.org/abs/1808.03294)
+
+
+#### [The SAMI Galaxy Survey: Data Release Two with absorption-line physics value-added products](https://arxiv.org/abs/1808.03365)
+
+
+#### [The Missing Satellite Problem Outside of the Local Group: I -- Pilot Observation](https://arxiv.org/abs/1808.03410)
+
+
+#### [A census of ionized gas outflows in type 1 AGNs: gas outflows in AGNs. V](https://arxiv.org/abs/1808.03415)
+
+
+#### [Dark-ages Reionization and Galaxy Formation Simulation - XV. Stellar evolution and feedback in dwarf galaxies at high redshift](https://arxiv.org/abs/1808.03455)
+
+
+#### [Quantifying the power spectrum of small-scale structure in semi-analytic galaxies](https://arxiv.org/abs/1808.03501)
+
+
+#### [Simultaneous H alpha and dust reverberation mapping of 3C120: Testing the bowl-shaped torus geometry](https://arxiv.org/abs/1808.03572)
+
+
