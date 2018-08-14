@@ -331,3 +331,23 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 #### [Simultaneous H alpha and dust reverberation mapping of 3C120: Testing the bowl-shaped torus geometry](https://arxiv.org/abs/1808.03572)
 
 
+----
+
+## August 13:
+
+#### [How low does it go? Too few Galactic satellites with standard reionization quenching](https://arxiv.org/abs/1808.03654)
+
+
+#### [A study of spectral curvature in the radio relic in Abell 4038 using the uGMRT](https://arxiv.org/abs/1808.04057)
+
+
+#### [Multi-object spectroscopy of CL1821+643: a dynamically relaxed cluster with a giant radio halo?](https://arxiv.org/abs/1808.04133)
+
+
+#### [Nuclear vs. Integrated Spectroscopy of Galaxies in the Herschel Reference Survey](https://arxiv.org/abs/1808.04279)
+
+
+#### [Nowhere to Hide: Radio-faint AGN in the GOODS-N field. I. Initial catalogue and radio properties](https://arxiv.org/abs/1808.04296)
+
+
+#### [Physical Properties of II Zw 40's Super Star Cluster and Nebula: New Insights and Puzzles from UV Spectroscopy](https://arxiv.org/abs/1808.04332)
