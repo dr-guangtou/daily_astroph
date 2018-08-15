@@ -351,3 +351,53 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 
 #### [Physical Properties of II Zw 40's Super Star Cluster and Nebula: New Insights and Puzzles from UV Spectroscopy](https://arxiv.org/abs/1808.04332)
+
+
+----
+
+## August 14:
+
+#### [Cosmological simulations of the circumgalactic medium with 1 kpc resolution: enhanced HI column densities](https://arxiv.org/abs/1808.04369)
+
+
+#### [COLDz: Shape of the CO Luminosity Function at High Redshift and the Cold Gas History of the Universe](https://arxiv.org/abs/1808.04371)
+
+
+#### [The CO Luminosity Density at High-z (COLDz) Survey: A Sensitive, Large Area Blind Search for Low-J CO Emission from Cold Gas in the Early Universe with the Karl G. Jansky Very Large Array](https://arxiv.org/abs/1808.04372)
+
+
+#### [How Black Holes Stop Their Host Galaxy from Growing Without AGN Feedback](https://arxiv.org/abs/1808.04377)
+
+
+#### [COSMOS-DASH: The Evolution of the Galaxy Size-Mass Relation Since z~3 from new Wide Field WFC3 Imaging Combined with CANDELS/3DHST](https://arxiv.org/abs/1808.04379)
+
+
+#### [A SALT Spectral Study of S0s Hosting Pseudobulges](https://arxiv.org/abs/1808.04491)
+
+
+#### [Alma Twenty-six Arcmin^2 Survey Of Goods-s At One-millimeter (asagao): Source Catalog And Number Counts](https://arxiv.org/abs/1808.04502)
+
+
+#### [Internal Kinematics of UM 461 and CTS 1020](https://arxiv.org/abs/1808.04508)
+
+
+#### [AKARI mid-infrared slitless spectroscopic survey of star-forming galaxies at z≲0.5](https://arxiv.org/abs/1808.04566)
+
+
+#### [Ubiquitous ram pressure stripping in the Coma cluster of galaxies](https://arxiv.org/abs/1808.04575)
+
+
+#### [The XXL Survey: XXXIII. Chandra Constraints on the AGN Contamination of z > 1 XXL Galaxy Clusters](https://arxiv.org/abs/1808.04623)
+
+
+#### [The Active Assembly of the Virgo Cluster: Indications for Recent Group Infall From Early-Type Dwarf Galaxies](https://arxiv.org/abs/1808.04751)
+
+
+#### [The orientation of galaxy pairs with filamentary structures: dependence on morphology](https://arxiv.org/abs/1808.04762)
+
+
+#### [Quantifying the Diffuse Continuum Contribution of BLR Clouds to AGN Continuum Inter-band Delays](https://arxiv.org/abs/1808.04798)
+
+
+#### [New Constraints on IGM Thermal Evolution from the Lyα Forest Power Spectrum](https://arxiv.org/abs/1808.04367)
+
