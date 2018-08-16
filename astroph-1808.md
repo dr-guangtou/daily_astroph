@@ -401,3 +401,44 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 #### [New Constraints on IGM Thermal Evolution from the Lyα Forest Power Spectrum](https://arxiv.org/abs/1808.04367)
 
+
+----
+
+## August 15:
+
+#### [Studying the [OIII]λ5007A emission-line width in a sample of ∼80 local active galaxies: A surrogate for σ⋆?](https://arxiv.org/abs/1808.04821)
+    * Fitting the [OIII] line with a single Gaussian or Gauss-Hermite polynomials overestimates σ⋆ by 50-100%.
+    * When line asymmetries from non-gravitational gas motion are excluded in a double Gaussian fit, the average ratio between the core [OIII] width (σ[OIII],D) and σ⋆ is ∼1, but with individual data points off by up to a factor of two.
+    * However, a direct comparison between σ⋆ and σ[OIII],D shows no close correlation, only that both quantities have the same range, average and standard deviation, probably because they feel the same gravitational potential.
+
+
+#### [Constraints on the Cosmic-Ray Ionization Rate in the z∼2.3 Lensed Galaxies SMM J2135−0102 and SDP 17b from Observations of OH+ and H2O](https://arxiv.org/abs/1808.04852)
+
+
+#### [Properties and redshift evolution of star-forming galaxies with high [OIII]/[OII] ratios with MUSE at 0.28<z<0.85](https://arxiv.org/abs/1808.04889)
+
+
+#### [The MUSE Hubble Ultra Deep Field Survey XI. Constraining the low-mass end of the stellar mass - star formation rate relation at z<1](https://arxiv.org/abs/1808.04900)
+
+
+#### [CPz: Classification-aided photometric-redshift estimation](https://arxiv.org/abs/1808.04977)
+
+
+#### [Dissecting the AGN disk-jet system with joint VLBI-Gaia analysis](https://arxiv.org/abs/1808.05115)
+
+
+#### [Dramatic X-ray spectral variability of a Compton-thick type-1 QSO at z∼1](https://arxiv.org/abs/1808.05207)
+
+
+#### [The evolution of the UV-to-mm extragalactic background light: evidence for a top-heavy initial mass function?](https://arxiv.org/abs/1808.05208)
+
+
+#### [The STRong lensing Insights into the Dark Energy Survey (STRIDES) 2016 follow-up campaign. I. Overview and classification of candidates selected by two techniques](https://arxiv.org/abs/1808.04838)
+    * We continue by detailing the results of two selection methods, the Outlier Selection Technique and a morphological algorithm, and presenting lens models of a system which could possibly be a lensed quasar in an unusual configuration.
+    * STRIDES followed up 117 targets identifying 7 new strongly lensed systems, and 7 nearly identical quasars (NIQs), which could be confirmed as lenses by the detection of the lens galaxy.
+
+
+#### [Possible ~ 1 hour quasi-periodic oscillation in narrow-line Seyfert 1 galaxy MCG--06--30--15](https://arxiv.org/abs/1808.05112)
+
+
+#### [Possible ~ 1 hour quasi-periodic oscillation in narrow-line Seyfert 1 galaxy MCG--06--30--15](https://arxiv.org/abs/1808.05112)
