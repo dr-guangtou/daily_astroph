@@ -493,30 +493,56 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 ## August 16:
 
 #### [Galaxy Ellipticity Measurements in the Near-Infrared for Weak Lensing](https://arxiv.org/abs/1808.05223)
+    * The co-added CANDELS/HST V+I and J+H images are degraded in resolution and sensitivity to simulate Euclid-quality optical and near-infrared (NIR) images.
+    * At z > 1.0, the NIR-selected source density is higher by a factor 1.4 and therefore the scatter in NIR-derived ellipticities is about 30% smaller, implying a more precise ellipticity measurement.
 
 
 #### [A 1-dimensional hydrodynamic model for the cooling and heating of gas in dark matter halos from z=6 to z=0](https://arxiv.org/abs/1808.05231)
+    * 一个比现有SAM更好的一维模型，可以重现Formation of virial shocks slightly outside r200 and long-term thermal balance in the form of cooling and heating cycles.
+    * We also compare and match the hot gas density and temperature profiles for the most massive halo in our model to those observed recently for redshifts upto 2
 
 
 #### [Swift Monitoring Observations of Mrk 231: Detection of Ultraviolet Variability](https://arxiv.org/abs/1808.05235)
+    * We analyze 168 Swift monitoring observations of the nearest broad absorption line quasar Mrk 231 in the UV and X-ray bands, where we detect significant variability in the UV (∼2246 ̊A) light curve
+    * The UV variability and its power spectrum suggest that a significant amount of the UV emission of Mrk 231 is from the accretion disk. 
 
 
 #### [The Evolution of the HeII-Ionizing Background at Redshifts 2.3<z<3.8 Inferred from a Statistical Sample of 24 HST/COS HeII Lyα Absorption Spectra](https://arxiv.org/abs/1808.05247)
+    * new measurements of the large-scale (≈ 40 comoving Mpc) effective optical depth of He II Lyα absorption, τeff, at 2.54 < z < 3.86 toward 16 He II-transparent quasars
+    * We confirm that the median τeff increases from ≃ 2 at z = 2.7 to a limit τeff   5 at z > 3, and that the scatter in τeff increases with redshift.
+    * At z > 3.5 we observe predominantly saturated He II absorption, but several isolated narrow (∆v < 650 km s−1) transmission spikes indicate patches of fully reionized helium at these early epochs.
+    * At z > 2.74 the variance in the observed τeff significantly exceeds expectations for a spatially uniform He II-ionizing background, but is in good agreement with a fluctuating radiation field that is due to stochasticity in the quasar number density and spatial variations of the mean free path to He II-ionizing photons in the post-reionization IGM
 
 
 #### [The COS CGM Compendium (CCC). I: Survey Design and Initial Results](https://arxiv.org/abs/1808.05252)
+    * Present a neutral hydrogen-selected absorption-line survey of gas with H I column densities 15 < log NH I < 19 at z < 1 using the Cosmic Origins Spectrograph, 研究吸收体的金属丰度分布
+    * We find singly and doubly ionized metal species and H I typically have similar velocity profiles, implying they probe gas in the same or similar environments.
+    * the gas in these absorbers is largely ionized, and the ionization conditions are quite comparable across the sampled NH I range.
+    * The Mg II column densities span > 2 orders of magnitude at any given NH I, indicating a wide range of metallicities (from solar to < 1/100 solar)
+    * Less than 3% of the absorbers in our sample show no detectable metal absorption, implying truly-pristine gas at z <1 is uncommon.
 
 
 #### [[OII] as a proxy for star formation in AGN host galaxies: beware of extended emission line regions](https://arxiv.org/abs/1808.05421)
+    * Here, we identify EELRs by the presence of the [Ne v] 3426 ̊A emission line, which, like [O ii], is not strongly excited in the inner regions of AGN, but is a prominent emission line in the lower density EELRs.
+    * Critically, unlike [O ii], [Ne v] is not excited by star formation. Therefore, when strong [Nev] is present in an AGN spectrum, the flux from the EELR is not negligible, implying the [O ii] flux is contaminated by emission from the EELR
 
 
 #### [The impact of bars and interactions on optically selected AGNs in spiral galaxies](https://arxiv.org/abs/1808.05536)
+    * We found that barred optically selected AGNs show an excess of nuclear activity (as derived from the Lum[OIII]) and accretion rate onto a central black hole (R) with respect to AGNs in pairs
+    * We also found that the fractions of AGNs with powerful nuclear activity and high accretion rates increase toward more massive hosts with bluer colors and younger stellar populations
 
 
 #### [Dynamic equilibrium sets atomic content of galaxies across cosmic time](https://arxiv.org/abs/1808.05564)
+    * NIHAO模拟：connection between the atomic gas fraction and angular momentum of baryons throughout cosmic time
+    * 作者的模型预测了一个关系：atomic gas fraction f_atm and the global atomic stability parameter q ≡ jσ/(GM), the simulated galaxies follow this relation from their formation (z ≃ 4) to present within ∼ 0.5 dex.
+    * throughout the entire epoch of peak star formation until today, the timescale for accretion is longer than the timescale to reach equilibrium, thus resulting in a quasi-static equilibrium of atomic gas at any time. 
 
 
 #### [A flux-ratio anomaly in the CO spectral line emission from gravitationally-lensed quasar MG J0414+0534](https://arxiv.org/abs/1808.05571)
+    * We confirm that the flux-ratio anomalies observed in the mid-infrared and radio persists into the sub-mm for the continuum images of the quasar. 
+    * 仍不清楚是什么造成的流量比异常
 
 
 #### [The Power Spectrum of the Lyman-α Forest at z < 0.5](https://arxiv.org/abs/1808.05605)
+    * 65 far ultraviolet quasar spectra (resolution R ∼ 18, 000)  
+    * From the P (k) measurements, we estimate the H I photoionization rate (ΓHI) in the z < 0.5 intergalactic medium. Our results confirm most of the previous ΓHI estimates based on the H I Lyman-α line-fitting and low-z measurements of P (k).
