@@ -299,36 +299,73 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 ## August 12:
 
 #### [Probing star formation in galaxies at z≈1 via a Giant Metrewave Radio Telescope stacking analysis](https://arxiv.org/abs/1808.03279)
+    * Deep 610 MHz continuum imaging of four sub-fields of the DEEP2 Galaxy Redshift Survey.
+    * Stacked a large sample for 1.4GHz signal
+    * The stacked emission is unresolved, with a rest-frame 1.4 GHz luminosity of L1.4 GHz = (4.13 ± 0.24) × 1022 W Hz−1
 
 
 #### [A Giant Metrewave Radio Telescope survey for associated HI 21-cm absorption in the Caltech-Jodrell Flat-spectrum sample](https://arxiv.org/abs/1808.03280)
+    * Giant Metrewave Radio Telescope (GMRT) survey for associated Hi 21-cm absorption from 50 active galactic nuclei (AGNs), at z ≈ 0.04 − 3.01
+    * Clean spectra were obtained towards 40 sources, yielding two new absorption detections, at z = 0.229 towards TXS 0003+380 and z = 0.333 towards TXS 1456+375 
+
 
 
 #### [HST F160W Imaging of Very Massive Galaxies at 1.5<z<3.0: Diversity of Structures and the Effect of Close Pairs on Number Density Estimates](https://arxiv.org/abs/1808.03284)
+    - **Relevant, Important**
+    * a targeted follow-up Hubble Space Telescope WFC3 F160W imaging study of very massive galaxies (log(Mstar/M⊙) > 11.2) selected from a combination of ground-based near-infrared galaxy surveys (UltraVISTA, NMBS-II, UKIDSS UDS) at 1.5 < z < 3.
+    * We find that these galaxies are diverse in their structures, with ∼ 1/3 of the targets being composed of close pairs, and span a wide range in sizes. 
+    * We used the observed light profiles of the blended systems to decompose their stellar masses and investigate the effect of the close pairs on the measured number densities of very massive galaxies in the early universe.
+    * Although we currently lack the statistics to robustly correct for close-pair blends, we show that this is a systematic effect which can reduce the observed number density of very massive galaxies by up to a factor of ∼ 1.5, and should be accounted for in future studies of stellar mass functions.
 
 
 #### [CLUES about M33: the reversed radial stellar age gradient in the outskirts of Triangulum galaxy](https://arxiv.org/abs/1808.03286)
+    * ACS观测发现恒星年龄随半径增加；但是到最外侧 a reversal of this gradient is detected
+    * We investigate the origin of such a reversal in stellar age gradient, by using a simulated M33 analogue from the Constrained Local UniversE Simulations (CLUES). 
+    * We demonstrate that this reversal is mostly a result of stellar accretion from old satellite galaxies and, to a lesser extent, of stellar migration of in-situ stars.
 
 
 #### [Extragalactic Imprints in Galactic Dust Maps](https://arxiv.org/abs/1808.03294)
+    - **Interesting**
+    * We investigate whether these maps are contaminated by extragalactic signals using the so-called clustering redshift tech- nique, i.e. by measuring a set of angular cross-correlations with spectroscopic galaxies and quasars as a function of redshift. 大多数尘埃map都有河外星系的印记
+    * When such maps are used for extinction corrections, this extragalactic contamination introduces redshift- and scale-dependent biases in photometric estimates at the milli-magnitude level. 
+    * As expected, we do not detect any extragalactic contamination for the dust map inferred from the distribution of HI from 21cm observations
+    * We note that using the WISE 12 micron map sensitive to Polycyclic Aromatic Hydrocarbons (PAH), an indirect dust tracer, we detect the diffuse extragalactic PAH background up to z ∼ 2. 
 
 
 #### [The SAMI Galaxy Survey: Data Release Two with absorption-line physics value-added products](https://arxiv.org/abs/1808.03365)
+    - **Useful, Important**
+    * Data Release Two includes data for 1559 galaxies, about 50% of the full survey. 
+    * This includes all emission line value-added products from Data Release One, expanded to the larger sample. In addition we include stellar kinematic and stellar population value-added products derived from absorption line measurements.
+    * Stellar velocity dispersion profile: suggests a transition mass around log(M⋆/M⊙) ∼ 10 for galaxies with or without a dispersion–dominated bulge.
 
 
 #### [The Missing Satellite Problem Outside of the Local Group: I -- Pilot Observation](https://arxiv.org/abs/1808.03410)
+    - **Relevant**
+    * A pilot observation of nearby (∼ 20 Mpc) galaxies with mass similar to that of the Milky Way (MW) to address the missing satellite problem.
+    * By applying a surface brightness cut together with a careful visual screening to remove artifacts and background contamination, we construct a sample of dwarf galaxies. The luminosity function (LF) of one of the targets is broadly consistent with that of the MW, but the other has a more abundant dwarf population.
+    * We also characterize the projected spatial distributions of the satellites and do not observe strong evidence for alignments around the central galaxies.
 
 
 #### [A census of ionized gas outflows in type 1 AGNs: gas outflows in AGNs. V](https://arxiv.org/abs/1808.03415)
+    * For the majority of Type 1 AGNs (i.e., ∼ 89%), the [O III] line profile is best represented by a double Gaussian model, presenting the kinematic signature of the non-virial motion.
+    * The fraction of AGNs with outflow signatures is found to increase steeply with [O III] luminosity and Eddington ratio, while Type 1 AGNs have larger velocity dispersion and more negative velocity shift than Type 2 AGNs.
 
 
 #### [Dark-ages Reionization and Galaxy Formation Simulation - XV. Stellar evolution and feedback in dwarf galaxies at high redshift](https://arxiv.org/abs/1808.03455)
+    - **Yuxiang Qin**
+    * Directly compare predictions of dwarf galaxy properties in a semi-analytic model (SAM) with those extracted from a high-resolution hydrodynamic simulation.
+    * The SAM can reproduce the cosmic evolution of galaxy properties predicted by the hydrodynamic simulation. 
+    * We further find that dwarf galaxies rapidly build up their star-forming reservoirs in the early universe (z > 10), with the relevant time-scale becoming significantly longer towards lower redshifts.
 
 
 #### [Quantifying the power spectrum of small-scale structure in semi-analytic galaxies](https://arxiv.org/abs/1808.03501)
+    * Recent work has suggested that the full population of subhalos could be probed using a power spectrum analysis
+    * We find that a measurement of the slope and amplitude of the power spectrum on galaxy strong lensing scales (k ∼ 1 kpc−1) could be used to distinguish between CDM and alternate dark matter models, especially if the most massive subhalos can be directly detected via gravitational imaging.
 
 
 #### [Simultaneous H alpha and dust reverberation mapping of 3C120: Testing the bowl-shaped torus geometry](https://arxiv.org/abs/1808.03572)
+    *  Compared to earlier epochs 3C 120 is about a factor of three brighter, allowing us to study the shape of the broad line region (BLR) and the dust torus in a high luminosity phase.
+    * The analysis of the light curves yields that the dust echo is rather sharp and symmetric in contrast to the more complex broad Hα BLR echo.
 
 
 ----
@@ -336,21 +373,36 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 ## August 13:
 
 #### [How low does it go? Too few Galactic satellites with standard reionization quenching](https://arxiv.org/abs/1808.03654)
+    * We use a suite of cosmological zoom simulations of Milky Way-like haloes that include central Milky Way disk galaxy potentials to investigate the relationship between subhaloes and ultrafaint galaxies.
+    * We find that there are far too few subhaloes within 50 kpc of the Milky Way that had Vpeak ~ 20 km s−1 to account for the number of ultrafaint galaxies already known within that volume today. 
+    * In order to match the observed count, we must populate subhaloes down to Vpeak ≃ 6kms−1 with ultrafaint dwarfs.
 
 
 #### [A study of spectral curvature in the radio relic in Abell 4038 using the uGMRT](https://arxiv.org/abs/1808.04057)
+    *  We interpret the morphology and spectral properties of the relic in the scenario of an adiabatically compressed cocoon from the past activity of the Brightest Cluster Galaxy in the cluster.
 
 
 #### [Multi-object spectroscopy of CL1821+643: a dynamically relaxed cluster with a giant radio halo?](https://arxiv.org/abs/1808.04133)
+    - **Relevant**
+    * We select 120 cluster member galaxies and compute the cluster redshift ⟨z⟩ ∼ 0.296 and the global line-of-sight velocity dispersion σV ∼ 1100 km s−1
+    * While this picture is in agreement with previous results based on X-ray data and on the existence of the central cool core, we do not find any evidence of a merging process responsible for the radio halo discovered in this cluster.
 
 
 #### [Nuclear vs. Integrated Spectroscopy of Galaxies in the Herschel Reference Survey](https://arxiv.org/abs/1808.04279)
+    * Here we aim to provide a spectroscopic characterization of the nuclei of galaxies belonging to the Herschel Reference Survey (HRS)
+    * Using two diagnostic diagrams (the BPT and the WHAN) we provide a nuclear and an integrated spectral classification for the HRS galaxies. The BPT and the WHAN methods for nuclei consistently give a frequency of 53-64% HII, around 21-27% AGNs (including TRAN), and 15-20% of PAS (including RET), whereas for integrated spectra they give 69-84% HII, 4-11% of AGNs and 12-20% PAS.
 
 
 #### [Nowhere to Hide: Radio-faint AGN in the GOODS-N field. I. Initial catalogue and radio properties](https://arxiv.org/abs/1808.04296)
+    * The newest VLBI techniques are used to completely cover an entire 7.′5 radius area to milliarcsecond resolutions, while bright radio sources (S > 0.1 mJy) are targeted up to 25′ from the pointing centre.
+    * This paper presents the largest catalogue of VLBI detected sources in GOODS-N comprising of 31 compact radio sources across a redshift range of 0.11-3.44, almost three times more than previous VLBI surveys in this field. 
 
 
 #### [Physical Properties of II Zw 40's Super Star Cluster and Nebula: New Insights and Puzzles from UV Spectroscopy](https://arxiv.org/abs/1808.04332)
+    * far-ultraviolet spectra and ancillary data of the super star cluster SSC-N and its surrounding H II region in the nearby dwarf galaxy II Zw 40.
+    * SSC-N and its nebulosity are an order of magnitude more massive and luminous than 30 Doradus and its ionizing cluster.
+    * The SSC-N nebula does not coincide with the locus defined by local galaxies. Rather, it coincides with the location of “Green Pea” galaxies, objects which are often considered nearby analogs of the galaxies reionizing the universe. 
+    * the SSC-N cluster has strong, broad, stellar He II 1640 emission that cannot be reproduced, suggesting a deficit of He-enhanced stars with massive winds in the models.
 
 
 ----
@@ -358,12 +410,21 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 ## August 14:
 
 #### [Cosmological simulations of the circumgalactic medium with 1 kpc resolution: enhanced HI column densities](https://arxiv.org/abs/1808.04369)
+    * We get around this issue by running zoom-in simulations of a Milky Way-mass galaxy with standard mass refinement and additional uniform spatial refinement within the virial radius. This results in a detailed view of its gaseous halo at unprecedented (1 kpc) uniform resolution with only a moderate increase in computational time.
+    * It drastically changes the radial profile of the neutral hydrogen column density, which is enhanced at galactocentric radii larger than 40 kpc 
+    * The covering fraction of Lyman-Limit Systems within 150 kpc is almost doubled.
 
 
 #### [COLDz: Shape of the CO Luminosity Function at High Redshift and the Cold Gas History of the Universe](https://arxiv.org/abs/1808.04371)
+    * We report the first detailed measurement of the shape of the CO luminosity function at high redshift, based on >320 hr of Karl G. Jansky Very Large Array (VLA)
+    * We find that the characteristic luminosity and bright end of the CO luminosity function are substantially higher than predicted by semi-analytical models, but consistent with empirical estimates based on the infrared luminosity function at z∼2.
+    * Our results thus appear to suggest that the cosmic star-formation rate density follows an increased cold molecular gas content in galaxies towards its peak about 10 billion years ago, and that its decline towards the earliest epochs is likely related to a lower overall amount of cold molecular gas
 
 
 #### [The CO Luminosity Density at High-z (COLDz) Survey: A Sensitive, Large Area Blind Search for Low-J CO Emission from Cold Gas in the Early Universe with the Karl G. Jansky Very Large Array](https://arxiv.org/abs/1808.04372)
+    * The first spectral line deep field targeting CO(1–0) emission from galaxies at z = 1.95 − 2.85 and CO(2–1) at z = 4.91 − 6.70
+    * Our blind search for CO(1–0) uniformly selects starbursts and massive Main Sequence galaxies based on their cold molecular gas masses. Our search also detects CO(2–1) line emission from optically dark, dusty star-forming galaxies at z > 5.
+    * Through CO line stacking, we constrain the gas mass fraction in previously known typical star-forming galaxies at z = 2–3. The stacked CO detection suggests lower molecular gas mass fractions than expected for massive Main Sequence galaxies by a factor of ∼ 3 − 6.
 
 
 #### [How Black Holes Stop Their Host Galaxy from Growing Without AGN Feedback](https://arxiv.org/abs/1808.04377)
@@ -425,6 +486,9 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 
 #### [New Constraints on IGM Thermal Evolution from the Lyα Forest Power Spectrum](https://arxiv.org/abs/1808.04367)
+    * We conduct Bayesian inference of IGM thermal parameters using an end-to-end forward modeling framework whereby mock spectra generated from our simulation grid are used to build a custom emulator which interpolates the power spectrum between thermal grid points.
+    * The temperature at mean density T0 rises steadily from T0 ∼ 6000K at z = 5.4, peaks at 14000K for z ∼ 3.4, and decreases at lower redshift reaching T0 ∼ 7000 K by z ∼ 1.8. This evolution provides conclusive evidence for photoionization heating resulting from the reionization of He II
+    * Our results are broadly consistent with previous measurements of thermal evolution based on a variety of approaches, but the sensitivity of the power spectrum
 
 
 ----
