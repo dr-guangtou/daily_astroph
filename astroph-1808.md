@@ -610,3 +610,23 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 #### [The Power Spectrum of the Lyman-α Forest at z < 0.5](https://arxiv.org/abs/1808.05605)
     * 65 far ultraviolet quasar spectra (resolution R ∼ 18, 000)  
     * From the P (k) measurements, we estimate the H I photoionization rate (ΓHI) in the z < 0.5 intergalactic medium. Our results confirm most of the previous ΓHI estimates based on the H I Lyman-α line-fitting and low-z measurements of P (k).
+
+
+----
+
+## August 19:
+
+#### [Black Holes and Neutron Stars in Nearby Galaxies: Insights from NuSTAR](https://arxiv.org/abs/1808.05617)
+
+
+#### [Testing the uniqueness of gravitational lens mass models](https://arxiv.org/abs/1808.05619)
+
+
+#### [Deceleration of CIV and SiIV broad absorption lines in X-ray bright quasar SDSS-J092345+512710](https://arxiv.org/abs/1808.05622)
+
+
+#### [Cooling in the X-ray halo of the rotating, massive early-type galaxy NGC 7049](https://arxiv.org/abs/1808.05761)
+
+
+#### [Connecting Compact Star-forming and Extended Star-forming Galaxies at Low-redshift: Implications for Galaxy Compaction and Quenching](https://arxiv.org/abs/1808.05929)
+
