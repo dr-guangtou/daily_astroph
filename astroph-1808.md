@@ -617,16 +617,33 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 ## August 19:
 
 #### [Black Holes and Neutron Stars in Nearby Galaxies: Insights from NuSTAR](https://arxiv.org/abs/1808.05617)
+    * The NuSTAR observatory, which provides imaging data at E > 10 keV, has enabled the classification of extragalactic XRBs by their compact object type: neutron star (NS) or black hole (BH). 
+    * 5 Mpc内的12个星系：Using NuSTAR color-intensity and color-color diagrams we classify 43 of these sources as candidate NS and 47 as candidate BH. We further subdivide BH by accretion states (soft, intermediate, and hard) and NS by weak (Z/Atoll) and strong (accreting pulsar) magnetic field.
+    * Using 8 normal (Milky Way-type) galaxies in the sample, we confirm the relation between SFR and galaxy X-ray point source luminosity
 
 
 #### [Testing the uniqueness of gravitational lens mass models](https://arxiv.org/abs/1808.05619)
+    * Here, we concentrate on the azimuthal mass asymmetries near the image circle.
+    * We ask if galaxies that have mass asymmetries beyond ellipticity can be modeled with simpler lenses
+    * for galaxies with elliptical stellar and dark matter distributions, but with no mass asymmetry, and an extended source filling the diamond caustic, an elliptical+shear lens model can re- produce the images well, thereby hiding the potential complexity
 
 
 #### [Deceleration of CIV and SiIV broad absorption lines in X-ray bright quasar SDSS-J092345+512710](https://arxiv.org/abs/1808.05622)
+    * report a synchronized kinematic shift of C iv and Si iv broad absorption lines (BAL) in a high- ionization, radio-loud, and X-ray bright quasar SDSS-J092345+512710 (at zem ∼ 2.1627)
+    * The absorption profiles of C iv and Si iv BAL of the blue component show decrease in outflow velocity with an average deceleration rate of −1.62+0.04 cm s−2 and −1.14+0.21 cm s−2 over a rest-frame time-span of 4.15 yr. 
+    * We suggest the observed variability could be related to the time dependent changes in disk wind parameters like launching radius, initial flow velocity or mass outflow rate.
 
 
 #### [Cooling in the X-ray halo of the rotating, massive early-type galaxy NGC 7049](https://arxiv.org/abs/1808.05761)
+    - **Relevant**
+    * The central entropy of the hot gas permeating this fast-rotating galaxy is unusually high and it remains systemically higher than that in most non-rotating massive galaxies at all investigated radii.
+    * The hot gas in the plane of rotation of the cool dusty disc has a multi-temperature structure, consistent with ongoing cooling.
+    * We conclude that the rotational support of the hot gas is likely capable of altering the multiphase condensation regardless of the tcool/tff ratio
+        - Apart from affecting the X-ray luminosities and shapes of the hot atmospheres (Brighenti & Mathews 1996, 1997; Hanlan & Bregman 2000; Machacek et al. 2010), rotation should also influence the conditions that govern thermal instabilities in the hot gas.
 
 
 #### [Connecting Compact Star-forming and Extended Star-forming Galaxies at Low-redshift: Implications for Galaxy Compaction and Quenching](https://arxiv.org/abs/1808.05929)
+    * we aim at examining the possible evolutionary link between eSFGs and cSFGs by identifying the trends in star formation rate (SFR), gas-phase metallicity and HI content, since one would naturally expect that galaxies evolve along the track of cold gas consumption and metal enhancement.
+    * The cSFGs on average exhibit similar or slightly higher SFRs of ∼0.06 dex and significantly higher gas-phase metallicity (up to 0.2 dex at low mass) with respect to the eSFGs, while the cSFGs dominate the galaxy population of the most intense star formation activities.
+    * More importantly, overall the median HI content and gas depletion time of cSFGs are about half of eSFGs.
 
