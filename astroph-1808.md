@@ -647,3 +647,28 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
     * The cSFGs on average exhibit similar or slightly higher SFRs of ∼0.06 dex and significantly higher gas-phase metallicity (up to 0.2 dex at low mass) with respect to the eSFGs, while the cSFGs dominate the galaxy population of the most intense star formation activities.
     * More importantly, overall the median HI content and gas depletion time of cSFGs are about half of eSFGs.
 
+
+----
+
+## August 17:
+
+#### [A Lyman limit system associated with galactic winds](https://arxiv.org/abs/1808.05956)
+
+
+#### [Consequences of the external field effect for MOND disk galaxies in galaxy clusters](https://arxiv.org/abs/1808.05962)
+
+
+#### [The Nancay HI Zone of Avoidance survey of 2MASS bright galaxies](https://arxiv.org/abs/1808.05985)
+
+
+#### [Chemistry in the dIrr galaxy Leo A](https://arxiv.org/abs/1808.06027)
+
+
+#### [Structure-dynamics relations for late-type spiral and dwarf irregular galaxies revisited](https://arxiv.org/abs/1808.06140)
+
+
+#### [KUG 0200-096: Dwarf antennae hosting a tidal dwarf galaxy](https://arxiv.org/abs/1808.06166)
+
+
+#### [Multi-Component Decomposition of Cosmic Infrared Background Fluctuations](https://arxiv.org/abs/1808.05964)
+
