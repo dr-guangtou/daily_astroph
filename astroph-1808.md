@@ -650,25 +650,65 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 ----
 
-## August 17:
+## August 20:
 
 #### [A Lyman limit system associated with galactic winds](https://arxiv.org/abs/1808.05956)
+    * 一个z=0.78的QSO的LLS系统的MUSE观测：Using MUSE observations we
+detect one galaxy close to the absorption redshift at an impact parameter of 54 kpc.
+    * By combining the absorption line kinematics with the host galaxy morphokinematics we find that while the main absorption component can originate from a galactic wind at Vw = 110 ± 4 km s−1 the weaker components cannot. 
+    * we expect this gas will remain bound to the host galaxy
 
 
 #### [Consequences of the external field effect for MOND disk galaxies in galaxy clusters](https://arxiv.org/abs/1808.05962)
+    * In this study, we examine the purely gravitational interaction of idealised galaxy models falling into a galaxy cluster in the context of Modified Newtonian Dynamics (MOND). 
+    * We examine the consequences of the EFE on low and high mass disk galaxies in time-evolving analytic background cluster potentials, considering orbits with weak and strong tidal fields. By varying the orbital plane of the galaxies we also test the effect of having the tidal interaction orthogonal or parallel to the disk.
+    * Our results suggest that MOND cluster galaxies should exhibit clear asymmetries in their isophotes, suffer increased mass loss and a reduction in their rotation curves due to the combined effect of cluster tides and the external field
+        - About simulation using MOND: Several such codes are now available, such as PoR (Lüghausen et al. 2015), N-MODY (Londrillo and Nipoti 2009) and a MOND version of the cosmological code AMIGA (Llinares et al. 2008). In this work we will use the MOND N-body/hydrodynamics code known as RAyMOND (Candlish et al. 2015), which is based upon the RAMSES code (Teyssier 2002). This code has previously been used to study possible signals of MOND gravity in cosmological structure formation (Candlish 2016)
 
 
 #### [The Nancay HI Zone of Avoidance survey of 2MASS bright galaxies](https://arxiv.org/abs/1808.05985)
+    * a search for 21cm H I line emission of 2MASS bright galaxy candidates has been pursued along the dust-obscured plane of the Milky Way with the 100m Nancay Radio Telescope.
+    * The newly detected galaxies are on average considerably more H I-rich (mostly 10^9 − 10^10M⊙) compared to systematic (blind) H I surveys.
 
 
 #### [Chemistry in the dIrr galaxy Leo A](https://arxiv.org/abs/1808.06027)
+    * In one of the Hii regions we used the direct method: O+2 ionic abundance was calculated using an electronic temperature determined from the [O iii] λλ4363/5007 line ratio
+    * It is confirmed that Leo A in a very low metallicity galaxy, with 12+log(O/H)=7.4±0.2, log(N/O)=−1.6, and log(S/O)=−1.1
 
 
 #### [Structure-dynamics relations for late-type spiral and dwarf irregular galaxies revisited](https://arxiv.org/abs/1808.06140)
+    * Scaling relations among structural and kinematical features of 79 late-type spiral and dwarf irregular galaxies of the SPARC sample are revisited or newly established.
 
 
 #### [KUG 0200-096: Dwarf antennae hosting a tidal dwarf galaxy](https://arxiv.org/abs/1808.06166)
+    * We identify a young stellar clump of stellar mass of 2×10^7 M⊙ at the tip of the antenna, possibly a Tidal Dwarf Galaxy (TDG).
+    * Evidence of merger between the dwarf galaxy pair is also presence in HI kinematics and morphology where we find the HI contents of interacting pair is disturbed, forming a extended tail toward the TDG.
+    - There has been growing interest in the dwarf- dwarf interaction in recent literatures and in the last few years number of studies have presented observational evidences of the merging dwarf galaxies (Paudel et al. 2015; Stierwalt et al. 2015; Pearson et al. 2016; Martinez-Delgado et al. 2012).
 
 
 #### [Multi-Component Decomposition of Cosmic Infrared Background Fluctuations](https://arxiv.org/abs/1808.05964)
+    - **Interesting**
+    * Infrared background anisotropies encode the redshift-weighted total emission over cosmic history, including any spatially diffuse and extended contributions. The anisotropy power spectrum is dominated by undetected galaxies at small angular scales and diffuse background of Galactic emission at large angular scales
+
+
+----
+
+## August 21:
+
+#### [Dark matter heats up in dwarf galaxies](https://arxiv.org/abs/1808.06634)
+
+
+#### [The X-ray/UV ratio in Active Galactic Nuclei: dispersion and variability](https://arxiv.org/abs/1808.06964)
+
+
+#### [Accurate radial velocity and metallicity of the Large Magellanic Cloud old globular clusters NGC 1928 and NGC 1939](https://arxiv.org/abs/1808.06983)
+
+
+#### [Chandra Follow-Up of the SDSS DR8 redMaPPer Catalog Using the MATCha Pipeline](https://arxiv.org/abs/1808.06637)
+
+
+#### [Spatial Distribution of Metals in the ICM: Evolution of the Iron Excess in Relaxed Galaxy Clusters](https://arxiv.org/abs/1808.06742)
+
+
+#### [Dust in galaxy clusters: Modeling at millimeter wavelengths and impact on Planck cluster cosmology](https://arxiv.org/abs/1808.06807)
 
