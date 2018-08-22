@@ -696,19 +696,44 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
 ## August 21:
 
 #### [Dark matter heats up in dwarf galaxies](https://arxiv.org/abs/1808.06634)
+    * We use stellar kinematics and HI gas rotation curves to infer the inner dark matter densities of eight dwarf spheroidal and eight dwarf irregular galaxies with a wide range of star formation histories. 
+    * We find that our sample of dwarfs falls into two distinct classes.:
+        - 6 Gyr以前停止SF的那些更符合DM cusp；还在形成恒星的那些更符合DM core
+    * we show that this dichotomy is in excellent agreement with models in which dark matter is heated up by bursty star formation.
 
 
 #### [The X-ray/UV ratio in Active Galactic Nuclei: dispersion and variability](https://arxiv.org/abs/1808.06964)
+    * We want to quantify the contribution of variability within single sources (intra-source dispersion) and that due to variations of other quantities different from source to source (inter-source dispersion).
 
 
 #### [Accurate radial velocity and metallicity of the Large Magellanic Cloud old globular clusters NGC 1928 and NGC 1939](https://arxiv.org/abs/1808.06983)
+    - **Relevant**
+    * GMOS and AAOmega+2dF spectrographs to obtain spectra centred on the Ca II triplet, from which we derived individual radial velocities (RVs) and metallicities.
+    * We found that both GCs have RVs and positions consistent with being part of the LMC disc, so that we rule out any possible origin but that in the same galaxy.
+    * We found that 11/15 of the GCs share the LMC rotation derived from HST and Gaia DR2 proper motions. This outcome reveals that the LMC disc existed since the very early epoch of the galaxy formation and experienced the steep relatively fast chemical enrichment shown by its GC metallicities. 剩下的四个很可能是从SMC吸积来的
 
 
 #### [Chandra Follow-Up of the SDSS DR8 redMaPPer Catalog Using the MATCha Pipeline](https://arxiv.org/abs/1808.06637)
+    - **Useful, Relevant**
+    * To this end, we introduce the Mass Analysis Tool for Chandra (MATCha), a pipeline which uses a parallellized algorithm to analyze archival Chandra data.
+    * We run MATCha on the redMaPPer SDSS DR8 cluster catalog and use MATCha’s output X-ray temperatures and luminosities
+    * We detect 447 clusters and determine 246 r2500 temperatures across all redshifts.
+    * T_X和lambda的log-log关系斜率0.52，sigma=0.27
+    * We investigate the distribution of offsets between the X-ray center and redMaPPer center within 0.1 < z < 0.35, finding that 68.3 ± 6.5% of clusters are well-centered.
 
 
 #### [Spatial Distribution of Metals in the ICM: Evolution of the Iron Excess in Relaxed Galaxy Clusters](https://arxiv.org/abs/1808.06742)
+    - **Interesting**
+    * Spatial distribution of iron in the intra-cluster medium in a selected sample of 41 relaxed clusters in the redshift range 0.05 < z < 1.03 using Chandra archival data.
+    * azimuthally-averaged, deprojected ZFe profile of each cluster out to ∼ 0.4r500, and identify a peak in the distribution of iron followed by a flatter distribution at larger radii.
+    * spatial distribution of iron in the ICM extends with time, possibly due to the mixing with the mechanical-mode feedback from the central galaxy.
 
 
 #### [Dust in galaxy clusters: Modeling at millimeter wavelengths and impact on Planck cluster cosmology](https://arxiv.org/abs/1808.06807)
+    - **Interesting**
+    * We have examined dust emission in galaxy clusters at millimeter wavelengths using the Planck 857 GHz map to constrain the model based on Herschel observations
+    * Stacking: we estimated the normalization of the infrared luminosity versus mass relation and constrained the spatial profile of the dust emission. 
+    * 用得到的模型模拟Planck的尘埃加气体的星系团信号：The comparison between clusters extracted using these gas+dust simulations and the basic gas-only simulations allows us to assess the impact of cluster dust emission on Planck results.
+    * We show that dust emission has a negligible effect on the recovery of individual cluster parameters for the Planck mission, but that it impacts the cluster catalog completeness, reducing the number of detections in the redshift range [0.3-0.8] by up to ∼ 9%.
+    * 对宇宙学参数影响不大：it does not ease the tension between Planck cluster and primary cosmic microwave background cosmologies.
 
