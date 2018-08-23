@@ -16,7 +16,7 @@
 #### [Uncorrelated velocity and size residuals across galaxy rotation curves](https://arxiv.org/abs/1808.00271)
     - **Relevant, Interesting**
     * We study the coupling of the Tully–Fisher and mass–size relations both in observations (the SPARC sample) and in empirical galaxy formation models based on halo abundance matching.
-    * 看TF关系和mass-size relation的residuls之间在不同半径上的相关:We find no significant correlation in either the data or models for any r. 
+    * 看TF关系和mass-size relation的residuls之间在不同半径上的相关:We find no significant correlation in either the data or models for any r.
     * We do however find evidence for an anticorrelation of galaxy size with halo concentration at fixed baryonic mass
 
 
@@ -53,7 +53,7 @@
 
 #### [OMEGA - OSIRIS Mapping of Emission-line Galaxies in A901/2: IV. - Extinction of Star-Formation Estimators with Inclination](https://arxiv.org/abs/1808.00530)
     * study the effect of inclination on the apparent brightness of star-forming galaxies in spectral passbands that are commonly used as star-formation indicators
-    * 使用了tunable-filter imaging 
+    * 使用了tunable-filter imaging
     * we find trends in the UV and Hα mass-to-light ratio that suggest an inclination-induced attenuation from face-on to edge-on of ∼ 1 mag and ∼ 0.7 mag in UV and Hα, respectively, implying that star-formation rates of edge-on galaxies would be underestimated by ∼ 2.5× in UV and ∼ 2× in Hα.
 
 #### [Galaxy Structure in the Ultraviolet: The Dependence of Morphological Parameters on Rest-Frame Wavelength](https://arxiv.org/abs/1808.00577)
@@ -89,7 +89,7 @@
     * X-ray stacking analysis of ∼75,000 star-forming galaxies between 0.1 < z < 5.0 using the Chandra COSMOS Legacy survey to study the X-ray emission of low-luminosity active galactic nuclei (AGN)
     * Comparing the measured luminosities to established XRB scaling relations, we find that the redshift evolution of the luminosity per star formation rate (SFR) of XRBs depends sensitively on the assumed obscuration
     * After subtracting the estimated XRB contribution from the stacks, we find that most stacks at z > 1.3 exhibit a significant X-ray excess indicating nuclear emission. The AGN emission is strongly correlated with stellar mass but does not exhibit an additional correlation with SFR.
-    * The hardness ratios of the high-redshift stacks indicate that the AGN are substantially obscured 
+    * The hardness ratios of the high-redshift stacks indicate that the AGN are substantially obscured
 
 
 ----
@@ -98,7 +98,7 @@
 
 #### [Black Hole - Galaxy Scaling Relationships for Active Galactic Nuclei with Reverberation Masses](https://arxiv.org/abs/1808.01329)
     - **Important**
-    * We have separated the host galaxy from the bright central AGN, allowing a re-examination of the MBH − Lbulge and MBH − Lgalaxy relationships and the MBH − Mbulge and MBH − Mstars relationships using V-H color to constrain the stellar mass-to-light ratio. 
+    * We have separated the host galaxy from the bright central AGN, allowing a re-examination of the MBH − Lbulge and MBH − Lgalaxy relationships and the MBH − Mbulge and MBH − Mstars relationships using V-H color to constrain the stellar mass-to-light ratio.
     * We also find good agreement with the expectations from the Illustris simulations, although the agreement with other simulations is less clear because of the different black hole mass ranges that are probed.
     * MBH − Lbulge is found to have the least scatter, and is therefore the best predictor of MBH among the relationships examined here.
     * We have examined MBH/Mstars and find a clear trend with black hole mass but not galaxy mass.
@@ -109,7 +109,7 @@
     * We analyse the origin of differences between physical properties of satellites and those of their central counterparts, identified by matching the Vmax of their host haloes at the accretion time of the satellites.
     * In contrast, our model predicts larger differences with respect to data for the molecular gas mass and star formation rate.
         - that differences in the gas content arise after accretion, and can be entirely ascribed to the instantaneous strip- ping of the hot gas reservoir.
-    * We argue that these disagreements could be largely resolved with the inclusion of a proper treatment for ram-pressure stripping of cold gas and a more gradual stripping of the hot gas reservoir. 
+    * We argue that these disagreements could be largely resolved with the inclusion of a proper treatment for ram-pressure stripping of cold gas and a more gradual stripping of the hot gas reservoir.
 
 
 #### [ALMA 12CO (J=1--0) imaging of the nearby galaxy M83: Variations in the efficiency of star formation in giant molecular clouds](https://arxiv.org/abs/1808.01702)
@@ -118,7 +118,7 @@
 
 #### [An early-type galaxy with an inner star-forming disk](https://arxiv.org/abs/1808.01730)
     * We report a discovery of an ETG (SDSS J142055.01+400715.7) with M∗=10^10 M⊙ that offers direct evidence for gas-rich merging as the origin of low-mass ETGs.
-    * Furthermore, the inner disk harbors on-going star formation, indicating the merging to be gas rich. 
+    * Furthermore, the inner disk harbors on-going star formation, indicating the merging to be gas rich.
 
 
 #### [GAMA/G10-COSMOS/3D-HST: Evolution of the galaxy stellar mass function over 12.5Gyrs](https://arxiv.org/abs/1808.01754)
@@ -138,7 +138,7 @@
     * results of CANDELSz7, an ESO large program aimed at confirming spectroscopically a homogeneous sample of z≃6 and z≃7 star forming galaxies.
     * FORS2 12-20小时的光谱
     * For about 40% of the galaxies we could determine a spectroscopic redshift, mainly through the detection of a single emission line that we interpret as Lyα emission
-    * we assemble a sample of ≃ 260 galaxies that we use to explore the evolution of the Lyα fraction in Lyman break galaxies and the change in the shape of the emission line between z ∼ 6 and z ∼ 7. 
+    * we assemble a sample of ≃ 260 galaxies that we use to explore the evolution of the Lyα fraction in Lyman break galaxies and the change in the shape of the emission line between z ∼ 6 and z ∼ 7.
 
 
 #### [Extreme jet bending on kiloparsec scales : the 'doughnut' in NGC 6109](https://arxiv.org/abs/1808.01967)
@@ -158,7 +158,7 @@
 ## August 7:
 
 #### [Mid-Infrared Spectroscopic Evidence for AGN Heating Warm Molecular Gas](https://arxiv.org/abs/1808.02035)
-    * We use four MIR diagnostics to estimate the contribution of the AGN to the total MIR emission. 
+    * We use four MIR diagnostics to estimate the contribution of the AGN to the total MIR emission.
     * We compare the relative strengths of PAH emission features and find that PAH grains in AGN-dominated sources have a wider range of sizes and fractional ionizations than PAH grains in non-AGN dominated sources.
     * We find an average 200 K difference between the excitation temperatures of the H2S(5) and H2S(7) pure rotational molecular hydrogen transition pair in AGN-dominated versus non-AGN dominated galaxies.
 
@@ -179,7 +179,7 @@
 
 #### [The z=0.54 LoBAL Quasar SDSS J085053.12+445122.5: I. Spectral Synthesis Analysis Reveals a Massive Outflow](https://arxiv.org/abs/1808.02441)
     * We introduce SimBAL, a novel spectral-synthesis procedure that uses large grids of ionic column densities generated by the photoionization code Cloudy and a Bayesian model calibration to forward-model broad absorption line quasar spectra.
-    * The outflow lies 1–3 parsecs from the central engine, consistent with the estimated location of the torus. 
+    * The outflow lies 1–3 parsecs from the central engine, consistent with the estimated location of the torus.
     * 拟合宽吸收线QSO中外流参数的工具
 
 
@@ -204,7 +204,7 @@
 #### [Connecting Young Star Clusters to CO Molecular Gas in NGC 7793 with ALMA-LEGUS](https://arxiv.org/abs/1808.02496)
     * We find a strong spatial correlation between young star clusters and GMCs such that all clusters still associated with a GMC are younger than 11 Myr and display a median age of 2 Myr.
     * The age distribution increases gradually as the cluster–GMC distance increases, with star clusters that are spatially unassociated with molecular gas exhibiting a median age of 7 Myr.
-    * Star clusters are significantly more clustered than the molecular cloud hierarchy 
+    * Star clusters are significantly more clustered than the molecular cloud hierarchy
 
 
 #### [Angular Momentum and Galaxy Formation Revisited: Scaling Relations for Disks and Bulges](https://arxiv.org/abs/1808.02525)
@@ -221,14 +221,14 @@
 
 #### [A Deep Lyα Survey in ECDF-S and COSMOS: I. General Properties of Lyman-alpha Emitters at z∼2](https://arxiv.org/abs/1808.02704)
     * The narrowband surveys conducted at Magellan II telescope allow us to obtain a sample of 452 LAEs reaching a 5σ limiting magnitude of ∼ 26 mag
-    * There are six LAEs detected by the Spitzer/MIPS 24μm or even Herschel far-infrared observations. 
+    * There are six LAEs detected by the Spitzer/MIPS 24μm or even Herschel far-infrared observations.
     * LAE覆盖的质量和SFR范围都很大
     * they are mostly low-mass star-forming galaxies and follow the star formation main sequence relations or their extrapolations to the low-mass end, implying a normal star-forming nature of LAEs.
 
 
 #### [A star-forming dwarf galaxy candidate in the halo of NGC 4634](https://arxiv.org/abs/1808.02801)
     * We investigate the nature and origin of a star-forming dwarf galaxy candidate located in the halo of the edge-on Virgo galaxy NGC 4634 with a projected distance of 1.4 kpc
-    * The high oxygen abundance (12 + log(O/H) ≈ 8.72) of the dwarf galaxy candidate leads to the conclusion that it was formed from pre-enriched material. 
+    * The high oxygen abundance (12 + log(O/H) ≈ 8.72) of the dwarf galaxy candidate leads to the conclusion that it was formed from pre-enriched material.
 
 
 #### [The `Cosmic Seagull': a highly magnified disk-like galaxy at z~2.8 behind the Bullet Cluster](https://arxiv.org/abs/1808.02828)
@@ -246,7 +246,7 @@
 #### [Bayesian photometric redshifts of blended sources](https://arxiv.org/abs/1808.02846)
     - **Relevant**
     * We present a Bayesian photometric redshift method for blended sources with an arbitrary number of intrinsic components.
-    * Using Bayesian model comparison, we infer the probability that a source is blended and the number of components that it contains. We make available blendz, a Python implementation of our method. 
+    * Using Bayesian model comparison, we infer the probability that a source is blended and the number of components that it contains. We make available blendz, a Python implementation of our method.
 
 
 #### [AGN feedback in the Phoenix cluster](https://arxiv.org/abs/1808.02872)
@@ -262,7 +262,7 @@
 
 #### [Standoff Distance of Bow Shocks in Galaxy Clusters as Proxy for Mach Number](https://arxiv.org/abs/1808.02885)
     * One of the pure geometrical proxies to the shock Mach number is the standoff distance, i.e. the distance between the leading edge of the shock and the contact discontinuity. 即便仪器分辨率不够，也可以用来估计subcluster并合的速度
-    * a combination of the standoff distance with measurements of the Mach number from density/temperature jumps can differentiate between the pre- and post-merger stages, at least when the merger axis is close to the plane of sky or if the merger axis angle to the line of sight can be inferred. 
+    * a combination of the standoff distance with measurements of the Mach number from density/temperature jumps can differentiate between the pre- and post-merger stages, at least when the merger axis is close to the plane of sky or if the merger axis angle to the line of sight can be inferred.
 
 
 #### [Nitrogen-to-Oxygen Abundance Ratio Variation In Quiescent Galaxies](https://arxiv.org/abs/1808.02891)
@@ -275,8 +275,8 @@
 
 #### [The Evolution of Assembly Bias](https://arxiv.org/abs/1808.02896)
     - **Relevant**
-    * Dark matter only simulation: We investigate how the clustering of haloes and their galaxy content depend on halo formation time and concentration, and how these relationships evolve with redshift. 
-    * we look at the evolution of assembly bias reflected in the galaxy distribution by examining the galaxy correlation functions relative to those of shuffled galaxy samples which remove the occupancy variation. This correlation functions ratio monotonically decreases with larger redshift and for lower number density samples, going below unity in some cases, leading to reduced galaxy clustering. 
+    * Dark matter only simulation: We investigate how the clustering of haloes and their galaxy content depend on halo formation time and concentration, and how these relationships evolve with redshift.
+    * we look at the evolution of assembly bias reflected in the galaxy distribution by examining the galaxy correlation functions relative to those of shuffled galaxy samples which remove the occupancy variation. This correlation functions ratio monotonically decreases with larger redshift and for lower number density samples, going below unity in some cases, leading to reduced galaxy clustering.
 
 
 #### [Intense CIII 1907,1909 emission from a strong Lyman continuum emitting galaxy](https://arxiv.org/abs/1808.03059)
@@ -306,35 +306,35 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 #### [A Giant Metrewave Radio Telescope survey for associated HI 21-cm absorption in the Caltech-Jodrell Flat-spectrum sample](https://arxiv.org/abs/1808.03280)
     * Giant Metrewave Radio Telescope (GMRT) survey for associated Hi 21-cm absorption from 50 active galactic nuclei (AGNs), at z ≈ 0.04 − 3.01
-    * Clean spectra were obtained towards 40 sources, yielding two new absorption detections, at z = 0.229 towards TXS 0003+380 and z = 0.333 towards TXS 1456+375 
+    * Clean spectra were obtained towards 40 sources, yielding two new absorption detections, at z = 0.229 towards TXS 0003+380 and z = 0.333 towards TXS 1456+375
 
 
 
 #### [HST F160W Imaging of Very Massive Galaxies at 1.5<z<3.0: Diversity of Structures and the Effect of Close Pairs on Number Density Estimates](https://arxiv.org/abs/1808.03284)
     - **Relevant, Important**
     * a targeted follow-up Hubble Space Telescope WFC3 F160W imaging study of very massive galaxies (log(Mstar/M⊙) > 11.2) selected from a combination of ground-based near-infrared galaxy surveys (UltraVISTA, NMBS-II, UKIDSS UDS) at 1.5 < z < 3.
-    * We find that these galaxies are diverse in their structures, with ∼ 1/3 of the targets being composed of close pairs, and span a wide range in sizes. 
+    * We find that these galaxies are diverse in their structures, with ∼ 1/3 of the targets being composed of close pairs, and span a wide range in sizes.
     * We used the observed light profiles of the blended systems to decompose their stellar masses and investigate the effect of the close pairs on the measured number densities of very massive galaxies in the early universe.
     * Although we currently lack the statistics to robustly correct for close-pair blends, we show that this is a systematic effect which can reduce the observed number density of very massive galaxies by up to a factor of ∼ 1.5, and should be accounted for in future studies of stellar mass functions.
 
 
 #### [CLUES about M33: the reversed radial stellar age gradient in the outskirts of Triangulum galaxy](https://arxiv.org/abs/1808.03286)
     * ACS观测发现恒星年龄随半径增加；但是到最外侧 a reversal of this gradient is detected
-    * We investigate the origin of such a reversal in stellar age gradient, by using a simulated M33 analogue from the Constrained Local UniversE Simulations (CLUES). 
+    * We investigate the origin of such a reversal in stellar age gradient, by using a simulated M33 analogue from the Constrained Local UniversE Simulations (CLUES).
     * We demonstrate that this reversal is mostly a result of stellar accretion from old satellite galaxies and, to a lesser extent, of stellar migration of in-situ stars.
 
 
 #### [Extragalactic Imprints in Galactic Dust Maps](https://arxiv.org/abs/1808.03294)
     - **Interesting**
     * We investigate whether these maps are contaminated by extragalactic signals using the so-called clustering redshift tech- nique, i.e. by measuring a set of angular cross-correlations with spectroscopic galaxies and quasars as a function of redshift. 大多数尘埃map都有河外星系的印记
-    * When such maps are used for extinction corrections, this extragalactic contamination introduces redshift- and scale-dependent biases in photometric estimates at the milli-magnitude level. 
+    * When such maps are used for extinction corrections, this extragalactic contamination introduces redshift- and scale-dependent biases in photometric estimates at the milli-magnitude level.
     * As expected, we do not detect any extragalactic contamination for the dust map inferred from the distribution of HI from 21cm observations
-    * We note that using the WISE 12 micron map sensitive to Polycyclic Aromatic Hydrocarbons (PAH), an indirect dust tracer, we detect the diffuse extragalactic PAH background up to z ∼ 2. 
+    * We note that using the WISE 12 micron map sensitive to Polycyclic Aromatic Hydrocarbons (PAH), an indirect dust tracer, we detect the diffuse extragalactic PAH background up to z ∼ 2.
 
 
 #### [The SAMI Galaxy Survey: Data Release Two with absorption-line physics value-added products](https://arxiv.org/abs/1808.03365)
     - **Useful, Important**
-    * Data Release Two includes data for 1559 galaxies, about 50% of the full survey. 
+    * Data Release Two includes data for 1559 galaxies, about 50% of the full survey.
     * This includes all emission line value-added products from Data Release One, expanded to the larger sample. In addition we include stellar kinematic and stellar population value-added products derived from absorption line measurements.
     * Stellar velocity dispersion profile: suggests a transition mass around log(M⋆/M⊙) ∼ 10 for galaxies with or without a dispersion–dominated bulge.
 
@@ -354,7 +354,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 #### [Dark-ages Reionization and Galaxy Formation Simulation - XV. Stellar evolution and feedback in dwarf galaxies at high redshift](https://arxiv.org/abs/1808.03455)
     - **Yuxiang Qin**
     * Directly compare predictions of dwarf galaxy properties in a semi-analytic model (SAM) with those extracted from a high-resolution hydrodynamic simulation.
-    * The SAM can reproduce the cosmic evolution of galaxy properties predicted by the hydrodynamic simulation. 
+    * The SAM can reproduce the cosmic evolution of galaxy properties predicted by the hydrodynamic simulation.
     * We further find that dwarf galaxies rapidly build up their star-forming reservoirs in the early universe (z > 10), with the relevant time-scale becoming significantly longer towards lower redshifts.
 
 
@@ -374,7 +374,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 #### [How low does it go? Too few Galactic satellites with standard reionization quenching](https://arxiv.org/abs/1808.03654)
     * We use a suite of cosmological zoom simulations of Milky Way-like haloes that include central Milky Way disk galaxy potentials to investigate the relationship between subhaloes and ultrafaint galaxies.
-    * We find that there are far too few subhaloes within 50 kpc of the Milky Way that had Vpeak ~ 20 km s−1 to account for the number of ultrafaint galaxies already known within that volume today. 
+    * We find that there are far too few subhaloes within 50 kpc of the Milky Way that had Vpeak ~ 20 km s−1 to account for the number of ultrafaint galaxies already known within that volume today.
     * In order to match the observed count, we must populate subhaloes down to Vpeak ≃ 6kms−1 with ultrafaint dwarfs.
 
 
@@ -395,13 +395,13 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 #### [Nowhere to Hide: Radio-faint AGN in the GOODS-N field. I. Initial catalogue and radio properties](https://arxiv.org/abs/1808.04296)
     * The newest VLBI techniques are used to completely cover an entire 7.′5 radius area to milliarcsecond resolutions, while bright radio sources (S > 0.1 mJy) are targeted up to 25′ from the pointing centre.
-    * This paper presents the largest catalogue of VLBI detected sources in GOODS-N comprising of 31 compact radio sources across a redshift range of 0.11-3.44, almost three times more than previous VLBI surveys in this field. 
+    * This paper presents the largest catalogue of VLBI detected sources in GOODS-N comprising of 31 compact radio sources across a redshift range of 0.11-3.44, almost three times more than previous VLBI surveys in this field.
 
 
 #### [Physical Properties of II Zw 40's Super Star Cluster and Nebula: New Insights and Puzzles from UV Spectroscopy](https://arxiv.org/abs/1808.04332)
     * far-ultraviolet spectra and ancillary data of the super star cluster SSC-N and its surrounding H II region in the nearby dwarf galaxy II Zw 40.
     * SSC-N and its nebulosity are an order of magnitude more massive and luminous than 30 Doradus and its ionizing cluster.
-    * The SSC-N nebula does not coincide with the locus defined by local galaxies. Rather, it coincides with the location of “Green Pea” galaxies, objects which are often considered nearby analogs of the galaxies reionizing the universe. 
+    * The SSC-N nebula does not coincide with the locus defined by local galaxies. Rather, it coincides with the location of “Green Pea” galaxies, objects which are often considered nearby analogs of the galaxies reionizing the universe.
     * the SSC-N cluster has strong, broad, stellar He II 1640 emission that cannot be reproduced, suggesting a deficit of He-enhanced stars with massive winds in the models.
 
 
@@ -411,7 +411,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 #### [Cosmological simulations of the circumgalactic medium with 1 kpc resolution: enhanced HI column densities](https://arxiv.org/abs/1808.04369)
     * We get around this issue by running zoom-in simulations of a Milky Way-mass galaxy with standard mass refinement and additional uniform spatial refinement within the virial radius. This results in a detailed view of its gaseous halo at unprecedented (1 kpc) uniform resolution with only a moderate increase in computational time.
-    * It drastically changes the radial profile of the neutral hydrogen column density, which is enhanced at galactocentric radii larger than 40 kpc 
+    * It drastically changes the radial profile of the neutral hydrogen column density, which is enhanced at galactocentric radii larger than 40 kpc
     * The covering fraction of Lyman-Limit Systems within 150 kpc is almost doubled.
 
 
@@ -434,7 +434,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
     - **Important, Relevant**
     * COSMOS-DASH is the widest HST/WFC3 imaging survey in H160 filter, tripling the extragalactic survey area in the near-infrared at HST resolution.
     * We find no statistical difference between the median sizes of the most massive star-forming and quiescent galaxies at ⟨z⟩ = 2.5
-    * However, we do find a significant difference in the Sersic index between the two samples, such that massive quiescent galaxies have higher central densities than star forming galaxies. 
+    * However, we do find a significant difference in the Sersic index between the two samples, such that massive quiescent galaxies have higher central densities than star forming galaxies.
 
 
 #### [A SALT Spectral Study of S0s Hosting Pseudobulges](https://arxiv.org/abs/1808.04491)
@@ -447,7 +447,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 
 #### [Internal Kinematics of UM 461 and CTS 1020](https://arxiv.org/abs/1808.04508)
-    * We found that the motion in both star-forming knots of UM 461 has different patterns, suggesting a weak kinematical connection between the knots. 
+    * We found that the motion in both star-forming knots of UM 461 has different patterns, suggesting a weak kinematical connection between the knots.
     * We found that UM 461 seems to be more susceptible to stellar feedback, whereas in CTS 1020 the gravitational potential dominates.
 
 
@@ -510,7 +510,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 #### [Properties and redshift evolution of star-forming galaxies with high [OIII]/[OII] ratios withot MUSE at 0.28<z<0.85](https://arxiv.org/abs/1808.04889)
     * Recently discovered Lyman continuum (LyC) emitters have extremely high oxygen line ratios: [O iii]λ5007/[O ii]λλ3726, 3729> 4.
-    * Out of this sample 15 are identified as extreme oxygen emitters based on their [O iii]/[O ii] ratios (3.7%) and 104 galaxies have [O iii]/[O ii] > 1 (26%). 
+    * Out of this sample 15 are identified as extreme oxygen emitters based on their [O iii]/[O ii] ratios (3.7%) and 104 galaxies have [O iii]/[O ii] > 1 (26%).
     * We find a decrease in the fraction of galaxies with [O iii]/[O ii] > 1 with increasing M∗ , however, this is most likely a result of the relationship between [O iii]/[O ii] and metallicity, rather than between [Oiii]/[Oii] and M∗.
     * [OIII]/[OII] ratio高的星系是年轻，金属丰度低的星系
 
@@ -535,7 +535,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 #### [Dramatic X-ray spectral variability of a Compton-thick type-1 QSO at z∼1](https://arxiv.org/abs/1808.05207)
     * The XMM-Newton spectrum from the year 2000 is characterized by an unobscured power-law spectrum with photon index of Γ ∼ 2, a column density of NH ∼ 5×10^20 cm−2, and no prominent reflection component. Five years later, Chandra captured the source in a heavily-obscured, reflection-dominated state.
     * Dramatic X-ray spectral variability of this kind could be quite common in type-1 QSOs, considering the relatively few datasets in which such an event could have been identified.
-    
+
 
 #### [The evolution of the UV-to-mm extragalactic background light: evidence for a top-heavy initial mass function?](https://arxiv.org/abs/1808.05208)
     - **Interesting**
@@ -568,7 +568,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 #### [Swift Monitoring Observations of Mrk 231: Detection of Ultraviolet Variability](https://arxiv.org/abs/1808.05235)
     * We analyze 168 Swift monitoring observations of the nearest broad absorption line quasar Mrk 231 in the UV and X-ray bands, where we detect significant variability in the UV (∼2246 ̊A) light curve
-    * The UV variability and its power spectrum suggest that a significant amount of the UV emission of Mrk 231 is from the accretion disk. 
+    * The UV variability and its power spectrum suggest that a significant amount of the UV emission of Mrk 231 is from the accretion disk.
 
 
 #### [The Evolution of the HeII-Ionizing Background at Redshifts 2.3<z<3.8 Inferred from a Statistical Sample of 24 HST/COS HeII Lyα Absorption Spectra](https://arxiv.org/abs/1808.05247)
@@ -599,16 +599,16 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 #### [Dynamic equilibrium sets atomic content of galaxies across cosmic time](https://arxiv.org/abs/1808.05564)
     * NIHAO模拟：connection between the atomic gas fraction and angular momentum of baryons throughout cosmic time
     * 作者的模型预测了一个关系：atomic gas fraction f_atm and the global atomic stability parameter q ≡ jσ/(GM), the simulated galaxies follow this relation from their formation (z ≃ 4) to present within ∼ 0.5 dex.
-    * throughout the entire epoch of peak star formation until today, the timescale for accretion is longer than the timescale to reach equilibrium, thus resulting in a quasi-static equilibrium of atomic gas at any time. 
+    * throughout the entire epoch of peak star formation until today, the timescale for accretion is longer than the timescale to reach equilibrium, thus resulting in a quasi-static equilibrium of atomic gas at any time.
 
 
 #### [A flux-ratio anomaly in the CO spectral line emission from gravitationally-lensed quasar MG J0414+0534](https://arxiv.org/abs/1808.05571)
-    * We confirm that the flux-ratio anomalies observed in the mid-infrared and radio persists into the sub-mm for the continuum images of the quasar. 
+    * We confirm that the flux-ratio anomalies observed in the mid-infrared and radio persists into the sub-mm for the continuum images of the quasar.
     * 仍不清楚是什么造成的流量比异常
 
 
 #### [The Power Spectrum of the Lyman-α Forest at z < 0.5](https://arxiv.org/abs/1808.05605)
-    * 65 far ultraviolet quasar spectra (resolution R ∼ 18, 000)  
+    * 65 far ultraviolet quasar spectra (resolution R ∼ 18, 000)
     * From the P (k) measurements, we estimate the H I photoionization rate (ΓHI) in the z < 0.5 intergalactic medium. Our results confirm most of the previous ΓHI estimates based on the H I Lyman-α line-fitting and low-z measurements of P (k).
 
 
@@ -617,7 +617,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 ## August 19:
 
 #### [Black Holes and Neutron Stars in Nearby Galaxies: Insights from NuSTAR](https://arxiv.org/abs/1808.05617)
-    * The NuSTAR observatory, which provides imaging data at E > 10 keV, has enabled the classification of extragalactic XRBs by their compact object type: neutron star (NS) or black hole (BH). 
+    * The NuSTAR observatory, which provides imaging data at E > 10 keV, has enabled the classification of extragalactic XRBs by their compact object type: neutron star (NS) or black hole (BH).
     * 5 Mpc内的12个星系：Using NuSTAR color-intensity and color-color diagrams we classify 43 of these sources as candidate NS and 47 as candidate BH. We further subdivide BH by accretion states (soft, intermediate, and hard) and NS by weak (Z/Atoll) and strong (accreting pulsar) magnetic field.
     * Using 8 normal (Milky Way-type) galaxies in the sample, we confirm the relation between SFR and galaxy X-ray point source luminosity
 
@@ -630,7 +630,7 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 
 #### [Deceleration of CIV and SiIV broad absorption lines in X-ray bright quasar SDSS-J092345+512710](https://arxiv.org/abs/1808.05622)
     * report a synchronized kinematic shift of C iv and Si iv broad absorption lines (BAL) in a high- ionization, radio-loud, and X-ray bright quasar SDSS-J092345+512710 (at zem ∼ 2.1627)
-    * The absorption profiles of C iv and Si iv BAL of the blue component show decrease in outflow velocity with an average deceleration rate of −1.62+0.04 cm s−2 and −1.14+0.21 cm s−2 over a rest-frame time-span of 4.15 yr. 
+    * The absorption profiles of C iv and Si iv BAL of the blue component show decrease in outflow velocity with an average deceleration rate of −1.62+0.04 cm s−2 and −1.14+0.21 cm s−2 over a rest-frame time-span of 4.15 yr.
     * We suggest the observed variability could be related to the time dependent changes in disk wind parameters like launching radius, initial flow velocity or mass outflow rate.
 
 
@@ -655,12 +655,12 @@ with increasing C iii] λ1909 equivalent width, which can be understood by a com
 #### [A Lyman limit system associated with galactic winds](https://arxiv.org/abs/1808.05956)
     * 一个z=0.78的QSO的LLS系统的MUSE观测：Using MUSE observations we
 detect one galaxy close to the absorption redshift at an impact parameter of 54 kpc.
-    * By combining the absorption line kinematics with the host galaxy morphokinematics we find that while the main absorption component can originate from a galactic wind at Vw = 110 ± 4 km s−1 the weaker components cannot. 
+    * By combining the absorption line kinematics with the host galaxy morphokinematics we find that while the main absorption component can originate from a galactic wind at Vw = 110 ± 4 km s−1 the weaker components cannot.
     * we expect this gas will remain bound to the host galaxy
 
 
 #### [Consequences of the external field effect for MOND disk galaxies in galaxy clusters](https://arxiv.org/abs/1808.05962)
-    * In this study, we examine the purely gravitational interaction of idealised galaxy models falling into a galaxy cluster in the context of Modified Newtonian Dynamics (MOND). 
+    * In this study, we examine the purely gravitational interaction of idealised galaxy models falling into a galaxy cluster in the context of Modified Newtonian Dynamics (MOND).
     * We examine the consequences of the EFE on low and high mass disk galaxies in time-evolving analytic background cluster potentials, considering orbits with weak and strong tidal fields. By varying the orbital plane of the galaxies we also test the effect of having the tidal interaction orthogonal or parallel to the disk.
     * Our results suggest that MOND cluster galaxies should exhibit clear asymmetries in their isophotes, suffer increased mass loss and a reduction in their rotation curves due to the combined effect of cluster tides and the external field
         - About simulation using MOND: Several such codes are now available, such as PoR (Lüghausen et al. 2015), N-MODY (Londrillo and Nipoti 2009) and a MOND version of the cosmological code AMIGA (Llinares et al. 2008). In this work we will use the MOND N-body/hydrodynamics code known as RAyMOND (Candlish et al. 2015), which is based upon the RAMSES code (Teyssier 2002). This code has previously been used to study possible signals of MOND gravity in cosmological structure formation (Candlish 2016)
@@ -696,7 +696,7 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
 ## August 21:
 
 #### [Dark matter heats up in dwarf galaxies](https://arxiv.org/abs/1808.06634)
-    * We use stellar kinematics and HI gas rotation curves to infer the inner dark matter densities of eight dwarf spheroidal and eight dwarf irregular galaxies with a wide range of star formation histories. 
+    * We use stellar kinematics and HI gas rotation curves to infer the inner dark matter densities of eight dwarf spheroidal and eight dwarf irregular galaxies with a wide range of star formation histories.
     * We find that our sample of dwarfs falls into two distinct classes.:
         - 6 Gyr以前停止SF的那些更符合DM cusp；还在形成恒星的那些更符合DM core
     * we show that this dichotomy is in excellent agreement with models in which dark matter is heated up by bursty star formation.
@@ -732,8 +732,49 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
 #### [Dust in galaxy clusters: Modeling at millimeter wavelengths and impact on Planck cluster cosmology](https://arxiv.org/abs/1808.06807)
     - **Interesting**
     * We have examined dust emission in galaxy clusters at millimeter wavelengths using the Planck 857 GHz map to constrain the model based on Herschel observations
-    * Stacking: we estimated the normalization of the infrared luminosity versus mass relation and constrained the spatial profile of the dust emission. 
+    * Stacking: we estimated the normalization of the infrared luminosity versus mass relation and constrained the spatial profile of the dust emission.
     * 用得到的模型模拟Planck的尘埃加气体的星系团信号：The comparison between clusters extracted using these gas+dust simulations and the basic gas-only simulations allows us to assess the impact of cluster dust emission on Planck results.
     * We show that dust emission has a negligible effect on the recovery of individual cluster parameters for the Planck mission, but that it impacts the cluster catalog completeness, reducing the number of detections in the redshift range [0.3-0.8] by up to ∼ 9%.
     * 对宇宙学参数影响不大：it does not ease the tension between Planck cluster and primary cosmic microwave background cosmologies.
 
+----
+
+## August 22:
+
+#### [A census of galaxy constituents in a Coma Progenitor observed at z>3](https://arxiv.org/abs/1808.07065)
+
+
+#### [Scaling of X-ray spectral properties of a black hole in the Seyfert 1 galaxy NGC~7469](https://arxiv.org/abs/1808.07091)
+
+
+#### [Delayed Stellar Mass Assembly in the Low Surface Brightness Dwarf Galaxy KDG215](https://arxiv.org/abs/1808.07108)
+
+
+#### [The Spatially Resolved Dust-to-Metals Ratio in M101](https://arxiv.org/abs/1808.07164)
+
+
+#### [From Giant H II regions and H II galaxies to globular clusters and compact dwarf ellipticals](https://arxiv.org/abs/1808.07186)
+
+
+#### [Black Hole Fundamental Plane in Low-Excitation Radio Galaxies](https://arxiv.org/abs/1808.07188)
+
+
+#### [Circumnuclear Multi-phase Gas in Circinus Galaxy III: Structure of the Nuclear Ionized Gas](https://arxiv.org/abs/1808.07195)
+
+
+#### [Giant Cometary HII Regions and Molecular Bow Shocks in Spiral Arms of Galaxies: M83](https://arxiv.org/abs/1808.07247)
+
+
+#### [Broad-line region structure and line profile variations in the changing look AGN HE1136-2304](https://arxiv.org/abs/1808.07331)
+
+
+#### [A Unified Analysis of Four Cosmic Shear Surveys](https://arxiv.org/abs/1808.07335)
+
+
+#### [The Simons Observatory: Science goals and forecasts](https://arxiv.org/abs/1808.07445)
+
+
+#### [Comparison of hard X-ray spectra of luminous radio galaxies and their radio-quiet counterparts](https://arxiv.org/abs/1808.07170)
+
+
+#### [X-ray Structure between the Innermost Disk and Optical Broad Line Region in NGC 4151](https://arxiv.org/abs/1808.07435)
