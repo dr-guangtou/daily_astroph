@@ -742,27 +742,52 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
 ## August 22:
 
 #### [A census of galaxy constituents in a Coma Progenitor observed at z>3](https://arxiv.org/abs/1808.07065)
+    - **Interesting, Relevant**
+    * Diverse galaxy types identified in the field include Lyα emitters (LAEs), massive star-forming galaxies, and ultra-massive galaxies (>10^11M⊙) which may have already halted their star formation.
+    * The sky distribution of the star-forming galaxies suggests the presence of a significant overdensity (δSFG ≈ 8±2)
+    * Candidate quiescent and post-starburst galaxies are also found in large excess (a factor of ∼8–15 higher surface density than the field)
+    * Overdensity可能来自于另一个proto-cluster，或者就是这个proto-cluster的质量更大；both scenarios are equally unlikely (< 1%), particularly in the cosmic volume probed in our survey.
+    * Finally, we find that the protocluster galaxies follow the same SFR-Mstar scaling relation as the field galaxies, suggesting that the environmental effect at z ∼ 4 is a subtle one at best for normal star-forming galaxies.
 
 
 #### [Scaling of X-ray spectral properties of a black hole in the Seyfert 1 galaxy NGC~7469](https://arxiv.org/abs/1808.07091)
+    * We demonstrate strong observational evidence that NGC 7469 undergoes spectral transitions from the low hard state (LHS) to the intermediate state (IS) during these observations.
+    * 用X-ray photon index 和吸积率的关系可以限制黑洞质量
 
 
 #### [Delayed Stellar Mass Assembly in the Low Surface Brightness Dwarf Galaxy KDG215](https://arxiv.org/abs/1808.07108)
+    - **Interesting, Relevant**
+    * The HI images from VLA reveal a dispersion dominated ISM with only weak signatures of coherent rotation.
+    * Although KDG 215 is gas-rich, the Hα non-detection implies a very low current massive star formation rate.
+    * 通过HST图像： The recent star formation history shows a peak star formation rate ∼1 Gyr ago, followed by a decreasing star formation rate to the present day quiescent state.
+    * While the ancient stellar population (predominantly red giants) is prominent, the look-back time by which 50% of the mass of all stars ever formed had been created is among the youngest of any known galaxy.
 
 
 #### [The Spatially Resolved Dust-to-Metals Ratio in M101](https://arxiv.org/abs/1808.07164)
+    * M101的金属丰度梯度比较大, 1 dex 左右
+    * 利用FIR SED拟合尘埃，考虑不同的尘埃辐射模型：Among them, the model with a single temperature blackbody modified by a broken power-law emissivity gives the statistically best fit and physically most plausible results.
+    * Using these results, we show that the dust- to-gas ratio is proportional to Z^{1.7}. This implies that the dust-to-metals ratio is not constant in M101, but decreases as a function of radius, equivalent to a lower fraction of metals trapped in dust at low metallicity (large radius).
+    * This change of dust-to-metals ratio is significantly correlated with molecular hydrogen fraction, which suggests that the accretion of gas phase metals onto existing dust grains could be a mechanism contributing to a variable dust-to- metals ratio.
 
 
 #### [From Giant H II regions and H II galaxies to globular clusters and compact dwarf ellipticals](https://arxiv.org/abs/1808.07186)
+    * We model the photometric and dynamical evolution over a Hubble time of the massive gravitationally bound systems that populate the tight relation between abso- lute blue magnitude and velocity dispersion (MB −σ) of GHIIR and HIIG
+    * We interpret our result as an indication that the YMC that ionize GHIIR and HIIG can evolve to form globular clusters and ultra compact dwarf ellipticals in about 12 Gyr so that present day globular clusters and ultra compact dwarf ellipticals may have formed in conditions similar to those observed in today GHIIR and HIIG.
 
 
 #### [Black Hole Fundamental Plane in Low-Excitation Radio Galaxies](https://arxiv.org/abs/1808.07188)
+    * The radio-X-ray slope in the fundamental plane of radio-loud active galactic nuclei (AGNs) is found to be steeper compared with that of radio-quiet AGNs in previous works.
+    * we reinvestigate the fundamental plane in radio-loud AGNs by compiling a sample of 13 low-excitation radio galaxies (LERG) from the 3CR radio galaxies 一般认为LERG通过RIAF吸积
+    * Surprisingly, we find the slope in the fundamental plane (logLR = 0.52 log LX + 0.84 log MBH + 10.84) of LERG is well consistent with that reported by Merloni et al. (2003).
+    * However, the normalization is found to be shifted by about 0.7 dex, which can be due to the difference on magnetic field strength in different objects.
 
 
 #### [Circumnuclear Multi-phase Gas in Circinus Galaxy III: Structure of the Nuclear Ionized Gas](https://arxiv.org/abs/1808.07195)
 
 
 #### [Giant Cometary HII Regions and Molecular Bow Shocks in Spiral Arms of Galaxies: M83](https://arxiv.org/abs/1808.07247)
+    * A number of giant cometary HII regions (cones) (GCH) sheathed inside molecular bow shocks (MBS) are found along spiral arms of the barred galaxy M83.
+    * The open cone structure is explained by a model of expanded HII front in a gaseous arm with steep density gradient
 
 
 #### [Broad-line region structure and line profile variations in the changing look AGN HE1136-2304](https://arxiv.org/abs/1808.07331)
@@ -772,9 +797,42 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
 
 
 #### [The Simons Observatory: Science goals and forecasts](https://arxiv.org/abs/1808.07445)
+    - **Important**
+    * SO will measure the temperature and polarization anisotropy of the cosmic microwave background in six frequency bands centered at: 27, 39, 93, 145, 225 and 280 GHz.
+    * The initial configuration of SO will have three small-aperture 0.5-m telescopes and one large-aperture 6-m telescope, with a total of 60,000 cryogenic bolometers.
+    * With up to an order of magnitude lower polarization noise than maps from the Planck satellite, the high-resolution sky maps will constrain cosmological parameters derived from the damping tail, gravitational lensing of the microwave background, the primordial bispectrum, and the thermal and kinematic Sunyaev– Zel’dovich effects, and will aid in delensing the large-angle polarization signal to measure the tensor-to-scalar ratio.
+    * 预计可以用SZ效应探测到16000个星系团
 
 
 #### [Comparison of hard X-ray spectra of luminous radio galaxies and their radio-quiet counterparts](https://arxiv.org/abs/1808.07170)
+    * 相似黑洞质量和爱丁顿ratio上的比较
+    * We confirm previous results that radio galaxies are on average X-ray-louder than radio-quiet AGNs, but find that their spectral slopes are very similar.
+    * hard X-rays are produced in the same region and by the same mechanism. We argue that this region can be associated with the hot, geometrically thick, central portion of the accretion flow, where production of hard X-rays is likely to be dominated by Comptonization of the optical/UV radiation of the truncated ’cold’ accretion disc by hot electrons.
 
 
 #### [X-ray Structure between the Innermost Disk and Optical Broad Line Region in NGC 4151](https://arxiv.org/abs/1808.07435)
+    * Chandra的Fe Kalpha线不对称性研究：The sensitivity and resolution afforded by the gratings reveal asymmetry in this line. Models including weak Doppler boosting, gravitational red-shifts, and scattering are generally preferred over Gaussians at the 5σ level of confidence
+    * Separate fits to “high/unobscured” and “low/obscured” phases reveal that the line originates at smaller radii in high flux states
+    * 窄Fe Ka线可能来自BLR最中心区域；或者可能是吸积盘的warp导致的： Both warps and the BLR may originate through radiation pressure, so these explanations may be linked
+
+
+----
+
+## August 23:
+
+#### [SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES) II: Structural Properties and Near-Infrared Morphologies of Faint Submillimeter Galaxies](https://arxiv.org/abs/1808.07480)
+
+
+#### [SMA Observations of Extended CO(J=2−1) Emission in Interacting Galaxy NGC 3627](https://arxiv.org/abs/1808.07483)
+
+
+#### [Sculpting Andromeda -- made-to-measure models for M31's bar and composite bulge: dynamics, stellar and dark matter mass](https://arxiv.org/abs/1808.07494)
+
+
+#### [Destruction and multiple ionization of PAHs by X-rays in circumnuclear regions of AGNs](https://arxiv.org/abs/1808.07626)
+
+
+#### [Weak lensing shear estimation beyond the shape-noise limit: a machine learning approach](https://arxiv.org/abs/1808.07491)
+
+
+#### [Weak lensing shear estimation beyond the shape-noise limit: a machine learning approach](https://arxiv.org/abs/1808.07491)
