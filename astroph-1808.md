@@ -791,10 +791,15 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
 
 
 #### [Broad-line region structure and line profile variations in the changing look AGN HE1136-2304](https://arxiv.org/abs/1808.07331)
+    * The outer line wings of all BLR lines respond much faster to continuum variations indicating an Keplerian disk component for the BLR. The response in the outer wings is about two light days shorter than the response of the adjacent continuum flux with respect to the ionizing continuum flux.
+    * the variability behavior of this changing look AGN is similar to that of other AGN.
 
 
 #### [A Unified Analysis of Four Cosmic Shear Surveys](https://arxiv.org/abs/1808.07335)
-
+    - **Important**
+    * DLS + CFHTLS + DES SVD + KiDS 450 deg^2: unified pipeline 
+    * We identify several analysis choices that can shift the cosmological constraints by a significant fraction of the uncertainties.
+    * From the goodness-of-fit and the Bayesian evidence ratio, we determine that amongst the four surveys, the two more recent surveys, DES-SV and KiDS-450, have acceptable goodness-of-fit and are consistent with each other.
 
 #### [The Simons Observatory: Science goals and forecasts](https://arxiv.org/abs/1808.07445)
     - **Important**
@@ -821,18 +826,30 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
 ## August 23:
 
 #### [SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES) II: Structural Properties and Near-Infrared Morphologies of Faint Submillimeter Galaxies](https://arxiv.org/abs/1808.07480)
+    - **Important**
+    * We present structural parameters and morphological properties of faint 450-μm selected submillimeter galaxies (SMGs) from the JCMT Large Program, STUDIES, in the COSMOS-CANDELS region.
+    * 用HST图像看450micron挑选的星系的结构; 这些是faint SMG：half of such faint SMGs lie above the star-formation rate (SFR)/stellar mass plane.
+    * these SMGs are generally similar to less-luminous star-forming galaxies selected by NUV−r vs. r−J colors in mass-size relation.
+    * Both SMGs and the matched galaxies show high fractions (∼70%) of disturbed features at z ≃ 2, and the fractions depend on the SFRs. 
 
 
 #### [SMA Observations of Extended CO(J=2−1) Emission in Interacting Galaxy NGC 3627](https://arxiv.org/abs/1808.07483)
+    * These SMA mosaic maps of NGC 3627 reveal a prominent nuclear peak, inter-arm regions, and diffuse, extended emission in the spiral arms.
+    * We also detect unresolved 13CO(J = 2−1) line emission toward the nuclear region, southern bar end, and in a relatively isolated clump in the southern portion of the galaxy.
+    * From this density modeling, we find a total H2 mass of 9.6 × 10^9 M⊙, which is ∼50% higher than previous estimates made using a constant H2–CO conversion factor but is largely dependent on the assumed vertical distribution of the CO gas.
 
 
 #### [Sculpting Andromeda -- made-to-measure models for M31's bar and composite bulge: dynamics, stellar and dark matter mass](https://arxiv.org/abs/1808.07494)
-
+    * We construct made-to-measure models fitting new VIRUS-W IFU bulge stel-
+lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rotation curve.
+    * The best model has two bulge components with completely different kinematics that only together successfully reproduce the observations (μ3.6, υlos, σlos, h3, h4). 
 
 #### [Destruction and multiple ionization of PAHs by X-rays in circumnuclear regions of AGNs](https://arxiv.org/abs/1808.07626)
+    * We examined experimentally the photoionization and photostability of naph- thalene (C10H8), anthracene (C14H10), 2-methyl-anthracene (C14H9CH3, or C15H12) and pyrene (C16H10) due to the interaction with photons of 275 eV, 310 eV and 2500 eV.
+    * We could not see any significant difference in half-life values at 2500 eV by increasing the size of the carbon backbone for PAH molecules with number of carbons, NC, from 10 to 16. An enrichment of doubly charged ions caused by photo-selection is also observed
 
 
 #### [Weak lensing shear estimation beyond the shape-noise limit: a machine learning approach](https://arxiv.org/abs/1808.07491)
+    * 用ML方法降低shape noise：training a multi-layered convolutional neural network to directly estimate the shear, given an observed background galaxy image
+    * 在CLASH星系团上进行了测试，看到了不错的结果，但不确定为什么。
 
-
-#### [Weak lensing shear estimation beyond the shape-noise limit: a machine learning approach](https://arxiv.org/abs/1808.07491)
