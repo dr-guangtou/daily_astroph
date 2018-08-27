@@ -853,3 +853,18 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
     * 用ML方法降低shape noise：training a multi-layered convolutional neural network to directly estimate the shear, given an observed background galaxy image
     * 在CLASH星系团上进行了测试，看到了不错的结果，但不确定为什么。
 
+
+----
+
+## August 26:
+
+#### [Tracing Outflowing Metals in Simulations of Dwarf and Spiral Galaxies](https://arxiv.org/abs/1808.07872)
+
+
+#### [Multicomponent H2 in DLA at zabs = 2.05: physical conditions through observations and numerical models](https://arxiv.org/abs/1808.07906)
+
+
+#### [Tidal stripping as a mechanism for placing globular clusters on wide orbits: the case of MGC1 in M31](https://arxiv.org/abs/1808.08087)
+
+
+#### [Observing the influence of growing black holes on the pre-reionization IGM](https://arxiv.org/abs/1808.08137)
