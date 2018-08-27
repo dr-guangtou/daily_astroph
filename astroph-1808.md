@@ -797,7 +797,7 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
 
 #### [A Unified Analysis of Four Cosmic Shear Surveys](https://arxiv.org/abs/1808.07335)
     - **Important**
-    * DLS + CFHTLS + DES SVD + KiDS 450 deg^2: unified pipeline 
+    * DLS + CFHTLS + DES SVD + KiDS 450 deg^2: unified pipeline
     * We identify several analysis choices that can shift the cosmological constraints by a significant fraction of the uncertainties.
     * From the goodness-of-fit and the Bayesian evidence ratio, we determine that amongst the four surveys, the two more recent surveys, DES-SV and KiDS-450, have acceptable goodness-of-fit and are consistent with each other.
 
@@ -830,7 +830,7 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
     * We present structural parameters and morphological properties of faint 450-μm selected submillimeter galaxies (SMGs) from the JCMT Large Program, STUDIES, in the COSMOS-CANDELS region.
     * 用HST图像看450micron挑选的星系的结构; 这些是faint SMG：half of such faint SMGs lie above the star-formation rate (SFR)/stellar mass plane.
     * these SMGs are generally similar to less-luminous star-forming galaxies selected by NUV−r vs. r−J colors in mass-size relation.
-    * Both SMGs and the matched galaxies show high fractions (∼70%) of disturbed features at z ≃ 2, and the fractions depend on the SFRs. 
+    * Both SMGs and the matched galaxies show high fractions (∼70%) of disturbed features at z ≃ 2, and the fractions depend on the SFRs.
 
 
 #### [SMA Observations of Extended CO(J=2−1) Emission in Interacting Galaxy NGC 3627](https://arxiv.org/abs/1808.07483)
@@ -842,7 +842,7 @@ detect one galaxy close to the absorption redshift at an impact parameter of 54 
 #### [Sculpting Andromeda -- made-to-measure models for M31's bar and composite bulge: dynamics, stellar and dark matter mass](https://arxiv.org/abs/1808.07494)
     * We construct made-to-measure models fitting new VIRUS-W IFU bulge stel-
 lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rotation curve.
-    * The best model has two bulge components with completely different kinematics that only together successfully reproduce the observations (μ3.6, υlos, σlos, h3, h4). 
+    * The best model has two bulge components with completely different kinematics that only together successfully reproduce the observations (μ3.6, υlos, σlos, h3, h4).
 
 #### [Destruction and multiple ionization of PAHs by X-rays in circumnuclear regions of AGNs](https://arxiv.org/abs/1808.07626)
     * We examined experimentally the photoionization and photostability of naph- thalene (C10H8), anthracene (C14H10), 2-methyl-anthracene (C14H9CH3, or C15H12) and pyrene (C16H10) due to the interaction with photons of 275 eV, 310 eV and 2500 eV.
@@ -859,12 +859,25 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 ## August 26:
 
 #### [Tracing Outflowing Metals in Simulations of Dwarf and Spiral Galaxies](https://arxiv.org/abs/1808.07872)
+    * 高分辨率模拟：agree with the observed stellar and gas-phase mass-metallicity relation, an agreement that relies on large fractions of the produced metals escaping into the CGM.
+    * In many cases, these metals are spread far beyond the virial radius. 
+    * We find that between 40 and 80% of all metals removed from the galactic disk are later reaccreted. The outflows themselves are metal enriched relative to the ISM by a factor of 0.2 dex because of the correspondence between sites of metal enrichment and outflows.
 
 
 #### [Multicomponent H2 in DLA at zabs = 2.05: physical conditions through observations and numerical models](https://arxiv.org/abs/1808.07906)
+    * H2-bearing damped Lyman-α absorber (DLA) at zabs = 2.05 towards the quasar FBQS J2340-0053.
+    * We conclude that the DLA is subjected to the metagalactic background radiation and cosmic ray ionization rate of ∼10^{−15.37} s−1. Dust grains in this DLA are smaller than grains in the Galactic interstellar medium.
+    * Micro-turbulent pressure is a significant constituent of the total pressure, and can play an important role in these innermost regions
 
 
 #### [Tidal stripping as a mechanism for placing globular clusters on wide orbits: the case of MGC1 in M31](https://arxiv.org/abs/1808.08087)
+    * We test this numerically by comparing the contribution of globular clusters from simulated encounters to the observed M31 globular cluster population.
+    * The remote location of MGC1 favours the idea of it being captured, however, the cluster is devoid of features associated with tidal interactions.
+    * we find that tidal stripping of clusters from dwarf galaxies leaves them on orbits having a range of separations, broadly matching those observed in M31.
+    * Furthermore, in our simulations we find an equal num- ber of accreted clusters on co-rotating and counter-rotating orbits within M31 and use this to infer the fraction of clusters that has been accreted.
 
 
 #### [Observing the influence of growing black holes on the pre-reionization IGM](https://arxiv.org/abs/1808.08137)
+    * We show that the influence regions for hydrogen increase to 10kpc (physical length) for non-growing BHs to more than 0.3–1Mpc for accreting BHs, the influence regions are ten times smaller for singly ionized helium.
+    * We show that the 21cm emitting region around a growing BH could produce brightness temperatures ≃ 15mK across an evolving structure of 1Mpc in size with hot, ionized gas closer to the BH and much cooler in outer regions.
+    * 3HeII emission from regions surrounding the growing BH is weak: the corresponding brightness temperatures reaches tens of nano-Kelvin, which is below the range of upcoming SKA1-MED.
