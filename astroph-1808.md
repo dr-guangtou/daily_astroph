@@ -888,18 +888,39 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 ## August 27:
 
 #### [`Upper-Limit Lensing': Constraining galaxy stellar masses with singly-imaged background sources](https://arxiv.org/abs/1808.08235)
+    - **Interesting**
+    * we present a method to derive upper limits on Υ in galaxies with single close-projected background sources, where no counter-image is detected, down to some relative flux limit.
+    * In our first case study, only a weak constraint on Υ is obtained. In the second, the absence of a detectable counter-image excludes stellar masses higher than expected for a Salpeter IMF.
+    * We discuss how our method can help enlarge the current samples of low-z galaxies with lensing constraints, both by adding upper limits on Υ and by guiding follow-up of promising single-image systems in search of fainter counter-images.
 
 
 #### [Galaxy formation in the Planck Millennium: the atomic hydrogen content of dark matter halos](https://arxiv.org/abs/1808.08276)
+    * recalibrations of the GALFORM semi-analytical model of galaxy formation in a new N-body simulation with the Planck cosmology.
+    * We find that the HI mass − halo mass relation displays a clear break at the halo mass above which AGN heating suppresses gas cooling, ≈ 3 × 10^11h−1M⊙.
+    * Below this halo mass, the HI content of haloes is dominated by the central galaxy; above this mass it is the combined HI content of satellites that prevails.
 
 
 #### [Discovery of Strongly Inverted Metallicity Gradients in Dwarf Galaxies at z∼2](https://arxiv.org/abs/1808.08800)
+    - **Wang Xin; Interesting**
+    * We report the first sub-kiloparsec spatial resolution measurements of strongly inverted gas-phase metallicity gradients in two dwarf galaxies at z∼2
+    * Our galaxies are currently undergoing rapid mass assembly via disk inside-out growth. More importantly, using a simple chemical evolution model, we find that the gas fractions for different metallicity regions cannot be explained by pure gas accretion
+    * A spatial map of net gaseous outflows, triggered by active central starbursts, that potentially play a significant role in shaping the spatial distribution of metallicity by effectively transporting stellar nucleosynthesis yields outwards.
+    * Single type of wind mechanism, driven by either energy or momentum conservation, cannot explain the entire galaxy.
 
 
 #### [Revisiting the Galaxy Shape and Spin Alignments with the Large-Scale Tidal Field: A Unified Analytic Model](https://arxiv.org/abs/1808.08559)
+    * 关于intrinsic alignment的
+        - In the first order Lagrangian perturbation theory (Buchert 1992), the minor (major) eigenvectors of the inertia momentum tensors of the proto-galactic regions are perfectly aligned with the major (minor) eigenvectors of the local tidal tensors around the regions.
+        - The major eigenvectors of the inertia momentum tensors of the proto-galaxies correspond to the most elongated axes of their shapes, while the minor eigenvectors of the large-scale tidal tensors correspond to the directions along which the surrounding matter become minimally compressed.
+    * An effective analytic model that can explain both of the tidally induced shape and spin alignments of the galactic halos with the large-scale tidal fields.
 
 
 #### [The Ultra-Fast Outflow of WKK 4438: Suzaku and NuSTAR X-ray Spectral Analysis](https://arxiv.org/abs/1808.08398)
+    * Here we report the detection of a new ultra-fast outflow (UFO) with a velocity of vout = 0.319+0.005c in addition to a relativistic disk reflection −0.008 component in a poorly studied NLS1 WKK 4438
+    * The disk is accreting at a high Eddington ratio (Lbol = 0.4 − 0.7LEdd ). The mass outflow rate of the UFO is comparable with the disk mass inflow rate 
 
 
 #### [Variable Nature of Magnetically-Driven Ultra-Fast Outflows](https://arxiv.org/abs/1808.08935)
+    * Among a number of active galactic nuclei (AGNs) that drive ionized outflows in X-rays, a low-redshift (z = 0.184) quasar, PDS 456, is long known to exhibit one of the exemplary ultra-fast outflows (UFOs).
+    * We model the variations of the Fe K UFO properties in PDS 456 over many epochs in X-ray observations in the context of magnetohydrodynamic (MHD) accretion-disk winds
+    * This work demonstrates that UFOs, even without radiative pressure, can be driven as an extreme case purely by magnetic interaction while also producing the observed spectrum and correlations.
