@@ -881,3 +881,25 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
     * We show that the influence regions for hydrogen increase to 10kpc (physical length) for non-growing BHs to more than 0.3–1Mpc for accreting BHs, the influence regions are ten times smaller for singly ionized helium.
     * We show that the 21cm emitting region around a growing BH could produce brightness temperatures ≃ 15mK across an evolving structure of 1Mpc in size with hot, ionized gas closer to the BH and much cooler in outer regions.
     * 3HeII emission from regions surrounding the growing BH is weak: the corresponding brightness temperatures reaches tens of nano-Kelvin, which is below the range of upcoming SKA1-MED.
+
+
+----
+
+## August 27:
+
+#### [`Upper-Limit Lensing': Constraining galaxy stellar masses with singly-imaged background sources](https://arxiv.org/abs/1808.08235)
+
+
+#### [Galaxy formation in the Planck Millennium: the atomic hydrogen content of dark matter halos](https://arxiv.org/abs/1808.08276)
+
+
+#### [Discovery of Strongly Inverted Metallicity Gradients in Dwarf Galaxies at z∼2](https://arxiv.org/abs/1808.08800)
+
+
+#### [Revisiting the Galaxy Shape and Spin Alignments with the Large-Scale Tidal Field: A Unified Analytic Model](https://arxiv.org/abs/1808.08559)
+
+
+#### [The Ultra-Fast Outflow of WKK 4438: Suzaku and NuSTAR X-ray Spectral Analysis](https://arxiv.org/abs/1808.08398)
+
+
+#### [Variable Nature of Magnetically-Driven Ultra-Fast Outflows](https://arxiv.org/abs/1808.08935)
