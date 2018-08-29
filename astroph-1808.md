@@ -924,3 +924,31 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
     * Among a number of active galactic nuclei (AGNs) that drive ionized outflows in X-rays, a low-redshift (z = 0.184) quasar, PDS 456, is long known to exhibit one of the exemplary ultra-fast outflows (UFOs).
     * We model the variations of the Fe K UFO properties in PDS 456 over many epochs in X-ray observations in the context of magnetohydrodynamic (MHD) accretion-disk winds
     * This work demonstrates that UFOs, even without radiative pressure, can be driven as an extreme case purely by magnetic interaction while also producing the observed spectrum and correlations.
+
+
+----
+
+## August 28:
+
+#### [Why Are Some Gamma-Ray Bursts Hosted by Oxygen-rich Galaxies?](https://arxiv.org/abs/1808.08969)
+
+
+#### [Faint Satellite Population of the NGC-3175 Group - a Local Group Analogue](https://arxiv.org/abs/1808.09020)
+
+
+#### [Semi-analytic galaxies -- III. The impact of supernova feedback on the mass-metallicity relation](https://arxiv.org/abs/1808.09089)
+
+
+#### [Infrared molecular hydrogen lines in GRB host galaxies](https://arxiv.org/abs/1808.09228)
+
+
+#### [Global millimeter VLBI array survey of ultracompact extragalactic radio sources at 86 GHz](https://arxiv.org/abs/1808.09243)
+
+
+#### [Studying Quasar Absorber Host Galaxy Properties Using Image Stacking Technique](https://arxiv.org/abs/1808.09283)
+
+
+#### [Cool core disturbed: Observational evidence for coexistence of sub-sonic sloshing gas and stripped shock-heated gas around the core of RX J1347.5-1145](https://arxiv.org/abs/1808.09232)
+
+
+#### [An ultra-fast inflow in the luminous Seyfert PG1211+143](https://arxiv.org/abs/1808.09373)
