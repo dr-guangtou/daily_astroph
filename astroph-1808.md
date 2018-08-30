@@ -983,4 +983,20 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 
 ## August 29:
 
-#### [Why Are Some Gamma-Ray Bursts Hosted by Oxygen-rich Galaxies?](https://arxiv.org/abs/1808.08969)
+#### [New insights on the dissociative merging galaxy cluster Abell 2034](https://arxiv.org/abs/1808.09449)
+
+
+#### [Glimmering in the dark: modeling the low-mass end of the M∙−σ relation and of the quasar luminosity function](https://arxiv.org/abs/1808.09452)
+
+
+#### [Relating the HI Gas Structure of Spiral Disks to Passing Satellites](https://arxiv.org/abs/1808.09454)
+
+
+#### [MAGIICAT VI. The MgII Intragroup Medium is Kinematically Complex](https://arxiv.org/abs/1808.09562)
+
+
+#### [Identifying AGNs in low-mass galaxies via long-term optical variability](https://arxiv.org/abs/1808.09578)
+
+
+#### [A gravitationally unstable gas disk of a starburst galaxy 12 billion years ago](https://arxiv.org/abs/1808.09592)
+
