@@ -931,24 +931,56 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 ## August 28:
 
 #### [Why Are Some Gamma-Ray Bursts Hosted by Oxygen-rich Galaxies?](https://arxiv.org/abs/1808.08969)
+    * long gamma-ray bursts (GRBs) are expected to happen in low-metallicity environments, because in a single massive star scenario, low iron abundance prevents loss of angular momentum through stellar wind, resulting in ultra-relativistic jets and the burst.
+    * According to our iron abundance measurements, the single massive star scenario still survives even if the oxygen abundance of the host is very high, such as the solar value. Relying only on oxygen abundance could mislead us on the origin of the GRBs. 
+    * [O/Fe] ratio非常高：Possible theoretical explanations of such high [O/Fe] include the young age of the hosts, top-heavy initial mass function, and fallback mechanism of the iron element in supernova explosions.
 
 
 #### [Faint Satellite Population of the NGC-3175 Group - a Local Group Analogue](https://arxiv.org/abs/1808.09020)
+    * We discover 553 candidate dwarf galaxies in the group, the vast majority of which have never been studied before.
+    * The luminosity function with a faint end slope of α = -1.31, is steeper than that observed in the Local Group. 
+    * In comparison with simulations, we find that our observations are between a pure ΛCDM model and one involving baryonic effects, removing the apparent problem of finding too few satellites as seen around the Milky Way.
 
 
 #### [Semi-analytic galaxies -- III. The impact of supernova feedback on the mass-metallicity relation](https://arxiv.org/abs/1808.09089)
+    * We find that no evolution in the normalization of the MZR is obtained unless we introduce an explicit scaling of the reheated and ejected mass with redshift as (1+z)^β
+    * Increasing β leads to stronger evolution of the MZR normalization; β = 1.9 reproduces the observed MZR in the range 0 < z < 3.5.
+    * A stronger redshift dependence of outflows reduces the levels of star formation at earlier epochs with the consequent decrease of metal production
+    * The cold gas can be contaminated either by receiving a direct injection of the material recycled by stellar winds and SNe or by gas cooling. 
 
 
 #### [Infrared molecular hydrogen lines in GRB host galaxies](https://arxiv.org/abs/1808.09228)
+    * In this paper we perform an exploratory search for rest-frame K band rotation-vibrational transitions of H2 in emission, observable only in the lowest redshift GRB hosts (z ~0.22).
+    * Re-analysis of Spitzer mid-infrared spectra of the same GRB host gives a single low significance rotational line candidate. The (limits on) line flux ratios are consistent with those of blue compact dwarf galaxies in the literature. 
 
 
 #### [Global millimeter VLBI array survey of ultracompact extragalactic radio sources at 86 GHz](https://arxiv.org/abs/1808.09243)
+    * To extend the statistical studies of compact extragalactic jets, a large global 86 GHz VLBI survey of 162 compact radio source.
 
 
 #### [Studying Quasar Absorber Host Galaxy Properties Using Image Stacking Technique](https://arxiv.org/abs/1808.09283)
+    * 用stacking技术：We derive the Spectral Energy Dis- tribution (SED) and impact parameter limits of low redshift (zabs = 0.37 − 0.55) Mg II absorbers and of higher redshift (zabs = 1.0 − 2.5) 2175  ̊A dust absorbers (2DAs)
+        - A recently discovered type of absorber that is of great interest is the quasar 2175  ̊A dust absorbers (2DAs, Wang et al. 2004, Ma et al. 2017, 2018a). These dust absorbers, displaying strong broad 2175  ̊A absorption features and dust extinction
+    * Our SED for Mg II absorbers indicates that low redshift Mg II absorber host galaxies are likely star-forming galaxies transitioning into red quiescent galaxies, with a low star formation rate
+    * the average impact parameter of 2DAs is > 5 times smaller than that of Mg II absorbers --> indicating that 2DAs are likely associated with disk components of high redshift galaxies. 
 
 
 #### [Cool core disturbed: Observational evidence for coexistence of sub-sonic sloshing gas and stripped shock-heated gas around the core of RX J1347.5-1145](https://arxiv.org/abs/1808.09232)
+    * First direct observational evidence for sub-sonic nature of sloshing motion of the cool core.
+    * A residual X-ray image from the Chandra X-ray Observatory after removing the global emission shows a clear dipolar pattern characteristic of gas sloshing
+    * We thus conclude that the perturbation is nearly isobaric, and gas sloshing motion is consistent with being in pressure equilibrium. 
+    * Next, we report evidence for gas stripping of an infalling subcluster, which likely shock-heats gas to high temperature well in excess of 20 keV.
 
 
 #### [An ultra-fast inflow in the luminous Seyfert PG1211+143](https://arxiv.org/abs/1808.09373)
+    * powerful AGN winds offer an explanation of the observed M − σ relation linking the mass of the supermassive black hole and the velocity dispersion in the galaxys stellar bulge
+    * a variable multi-velocity wind in PG1211+143
+    * 也看到了 short-lived, ultrafast inflow during the same observation
+    * The redshifted absorption arises in a column of highly ionized matter close to the black hole, with a line-of-sight velocity, v ∼ 0.3c, inconsistent with the standard picture of a plane circular accretion disc. --> first direct evidence for chaotic accretion in AGN, where accretion discs are generally misaligned to the black hole spin.
+
+
+----
+
+## August 29:
+
+#### [Why Are Some Gamma-Ray Bursts Hosted by Oxygen-rich Galaxies?](https://arxiv.org/abs/1808.08969)
