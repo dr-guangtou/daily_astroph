@@ -1000,3 +1000,45 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 
 #### [A gravitationally unstable gas disk of a starburst galaxy 12 billion years ago](https://arxiv.org/abs/1808.09592)
 
+
+----
+
+## August 30:
+
+#### [MCMC determination of the cosmic UV background at z≃0 from Hα fluorescence](https://arxiv.org/abs/1808.09961)
+
+
+#### [Origin of CGM OVI in cosmological simulations: redshift, mass and radial dependence of collisional and photo ionization](https://arxiv.org/abs/1808.09973)
+
+
+#### [Magnetic buoyancy in simulated galactic discs with a realistic circum galactic medium](https://arxiv.org/abs/1808.09975)
+
+
+#### [The MOSDEF Survey: No Significant Enhancement in Star Formation or Deficit in Metallicity in Merging Galaxy Pairs at 1.5<=z<=3.5](https://arxiv.org/abs/1808.09978)
+
+
+#### [Optimal neighbourhood to nurture giants: a fundamental link between star forming galaxies and direct collapse black holes](https://arxiv.org/abs/1808.09981)
+
+
+#### [Hunting for Metals Using XQ-100 Legacy Survey Composite Spectra](https://arxiv.org/abs/1808.09995)
+
+
+#### [Improving Hickson-like compact group finders in redshift surveys: an implementation in the SDSS](https://arxiv.org/abs/1808.10051)
+
+
+#### [ALMA Observations toward the starburst dwarf galaxy NGC 5253: I. Molecular cloud properties and scaling relations](https://arxiv.org/abs/1808.10089)
+
+
+#### [Effects of mass models on dynamical mass estimate: the case of ultra diffuse galaxy NGC1052-DF2](https://arxiv.org/abs/1808.10116)
+
+
+#### [The [C II] emission as a molecular gas mass tracer in galaxies at low and high redshift](https://arxiv.org/abs/1808.10331)
+
+
+#### [LOFAR MSSS: Fattening low-frequency radio continuum spectra of nearby galaxies](https://arxiv.org/abs/1808.10374)
+
+
+#### [The Kinematics of Cluster Galaxies via Velocity Dispersion Profiles](https://arxiv.org/abs/1808.10381)
+
+
+#### [Why do many early-type galaxies lack emission lines? I. Fossil clues](https://arxiv.org/abs/1808.10405)
