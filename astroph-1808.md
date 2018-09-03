@@ -1042,3 +1042,43 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 
 
 #### [Why do many early-type galaxies lack emission lines? I. Fossil clues](https://arxiv.org/abs/1808.10405)
+
+
+----
+
+## August 30:
+
+#### [The impact of cored density profiles on the observable quantities of dwarf spheroidal galaxies](https://arxiv.org/abs/1808.10451)
+
+
+#### [The Far-Infrared Radio Correlation at low radio frequency with LOFAR/H-ATLAS](https://arxiv.org/abs/1808.10452)
+
+
+#### [Metal-enriched galactic outflows shape the mass-metallicity relationship](https://arxiv.org/abs/1808.10453)
+
+
+#### [Outer Stellar Halo Enrichment: where Mergers deposit their Mass and how Shells and Streams depend on Infall-Orbit Configurations](https://arxiv.org/abs/1808.10454)
+
+
+#### [The mass of the Milky Way from satellite dynamics](https://arxiv.org/abs/1808.10456)
+
+
+#### [Photometric redshift calibration requirements for WFIRST Weak Lensing Cosmology: Predictions from CANDELS](https://arxiv.org/abs/1808.10458)
+
+
+#### [High Resolution spatial analysis of a z ∼ 2 lensed galaxy using adaptive coadded source-plane reconstruction](https://arxiv.org/abs/1808.10468)
+
+
+#### [HI gas content of SDSS galaxies revealed by ALFALFA: implications for the mass-metallicity relation and the environmental dependence of HI in the local Universe](https://arxiv.org/abs/1808.10501)
+
+
+#### [High-redshift quasar selection from the CFHQSIR survey](https://arxiv.org/abs/1808.10672)
+
+
+#### [Kiloparsec Scale Properties of Star-Formation Driven Outflows at z~2.3 in the SINS/zC-SINF AO Survey](https://arxiv.org/abs/1808.10700)
+
+
+#### [QSO MUSEUM I: A sample of 61 extended Lyα-emission nebulae surrounding z∼3 quasars](https://arxiv.org/abs/1808.10857)
+
+
+#### [What fraction of the density fluctuations in the Perseus cluster core is due to gas sloshing rather than AGN feedback?](https://arxiv.org/abs/1808.10460)
