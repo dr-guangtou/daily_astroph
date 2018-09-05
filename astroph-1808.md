@@ -984,21 +984,41 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 ## August 29:
 
 #### [New insights on the dissociative merging galaxy cluster Abell 2034](https://arxiv.org/abs/1808.09449)
+    * Following our data and modelling the collision event is, most likely, taking place not so far from the plane of the sky
+    * Besides, we found a strong evidence for the presence of a third structure which we called A2034W.
 
 
 #### [Glimmering in the dark: modeling the low-mass end of the M∙−σ relation and of the quasar luminosity function](https://arxiv.org/abs/1808.09452)
+    * Employing a semi-analytical model to simulate the combined evolution of BHs and their host galaxies, we predict the observational consequences of assuming a bimodality in the accretion efficiency of BHs, with low-mass BHs (M•~10^5 M⊙) accreting inefficiently.
+    * We predict a departure from the M• − σ relation at a transitional BH mass ∼ 10^5 M⊙, with lower-mass BHs unable to reach the mass dictated by the relation and becoming disconnected from the evolution of the host galaxy.
 
 
 #### [Relating the HI Gas Structure of Spiral Disks to Passing Satellites](https://arxiv.org/abs/1808.09454)
+    * Find simple scaling relations between the density response of the gas disk of a spiral galaxy and the pericenter distance and mass ratio of a perturbing satellite.
+    * We have also examined the observed H i data in the outskirts of several spiral galaxies from the THINGS sample and compared the observed perturbations to that of cosmological simulations and our own scaling relations. 
+    * While small perturbations can be excited by satellites drawn from cosmological simulations, we find that large perturbations (such as those that are seen in some THINGS galaxies like M51) are not recovered by satellites drawn from cosmological simulations that are similar to Milky Way galaxies.
 
 
 #### [MAGIICAT VI. The MgII Intragroup Medium is Kinematically Complex](https://arxiv.org/abs/1808.09562)
+    * By comparing MgII absorption in the circumgalactic medium (CGM) of group environments to the well- studied isolated environment, we investigated the impact of environment on the CGM.
+    * The median equivalent width (⟨Wr(2796)⟩ = 0.65 ± 0.13 Å) and the covering fraction ( fc = 0.89+0.05) of the group environment sample are significantly larger than isolated absorbers but the median column densities are statistically consistent. 
+    * Group absorbers display more optical depth at larger velocities.
+    * A superposition model in which multiple galaxies contribute to the observed gas matches the larger equivalent width group absorbers, but overpredicts the kinematics significantly due to large velocity separations between member galaxies.
+        - We suggest the observed gas is therefore coupled to the group rather than individual galaxies, forming an intragroup medium.
 
 
 #### [Identifying AGNs in low-mass galaxies via long-term optical variability](https://arxiv.org/abs/1808.09578)
+    - **Interesting**
+    * We present an analysis of the nuclear variability of ∼ 28,000 nearby (z < 0.15) galaxies with Sloan Digital Sky Survey (SDSS) spectroscopy in Stripe 82.
+    * We select variable AGN by assessing whether detected variability is well-described by a damped random walk model.
+    * 找到了135个候选：While most of the variability-selected AGNs have narrow emission lines consistent with the presence of an AGN, a small fraction have narrow emission lines dominated by star formation.
+    * We explore the AGN fraction as a function of stellar mass, and find that the fraction of variable AGN increases with stellar mass, even after taking into account the fact that lower mass systems are fainter.
 
 
 #### [A gravitationally unstable gas disk of a starburst galaxy 12 billion years ago](https://arxiv.org/abs/1808.09592)
+    - **Interesting**
+    * Here we report 550 parsec-resolution observations of gas and dust in the brightest unlensed submillimeter galaxy at z=4.3. We map out for the first time the spatial and kinematic structure of molecular gas inside the heavily dust-obscured core.  
+    * Exploiting the high-quality map of molecular gas mass surface density, we find a strong evidence that the starburst disk is gravitationally unstable, implying that the self-gravity of gas overcomes the differential rotation and the internal pressure by stellar radiation feedback. 
 
 
 ----
