@@ -1026,42 +1026,79 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 ## August 30:
 
 #### [MCMC determination of the cosmic UV background at z≃0 from Hα fluorescence](https://arxiv.org/abs/1808.09961)
+    * 关于UGC7321周围的Halpha halo: By interpreting the Hα emission as fluorescence arising from hydrogen ionised by an external (i.e., extragalactic) radiation field, we estimated the UV background (UVB) intensity in terms of H I ionisation rate (per ion) at z ≃ 0
+    * 利用辐射转移计算和MCMC：this value is robust against large variations in the galaxy model and that the uncertainties are mainly driven by the errors associated with the observed Hα surface brightness.
+    * the low redshift UVB is largely dominated by active galactic nuclei (AGNs), possibly with no need of further contribution from star forming galaxies.
 
 
 #### [Origin of CGM OVI in cosmological simulations: redshift, mass and radial dependence of collisional and photo ionization](https://arxiv.org/abs/1808.09973)
+    * VELA & NIHAO模拟：We find that collisional ionization by thermal electrons dominates at high redshift, while photoionization of cool or warm gas by the metagalactic radiation takes over near z ∼ 2.
+    * In halos of ∼10^12 M⊙ and above, collisions become important again at z < 0.5, while photoionization remains significant down to z = 0 for less massive halos. 
+    * We also find that collisions are dominant in the central regions of halos, while photoionization is more significant at the outskirts
 
 
 #### [Magnetic buoyancy in simulated galactic discs with a realistic circum galactic medium](https://arxiv.org/abs/1808.09975)
+    * We find that the amplification of the magnetic field in the centre of the disc leads to a biconical magnetic outflow of gas that magnetizes the CGM. This biconical magnetic outflow reduces the star formation rate (SFR) of the galaxy by roughly 40% compared to the simulations without magnetic fields.
+    * We find that small scale turbulent motion of the gas in the disc leads to the amplification of the magnetic field up to tens of μG, as long as the magnetic field strength is low.
+    * We find an anti-correlation between the spiral structure in the gas density and in the magnetic field due to a diffusion term added to the induction equation.
 
 
 #### [The MOSDEF Survey: No Significant Enhancement in Star Formation or Deficit in Metallicity in Merging Galaxy Pairs at 1.5<=z<=3.5](https://arxiv.org/abs/1808.09978)
+    * 32个1.4 < z < 3.8的 pairs: Stellar mass ratios in our sample range from 1.1 to 550, with 13 ratios closer than 3:1,
+    * We compare the MOSDEF pairs sample to a control sample of isolated galaxies at the same redshift, finding no measurable SFR enhancement or metallicity deficit at fixed stellar mass for the pairs sample, in contrast to low-redshift studies.
 
 
 #### [Optimal neighbourhood to nurture giants: a fundamental link between star forming galaxies and direct collapse black holes](https://arxiv.org/abs/1808.09981)
+    * 直接坍缩形成大质量的黑洞种子，需要无金属和H2丰度极低的气体，通过HI气体的isothermally冷却
+    * 气体需要同时有：Lyman-Werner (LW) photons in the energy range 11.2 − 13.6 eV capable of photodissociating H2, and 0.76 eV photons capable of photodetaching H−
+    * We find a fundamental relation between the maximum distance at which a galaxy can cause DCBH formation and its star formation rate (SFR), which automatically folds in the chemo-thermodynamical effects of both H2 photo-dissociation and H− photodetachment.
+        - 只需要知道星系的SFR就能知道附近什么地方容易触发黑洞的直接坍缩
 
 
 #### [Hunting for Metals Using XQ-100 Legacy Survey Composite Spectra](https://arxiv.org/abs/1808.09995)
 
 
 #### [Improving Hickson-like compact group finders in redshift surveys: an implementation in the SDSS](https://arxiv.org/abs/1808.10051)
+    * Instead of identifying CGs in projection first and then checking a velocity concordance criterion, we identify them directly in redshift space using Hickson-like criteria
+    * The publicly available sample comprises 462 observational groups with four or more galaxy members, of which 406 clearly fulfil all the compact group requirements: compactness, isolation, and velocity concordance of all of their members.
 
 
 #### [ALMA Observations toward the starburst dwarf galaxy NGC 5253: I. Molecular cloud properties and scaling relations](https://arxiv.org/abs/1808.10089)
+    * 3pc分辨率的CO (2-1)观测，118个认证的分子云：The line-width and mass-to-size relations of the resolved molecular clouds present an offset on average toward higher line-widths and masses with respect to quiescent regions in other nearby spiral galaxies and our Galaxy.
+    * Furthermore, the star formation efficiencies (SFEs) of some of these clouds exceed those found in star-cluster-forming clouds within our Galaxy. We conclude that once a super star cluster is formed, the parent molecular clouds are rapidly dispersed by the destructive stellar feedback, which results in such a high SFE in the central starburst of NGC 5253.
 
 
 #### [Effects of mass models on dynamical mass estimate: the case of ultra diffuse galaxy NGC1052-DF2](https://arxiv.org/abs/1808.10116)
+    - **Relevant, Interesting**
+    * We assume that the tracer densities are modeled with power-law and S ́ersic profiles, and then we solve the spherical Jeans equation to estimate the dynamical mass.
+    * We find that the upper limit obtained by the power-law is virtually the same as the result from vD18, whilst this limit estimated by the Śersic is significantly greater than that from vD18, thereby suggesting that NGC1052-DF2 can still be a dark-matter dominated system.
 
 
 #### [The [C II] emission as a molecular gas mass tracer in galaxies at low and high redshift](https://arxiv.org/abs/1808.10331)
+    * we investigate the behaviour of the [C II] emission and empirically identify its primary driver. 通过ALMA band 9观测10个z~2的SFMS星系
+    * The [C II]-to-infrared luminosity ratio 和近邻的SFMS星系相近，比星暴星系高得多
+    * The [C II] emission has an average spatial extent of 4 – 7 kpc, consistent with the optical size.
+    * we find that the [C II] luminosity correlates with galaxies’ molecular gas mass, with a mean absolute deviation of 0.2 dex and without evident systematics
+    * [C II] seems therefore a convenient tracer to estimate galaxies’ molecular gas content regardless of their starburst or main-sequence nature, and extending to metal-poor galaxies at low- and high-redshifts.
 
 
 #### [LOFAR MSSS: Fattening low-frequency radio continuum spectra of nearby galaxies](https://arxiv.org/abs/1808.10374)
+    * We have obtained integrated radio spectra for 106 galaxies characterised by different morphology and star formation rate
+    * Our galaxies’ spectra are generally flatter at lower compared to higher frequencies 
+    * As there is no tendency for the highly inclined galaxies to have more flattened low-frequency spectra, we argue that the observed flattening is not due to thermal absorption
+    * Our modelling of galaxy spectra suggests that the weak spectral flattening observed in the nearby galaxies studied here results principally from synchrotron spectral curvature due to cosmic ray energy losses and propagation effects.
 
 
 #### [The Kinematics of Cluster Galaxies via Velocity Dispersion Profiles](https://arxiv.org/abs/1808.10381)
+    - **Relevant**
+    * 14个星系团的VDP研究：We find merging cluster environments possess an abundance of a kinematically-active (rising VDP) mix of red and blue elliptical galaxies, which is indicative of infalling substructures responsible for pre-processing galaxies.
 
 
 #### [Why do many early-type galaxies lack emission lines? I. Fossil clues](https://arxiv.org/abs/1808.10405)
+    - **Relevant, Interesting**
+    * 同样的quiescent星系里，都有老年的高温小质量恒星，但是发射线区别很大，说明电离气体贮藏区别很大。看统计上的区别
+    * We detect marginal differences in their optical stellar ages and NUV luminosities, indicating that liny RGs have an excess of intermediate-age (0.1–5 Gyr) stellar populations. Liny RGs show higher dust attenuation and W3 luminosities than their lineless counterparts.
+    * The amount of warm gas needed to explain the observed Hα luminosity in liny RGs is 10^5–10^8 M⊙, and that their [N ii]/[O ii] emission-line ratios are typical of those of the most massive star-forming galaxies.
 
 
 ----
