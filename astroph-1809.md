@@ -5,7 +5,7 @@
 
 ----
 
-## Sep 1:
+## Sep 4:
 
 #### [Can Stellar Discs in a Cosmological Setting Avoid Forming Strong Bars?](https://arxiv.org/abs/1809.00090)
     * We simulate a suite of isolated galaxy models that have the same Toomre Q parameter and swing amplification parameter but that differ in the vertical scale height and velocity dispersion.
@@ -97,3 +97,59 @@
     * GSN 069 is an optically identified very low-mass AGN which shows supersoft X-ray emission. 有巨大的X-ray outbursts
     * Combining with the historical X-ray measurements, we find that the X-ray flux is decreasing slowly. There seemed to be spectral softening associated with the drop of X-ray flux.
     * The long decay of X-ray flux and spectral evolution, as well as the supersoft X-ray spectra, suggest that the source could be a tidal disruption event, though a highly variable AGN cannot be fully ruled out. 
+
+
+----
+
+## Sep 5:
+
+#### [A Complete Spectroscopic Census of Abell 2029: A Tale of Three Histories](https://arxiv.org/abs/1809.01137)
+
+
+#### [MUSE Spectroscopic Identifications of Ultra-Faint Emission Line Galaxies with MUV∼ -15](https://arxiv.org/abs/1809.01142)
+
+
+#### [Evidence for Ultra-Diffuse Galaxy `Formation' Through Galaxy Interactions](https://arxiv.org/abs/1809.01145)
+
+
+#### [The origin of the mass scales for maximal star formation efficiency and quenching: the critical role of Supernova](https://arxiv.org/abs/1809.01154)
+
+
+#### [Spatially Resoved 12CO(2-1)/12CO(1-0) in the Starburst Galaxy NGC 253: Assessing Optical Depth to Constrain the Molecular Mass Outflow Rate](https://arxiv.org/abs/1809.01160)
+
+
+#### [Physics of a clumpy lensed galaxy at z=1.6](https://arxiv.org/abs/1809.01162)
+
+
+#### [The Hydra I cluster core - II. Kinematic complexity in a rising velocity dispersion profile around the cD galaxy NGC 3311](https://arxiv.org/abs/1809.01163)
+
+
+#### [Metal Mixing and Ejection in Dwarf Galaxies is Dependent on Nucleosynthetic Source](https://arxiv.org/abs/1809.01167)
+
+
+#### [The Causes of the Red Sequence, the Blue Cloud, the Green Valley and the Green Mountain](https://arxiv.org/abs/1809.01171)
+
+
+#### [The Observational Signatures of Supermassive Black Hole Seeds](https://arxiv.org/abs/1809.01171)
+
+
+#### [MAGNUM survey: A MUSE-Chandra resolved view on ionized outflows and photoionization in the Seyfert galaxy NGC 1365](https://arxiv.org/abs/1809.01206)
+
+
+#### [Fast and slow paths to quiescence: ages and sizes of 400 quiescent galaxies from the LEGA-C survey](https://arxiv.org/abs/1809.01211)
+
+
+#### [Fossil group origins IX. Probing the formation of fossil galaxy groups with stellar population gradients of their central galaxies](https://arxiv.org/abs/1809.01251)
+
+
+#### [Dense Molecular Filaments Feeding a Starburst: ALMA Maps of CO(3-2) in Henize 2-10](https://arxiv.org/abs/1809.01339)
+
+
+#### [Constraints On Duty Cycles Of Quasars At Z ∼ 6](https://arxiv.org/abs/1809.01545)
+
+
+#### [Modeling baryonic physics in future weak lensing surveys](https://arxiv.org/abs/1809.01146)
+
+
+#### [H0LiCOW - IX. Cosmographic analysis of the doubly imaged quasar SDSS 1206+4332 and a new measurement of the Hubble constant](https://arxiv.org/abs/1809.01274)
+
