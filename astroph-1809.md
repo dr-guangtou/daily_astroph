@@ -104,52 +104,114 @@
 ## Sep 5:
 
 #### [A Complete Spectroscopic Census of Abell 2029: A Tale of Three Histories](https://arxiv.org/abs/1809.01137)
+    - **Relevant**
+    * The fractions of AGN and post-starburst E+A galaxies in A2029 are similar to those of other clusters.
+    * A2029 members within 10^9M⊙ < M∗ < 10^9.5M⊙ are more metal rich than SDSS galaxies within the same mass range.
+    * The Dn4000 − M∗ relations of the members in A2029 and its two infalling groups differ significantly indicating the importance of stochastic effects for understanding the evolution of cluster galaxy populations.
 
 
 #### [MUSE Spectroscopic Identifications of Ultra-Faint Emission Line Galaxies with MUV∼ -15](https://arxiv.org/abs/1809.01142)
+    * Using an ultra-deep blind survey with the MUSE integral field spectrograph on the ESO Very Large Telescope, we obtain spectroscopic redshifts to a depth never explored before: galaxies with observed magnitudes mAB ~ 30 – 32.
+    * we detect 102 objects via Lyman-α emission at 2.9 < z < 6.7 without individual continuum counterparts 
+    * A simple model for the expected fraction of detected/undetected Lyman-α emitters as a function of luminosity is consistent with these objects being the high-equivalent width tail of the normal Lyman-α-emitter population at these redshifts.
 
 
 #### [Evidence for Ultra-Diffuse Galaxy `Formation' Through Galaxy Interactions](https://arxiv.org/abs/1809.01145)
+    - **Relevant, Interesting**
+    * We report the discovery of two ultra-diffuse galaxies (UDGs) which show clear evidence for association with tidal material and interaction with a larger galaxy halo, 
+    * The two new UDGs, NGC2708-Dw1 and NGC5631-Dw1, are faint (Mg=−13.7 and −11.8 mag), extended (rh=2.60 and 2.15 kpc) and have low central surface brightness (μ(g, 0)=24.9 and 27.3 mag arcsec−2)
+    * These observations provide evidence that the origin of some UDGs may connect to galaxy interactions, either by transforming normal dwarf galaxies by expanding them, or because UDGs can collapse out of tidal material
 
 
 #### [The origin of the mass scales for maximal star formation efficiency and quenching: the critical role of Supernova](https://arxiv.org/abs/1809.01154)
+    * SAM研究：why the halo and stellar mass scales above which galaxies are quenched are constant with redshift and coincide with the scale where baryons are most efficiently converted into stars
+    * SN Feedback很重要：As haloes grow above a threshold mass, SNe can no longer eject material so their hot gas content increases, enhancing the cooling rate onto the central galaxy, its cold gas content, its star formation rate and the growth rate of its central black hole
 
 
 #### [Spatially Resoved 12CO(2-1)/12CO(1-0) in the Starburst Galaxy NGC 253: Assessing Optical Depth to Constrain the Molecular Mass Outflow Rate](https://arxiv.org/abs/1809.01160)
+    * r21: CO(2–1)/CO(1–0) can be used to constrain the optical depth of the CO emission, which impacts the inferred mass of the outflow and consequently the molecular mass outflow rate.
+    * We find r21<1 throughout, consistent with a majority of the CO emission being optically-thick in the outflow, as it is in the starburst. This suggests that the molecular outflow mass is 3−6 times larger than the lower limit reported for optically thin CO emission from warm molecular gas.
 
 
 #### [Physics of a clumpy lensed galaxy at z=1.6](https://arxiv.org/abs/1809.01162)
+    * An analysis of the clumpy galaxy A68-HLS115 at z = 1.5858, located behind the cluster Abell 68, but strongly lensed by a cluster galaxy member.
+    * We obtain a stability of υrot/σ0 = 2.73 by modeling the kinematics, which means that the galaxy is dominated by rotation, but this ratio also indicates that the disk is marginally stable.
+    * The direct measure of the Toomre stability criterion of Qcrit = 0.70 could also indicate the presence of a quasi-stable thick disk.
+    * Three clumps contribute together to ∼ 40% on the SFRHα of the galaxy and show a star formation rate density about ∼ 100 times higher than HII regions in the local Universe.
 
 
 #### [The Hydra I cluster core - II. Kinematic complexity in a rising velocity dispersion profile around the cD galaxy NGC 3311](https://arxiv.org/abs/1809.01163)
+    - **Relevant**
+    * Beyond inner 10 kpc, both the velocities and the velocity dispersion start to depend on azimuth angle and show a significant intrinsic scatter. 
+    * Outside 10 kpc the cumulative angular momentum is rising, however, without showing an ordered rotation signal.
+    * If the radial dependence alone is considered, the velocity dispersion does not simply rise but fills an increasingly large range of dispersion values with two well defined envelopes.
+    * The rising velocity dispersion of NGC 3311 apparently is a result of averaging over a range of velocity dispersions related to different tracer populations in the sense of different density profiles and anisotropies
 
 
 #### [Metal Mixing and Ejection in Dwarf Galaxies is Dependent on Nucleosynthetic Source](https://arxiv.org/abs/1809.01167)
+    - **Interesting**
+    * 高分辨率的dwarf模拟中：we investigate how each of 15 metal species are distributed within our multi-phase interstellar medium (ISM) and ejected from our galaxy by galactic winds.
+    * We demonstrate that the mass fraction probability distribution functions (PDFs) of individual metal species in the ISM are well described by a piecewise log-normal and power-law distribution
+    * The log-normal component generally describes gas at lower metal fractions undergoing enrichment towards the mean metal fraction, driven by recent enrichment events in the power-law tail.
+    * Hot gas is dominated by recent enrichment, with a significant power-law tail to high metal fractions, while cold gas is dominated by the log-normal component.
+    * Elements dominated by asymptotic giant branch (AGB) wind enrichment, such as N and Ba, mix less efficiently than elements dominated by supernova enrichment
+    * Nearly all of the produced metals are ejected from the galaxy (only 4% are retained), but metals dominated by AGB enrichment are retained at a fraction of 20%.
 
 
 #### [The Causes of the Red Sequence, the Blue Cloud, the Green Valley and the Green Mountain](https://arxiv.org/abs/1809.01171)
+    - **Important, Interesting**
+    * We show that the galaxies found in a submillimetre survey have almost the opposite distribution in this diagram, forming a ‘green mountain’. 
+    * We show that these distinctive distributions follow naturally from a single, continuous, curved Galaxy Sequence in a diagram of specific star-formation rate versus stellar mass without there being the need for a separate star-forming galaxy Main Sequence and region of passive galaxies.
+    * The cause of the red sequence and the blue cloud is the geometric mapping between stellar mass/specific star-formation rate and absolute magnitude/colour
+    * The cause of the green mountain is Malmquist bias in the submillimetre waveband, with submillimetre surveys tending to select galaxies on the curve of the Galaxy Sequence, which have the highest ratios of submillimetre-to-optical luminosity.
 
 
 #### [The Observational Signatures of Supermassive Black Hole Seeds](https://arxiv.org/abs/1809.01171)
+    * It is a challenge to uniquely disentangle signatures of seeding from fueling and dynamics that shapes the assembly history of growing black holes. SAM研究
+    * The behaviour of the low-mass end of the M• − σ relation is dominated by uncertainties in the adopted accretion prescriptions and does not offer clear dis- crimination between seeding models.
 
 
 #### [MAGNUM survey: A MUSE-Chandra resolved view on ionized outflows and photoionization in the Seyfert galaxy NGC 1365](https://arxiv.org/abs/1809.01206)
+    * The [Oiii] emission mostly traces a kpc-scale biconical outflow ionized by the AGN having velocities up to ∼200 km s−1. Hα emission traces instead star formation in a circumnuclear ring and along the bar
+    * Soft X-rays are predominantly due to thermal emission from the star-forming regions, but we manage to isolate the AGN photoionized component which nicely matches the [O iii] emission.
+    * The hard X-ray emission from the circumnuclear ring suggests that star formation might in principle contribute to the outflow
 
 
 #### [Fast and slow paths to quiescence: ages and sizes of 400 quiescent galaxies from the LEGA-C survey](https://arxiv.org/abs/1809.01211)
+    - **Relevant, Important**
+    * We analyze stellar age indicators (Dn4000 and EW(Hδ)) and sizes of 467 quiescent galaxies with M∗ ≥ 10^10M⊙ at z ∼ 0.7 drawn from DR2 of the LEGA-C survey.
+    * We find that the median stellar population is younger for larger galaxies at fixed stellar mass.
+    * At the same time, quiescent galaxies with the strongest Hδ absorption — those experienced recent and rapid quenching events — tend to be smaller than the average.
+    * The large scatter in Dn4000 and EW(Hδ) immediately implies that galaxies follow a large variety in evolutionary pathways.
 
 
 #### [Fossil group origins IX. Probing the formation of fossil galaxy groups with stellar population gradients of their central galaxies](https://arxiv.org/abs/1809.01251)
+    - **Relevant**
+    * We present long-slit spectroscopic observations along the major, minor, and diagonal axes of NGC 6482 and NGC 7556, which are the BCGs of two nearby FGs 
+    * They host a centrally concentrated stellar population, which is significantly younger and more metal rich than the rest of the galaxy. 
+    * The age gradients of both galaxies are somewhat larger than those of the other FG BCGs studied so far, whereas their metallicity gradients are similarly negative and shallow. Moreover, they have negligible gradients of α-element abundance ratio.
 
 
 #### [Dense Molecular Filaments Feeding a Starburst: ALMA Maps of CO(3-2) in Henize 2-10](https://arxiv.org/abs/1809.01339)
+    * The warm dense gas traced by CO(3–2) is found in clumpy filaments that are kinematically and spatially distinct.
+    * Filament没有明显指向性，星系可能不能演化为一个盘星系：Filaments appear to be feeding the active starburst; the velocity field in one filament suggests acceleration onto an embedded star cluster.
+    * The kinematics of the molecular gas show significant activity apparently unrelated to the current starburst.
 
 
 #### [Constraints On Duty Cycles Of Quasars At Z ∼ 6](https://arxiv.org/abs/1809.01545)
+    - **Huanqing Chen**
+    * 在z~6: constrain the fraction of dark matter halos hosting an active quasar fon and the quasar beaming angle imax using observations of CII lines in the literature
+    * 
 
 
 #### [Modeling baryonic physics in future weak lensing surveys](https://arxiv.org/abs/1809.01146)
-
+    - **Relevant, Important**
+    * Here we explore the performance of two mitigation schemes for baryonic effects in weak lensing cosmic shear: the PCA method and the halo-model approach in HMcode.
+    * With an angular scale cut of lmax < 2000, both methods successfully remove the biases in cosmological parameters due to the various baryonic physics scenarios, with the PCA method causing less degradation in the parameter constraints than HMcode.
+    * We investigate variants of the PCA method and improve the bias mitigation through PCA by accounting for the noise properties in the data via Cholesky decomposition of the covariance matrix
 
 #### [H0LiCOW - IX. Cosmographic analysis of the doubly imaged quasar SDSS 1206+4332 and a new measurement of the Hubble constant](https://arxiv.org/abs/1809.01274)
+    - **Important**
+    * The precision of our cosmographic measurement with the doubly imaged quasar SDSS 1206+4332 is comparable with those of quadruply imaged quasars and opens the path to perform on selected doubles the same analysis as anticipated for quads.
+    * By combining the likelihoods of the four systems under the same prior, we obtain H0 = 72.5+2.1 km s−1 Mpc−1. This measurement is independent of the distance ladder and −2.3 other cosmological probes.
 
