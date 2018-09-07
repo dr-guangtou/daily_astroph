@@ -215,3 +215,33 @@
     * The precision of our cosmographic measurement with the doubly imaged quasar SDSS 1206+4332 is comparable with those of quadruply imaged quasars and opens the path to perform on selected doubles the same analysis as anticipated for quads.
     * By combining the likelihoods of the four systems under the same prior, we obtain H0 = 72.5+2.1 km s−1 Mpc−1. This measurement is independent of the distance ladder and −2.3 other cosmological probes.
 
+
+----
+
+## Sep 6:
+
+#### [The complete census of molecular hydrogen in a simulated disc galaxy](https://arxiv.org/abs/1809.01657)
+
+
+#### [Dust emission in an accretion-rate-limited sample of z>6 quasars](https://arxiv.org/abs/1809.01662)
+
+
+#### [IQ-Collaboratory 1.1: the Star-Forming Sequence of Simulated Central Galaxies](https://arxiv.org/abs/1809.01665)
+
+
+#### [Fast Molecular Outflow from a Dusty Star-Forming Galaxy in the Early Universe](https://arxiv.org/abs/1809.01676)
+
+
+#### [On the origin of gas-poor galaxies in galaxy clusters using cosmological hydrodynamic simulations](https://arxiv.org/abs/1809.01684)
+
+
+#### [The nature of the variable millimetre-selected AGN in the Brightest Cluster Galaxy of Abell 851](https://arxiv.org/abs/1809.01700)
+
+
+#### [Identifying Direct Collapse Black Hole Seeds through their Small Host Galaxies](https://arxiv.org/abs/1809.01754)
+
+
+#### [Probing the fluctuating Ultra-violet background using the Hubble Frontier Fields](https://arxiv.org/abs/1809.01798)
+
+
+#### [Galaxy detection and identification using deep learning and data augmentation](https://arxiv.org/abs/1809.01691)

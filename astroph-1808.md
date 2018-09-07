@@ -1106,6 +1106,8 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 ## August 30:
 
 #### [The impact of cored density profiles on the observable quantities of dwarf spheroidal galaxies](https://arxiv.org/abs/1808.10451)
+    * We find that despite the creation of large cores at the centre of the dark matter haloes, the impact of SIDM on the observable quantities of quenched galaxies is indiscernible, dominated mostly by the stochastic build up of the stellar matter
+    * Although based mostly on quenched galaxies, this finding supports other recent work putting into question the reliability of inferred cored density profiles that are derived from observed line-of-sight velocities.
 
 
 #### [The Far-Infrared Radio Correlation at low radio frequency with LOFAR/H-ATLAS](https://arxiv.org/abs/1808.10452)
@@ -1115,6 +1117,12 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 
 
 #### [Outer Stellar Halo Enrichment: where Mergers deposit their Mass and how Shells and Streams depend on Infall-Orbit Configurations](https://arxiv.org/abs/1808.10454)
+    - **Relevant, Interesting**
+    * we present a simulation suite of 36 high-resolution isolated merger simulations, exploring a wide range of parameter space in terms of mass ratios (μ = 1:5, 1:10, 1:50, 1:100) and orbital parameters.
+    * We find that mini mergers deposit a higher fraction of their mass in the outer halo compared to minor mergers, while their contribution to the central mass distribution is highly dependent on the orbital impact parameter
+    * For larger pericentric distances we find that center of the host galaxy is almost not contaminated by merger particles
+    * Resulting radial mass distribution for mini mergers differs significantly from the predictions of simple theoretical tidal-force models.
+    * Finally, we find clear evidence that streams are a strong indication of nearly circular infall of a satellite (with a large angular momentum), whereas the appearance of shells clearly points to (nearly) radial satellite infall.
 
 
 #### [The mass of the Milky Way from satellite dynamics](https://arxiv.org/abs/1808.10456)
@@ -1124,18 +1132,35 @@ lar kinematic observations, the IRAC-3.6μm photometry, and the disc’s H I rot
 
 
 #### [High Resolution spatial analysis of a z ∼ 2 lensed galaxy using adaptive coadded source-plane reconstruction](https://arxiv.org/abs/1808.10468)
+    * We employ the updated lens model to combine the Integral Field Spectrographic observations on two highly distorted images of the lensed target. We adopt a forward-modeling approach to deconvolve the effects of point spread function from the combined source-plane reconstruction
+    * We propose an ongoing merger as the origin of the lensed system on the basis of its source-plane morphology, kinematics and rest-frame emission line ratios.
 
 
 #### [HI gas content of SDSS galaxies revealed by ALFALFA: implications for the mass-metallicity relation and the environmental dependence of HI in the local Universe](https://arxiv.org/abs/1808.10501)
+    - **Ying Zu; Interesting**
+    * 
 
 
 #### [High-redshift quasar selection from the CFHQSIR survey](https://arxiv.org/abs/1808.10672)
+    * The Canada- France High-z Quasar Survey in the Near Infrared (CFHQSIR) has been carried out to search for z ∼ 7 quasars using near-infrared and optical imaging from the Canada-France Hawaii Telescope (CFHT). Our data consist of ∼ 130 deg2 of Wide-field Infrared Camera (WIRCam) Y-band images up to a 5 σ limit of YAB ∼ 22.4 
+    * However, we expect to detect only ∼ 2 quasars in the redshift range 6.8 < z < 7.5 down to a rest-frame absolute magnitude of M1450 = −24.6.
+    * we developed an advanced classification method based on Bayesian formalism in which we model the high-redshift quasars and low-mass star populations.
 
 
 #### [Kiloparsec Scale Properties of Star-Formation Driven Outflows at z~2.3 in the SINS/zC-SINF AO Survey](https://arxiv.org/abs/1808.10700)
+    * Investigate the relationship between star formation activity and outflow properties on kiloparsec scales in a sample of 28 star forming galaxies at z ∼ 2 – 2.6
+    * Find clear evidence for faster outflows with larger mass loading factors at higher ΣSFR
+    * The majority of the outflowing material does not have sufficient velocity to escape from the galaxy halos, but will likely be re-accreted and contribute to the chemical enrichment of the galaxies.
 
 
 #### [QSO MUSEUM I: A sample of 61 extended Lyα-emission nebulae surrounding z∼3 quasars](https://arxiv.org/abs/1808.10857)
+    - **Interesting**
+    * This sample unveils diverse specimens of Lyα nebulosities extending for tens of kiloparsecs around these quasars (on average out to a maximum projected distance of 80 kpc)
+    * Irrespective of the radio-loudness of the targets, the bulk of the extended Lyα emission is within R < 50 kpc, and is characterized by relatively quiescent kinematics,
+    * Our current data suggest a combination of photoionization and resonant scattering as powering mechanisms of the Lyα emission.
+    * We discover the first z ∼ 3 ELAN, which confirms a very low probability (∼ 1%) of occurrence of such extreme systems at these cosmic epochs.
 
 
 #### [What fraction of the density fluctuations in the Perseus cluster core is due to gas sloshing rather than AGN feedback?](https://arxiv.org/abs/1808.10460)
+    * It has been found that when the observed density fluctuations in the intracluster medium are converted into constraints on AGN induced turbulence, the resulting turbulent heating rates are sufficient to balance cooling locally throughout the central 220kpc. 
+    * 但60 kpc外的密度波动可能是gas sloshing引起的
