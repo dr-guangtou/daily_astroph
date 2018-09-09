@@ -221,27 +221,71 @@
 ## Sep 6:
 
 #### [The complete census of molecular hydrogen in a simulated disc galaxy](https://arxiv.org/abs/1809.01657)
+    * RAMSES-RT模拟银河系类型的星系：A significant fraction of the H2 gas is in low-density regions mixed with atomic hydrogen and would therefore be difficult to observe.
+    * Three resolutions of the same galaxy detail the effects it has on H2 formation, with grid cells sized 97, 24, and 6.1 pc. Only the highest resolution yields gas densities high enough to host significant H2 fractions, and resolution is therefore key to simulating H2.
 
 
 #### [Dust emission in an accretion-rate-limited sample of z>6 quasars](https://arxiv.org/abs/1809.01662)
+    * 1 mm observations of the rest-frame far-infrared (FIR) dust continuum in 27 quasars at redshifts 6.0 < z < 6.7. 
+    * 大部分都有探测，FIR光度在0.27-13 x 10^12 Lsun; 尘埃质量在 10^7-10^9 Msun.
+    * However, combined with results from the literature to create a luminosity–limited quasar sample, we do not find a strong correlation between quasar UV luminosity (a proxy for ongoing black hole growth) and FIR luminosity (star-formation in the host galaxy)
 
 
 #### [IQ-Collaboratory 1.1: the Star-Forming Sequence of Simulated Central Galaxies](https://arxiv.org/abs/1809.01665)
+    * We present a flexible data-driven approach for identifying this SFS over a wide range of star formation rates and stellar masses using Gaussian mixture modeling (GMM). 
+    * Surprisingly, the amplitude of the SFS varies by up to ∼0.7 dex (factor of ∼5) among the simulations with power-law slopes range from 0.7 to 1.2.
+    * All of the simulations also produce an abundance of low-mass quiescent central galaxies in apparent tension with observations.
 
 
 #### [Fast Molecular Outflow from a Dusty Star-Forming Galaxy in the Early Universe](https://arxiv.org/abs/1809.01676)
+    * We report a molecular outflow launched from a dust-rich star-forming galaxy at redshift 5.3, one billion years after the Big Bang. 
+    * The outflow reaches velocities up to 800 km s−1 relative to the galaxy, is resolved into multiple clumps, and carries mass at a rate within a factor of two of the star formation rate.
+    * molecular outflows can remove a large fraction of the gas available for star formation from galaxies at high redshift.
+    * SPT−S J231921−5557.9 (SPT2319−55 hereafter) at z=5.2
 
 
 #### [On the origin of gas-poor galaxies in galaxy clusters using cosmological hydrodynamic simulations](https://arxiv.org/abs/1809.01684)
+    - **Relevant**
+    * 模拟研究 satellite gas depletion: The gas depletion mechanisms can be categorized into three channels based on where and when they took place. 
+    * First, 34% of our galaxies are gas poor before entering clusters (“pre-processing”). They are mainly satellites that have undergone the environmental effect inside group halos. 
+    * Second, 43% of the sample became quickly gas deficient in clusters before the first pericentric pass (“fast cluster processing”). 其中很多都是已经在group里损失了气体的
+    * Third, 24% of our sample retain gas even after their first pericentric pass (“slow cluster processing”) as they fall into the less massive clusters and/or have circular orbits.
+    * Group pre-processing accounts for a third of the total gas depletion; but it also determines the gas fraction of galaxies at their cluster entry which in turn determines whether a galaxy should take the fast or the slow cluster processing.
 
 
 #### [The nature of the variable millimetre-selected AGN in the Brightest Cluster Galaxy of Abell 851](https://arxiv.org/abs/1809.01700)
+    * NOEMA: the detection of a bright 3 mm continuum source in the Brightest Cluster Galaxy (BCG) in Abell 0851 (z = 0.411)
+    * We find evidence for a relatively flat, variable core source associated with the BCG. 
+    * The radio power and amplitude of variability observed in this galaxy is consistent with the cores in lower redshift BCGs in X-ray–selected clusters, and the flat mm–cm spectrum is suggestive of the BCG being a low luminosity AGN archetype. 和regulatory feedback有联系 ?
+
+
+#### [The Cluster-EAGLE project: a comparison of dynamical mass estimators using simulated clusters](https://arxiv.org/abs/1809.01704)
+    - **Relevant, Important**
+    * We compare three different dynamical mass estimators using the C-EAGLE galaxy clusters, a set of high resolution simulations with resolved galaxies 
+    * 用M*>10^9 Msun的星系测量Jeans，Virial，和Caustic动力学质量，在3-D和投影空间
+    * On average we find our mass estimates are unbiased, though relative to the true mass within r200c the scatter is large with a range of 0.09 - 0.15 dex. 投影空间的scatter略大 
+    * Comparing X-ray derived hydrostatic and dynamical masses, the former are ∼30 per cent lower. 
 
 
 #### [Identifying Direct Collapse Black Hole Seeds through their Small Host Galaxies](https://arxiv.org/abs/1809.01754)
+    * We utilize a cosmological N-body simulation to demonstrate that before they grow roughly an order of magnitude in mass, DCBHs will have black hole mass to halo mass ratios much higher than expected for black hole remnants of Population III (Pop III) stars which have grown to the same mass 
 
 
 #### [Probing the fluctuating Ultra-violet background using the Hubble Frontier Fields](https://arxiv.org/abs/1809.01798)
+    * constraining the fluctuating UV background during reionization by constraining α in different volumes of the Universe.
+        - alpha 是UVLF的faint end slope
+    * Because of patchy reionization, different volumes will experience different amount of photo-heating which should lead to a scatter in the measured α.
 
 
 #### [Galaxy detection and identification using deep learning and data augmentation](https://arxiv.org/abs/1809.01691)
+    * a method for automatic detection and classification of galaxies which includes a novel dataaugmentation procedure to make trained models more robust against the data taken from different instruments and contrast-stretching functions.
+    * CNN training: Training results are strongly bound to the conversion method from raw FITS data for each band into a 3-channel color image.
+    * The detection and classification methods were trained using the deep learning framework DARKNET and the real-time object detection system YOLO. 
+        - You only look once (YOLO) method (Redmon et al., 2015; Redmon and Farhadi, 2016), is a Single Shot Detector (SSD)
+
+
+----
+
+## Sep 9:
+
+#### [The complete census of molecular hydrogen in a simulated disc galaxy](https://arxiv.org/abs/1809.01657)
