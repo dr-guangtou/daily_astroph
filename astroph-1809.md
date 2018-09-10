@@ -288,4 +288,19 @@
 
 ## Sep 9:
 
-#### [The complete census of molecular hydrogen in a simulated disc galaxy](https://arxiv.org/abs/1809.01657)
+#### [The Recent Growth History of the Fornax Cluster Derived from Simultaneous Sloshing and Gas Stripping: Simulating the Infall of NGC 1404](https://arxiv.org/abs/1809.02134)
+
+
+#### [Automated Distant Galaxy Merger Classifications from Space Telescope Images using the Illustris Simulation](https://arxiv.org/abs/1809.02136)
+
+
+#### [The Role of Black Hole Feedback on Size and Structural Evolution in Massive Galaxies](https://arxiv.org/abs/1809.02143)
+
+
+#### [Chemical Abundances in the Ultra-Faint Dwarf Galaxies Grus I and Triangulum II: Neutron-Capture Elements as a Defining Feature of the Faintest Dwarfs](https://arxiv.org/abs/1809.02182)
+
+
+#### [Massive BH Binaries as Periodically-Variable AGN](https://arxiv.org/abs/1809.02138)
+
+
+#### [The first tidal disruption flare in ZTF: from photometric selection to multi-wavelength characterization](https://arxiv.org/abs/1809.02608)
