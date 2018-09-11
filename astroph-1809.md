@@ -16,14 +16,14 @@
 
 #### [Dust attenuation and Halpha emission in a sample of galaxies observed with Herschel at 0.6<z<1.6](https://arxiv.org/abs/1809.00161)
     * We have used a new version of the CIGALE code to fit simultaneously the continuum and Hα line emission of the 34 selected galaxies: 0.6 <z < 1.6; 3D-HST
-    * The attenuation of young stars or nebular continuum is found on average about twice the attenuation affecting older stars, again with a large variation. 
+    * The attenuation of young stars or nebular continuum is found on average about twice the attenuation affecting older stars, again with a large variation.
     * Our model with power-laws, based on a modification of the Charlot and Fall recipe, gives results in better agreement with the radiative transfer models than the global modification of the slope of the Calzetti law.
 
 
 #### [A unique distant submillimeter galaxy with an X-ray-obscured radio-luminous active galactic nucleus](https://arxiv.org/abs/1809.00318)
     * Multiwavelength study of an atypical submillimeter galaxy, GH500.30, in the GOODS-North field
     * With the new NOEMA interferometric imaging, we confirm that the source is a unique dusty galaxy. It has no obvious counterpart in the optical and even NIR image
-    * An X-ray spectral analysis suggests that this galaxy harbors a heavily obscured AGN 
+    * An X-ray spectral analysis suggests that this galaxy harbors a heavily obscured AGN
 
 
 #### [ELUCID. VI: Cosmic variance of galaxy distribution in the local Universe](https://arxiv.org/abs/1809.00523)
@@ -57,7 +57,7 @@
 
 #### [Early- and late-stage mergers among main sequence and starburst galaxies at 0.2≤z≤2](https://arxiv.org/abs/1809.00715)
     - **Interesting**
-    * Investigate the fraction of close pairs and morphologically identified mergers on and above the star-forming main sequence (MS) at 0.2 ≤ z ≤2.0. 
+    * Investigate the fraction of close pairs and morphologically identified mergers on and above the star-forming main sequence (MS) at 0.2 ≤ z ≤2.0.
     * use of a non-parametric morphological classification performed on re- solved stellar mass maps, reducing the contamination by non-interacting, high-redshift clumpy galaxies.
     * We find that the merger fraction rapidly rises to ≥70% above the MS, implying that – already at z 1 – starburst (SB) events (∆MS ≥ 0.6) are almost always associated with a major merger
     * The observed variation of the late-stage merger fraction with ∆MS follows the perturbative 2-SFM model, where any MS galaxy can experience a continuum of different SFR en- hancements.
@@ -96,7 +96,7 @@
 #### [A long decay of X-ray flux and spectral evolution in the supersoft active galactic nucleus GSN 069](https://arxiv.org/abs/1809.00319)
     * GSN 069 is an optically identified very low-mass AGN which shows supersoft X-ray emission. 有巨大的X-ray outbursts
     * Combining with the historical X-ray measurements, we find that the X-ray flux is decreasing slowly. There seemed to be spectral softening associated with the drop of X-ray flux.
-    * The long decay of X-ray flux and spectral evolution, as well as the supersoft X-ray spectra, suggest that the source could be a tidal disruption event, though a highly variable AGN cannot be fully ruled out. 
+    * The long decay of X-ray flux and spectral evolution, as well as the supersoft X-ray spectra, suggest that the source could be a tidal disruption event, though a highly variable AGN cannot be fully ruled out.
 
 
 ----
@@ -112,13 +112,13 @@
 
 #### [MUSE Spectroscopic Identifications of Ultra-Faint Emission Line Galaxies with MUV∼ -15](https://arxiv.org/abs/1809.01142)
     * Using an ultra-deep blind survey with the MUSE integral field spectrograph on the ESO Very Large Telescope, we obtain spectroscopic redshifts to a depth never explored before: galaxies with observed magnitudes mAB ~ 30 – 32.
-    * we detect 102 objects via Lyman-α emission at 2.9 < z < 6.7 without individual continuum counterparts 
+    * we detect 102 objects via Lyman-α emission at 2.9 < z < 6.7 without individual continuum counterparts
     * A simple model for the expected fraction of detected/undetected Lyman-α emitters as a function of luminosity is consistent with these objects being the high-equivalent width tail of the normal Lyman-α-emitter population at these redshifts.
 
 
 #### [Evidence for Ultra-Diffuse Galaxy `Formation' Through Galaxy Interactions](https://arxiv.org/abs/1809.01145)
     - **Relevant, Interesting**
-    * We report the discovery of two ultra-diffuse galaxies (UDGs) which show clear evidence for association with tidal material and interaction with a larger galaxy halo, 
+    * We report the discovery of two ultra-diffuse galaxies (UDGs) which show clear evidence for association with tidal material and interaction with a larger galaxy halo,
     * The two new UDGs, NGC2708-Dw1 and NGC5631-Dw1, are faint (Mg=−13.7 and −11.8 mag), extended (rh=2.60 and 2.15 kpc) and have low central surface brightness (μ(g, 0)=24.9 and 27.3 mag arcsec−2)
     * These observations provide evidence that the origin of some UDGs may connect to galaxy interactions, either by transforming normal dwarf galaxies by expanding them, or because UDGs can collapse out of tidal material
 
@@ -142,7 +142,7 @@
 
 #### [The Hydra I cluster core - II. Kinematic complexity in a rising velocity dispersion profile around the cD galaxy NGC 3311](https://arxiv.org/abs/1809.01163)
     - **Relevant**
-    * Beyond inner 10 kpc, both the velocities and the velocity dispersion start to depend on azimuth angle and show a significant intrinsic scatter. 
+    * Beyond inner 10 kpc, both the velocities and the velocity dispersion start to depend on azimuth angle and show a significant intrinsic scatter.
     * Outside 10 kpc the cumulative angular momentum is rising, however, without showing an ordered rotation signal.
     * If the radial dependence alone is considered, the velocity dispersion does not simply rise but fills an increasingly large range of dispersion values with two well defined envelopes.
     * The rising velocity dispersion of NGC 3311 apparently is a result of averaging over a range of velocity dispersions related to different tracer populations in the sense of different density profiles and anisotropies
@@ -160,7 +160,7 @@
 
 #### [The Causes of the Red Sequence, the Blue Cloud, the Green Valley and the Green Mountain](https://arxiv.org/abs/1809.01171)
     - **Important, Interesting**
-    * We show that the galaxies found in a submillimetre survey have almost the opposite distribution in this diagram, forming a ‘green mountain’. 
+    * We show that the galaxies found in a submillimetre survey have almost the opposite distribution in this diagram, forming a ‘green mountain’.
     * We show that these distinctive distributions follow naturally from a single, continuous, curved Galaxy Sequence in a diagram of specific star-formation rate versus stellar mass without there being the need for a separate star-forming galaxy Main Sequence and region of passive galaxies.
     * The cause of the red sequence and the blue cloud is the geometric mapping between stellar mass/specific star-formation rate and absolute magnitude/colour
     * The cause of the green mountain is Malmquist bias in the submillimetre waveband, with submillimetre surveys tending to select galaxies on the curve of the Galaxy Sequence, which have the highest ratios of submillimetre-to-optical luminosity.
@@ -187,8 +187,8 @@
 
 #### [Fossil group origins IX. Probing the formation of fossil galaxy groups with stellar population gradients of their central galaxies](https://arxiv.org/abs/1809.01251)
     - **Relevant**
-    * We present long-slit spectroscopic observations along the major, minor, and diagonal axes of NGC 6482 and NGC 7556, which are the BCGs of two nearby FGs 
-    * They host a centrally concentrated stellar population, which is significantly younger and more metal rich than the rest of the galaxy. 
+    * We present long-slit spectroscopic observations along the major, minor, and diagonal axes of NGC 6482 and NGC 7556, which are the BCGs of two nearby FGs
+    * They host a centrally concentrated stellar population, which is significantly younger and more metal rich than the rest of the galaxy.
     * The age gradients of both galaxies are somewhat larger than those of the other FG BCGs studied so far, whereas their metallicity gradients are similarly negative and shallow. Moreover, they have negligible gradients of α-element abundance ratio.
 
 
@@ -201,7 +201,7 @@
 #### [Constraints On Duty Cycles Of Quasars At Z ∼ 6](https://arxiv.org/abs/1809.01545)
     - **Huanqing Chen**
     * 在z~6: constrain the fraction of dark matter halos hosting an active quasar fon and the quasar beaming angle imax using observations of CII lines in the literature
-    * 
+    *
 
 
 #### [Modeling baryonic physics in future weak lensing surveys](https://arxiv.org/abs/1809.01146)
@@ -226,19 +226,19 @@
 
 
 #### [Dust emission in an accretion-rate-limited sample of z>6 quasars](https://arxiv.org/abs/1809.01662)
-    * 1 mm observations of the rest-frame far-infrared (FIR) dust continuum in 27 quasars at redshifts 6.0 < z < 6.7. 
+    * 1 mm observations of the rest-frame far-infrared (FIR) dust continuum in 27 quasars at redshifts 6.0 < z < 6.7.
     * 大部分都有探测，FIR光度在0.27-13 x 10^12 Lsun; 尘埃质量在 10^7-10^9 Msun.
     * However, combined with results from the literature to create a luminosity–limited quasar sample, we do not find a strong correlation between quasar UV luminosity (a proxy for ongoing black hole growth) and FIR luminosity (star-formation in the host galaxy)
 
 
 #### [IQ-Collaboratory 1.1: the Star-Forming Sequence of Simulated Central Galaxies](https://arxiv.org/abs/1809.01665)
-    * We present a flexible data-driven approach for identifying this SFS over a wide range of star formation rates and stellar masses using Gaussian mixture modeling (GMM). 
+    * We present a flexible data-driven approach for identifying this SFS over a wide range of star formation rates and stellar masses using Gaussian mixture modeling (GMM).
     * Surprisingly, the amplitude of the SFS varies by up to ∼0.7 dex (factor of ∼5) among the simulations with power-law slopes range from 0.7 to 1.2.
     * All of the simulations also produce an abundance of low-mass quiescent central galaxies in apparent tension with observations.
 
 
 #### [Fast Molecular Outflow from a Dusty Star-Forming Galaxy in the Early Universe](https://arxiv.org/abs/1809.01676)
-    * We report a molecular outflow launched from a dust-rich star-forming galaxy at redshift 5.3, one billion years after the Big Bang. 
+    * We report a molecular outflow launched from a dust-rich star-forming galaxy at redshift 5.3, one billion years after the Big Bang.
     * The outflow reaches velocities up to 800 km s−1 relative to the galaxy, is resolved into multiple clumps, and carries mass at a rate within a factor of two of the star formation rate.
     * molecular outflows can remove a large fraction of the gas available for star formation from galaxies at high redshift.
     * SPT−S J231921−5557.9 (SPT2319−55 hereafter) at z=5.2
@@ -246,8 +246,8 @@
 
 #### [On the origin of gas-poor galaxies in galaxy clusters using cosmological hydrodynamic simulations](https://arxiv.org/abs/1809.01684)
     - **Relevant**
-    * 模拟研究 satellite gas depletion: The gas depletion mechanisms can be categorized into three channels based on where and when they took place. 
-    * First, 34% of our galaxies are gas poor before entering clusters (“pre-processing”). They are mainly satellites that have undergone the environmental effect inside group halos. 
+    * 模拟研究 satellite gas depletion: The gas depletion mechanisms can be categorized into three channels based on where and when they took place.
+    * First, 34% of our galaxies are gas poor before entering clusters (“pre-processing”). They are mainly satellites that have undergone the environmental effect inside group halos.
     * Second, 43% of the sample became quickly gas deficient in clusters before the first pericentric pass (“fast cluster processing”). 其中很多都是已经在group里损失了气体的
     * Third, 24% of our sample retain gas even after their first pericentric pass (“slow cluster processing”) as they fall into the less massive clusters and/or have circular orbits.
     * Group pre-processing accounts for a third of the total gas depletion; but it also determines the gas fraction of galaxies at their cluster entry which in turn determines whether a galaxy should take the fast or the slow cluster processing.
@@ -255,20 +255,20 @@
 
 #### [The nature of the variable millimetre-selected AGN in the Brightest Cluster Galaxy of Abell 851](https://arxiv.org/abs/1809.01700)
     * NOEMA: the detection of a bright 3 mm continuum source in the Brightest Cluster Galaxy (BCG) in Abell 0851 (z = 0.411)
-    * We find evidence for a relatively flat, variable core source associated with the BCG. 
+    * We find evidence for a relatively flat, variable core source associated with the BCG.
     * The radio power and amplitude of variability observed in this galaxy is consistent with the cores in lower redshift BCGs in X-ray–selected clusters, and the flat mm–cm spectrum is suggestive of the BCG being a low luminosity AGN archetype. 和regulatory feedback有联系 ?
 
 
 #### [The Cluster-EAGLE project: a comparison of dynamical mass estimators using simulated clusters](https://arxiv.org/abs/1809.01704)
     - **Relevant, Important**
-    * We compare three different dynamical mass estimators using the C-EAGLE galaxy clusters, a set of high resolution simulations with resolved galaxies 
+    * We compare three different dynamical mass estimators using the C-EAGLE galaxy clusters, a set of high resolution simulations with resolved galaxies
     * 用M*>10^9 Msun的星系测量Jeans，Virial，和Caustic动力学质量，在3-D和投影空间
-    * On average we find our mass estimates are unbiased, though relative to the true mass within r200c the scatter is large with a range of 0.09 - 0.15 dex. 投影空间的scatter略大 
-    * Comparing X-ray derived hydrostatic and dynamical masses, the former are ∼30 per cent lower. 
+    * On average we find our mass estimates are unbiased, though relative to the true mass within r200c the scatter is large with a range of 0.09 - 0.15 dex. 投影空间的scatter略大
+    * Comparing X-ray derived hydrostatic and dynamical masses, the former are ∼30 per cent lower.
 
 
 #### [Identifying Direct Collapse Black Hole Seeds through their Small Host Galaxies](https://arxiv.org/abs/1809.01754)
-    * We utilize a cosmological N-body simulation to demonstrate that before they grow roughly an order of magnitude in mass, DCBHs will have black hole mass to halo mass ratios much higher than expected for black hole remnants of Population III (Pop III) stars which have grown to the same mass 
+    * We utilize a cosmological N-body simulation to demonstrate that before they grow roughly an order of magnitude in mass, DCBHs will have black hole mass to halo mass ratios much higher than expected for black hole remnants of Population III (Pop III) stars which have grown to the same mass
 
 
 #### [Probing the fluctuating Ultra-violet background using the Hubble Frontier Fields](https://arxiv.org/abs/1809.01798)
@@ -280,7 +280,7 @@
 #### [Galaxy detection and identification using deep learning and data augmentation](https://arxiv.org/abs/1809.01691)
     * a method for automatic detection and classification of galaxies which includes a novel dataaugmentation procedure to make trained models more robust against the data taken from different instruments and contrast-stretching functions.
     * CNN training: Training results are strongly bound to the conversion method from raw FITS data for each band into a 3-channel color image.
-    * The detection and classification methods were trained using the deep learning framework DARKNET and the real-time object detection system YOLO. 
+    * The detection and classification methods were trained using the deep learning framework DARKNET and the real-time object detection system YOLO.
         - You only look once (YOLO) method (Redmon et al., 2015; Redmon and Farhadi, 2016), is a Single Shot Detector (SSD)
 
 
@@ -304,3 +304,37 @@
 
 
 #### [The first tidal disruption flare in ZTF: from photometric selection to multi-wavelength characterization](https://arxiv.org/abs/1809.02608)
+
+
+----
+
+## Sep 10:
+
+#### [Massive Star cluster formation under the microscope at z=6](https://arxiv.org/abs/1809.02617)
+
+
+#### [GASP. XII. The variety of physical processes occurring in a single galaxy group in formation](https://arxiv.org/abs/1809.02668)
+
+
+#### [YZiCS: Preprocessing of dark halos in the hydrodynamic zoom-in simulation of clusters](https://arxiv.org/abs/1809.02763)
+
+
+#### [Polar Dust, Nuclear Obscuration and IR SED Diversity in Type-1 AGNs](https://arxiv.org/abs/1809.03080)
+
+
+#### [Distance, Energy, and Variability of Quasar Outflows: Two HST/COS epochs of LBQS 1206+1052](https://arxiv.org/abs/1809.03114)
+
+
+#### [Bivariate luminosity-HI mass distribution function of galaxies based on the NIBLES survey](https://arxiv.org/abs/1809.03155)
+
+
+#### [Detection of large scale Lyα absorbers at large angles to the radio axis of high-redshift radio galaxies using SOAR](https://arxiv.org/abs/1809.03340)
+
+
+#### [The WIRCam Ultra Deep Survey (WUDS) I. Survey overview and UV luminosity functions at z~5 and z~6](https://arxiv.org/abs/1809.03373)
+
+
+#### [The turbulent pressure support in galaxy clusters revisited](https://arxiv.org/abs/1809.02690)
+
+
+#### [A New X-ray Selected Sample of Very Extended Galaxy Groups from the ROSAT All-Sky Survey](https://arxiv.org/abs/1809.02982)
