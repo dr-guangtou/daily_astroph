@@ -289,12 +289,19 @@
 ## Sep 9:
 
 #### [The Recent Growth History of the Fornax Cluster Derived from Simultaneous Sloshing and Gas Stripping: Simulating the Infall of NGC 1404](https://arxiv.org/abs/1809.02134)
+    * 模拟显示：exclude a first infall scenario of NGC 1404
 
 
 #### [Automated Distant Galaxy Merger Classifications from Space Telescope Images using the Illustris Simulation](https://arxiv.org/abs/1809.02136)
 
 
 #### [The Role of Black Hole Feedback on Size and Structural Evolution in Massive Galaxies](https://arxiv.org/abs/1809.02143)
+    - **Relevant, Important**
+    * We find that AGN feedback can alter the stellar density distribution, reduce the core density within the central 1 kpc by 0.3 dex from z = 1, and enhance the size growth of massive galaxies.
+    * AGN feedback plays an important role in transforming galaxies from blue compact galaxies into red extended galaxies in two ways: 
+        - (1) it effectively quenches the star formation, transforming blue compact galaxies into compact quiescent galaxies and 
+        - (2) it also removes and prevents new accretion of cold gas, shutting down in-situ star formation and causing subsequent mergers to be gas-poor or mixed.
+    * AGN feedback also puffs up the central region through the fast AGN driven winds as well as the slow expulsion of gas while the black hole is quiescent
 
 
 #### [Chemical Abundances in the Ultra-Faint Dwarf Galaxies Grus I and Triangulum II: Neutron-Capture Elements as a Defining Feature of the Faintest Dwarfs](https://arxiv.org/abs/1809.02182)
@@ -338,3 +345,36 @@
 
 
 #### [A New X-ray Selected Sample of Very Extended Galaxy Groups from the ROSAT All-Sky Survey](https://arxiv.org/abs/1809.02982)
+
+----
+
+## Sep 11:
+
+#### [The Cosmic Microwave Background and the Stellar Initial Mass Function](https://arxiv.org/abs/1809.03502)
+
+
+#### [Resolving CO (2-1) in z~1.6 Gas-Rich Cluster Galaxies with ALMA: Rotating Molecular Gas Disks with Possible Signatures of Gas Stripping](https://arxiv.org/abs/1809.03514)
+
+
+#### [Observational signatures of massive black hole formation in the early universe](https://arxiv.org/abs/1809.03526)
+
+
+#### [Super star cluster feedback driving ionization, shocks and outflows in the halo of the nearby starburst ESO 338-IG04](https://arxiv.org/abs/1809.03597)
+
+
+#### [Testing strong line metallicity diagnostics at z~2](https://arxiv.org/abs/1809.0612)
+
+
+#### [NuSTAR observations of heavily obscured Swift/BAT AGN: constraints on the Compton-thick AGN fraction](https://arxiv.org/abs/1809.03747)
+
+
+#### [Chemodynamics of dwarf galaxies under ram-pressure](https://arxiv.org/abs/1809.03760)
+
+
+#### [The uneven sisters I, NGC 4388 - a strongly constrained ram pressure stripping event](https://arxiv.org/abs/1809.03805)
+
+
+#### [The dependence of intrinsic alignment of galaxies on wavelength using KiDS and GAMA](https://arxiv.org/abs/1809.03602)
+
+
+#### [The Wide Integral Field Infrared Spectrograph: Commissioning Results and On-sky Performance](https://arxiv.org/abs/1809.03512)
