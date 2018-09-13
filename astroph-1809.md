@@ -378,3 +378,40 @@
 
 
 #### [The Wide Integral Field Infrared Spectrograph: Commissioning Results and On-sky Performance](https://arxiv.org/abs/1809.03512)
+
+
+----
+
+## Sep 12:
+
+#### [Modelling the mass-metallicity relation of star-forming galaxies from z ~ 3.5 to z ~ 0](https://arxiv.org/abs/1809.04079)
+
+
+#### [The MURALES survey. I. A dual AGN in the radio galaxy 3C459?](https://arxiv.org/abs/1809.04083)
+
+
+#### [Comprehensive comparison of models for spectral energy distributions from 0.1 micron to 1 mm of nearby star-forming galaxies](https://arxiv.org/abs/1809.04088)
+
+
+#### [Imaging Spectroscopy of Ionized Gaseous Nebulae around Optically Faint AGN at Redshift z ~ 2](https://arxiv.org/abs/1809.04089)
+
+
+#### [The SFR-M∗ Correlation Extends to Low Mass at High Redshift](https://arxiv.org/abs/1809.04099)
+
+
+#### [The imprint of the thick stellar disc in the mid-plane of three early-type edge-on galaxies](https://arxiv.org/abs/1809.04123)
+
+
+#### [A Malin 1 'cousin' with counter-rotation: internal dynamics and stellar content of the giant low surface brightness galaxy UGC 1922](https://arxiv.org/abs/1809.04333)
+
+
+#### [SDSS-IV MaNGA: The Formation Sequence of S0 Galaxies](https://arxiv.org/abs/1809.04336)
+
+
+#### [The PAU Survey: Early demonstration of photometric redshift performance in the COSMOS field](https://arxiv.org/abs/1809.04375)
+
+
+#### [Cross-correlating Carbon Monoxide Line-intensity Maps with Spectroscopic and Photometric Galaxy Surveys](https://arxiv.org/abs/1809.04550)
+
+
+#### [BAT AGN Spectroscopic Survey -- XII. The relation between coronal properties of Active Galactic Nuclei and the Eddington ratio](https://arxiv.org/abs/1809.04076)
