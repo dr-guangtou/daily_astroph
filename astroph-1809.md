@@ -290,9 +290,16 @@
 
 #### [The Recent Growth History of the Fornax Cluster Derived from Simultaneous Sloshing and Gas Stripping: Simulating the Infall of NGC 1404](https://arxiv.org/abs/1809.02134)
     * 模拟显示：exclude a first infall scenario of NGC 1404
+    * NGC 1404 passed by NGC 1399 about 1.1 - 1.3 Gyrs ago from the NE to the SW and is now almost at the point of its next encounter from the S.
+    * This scenario explains the sloshing patterns observed in Fornax - a prominent northern cold front and an inner southern cold front.
+    * 在星系团间的minor merger过程里，大Halo有gas sloshing，小Halo经历气体剥离
 
 
 #### [Automated Distant Galaxy Merger Classifications from Space Telescope Images using the Illustris Simulation](https://arxiv.org/abs/1809.02136)
+    - **Interesting** 
+    * 用Illustris模拟图像研究并合：Using the merger tree, we assess methods to observationally select simulated mergers with stellar mass ratios as low as 10:1 completing within 250 Myr before or after the time-step of the mock observation.
+    * 类似CAS之类的图像方法误差很大，作者用Random Forest训练
+    * We then apply these classifiers to CANDELS HST survey data, estimating a merger rate increasing to at least z = 3 and with improved statistical errors, albeit a factor of two higher than expected by theory. 
 
 
 #### [The Role of Black Hole Feedback on Size and Structural Evolution in Massive Galaxies](https://arxiv.org/abs/1809.02143)
@@ -308,6 +315,9 @@
 
 
 #### [Massive BH Binaries as Periodically-Variable AGN](https://arxiv.org/abs/1809.02138)
+    * we calculate the expected electromagnetic detection rates of MBH binaries as periodically variable AGN.
+    * 考虑了: (i) Doppler boosting due to large orbital velocities, and (ii) hydrodynamic variability in which the fueling of MBH accretion disks is periodically modulated by the companion.
+    * Our models predict that numerous MBH binaries should be present and distinguishable in the existing data: 20 and 100 are expected after five years of LSST observations.
 
 
 #### [The first tidal disruption flare in ZTF: from photometric selection to multi-wavelength characterization](https://arxiv.org/abs/1809.02608)
@@ -415,3 +425,40 @@
 
 
 #### [BAT AGN Spectroscopic Survey -- XII. The relation between coronal properties of Active Galactic Nuclei and the Eddington ratio](https://arxiv.org/abs/1809.04076)
+
+
+#### [BAT AGN Spectroscopic Survey -- XII. The relation between coronal properties of Active Galactic Nuclei and the Eddington ratio](https://arxiv.org/abs/1809.04076)
+
+
+----
+
+## Sep 13:
+
+#### [Neutron Star Mergers Are the Dominant Source of the r-process in the Early Evolution of Dwarf Galaxies](https://arxiv.org/abs/1809.04597)
+
+
+#### [The impact of the metallicity and star formation rate on the time-dependent galaxy-wide stellar initial mass function](https://arxiv.org/abs/1809.04603)
+
+
+#### [Constraining Sub-Parsec Binary Supermassive Black Holes in Quasars with Multi-Epoch Spectroscopy. III. Candidates from Continued Radial Velocity Tests](https://arxiv.org/abs/1809.04610)
+
+
+#### [Probing the environment of high-z quasars using the proximity effect in projected quasar pairs](https://arxiv.org/abs/1809.04614)
+
+
+#### [The Three Hundred project: a large catalogue of theoretically modelled galaxy clusters for cosmological and astrophysical applications](https://arxiv.org/abs/1809.04622)
+
+
+#### [Molecular gas and Star Formation Properties in Early Stage Mergers: SMA CO(2-1) Observations of the LIRGs NGC 3110 and NGC 232](https://arxiv.org/abs/1809.04788)
+
+
+#### [Morphology rather than environment drives the SFR-Mass relation in the local universe](https://arxiv.org/abs/1809.04806)
+
+
+#### [SUPER I. Toward an unbiased study of ionized outflows in z~2 active galactic nuclei: survey overview and sample characterization](https://arxiv.org/abs/1809.04858)
+
+
+#### [Dark Energy Survey Year 1 Results: The effect of intra-cluster light on photometric redshifts for weak gravitational lensing](https://arxiv.org/abs/1809.04599)
+
+
+#### [Bayesian sparse reconstruction: a brute-force approach to astronomical imaging and machine learning](https://arxiv.org/abs/1809.04598)
