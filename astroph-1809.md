@@ -296,22 +296,27 @@
 
 
 #### [Automated Distant Galaxy Merger Classifications from Space Telescope Images using the Illustris Simulation](https://arxiv.org/abs/1809.02136)
-    - **Interesting** 
+    - **Interesting**
     * 用Illustris模拟图像研究并合：Using the merger tree, we assess methods to observationally select simulated mergers with stellar mass ratios as low as 10:1 completing within 250 Myr before or after the time-step of the mock observation.
     * 类似CAS之类的图像方法误差很大，作者用Random Forest训练
-    * We then apply these classifiers to CANDELS HST survey data, estimating a merger rate increasing to at least z = 3 and with improved statistical errors, albeit a factor of two higher than expected by theory. 
+    * We then apply these classifiers to CANDELS HST survey data, estimating a merger rate increasing to at least z = 3 and with improved statistical errors, albeit a factor of two higher than expected by theory.
 
 
 #### [The Role of Black Hole Feedback on Size and Structural Evolution in Massive Galaxies](https://arxiv.org/abs/1809.02143)
     - **Relevant, Important**
     * We find that AGN feedback can alter the stellar density distribution, reduce the core density within the central 1 kpc by 0.3 dex from z = 1, and enhance the size growth of massive galaxies.
-    * AGN feedback plays an important role in transforming galaxies from blue compact galaxies into red extended galaxies in two ways: 
-        - (1) it effectively quenches the star formation, transforming blue compact galaxies into compact quiescent galaxies and 
+    * AGN feedback plays an important role in transforming galaxies from blue compact galaxies into red extended galaxies in two ways:
+        - (1) it effectively quenches the star formation, transforming blue compact galaxies into compact quiescent galaxies and
         - (2) it also removes and prevents new accretion of cold gas, shutting down in-situ star formation and causing subsequent mergers to be gas-poor or mixed.
     * AGN feedback also puffs up the central region through the fast AGN driven winds as well as the slow expulsion of gas while the black hole is quiescent
 
 
 #### [Chemical Abundances in the Ultra-Faint Dwarf Galaxies Grus I and Triangulum II: Neutron-Capture Elements as a Defining Feature of the Faintest Dwarfs](https://arxiv.org/abs/1809.02182)
+    * We verify previous results that Tri II displays significant spreads in metallicity and [α/Fe]. Neutron-capture elements are not detected in our Tri II data, but we place upper limits at the lower envelope of Galactic halo stars
+    * 球状星团中的中子捕获元素丰度和Halo star类似；而UDF中很多恒星都缺乏中子捕获元素，说明极低的恒星形成效率的Halo中的元素增丰过程不同
+    * The nucleosynthetic origin of this low neutron-capture element floor remains unknown.
+        - 中子捕获元素： e.g. Sr, Ba, Eu
+        - Some UFDs (Reticulum II and Tucana III) have extremely high abundances of neutron- capture elements synthesized in the r-process (Ji et al. 2016a; Roederer et al. 2016; Hansen et al. 2017).
 
 
 #### [Massive BH Binaries as Periodically-Variable AGN](https://arxiv.org/abs/1809.02138)
@@ -321,6 +326,10 @@
 
 
 #### [The first tidal disruption flare in ZTF: from photometric selection to multi-wavelength characterization](https://arxiv.org/abs/1809.02608)
+    * The ZTF light curve of the TDE samples the rise-to-peak exceptionally well, with 50 days of g and r-band detections before the time of maximum light.
+    * 有X-ray detection和Radio上限：The X-ray emission shows a thermal spectrum (kT ≈ 100 eV) and is two orders of magnitude fainter than the contemporaneous optical/UV blackbody luminosity.
+        - The observed blackbody radii of known TDEs (Gezari et al. 2009) suggest the soft X-ray photons of these flares originate from the inner part of a newly-formed accretion disk; 光学光子产生的半径要大得多
+        * 光学和X-ray辐射多样：optical emission is powered by shocks from intersecting stellar debris streams (Piran et al. 2015) and the X-ray photons are produced when parts of the stream get deflected towards a few gravitational radii and accreted (Shiokawa et al. 2015; Krolik et al. 2016)
 
 
 ----
@@ -328,21 +337,41 @@
 ## Sep 10:
 
 #### [Massive Star cluster formation under the microscope at z=6](https://arxiv.org/abs/1809.02617)
+    * A superdense star-forming region with an effective radius (Re) smaller than 13 pc identified at z=6.143 and showing a star-formation rate density of 1000 Msun/yr/kpc^2.
+    * D1 is magnified by a factor 17.4(±5.0) behind the Hubble Frontier Field galaxy cluster MACS J0416 and elongated tangentially by a factor 13.2 ± 4.0 (including the systematic errors).
+    * This compact system fits into some popular globular cluster formation scenarios.
 
 
 #### [GASP. XII. The variety of physical processes occurring in a single galaxy group in formation](https://arxiv.org/abs/1809.02668)
+    * We present the study of four galaxies that are part of the same group (z = 0.06359) and highlight the multitude of mechanisms affecting the spatially resolved properties of the group members.
+    * Ram pressure stripping in group? :  Finally, the fourth galaxy is a spiral with a truncated ionised gas disk and an undisturbed stellar kinematics. An analytical model of the galaxy’s restoring pressure, and its location and velocity within the cluster, suggest ram pressure is the most likely physical mechanism in action.
 
 
 #### [YZiCS: Preprocessing of dark halos in the hydrodynamic zoom-in simulation of clusters](https://arxiv.org/abs/1809.02763)
+    - **Relevant**
+    * YZiCS, a hydrodynamic high-resolution zoom-in simulation of 15 clusters
+    * We find ∼ 48% of today’s cluster members were once satellites of other hosts.
+    * the preprocessed fraction is poorly correlated with cluster mass and is instead related to each cluster’s recent mass growth rate. 比Group要小的host halo的贡献也很多, 1/3
+    * visibly disturbed cluster members are more likely to have experienced preprocessing. Being hosted before cluster infall enables cluster members to experience tidal stripping for extended durations compared to direct cluster infall and at earlier epochs when hosts were more destructive.
+        - "Backsplash"星系让星系团对星系影响的估计变得困难，容易和新infall的星系混淆，让人误以为星系团的影响很高效，或者preprocessing很重要
 
 
 #### [Polar Dust, Nuclear Obscuration and IR SED Diversity in Type-1 AGNs](https://arxiv.org/abs/1809.03080)
+    - **吕建伟**
+    * we develop semi-empirical SED libraries for reddened type-1 AGNs built on the quasar intrinsic templates, assuming low-level extinction caused by an extended distribution of large dust grains.
+    * we compile 64 low-z Seyfert-1 nuclei with negligible mid-IR star formation contamination and satisfactorily fit the individual IR SEDs as well as the composite UV to mid-IR composite SEDs.
+    * The SEDs of high-z peculiar AGNs, including the extremely red quasars, mid-IR warm-excess AGNs, and hot dust-obscured galaxies, can be also reproduced by our model.
+    * The IR SEDs of most AGNs, regardless of redshift or luminosity, arise from similar circumnuclear torus properties but differ mainly due to the optical depths of extended obscuring dust components.
 
 
 #### [Distance, Energy, and Variability of Quasar Outflows: Two HST/COS epochs of LBQS 1206+1052](https://arxiv.org/abs/1809.03114)
+    * These data cover, for the first time, absorption troughs from S iv, Si ii, and P v. 可以估计高速外流的电子密度
+    * We find that the previous measurement was unreliable since it was based on density-sensitive absorption troughs that were likely saturated.
 
 
 #### [Bivariate luminosity-HI mass distribution function of galaxies based on the NIBLES survey](https://arxiv.org/abs/1809.03155)
+    * Optical luminosity-Hi mass bivariate luminosity function (BLF) based on Hi line observations from the Nançay Interstellar Baryons Legacy Extragalactic Survey (NIBLES).
+    * Spanning the entire luminosity range of NIBLES, we identify a highly consistent distribution of the Hi gas mass to luminosity ratio (gas-to-light ratio) with a predictable progression in the mean MHI/Lr ratio as a function of Lr.
 
 
 #### [Detection of large scale Lyα absorbers at large angles to the radio axis of high-redshift radio galaxies using SOAR](https://arxiv.org/abs/1809.03340)
@@ -352,9 +381,15 @@
 
 
 #### [The turbulent pressure support in galaxy clusters revisited](https://arxiv.org/abs/1809.02690)
+    * 模拟：Itasca Simulated Cluster sample； 利用AMR code ENZO
+    * While the ubiquitous presence of radial inflows in the cluster can lead to significant bias in the estimate of the non-thermal pressure support, we report that only a part of this energy effectively acts as a source of pressure, providing a support of the order of ∼ 10% of the total pressure at R200.
+        - The Hitomi satellite managed to detect root- mean square velocities in the (fairly relaxed) Perseus cluster of ∼ 200 km/s on ~60 kpc (e.g. Hitomi Collaboration et al. 2016; ZuHone et al. 2018).
 
 
 #### [A New X-ray Selected Sample of Very Extended Galaxy Groups from the ROSAT All-Sky Survey](https://arxiv.org/abs/1809.02982)
+    - **Interesting**
+    * We aim to determine if a hypothetical class of very extended, low surface brightness, galaxy groups or clusters have been missed in previous X-ray cluster surveys based on the ROSAT All-Sky Survey (RASS).
+    * We found many known but also a number of new group candidates, which are not included in any previous X-ray or SZ cluster catalogs: 13 groups exhibit flatter surface brightness distributions than usual.
 
 ----
 
