@@ -375,9 +375,15 @@
 
 
 #### [Detection of large scale Lyα absorbers at large angles to the radio axis of high-redshift radio galaxies using SOAR](https://arxiv.org/abs/1809.03340)
+    * 在Off radio axis的方向上研究高红移射电星系周围的吸收气体：Spatially extended Lyα emission is detected with large line widths (FWHM = 1000 – 2500 km s−1), which although impacted by resonant scattering, is suggestive of turbulent motion
+    * We find a correlation between higher blueshifts and higher FWHM, which is an indication that radial motion dominates the bulk gas dynamics perpendicular to the radio axis 
+    * Extended, blueshifted Lyα absorption is detected in the direction perpendicular to the radio axis in three radio galaxies with minimum spatial extents ranging from ∼> 27 kpc to ∼> 35 kpc, supporting the idea that the absorbing structure covers the entire Lyα halo, consistent with being part of a giant, expanding shell of gas enveloping the galaxy and its (detected) gaseous halo.
 
 
 #### [The WIRCam Ultra Deep Survey (WUDS) I. Survey overview and UV luminosity functions at z~5 and z~6](https://arxiv.org/abs/1809.03373)
+    * WUDS includes four near-IR bands (Y, J, H and Ks) over a field of view of ∼400 arcmin2. The typical depth of WUDS data reaches between ∼26.8 in Y and J, and ∼26 in H and Ks (AB, 3σ in 1.3′′aperture),
+    * Our results on the luminosity function are consistent with a small evolution of both M⋆ and Φ⋆ between z=5 and z=6, irrespective of the method used to derive them, either photometric redshifts applied to blindly-selected dropout sample
+    * WUDS is intended to provide a robust database in the near-IR for the selection of targets for detailed spectroscopic studies, in particular for the EMIR/GTC GOYA Survey.
 
 
 #### [The turbulent pressure support in galaxy clusters revisited](https://arxiv.org/abs/1809.02690)
@@ -396,33 +402,61 @@
 ## Sep 11:
 
 #### [The Cosmic Microwave Background and the Stellar Initial Mass Function](https://arxiv.org/abs/1809.03502)
+    - **Interesting**
+    * We argue that an increased temperature in star-forming clouds alters the stellar initial mass function to be more bottom-light than in the Milky Way. At redshifts z 􏰅 6, heating from the cosmic microwave background radiation produces this effect in all galaxies
+    * A failure to account for it means that at present, photometric template fitting likely overestimates stellar masses and star formation rates for the highest-redshift and highest-SFR galaxies.
 
 
 #### [Resolving CO (2-1) in z~1.6 Gas-Rich Cluster Galaxies with ALMA: Rotating Molecular Gas Disks with Possible Signatures of Gas Stripping](https://arxiv.org/abs/1809.03514)
+    * We present the first spatially-resolved observations of molecular gas in a sample of cluster galaxies beyond z=1.0
+    * SpARCS-J0225: Mapping out the kinematic structure and morphology of the molecular gas on ∼3.5 kiloparsec scales reveals rotating gas disks in the majority of the galaxies, as evidenced by smooth velocity gradients. 
+    * We find that the cluster galaxies, while broadly consistent with a ratio of unity for stellar-to-gas effective radii, have a moderately larger ratio compared to the coeval field; this is consistent with the more pronounced trend in the low- redshift Universe. 团星系里的气体盘更truncated ? 
 
 
 #### [Observational signatures of massive black hole formation in the early universe](https://arxiv.org/abs/1809.03526)
+    * We study a simulation of a nascent massive, so-called direct-collapse, black hole that induces a wave of nearby massive metal-free star formation, unique to this seeding scenario and to very high redshifts.
+    * We find a series of distinct colors and emission line strengths, dependent on the relative strength of star formation and black hole accretion 可以用JWST观测
+    * We also find that a massive seed black hole produces strong, H2-dissociating Lyman-Werner radiation.
+    * 用ENZO做的数值模拟; we stage a radiative transfer post-processing analysis using the CAIUS pipeline
 
 
 #### [Super star cluster feedback driving ionization, shocks and outflows in the halo of the nearby starburst ESO 338-IG04](https://arxiv.org/abs/1809.03597)
+    * MUSE观测：ESO 338-IG04 has a large ionized halo which we detect to a distance of 9 kpc. We identify 4 Wolf-Rayet (WR) clusters based on the blue and red WR bump.
+    * Analysis of the galaxy kinematics shows two complex outflows driven by the numerous young clusters in the galaxy
 
 
 #### [Testing strong line metallicity diagnostics at z~2](https://arxiv.org/abs/1809.0612)
+    * We test commonly used strong line diagnostics (R23, O3, O2, O32, N2, O3N2 and Ne3O2) as prescribed by four different sets of empirical calibrations, as well as one fully theoretical calibration, on high-z SF galaxies whose gas-phase metallicity can be determined using auroral lines.
+    * Amongst the line ratios tested, R23 and O3 deliver the best results, with accuracies as good as 0.01-0.04 dex and dispersions of ∼0.2 dex in two of the calibrations tested. 
+    * N2对N/O比值和电离参数敏感，电离参数有明显的红移演化
 
 
 #### [NuSTAR observations of heavily obscured Swift/BAT AGN: constraints on the Compton-thick AGN fraction](https://arxiv.org/abs/1809.03747)
+    * we analyse the spectra of 19 Compton-thick AGN which have been detected with Swift/BAT and have been subsequently observed with NuSTAR in the 3-80 keV band. 可以帮助估计观测到的CT-AGN是实际population的多大比例
+    * We analyse their X-ray spectra using the MYTORUS models of Murphy and Yaqoob which properly take into account the Compton scattering effects. 
+    * Furthermore, we find that the majority of our AGN lacks a strong reflection component in the 20-40 keV band placing tighter constraints on the intrinsic Compton-thick AGN fraction. 近邻宇宙里CT-AGN占Type-II AGN的20%左右
 
 
 #### [Chemodynamics of dwarf galaxies under ram-pressure](https://arxiv.org/abs/1809.03760)
+    * 看ram pressure and tidal forces如何影响dwarf星系内的金属丰度分布
+    * We find that while ram pressure and tidal forces have some effect on dwarf galaxy outflows, these effects do not produce large differences in the metal distributions of the dwarf disks other than truncation in the outer regions in some cases
 
 
 #### [The uneven sisters I, NGC 4388 - a strongly constrained ram pressure stripping event](https://arxiv.org/abs/1809.03805)
+    * We made dynamical simulations of the ram pressure stripping event to investigate the influence of galactic structure on the observed properties of NGC 4388. 
+    * The observed asymmetries in the disk of NGC 4388 are not caused by the present action of ram pressure, but by the resettling of gas that has been pushed out of the galactic disk during the ram pressure stripping event
 
 
 #### [The dependence of intrinsic alignment of galaxies on wavelength using KiDS and GAMA](https://arxiv.org/abs/1809.03602)
+    - **Interesting**
+    * To quantify this, we measured the shapes of galaxies with spectroscopic redshifts from the GAMA survey using deep gri imaging data from the KiloDegree Survey. The performance of the moment-based shape measurement algorithm DEIMOS was assessed using dedicated image simulations
+    * We measure a significant difference of the alignment signal between the g, r and i-band observations. This difference exceeds the amplitude of the linear alignment model on scales below 2 Mpc/h. Separating the sample into central/satellite and red/blue galaxies, we find that that the difference is dominated by red satellite galaxies.
 
 
 #### [The Wide Integral Field Infrared Spectrograph: Commissioning Results and On-sky Performance](https://arxiv.org/abs/1809.03512)
+    * (0.9 − 1.7 μm) integral field spectrograph (IFS) called the Wide Integral Field Infrared Spectrograph (WIFIS). WIFIS is a unique instrument that offers a very large field-of-view (50′′ x 20′′)
+    * The measured spatial sampling scale is ∼ 1 × 1′′ and its spectral resolving power is R ∼ 2, 500 and 3, 000 in the zJ (0.9 − 1.35 μm) and Hshort (1.5 − 1.7 μm) modes 
+    * WIFIS is also designed to be easily adaptable to be used with larger telescopes.
 
 
 ----
@@ -460,9 +494,7 @@
 
 
 #### [BAT AGN Spectroscopic Survey -- XII. The relation between coronal properties of Active Galactic Nuclei and the Eddington ratio](https://arxiv.org/abs/1809.04076)
-
-
-#### [BAT AGN Spectroscopic Survey -- XII. The relation between coronal properties of Active Galactic Nuclei and the Eddington ratio](https://arxiv.org/abs/1809.04076)
+    * The cutoff energy (EC) of the primary X-ray continuum emission carries important information on the physical characteristics of the X-ray emitting plasma, but little is currently known about its potential relation with the properties of accreting SMBHs
 
 
 ----
@@ -497,3 +529,38 @@
 
 
 #### [Bayesian sparse reconstruction: a brute-force approach to astronomical imaging and machine learning](https://arxiv.org/abs/1809.04598)
+
+
+----
+
+## Sep 16:
+
+#### [The Supersonic Project: rotational effects of supersonic motions on the first structures in the Universe](https://arxiv.org/abs/1809.05097)
+
+
+#### [The faint end of the Centaurus A satellite luminosity function](https://arxiv.org/abs/1809.05103)
+
+
+#### [The Lick AGN Monitoring Project 2011: Dynamical Modeling of the Broad-Line Region](https://arxiv.org/abs/1809.05113)
+
+
+#### [A Comparison of Stellar and Gas-Phase Chemical Abundances in Dusty Early-Type Galaxies](https://arxiv.org/abs/1809.05114)
+
+
+#### [Characterizing Circumgalactic Gas around Massive Ellipticals at z~0.4 - II. Physical Properties and Elemental Abundances](https://arxiv.org/abs/1809.05115)
+
+
+#### [The structure of large-scale stellar disks in cluster lenticular galaxies](https://arxiv.org/abs/1809.05202)
+
+
+#### [The Three Hundred Project: The influence of environment on simulated galaxy properties](https://arxiv.org/abs/1809.05244)
+
+
+#### [The Gaseous Environments of Quasars: Associate Absorption Lines with Density and Distance Constraints](https://arxiv.org/abs/1809.05433)
+
+
+#### [Modeling Photoionized Turbulent Material in the Circumgalactic Medium](https://arxiv.org/abs/1809.05505)
+
+
+#### [A sample of 1959 massive galaxy clusters at high redshifts](https://arxiv.org/abs/1809.05223)
+
