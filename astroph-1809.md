@@ -635,3 +635,31 @@
 
 
 #### [Evolution of quasar stochastic variability along its main sequence](https://arxiv.org/abs/1809.05655)
+
+
+----
+
+## Sep 18:
+
+#### [A Closer look at Bursty Star Formation with LHα and LUV Distributions](https://arxiv.org/abs/1809.06380)
+
+
+#### [The Widespread Presence of Nanometer-size Dust Grains in the Interstellar Medium of Galaxies](https://arxiv.org/abs/1809.06552)
+
+
+#### [The Close AGN Reference Survey (CARS): SOFIA detects spatially-resolved [CII] emission in the luminous AGN HE0433-1028](https://arxiv.org/abs/1809.06808)
+
+
+#### [High Confidence Optical Confirmation of High Signal-to-Noise Planck Cluster Candidates](https://arxiv.org/abs/1809.06378)
+
+
+#### [The Carnegie Supernova Project: Absolute Calibration and the Hubble Constant](https://arxiv.org/abs/1809.06381)
+
+
+#### [The Effect of Assembly Bias on Redshift Space Distortions](https://arxiv.org/abs/1809.06424)
+
+
+#### [The Massive and Distant Clusters of WISE Survey. I: Survey Overview and a Catalog of >2000 Galaxy Clusters at z~1](https://arxiv.org/abs/1809.06820)
+
+
+#### [Discovery of large scale shock fronts correlated with the radio halo and radio relic in the A2163 galaxy cluster](https://arxiv.org/abs/1809.06820)
