@@ -663,3 +663,25 @@
 
 
 #### [Discovery of large scale shock fronts correlated with the radio halo and radio relic in the A2163 galaxy cluster](https://arxiv.org/abs/1809.06820)
+
+
+----
+
+## Sep 19:
+
+#### [Revisiting galaxy rotation curves using a non-parametric regression method](https://arxiv.org/abs/1809.06875)
+
+
+#### [Two sub-millimetre bright protoclusters bounding the epoch of peak star formation activity](https://arxiv.org/abs/1809.06882)
+
+
+#### [Probing Cosmic Dawn: Modelling the Assembly History, SEDs, and Dust Content of Selected z∼9 Galaxies](https://arxiv.org/abs/1809.07210)
+
+
+#### [Shape of Dark Matter Haloes in the Illustris Simulation: Effects of Baryons](https://arxiv.org/abs/1809.07255)
+
+
+#### [Revealing reionization with the thermal history of the intergalactic medium: new constraints from the Lyman-α flux power spectrum](https://arxiv.org/abs/1809.06980)
+
+
+#### [Resolving the X-ray obscuration in a low flux observation of the quasar PDS 456](https://arxiv.org/abs/1809.07164)
