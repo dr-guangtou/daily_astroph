@@ -685,3 +685,40 @@
 
 
 #### [Resolving the X-ray obscuration in a low flux observation of the quasar PDS 456](https://arxiv.org/abs/1809.07164)
+
+
+----
+
+## Sep 20:
+
+#### [JINGLE, a JCMT legacy survey of dust and gas for galaxy evolution studies: I. Survey overview and first results](https://arxiv.org/abs/1809.07336)
+
+
+#### [SDSS J0909+4449: A Large-separation Strongly Lensed Quasar at z∼2.8 with Three Images](https://arxiv.org/abs/1809.07337)
+
+
+#### [A novel 3D technique to study the kinematics of lensed galaxies](https://arxiv.org/abs/1809.07340)
+
+
+#### [Survey of Gravitationally-lensed Objects in HSC Imaging (SuGOHI). II. Environments and Line-of-Sight Structure of Strong Gravitational Lens Galaxies to z ~ 0.8](https://arxiv.org/abs/1809.07341)
+
+
+#### [Direct Measurement of Quasar Outflow Wind Acceleration](https://arxiv.org/abs/1809.07476)
+
+
+#### [The bright-end galaxy candidates at z ~ 9 from 79 independent HST fields](https://arxiv.org/abs/1809.07604)
+
+
+#### [The WAGGS project - II. The reliability of the calcium triplet as a metallicity indicator in integrated stellar light](https://arxiv.org/abs/1809.07650)
+
+
+#### [Slow-then-rapid quenching as traced by enhanced metallicities of cluster galaxies at z~0.2 in the slow quenching phase](https://arxiv.org/abs/1809.07675)
+
+
+#### [The properties of the kinematically distinct components in NGC 448 and NGC 4365](https://arxiv.org/abs/1809.07758)
+
+
+#### [An accurate physical model for halo concentrations](https://arxiv.org/abs/1809.07758)
+
+
+#### [Correcting for Fibre Assignment Incompleteness in the DESI Bright Galaxy Survey](https://arxiv.org/abs/1809.07355)
