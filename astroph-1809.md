@@ -716,9 +716,64 @@
 
 
 #### [The properties of the kinematically distinct components in NGC 448 and NGC 4365](https://arxiv.org/abs/1809.07758)
+    * Kinematic decomposition technique to separate the individual contributions to the spectra of the two distinct kinematic components observed at each spatial position in the field of view.
 
 
 #### [An accurate physical model for halo concentrations](https://arxiv.org/abs/1809.07758)
 
 
 #### [Correcting for Fibre Assignment Incompleteness in the DESI Bright Galaxy Survey](https://arxiv.org/abs/1809.07355)
+
+
+----
+
+## Sep 23:
+
+#### [The morphology and structure of stellar populations in the Fornax dwarf spheroidal galaxy from Dark Energy Survey Data](https://arxiv.org/abs/1809.07801)
+
+
+#### [Variations on a theme of AGN-driven outflows: luminosity evolution and ambient density distribution](https://arxiv.org/abs/1809.07804)
+
+
+#### [Extending the Globular Cluster System-Halo Mass Relation to the Lowest Galaxy Masses](https://arxiv.org/abs/1809.07831)
+
+
+#### [A direct test of density wave theory in grand-design spiral galaxies](https://arxiv.org/abs/1809.08048)
+
+
+#### [A study of X-ray emission of galaxies hosting molecular outflows (MOX sample)](https://arxiv.org/abs/1809.07906)
+
+
+
+----
+
+## Sep 24:
+
+#### [The Large Early Galaxy Astrophysics Census (LEGA-C) Data Release II: dynamical and stellar population properties of z ~< 1 galaxies in the COSMOS field](https://arxiv.org/abs/1809.08236)
+
+
+#### [The optical morphologies of galaxies in the IllustrisTNG simulation: a comparison to Pan-STARRS observations](https://arxiv.org/abs/1809.08239)
+
+
+#### [X-UDS: The Chandra Legacy Survey of the UKIDSS Ultra Deep Survey Field](https://arxiv.org/abs/1809.08240)
+
+
+#### [Wide-Field Optical Spectroscopy of Abell 133: A Search for Filaments Reported in X-ray Observations](https://arxiv.org/abs/1809.08241)
+
+
+#### [Highly accreting quasars: The SDSS low-redshift catalog](https://arxiv.org/abs/1809.08310)
+
+
+#### [Candidate List of Edge-on Galaxies with Substantial Extraplanar Dust](https://arxiv.org/abs/1809.08392)
+
+
+#### [ALMA resolves the stellar birth explosion in distant quasar 3C298](https://arxiv.org/abs/1809.08432)
+
+
+#### [MAHALO Deep Cluster Survey II. Characterizing massive forming galaxies in the Spiderweb protocluster at z=2.2](https://arxiv.org/abs/1809.08755)
+
+
+#### [The curious case of the companion: evidence for cold accretion onto a dwarf satellite near the isolated elliptical NGC 7796](https://arxiv.org/abs/1809.08964)
+
+
+#### [Inferring the astrophysics of reionization and cosmic dawn from galaxy luminosity functions and the 21-cm signal](https://arxiv.org/abs/1809.08995)
