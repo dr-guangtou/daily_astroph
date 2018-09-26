@@ -777,3 +777,37 @@
 
 
 #### [Inferring the astrophysics of reionization and cosmic dawn from galaxy luminosity functions and the 21-cm signal](https://arxiv.org/abs/1809.08995)
+
+
+----
+
+## Sep 25:
+
+#### [Quantifying Feedback from Narrow Line Region Outflows in Nearby Active Galaxies. II. Spatially Resolved Mass Outflow Rates for the QSO2 Markarian 34](https://arxiv.org/abs/1809.09105)
+
+
+#### [Unique Tracks Drive the Scatter of the Spatially-Resolved Star Formation Main Sequence](https://arxiv.org/abs/1809.09111)
+
+
+#### [Emission line ratios for the Circumgalactic Medium and the "Bimodal" Nature of Galaxies](https://arxiv.org/abs/1809.09113)
+
+
+#### [The failure of stellar feedback, magnetic fields, conduction, and morphological quenching in maintaining red galaxies](https://arxiv.org/abs/1809.09120)
+
+
+#### [A High Signal-to-Noise HST Spectrum Toward J1009+0713: Precise Absorption Measurements in the CGM of Two Galaxies](https://arxiv.org/abs/1809.09122)
+
+
+#### [Circumnuclear Multi-phase Gas in the Circinus Galaxy II: The Molecular and Atomic Obscuring Structures Revealed with ALMA](https://arxiv.org/abs/1809.09154)
+
+
+#### [The POlarised GLEAM Survey (POGS) I: First Results from a Low-Frequency Radio Linear Polarisation Survey of the Southern Sky](https://arxiv.org/abs/1809.09327)
+
+
+#### [Constraining cluster masses from the stacked phase space distribution at large radii](https://arxiv.org/abs/1809.09366)
+
+
+#### [Massive galaxies on the road to quenching: ALMA observations of powerful high redshift radio galaxies](https://arxiv.org/abs/1809.09427)
+
+
+#### [A Detailed Study of the Most Relaxed SPT-Selected Galaxy Clusters: Cool Core and Central Galaxy Properties](https://arxiv.org/abs/1809.09104)
