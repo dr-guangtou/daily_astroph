@@ -818,24 +818,47 @@
 ## Sep 26:
 
 #### [Resolving Star Formation on Sub-Kiloparsec Scales in the High-Redshift Galaxy SDP.11 Using Gravitational Lensing](https://arxiv.org/abs/1809.09630)
+    * We report detections of the [Oiii] 52 μm, [Niii] 57 μm, and [Oi] 63 μm lines from Herschel/PACS, and present high-resolution imaging of the [C ii] 158 μm line, and underlying continuum, using ALMA.
+    * The values seen in the [Cii]/FIR ratio map, as low as ∼ 0.02% at the peak of the dust continuum, are similar to those of local ULIRGs, suggesting an intense starburst in this source. 
+    * Differential lensing: we find that the lensing magnification factor varies by a factor of two across SDP.11, affecting the observed line profiles.
+    * After correcting for the effects of differential lensing, a symmetric line profile is recovered, suggesting that the starburst present here may not be the result of a major merger, as is the case for local ULIRGs, but instead could be powered by star-formation activity spread across a 3-5 kpc rotating disk.
 
 
 #### [MMT/MMIRS spectroscopy of z=1.3−2.4 extreme [OIII] emitters: Implications for galaxies in the reionization-era](https://arxiv.org/abs/1809.09637)
+    * This sample complements the MOSDEF and KBSS surveys, extending to much lower stellar masses and larger specific star formation rates
+    * We probe the impact of the intense radiation field on the ISM using O32 and Ne3O2, two ionization-sensitive indices. Both are found to scale with the [O III] EW, revealing extreme ionization conditions not commonly seen in older and more massive galaxies 
 
 
 #### [Extreme circumgalactic HI and CIII absorption around the most massive, quenched galaxies](https://arxiv.org/abs/1809.09777)
+    - **Interesting**
+    * Detections of strong and extended metal (C III 977) and H I lines in the CGM of two LRGs.
+    * The C III lines have equivalent widths of ∼1.8 AA and ∼1.2 AA, and velocity spreads of ∼ 796 kms−1 and ∼ 1245 kms−1, exceeding all such measurements from local ∼ L∗ galaxies
+    * Possible scenarios to explain our observations include that the LRGs CGM originate from past activity (e.g., star formation or active galactic nuclei driven outflows) or from the CGM of galaxies in overlapping subhalos
 
 
 #### [Galaxy mergers up to z<2.5 I : The star formation properties of merging galaxies at separations 3-15 kpc](https://arxiv.org/abs/1809.09796)
+    * We compare the star formation activity in merging and non-merging galaxies and find no significant differences. We find that only 12% of the galaxies in major mergers (in which both galaxies have log (M⋆/M⊙) ≥ 10) are star-bursting 
+    * The low fraction of star-bursting merging galaxies in this sample suggests that at galaxy nuclei separations of 3-15 kpc merging galaxies are still in a early stage and are yet to reach the maximum level of star formation activity.
 
 
 #### [Unveiling the environment and faint features of the isolated galaxy CIG 96 with deep optical and HI observations](https://arxiv.org/abs/1809.09949)
+    * The AMIGA project has demonstrated that isolated galaxies show the lowest level of asymmetry in their HI integrated profiles compared to even field galaxies, yet some present significant asymmetries. CIG 96 (NGC 864) is a representative case reaching a 16% level.
+    * We confirm that the HI of CIG 96 extends farther than 4× r25 in all directions. Furthermore, we detect for the first time two gaseous structures (∼106 M⊙) in the outskirts.
+    * The isolation criteria rule out interactions with other similar-sized galaxies for at least ∼2.7 Gyr. Using existing stellar evolution models, the age of the pseudo-ring is estimated at 1 Gyr or older. Undetected previously accreted companions and cold gas accretion remain as the main hypothesis to explain the optical pseudo-ring and HI features of CIG 96.
 
 
 #### [Mapping Lyman Continuum escape in Tololo 1247-232](https://arxiv.org/abs/1809.10104)
+    * We perform ionization parameter mapping (IPM) using [O III]λλ4959,5007 and [O II]λ3727 imaging as the high- and low-ionization tracers, revealing broad, large-scale, optically thin regions originating from the center, and reaching the outskirts of the galaxy, consistent with LyC escape.
+    * A two-stage starburst has taken place in this galaxy, with a 12 Myr old, massive, central cluster likely having pre-cleared regions in and around the center, and the second generation of 2 − 4 Myr old clusters dominating the current ionization, including some escape from the galaxy.
 
 
 #### [PAHs and star formation in the HII regions of nearby galaxies M83 and M33](https://arxiv.org/abs/1809.10136)
+    * the M33 and M83 H ii regions lie in between Seyfert/LINER galaxies and H ii-type galaxies in the 7.7/11.3 – 6.2/11.3 plane
+    * Using the NASA Ames PAH IR Spectroscopic database, we demonstrate that the 6.2/7.7 ratio does not effectively track PAH size, but the 11.3/3.3 PAH ratio does
+    * the PAH/VSG intensity ratio decreases with the hardness of the radiation field and galactocentric radius (Rg), yet the ionization alone cannot account for the variation seen in all of our sources
 
 
 #### [Weak lensing constraints on splashback around massive clusters](https://arxiv.org/abs/1809.10045)
+    - **Relevant**
+    * we measure the splashback feature in the stacked weak gravitational lensing signal of 27 massive clusters from the Cluster Canadian Comparison Project with a careful control of residual systematics effects.
+    * We find that the shear introduced by the presence of additional structure along the line of sight significantly affects the noise at large clustercentric distances. 
