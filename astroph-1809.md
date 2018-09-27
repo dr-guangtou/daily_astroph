@@ -784,33 +784,61 @@
 ## Sep 25:
 
 #### [Quantifying Feedback from Narrow Line Region Outflows in Nearby Active Galaxies. II. Spatially Resolved Mass Outflow Rates for the QSO2 Markarian 34](https://arxiv.org/abs/1809.09105)
+    * Mrk34: 距离我们最近的Compton-Thick Type-2 QSO: complex kinematics, with distinct signatures of outflow and rotation within 2 kpc of the nucleus.
+    * 有很强的外流：The mix of rotational and outflowing components suggests that spatially resolved observations are required to determine accurate outflow parameters in systems with complex kinematics.
 
 
 #### [Unique Tracks Drive the Scatter of the Spatially-Resolved Star Formation Main Sequence](https://arxiv.org/abs/1809.09111)
+    * The various SFR estimates show intrinsic differences and produce noticeable vertical shifts in the SFMS, depending on the timescales and physics encompassed by the corresponding tracer.
+    * We also examine the various sources of scatter in the spatially resolved SFMS and find morphology does not play a significant role.
+    * We identify three unique tracks across the SFMS by individual galaxies, delineated by a critical stellar mass density of log(ΣM∗)∼7.5. Below this scale, the SFMS shows no clear trend and is likely driven by local, stochastic internal processes.
 
 
 #### [Emission line ratios for the Circumgalactic Medium and the "Bimodal" Nature of Galaxies](https://arxiv.org/abs/1809.09113)
+    * We find significantly different diagnostic emission line ratios for the circumgalactic gas associated with galaxies of stellar masses above and below 1010.4 M⊙ using SDSS spectroscopy.
+    * the gas surrounding the lower mass galaxies exhibits similar line ratios to those of gas ionized by star formation and that surrounding the higher mass galaxies similar to those of gas ionized by AGN or shocks. 
 
 
 #### [The failure of stellar feedback, magnetic fields, conduction, and morphological quenching in maintaining red galaxies](https://arxiv.org/abs/1809.09120)
+    - **Relevant**
+    * We specifically focus on physics present without AGN, and show that various proposed “non-AGN” solution mechanisms in the literature, including Type Ia supernovae, shocked AGB winds, other forms of stellar feedback (e.g. cosmic rays), magnetic fields, Spitzer-Braginskii conduction, or “morphological quenching” do not halt or substantially reduce cooling flows nor maintain “quenched” galaxies in this mass range.
+    * If anything, outflowing metals and dense gas promote additional cooling.
+    * Conduction is important only in the most massive halos, as expected, but even at ∼ 10^14 M⊙ reduces inflow only by a factor ∼ 2
 
 
 #### [A High Signal-to-Noise HST Spectrum Toward J1009+0713: Precise Absorption Measurements in the CGM of Two Galaxies](https://arxiv.org/abs/1809.09122)
+    * We measure log(NNV/NOVI) ∼ −1 for two CGM absorbers, inconsistent with collisional ionization equilibrium and consistent with a radiatively cooling bulk flow of ∼ 30 − 80 km s−1, which could be produced by post-shock galactic winds
 
 
 #### [Circumnuclear Multi-phase Gas in the Circinus Galaxy II: The Molecular and Atomic Obscuring Structures Revealed with ALMA](https://arxiv.org/abs/1809.09154)
+    * 6-15 pc分辨率:The distribution of the continuum emission revealed a temperature-dependent dust geometry and possibly polar dust elongation in the torus region.
+    * We decomposed the observed velocity fields into rotational and dispersion components, and revealed multi-phase dynamic nature in the r 􏰂 10 pc torus region
+    * atomic outflows are the driver of the geometrical thickness of the atomic disk.
 
 
 #### [The POlarised GLEAM Survey (POGS) I: First Results from a Low-Frequency Radio Linear Polarisation Survey of the Southern Sky](https://arxiv.org/abs/1809.09327)
+    * MWA: SKA低频部分的先导项目
+    * We present a catalogue of linearly-polarised sources detected at 216 MHz, using data from the Galactic and Extragalactic All-sky MWA (GLEAM) survey.
+    * We also discuss the polarisation properties of four nearby, large-angular-scale radio galaxies, with a particular focus on the giant radio galaxy ESO 422−G028, in order to explain the striking differences in polarised morphology between 216 MHz and 1.4 GHz. 
 
 
 #### [Constraining cluster masses from the stacked phase space distribution at large radii](https://arxiv.org/abs/1809.09366)
+    - **Relevant**
+    * We explore the possibility of constraining cluster masses from the stacked phase space distribution of galaxies at larger radii, where infall velocities are expected to have a sensitivity to cluster masses
+    * 用模拟构建星系团周围50 Mpc内的相空间分布的两成分模型：three-dimensional phase space distribution shows a clear cluster mass dependence up to the largest scale examined.
+    * Projected phase space distribution, which can directly be compared with observations, shows a complex mass dependence due to the interplay between infall velocities and the Hubble flow.
 
 
 #### [Massive galaxies on the road to quenching: ALMA observations of powerful high redshift radio galaxies](https://arxiv.org/abs/1809.09427)
+    - **Relevant**
+    * 多波段观测：disentangled the synchrotron and thermal dust emission: synchrotron emission contributes substantially at λ ∼1 mm.
+    * We determine the star-formation rates and AGN infrared luminosities using our newly developed Multi- resolution and multi-object/origin spectral energy distribution fitting code (Mr-Moose). 
+    * The hosts of these radio-loud AGN appear predominantly below the main sequence of star-forming galaxies, indicating that the star formation in many of the host galaxies has been quenched.
+    * Future growth of the host galaxies without substantial black hole mass growth will be needed to bring these objects on the local relation between the supermassive black holes and their host galaxies.
 
 
 #### [A Detailed Study of the Most Relaxed SPT-Selected Galaxy Clusters: Cool Core and Central Galaxy Properties](https://arxiv.org/abs/1809.09104)
+    - **Relevant**
 
 
 ----
