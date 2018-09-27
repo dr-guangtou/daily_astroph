@@ -811,3 +811,31 @@
 
 
 #### [A Detailed Study of the Most Relaxed SPT-Selected Galaxy Clusters: Cool Core and Central Galaxy Properties](https://arxiv.org/abs/1809.09104)
+
+
+----
+
+## Sep 26:
+
+#### [Resolving Star Formation on Sub-Kiloparsec Scales in the High-Redshift Galaxy SDP.11 Using Gravitational Lensing](https://arxiv.org/abs/1809.09630)
+
+
+#### [MMT/MMIRS spectroscopy of z=1.3−2.4 extreme [OIII] emitters: Implications for galaxies in the reionization-era](https://arxiv.org/abs/1809.09637)
+
+
+#### [Extreme circumgalactic HI and CIII absorption around the most massive, quenched galaxies](https://arxiv.org/abs/1809.09777)
+
+
+#### [Galaxy mergers up to z<2.5 I : The star formation properties of merging galaxies at separations 3-15 kpc](https://arxiv.org/abs/1809.09796)
+
+
+#### [Unveiling the environment and faint features of the isolated galaxy CIG 96 with deep optical and HI observations](https://arxiv.org/abs/1809.09949)
+
+
+#### [Mapping Lyman Continuum escape in Tololo 1247-232](https://arxiv.org/abs/1809.10104)
+
+
+#### [PAHs and star formation in the HII regions of nearby galaxies M83 and M33](https://arxiv.org/abs/1809.10136)
+
+
+#### [Weak lensing constraints on splashback around massive clusters](https://arxiv.org/abs/1809.10045)
