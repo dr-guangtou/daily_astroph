@@ -897,21 +897,40 @@
 ## Sep 27:
 
 #### [Rates and Properties of Strongly Gravitationally Lensed Supernovae and their Host Galaxies in Time-Domain Imaging Surveys](https://arxiv.org/abs/1809.10147)
+    - **Interesting**
+    * The actual gLSN yields of these surveys will depend on several important factors, including observing strategy, target selection, supernova properties, and dust. Here we use pixel-level simulations that include these effects to forecast the rates and properties of gLSNe that ZTF and LSST will find. 
+    * LSST gLSNe are less compact and less magnified
+    * We find that the vast majority of gLSN host galaxies will be multiply imaged, enabling detailed constraints on lens models with sufficiently deep high-resolution imaging taken after the supernova has faded.
 
 
 #### [Rapidly varying Mg II broad absorption line in SDSS J133356.02+001229.1](https://arxiv.org/abs/1809.10155)
+    * Our observations allow us to probe variability over timescales of the order of few days to 4.2 years in the QSO rest-frame
+    * In the absence of strong optical continuum variability, we suggest that photoionization driven BAL variability due to changes in the shielding, multiple streaming clouds across our line of sight in a co-rotating wind or a combination of both as possible explanations 
 
 
 #### [Dependence of galaxy clustering on UV-luminosity and stellar mass at z∼4−7](https://arxiv.org/abs/1809.10161)
+    * Our sample consists of ∼ 10,000 Lyman-break galaxies (LBGs) in the XDF and CANDELS fields.
+    * our measurements suggest that the segregation with luminosity is larger with ≃ 90% confidence (neglecting contributions from systematic errors).
 
 
 #### [No Evidence for Millimeter Continuum Source Overdensities in the Environments of z≳6 Quasars](https://arxiv.org/abs/1809.10178)
+    * We analyze 1.2 mm ALMA dust continuum maps of 35 bright quasars at 6 < z < 7 and search the primary beam for excess dust continuum emission from sources with LIR ∼> 10^12 L⊙ as evidence for early protoclusters.
+    * no detected overdensity of dusty galaxies within 140 physical kpc of the quasars.
+    * the apparent lack of continuum overdensity does not negate the hypothesis that quasars live in overdense environments, as evidenced by strong [CII] overdensities found on the same scales to similarly-selected quasars.
 
 
 #### [Stellar and dusty cusp at the heart of NGC1068](https://arxiv.org/abs/1809.10254)
+    * Using AO-assisted (SPHERE-VLT) near-IR images in H and Ks and narrow-band of the Seyfert 2 galaxy NGC1068 we analyse the radial distribution of brightness in the central r < 100 pc area down to the pc scale.
+    * We find that the fit of radial brightness profiles beyond 10pc is done quite precisely at Ks by a cusp of exponent -2.0 plus a central point-source and by a cusp of exponent -1.3 at H. 
+    * 中心cusp非常抖，比理论和之前的观测都抖：Introducing a segregation in the stellar population with an excess of giant stars towards the center leads to a somewhat less steep exponent.
+    * cusp is the remnant of a recent starbust.
 
 
 #### [The Spatial Correlation of Bent-Tail Galaxies and Galaxy Clusters](https://arxiv.org/abs/1809.10346)
+    - **Interesting**
+    * We present a new catalogue of 22 bent-tail galaxies and a further 24 candidate bent-tail galaxies. Surprisingly, of the 8 bent-tail galaxies with photometric redshifts, only two are associated with known clusters.
 
 
 #### [Comparison of cosmological simulations and deep submillimetre galaxy surveys](https://arxiv.org/abs/1809.10416)
+    * we compare our simulations that include dust formation and destruction with the recent SCUBA-2 surveys (‘STUDIES’) by putting emphases on basic observational properties of dust emission
+    * 模拟对z>2的大质量端的IR LF拟合得不好：This means that the current simulation correctly reproduces the overall scaling between the size and luminosity (or star formation rate) of dusty region, but lacks extreme starburst phenomena at z > 2.
