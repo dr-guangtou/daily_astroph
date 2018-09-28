@@ -890,3 +890,28 @@
     - **Relevant**
     * we measure the splashback feature in the stacked weak gravitational lensing signal of 27 massive clusters from the Cluster Canadian Comparison Project with a careful control of residual systematics effects.
     * We find that the shear introduced by the presence of additional structure along the line of sight significantly affects the noise at large clustercentric distances. 
+
+
+----
+
+## Sep 27:
+
+#### [Rates and Properties of Strongly Gravitationally Lensed Supernovae and their Host Galaxies in Time-Domain Imaging Surveys](https://arxiv.org/abs/1809.10147)
+
+
+#### [Rapidly varying Mg II broad absorption line in SDSS J133356.02+001229.1](https://arxiv.org/abs/1809.10155)
+
+
+#### [Dependence of galaxy clustering on UV-luminosity and stellar mass at z∼4−7](https://arxiv.org/abs/1809.10161)
+
+
+#### [No Evidence for Millimeter Continuum Source Overdensities in the Environments of z≳6 Quasars](https://arxiv.org/abs/1809.10178)
+
+
+#### [Stellar and dusty cusp at the heart of NGC1068](https://arxiv.org/abs/1809.10254)
+
+
+#### [The Spatial Correlation of Bent-Tail Galaxies and Galaxy Clusters](https://arxiv.org/abs/1809.10346)
+
+
+#### [Comparison of cosmological simulations and deep submillimetre galaxy surveys](https://arxiv.org/abs/1809.10416)
