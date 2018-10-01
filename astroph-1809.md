@@ -934,3 +934,27 @@
 #### [Comparison of cosmological simulations and deep submillimetre galaxy surveys](https://arxiv.org/abs/1809.10416)
     * we compare our simulations that include dust formation and destruction with the recent SCUBA-2 surveys (‘STUDIES’) by putting emphases on basic observational properties of dust emission
     * 模拟对z>2的大质量端的IR LF拟合得不好：This means that the current simulation correctly reproduces the overall scaling between the size and luminosity (or star formation rate) of dusty region, but lacks extreme starburst phenomena at z > 2.
+
+----
+
+## Sep 30:
+
+#### [Quiescent Galaxy Size and Spectroscopic Evolution: Combining HSC Imaging and Hectospec Spectroscopy](https://arxiv.org/abs/1809.10705)
+
+
+#### [The kinematics of the outer halo of M87 as mapped by planetary nebulae](https://arxiv.org/abs/1809.10708)
+
+
+#### [VALES V: A kinematic analysis of the molecular gas content in H-ATLAS galaxies at z∼0.03−0.35 using ALMA](https://arxiv.org/abs/1809.10752)
+
+
+#### [The evolution of the circum-galactic medium around QSOs with QSO age and cosmic time revealed by Lyman-alpha halos](https://arxiv.org/abs/1809.10916)
+
+
+#### [Maximally dusty star-forming galaxies: Supernova dust production and recycling in Local Group and high-redshift galaxies](https://arxiv.org/abs/1809.11032)
+
+
+#### [The XXL Survey : XXVI. Optical and near-infrared identifications of the ATCA 2.1 GHz radio sources in the XXL-S Field](https://arxiv.org/abs/1809.11114)
+
+
+#### [Stormy weather in 3C 196.1: nuclear outbursts and merger events shape the environment of the hybrid radio galaxy 3C 196.1](https://arxiv.org/abs/1809.10693)
