@@ -940,21 +940,52 @@
 ## Sep 30:
 
 #### [Quiescent Galaxy Size and Spectroscopic Evolution: Combining HSC Imaging and Hectospec Spectroscopy](https://arxiv.org/abs/1809.10705)
+    - **Relevant, Important**
+    * Relations between size, stellar mass and average stellar population age (indicated by Dn4000 indices) for a sample of ∼ 11000 intermediate-redshift galaxies from the SHELS spectroscopic survey
+    * The mass-complete sample of ∼ 3500 M∗ > 1010 M⊙ quiescent galaxies shows that the average size of a 10^11 M⊙ quiescent galaxy increases by 25% from z ∼ 0.6 to z ∼ 0.1.
+    * the most massive (M∗ > 10^11 M⊙) galaxies grow significantly more slowly in size than an order of magnitude less massive quiescent systems that grow by 70% in the 0.1 < z < 0.3 redshift interval.
+    * More massive quiescent systems show no significant trend in size with average stellar population age.
+    * Quiescent galaxies with lower stellar masses show more complex evolution that is characterized by a combination of individual quiescent galaxy size growth (through mergers) and an increase in the size of newly quenched galaxies joining the population at later times (progenitor bias).
 
 
 #### [The kinematics of the outer halo of M87 as mapped by planetary nebulae](https://arxiv.org/abs/1809.10708)
+    - **Relevant**
+    * We present a kinematic study of a sample of 298 planetary nebulas (PNs) in the outer halo of the central Virgo galaxy M87 (NGC 4486).
+    * 基于运动学把PNe分成两个成分：The classification of the PNs into smooth halo and ICPNs is supported by their different PN luminosity functions. ICPN成分的速度分布和Virgo subcluster A符合
+    * The surface density profile of the ICPNS at 100 kpc radii has a shallow logarithmic slope
+    * The angular momentum-related λR profile for the smooth halo remains below 0.1, in the slow rotator regime, out to 135 kpc average ellipse radius (170 kpc major axis distance).
+    *  The dynamical structure inferred from the velocity dispersion profile indicates that the smooth halo of M87 steepens beyond Ravg = 60 kpc and becomes strongly radially anisotropic, and that the velocity dispersion profile is consistent with the X-ray circular velocity curve at these radii without non-thermal pressure effects.
 
 
 #### [VALES V: A kinematic analysis of the molecular gas content in H-ATLAS galaxies at z∼0.03−0.35 using ALMA](https://arxiv.org/abs/1809.10752)
+    * ALMA resolved observations of molecular gas in galaxies up to z = 0.35 to characterise the role of global galactic dynamics on the global interstellar medium (ISM) properties.
+    * We find that the IR luminosity increases with the rotational to dispersion velocity ratio 
+    * the so-called [Cii] deficit’ is related to the dynamical state of the galaxies.
+    * The star formation rate (SFR) is weakly correlated with the molecular gas fraction (fH2) in our sample, suggesting that the release of gravitational energy from cold gas may not be the main energy source of the turbulent motions seen in the VALES galaxies.
+    * We suggest that tcross may be the controlling timescale in which the star formation occurs in dusty z ∼ 0.03 − 0.35 galaxies.
 
 
 #### [The evolution of the circum-galactic medium around QSOs with QSO age and cosmic time revealed by Lyman-alpha halos](https://arxiv.org/abs/1809.10916)
+    * We find that the luminosity and extent of Lyα halos anti-correlate with QSOs’ IR luminosity, with J2329−0301’s halo being the brightest and largest.
+    * ionizing photons escape more easily out to circum-galactic regions when host galaxies are less dusty. 
+    * We also find a positive correlation between IR luminosity and black hole mass (MBH) 
+    * We propose a hypothesis that a large Lyα halo mainly comes into existence around QSOs in the young phase of their activity due to a small amount of dust.
+    * The extent of Lyα halos is also found to increase at a rate scaling with the virial radius of growing dark matter halos
 
 
 #### [Maximally dusty star-forming galaxies: Supernova dust production and recycling in Local Group and high-redshift galaxies](https://arxiv.org/abs/1809.11032)
+    * Motivated by recent observations suggesting that core-collapse supernovae may on average produce ∼0.3 M⊙ of dust, we explore a simple dust production scenario which applies to star-forming galaxies
+    * We assume that the net dust destruction (due to supernova reverse shock, shocks in the interstellar medium, or astration) is negligible on a timescale of 1 Gyr, in which case the dust mass can be estimated as 0.004 times the star-formation rate (for a Chabrier IMF) multiplied by the duration of the star-formation episode.
+    * This suggests that star-forming galaxies may be seen as maximally dusty, in the sense that a dominant fraction of the dust-forming elements forged in a supernova eventually will go into the solid phase
 
 
 #### [The XXL Survey : XXVI. Optical and near-infrared identifications of the ATCA 2.1 GHz radio sources in the XXL-S Field](https://arxiv.org/abs/1809.11114)
+    * This procedure led to the identification of optical/NIR counterparts for 4770 different radio sources (∼77% of the whole radio sample), 414 of which also have an X-ray counterpart.
+    * Only with deep enough optical/NIR data will we be able to identify a significant fraction of radio sources with red (zDEC-K) counterparts whose radio emission is dominated by nuclear activity rather than starburst activity.
 
 
 #### [Stormy weather in 3C 196.1: nuclear outbursts and merger events shape the environment of the hybrid radio galaxy 3C 196.1](https://arxiv.org/abs/1809.10693)
+    * HST data show Hα+[N II] emission aligned with the jet 8.4 GHz radio emission
+    * The outer cavity is co-spatial with the peak of 147 MHz radio emission, and hence we interpret this depression in X-ray surface brightness as being caused by a buoyantly rising bubble originating from an AGN outburst ∼280 Myrs ago
+    * By fitting jumps in the X-ray density we found Mach numbers between 1.4 and 1.6, consistent with a shock origin.
+    * We also found compelling evidence of a past merger, indicated by a morphology reminiscent of gas sloshing in the X-ray residual image.
