@@ -91,3 +91,37 @@
     * the H2 band (16-24 KeV) directly probing close to the peak of the Cosmic X-ray Background (CXB) returns four significant detections, and two tentative, although not significant, detections are found in the VH band
     * We compute the integral number counts for sources in such bands, which show broad consistency with population synthesis models of the CXB.
 
+
+----
+
+## Oct 3:
+
+#### [Evolution of the cold gas properties of simulated post-starburst galaxies](https://arxiv.org/abs/1810.00882)
+
+
+#### [Reproducible k-means clustering in galaxy feature data from the GAMA survey](https://arxiv.org/abs/1810.00887)
+
+
+#### [Spatially resolved star formation and metallicity profiles in post-merger galaxies from MaNGA](https://arxiv.org/abs/1810.00897)
+
+
+#### [A receding torus model for the Iwasawa-Taniguchi effect for Compton-thick AGN](https://arxiv.org/abs/1810.01178)
+
+
+#### [The Gemini/HST Galaxy Cluster Project: Stellar Populations in the Low Redshift Reference Cluster Galaxies](https://arxiv.org/abs/1810.01199)
+
+
+#### [The fraction of bolometric luminosity absorbed by dust in DustPedia galaxies](https://arxiv.org/abs/1810.01208)
+
+
+#### [The Star Formation Reference Survey III: A Multi-wavelength View of Star Formation in Nearby Galaxies](https://arxiv.org/abs/1810.01336)
+
+
+#### [Revealing a Highly-Dynamic Cluster Core in Abell 1664 with Chandra](https://arxiv.org/abs/1810.00881)
+
+
+#### [Broadband Intensity Tomography: Spectral Tagging the Cosmic UV Background](https://arxiv.org/abs/1810.00885)
+
+
+#### [Radio-Optical Galaxy Shape and Shear Correlations in the COSMOS Field using 3 GHz JVLA Observations](https://arxiv.org/abs/1810.01220)
+
