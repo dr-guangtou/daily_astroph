@@ -161,3 +161,9 @@
     * The optical-optical auto-power weak lensing spectrum was measured to a detection significance of 9.80σ and is consistent with previous observations of the same field
     * Radio weak lensing的优势：These features include the use of radio polarisation information to mitigate the effects of intrinsic alignments (Brown & Battye 2011), the precisely known and stable beam response (or Point Spread Function, PSF) of radio interferometers, and the use of radio-optical cross-correlation statistics to eliminate unaccounted-for systematic effects (Patel et al. 2010; Demetroullas & Brown 2016; Camera et al. 2017).
 
+
+----
+
+## Oct 4:
+
+#### [Evolution of the cold gas properties of simulated post-starburst galaxies](https://arxiv.org/abs/1810.00882)
