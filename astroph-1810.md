@@ -47,11 +47,11 @@
 
 #### [Mildly Suppressed Star Formation in Central Regions of MaNGA Seyfert Galaxies](https://arxiv.org/abs/1810.00365)
     * We present spatially-resolved Hα measurements to trace ongoing star formation in Seyfert galaxies
-    * From the comparison we find that the star formation rates within central kpc of Seyfert galaxies are mildly suppressed as compared to the matched normal star forming galaxies. 
+    * From the comparison we find that the star formation rates within central kpc of Seyfert galaxies are mildly suppressed as compared to the matched normal star forming galaxies.
 
 
 #### [Radio-loud AGN variability from three-dimensional propagating relativistic jets](https://arxiv.org/abs/1810.00365)
-    * We use the Athena hydrodynamics code to simulate an extensive suite of 54 propagating three-dimensional relativistic jets with wide ranges of input jet velocities and jet-to-ambient matter density ratios. 
+    * We use the Athena hydrodynamics code to simulate an extensive suite of 54 propagating three-dimensional relativistic jets with wide ranges of input jet velocities and jet-to-ambient matter density ratios.
 
 
 #### [The rest-frame optical sizes of massive galaxies with suppressed star formation at z~4](https://arxiv.org/abs/1810.00543)
@@ -69,7 +69,7 @@
 #### [Stellar systems in the direction of Pegasus I - I. Low surface brightness galaxies](https://arxiv.org/abs/1810.00710)
     - **Relevant**
     * eight of this type of objects (μeff,g′ ≃ 27 mag arcsec−2) towards the group of galaxies PegasusI. They are located, in projection, within a radius of ∼ 200 kpc in the very center of Pegasus I,
-    * Assuming that these galaxies are at the distance of Pegasus I, we have found that their sizes are intermediate among similar objects reported in the literature. In particular, we found that three of these galaxies can be classified as ultra-diffuse galaxies and a fourth one displays a nucleus. 
+    * Assuming that these galaxies are at the distance of Pegasus I, we have found that their sizes are intermediate among similar objects reported in the literature. In particular, we found that three of these galaxies can be classified as ultra-diffuse galaxies and a fourth one displays a nucleus.
     *  We also show that there seems to be a bias effect in the size distributions of the detected LSBs in different environments, in the sense that more distant groups/clusters lack small reff objects,
 
 
@@ -81,7 +81,7 @@
 
 #### [nIFTy Galaxy Cluster simulations VI: The gaseous outskirts of galaxy cluster](https://arxiv.org/abs/1810.00534)
     * 为什么cluster outskirt重要：marking the transition from the mildly non-linear cosmic web to the highly non-linear, virialised, cluster environment.
-    * Our analysis reveals that the ICM in cluster outskirts is relatively insensitive to both choice of code and galaxy formation prescription. 
+    * Our analysis reveals that the ICM in cluster outskirts is relatively insensitive to both choice of code and galaxy formation prescription.
     * Spherically averaged gas density profiles follow the underlying dark matter, scaled by the cosmic baryon fraction, while temperature and velocity profiles show signatures of strong shocks, short-lived interior to the virial radius and longer-lived at larger radii.
     * Our results make clear that cluster outskirts are shaped by large-scale gravitational dynamics and strong, inefficiently radiating, shocks.
 
@@ -106,11 +106,11 @@
 #### [Reproducible k-means clustering in galaxy feature data from the GAMA survey](https://arxiv.org/abs/1810.00887)
     - **Relevant, Useful**
     * To address this, we apply a robust k-means unsupervised clustering method to feature data derived from a sample of 7338 local-Universe galaxies selected from the Galaxy And Mass Assembly (GAMA) survey.
-    * We find that the local galaxy population natively splits into 2, 3, 5 and a maximum of 6 sub-populations, with each corresponding to a distinct ongo- ing evolutionary mechanism. 
+    * We find that the local galaxy population natively splits into 2, 3, 5 and a maximum of 6 sub-populations, with each corresponding to a distinct ongo- ing evolutionary mechanism.
 
 
 #### [Spatially resolved star formation and metallicity profiles in post-merger galaxies from MaNGA](https://arxiv.org/abs/1810.00897)
-    * By measuring offsets from SFR and metallicity scaling relations on a spaxel-by-spaxel basis, we are able to quantify where in the galaxy these properties are most affected by the interaction. 
+    * By measuring offsets from SFR and metallicity scaling relations on a spaxel-by-spaxel basis, we are able to quantify where in the galaxy these properties are most affected by the interaction.
     * We find that the SFR enhancements are generally centrally peaked, by a factor of 2.5 on average, in agreement with predictions from simulations
     * There is considerable variation in the SFR behaviour in the galactic outskirts, where both enhancement and suppression are seen.
 
@@ -136,7 +136,7 @@
 
 #### [The Star Formation Reference Survey III: A Multi-wavelength View of Star Formation in Nearby Galaxies](https://arxiv.org/abs/1810.01336)
     * multi-wavelength global star formation rate (SFR) estimates for 326 galaxies from the Star Formation Reference Survey (SFRS) in order to determine the mutual scatter and range of validity of different indicators.
-    * The data prefer a non-linear relation between 1.4 GHz luminosity and other SFR measures. 
+    * The data prefer a non-linear relation between 1.4 GHz luminosity and other SFR measures.
     * PAH luminosity underestimates SFR for galaxies with strong UV emission.
 
 
@@ -152,7 +152,7 @@
     - **Interesting**
     * Broadband intensity mapping会损失红移信息，可以从空间起伏中试图重现：exploiting information in spatial fluctuations and apply it to the GALEX All Sky and Medium Imaging Surveys
     * By spatially cross-correlating photons in the GALEX far-UV (1500 Å) and near-UV (2300 Å) bands with a million spectroscopic objects in SDSS as a function of redshift, we robustly detect the redshift-dependent intensity of the UV background (UVB) modulated by its clustering bias up to z ∼ 2.
-    * These measurements clearly reveal the imprints of UVB spectral features redshifting through the filters. 
+    * These measurements clearly reveal the imprints of UVB spectral features redshifting through the filters.
 
 
 #### [Radio-Optical Galaxy Shape and Shear Correlations in the COSMOS Field using 3 GHz JVLA Observations](https://arxiv.org/abs/1810.01220)
@@ -167,42 +167,84 @@
 ## Oct 4:
 
 #### [ALMACAL V: Absorption-selected galaxies with evidence for excited ISMs](https://arxiv.org/abs/1810.01418)
+    * 用ALMA CO研究QSO吸收线挑选的富气体星系：The CO spectral line energy distribution (CO SLED) of these galaxies appear distinct from that of typical star-forming galaxies at similar redshifts and is comparable with that of luminous infrared galaxies or AGN.
+    * We infer that the CO line ratios and the αCO conversion factor differ from the Galactic values.
+    * Absorption-line-selection identifies systems with widely distributed gas
 
 
 #### [J-PLUS: analysis of the intracluster light in the Coma cluster](https://arxiv.org/abs/1810.01424)
+    - **Relevant**
+    * Using a recently developed technique, we measure the ICL fraction in Coma at several wavelengths, using the J-PLUS unique filter system.
+    * We use the Chebyshev-Fourier Intracluster Light Estimator (CICLE) to disentangle the ICL from the light of the galaxies, and to robustly measure the ICL fraction in seven J-PLUS filters.
+    * We obtain the ICL fraction distribution of the Coma cluster at different optical wavelengths, which varies from ∼ 7% − 21%, showing the highest values in the narrow band filters J0395, J0410, and J0430.
+    * the main mechanism of ICL formation for the Coma cluster is the stripping of the stars in the outskirts of infalling galaxies and, possibly, the disruption of dwarf galaxies during past/ongoing mergers.
 
 
 #### [Time Inference with MUSE in Extragalactic Rings (TIMER): Properties of the Survey and High-Level Data Products](https://arxiv.org/abs/1810.01425)
+    * TIMER项目：VLT-MUSE integral-field spectrograph of 24 nearby barred galaxies with prominent central structures
+    * We illustrate how this dataset can be used for a plethora of scientific applications, e.g., stellar feedback, outflows, nuclear and primary bars, stellar migration and chemical enrichment, and the gaseous and stellar dynamics of nuclear spiral arms, barlenses, box/peanuts and bulges.
+    * we show that the dynamics of nuclear rings and inner discs is consistent with the picture in which they are formed by bars, that the central few hundred parsecs in massive disc galaxies tend to show a pronounced peak in stellar metallicity, and that nuclear rings can efficiently prevent star formation in this region.
 
 
 #### [Tidal Interactions and Mergers in Intermediate Redshift EDisCS Clusters](https://arxiv.org/abs/1810.01430)
+    - **Relevant**
+    * We study the fraction of tidal interactions and mergers with well identified observability timescales (fTIM) in group, cluster, and accompanying field galaxies
+    * We find marginal evidence for a trend between fTIM and z, in that higher z values correspond to higher fTIM.
+    * fTIM gets boosted in these intermediate density environments.
 
 
 #### [Ghostly Halos in Dwarf Galaxies: Constraints on the Star Formation Efficiency before Reionization](https://arxiv.org/abs/1810.01437)
+    * However, if a stellar halo is found in sufficiently small mass dwarfs, the whole stellar halo is composed of tidal debris of fossil galaxies, and we refer to it as ghostly halo.
+    * semi-analytical simulations to characterize the sizes and stellar masses of ghostly stellar halos in dwarf galaxies as a function of their dark matter halo mass
+    * By comparing the models to observations of six isolated dwarf galaxies in the Local Group showing evidence of extended stellar halos, we are able to constrain the star formation efficiency in fossil galaxies.
 
 
 #### [The Sloan Digital Sky Survey Reverberation Mapping Project: Sample Characterization](https://arxiv.org/abs/1810.01447)
-
+    * a detailed characterization of the 849 broad-line quasars from the Sloan Digital Sky Survey Re- verberation Mapping (SDSS-RM) project.
 
 #### [Results of a systematic search for outburst events in 1.4 million galaxies](https://arxiv.org/abs/1810.01448)
+    * We present an analysis of nine years of Catalina Surveys optical photometry for 1.4 million spectroscopically confirmed SDSS galaxies. We find 717 outburst events that were not re- ported by ongoing transient surveys.
+    * we find that almost all of the new events are likely to be associated with regular supernovae. However, a small number of long-timescale events are found among the galaxies containing AGN.
 
 
 #### [Galaxy Structure, Stellar Populations, and Star Formation Quenching at 0.6 ≲ z ≲ 1.2](https://arxiv.org/abs/1810.01498)
+    * We have identified authentically quiescent galaxies in the U V J diagram based on their D4000 strengths.
+    * We found that bulge-dominated galaxies show positive correlations among the D4000 strength, stellar mass, and the Se ́rsic index, while late-type disks do not show such strong positive correlations.
 
 
 #### [Concurrent starbursts in molecular gas disks within a pair of colliding galaxies at z = 1.52](https://arxiv.org/abs/1810.01595)
+    * We report on the discovery of a merger-driven starburst at z = 1.52, PACS-787, based on high signal-to-noise ALMA observations.
+    * two compact (r1/2 ∼ 1 kpc) and interacting molecular gas disks at a separation of 8.6 kpc thus indicative of an early stage in a merger.
+    * From the CO size, inclination, and velocity profile for both disks, the dynamical mass is calculated through a novel method that incorporates a calibration using simulations of galaxy mergers.
+    * The state of interaction is further established by the detection of diffuse CO and continuum emission, tidal debris that bridges the two nuclei and is associated with stellar emission seen by HST/WFC3.
 
 
 #### [The molecular gas content and fuel efficiency of starbursts at z ~ 1.6 with ALMA](https://arxiv.org/abs/1810.01596)
+    * We present an analysis of the molecular gas properties, based on CO(2 - 1) emission, of twelve starburst galaxies at z ∼ 1.6 selected by having a boost (  4×) in their star formation rate (SFR) above the average star-forming galaxy at an equivalent stellar mass.
+    * As a result of the larger statistical sample, we significantly detect, for the first time at high-z, a systematically lower L′CO/LIR ratio in galaxies lying above the star-forming ‘main sequence’
+    * We interpret the results as indicative of the star formation efficiency increasing in a continuous fashion from the MS to the starburst regime, whereas the gas fractions remain comparable to those of MS galaxies.
 
 
 #### [The relationship between dust and [CI] at z=1 and beyond](https://arxiv.org/abs/1810.01640)
+    * Dust continuum emission provides a potential alternative assuming a known dust/gas ratio, but this must be calibrated on a direct gas tracer at z > 1.
+    * we consider the [Ci] 492-GHz emission line, which has been shown to trace molecular gas closely throughout Galactic clouds and has the advantages of being optically thin in typical conditions
+    * We uncover a strong [Ci]–dust correlation, suggesting that both trace similar phases of the gas.
+    * theoretical predictions from photo-dissociation region (PDR) modelling suggest that the [Ci]/H2 ratio is robust over a wider range of metallicities and gas densities than CO(1–0)
 
 
 #### [Mass Functions, Luminosity Functions, and Completeness Measurements from Clustering Redshifts](https://arxiv.org/abs/1810.01767)
+    - **Relevant, Useful**
+    * This paper presents stellar mass functions and i-band luminosity functions for Sloan Digital Sky Survey (SDSS) galaxies at i < 21 using clustering redshifts
+    * We construct a spectroscopic sample containing data from the BOSS + eBOSS surveys, allowing us to recover redshift distributions from photometric data out to z ≃ 2.5.
+    * There is little evolution in the mass function between 0.2 < z < 0.8, implying the most massive galaxies form most of their mass before z = 0.8.
 
 
 #### [The Interplay of Kinetic and Radiative Feedback in Galaxy Clusters](https://arxiv.org/abs/1810.01857)
+    * 3D radiation-hydrodynamic simulations with the code Enzo to explore the joint role of the kinetic and radiative feedback from supermassive black holes (SMBHs) in BCGs
+    * In our simulations the central SMBH transitions between the radiatively efficient and radiatively inefficient states on time scales of a few Gyr, as a function of its accretion rate.
+    * We also find a positive correlation between the AGN feedback power and the mass of the cold gas filaments in the cluster core, indicating that observations of Hα filaments can be used as a measure of AGN feedback.
 
 
 #### [The XXL Survey XXV. Cosmological analysis of the C1 cluster number counts](https://arxiv.org/abs/1810.01624)
+    * In a lambda cold dark matter (ΛCDM) model, the cosmology favoured by the XXL clusters compares well with results derived from the Planck S-Z clusters for a totally different sample (mass/redshift range, selection biases, and scaling relations).
+    * Combining the two probes allows us to put constraints on Ωm = 0.316 ± 0.060, σ8 = 0.814 ± 0.054, and w = −1.02 ± 0.20.
