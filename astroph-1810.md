@@ -166,4 +166,43 @@
 
 ## Oct 4:
 
-#### [Evolution of the cold gas properties of simulated post-starburst galaxies](https://arxiv.org/abs/1810.00882)
+#### [ALMACAL V: Absorption-selected galaxies with evidence for excited ISMs](https://arxiv.org/abs/1810.01418)
+
+
+#### [J-PLUS: analysis of the intracluster light in the Coma cluster](https://arxiv.org/abs/1810.01424)
+
+
+#### [Time Inference with MUSE in Extragalactic Rings (TIMER): Properties of the Survey and High-Level Data Products](https://arxiv.org/abs/1810.01425)
+
+
+#### [Tidal Interactions and Mergers in Intermediate Redshift EDisCS Clusters](https://arxiv.org/abs/1810.01430)
+
+
+#### [Ghostly Halos in Dwarf Galaxies: Constraints on the Star Formation Efficiency before Reionization](https://arxiv.org/abs/1810.01437)
+
+
+#### [The Sloan Digital Sky Survey Reverberation Mapping Project: Sample Characterization](https://arxiv.org/abs/1810.01447)
+
+
+#### [Results of a systematic search for outburst events in 1.4 million galaxies](https://arxiv.org/abs/1810.01448)
+
+
+#### [Galaxy Structure, Stellar Populations, and Star Formation Quenching at 0.6 ≲ z ≲ 1.2](https://arxiv.org/abs/1810.01498)
+
+
+#### [Concurrent starbursts in molecular gas disks within a pair of colliding galaxies at z = 1.52](https://arxiv.org/abs/1810.01595)
+
+
+#### [The molecular gas content and fuel efficiency of starbursts at z ~ 1.6 with ALMA](https://arxiv.org/abs/1810.01596)
+
+
+#### [The relationship between dust and [CI] at z=1 and beyond](https://arxiv.org/abs/1810.01640)
+
+
+#### [Mass Functions, Luminosity Functions, and Completeness Measurements from Clustering Redshifts](https://arxiv.org/abs/1810.01767)
+
+
+#### [The Interplay of Kinetic and Radiative Feedback in Galaxy Clusters](https://arxiv.org/abs/1810.01857)
+
+
+#### [The XXL Survey XXV. Cosmological analysis of the C1 cluster number counts](https://arxiv.org/abs/1810.01624)

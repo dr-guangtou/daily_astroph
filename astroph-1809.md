@@ -750,6 +750,8 @@
 ## Sep 24:
 
 #### [The Large Early Galaxy Astrophysics Census (LEGA-C) Data Release II: dynamical and stellar population properties of z ~< 1 galaxies in the COSMOS field](https://arxiv.org/abs/1809.08236)
+    - **Useful**
+    * We also identify filaments in the large-scale structure of galaxies; these filaments approach the cluster from the direction the X-ray structures are seen.
 
 
 #### [The optical morphologies of galaxies in the IllustrisTNG simulation: a comparison to Pan-STARRS observations](https://arxiv.org/abs/1809.08239)
@@ -759,6 +761,11 @@
 
 
 #### [Wide-Field Optical Spectroscopy of Abell 133: A Search for Filaments Reported in X-ray Observations](https://arxiv.org/abs/1809.08241)
+    - **Interesting**
+    * we conducted a multi-object spectrographic campaign on the Baade 6.5m telescope around Abell 133; this resulted in a catalog of ∼3000 new redshift measurements, of which 254 are of galaxies near the cluster.
+    * we see no evidence that Abell 133 is dynamically disturbed; we reject the hypothesis that there is a kinematically distinct subgroup (p = 0.28) and find no velocity offset between the central galaxy and the clustr
+    * The spatial distribution of galaxies traces the X-ray filaments
+    * We also identify filaments in the large-scale structure of galaxies; these filaments approach the cluster from the direction the X-ray structures are seen.
 
 
 #### [Highly accreting quasars: The SDSS low-redshift catalog](https://arxiv.org/abs/1809.08310)
@@ -774,6 +781,10 @@
 
 
 #### [The curious case of the companion: evidence for cold accretion onto a dwarf satellite near the isolated elliptical NGC 7796](https://arxiv.org/abs/1809.08964)
+    * NGC 7796-DW1: potential dwarf-dwarf interaction
+    * A surprising result is the extended line emission in the galaxy, forming a ring-like structure with a projected diameter of 2.2 kpc.
+    * Nucleus A is a relatively old (7 Gyr or older) and metal-poor super star cluster, most probably the nucleus of the dwarf, now displaced. The star-forming regions B and C show younger and distinctly more metal-rich components.
+    * The dwarf-dwarf merger scenario is excluded because of the missing metal-rich merger component. A viable alternative is gas accretion from a reservoir of cold, metal-rich gas. NGC7796 has to provide this gas within its X-ray bright halo.
 
 
 #### [Inferring the astrophysics of reionization and cosmic dawn from galaxy luminosity functions and the 21-cm signal](https://arxiv.org/abs/1809.08995)
@@ -839,6 +850,11 @@
 
 #### [A Detailed Study of the Most Relaxed SPT-Selected Galaxy Clusters: Cool Core and Central Galaxy Properties](https://arxiv.org/abs/1809.09104)
     - **Relevant**
+    * four most relaxed clusters in the South Pole Telescope 2500 deg2 survey, which lie at 0.55 < z < 0.75
+    * the temperature, density, and entropy profiles of the intracluster medium (ICM) are very similar among the four clusters
+    * Specifically, we find no evidence for deviations from self similarity in the temperature profile over the radial range 10kpc < r < 1Mpc, implying that the processes responsible for preventing runaway cooling over the past 􏰑 6 Gyr are, at least roughly, preserving self similarity.
+    * typical metallicities of ∼0.3Z⊙ in the bulk of the ICM, rising to ∼0.5Z⊙ in the inner ∼100kpc, and reaching ∼1Z⊙ at r < 10kpc.
+    * This central excess is similar in magnitude to what is observed in the most relaxed clusters at z ∼ 0, suggesting that both the global metallicity and the central excess that we see in cool core clusters at z ∼ 0 were in place very early in the cluster lifetime
 
 
 ----
