@@ -248,3 +248,66 @@
 #### [The XXL Survey XXV. Cosmological analysis of the C1 cluster number counts](https://arxiv.org/abs/1810.01624)
     * In a lambda cold dark matter (ΛCDM) model, the cosmology favoured by the XXL clusters compares well with results derived from the Planck S-Z clusters for a totally different sample (mass/redshift range, selection biases, and scaling relations).
     * Combining the two probes allows us to put constraints on Ωm = 0.316 ± 0.060, σ8 = 0.814 ± 0.054, and w = −1.02 ± 0.20.
+
+
+----
+
+## Oct 4:
+
+#### [Formation of Globular Cluster Systems II: Impact of the Cutoff of the Cluster Initial Mass Function](https://arxiv.org/abs/1810.01888)
+    * 用半解析模型研究Cluster IMF high-mass end的truncates对球状星团形成的影响
+    * The cutoff masses of Mc = 10^6.5 M⊙ or 10^7 M⊙ match many scaling relations: between the GC system mass and host halo mass, between the average metallicity of the GC system and host halo mass, and the distribution of cluster masses.
+    * In our model the blue tilt arises because the metal-poor clusters form in relatively low-mass galaxies which lack sufficient cold gas to sample the CIMF at highest masses
+
+#### [High-resolution VLA observations of FR0 radio galaxies: properties and nature of compact radio sources](https://arxiv.org/abs/1810.01894)
+    * FR 0: 主要是ETG中的compact射电源，是近邻射电噪星系中的大多数
+    * these are sources at z < 0.05, unresolved in the FIRST images and spectroscopically classified as low excitation galaxies (LEG).
+    * 大多数都分解不好: Six have steep radio spectra, 11 are flat cores, while one shows an inverted spectrum.
+    * FR 0s share the same properties with FR Is from the nuclear
+    * the possibility that all FR 0s are young sources eventually evolving into extended sources is ruled out by the distribution of radio sizes
+
+
+#### [Early Science with the Large Millimeter Telescope: an energy-driven wind revealed by massive molecular and fast X-ray outflows in the Seyfert Galaxy IRAS 17020+4544](https://arxiv.org/abs/1810.01941)
+    * a prominent line arising from the 12CO(1-0) transition was revealed in recent observations of this source.
+    * The complex profile is composed by a narrow double-peak line and a broad wing. While the double-peak structure may be arising in a disk of molecular material, the broad wing is interpreted as the signature of a massive outflow
+    * This molecular wind is likely associated to a multi-component X-ray Ultra-Fast Outflow with velocities reaching up to ∼ 0.1c
+    * The momentum load estimated in the two gas phases indicates that within the observational uncertainties the outflow is consistent with being propagating through the galaxy and sweeping up the gas while conserving its energy.
+
+
+#### [KMTNet Nearby Galaxy Survey I. : Optimal strategy for low surface brightness imaging with KMTNet](https://arxiv.org/abs/1810.02075)
+    - **Relevant**
+    * We present our observing strategy and optimal data reduction process to recover the faint extended features in the imaging data of NGC 1291 taken with KMTNet
+    * These results suggest that the deep imaging data produced by KMTNet are suitable to study the faint features of nearby galaxies such as outer disks and dwarf companions, but unideal (not impossible) to detect stellar halos. 
+    * The one-dimensional profile revealed that NGC 1291 appeared to have Type I disk out to R ∼ 30 kpc with no obvious color gradient and excess light due to a stellar halo was undetected.
+
+
+#### [The Accretion History of AGN I: Supermassive Black Hole Population Synthesis Model](https://arxiv.org/abs/1810.02298)
+    * We present a population synthesis model that accounts for the summed X-ray emission from growing black holes; modulo the efficiency of converting mass to X-rays, this is effectively a record of the accreted mass
+    * We need this population synthesis model to reproduce observed constraints from X-ray surveys: the X-ray number counts, the observed fraction of Compton-thick AGN and the spectrum of the Cosmic X-ray “background” (CXB), after accounting for selection biases
+    * We find that no existing X-ray luminosity function (XLF) consistently reproduces all these observations.
+
+
+#### [Baryons in the CosmicWeb of IllustrisTNG - I: Gas in Knots, Filaments, Sheets and Voids](https://arxiv.org/abs/1810.01883)
+    * We focus on the mass and volume fractions of baryons in different phases in knots, filaments, sheets and voids in the Cosmic Web from redshift z = 8 to red- shift z = 0.
+    * Not only we find that filaments host more star-forming gas than knots, but that filaments also have a higher relative mass fraction of gas in this phase than knots.
+    * Our results indicate that the WHIM can indeed constitute the largest reservoir of missing baryons at redshift z = 0.
+    * in sheets and voids where the cool, diffuse IGM dominates.
+    * We predict the existence of a significant number of currently undetected OVII and NeIX absorption systems in cosmic filaments which could be detected by future X-ray telescopes like ATHENA.
+
+#### [Cosmological lensing ratios with DES Y1, SPT and Planck](https://arxiv.org/abs/1810.02212)
+    * Correlations between tracers of the matter density field and gravitational lensing are sensitive to the evolution of the matter power spectrum and the expansion rate across cosmic time.
+    * Appropriately defined ratios of such correlation functions, on the other hand, depend only on the angular diameter distances to the tracer objects and to the gravitational lensing source planes.
+    * We present a measurement of lensing ratios using galaxy position and lensing data from the Dark Energy Survey, and CMB lensing data from the South Pole Telescope and Planck, obtaining the highest precision lensing ratio measurements to date.
+    * We demonstrate that photometrically selected galaxies can be used to measure lensing ratios, and argue that future lensing ratio measurements with data from a combination of LSST and Stage-4 CMB experiment
+
+
+#### [Dark Energy Survey Year 1 Results: Joint Analysis of Galaxy Clustering, Galaxy Lensing, and CMB Lensing Two-point Functions](https://arxiv.org/abs/1810.02322)
+    * Auto and cross-correlations between three cosmic fields: the galaxy density field, the galaxy weak lensing shear field, and the cosmic microwave background (CMB) weak lensing convergence field.
+    * We test for consistency between these measurements and the DES-only two-point function measurements, finding no evidence for inconsistency in the context of flat ΛCDM cosmological models. 
+
+#### [Dark Energy Survey Year 1 Results: tomographic cross-correlations between DES galaxies and CMB lensing from SPT+Planck](https://arxiv.org/abs/1810.02342)
+    - **Relevant**
+    * We measure the cross-correlation between redMaGiC galaxies selected from the Dark Energy Survey (DES) Year-1 data and gravitational lensing of the cosmic microwave background (CMB) reconstructed from South Pole Telescope (SPT) and Planck data
+    * We reject the hypothesis of no correlation at 19.9σ significance.
+    * Joint analysis of galaxy-CMB lensing cross-correlations and galaxy clustering to constrain cosmology
+
