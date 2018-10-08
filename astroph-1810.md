@@ -311,3 +311,56 @@
     * We reject the hypothesis of no correlation at 19.9σ significance.
     * Joint analysis of galaxy-CMB lensing cross-correlations and galaxy clustering to constrain cosmology
 
+
+----
+
+## Oct 7:
+
+#### [C-GOALS II. Chandra Observations of the Lower Luminosity Sample of Nearby Luminous Infrared Galaxies in GOALS](https://arxiv.org/abs/1810.02371)
+    * Chandra X-ray observatory data for a sample of 63 luminous infrared galaxies (LIRGs)
+    * we find AGN in (31±5)% of the galaxy sample, compared to the (38±6)% previously found for GOALS galaxies with higher infrared luminosities
+    * Dual AGN are detected in two systems, implying a dual AGN fraction in systems that contain at least one AGN of (29±14)%, compared to the (11±10)% found for the C-GOALS I sample
+    * For most galaxies, the soft X-ray sizes of the sources are comparable to those of the MIR emission.
+
+#### [The dependence of halo bias on age, concentration and spin](https://arxiv.org/abs/1810.02375)
+    - **Relevant**
+    * Present the most precise measurement of these secondary-bias dependencies on halo age, concentration, and spin, for a wide range of halo masses
+    * We find no strong evidence of assembly bias for masses above Mvir ∼ 10^14
+    * Secondary bias exists, however, for halo concentration and spin, up to cluster-size halos, in agreement with previous findings.
+    * Above Mvir ∼10^{11.5} h−1 M⊙, halos with larger values of spin have larger bias, at fixed mass, with the effect reaching almost a factor 2. This trend reverses below this characteristic mass.
+
+
+#### [Gone after one orbit: How cluster environments quench galaxies](https://arxiv.org/abs/1810.02382)
+    - **Relevant**
+    * Magneticum Pathfinder 中看星系在星系团中的轨道对星系演化的影响
+    * In agreement with observations we find that star-forming satellite galaxies inside galaxy clusters are characterised by more radially dominated orbits, independent of cluster mass.
+    * The tracking of individual orbits shows that almost all satellite galaxies’ star-formation drops to zero within 1 Gyr after infall.
+
+
+#### [Estimating the Milky Way's Mass via Hierarchical Bayes: A Blind Test on MUGS2 Simulated Galaxies](https://arxiv.org/abs/1810.02427)
+    * Eadie et al. (2015, 2016, 2017b) developed a hierarchical Bayesian method to estimate the Milky Way Galaxy’s mass given a physical model for the potential, a measurement model, and kinematic data of test particles
+    * we test the hierarchical Bayesian method against simulated galaxies created in the McMaster Unbiased Galaxy Simulations 2 (MUGS2), for which the true mass is known.
+    * Of the ten galaxy masses that were not recovered within the 95% c.r., a large subset have posterior distributions that occupy extreme ends of the parameter space allowed by the priors. A few incorrect mass estimates are explained by the exceptional evolution history of the galaxies.
+    * 在模拟里面，不用GC catalog，recover的mass更准确
+
+
+#### [Dark Energy Survey Year 1 Results: Cross-correlation between DES Y1 galaxy weak lensing and SPT+Planck CMB weak lensing](https://arxiv.org/abs/1810.02441)
+    * We cross-correlate galaxy weak lensing measurements from the Dark Energy Survey (DES) year-one (Y1) data with a cosmic microwave background (CMB) weak lensing map derived from South Pole Telescope (SPT) and Planck data
+    * We reject the hypothesis of no lensing with a significance of 10.8σ. 
+    * We fit the amplitude of the correlation functions while fixing the cosmological parameters to
+a fiducial ΛCDM model, finding A = 0.99 ± 0.17.
+
+
+#### [Dark Energy Survey Year 1 Results: Constraints on Extended Cosmological Models from Galaxy Clustering and Weak Lensing](https://arxiv.org/abs/1810.02499)
+    * Present constraints on extensions of the minimal cosmological models dominated by dark matter and dark energy, ΛCDM and wCDM, by using a combined analysis of galaxy clustering and weak gravitational plensing
+    * 1) nonzero curvature Ωk , 2) number of relativistic species Neff different from the standard value of 3.046, 3) time-varying equation-of-state of dark energy described by the parameters w0 and wa (alternatively quoted by the values at the pivot redshift, wp, and wa), and 4) modified gravity described by the parameters μ0 and Σ0 that modify the metric potentials.
+    * And everything is fine!
+
+
+#### [AMICO galaxy clusters in KiDS-DR3: sample properties and selection function](https://arxiv.org/abs/1810.02811)
+    - **Relevant**
+    * Adaptive Matched Identifier of Clustered Objects (AMICO)给出的KiDS DR3 cluster catalog
+    * AMICO takes advantage of the luminosity and spatial distribution of galaxies only, not considering colours.
+    * The catalogue contains 7988 candidate galaxy clusters in the redshift range 0.1 < z < 0.8 down to S/N > 3.5 with a purity approaching 95% over the entire redshift range.
+    * We quantify the sample purity, completeness and the uncertainties of the detection properties, such as richness, redshift, and position, by means of mock galaxy catalogues derived directly from the data.
+
