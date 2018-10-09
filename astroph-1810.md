@@ -364,3 +364,35 @@ a fiducial ΛCDM model, finding A = 0.99 ± 0.17.
     * The catalogue contains 7988 candidate galaxy clusters in the redshift range 0.1 < z < 0.8 down to S/N > 3.5 with a purity approaching 95% over the entire redshift range.
     * We quantify the sample purity, completeness and the uncertainties of the detection properties, such as richness, redshift, and position, by means of mock galaxy catalogues derived directly from the data.
 
+
+----
+
+## Oct 8:
+
+#### [Spatially Extended Low Ionization Emission Regions (LIERs) at z∼0.9](https://arxiv.org/abs/1810.02819)
+
+
+#### [CLEAR I: Ages and Metallicities of Quiescent Galaxies at 1.0<z<1.8 Derived from Deep Hubble Space Telescope Grism Data](https://arxiv.org/abs/1810.02824)
+
+
+#### [Chemical abundances and radial velocities in the extremely metal-poor galaxy DDO 68](https://arxiv.org/abs/1810.02830)
+
+
+#### [Super-Eddington Accretion in the WISE-Selected Extremely Luminous Infrared Galaxy W2246-0526](https://arxiv.org/abs/1810.02933)
+
+
+#### [SDSS-IV MaNGA: pattern speeds of barred galaxies](https://arxiv.org/abs/1810.03257)
+
+
+#### [The AGN Ionization Cones of NGC 5728 : I - Excitation and Nuclear Structure](https://arxiv.org/abs/1810.03258)
+
+
+#### [Evidence for Short ∼1 Myr Lifetimes from the He II Proximity Zones of z∼4 Quasars](https://arxiv.org/abs/1810.03258)
+
+
+#### [AMICO galaxy clusters in KiDS-DR3: weak-lensing mass calibration](https://arxiv.org/abs/1810.02827)
+
+
+#### [A Deep X-Ray Look At Abell 2142 --- Viscosity Constraints From Kelvin-Helmholtz Eddies, A Displaced Cool Peak That Makes A Warm Core, And A Possible Plasma Depletion Layer](https://arxiv.org/abs/1810.02813)
+
+
