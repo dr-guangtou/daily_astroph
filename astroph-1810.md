@@ -370,29 +370,63 @@ a fiducial ΛCDM model, finding A = 0.99 ± 0.17.
 ## Oct 8:
 
 #### [Spatially Extended Low Ionization Emission Regions (LIERs) at z∼0.9](https://arxiv.org/abs/1810.02819)
+    * We present spatially resolved emission diagnostics for eight z ∼ 0.9 galaxies that demonstrate extended low ionization emission-line regions (LIERs) over kpc scales.
+    * We modify the traditional Baldwin-Philips-Terlevich (BPT) emission line diagnostic diagram to use [SII]/(Hα+[NII]) instead of [NII]/Hα to overcome the blending of [NII] and Hα+[NII] in the low resolution slitless grism spectra. 
+    * The extended LINER-like emission present in all of our candidates, coupled with X-Ray properties consistent with star-forming galaxies and weak [OIII]λ5007Å detections, is inconsistent with purely nuclear sources (LINERs) driven by active galactic nuclei.
 
 
-#### [CLEAR I: Ages and Metallicities of Quiescent Galaxies at 1.0<z<1.8 Derived from Deep Hubble Space Telescope Grism Data](https://arxiv.org/abs/1810.02824)
+#### [CLEAR I: Ages and Metallicities of Quiescent Galaxies at 1.0<z<1.8 Derived from Deep Hubble Space  Telescope Grism Data](https://arxiv.org/abs/1810.02824)
+    - **Relevant, Important**
+    * HST Grism spectra: constrain the metallicities and (light-weighted) ages of massive (logM∗/M⊙ >10) galaxies selected to have quiescent stellar populations at 1.0 < z < 1.8. 
+    * We simulate a suite of stellar population models at the grism resolution, fit these to the data for each galaxy, and derive posterior likelihood distributions for metallicity and age.
+    * This implies that most of the massive quiescent galaxies at 1 < z < 1.8 had formed > 68% of their stellar mass by a redshift of z > 2.
+    * This is evidence that massive galaxies had enriched rapidly to approximately Solar metallicities as early as z ∼ 3.
 
 
 #### [Chemical abundances and radial velocities in the extremely metal-poor galaxy DDO 68](https://arxiv.org/abs/1810.02830)
+    - **Interesting**; as example of MODS spectra
+    * Deep MODS spectra: chemical abundances and radial velocities of six Hii regions in the
+extremely metal-poor star-forming dwarf galaxy DDO 68
+    * We confirm that DDO 68 is an extremely metal-poor galaxy, and a strong outlier in the luminosity - metallicity relation defined by star-forming galaxies. With the direct-method we find indeed an oxygen abundance of 12+log(O/H)=7.14±0.07 in the northernmost region of the galaxy and, although with large uncertainties, an even lower 12+log(O/H)=6.96±0.09 in the “tail”. 
+    * 氧丰度梯度是负的 -0.06 to -0.12 depending on methods.
+    * For nitrogen, instead, we infer much higher values, leading to log(N/O)∼ −1.4, at variance with the suggested existence of a tight plateau at −1.6 in extremely metal poor dwarfs.
 
 
 #### [Super-Eddington Accretion in the WISE-Selected Extremely Luminous Infrared Galaxy W2246-0526](https://arxiv.org/abs/1810.02933)
+    * We use optical and near-infrared spectroscopy to observe rest-UV emission lines and estimate the black hole mass of WISEA J224607.56−052634.9 (W2246−0526) at z = 4.601
+    * From the broad component of the Mgii-2799 ̊A emission line, we measure a black hole mass of log(MBH/M⊙) = 9.6 ± 0.4.
+    * This high Eddington ratio may reach the level where the luminosity is saturating due to photon trapping in the accretion flow, and be insensitive to the mass accretion rate.
 
 
 #### [SDSS-IV MaNGA: pattern speeds of barred galaxies](https://arxiv.org/abs/1810.03257)
+    * We apply the non-parametric method proposed by Tremaine & Weinberg to estimate the bar pattern speed for 53 barred galaxies
+    * Combining three independent bar length measurements and the circular velocity from Jeans Anisotropic modelling (JAM), we also determine the dimensionless ratio R of the corotation radius to the bar length.
+    * Galaxy’s position angle is the main uncertainty in determining the bar pattern speed.
+    * A positive correlation between the bar length and bar strength is found: the longer the bar, the stronger the bar.
 
 
 #### [The AGN Ionization Cones of NGC 5728 : I - Excitation and Nuclear Structure](https://arxiv.org/abs/1810.03258)
+    * The complex nuclear structure has a star-forming (SF) ring with a diameter of 2 kpc. A radio jet impacts on the ISM at about 200 pc from the nucleus, with the SN remnants in the SF ring also present.
+    * The AGN is hidden by a dust bar with up to 19 magnitudes of visual extinction; the dust temperature at the nuclear position is ∼ 870 K.
+    * Molecular hydrogen is spatially independent of the cones, concentrated in a disk equatorial to the star-forming ring, but also showing entrainment along the sides of the bicone.
 
 
 #### [Evidence for Short ∼1 Myr Lifetimes from the He II Proximity Zones of z∼4 Quasars](https://arxiv.org/abs/1810.03258)
+    * Quasar lifetime, The duration of quasar accretion episodes, is still uncertain by orders of magnitude (tQ ≃ 0.01 Myr − 1 Gyr).
+    * The size of a quasar’s He ii proximity zone, the region near the quasar itself where its own radiation dramatically alters the ionization state of the surrounding intergalactic medium (IGM), depends sensitively on its lifetime for tQ <= 30 Myr
+    * We introduce a Bayesian statistical method to infer the lifetimes of individual quasars which allows us to fully marginalize over the unknown ionization state of He ii in the surrounding IGM.
 
 
 #### [AMICO galaxy clusters in KiDS-DR3: weak-lensing mass calibration](https://arxiv.org/abs/1810.02827)
+    - **Relevant**
+    * The cluster sample comprises ∼ 7000 objects and covers the redshift range 0.1 < z < 0.6. 
+    * we model the data as a truncated NFW profile plus a 2-halo term, taking into account uncertainties related to concentration and miscentring. 
+    * HST光谱和数值模拟+1-D辐射转移算法 post-processing, 得到的QSO寿命都很短：We discuss our short ∼ 1 Myr inferred lifetimes in the context of other quasar lifetime constraints and the growth of SMBHs.
 
 
 #### [A Deep X-Ray Look At Abell 2142 --- Viscosity Constraints From Kelvin-Helmholtz Eddies, A Displaced Cool Peak That Makes A Warm Core, And A Possible Plasma Depletion Layer](https://arxiv.org/abs/1810.02813)
+    * We find that the southern cold front exhibits well-developed Kelvin-Helmholtz (KH) eddies seen in the sky plane.
+    * we constrain the effective viscosity to be at most 1/5 of Spitzer isotropic viscosity, but consistent with full Braginskii anisotropic viscosity for magnetized plasma.
+    * The cool peak itself is displaced ∼30 kpc from the BCG (the biggest such offset among centrally-peaked clusters), while the X-ray emission on a larger scale is still centered on the BCG, indicating that the BCG is at the center of the gravitational potential and the cool gas is sloshing in it.
 
 
