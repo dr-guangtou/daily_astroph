@@ -277,7 +277,7 @@
 #### [KMTNet Nearby Galaxy Survey I. : Optimal strategy for low surface brightness imaging with KMTNet](https://arxiv.org/abs/1810.02075)
     - **Relevant**
     * We present our observing strategy and optimal data reduction process to recover the faint extended features in the imaging data of NGC 1291 taken with KMTNet
-    * These results suggest that the deep imaging data produced by KMTNet are suitable to study the faint features of nearby galaxies such as outer disks and dwarf companions, but unideal (not impossible) to detect stellar halos. 
+    * These results suggest that the deep imaging data produced by KMTNet are suitable to study the faint features of nearby galaxies such as outer disks and dwarf companions, but unideal (not impossible) to detect stellar halos.
     * The one-dimensional profile revealed that NGC 1291 appeared to have Type I disk out to R ∼ 30 kpc with no obvious color gradient and excess light due to a stellar halo was undetected.
 
 
@@ -303,7 +303,7 @@
 
 #### [Dark Energy Survey Year 1 Results: Joint Analysis of Galaxy Clustering, Galaxy Lensing, and CMB Lensing Two-point Functions](https://arxiv.org/abs/1810.02322)
     * Auto and cross-correlations between three cosmic fields: the galaxy density field, the galaxy weak lensing shear field, and the cosmic microwave background (CMB) weak lensing convergence field.
-    * We test for consistency between these measurements and the DES-only two-point function measurements, finding no evidence for inconsistency in the context of flat ΛCDM cosmological models. 
+    * We test for consistency between these measurements and the DES-only two-point function measurements, finding no evidence for inconsistency in the context of flat ΛCDM cosmological models.
 
 #### [Dark Energy Survey Year 1 Results: tomographic cross-correlations between DES galaxies and CMB lensing from SPT+Planck](https://arxiv.org/abs/1810.02342)
     - **Relevant**
@@ -346,7 +346,7 @@
 
 #### [Dark Energy Survey Year 1 Results: Cross-correlation between DES Y1 galaxy weak lensing and SPT+Planck CMB weak lensing](https://arxiv.org/abs/1810.02441)
     * We cross-correlate galaxy weak lensing measurements from the Dark Energy Survey (DES) year-one (Y1) data with a cosmic microwave background (CMB) weak lensing map derived from South Pole Telescope (SPT) and Planck data
-    * We reject the hypothesis of no lensing with a significance of 10.8σ. 
+    * We reject the hypothesis of no lensing with a significance of 10.8σ.
     * We fit the amplitude of the correlation functions while fixing the cosmological parameters to
 a fiducial ΛCDM model, finding A = 0.99 ± 0.17.
 
@@ -371,13 +371,13 @@ a fiducial ΛCDM model, finding A = 0.99 ± 0.17.
 
 #### [Spatially Extended Low Ionization Emission Regions (LIERs) at z∼0.9](https://arxiv.org/abs/1810.02819)
     * We present spatially resolved emission diagnostics for eight z ∼ 0.9 galaxies that demonstrate extended low ionization emission-line regions (LIERs) over kpc scales.
-    * We modify the traditional Baldwin-Philips-Terlevich (BPT) emission line diagnostic diagram to use [SII]/(Hα+[NII]) instead of [NII]/Hα to overcome the blending of [NII] and Hα+[NII] in the low resolution slitless grism spectra. 
+    * We modify the traditional Baldwin-Philips-Terlevich (BPT) emission line diagnostic diagram to use [SII]/(Hα+[NII]) instead of [NII]/Hα to overcome the blending of [NII] and Hα+[NII] in the low resolution slitless grism spectra.
     * The extended LINER-like emission present in all of our candidates, coupled with X-Ray properties consistent with star-forming galaxies and weak [OIII]λ5007Å detections, is inconsistent with purely nuclear sources (LINERs) driven by active galactic nuclei.
 
 
 #### [CLEAR I: Ages and Metallicities of Quiescent Galaxies at 1.0<z<1.8 Derived from Deep Hubble Space  Telescope Grism Data](https://arxiv.org/abs/1810.02824)
     - **Relevant, Important**
-    * HST Grism spectra: constrain the metallicities and (light-weighted) ages of massive (logM∗/M⊙ >10) galaxies selected to have quiescent stellar populations at 1.0 < z < 1.8. 
+    * HST Grism spectra: constrain the metallicities and (light-weighted) ages of massive (logM∗/M⊙ >10) galaxies selected to have quiescent stellar populations at 1.0 < z < 1.8.
     * We simulate a suite of stellar population models at the grism resolution, fit these to the data for each galaxy, and derive posterior likelihood distributions for metallicity and age.
     * This implies that most of the massive quiescent galaxies at 1 < z < 1.8 had formed > 68% of their stellar mass by a redshift of z > 2.
     * This is evidence that massive galaxies had enriched rapidly to approximately Solar metallicities as early as z ∼ 3.
@@ -387,7 +387,7 @@ a fiducial ΛCDM model, finding A = 0.99 ± 0.17.
     - **Interesting**; as example of MODS spectra
     * Deep MODS spectra: chemical abundances and radial velocities of six Hii regions in the
 extremely metal-poor star-forming dwarf galaxy DDO 68
-    * We confirm that DDO 68 is an extremely metal-poor galaxy, and a strong outlier in the luminosity - metallicity relation defined by star-forming galaxies. With the direct-method we find indeed an oxygen abundance of 12+log(O/H)=7.14±0.07 in the northernmost region of the galaxy and, although with large uncertainties, an even lower 12+log(O/H)=6.96±0.09 in the “tail”. 
+    * We confirm that DDO 68 is an extremely metal-poor galaxy, and a strong outlier in the luminosity - metallicity relation defined by star-forming galaxies. With the direct-method we find indeed an oxygen abundance of 12+log(O/H)=7.14±0.07 in the northernmost region of the galaxy and, although with large uncertainties, an even lower 12+log(O/H)=6.96±0.09 in the “tail”.
     * 氧丰度梯度是负的 -0.06 to -0.12 depending on methods.
     * For nitrogen, instead, we infer much higher values, leading to log(N/O)∼ −1.4, at variance with the suggested existence of a tight plateau at −1.6 in extremely metal poor dwarfs.
 
@@ -419,8 +419,8 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 #### [AMICO galaxy clusters in KiDS-DR3: weak-lensing mass calibration](https://arxiv.org/abs/1810.02827)
     - **Relevant**
-    * The cluster sample comprises ∼ 7000 objects and covers the redshift range 0.1 < z < 0.6. 
-    * we model the data as a truncated NFW profile plus a 2-halo term, taking into account uncertainties related to concentration and miscentring. 
+    * The cluster sample comprises ∼ 7000 objects and covers the redshift range 0.1 < z < 0.6.
+    * we model the data as a truncated NFW profile plus a 2-halo term, taking into account uncertainties related to concentration and miscentring.
     * HST光谱和数值模拟+1-D辐射转移算法 post-processing, 得到的QSO寿命都很短：We discuss our short ∼ 1 Myr inferred lifetimes in the context of other quasar lifetime constraints and the growth of SMBHs.
 
 
@@ -430,3 +430,35 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
     * The cool peak itself is displaced ∼30 kpc from the BCG (the biggest such offset among centrally-peaked clusters), while the X-ray emission on a larger scale is still centered on the BCG, indicating that the BCG is at the center of the gravitational potential and the cool gas is sloshing in it.
 
 
+----
+
+## Oct 9:
+
+#### [Volumetric Star Formation laws of disc galaxies](https://arxiv.org/abs/1810.03616)
+
+
+#### [X-ray and multi-epoch optical/UV investigations of BAL to non-BAL quasar transformations](https://arxiv.org/abs/1810.03625)
+
+
+#### [Modeling ionized gas in low-metallicity environments: the Local Group dwarf galaxy IC10](https://arxiv.org/abs/1810.03633)
+
+
+#### [No cores in dark matter-dominated dwarf galaxies with bursty star formation histories](https://arxiv.org/abs/1810.03635)
+
+
+#### [On the structure and energetics of quasar broad absorption-line outflows](https://arxiv.org/abs/1810.03686)
+
+
+#### [The Lockman Hole Project: new constraints on the sub-mJy source counts from a wide-area 1.4 GHz mosaic](https://arxiv.org/abs/1810.03738)
+
+
+#### [Widespread Shocks in the Nucleus of NGC 404 Revealed by Near-infrared Integral Field Spectroscopy](https://arxiv.org/abs/1810.03858)
+
+
+#### [Near Infrared spectroscopic indices for unresolved stellar populations. I. Template galaxy spectra](https://arxiv.org/abs/1810.03927)
+
+
+#### [The XXL Survey XX: The 365 cluster catalogue](https://arxiv.org/abs/1810.03849)
+
+
+#### [An intrinsic link between long-term UV/optical variations and X-ray loudness in quasars](https://arxiv.org/abs/1810.03776)
