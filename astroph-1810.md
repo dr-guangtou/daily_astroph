@@ -435,30 +435,62 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 ## Oct 9:
 
 #### [Volumetric Star Formation laws of disc galaxies](https://arxiv.org/abs/1810.03616)
+    * Following the assumption of hydrostatic equilibrium, we have calculated the radial growth of the thickeness of the gaseous discs in the combined gravitational potential of dark matter, stars and gas for 12 nearby star-forming galaxies.
+    * We found a tight correlation with slope in the range 1.3-1.9 between the volume densities of gas (HI+H2) and of the SFR with a significantly smaller scatter than the surface-based (Kennicutt) law and no change in the slope over five orders of magnitude. 
+    * The break in the slope seen in the Kennicutt law is due to the disc flaring rather than to inefficiency of star formation at low surface densities.
+    * we discovered an unexpected correlation between the volume densities of HI and SFR, indicating that the atomic gas is a good tracer of the cold star-forming gas
 
 
 #### [X-ray and multi-epoch optical/UV investigations of BAL to non-BAL quasar transformations](https://arxiv.org/abs/1810.03625)
+    * X-ray and optical/UV study of eight Broad Absorption Line (BAL) to non-BAL transforming quasars at z ≈ 1.7–2.2
+    * The X-ray and optical/UV results in tandem are consistent with at least the X-ray absorbing material moving out of the line-of-sight, leaving an X-ray unabsorbed non-BAL quasar.
+    * The UV absorber might have become more highly ionized (in a shielding-gas scenario) or also moved out of the line-of-sight (in a wind-clumping scenario).
 
 
 #### [Modeling ionized gas in low-metallicity environments: the Local Group dwarf galaxy IC10](https://arxiv.org/abs/1810.03633)
+    * The Herschel Dwarf Galaxy Survey (DGS, Madden etal.2013)
+    * The relatively uniform physical properties of the clumps suggest a common origin for their star formation activity, which could be related to the feedback from stellar winds or supernovae of a previous generation of stars.
+    * The properties derived for ∼200 pc size "zones" have similar properties as the H ii regions they encompass, but with the larger regions tending to be more radiation-bounded. 
 
 
 #### [No cores in dark matter-dominated dwarf galaxies with bursty star formation histories](https://arxiv.org/abs/1810.03635)
+    * Earlier work has suggested that core formation requires a bursty and extended star formation history (SFH).
+    * APOSTLE和AURIGA模拟中的dwarf星系：we do not find evidence of core formation at any mass or any correlation between the inner slope of the DM density profile and temporal variations in the SFH.
+    * We conclude that recurrent bursts of star formation are not sufficient to cause the formation of cores, and that other conditions must also be met for baryons to be able to modify the central DM cusp.
 
 
 #### [On the structure and energetics of quasar broad absorption-line outflows](https://arxiv.org/abs/1810.03686)
+    * Quasar accretion-disk outflows might play an important role in galaxy evolution, but they are notoriously difficult to study due to line saturation and blending problems in the Lyα forest.
+    * Deeper and broader BALs are accompanied by weaker He ii λ1640 emission lines, consistent with softer ionising spectra leading to enhanced radiative acceleration.
+    * For reasonable actual distances, the median BAL outflow has minimum kinetic energy LK /L 􏰓 0.005(R/1.2pc) sufficient (by some estimates) for feedback to galaxy evolution. 
+    * LoBAL quasars have the largest me- dian outflow column densities, highest velocities, and weakest He ii λ1640 emission in our study; they are at one extreme in a continuum of quasar properties where softer ionising spectra produce more powerful outflows.
 
 
 #### [The Lockman Hole Project: new constraints on the sub-mJy source counts from a wide-area 1.4 GHz mosaic](https://arxiv.org/abs/1810.03738)
+    * the Lockman Hole Project - aimed at improving the extensive multi-band coverage available in the Lockman Hole region, through novel deep, wide-area, multi-frequency (60, 150, 350 MHz and 1.4 GHz) radio surveys.
+    * novel 1.4 GHz mosaic observations obtained with the Westerbork Synthesis Radio Telescope (WSRT). With an area coverage of 6.6 square degrees, this is the largest survey reaching an rms noise of 11 μJy/b.
+    * A clear excess is found with respect to the counts predicted by the semi-empirical radio sky simulations developed in the framework of the SKA Simulated Skies project. A preliminary analysis of the identified (and classified) sources suggests this excess is to be ascribed to star forming galaxies, which seem to show a steeper evolution than predicted.
 
 
 #### [Widespread Shocks in the Nucleus of NGC 404 Revealed by Near-infrared Integral Field Spectroscopy](https://arxiv.org/abs/1810.03858)
-
+    * Although NGC 404 is thought to host an intermediate mass black hole at its center, it has been unclear whether accretion onto the black hole or another mechanism such as shock excitation drives its LINER emission
+    * The H2 gas is in a central rotating disk and ratios of multiple H2 lines indicate that the molecular gas is thermally excited, with some contribution from UV fluorescence.
+    * The [FeII] emission is more extended and diffuse than the molecular gas and has a different kinematic structure that reaches higher velocities/dispersions.
+    * Finally, we find regions across the nucleus of NGC 404 with [FeII]/Paβ line ratios up to 6.5, ∼2.5 times higher than the ratio measured from spatially-integrated spectra.
+    * Shock是主要的激发因素
+    
 
 #### [Near Infrared spectroscopic indices for unresolved stellar populations. I. Template galaxy spectra](https://arxiv.org/abs/1810.03927)
+    - **Relevant, Useful**
+    * Our main goal is to find and calibrate new near-infrared spectral indices along the Hubble sequence of galaxies which will be used to obtain additional constraints to the population analysis based on medium resolution integrated spectra of galaxies.
+    * X-Shooter spectra spanning the optical and infrared wavelength (350-2400 nm) of bright nearby elliptical galaxies with resolving power R ∼4000-5400 were obtained 
 
 
 #### [The XXL Survey XX: The 365 cluster catalogue](https://arxiv.org/abs/1810.03849)
+    * We release a sample containing 365 clusters in total. In this paper, we give the details of the follow-up observations and explain the procedure adopted to validate the cluster spectroscopic redshifts.
+    * We release a sample containing 365 clusters in total. In this paper, we give the details of the follow-up observations and explain the procedure adopted to validate the cluster spectroscopic redshifts. 
+    * We also present an enlarged list of super-clusters and a sample of 18 possible fossil groups.
+    * 
 
 
 #### [An intrinsic link between long-term UV/optical variations and X-ray loudness in quasars](https://arxiv.org/abs/1810.03776)
