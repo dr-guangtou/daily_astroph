@@ -490,7 +490,6 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
     * We release a sample containing 365 clusters in total. In this paper, we give the details of the follow-up observations and explain the procedure adopted to validate the cluster spectroscopic redshifts.
     * We release a sample containing 365 clusters in total. In this paper, we give the details of the follow-up observations and explain the procedure adopted to validate the cluster spectroscopic redshifts.
     * We also present an enlarged list of super-clusters and a sample of 18 possible fossil groups.
-    *
 
 
 #### [An intrinsic link between long-term UV/optical variations and X-ray loudness in quasars](https://arxiv.org/abs/1810.03776)
@@ -501,24 +500,49 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 ## Oct 10:
 
 #### [AGN evolution from galaxy evolution viewpoint - II](https://arxiv.org/abs/1810.04170)
+    * we explore a co-evolution scenario in which AGN are associated only with the very last phases of the star-forming life of a galaxy. 
+    * The (mbh/m∗)Qing associated with quenching is given by the ratio of the global black hole accretion rate density (BHARD) and star-formation rate density (SFRD) at the epoch in question.
+    * Observational data on the SFRD and BHARD suggests (mbh/m∗)Qing ∝ (1 + z)^1.5 below redshift 2.
 
 
 #### [Probing the dynamical state, baryon content, and multiphase nature of galaxy clusters with bright background QSOs](https://arxiv.org/abs/1810.04179)
+    * initiated a programme to study the physical/dynamical state of gas in galaxy clusters and the impact of the cluster environment on gaseous halos of individual galaxies using X-ray imaging and UV absorption line spectroscopy of background QSOs.
+    * The baryon contents in the hot ICM and stars of these clusters within r500 are lower than the values expected from the gravitational masses, according to the standard cosmology.
+    * estimate column densities of the hot ICM along the sightlines toward the background QSOs as well as place upper limits on the warm-hot phase for the one sightline with existing UV observation
 
 
 #### [Baryon-induced dark matter cores in the EAGLE simulations](https://arxiv.org/abs/1810.04186)
-
+    * star formation gas density threshold plays a critical role.
+    * At low thresholds, baryons are unable to collapse to high enough density to dominate the gravitational potential before being dispersed by the energetic feedback of evolving stars. They therefore have little effect on the dark matter, even in systems with extended and bursty star formation 
+    * At higher thresholds, baryons collapse to densities comparable to the dark matter before being suddenly ejected by feedback, reducing the central dark matter density.
+    * Core formation requires that baryons collect at the centre over a relatively long period of time, as this allows the halo to contract before baryons are expelled, maximizing the effect. Core formation thus occurs in a small number of distinctive gas blowouts
+    * Short fluctuations, such as those associated with bursty star formation, are ineffective at altering the dark matter inner profile.
+   
 
 #### [The ALMA Detection of Extraplanar 13CO in a Ram-pressure-stripped Galaxy and Its Implication](https://arxiv.org/abs/1810.04188)
+    * we report here the extraplanar 13CO detection that has never before been seen in ram- pressure-stripped galaxies. 
+    * As the main donor of 13C in the interstellar medium is evolved stars, the presence of 13CO strongly suggests that heavy elements likely originated from the galactic disk, not from the newly formed stars in situ.
+    * provides evidence for the ram pressure stripping of heavy elements, which can chemically enrich the halo gas, and potentially the intracluster medium, in the case that they are pushed strongly enough to escape the galaxy.
 
 
 #### [Photoionization models for extreme Lyα λ1216 and HeII λ1640 ratios in quasar halos, and PopIII vs AGN diagnostics](https://arxiv.org/abs/1810.04463)
+    * explore potential mechanisms to produce extremely high Lyα/HeII flux ratios, or to enhance the observed number of Lyα photons per incident ionizing photon, in extended AGN-photoionized nebulae at high-redshift.
+    * compute models to simulate, in the low density regime, photoionization of interstellar gas by the radiation field of a luminous AGN.
+    * Low ionization parameter, a relatively soft or filtered ionizing spectrum, low gas metallicity, κ-distributed electron energies, or reflection of Lyα photons by neutral hydrogen can all result in significantly enhanced Lyα relative to other line
+    * In the cases of low gas metallicity, reflection by HI, or a hard or filtered ionizing spectrum, the observed number of Lyα photons per incident ionizing photon is itself significantly enhanced above the nominal Case B value of 0.66 due to collisional excitation
+    * We find that at low gas metallicity (e.g. Z/Z⊙=0.1) the production of Lyα photons is predominantly via collisional excitation rather than by recombination.
+    * we find that the collisional excitation of Lyα becomes much more efficient if the ionizing continuum spectrum has been pre-filtered through an optically thin screen of gas closer to the AGN 
 
 
 #### [Gravitationally lensed quasars in Gaia: III. 22 new lensed quasars from Gaia Data Release 2](https://arxiv.org/abs/1810.04480)
+    * We report the discovery and spectroscopic confirmation of 22 new gravitationally lensed quasars found using Gaia data release 2
+    * 探测方法：multiple Gaia detections around objects in quasar candidate catalogues, modelling of unWISE coadd pixels using Gaia astrometry, and Gaia detections offset from photometric and spectroscopic galaxies.
+    * as expected, we are biased towards systems with bright lensing galaxies and low source redshifts.
 
 
 #### [The spin alignment of galaxies with the large-scale tidal field in hydrodynamic simulations](https://arxiv.org/abs/1810.04581)
+    * we use the state-of-the-art hydrodynamic simulation, Illustris-1, to investigate mainly the spin–LSS correlation of galaxies at redshift of z = 0
+    * We mainly find that the spins of low- mass, blue, oblate galaxies are preferentially aligned with the slowest collapsing direction (e3) of the large-scale tidal field, while massive, red, prolate galaxy spins tend to be perpendicular to e3
+    * The alignment was found to be primarily correlated with the galaxy stellar mass.
 
 
-#### [The spin alignment of galaxies with the large-scale tidal field in hydrodynamic simulations](https://arxiv.org/abs/1810.04581)
