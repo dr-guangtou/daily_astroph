@@ -436,7 +436,7 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 #### [Volumetric Star Formation laws of disc galaxies](https://arxiv.org/abs/1810.03616)
     * Following the assumption of hydrostatic equilibrium, we have calculated the radial growth of the thickeness of the gaseous discs in the combined gravitational potential of dark matter, stars and gas for 12 nearby star-forming galaxies.
-    * We found a tight correlation with slope in the range 1.3-1.9 between the volume densities of gas (HI+H2) and of the SFR with a significantly smaller scatter than the surface-based (Kennicutt) law and no change in the slope over five orders of magnitude. 
+    * We found a tight correlation with slope in the range 1.3-1.9 between the volume densities of gas (HI+H2) and of the SFR with a significantly smaller scatter than the surface-based (Kennicutt) law and no change in the slope over five orders of magnitude.
     * The break in the slope seen in the Kennicutt law is due to the disc flaring rather than to inefficiency of star formation at low surface densities.
     * we discovered an unexpected correlation between the volume densities of HI and SFR, indicating that the atomic gas is a good tracer of the cold star-forming gas
 
@@ -450,7 +450,7 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 #### [Modeling ionized gas in low-metallicity environments: the Local Group dwarf galaxy IC10](https://arxiv.org/abs/1810.03633)
     * The Herschel Dwarf Galaxy Survey (DGS, Madden etal.2013)
     * The relatively uniform physical properties of the clumps suggest a common origin for their star formation activity, which could be related to the feedback from stellar winds or supernovae of a previous generation of stars.
-    * The properties derived for ∼200 pc size "zones" have similar properties as the H ii regions they encompass, but with the larger regions tending to be more radiation-bounded. 
+    * The properties derived for ∼200 pc size "zones" have similar properties as the H ii regions they encompass, but with the larger regions tending to be more radiation-bounded.
 
 
 #### [No cores in dark matter-dominated dwarf galaxies with bursty star formation histories](https://arxiv.org/abs/1810.03635)
@@ -462,7 +462,7 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 #### [On the structure and energetics of quasar broad absorption-line outflows](https://arxiv.org/abs/1810.03686)
     * Quasar accretion-disk outflows might play an important role in galaxy evolution, but they are notoriously difficult to study due to line saturation and blending problems in the Lyα forest.
     * Deeper and broader BALs are accompanied by weaker He ii λ1640 emission lines, consistent with softer ionising spectra leading to enhanced radiative acceleration.
-    * For reasonable actual distances, the median BAL outflow has minimum kinetic energy LK /L 􏰓 0.005(R/1.2pc) sufficient (by some estimates) for feedback to galaxy evolution. 
+    * For reasonable actual distances, the median BAL outflow has minimum kinetic energy LK /L 􏰓 0.005(R/1.2pc) sufficient (by some estimates) for feedback to galaxy evolution.
     * LoBAL quasars have the largest me- dian outflow column densities, highest velocities, and weakest He ii λ1640 emission in our study; they are at one extreme in a continuum of quasar properties where softer ionising spectra produce more powerful outflows.
 
 
@@ -478,19 +478,47 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
     * The [FeII] emission is more extended and diffuse than the molecular gas and has a different kinematic structure that reaches higher velocities/dispersions.
     * Finally, we find regions across the nucleus of NGC 404 with [FeII]/Paβ line ratios up to 6.5, ∼2.5 times higher than the ratio measured from spatially-integrated spectra.
     * Shock是主要的激发因素
-    
+
 
 #### [Near Infrared spectroscopic indices for unresolved stellar populations. I. Template galaxy spectra](https://arxiv.org/abs/1810.03927)
     - **Relevant, Useful**
     * Our main goal is to find and calibrate new near-infrared spectral indices along the Hubble sequence of galaxies which will be used to obtain additional constraints to the population analysis based on medium resolution integrated spectra of galaxies.
-    * X-Shooter spectra spanning the optical and infrared wavelength (350-2400 nm) of bright nearby elliptical galaxies with resolving power R ∼4000-5400 were obtained 
+    * X-Shooter spectra spanning the optical and infrared wavelength (350-2400 nm) of bright nearby elliptical galaxies with resolving power R ∼4000-5400 were obtained
 
 
 #### [The XXL Survey XX: The 365 cluster catalogue](https://arxiv.org/abs/1810.03849)
     * We release a sample containing 365 clusters in total. In this paper, we give the details of the follow-up observations and explain the procedure adopted to validate the cluster spectroscopic redshifts.
-    * We release a sample containing 365 clusters in total. In this paper, we give the details of the follow-up observations and explain the procedure adopted to validate the cluster spectroscopic redshifts. 
+    * We release a sample containing 365 clusters in total. In this paper, we give the details of the follow-up observations and explain the procedure adopted to validate the cluster spectroscopic redshifts.
     * We also present an enlarged list of super-clusters and a sample of 18 possible fossil groups.
-    * 
+    *
 
 
 #### [An intrinsic link between long-term UV/optical variations and X-ray loudness in quasars](https://arxiv.org/abs/1810.03776)
+
+
+----
+
+## Oct 10:
+
+#### [AGN evolution from galaxy evolution viewpoint - II](https://arxiv.org/abs/1810.04170)
+
+
+#### [Probing the dynamical state, baryon content, and multiphase nature of galaxy clusters with bright background QSOs](https://arxiv.org/abs/1810.04179)
+
+
+#### [Baryon-induced dark matter cores in the EAGLE simulations](https://arxiv.org/abs/1810.04186)
+
+
+#### [The ALMA Detection of Extraplanar 13CO in a Ram-pressure-stripped Galaxy and Its Implication](https://arxiv.org/abs/1810.04188)
+
+
+#### [Photoionization models for extreme Lyα λ1216 and HeII λ1640 ratios in quasar halos, and PopIII vs AGN diagnostics](https://arxiv.org/abs/1810.04463)
+
+
+#### [Gravitationally lensed quasars in Gaia: III. 22 new lensed quasars from Gaia Data Release 2](https://arxiv.org/abs/1810.04480)
+
+
+#### [The spin alignment of galaxies with the large-scale tidal field in hydrodynamic simulations](https://arxiv.org/abs/1810.04581)
+
+
+#### [The spin alignment of galaxies with the large-scale tidal field in hydrodynamic simulations](https://arxiv.org/abs/1810.04581)
