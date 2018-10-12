@@ -546,3 +546,41 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
     * The alignment was found to be primarily correlated with the galaxy stellar mass.
 
 
+----
+
+## Oct 11:
+
+#### [The Hot, Accreted Halo of NGC 891](https://arxiv.org/abs/1810.04680)
+
+
+#### [X-rays across the galaxy population - III. The incidence of AGN as a function of star formation rate](https://arxiv.org/abs/1810.04683)
+
+
+#### [Dense-gas tracers and carbon isotopes in five 2.5<z<4 lensed dusty star forming galaxies from the SPT SMG sample](https://arxiv.org/abs/1810.04695)
+
+
+#### [Mirach's Goblin: Discovery of a dwarf spheroidal galaxy behind the Andromeda galaxy](https://arxiv.org/abs/1810.04741)
+
+
+#### [A Supra-galactic Conundrum: The Globular Clusters Colour Pattern in Virgo Galaxies](https://arxiv.org/abs/1810.04784)
+
+
+#### [ALMA observations of HCN and HCO+ outflows in the merging galaxy NGC 3256](https://arxiv.org/abs/1810.04821)
+
+
+#### [Black Hole Mass Scaling Relations for Spiral Galaxies. I. MBH-M∗,sph](https://arxiv.org/abs/1810.04887)
+
+
+#### [Black Hole Mass Scaling Relations for Spiral Galaxies. II. MBH-M∗,tot and MBH-M∗,disk](https://arxiv.org/abs/1810.04888)
+
+
+#### [A Dearth of Atomic Hydrogen in NGC1052-DF2](https://arxiv.org/abs/1810.04938)
+
+
+#### [The MUSE-Wide Survey: A determination of the Lyman α emitter luminosity function at 3<z<6](https://arxiv.org/abs/1810.05037)
+
+
+#### [Imaging Molecular Gas at High Redshift](https://arxiv.org/abs/1810.05053)
+
+
+#### [Mapping quasar light echoes in 3D with Lyα forest tomography](https://arxiv.org/abs/1810.05156)
