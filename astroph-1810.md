@@ -551,12 +551,22 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 ## Oct 11:
 
 #### [The Hot, Accreted Halo of NGC 891](https://arxiv.org/abs/1810.04680)
+    * We present a measurement of the metallicity around NGC 891, a nearby, edge-on, Milky Way analog. We find that the hot gas is dominated by low metallicity gas near the virial temperature at kT = 0.20 ± 0.01 keV and Z/Z⊙ = 0.14 ± 0.03
+    * this gas co-exists with hotter (kT = 0.71 ± 0.04 keV) gas that is concentrated near the star-forming regions in the disk. 
+    * The low metallicity gas is consistent with the inner part of an extended halo accreted from the intergalactic medium, which has been modulated by star formation.
+    * There is much more cold gas than hot gas around NGC 891, which is difficult to explain in either the accretion or supernova-driven outflow scenarios.
 
 
 #### [X-rays across the galaxy population - III. The incidence of AGN as a function of star formation rate](https://arxiv.org/abs/1810.04683)
+    * We derive robust AGN fractions and average specific accretion rates that account for variations in X-ray sensitivity and stellar-mass-dependent selection biases.
+    * 对于Main sequence的SF星系：We find a linear correlation between the average SFR and both the AGN fraction and average specific accretion rate that accounts for much of the complex stellar-mass and redshift dependence of the incidence of AGN in star-forming galaxies
+    * We find that the AGN fraction is significantly elevated for galaxies that are still star-forming but with SFRs below the main sequence, indicating an enhanced AGN triggering rate. 
+    * The incidence of high-accretion-rate AGN is enhanced in starburst galaxies and evolves more mildly with redshift than within the rest of the galaxy population, suggesting mergers play a role in driving AGN activity in such high-SFR galaxies.
 
 
 #### [Dense-gas tracers and carbon isotopes in five 2.5<z<4 lensed dusty star forming galaxies from the SPT SMG sample](https://arxiv.org/abs/1810.04695)
+    * ALMA program targeting dense-gas tracers (HCN(5-4), HCO+(5-4), and HNC(5-4)) in five strongly lensed galaxies from the South Pole Telescope (SPT) submillimeter galaxy sample.
+    * On average, the HCN(5-4) and HCO+(5-4) luminosities of our sources are a factor of ∼1.7 fainter than expected, based on the local L’HCN(5−4)-LIR relation 
 
 
 #### [Mirach's Goblin: Discovery of a dwarf spheroidal galaxy behind the Andromeda galaxy](https://arxiv.org/abs/1810.04741)
@@ -584,3 +594,32 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 
 #### [Mapping quasar light echoes in 3D with Lyα forest tomography](https://arxiv.org/abs/1810.05156)
+
+
+----
+
+## Oct 14:
+
+#### [Enhanced star formation in both disks and ram pressure stripped tails of GASP jellyfish galaxies](https://arxiv.org/abs/1810.05164)
+
+
+#### [Morphological evolution and galactic sizes in the L-Galaxies SA model](https://arxiv.org/abs/1810.05173)
+
+
+#### [PAHs as tracers of the molecular gas in star-forming galaxies](https://arxiv.org/abs/1810.05178)
+
+
+#### [Galaxies flowing in the oriented saddle frame of the cosmic web](https://arxiv.org/abs/1810.05211)
+
+
+#### [Evolution of the Star-Forming Galaxies from z=0.7 to 1.2 with eBOSS Emission Line Galaxies](https://arxiv.org/abs/1810.05318)
+
+
+#### [Evolution of Galaxy Types and HI Gas Contents in Galaxy Groups](https://arxiv.org/abs/1810.05408)
+
+
+#### [Early Observations of the MHONGOOSE Galaxies: Getting Ready for MeerKAT](https://arxiv.org/abs/1810.05467)
+
+
+#### [The Effects of Galaxy Assembly Bias on the Inference of Growth Rate from Redshift-Space Distortions](https://arxiv.org/abs/1810.05183)
+
