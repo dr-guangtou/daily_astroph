@@ -623,3 +623,18 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 #### [The Effects of Galaxy Assembly Bias on the Inference of Growth Rate from Redshift-Space Distortions](https://arxiv.org/abs/1810.05183)
 
+
+----
+
+## Oct 15:
+
+#### [The integrated properties of the CALIFA galaxies: Model-derived galaxy parameters and quenching of star formation](https://arxiv.org/abs/1810.05736)
+
+
+#### [A Giant Protocluster of Galaxies at Redshift 5.7](https://arxiv.org/abs/1810.05765)
+
+
+#### [The UVES Spectral Quasar Absorption Database (SQUAD) Data Release 1: The first 10 million seconds](https://arxiv.org/abs/1810.06136)
+
+
+#### [Detection of 84-GHz class I methanol maser emission towards NGC 253](https://arxiv.org/abs/1810.06179)
