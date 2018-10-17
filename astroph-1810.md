@@ -629,6 +629,8 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 ## Oct 15:
 
 #### [The integrated properties of the CALIFA galaxies: Model-derived galaxy parameters and quenching of star formation](https://arxiv.org/abs/1810.05736)
+    * CIGALE的UV-to-IR spectral energy distributions (SED)拟合
+    * Comparison of the integrated galaxy parameters derived from multi-band SED fitting with those obtained from modelling the Integral Field Unit (IFU) spectra and show the clear advantage of using the SED-derived star formation rates (SFR).
 
 
 #### [A Giant Protocluster of Galaxies at Redshift 5.7](https://arxiv.org/abs/1810.05765)
@@ -638,3 +640,34 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 
 #### [Detection of 84-GHz class I methanol maser emission towards NGC 253](https://arxiv.org/abs/1810.06179)
+
+
+#### [Bipolar ionization cones in the Extended Narrow-Line Region of nearby QSO2s](https://arxiv.org/abs/1810.06246)
+
+
+----
+
+## Oct 16:
+
+#### [The COS Absorption Survey of Baryon Harbors (CASBaH): Warm-hot Circumgalactic Gas Reservoirs Traced by Ne VIII Absorption](https://arxiv.org/abs/1810.06560)
+
+
+#### [Discovering AGN-driven winds through their infrared emission: I. General method and wind location](https://arxiv.org/abs/1810.06562)
+
+
+#### [Figuring Out Gas and Galaxies in Enzo (FOGGIE). I. Resolving Simulated Circumgalactic Absorption at 2 < z < 2.5](https://arxiv.org/abs/1810.06566)
+
+
+#### [The Changing-Look Quasar Mrk 590 is Awakening](https://arxiv.org/abs/1810.06616)
+
+
+#### [Structure of high-redshift galaxies in cosmological simulations](https://arxiv.org/abs/1810.06647)
+
+
+#### [Measurement of the primordial helium abundance from the intergalactic medium](https://arxiv.org/abs/1810.06561)
+
+
+#### [Investigating the X-ray enhancements of highly radio-loud quasars at z > 4](https://arxiv.org/abs/1810.06572)
+
+
+#### [Investigating the X-ray enhancements of highly radio-loud quasars at z > 4](https://arxiv.org/abs/1810.06572)
