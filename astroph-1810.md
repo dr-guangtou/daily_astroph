@@ -671,3 +671,36 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 
 #### [Investigating the X-ray enhancements of highly radio-loud quasars at z > 4](https://arxiv.org/abs/1810.06572)
+
+
+----
+
+## Oct 17:
+
+#### [The origin of the red sequence galaxy population in the EAGLE simulation](https://arxiv.org/abs/1810.07189)
+
+
+#### [A Collection of New Dwarf Galaxies in NGC5128's Western Halo](https://arxiv.org/abs/1810.07194)
+
+
+#### [KROSS-SAMI: A Direct IFS Comparison of the Tully-Fisher Relation Across 8 Gyr Since z≈1](https://arxiv.org/abs/1810.07202)
+
+
+#### [The MOSDEF Survey: Stellar Continuum Spectra and Star Formation Histories of Active, Transitional, and Quiescent Galaxies at 1.4<\lowercase{z}<2.6](https://arxiv.org/abs/1810.07204)
+
+
+#### [Evidence for the First Extragalactic Hydrogen Recombination Line Maser in NGC 253](https://arxiv.org/abs/1810.07213)
+
+
+#### [Quenching timescales of galaxies in the EAGLE simulations](https://arxiv.org/abs/1810.07335)
+
+
+#### [An FMOS Survey of moderate-luminosity broad-line AGN in COSMOS, SXDS and E-CDF-S](https://arxiv.org/abs/1810.07445)
+
+
+#### [Radiative properties of the first galaxies: rapid transition between blue and red](https://arxiv.org/abs/1810.07621)
+
+
+#### [Spitzer Planck Herschel Infrared Cluster (SPHerIC) survey: Candidate galaxy clusters at 1.3 < z < 3 selected by high star-formation rate](https://arxiv.org/abs/1810.07330)
+
+
