@@ -631,18 +631,32 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 #### [The integrated properties of the CALIFA galaxies: Model-derived galaxy parameters and quenching of star formation](https://arxiv.org/abs/1810.05736)
     * CIGALE的UV-to-IR spectral energy distributions (SED)拟合
     * Comparison of the integrated galaxy parameters derived from multi-band SED fitting with those obtained from modelling the Integral Field Unit (IFU) spectra and show the clear advantage of using the SED-derived star formation rates (SFR).
+    * Quenching of star formation is caused by a combination of gas deficiency and the inefficiency of the existing gas to form new stars. Exploring the plausible mechanisms that could produce this effect
 
 
 #### [A Giant Protocluster of Galaxies at Redshift 5.7](https://arxiv.org/abs/1810.05765)
+    - **Interesting**
+    * Here we report a giant protocluster of galaxies at redshift z ≈ 5.7, when the Universe was only one billion years old 
+    * It is embedded in an even larger overdense region with at least 41 spectroscopically confirmed, luminous Lyα-emitting galaxies
+    * Its LAE density is 6.6 times the average density at z ≈ 5.7. It is the only one of its kind in a LAE survey in four square degrees on the sky. 
 
 
 #### [The UVES Spectral Quasar Absorption Database (SQUAD) Data Release 1: The first 10 million seconds](https://arxiv.org/abs/1810.06136)
+    * 467 fully reduced, continuum-fitted high-resolution quasar spectra from the Ultraviolet and Visual Echelle Spectrograph (UVES)
+    * The SQUAD spectra are fully reproducible from the raw, archival UVES exposures with open-source software, including our uves_popler tool for combining multiple extracted echelle exposures which we document here 
+    * We provide a catalogue of 155 DLAs whose Lyman-α lines are covered by the DR1 spectra, 18 of which are reported for the first time.
 
 
 #### [Detection of 84-GHz class I methanol maser emission towards NGC 253](https://arxiv.org/abs/1810.06179)
+    * NGC 253 for the presence of 84.5 GHz (5−1 → 40E) methanol emission using the Australia Telescope Compact Array.
+    * This maser emission is offset from dynamical centre of NGC 253, in a region with previously detected emission from class I maser transitions
+    * The emission features a narrow linewidth (∼12 km s−1) with a luminosity approximately 5 orders of magnitude higher than typical Galactic sources. 
+    * The three methanol maser transitions observed toward NGC 253 each show a different distribution, suggesting differing physical conditions between the maser sites
 
 
 #### [Bipolar ionization cones in the Extended Narrow-Line Region of nearby QSO2s](https://arxiv.org/abs/1810.06246)
+    * 用HST窄带图像研究低红移Type-2 QSO：in order to constrain the geometry of their Extended Narrow-Line Regions (ENLR), as recent ground-based studies suggest these regions become more spherical at high luminosities due to destruction of the torus.
+    * We find instead elongated ENLRs reaching 4 to 19 kpc from the nucleus and bipolar ionization cones in [OIII]/(Hα+[NII]) excitation maps indicating that the torus survives these luminosities
 
 
 ----
@@ -704,3 +718,33 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 #### [Spitzer Planck Herschel Infrared Cluster (SPHerIC) survey: Candidate galaxy clusters at 1.3 < z < 3 selected by high star-formation rate](https://arxiv.org/abs/1810.07330)
 
 
+
+----
+
+## Oct 18:
+
+#### [The gas fractions of dark matter haloes hosting simulated ∼L⋆ galaxies are governed by the feedback history of their black holes](https://arxiv.org/abs/1810.07696)
+
+
+#### [Circumgalactic gas at its extreme: tidal gas streams around the Whale galaxy NGC 4631 explored with HST/COS](https://arxiv.org/abs/1810.07700)
+
+
+#### [Barred galaxies in cosmological zoom-in simulations: the importance of feedback](https://arxiv.org/abs/1810.07701)
+
+
+#### [The evolution of the warm absorber reveals a shocked outflow in the narrow line Seyfert 1 galaxy IRAS 17020+4544](https://arxiv.org/abs/1810.07714)
+
+
+#### [Characterisation of the radial oxygen abundance distribution in disk galaxies](https://arxiv.org/abs/1810.08006)
+
+
+#### [The physics of Lyman-alpha escape from high-redshift galaxies](https://arxiv.org/abs/1810.08185)
+
+
+#### [A Deep Learning Approach to Galaxy Cluster X-ray Masses](https://arxiv.org/abs/1810.07703)
+
+
+#### [RELICS: High-Resolution Constraints on the Inner Mass Distribution of the z=0.83 Merging Cluster RXJ0152.7-1357 from strong lensing](https://arxiv.org/abs/1810.08122)
+
+
+#### [Multiband galaxy morphologies for CLASH: a convolutional neural network transferred from CANDELS](https://arxiv.org/abs/1810.07857)
