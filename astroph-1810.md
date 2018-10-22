@@ -657,6 +657,7 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 #### [Bipolar ionization cones in the Extended Narrow-Line Region of nearby QSO2s](https://arxiv.org/abs/1810.06246)
     * 用HST窄带图像研究低红移Type-2 QSO：in order to constrain the geometry of their Extended Narrow-Line Regions (ENLR), as recent ground-based studies suggest these regions become more spherical at high luminosities due to destruction of the torus.
     * We find instead elongated ENLRs reaching 4 to 19 kpc from the nucleus and bipolar ionization cones in [OIII]/(Hα+[NII]) excitation maps indicating that the torus survives these luminosities
+    * The radius of the ENLR keeps increasing with L[OIII] in our data, implying that the ENLR can extend to distances beyond the limit of the galaxy if gas is present there
 
 
 ----
@@ -664,6 +665,7 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 ## Oct 16:
 
 #### [The COS Absorption Survey of Baryon Harbors (CASBaH): Warm-hot Circumgalactic Gas Reservoirs Traced by Ne VIII Absorption](https://arxiv.org/abs/1810.06560)
+    * We present a sample of 30 galaxies at 0.49 < zgal < 1.44 probed by Ne viii absorption to study the highly ionized circumgalactic medium (CGM) based on high-S/N ultraviolet spectra of z > 1 QSOs
 
 
 #### [Discovering AGN-driven winds through their infrared emission: I. General method and wind location](https://arxiv.org/abs/1810.06562)
@@ -748,3 +750,31 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 
 #### [Multiband galaxy morphologies for CLASH: a convolutional neural network transferred from CANDELS](https://arxiv.org/abs/1810.07857)
+
+
+----
+
+## Oct 18:
+
+#### [The large-scale structure of the halo of the Andromeda galaxy II. Hierarchical structure in the Pan-Andromeda Archaeological Survey](https://arxiv.org/abs/1810.08234)
+
+
+#### [3C 17: The BCG of a galaxy cluster at z=0.22](https://arxiv.org/abs/1810.08274)
+
+
+#### [The Morphology of Hα emission in CALIFA galaxies](https://arxiv.org/abs/1810.08340)
+
+
+#### [A headless tadpole galaxy: the high gas-phase metallicity of the ultra-diffuse galaxy UGC 2162](https://arxiv.org/abs/1810.08453)
+
+
+#### [PKSB1740-517: An ALMA view of the cold gas feeding a distant interacting young radio galaxy](https://arxiv.org/abs/1810.08507)
+
+
+#### [Dependency of halo concentration on mass, redshift and fossilness in Magneticum hydrodynamic simulations](https://arxiv.org/abs/1810.08212)
+
+
+#### [An application of machine learning techniques to galaxy cluster mass estimation using the MACSIS simulations](https://arxiv.org/abs/1810.08430)
+
+
+#### [An application of machine learning techniques to galaxy cluster mass estimation using the MACSIS simulations](https://arxiv.org/abs/1810.08430)
