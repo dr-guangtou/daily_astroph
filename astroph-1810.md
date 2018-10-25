@@ -754,7 +754,7 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 ----
 
-## Oct 18:
+## Oct 21:
 
 #### [The large-scale structure of the halo of the Andromeda galaxy II. Hierarchical structure in the Pan-Andromeda Archaeological Survey](https://arxiv.org/abs/1810.08234)
 
@@ -778,3 +778,114 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 
 #### [An application of machine learning techniques to galaxy cluster mass estimation using the MACSIS simulations](https://arxiv.org/abs/1810.08430)
+
+
+----
+
+## Oct 22:
+
+#### [Discovery of two quasars at z=5 from the OGLE Survey](https://arxiv.org/abs/1810.08622)
+
+
+#### [Linking bar- and interaction-driven molecular gas concentration with centrally-enhanced star formation in EDGE-CALIFA galaxies](https://arxiv.org/abs/1810.08624)
+
+
+#### [Exploring the properties of low-frequency radio emission and magnetic fields in a sample of compact galaxy groups using the LOFAR Two-Metre Sky Survey (LoTSS)](https://arxiv.org/abs/1810.08708)
+
+
+#### [What determines the local metallicity of galaxies: global stellar mass, local stellar mass surface density or star formation rate?](https://arxiv.org/abs/1810.08922)
+
+
+#### [Dependence of Spiral Arms Pitch Angle on Wavelength as a Test of Density Wave Theory](https://arxiv.org/abs/1810.08979)
+
+
+#### [Effective temperature of ionizing stars of extragalactic HII regions -- II: nebular parameter relations based on CALIFA data](https://arxiv.org/abs/1810.09018)
+
+
+#### [A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).IV. A tail of Ionised Gas in the Merger Remnant NGC 4424](https://arxiv.org/abs/1810.09234)
+
+
+#### [Green Peas in X-rays](https://arxiv.org/abs/1810.09318)
+
+
+#### [Quantifying baryon effects on the matter power spectrum and the weak lensing shear correlation](https://arxiv.org/abs/1810.08629)
+
+
+----
+
+## Oct 23:
+
+#### [A Simple Non-equilibrium Feedback Model for Galaxy-Scale Star Formation: Delayed Feedback and SFR Scatter](https://arxiv.org/abs/1810.09460)
+
+
+#### [The Mass of the Globular Cluster Systems of Early Type Galaxies as Proxy for the Total Galaxy Mass](https://arxiv.org/abs/1810.09475)
+
+
+#### [Identifying Tidal Disruption Events via Prior Photometric Selection of Their Preferred Hosts](https://arxiv.org/abs/1810.09507)
+
+
+#### [Far-infrared And Nebular Star-formation Rates Of Dusty Star Forming Galaxies From Herschel And 3d-hst At Z~1](https://arxiv.org/abs/1810.09592)
+
+
+#### [FirstLight III: Rest-frame UV-optical spectral energy distributions of simulated galaxies at cosmic dawn](https://arxiv.org/abs/1810.09754)
+
+
+#### [Young massive clusters in the interacting LIRG Arp 299: evidence for the dependence of star cluster formation and evolution on environment](https://arxiv.org/abs/1810.09897)
+
+
+#### [Dark Energy Survey Year 1 Results: Methods for Cluster Cosmology and Application to the SDSS](https://arxiv.org/abs/1810.09456)
+
+
+#### [Sensitivity of dark matter haloes to their accretion histories](https://arxiv.org/abs/1810.09473)
+
+
+#### [Variability-selected low-luminosity active galactic nuclei candidates in the 7 Ms Chandra Deep Field-South](https://arxiv.org/abs/1810.09465)
+
+
+----
+
+## Oct 24:
+
+#### [Numerical Models for the Diffuse Ionized Gas in Galaxies. II. Three-dimensional radiative transfer in inhomogeneous interstellar structures as a tool for analyzing the diffuse ionized gas](https://arxiv.org/abs/1810.10008)
+
+
+#### [H2 self-shielding with non-LTE rovibrational populations: implications for cooling in protogalaxies](https://arxiv.org/abs/1810.10010)
+
+
+#### [The impact of stripped Nuclei on the Super-Massive Black Hole number density in the local Universe](https://arxiv.org/abs/1810.10011)
+
+
+#### [Dissecting the Main Sequence: AGN Activity and Bulge Growth in the Local Universe](https://arxiv.org/abs/1810.10021)
+
+
+#### [Compact star-forming galaxies preferentially quenched to become PSBs in z<1 clusters](https://arxiv.org/abs/1810.10023)
+
+
+#### [Imprints of the first billion years: Lyman limit systems at z∼5](https://arxiv.org/abs/1810.10040)
+
+
+#### [Structural Analogs of the Milky Way Galaxy: Stellar Populations in the Boxy Bulges of NGC 4565 and NGC 5746](https://arxiv.org/abs/1810.10073)
+
+
+#### [The Far Infrared Emission of the First Massive Galaxies](https://arxiv.org/abs/1810.10130)
+
+
+#### [Overdensity of submillimeter galaxies around the z≃2.3 MAMMOTH-1 nebula](https://arxiv.org/abs/1810.10140)
+
+
+#### [The Effect of Galaxy Interactions on Molecular Gas Properties](https://arxiv.org/abs/1810.10162)
+
+
+#### [SLUG IV: A Novel Forward-Modelling Method to Derive the Demographics of Star Clusters](https://arxiv.org/abs/1810.10173)
+
+
+#### [What drives the radio slopes in radio quiet quasars?](https://arxiv.org/abs/1810.10245)
+
+
+#### [Galaxy Cluster Mass Estimates in the Presence of Substructure](https://arxiv.org/abs/1810.10474)
+
+
+#### [Maturing Satellite Kinematics into a Competitive Probe of the Galaxy-Halo Connection](https://arxiv.org/abs/1810.10511)
+
+
+#### [Deblending galaxy superpositions with branched generative adversarial networks](https://arxiv.org/abs/1810.10098)
