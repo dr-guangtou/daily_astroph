@@ -889,3 +889,56 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 
 #### [Deblending galaxy superpositions with branched generative adversarial networks](https://arxiv.org/abs/1810.10098)
+
+
+----
+
+## Oct 25:
+
+#### [The SAMI Galaxy Survey: comparing 3D spectroscopic observations with galaxies from cosmological hydrodynamical simulations](https://arxiv.org/abs/1810.10542)
+
+
+#### [The interstellar medium of dwarf galaxies: new insights from Machine Learning analysis of emission line spectra](https://arxiv.org/abs/1810.10548)
+
+
+#### [The COSMOS-UltraVISTA stellar-to-halo mass relationship: new insights on galaxy formation efficiency out to z∼5](https://arxiv.org/abs/1810.10557)
+
+
+#### [Revealing environmental dependence of molecular gas content in a distant X-ray cluster at z=2.51](https://arxiv.org/abs/1810.10558)
+
+
+#### [The SCUBA-2 Web Survey: I. Observations of CO(3-2) in hyper-luminous QSO fields](https://arxiv.org/abs/1810.10655)
+
+
+#### [Impact of Weak Lensing Mass Calibration on eROSITA Galaxy Cluster Cosmological Studies -- a Forecast](https://arxiv.org/abs/1810.10553)
+
+
+#### [Mass Calibration of Optically Selected DES clusters using a Measurement of CMB-Cluster Lensing with SPTpol Data](https://arxiv.org/abs/1810.10998)
+
+
+----
+
+## Oct 28:
+
+#### [A Survey of Atomic Carbon [C I] in High-redshift Main-Sequence Galaxies](https://arxiv.org/abs/1810.11029)
+
+
+#### [The hierarchical assembly of galaxies and black holes in the first billion years: predictions for the era of gravitational wave astronomy](https://arxiv.org/abs/1810.11033)
+
+
+#### [Star cluster formation in cosmological simulations. III. Dynamical and chemical evolution](https://arxiv.org/abs/1810.11036)
+
+
+#### [Cold gas in the early Universe. Survey for neutral atomic-carbon in GRB host galaxies at 1 < z < 6 from optical afterglow spectroscopy](https://arxiv.org/abs/1810.11064)
+
+
+#### [The Spectroscopic Signature of Variability in High-Redshift Quasars](https://arxiv.org/abs/1810.11064)
+
+
+#### [The host galaxies of luminous type 2 AGN at z∼0.3-0.4](https://arxiv.org/abs/1810.11240)
+
+
+#### [Reliable mass calculation in spherical gravitating systems](https://arxiv.org/abs/1810.11375)
+
+
+#### [An uncertainty principle for star formation - IV. On the nature and filtering of diffuse emission](https://arxiv.org/abs/1810.11405)
