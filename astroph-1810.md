@@ -942,3 +942,61 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 
 #### [An uncertainty principle for star formation - IV. On the nature and filtering of diffuse emission](https://arxiv.org/abs/1810.11405)
+
+
+----
+
+## Oct 29:
+
+#### [Origins of molecular clouds in early-type galaxies](https://arxiv.org/abs/1810.11465)
+
+
+#### [Complete IRAC mapping of the CFHTLS-DEEP, MUSYC AND NMBS-II FIELDS](https://arxiv.org/abs/1810.11508)
+
+
+#### [The diverse galaxy counts in the environment of high-redshift massive black holes in Horizon-AGN](https://arxiv.org/abs/1810.11535)
+
+
+#### [The Origin of Double-peaked Narrow Lines in Active Galactic Nuclei. IV. Association with Galaxy Mergers](https://arxiv.org/abs/1810.11543)
+
+
+#### [Revealing the Broad Line Region of NGC 1275: The Relationship to Jet Power](https://arxiv.org/abs/1810.11716)
+
+
+#### [Exploring the Physical Properties of the Cool Circumgalactic Medium with a Semi-Analytic Model](https://arxiv.org/abs/1810.11771)
+
+
+#### [Exploring the Physical Properties of the Cool Circumgalactic Medium with a Semi-Analytic Model](https://arxiv.org/abs/1810.11771)
+
+
+#### [The Discovery of a Gravitationally Lensed Quasar at z = 6.51](https://arxiv.org/abs/1810.11924)
+
+
+#### [The Discovery of A Luminous Broad Absorption Line Quasar at A Redshift of 7.02](https://arxiv.org/abs/1810.11925)
+
+
+#### [Exploring Reionization-Era Quasars III: Discovery of 16 Quasars at 6.4≲z≲6.9 with DESI Legacy Imaging Surveys and UKIRT Hemisphere Survey and Quasar Luminosity Function at z∼6.7](https://arxiv.org/abs/1810.11926)
+
+
+#### [Filling in the Quasar Redshift Gap at z∼5.5 II: A Complete Survey of Luminous Quasars in the Post-Reionization Universe](https://arxiv.org/abs/1810.11927)
+
+
+#### [A redshift survey of the nearby galaxy cluster Abell 2107: Global rotation of the cluster and its connection to large-scale structures in the universe](https://arxiv.org/abs/1810.11985)
+
+
+#### [Monitoring AGNs with Hβ Asymmetry. I. First Results: Velocity-resolved Reverberation Mapping](https://arxiv.org/abs/1810.11996)
+
+
+#### [Atomic hydrogen in IllustrisTNG galaxies: the impact of environment parallelled with local 21-cm surveys](https://arxiv.org/abs/1810.12158)
+
+
+#### [HST/COS observations of the newly discovered obscuring outflow in NGC 3783](https://arxiv.org/abs/1810.12206)
+
+
+#### [A dynamical view on stellar metallicity gradient diversity across the Hubble sequence with CALIFA](https://arxiv.org/abs/1810.12223)
+
+
+#### [A combined X-ray, optical and radio view of the merging galaxy cluster MACS J0417.5-1154](https://arxiv.org/abs/1810.12071)
+
+
+#### [Supercluster A2142 and collapse in action - infalling and merging groups and galaxy transformations](https://arxiv.org/abs/1810.12122)
