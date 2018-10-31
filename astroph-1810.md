@@ -1000,3 +1000,43 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 
 #### [Supercluster A2142 and collapse in action - infalling and merging groups and galaxy transformations](https://arxiv.org/abs/1810.12122)
+
+
+----
+
+## Oct 30:
+
+#### [Two Growing Modes Lead to the Morphology-Quiescence Relation in Galaxies](https://arxiv.org/abs/1810.12298)
+
+
+#### [Constraining the volume density of Dusty Star-Forming Galaxies through the first 3mm Number Counts from ALMA](https://arxiv.org/abs/1810.12300)
+
+
+#### [ALMA reveals evidence for spiral arms, bars, and rings in high-redshift submillimeter galaxies](https://arxiv.org/abs/1810.12307)
+
+
+#### [Titans of the Early Universe: The Prato Statement on the Origin of the First Supermassive Black Holes](https://arxiv.org/abs/1810.12310)
+
+
+#### [Dark Molecular Gas in Simulations of z~0 Disc Galaxies](https://arxiv.org/abs/1810.12315)
+
+
+#### [Not So Heavy Metals: Black Hole Feedback Enriches The Circumgalactic Medium](https://arxiv.org/abs/1810.12319)
+
+
+#### [Emission Line Metallicities From The Faint Infrared Grism Survey](https://arxiv.org/abs/1810.12342)
+
+
+#### [Dancing in the Dark: Satellites of dwarf galaxies as probes of the first star formation](https://arxiv.org/abs/1810.12417)
+
+
+#### [Discovery of massive warm-hot circumgalactic medium around NGC 3221](https://arxiv.org/abs/1810.12454)
+
+
+#### [WALLABY Early Science - I. The NGC 7162 Galaxy Group](https://arxiv.org/abs/1810.12466)
+
+
+#### [Abundance matching for low mass galaxies in the CDM and FDM models](https://arxiv.org/abs/1810.12891)
+
+
+#### [The Impact of Photometric Redshift Errors on Lensing Statistics in Ray-Tracing Simulations](https://arxiv.org/abs/1810.12312)
