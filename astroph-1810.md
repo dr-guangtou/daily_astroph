@@ -1040,3 +1040,39 @@ extremely metal-poor star-forming dwarf galaxy DDO 68
 
 
 #### [The Impact of Photometric Redshift Errors on Lensing Statistics in Ray-Tracing Simulations](https://arxiv.org/abs/1810.12312)
+
+
+----
+
+## Oct 31:
+
+#### [Using convolutional neural networks to predict galaxy metallicity from three-color images](https://arxiv.org/abs/1810.12913)
+
+
+#### [Satellite Galaxies in the Illustris-1 Simulation: Poor Tracers of the Mass Distribution](https://arxiv.org/abs/1810.12914)
+
+
+#### [Towards a radially-resolved semi-analytic model for the evolution of disc galaxies tuned with machine learning](https://arxiv.org/abs/1810.12919)
+
+
+#### [Cold Exponential Disks From Interstellar Fountains](https://arxiv.org/abs/1810.12939)
+
+
+#### [Two Thresholds for Globular Cluster Formation and their Dominance of Star Formation in the Early-Universe](https://arxiv.org/abs/1810.12940)
+
+
+#### [Search for gas accretion imprints in voids: I. Sample selection and results for NGC 428](https://arxiv.org/abs/1810.12944)
+
+
+#### [The Robustness of Cosmological Hydrodynamic Simulation Predictions to Changes in Numerics and Cooling Physics](https://arxiv.org/abs/1810.12946)
+
+
+#### [Lyman α Properties of Simulated Galaxies in Overdense Regions: Effects of Galactics Winds at z > 6](https://arxiv.org/abs/1810.12957)
+
+
+#### [RELICS: Strong Lensing Analysis of MACS J0417.5-1154 and Predictions for Observing the Magnified High-Redshift Universe with JWST](https://arxiv.org/abs/1810.13439)
+
+
+#### [The importance of secondary halos for strong lensing in massive galaxy clusters across redshift](https://arxiv.org/abs/1810.13330)
+
+
