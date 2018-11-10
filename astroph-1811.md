@@ -199,3 +199,34 @@ variability to constrain quasar-wind properties
 
 
 #### [Forging new worlds: high-resolution synthetic galaxies with chained generative adversarial networks](https://arxiv.org/abs/1810.03081)
+
+
+----
+
+## Nov 8:
+
+#### [CIGALE: a python Code Investigating GALaxy Emission](https://arxiv.org/abs/1810.03094)
+
+
+#### [The Evolution of Molecular Gas Fraction Traced by the CO Tully-Fisher Relation](https://arxiv.org/abs/1810.03107)
+
+
+#### [Testing Feedback Regulated Star Formation in Gas Rich, Turbulent Disk Galaxies](https://arxiv.org/abs/1810.03108)
+
+
+#### [A panchromatic spatially resolved study of the inner 500 pc of NGC 1052 - I: Stellar population](https://arxiv.org/abs/1810.03121)
+
+
+#### [A catalogue of nuclear stellar velocity dispersions of nearby galaxies from Hα STIS spectra to constrain supermassive black hole masses](https://arxiv.org/abs/1810.03160)
+
+
+#### [Expected intermediate mass black holes in the Virgo cluster. II. Late-type galaxies](https://arxiv.org/abs/1810.03232)
+
+
+#### [Theoretical Predictions of Colors and Metallicity of the Intra-Cluster Light](https://arxiv.org/abs/1810.03253)
+
+
+#### [Multicomponent Power Density Spectra of Kepler AGNs, an instrumental artifact or a physical origin?](https://arxiv.org/abs/1810.03330)
+
+
+#### [Updated Results on the Galaxy-Halo Connection from Satellite Kinematics in SDSS](https://arxiv.org/abs/1810.03596)
