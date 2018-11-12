@@ -230,3 +230,52 @@ variability to constrain quasar-wind properties
 
 
 #### [Updated Results on the Galaxy-Halo Connection from Satellite Kinematics in SDSS](https://arxiv.org/abs/1810.03596)
+
+
+#### [Updated Results on the Galaxy-Halo Connection from Satellite Kinematics in SDSS](https://arxiv.org/abs/1810.03596)
+
+
+----
+
+## Nov 11:
+
+#### [Observational determination of the galaxy bias from cosmic variance with a random pointing survey: Clustering of z~2 galaxies from Hubble's BoRG survey](https://arxiv.org/abs/1810.03265)
+
+
+#### [Resolving on 100 pc scales the UV-continuum in Lyman-α emitters between redshift 2 to 3 with gravitational lensing](https://arxiv.org/abs/1810.03628)
+
+
+#### [How to measure galaxy star-formation histories I: Parametric models](https://arxiv.org/abs/1810.03635)
+
+
+#### [Quasar Accretion Disk Sizes from Continuum Reverberation Mapping in the DES Standard Star Fields](https://arxiv.org/abs/1810.03638)
+
+
+#### [A population of luminous accreting black holes with hidden mergers](https://arxiv.org/abs/1810.03641)
+
+
+#### [Galaxy inclination and the IRX-beta relation: Effects on UV star-formation rate measurements at intermediate to high redshifts](https://arxiv.org/abs/1810.03671)
+
+
+#### [Galaxy And Mass Assembly (GAMA): The sSFR-M* relation part I - σsSFR-M* as a function of sample, SFR indicator and environment](https://arxiv.org/abs/1810.03712)
+
+
+#### [Radio Galaxy Zoo: Observational evidence for environment as the cause of radio source asymmetry](https://arxiv.org/abs/1810.03726)
+
+
+#### [Finding high-redshift strong lenses in DES using convolutional neural networks](https://arxiv.org/abs/1810.03786)
+
+
+#### [Inner bars also buckle. The MUSE TIMER view of the double-barred galaxy NGC 1291](https://arxiv.org/abs/1810.03855)
+
+
+#### [Initial Mass Function Variations Cannot Explain the Ionizing Spectrum of Low Metallicity Starbursts](https://arxiv.org/abs/1810.03856)
+
+
+#### [Powerful mechanical-driven outflows in the central parsecs of the Low-Luminosity Active Galactic Nucleus ESO428-G14](https://arxiv.org/abs/1810.03985)
+
+
+#### [CHANG-ES XII: A LOFAR and VLA view of the edge-on star-forming galay NGC 3556](https://arxiv.org/abs/1810.04015)
+
+
+#### [Detecting Radio-AGN signatures in Red geysers](https://arxiv.org/abs/1810.04072)
