@@ -240,6 +240,10 @@ variability to constrain quasar-wind properties
 ## Nov 11:
 
 #### [Observational determination of the galaxy bias from cosmic variance with a random pointing survey: Clustering of z~2 galaxies from Hubble's BoRG survey](https://arxiv.org/abs/1810.03265)
+    * Gravitational clustering broadens the count-in-cells distribution of galaxies for surveys along uncorrelated (well-separated) lines of sight beyond Poisson noise.
+    * measure this excess “cosmic” variance to constrain the galaxy bias --> 独立于2PCF的限制
+    * we present an observational application of these methods using data from 141 uncorrelated fields, We detect a clear excess in the variance of the galaxy number counts distribution compared to Poisson expectations, from which we estimate a galaxy bias b ≈ 3.63 ± 0.57.
+    * demonstrate that with N 􏰂 100 sight-lines, each containing N 􏰂 5 objects, the counts-in-cell analysis provides a robust measurement of the bias
 
 
 #### [Resolving on 100 pc scales the UV-continuum in Lyman-α emitters between redshift 2 to 3 with gravitational lensing](https://arxiv.org/abs/1810.03628)
@@ -264,18 +268,73 @@ variability to constrain quasar-wind properties
 
 
 #### [Finding high-redshift strong lenses in DES using convolutional neural networks](https://arxiv.org/abs/1810.03786)
+    * We train two ensembles of neural networks on training sets consisting of simulated lenses, simulated non-lenses, and real sources.
+    *  During visual inspection we rate 84 as "probably" or "definitely" lenses. Four of these are previously known lenses or lens candidates
 
 
 #### [Inner bars also buckle. The MUSE TIMER view of the double-barred galaxy NGC 1291](https://arxiv.org/abs/1810.03855)
+    * We report on the discovery of the first Box-Peanut (B/P) structure in an inner bar detected in the face-on galaxy NGC 1291.
+    * The B/P structure is detected as bi-symmetric minima of the h4 moment of the line-of-sight velocity distribution along the major axis of the inner bar, as expected from numerical simulations.
+    * They also suggest that inner bars are long-lived structures, thus imposing tight constraints to their possible formation mechanisms.
 
 
 #### [Initial Mass Function Variations Cannot Explain the Ionizing Spectrum of Low Metallicity Starbursts](https://arxiv.org/abs/1810.03856)
+    - **Interesting, Relevant**
+    * We find that while the flux capable of ionizing hydrogen is only weakly dependent on IMF parameters, the photon flux responsible for the He II and O VI lines is far more sensitive to assumptions. 
+    * In our current models this flux arises primarily from helium and Wolf-Rayet stars which have partially or fully lost their hydrogen envelopes.
+    * Even the most extreme IMFs cannot reproduce the He II ionizing flux observed in some high redshift galaxies, suggesting a source other than stellar photospheres.
 
 
 #### [Powerful mechanical-driven outflows in the central parsecs of the Low-Luminosity Active Galactic Nucleus ESO428-G14](https://arxiv.org/abs/1810.03985)
+    * This work reports on the jet-driven mechanical energy and the corresponding mass outflow deposited by the jet in the central 170 parsecs of the nearby LLAGN ESO 428-G14.
+    * The jet kinetic output is traced through the coronal line [Si vi] at 19641 Angstrom.
+    * From the energetics of the ionized gas it is found that the mass outflow rate of the coronal gas is in the range from 3−8 Msun/yr
 
 
 #### [CHANG-ES XII: A LOFAR and VLA view of the edge-on star-forming galay NGC 3556](https://arxiv.org/abs/1810.04015)
+    * We find that the spectral index in the galactic midplane is, as expected for young CRe, α ≈ −0.7 and steepens towards the halo of the galaxy as a consequence of spectral ageing.
+    * While pure diffusion cannot explain our data, advection can, particularly if we assume a linearly accelerating wind.
 
 
 #### [Detecting Radio-AGN signatures in Red geysers](https://arxiv.org/abs/1810.04072)
+    * We compare the nuclear radio activity of the red geysers to a matched control sample with similar stellar mass, redshift, rest frame NUV − r color, axis ratio and presence of ionized gas.
+    * In addition to a 3 times higher FIRST detection rate, we find that red geysers have a 5σ higher level of average radio flux than control galaxies. 
+    * Red geysers and a possibly-related class with disturbed Hα emission account for 40% of all radio-detected red galaxies with log (M⋆/M⊙) < 11.
+    * Our results support a picture in which episodic AGN activity drives large-scale-relatively weak ionized winds that may provide a feedback mechanism for many early-type galaxies.
+
+
+----
+
+## Nov 11:
+
+#### [The hidden giant: discovery of an enormous Galactic dwarf satellite in Gaia DR2](https://arxiv.org/abs/1810.04082)
+
+
+#### [Systematically Measuring Ultra Diffuse Galaxies (SMUDGes). I. Survey Description and First Results in the Coma Galaxy Cluster and Environs](https://arxiv.org/abs/1810.04098)
+
+
+#### [Kinematics and dynamics of the luminous infrared galaxy pair NGC 5257/58 (Arp 240)](https://arxiv.org/abs/1810.04158)
+
+
+#### [The z=0.54 LoBAL Quasar SDSS J085053.12+445122.5: II. The Nature of Partial Covering in the Broad-Absorption-Line Outflow](https://arxiv.org/abs/1810.04174)
+
+
+#### [A Comprehensive Bayesian Discrimination of the Simple Stellar Population Model, Star Formation History and Dust Attenuation Law in the Spectral Energy Distribution Modeling of Galaxies](https://arxiv.org/abs/1810.04180)
+
+
+#### [The AGN Ionization Cones of NGC 5728 : II - Kinematics](https://arxiv.org/abs/1810.04513)
+
+
+#### [Constraining the three-dimensional orbits of galaxies under ram pressure stripping with convolutional neural networks](https://arxiv.org/abs/1810.04553)
+
+
+#### [Low Surface Brightness Galaxy catalogue selected from the alpha.40-SDSS DR7 Survey and Tully-Fisher relation](https://arxiv.org/abs/1810.04569)
+
+
+#### [Cosmological interpretation of the color-magnitude diagrams of galaxy clusters](https://arxiv.org/abs/1810.04605)
+
+
+#### [Optical Integral Field Spectroscopy observations applied to simulated galaxies: Testing the fossil record method](https://arxiv.org/abs/1810.04856)
+
+
+#### [Spectacular HST observations of the Coma galaxy D100 and star formation in its ram pressure stripped tail](https://arxiv.org/abs/1810.04916)
