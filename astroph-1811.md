@@ -58,13 +58,13 @@ variability to constrain quasar-wind properties
 
 
 #### [GASP XIII. Star formation in gas outside galaxies](https://arxiv.org/abs/1810.00823)
-    * RPS气体：We demonstrate that the dominating ionization mechanism of this gas (between 64% and 94% of the Hα emission in the tails depending on the diagnostic diagram used) is photoion- ization by young massive stars due to ongoing star formation (SF) taking place in the stripped tails. 
+    * RPS气体：We demonstrate that the dominating ionization mechanism of this gas (between 64% and 94% of the Hα emission in the tails depending on the diagnostic diagram used) is photoion- ization by young massive stars due to ongoing star formation (SF) taking place in the stripped tails.
     * The tail clumps follow scaling relations (Mgas − M∗, LHα − σ, SFR-Mgas) similar to disk clumps, and their stellar masses are comparable to Ultra Compact Dwarfs and Globular Clusters.
     * The diffuse gas component in the tails is ionized by a combination of SF and composite/LINER-like emission likely due to thermal conduction or turbulence.
 
 
 #### [ALMA observations of molecular tori around massive black holes](https://arxiv.org/abs/1810.00984)
-    * We report Atacama Large Millimeter/submillimeter Array (ALMA) observations of CO(3-2) emission in a sample of 7 Seyfert/LINER galaxies at the unprecedented spatial resolution 
+    * We report Atacama Large Millimeter/submillimeter Array (ALMA) observations of CO(3-2) emission in a sample of 7 Seyfert/LINER galaxies at the unprecedented spatial resolution
 
 
 #### [Constraining the Mass Density of Free-Floating Black Holes using Razor-thin Lensing Arcs](https://arxiv.org/abs/1810.00637)
@@ -280,7 +280,7 @@ variability to constrain quasar-wind properties
 
 #### [Initial Mass Function Variations Cannot Explain the Ionizing Spectrum of Low Metallicity Starbursts](https://arxiv.org/abs/1810.03856)
     - **Interesting, Relevant**
-    * We find that while the flux capable of ionizing hydrogen is only weakly dependent on IMF parameters, the photon flux responsible for the He II and O VI lines is far more sensitive to assumptions. 
+    * We find that while the flux capable of ionizing hydrogen is only weakly dependent on IMF parameters, the photon flux responsible for the He II and O VI lines is far more sensitive to assumptions.
     * In our current models this flux arises primarily from helium and Wolf-Rayet stars which have partially or fully lost their hydrogen envelopes.
     * Even the most extreme IMFs cannot reproduce the He II ionizing flux observed in some high redshift galaxies, suggesting a source other than stellar photospheres.
 
@@ -298,7 +298,7 @@ variability to constrain quasar-wind properties
 
 #### [Detecting Radio-AGN signatures in Red geysers](https://arxiv.org/abs/1810.04072)
     * We compare the nuclear radio activity of the red geysers to a matched control sample with similar stellar mass, redshift, rest frame NUV − r color, axis ratio and presence of ionized gas.
-    * In addition to a 3 times higher FIRST detection rate, we find that red geysers have a 5σ higher level of average radio flux than control galaxies. 
+    * In addition to a 3 times higher FIRST detection rate, we find that red geysers have a 5σ higher level of average radio flux than control galaxies.
     * Red geysers and a possibly-related class with disturbed Hα emission account for 40% of all radio-detected red galaxies with log (M⋆/M⊙) < 11.
     * Our results support a picture in which episodic AGN activity drives large-scale-relatively weak ionized winds that may provide a feedback mechanism for many early-type galaxies.
 
@@ -338,3 +338,31 @@ variability to constrain quasar-wind properties
 
 
 #### [Spectacular HST observations of the Coma galaxy D100 and star formation in its ram pressure stripped tail](https://arxiv.org/abs/1810.04916)
+
+
+----
+
+## Nov 11:
+
+#### [Weak lensing analysis of galaxy pairs using CS82 data](https://arxiv.org/abs/1810.04940)
+
+
+#### [Satellite galaxies in the Illustris-1 simulation: anisotropic locations around relatively isolated hosts](https://arxiv.org/abs/1810.04942)
+
+
+#### [HST emission-line images of nearby 3CR radio galaxies: two photoionization, accretion and feedback modes](https://arxiv.org/abs/1810.04946)
+
+
+#### [Detection of a Star Forming Galaxy in the Center of a Low-Mass Galaxy Cluster](https://arxiv.org/abs/1810.04958)
+
+
+#### [Ambient Column Densities of Highly Ionized Oxygen in Precipitation-Limited Circumgalactic Media](https://arxiv.org/abs/1810.04976)
+
+
+#### [Dark matter stripping in galaxy clusters: a look at the Stellar to Halo Mass relation in the Illustris simulation](https://arxiv.org/abs/1810.04996)
+
+
+#### [Direct Detection of Quasar Feedback Via the Sunyaev-Zeldovich Effect](https://arxiv.org/abs/1810.05023)
+
+
+#### [Hierarchical Bayesian approach for estimating physical properties in nearby galaxies: Age Maps (Paper II)](https://arxiv.org/abs/1810.05273)
