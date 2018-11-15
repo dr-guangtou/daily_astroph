@@ -323,9 +323,16 @@ variability to constrain quasar-wind properties
 
 
 #### [The AGN Ionization Cones of NGC 5728 : II - Kinematics](https://arxiv.org/abs/1810.04513)
+    * Kinematics derived from near-IR and optical data from the SINFONI and MUSE IFUs on the VLT reveal AGN-driven outflows powered by a super-massive black hole
+    * The symmetric bicone outflows show rapid acceleration to ±250 km s−1
+    * Over the AGN active lifetime of ∼10^7 years, 1.6 × 108 M⊙ of gas can become gravitationally unbound from the galaxy, a large proportion of the gas mass available for star formation in the nuclear region.
 
 
 #### [Constraining the three-dimensional orbits of galaxies under ram pressure stripping with convolutional neural networks](https://arxiv.org/abs/1810.04553)
+    - **Interesting**
+    * For a given density of intracluster medium (ICM) and a given velocity of a disk galaxy, RPS can be controlled by two angles (θ and φ) that define the angular relationship between the direction vector of the galaxy’s three-dimensional (3D) motion within its host cluster and the galaxy’s spin vector
+    * We first train a CNN by using ∼ 105 synthesized images of gaseous distributions of the galaxies from numerous RPS models with different θ and φ.
+    * This result suggests that if the ICM is in hydrostatic equilibrium (thus not moving), the 3D orbit of a disk galaxy within its host cluster can be constrained by the spatial distribution of the gas being stripped by RPS.
 
 
 #### [Low Surface Brightness Galaxy catalogue selected from the alpha.40-SDSS DR7 Survey and Tully-Fisher relation](https://arxiv.org/abs/1810.04569)
@@ -345,24 +352,80 @@ variability to constrain quasar-wind properties
 ## Nov 11:
 
 #### [Weak lensing analysis of galaxy pairs using CS82 data](https://arxiv.org/abs/1810.04940)
+    - **Relevant**
+    * We determine halo masses for the Total sample of pairs as well as for Interacting, Red and Higher luminosity pair subsamples with ∼ 3σ confidence
+    * Derived lensing masses were compared to a proxy of the dynamical mass, obtaining a good correlation. However, there is a large discrepancy between lensing masses and the dynamical mass estimates, which could be accounted by astrophysical processes such as dynamical friction, by the inclusion of unbound pairs, and by significant deviations of the density distribution from a SIS and NFW profiles in the inner regions.
 
 
 #### [Satellite galaxies in the Illustris-1 simulation: anisotropic locations around relatively isolated hosts](https://arxiv.org/abs/1810.04942)
+    - **Relevant**
+    * As expected from previous studies, the satellites are distributed anisotropically in the plane of the sky, with a preference for being located near the major axes of their hosts.
+    * When measured with respect to the hosts’ dark matter surface mass density, the mean satellite location depends strongly on host stellar mass and luminosity, with the satellites of the faintest, least massive hosts showing the greatest anisotropy.
+    * The satellite locations are, however, dependent upon the stellar masses of the satellites, with the most massive satellites having the most anisotropic distributions.
 
 
 #### [HST emission-line images of nearby 3CR radio galaxies: two photoionization, accretion and feedback modes](https://arxiv.org/abs/1810.04946)
+    * Based on nuclear emission line ratios, we divide the sample into High and Low Excitation Galaxies (HEGs and LEGs). We observe different line morphologies, extended line emission on kpc scale, large [O III]/Hα scatter across the galaxies, and a radio-line alignment.
+    * We find evidence of correlations between line luminosities and (radio and X-ray) nuclear luminosities. All these results point to a main common origin, the active nucleus, which ionize the surrounding gas.
+    * For LEGs (hot-gas accretors), the synchrotron emission from the jet represents the main source of ionizing photons. The lack of cold gas and star formation in their hosts accounts for the moderate ionized-gas masses and sizes.
+    * For HEGs (cold-gas accretors), an ionizing continuum from a standard disk and shocks from the powerful jets are the main sources of photoionization, with the contribution from star formation.
 
 
 #### [Detection of a Star Forming Galaxy in the Center of a Low-Mass Galaxy Cluster](https://arxiv.org/abs/1810.04958)
+    - **Interesting, Relevant**
+    * In this work, we utilize XMM-Newton X-ray observations of five galaxy clusters to map the morphology of the intracluster medium (ICM), characterize the galaxy clusters, determine the position of the cluster center, and measure the offset between the cluster center and the superluminous disk galaxies.
+    * We demonstrate that one superluminous lenticular galaxy, 2MASX J10405643-0103584, resides at the center of a low-mass (M500 = 1014 M⊙) galaxy cluster. This represents the first conclusive evidence that a superluminous disk galaxy is the central BCG of a galaxy cluster.
 
 
 #### [Ambient Column Densities of Highly Ionized Oxygen in Precipitation-Limited Circumgalactic Media](https://arxiv.org/abs/1810.04976)
+    * This paper presents predictions for CGM absorption lines (O VI, O VII, O VIII, Ne VIII, N V) that are based on precipitation-regulated feedback models, which posit that the radiative cooling time of the ambient medium cannot drop much below 10 times the freefall time without triggering a strong feedback event.
+    * Within the precipitation framework, the strongest O VI absorption lines result from vertical mixing of the CGM that raises low-entropy ambient gas to greater altitudes, because adiabatic cooling of the uplifted gas then lowers its temperature and raises the fractional abundance of O5+
 
 
 #### [Dark matter stripping in galaxy clusters: a look at the Stellar to Halo Mass relation in the Illustris simulation](https://arxiv.org/abs/1810.04996)
+    * We find that subhaloes start losing their dark matter as soon as they reach ∼ 1.5 × Rvir from the centre of their host, and that up to 80% of their dark matter content get stripped during infall.
 
 
 #### [Direct Detection of Quasar Feedback Via the Sunyaev-Zeldovich Effect](https://arxiv.org/abs/1810.05023)
+    - **Interesting**
+    * The nature and energetics of feedback from thermal winds in quasars can be constrained via observations of the Sunyaev-Zeldovich Effect (SZE) induced by the bubble of thermal plasma blown into the intergalactic medium by the quasar wind.
+    * we have made the first detection of such a bubble, associated with the hyperluminous quasar HE 0515-4414
+    * Our detection appears on only one side of the quasar, consistent with the SZE signal arising from a combination of thermal and kinetic contributions.
+
+
+#### [Figuring Out Gas & Galaxies in Enzo (FOGGIE). II. Emission from the z = 3 Circumgalactic Medium](https://arxiv.org/abs/1810.05060)
+    * We present mock emission- line maps of highly resolved CGM gas from the FOGGIE project
+    * By increasing the spatial resolution alone, the total luminosity of the line emission increases by an order of magnitude. This increase arises in the abundance of dense small-scale structure resolved when the CGM gas is simulated to <100 pc scales
+    * We conclude that accounting for small-scale structure well below the level of instrument spatial resolution is necessary to properly interpret such observations in terms of the underlying gas structure driving observable emission.
 
 
 #### [Hierarchical Bayesian approach for estimating physical properties in nearby galaxies: Age Maps (Paper II)](https://arxiv.org/abs/1810.05273)
+    - **Interesting**
+    * We present a hierarchical Bayesian model to compute age maps from images in the Hα line (taken with Taurus Tunable Filter, TTF), ultraviolet band (GALEX far UV, FUV), and infrared bands
+    * The Hα to FUV flux ratio is a good relative indicator of the very recent star formation history (SFH).
+    * We propose a Bayesian hierarchical model where a joint probability distribution is de- fined to determine the parameters (age, metallicity, IMF) from the observed data (the observed flux ratios Hα/FUV).
+
+
+----
+
+## Nov 14:
+
+#### [Dust in and around galaxies: dust in cluster environments and its impact on gas cooling](https://arxiv.org/abs/1810.05477)
+
+
+#### [The LoTSS view of radio AGN in the local Universe. The most massive galaxies are always switched on](https://arxiv.org/abs/1810.05528)
+
+
+#### [AGN Feedback in galaxy groups: a detailed study of X-ray features and diffuse radio emission in IC1262](https://arxiv.org/abs/1810.05647)
+
+
+#### [Correlation between SFR surface density and thermal pressure of ionized gas in local analogs of high-redshift galaxies](https://arxiv.org/abs/1810.05663)
+
+
+#### [Direct Te metallicity calibration of R23 in strong line emitters](https://arxiv.org/abs/1810.05796)
+
+
+#### [Interstellar Medium and Star Formation of Starburst Galaxies on the Merger Sequence](https://arxiv.org/abs/1810.05822)
+
+
+#### [The X-ray Variability of AGN and its Implications for Observations of Galaxy Clusters](https://arxiv.org/abs/1810.05786)
