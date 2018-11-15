@@ -411,21 +411,47 @@ variability to constrain quasar-wind properties
 ## Nov 14:
 
 #### [Dust in and around galaxies: dust in cluster environments and its impact on gas cooling](https://arxiv.org/abs/1810.05477)
+    - **Interesting** 可以看成是cluster环境下尘埃形成和摧毁的综述
+    * Here we present cosmological hydrodynamical simulations of a cluster of galaxies, M200,crit = 6 × 10^14 M⊙, including a novel dust model for the moving mesh code AREPO.
+    * Dust production, growth, supernova-shock-driven destruction, ion-collision-driven thermal sputtering, and high temperature dust cooling through far infrared re-radiation of collisionally deposited electron energies.
+    * This results in noticeable changes of the entropy, temperature, and density profiles of cluster gas once dust formation is included.
 
 
 #### [The LoTSS view of radio AGN in the local Universe. The most massive galaxies are always switched on](https://arxiv.org/abs/1810.05528)
+    - **Important, Interesting**
+    * a study of the local radio source population, by cross-comparing the data from the first data release (DR1) of the LOFAR Two-Metre Sky Survey (LoTSS) with the Sloan Digital Sky Survey (SDSS) DR7 main galaxy spectroscopic sample
+    * An improved method to separate active galactic nuclei (AGN) accurately from sources with radio emission powered by star formation (SF) is developed and applied, leading to a sample of 2121 local (z < 0.3) radio AGN.
+    * The prevalence of radio AGN activity is confirmed to show a strong dependence on both stellar and black hole masses, remarkably reaching a fraction of 100 per cent of the most massive galaxies (> 10^11M⊙) displaying radio-AGN activity
+    * More than 50 per cent of the energy is released during the ≤ 2 per cent of the time spent at the highest accretion rates
 
 
 #### [AGN Feedback in galaxy groups: a detailed study of X-ray features and diffuse radio emission in IC1262](https://arxiv.org/abs/1810.05647)
+    * A systematic search of X-ray cavities, density jumps and shocks in the inter-galactic environment of the galaxy group IC 1262 
+    * X-ray imaging analysis reveals a pair of X-ray cavities on the north and south of the X-ray peak
+    * The X-ray cavity at the position of southern radio lobe probably represents a first generation X-ray cavity. Two surface brightness edges are evident to the west and east−north of the center of this group.
 
 
 #### [Correlation between SFR surface density and thermal pressure of ionized gas in local analogs of high-redshift galaxies](https://arxiv.org/abs/1810.05663)
+    - **姜天星**
+    * We explore the relation between the star formation rate surface density (ΣSFR) and the interstellar gas pressure for nearby compact starburst galaxies
+    * The high gas pressure and the correlation, are in agreement with those found in star-forming galaxies at z ∼ 2.5.
+    * These extreme pressures are shown to be responsible for driving galactic winds in nearby starbursts. These outflows may be a crucial in enabling Lyman-α and Lyman-continuum to escape.
 
 
 #### [Direct Te metallicity calibration of R23 in strong line emitters](https://arxiv.org/abs/1810.05796)
+    - **姜天星**
+    * We report a new empirical calibration of R23 for extreme emission-line galaxies using a large sample of about 800 star-forming green pea galaxies with reliable Te-based gas-phase metallicity measurements.
+    * For galaxies with strong emission lines and large ionization parameter (which manifests as log [OIII]λλ4959,5007/[OII]λλ3726,3729 ≥ 0.6), R23 monotonically increases with log(O/H) and the double-value degeneracy is broken. 
+    * We also report on 15 galaxies with metallicities less than 1/12 solar, with the lowest metallicities being 12+log(O/H) = 7.25 and 7.26.
 
 
 #### [Interstellar Medium and Star Formation of Starburst Galaxies on the Merger Sequence](https://arxiv.org/abs/1810.05822)
-
+    - 上官晋沂
+    * We present a detailed study of the infrared (∼ 1 − 500 μm) spectral energy distributions of a large sample of 193 nearby (z<0.088) luminous infrared galaxies (LIRGs)
+    * The radiation field of LIRGs tends to have much higher intensity than in quiescent galaxies, and it increases toward advanced merger stages as a result of central concentration of the interstellar medium and star formation.
+    * We find that the gas fraction of LIRGs is on average ∼0.3 dex higher than that of main-sequence star-forming galaxies, rising moderately toward advanced merger stages.
 
 #### [The X-ray Variability of AGN and its Implications for Observations of Galaxy Clusters](https://arxiv.org/abs/1810.05786)
+    * 用X-ray找星系团会受到点源影响，大多数都是AGN：This can be addressed by combining observations from a high angular resolution observatory (such as Chandra) with deeper data from a more sensitive observatory that may not be able to resolve the AGN (like XMM-Newton). However, this approach is undermined if the AGN varies in flux between the epochs of the observations
+    * We find a fractional variability that increases with increasing interval between observations, from about 0.25 for observations separated by tens of days up to about 0.45 for observations separated by ∼ 10 years.
+    * given the precise X-ray flux of a typical AGN at one epoch, its flux at a second epoch some years earlier or later can be predicted with a precision of about 60% due to its variability
