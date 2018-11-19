@@ -533,3 +533,43 @@ variability to constrain quasar-wind properties
 
 
 #### [Morpho-Photometric Redshifts](https://arxiv.org/abs/1811.06374)
+
+
+----
+
+## Nov 18:
+
+#### [Early-type galaxy density profiles from IllustrisTNG: I. Galaxy correlations and the impact of baryons](https://arxiv.org/abs/1811.06545)
+
+
+#### [Three regimes of CO emission in galaxy mergers](https://arxiv.org/abs/1811.06547)
+
+
+#### [HST/WFC3 grism observations of z ∼ 1 clusters: The cluster vs. field stellar mass-size relation and evidence for size growth of quiescent galaxies from minor mergers](https://arxiv.org/abs/1811.06548)
+
+
+#### [The MUSE-Wide Survey: Survey Description and First Data Release](https://arxiv.org/abs/1811.06549)
+
+
+#### [Dark matter-baryon scaling relations from Einasto halo fits to SPARC galaxy rotation curves](https://arxiv.org/abs/1811.06554)
+
+
+#### [Global Correlations Between the Radio Continuum, Infrared and CO Emission in Dwarf Galaxies](https://arxiv.org/abs/1811.06554)
+
+
+#### [The Binary Fraction of Stars in Dwarf Galaxies: the Cases of Draco and Ursa Minor](https://arxiv.org/abs/1811.06597)
+
+
+#### [Star formation in outer rings of S0 galaxies. I. NGC 6534 and MCG 11-22-015](https://arxiv.org/abs/1811.06602)
+
+
+#### [A Deeply Buried Narrow-Line Seyfert 1 Nucleus Uncovered in Scattered Light](https://arxiv.org/abs/1811.06674)
+
+
+#### [The Formation of Compact Elliptical Galaxies in The Vicinity of A Massive Galaxy: The Role of Ram-pressure Confinement](https://arxiv.org/abs/1811.06778)
+
+
+#### [The Environments of Luminous Radio - WISE Selected Infrared Galaxies](https://arxiv.org/abs/1811.06818)
+
+
+#### [The dependence of the X-ray AGN clustering on the properties of the host galaxy](https://arxiv.org/abs/1811.06908)
