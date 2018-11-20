@@ -427,7 +427,7 @@ variability to constrain quasar-wind properties
 
 
 #### [AGN Feedback in galaxy groups: a detailed study of X-ray features and diffuse radio emission in IC1262](https://arxiv.org/abs/1811.05647)
-    * A systematic search of X-ray cavities, density jumps and shocks in the inter-galactic environment of the galaxy group IC 1262 
+    * A systematic search of X-ray cavities, density jumps and shocks in the inter-galactic environment of the galaxy group IC 1262
     * X-ray imaging analysis reveals a pair of X-ray cavities on the north and south of the X-ray peak
     * The X-ray cavity at the position of southern radio lobe probably represents a first generation X-ray cavity. Two surface brightness edges are evident to the west and east−north of the center of this group.
 
@@ -442,7 +442,7 @@ variability to constrain quasar-wind properties
 #### [Direct Te metallicity calibration of R23 in strong line emitters](https://arxiv.org/abs/1811.05796)
     - **姜天星**
     * We report a new empirical calibration of R23 for extreme emission-line galaxies using a large sample of about 800 star-forming green pea galaxies with reliable Te-based gas-phase metallicity measurements.
-    * For galaxies with strong emission lines and large ionization parameter (which manifests as log [OIII]λλ4959,5007/[OII]λλ3726,3729 ≥ 0.6), R23 monotonically increases with log(O/H) and the double-value degeneracy is broken. 
+    * For galaxies with strong emission lines and large ionization parameter (which manifests as log [OIII]λλ4959,5007/[OII]λλ3726,3729 ≥ 0.6), R23 monotonically increases with log(O/H) and the double-value degeneracy is broken.
     * We also report on 15 galaxies with metallicities less than 1/12 solar, with the lowest metallicities being 12+log(O/H) = 7.25 and 7.26.
 
 
@@ -465,14 +465,14 @@ variability to constrain quasar-wind properties
 #### [Inferring a difference in the star-forming properties of lower versus higher X-ray luminosity AGNs](https://arxiv.org/abs/1811.05980)
     * when the SFR/SFR_MS distribution of AGN hosts is modelled as a log-normal distribution (i.e. the same shape as that of MS galaxies), galaxies hosting more powerful X-ray AGNs (i.e. LX > 2 × 10^43erg s−1) display a narrower RMS distribution that is shifted to higher values compared to their lower LX counterparts.
     * Our results suggest that the typical star-forming properties of AGN hosts change with LX, and that more powerful AGNs typically reside in more MS-like star-forming galaxies compared to lower LX AGNs.
-    
+
 #### [The Shapes of the Rotation Curves of Star-forming Galaxies Over the Last ≈10 Gyr](https://arxiv.org/abs/1811.05982)
     - **Interesting, PrettyFigure**
     * analyse maps of the spatially-resolved nebular emission of ≈1500 star-forming galaxies at z ≈ 0.6–2.2 from deep KMOS and MUSE observations to measure the av- erage shape of their rotation curves.
     *  Normalising in size by the galaxy stellar disk-scale length (Rd), we construct stacked position-velocity diagrams that trace the average galaxy rotation curve out to 6Rd
     * The average rotation curve for galaxies binned in stellar mass, stellar surface mass density and/or redshift is approximately flat, or continues to rise, out to at least 6Rd. 没有下降
     * higher surface density systems exhibiting flatter or less steeply ris- ing rotation curves.
-    
+
 #### [The Multiple Merger Assembly of a Hyper-luminous Obscured Quasar at redshift 4.6](https://arxiv.org/abs/1811.05992)
     * We report spectroscopic imaging of a multiple merger event in the most luminous known galaxy, WISE J224607.56−052634.9 (W2246−0526), a dust- obscured quasar at redshift 4.6
     * Far-infrared dust continuum observations show three galaxy companions around W2246−0526 with disturbed morphologies, connected by streams of dust likely produced by the dynamical interaction.
@@ -530,9 +530,18 @@ variability to constrain quasar-wind properties
 
 
 #### [Probabilistic Random Forest: A machine learning algorithm for noisy datasets](https://arxiv.org/abs/1811.05994)
+    - **Useful**
+    * However, since most ML algorithms are not designed to take data uncertainties into account, ML based studies are mostly restricted to data with high signal-to-noise ratio.
+    * In this work we modify the long-established Random Forest (RF) algorithm to take into account uncertainties in the measurements (i.e., features) as well as in the assigned classes (i.e., labels)
+    * To do so, the Probabilistic Random Forest (PRF) algorithm treats the features and labels as probability distribution functions, rather than deterministic quantities.
+    * Apart from improving the prediction accuracy in noisy datasets, the PRF naturally copes with missing values in the data, and outperforms RF when applied to a dataset with different noise characteristics in the training and test sets, suggesting that it can be used for Transfer Learning.
 
 
 #### [Morpho-Photometric Redshifts](https://arxiv.org/abs/1811.06374)
+    - **Interesting, Useful**
+    * We train a morphology-aware photometric redshift machine using modern deep learning tools.
+    * Galaxy-integrated quantities are fed to a Multi-Layer Perceptron (MLP) branch while images are fed to a convolutional (convnet) branch that can learn relevant morpholog- ical features.
+    * This split MLP-convnet architecture, which aims to disentangle strong photometric features from comparatively weak morphological ones, proves important for strong performance
 
 
 ----
@@ -540,36 +549,118 @@ variability to constrain quasar-wind properties
 ## Nov 18:
 
 #### [Early-type galaxy density profiles from IllustrisTNG: I. Galaxy correlations and the impact of baryons](https://arxiv.org/abs/1811.06545)
+    - **Interesting, Relevant**
+    * explore the isothermal total matter radial density profiles in early-type galaxies (ETGs) selected from the IllustrisTNG simulation.
+    * the total power-law slope has a mean of ⟨γ′⟩ = 2.003 ± 0.008 and a standard deviation of σγ′ = 0.175 over the radial range from 0.4 to 4 times the stellar half mass radius.
+    * Several correlations between γ′ and galactic properties including stellar mass, effective radius, stellar surface density, central velocity dispersion, central dark matter fraction and in-situ-formed stellar mass ratio are compared to observations and other simulations, revealing that IllustrisTNG reproduce correlation trends qualitatively,
+    * The power-law density profile of the ETG dark matter halos is steeper in the full physics (FP) run than their counterparts in the dark matter only (DMO) run.
+    * The dark matter inner slope is also anti-correlated with the halo concentration parameter c200 in both runs.
 
 
 #### [Three regimes of CO emission in galaxy mergers](https://arxiv.org/abs/1811.06547)
+    * we apply the large velocity gradient method to a series of hydrodynamical simulations of galaxies and derive the evolution of αCO.
+    * We report significant variations of αCO, and identify three distinct regimes: disk galaxies, starbursts and post-burst phases.
+    * We find a tighter correlation of αCO with the gas depletion time than with star formation rate, yet with deviations induced by the transitions to and from the starburst episodes.
 
 
 #### [HST/WFC3 grism observations of z ∼ 1 clusters: The cluster vs. field stellar mass-size relation and evidence for size growth of quiescent galaxies from minor mergers](https://arxiv.org/abs/1811.06548)
+    - **Relevant, Interesting**
+    * The stellar mass-size relation in ten clusters and in the field is measured and compared at z ∼ 1
+    * On average, quiescent and star-forming cluster galaxies are smaller than their field counterparts by (0.08 ± 0.04) dex and (0.07 ± 0.01) dex respectively.
+    * These size offsets are consistent with the average sizes of quiescent and star-forming field galaxies between 1.2 <z <1.5, implying the cluster environment has inhibited size growth between this period and z ∼ 1.
+    * Using a toy model, we show this is possible if ∼40% of the most compact clus- ter galaxies merge with their brightest cluster galaxies (BCGs) and ∼60% are tidally destroyed into the intra-cluster light (ICL) between 0 < z <1
 
 
 #### [The MUSE-Wide Survey: Survey Description and First Data Release](https://arxiv.org/abs/1811.06549)
+    - **Useful**
+    * a blind, 3D spectroscopic survey in the CANDELS/GOODS-S and CANDELS/COSMOS regions.
+    * The legacy value of MUSE-Wide lies in providing “spectroscopy of everything” without photometric pre-selection.
+    * Using a 3D matched filtering approach we detected 1,602 emission line sources, including 479 Lyman-α (Lyα) emitting galaxies with redshifts 2.9 <z <6.3.
+    * We encounter a higher outlier rate and a systematic offset of ∆z≃0.2 when comparing our MUSE redshifts with photometric redshifts from the literature.
+    * Stacking X-ray images centered on our Lyα emitters yielded no signal; the Lyα population is not dominated by even low luminosity AGN.
 
 
 #### [Dark matter-baryon scaling relations from Einasto halo fits to SPARC galaxy rotation curves](https://arxiv.org/abs/1811.06554)
+    * we focus here on the comparison between the original SPARC parameters, with constant mass-to-light ratios for bulges and disks, and the parameters for which galaxies follow the tightest radial acceleration relation (RAR).
+    * We report that the density at the radius where the slope is −2 is strongly anticorrelated to this radius, and to the Einasto index.
+    * We report a positive correlation between the core size of halos with small Einasto index and the stellar disk scale-length, as well as between the averaged dark matter density within 2 kpc and the baryon-induced rotational velocity at that radius.
 
 
 #### [Global Correlations Between the Radio Continuum, Infrared and CO Emission in Dwarf Galaxies](https://arxiv.org/abs/1811.06554)
+    * The results demonstrate that the properties of dwarf galaxies are not simple extensions of those of more massive galaxies
+    * It is found that dwarfs show increasingly weaker CO and infrared emission for their luminosity, as expected for galaxies with a low dust content, slower reaction rates, and a hard ionizing radiation field.
+    * 对高光度的dwarf: the total and non-thermal radio continuum emission appear to adequately trace the star formation rate
+    * 对低光度dwarf: the infrared emission ceases to adequately trace the star formation rate.
+    * A lack of a correlation between the magnetic field strength and the star formation rate in low star formation rate dwarfs suggests a breakdown of the equipartition assumption.
 
 
 #### [The Binary Fraction of Stars in Dwarf Galaxies: the Cases of Draco and Ursa Minor](https://arxiv.org/abs/1811.06597)
+    * 如果双星太多，会影响视向速度测量，会从恒星速度测量得到更高的速度弥散度
+    * We combine radial velocity measurements from five literature sources taken over the course of ∼ 30 years to yield the largest multi-epoch kinematic sample for stars in the dSphs Draco and Ursa Minor.
+    * Assuming Duquennoy & Mayor (1991) period and mass ratio distributions, the binary fractions in Draco and Ursa Minor are 0.50 and 0.78.
+    * We find that a normal mass ratio distribution is preferred over a flat distribution
+    * This indicates that the binary populations in Milky Way dSphs are not identical in regard to their binary fractions, period distributions, or both
 
 
 #### [Star formation in outer rings of S0 galaxies. I. NGC 6534 and MCG 11-22-015](https://arxiv.org/abs/1811.06602)
+    * The ionized gas is excited by young stars in the ring of NGC 6534 and partly by shocks – in MCG 11-22-015.
+    * We suggest that the rings in NGC 6534 and MCG 11-22-015 have different natures: the former is a resonant one supplied with gas perhaps through tidal effects, and the latter has been produced by a satellite accretion. Recent outer gas accretion is implied in both cases.
 
 
 #### [A Deeply Buried Narrow-Line Seyfert 1 Nucleus Uncovered in Scattered Light](https://arxiv.org/abs/1811.06674)
+    * Its optical total flux spectra clearly show broad emission lines (BELs) in Hα and Hβ.
+    * However, its NELs are unprecedentedly strong when compared to type 1 AGNs. This, together with its large MIR excess (g − W4 = 13.172 mag), implies that the observer and the narrow emission line region (NELR) might see a different ionization continuum.
+    * Our optical spectropolarimetry confirms its type 2 nature by detectingapolarizedbluecontinuumandBalmerBELs
+    * Discovery of J1203+1624 suggests that NLS1 follows AGN unfication scheme, studying of its analogs could blaze a new trail for exploring the connection between black hole growth and star formation in the host galaxy.
 
 
 #### [The Formation of Compact Elliptical Galaxies in The Vicinity of A Massive Galaxy: The Role of Ram-pressure Confinement](https://arxiv.org/abs/1811.06778)
+    - **Relevant, Interesting**
+    * As the infalling low-mass galaxy passes through the host’s corona at supersonic speeds, its diffuse gas outskirts are stripped by ram pressure, as expected. However, the compactness increases rapidly because of bursty star formation in the gas tidally driven to the centre.
+    * After the gas is depleted, tidal interactions enhance the metallicity further via the stripping of weakly-bound, old and metal-poor stars, while the size of the satellite is changed only modestly.
+    * These results argue that classical cEs are neither the stripped remnants of much more massive galaxies nor the merger remnants of normal dwarfs. We present observable predictions that can be used to test our model.
 
 
 #### [The Environments of Luminous Radio - WISE Selected Infrared Galaxies](https://arxiv.org/abs/1811.06818)
-
+    * We have observed the environments of a population of 33 heavily dust obscured, ultra- luminous, high-redshift galaxies,
+    * We find no significant excess of galaxies with the standard colour selection for IRAC colours of [3.6] − [4.5] > −0.1 consistent with galaxies at z >1.3 across the whole fields with respect to wide-area Spitzer comparison fields, but there is a > 2σ statistical excess within 0.25 ′ of the central radio-WISE galaxy.
+    * Using a colour selection of [3.6] − [4.5] > 0.4, 0.5 magnitudes redder than the standard method of selecting galaxies at z >1.3, we find a significant overdensity
 
 #### [The dependence of the X-ray AGN clustering on the properties of the host galaxy](https://arxiv.org/abs/1811.06908)
+    * Use 407 X-ray AGN from the XMM-XXL survey
+    * Show a positive dependence of the AGN and galaxy clustering on M⋆ and a negative dependence on SFR and sSFR.
+    * Find that the X-ray clustering is independent of the location of the host galaxy above or below the star-forming main sequence.
+
+
+----
+
+## Nov 19:
+
+#### [Discovery of Dying Active Galactic Nucleus in Arp 187: Experience of Drastic Luminosity Decline within 10^4 years](https://arxiv.org/abs/1811.07447)
+    * Arp 187 is one of the fading active galactic nuclei (AGN), whose AGN activity is currently decreasing in luminosity.
+    * The VLA 5 GHz, 8 GHz, and the ALMA 133 GHz images reveal bimodal jet lobes with ∼5 kpc size and the absence of the central radio-core.
+    * These multi-wavelength signatures indicate that Arp 187 hosts a “dying” AGN: the central engine is already dead, but the large scale AGN indicators are still observable as the remnant of the past AGN activity.
+
+
+#### [Spatially Resolved [CII] Emission in SPT0346-52: A Hyper-Starburst Galaxy Merger at z~5.7](https://arxiv.org/abs/1811.07800)
+    * In this paper, we present ∼ 0.15 ALMA observations of the [CII]158μm emission line in this z = 5.7 dusty star-forming galaxy.
+    * The lensing reconstruction reveals two spatially and kinematically separated components (∼ 1 kpc and ∼ 500 km s−1 apart) connected by a bridge of gas.
+    * Both components are found to be globally unstable, with Toomre Q instability parameters ≪ 1 everywhere. We argue that SPT0346-52 is undergoing a major merger, which is likely driving the intense and compact star formation.
+
+
+#### [Spatially resolved origin of mm-wave linear polarization in the nuclear region of 3C 84](https://arxiv.org/abs/1811.07815)
+    * The radio galaxy 3C84 (Perseus A, NGC1275) is an intriguing source whose linear polarization in the core region at cm-wavelengths is extremely weak
+    * The polarization morphology suggests that the emission is associated with an underlying limb- brightened jet.
+    * Our Faraday depolarization modeling suggests that the RM most likely originates from an external screen with a highly uniform RM distribution.
+
+
+#### [Dark Energy Survey Year 1 Results: Constraints on Intrinsic Alignments and their Colour Dependence from Galaxy Clustering and Weak Lensing](https://arxiv.org/abs/1811.06989)
+    - **Relevant** 
+    * In a fiducial Nonlinear Alignment Model (NLA) analysis, assuming a flat ΛCDM cosmology, we find a significant difference in intrinsic alignment amplitude, with early-type galaxies favouring A = 2.38+0.32−0.31 and late-type galaxies IA consistent with no intrinsic alignments
+    * We find weak evidence of a diminishing alignment amplitude at higher redshifts in the early-type sample. 
+
+
+#### [A deep X-ray view of the bare AGN Ark 120. VI. Geometry of the hot corona from spectroscopic and polarization signatures](https://arxiv.org/abs/1811.07678)
+    * AGN的硬X-ray连续谱来自hot corona里面的热电子对吸积盘产生的光子的逆康普顿散射，产生的偏振信号对散射介质的和辐射场的几何构型很敏感
+    * MoCA (Monte Carlo code for Comptonisation in Astrophysics) is a versatile code which allows for different geometries and configurations to be tested for Compton scattering in compact objects.
+    * We find that none of the tested geometries for the hot corona (extended slab and extended/compact spheroids) can be statistically preferred, based on spectroscopy solely.
