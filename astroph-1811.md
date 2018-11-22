@@ -664,3 +664,162 @@ variability to constrain quasar-wind properties
     * AGN的硬X-ray连续谱来自hot corona里面的热电子对吸积盘产生的光子的逆康普顿散射，产生的偏振信号对散射介质的和辐射场的几何构型很敏感
     * MoCA (Monte Carlo code for Comptonisation in Astrophysics) is a versatile code which allows for different geometries and configurations to be tested for Compton scattering in compact objects.
     * We find that none of the tested geometries for the hot corona (extended slab and extended/compact spheroids) can be statistically preferred, based on spectroscopy solely.
+
+
+----
+
+## Nov 20:
+
+#### [1D Kinematics from stars and ionized gas at z∼0.8 from the LEGA-C spectroscopic survey of massive galaxies](https://arxiv.org/abs/1811.07900)
+    - **Important, Relevant**
+    * present a comparison of the observed, spatially integrated stellar and ionized gas velocity dispersions of ∼1000 massive (logM⋆/M⊙≳10.3) galaxies in the Large Early Galaxy Astrophysics Census (LEGA-C) survey at 0.6≲z≲1.0.
+    * We find good average agreement between observed velocity dispersions, with ⟨log(σ′g,int/σ′⋆,int)⟩=−0.003.
+    * However, in all regimes we find significant scatter between σ′g,int and σ′⋆,int, with an overall scatter of 0.13 dex of which 0.05 dex is due to observational uncertainties
+
+
+#### [Ratio of black hole to galaxy mass of an extremely red dust-obscured galaxy at z = 2.52](https://arxiv.org/abs/1811.07902)
+     * A near-infrared (NIR) spectrum of WISE J1042+1641, an extremely red dust-obscured galaxy (DOG), which has been observed with the LIRIS on the 4.2m William Hershel Telescope
+     * Based on the LIRIS observation, we confirmed its redshift of 2.521 and total IR luminosity of log(L_IR/L_sun) = 14.57, which satisfies the criterion for an extremely luminous IR galaxy (ELIRG).
+     * We indicate that this object seems to have an extremely massive black hole with M_BH = 10^10.92 M_sun based on the broad Halpha line
+     * We find that the M_BH/M_star ratio (i.e., 0.0140-0.0204) is significantly higher than the local relation, following a sequence of unobscured quasars instead of obscured objects
+
+
+#### [Synthetic nebular emission from massive galaxies II: ultraviolet-line diagnostics of dominant ionizing sources](https://arxiv.org/abs/1811.07909)
+    * We compute synthetic optical and ultraviolet (UV) emission-line properties of galaxies in a full cosmological framework by coupling, in post-processing, new-generation nebular-emission models with high-resolution, cosmological zoom-in simulations of massive galaxies.
+    * At redshifts z>1, however, this optical diagram (BPT) fails to discriminate between active and inactive galaxies at metallicities below 0.5 Z⊙
+    * To robustly classify the ionizing radiation of such metal-poor galaxies, which dominate in the early Universe, we confirm 3 previous, and propose 11 novel diagnostic diagrams based on equivalent widths and luminosity ratios of UV emission lines, such as EW(OIII]λ1663) versus OIII]λ1663/HeIIλ1640, CIII]λ1908/HeIIλ1640 versus OIII]λ1663/HeIIλ1640, and CIVλ1550/CIII]λ1908 versus CIII]λ1908/CIIλ2326
+
+
+#### [The MAGNUM survey: different gas properties in the outflowing and disk components in nearby active galaxies with MUSE](https://arxiv.org/abs/1811.07935)
+    * We study the gas properties in the disk and in the outflow with spatially and kinematically resolved maps, by dividing the strongest emission lines in velocity bins.
+    * We find that the outflowing gas is characterised by higher values of density and ionisation parameter than the disk, which presents a higher dust extinction.
+
+
+#### [The ATESP 5 GHz radio survey IV. 19, 38, and 94 GHz observations and radio spectral energy distributions](https://arxiv.org/abs/1811.07938)
+    * It is now established that the faint radio population is a mixture of star-forming galaxies and faint active galactic nuclei (AGNs), with the former dominating below S(1.4GHz) \sim 100 muJy and the latter at larger flux densities
+    * One of the major open questions regarding faint radio AGNs is the physical process responsible for their radio emission.
+    * AGN component associated with red/early-type galaxies. Such AGNs show, on average, flatter radio spectra than radio galaxies and are mostly compact (<= 30 kpc in size).
+
+
+#### [Do Spectroscopic Dense Gas Fractions Track Molecular Cloud Surface Densities?](https://arxiv.org/abs/1811.07940)
+    * We use ALMA and IRAM 30-m telescope data to investigate the relationship between the spectroscopically-traced dense gas fraction and the cloud-scale (120 pc) molecular gas surface density in five nearby, star-forming galaxies
+    * On average, the dense gas fraction correlates with the mass-weighted average molecular gas surface density. Thus, parts of a galaxy with higher mean cloud-scale gas surface density also appear to have a larger fraction of dense gas
+    * The normalization and slope of the correlation do vary from galaxy to galaxy and with the size of the regions studied.
+
+
+#### [The spectacular cluster chain Abell 781 as observed with LOFAR, GMRT, and XMM-Newton](https://arxiv.org/abs/1811.07930)
+    - **Interesting**
+    * The Abell 781 complex is a spectacular system composed of an apparent chain of clusters on the sky. Its main component is undergoing a merger and hosts peripheral emission that is classified as a candidate radio relic and a disputed radio halo
+    * We used new LOw Frequency ARay (LOFAR) observations at 143 MHz and archival Giant Metrewave Radio Telescope (GMRT) observations at 325 and 610 MHz to study radio emission from non-thermal components in the ICM of Abell 781.
+    * We speculate that it is related to the interaction between a head tail radio galaxy and shock. However, the current data allow us only to set an upper limit of <1.4 on the Mach number of this putative shock.
+
+
+#### [Cosmological Inference from Galaxy-Clustering Power Spectrum: Gaussianization and Covariance Decomposition](https://arxiv.org/abs/1811.08155)
+    * Likelihood fitting to 2-point clustering statistics made from galaxy surveys usually assumes a multivariate normal distribution for the measurements, with justification based on the central limit theorem given the large number of over-density modes. However, this assumption cannot hold on the largest scales where the number of modes is low
+    * We derive a procedure suitable for analysing measured monopole power spectra with window effects, stochastic shot noise and the dependence of the covariance matrix on the model being fitted all taken into account
+    * We find in numerical tests that our new procedure gives more accurate constraints on the local non-Gaussianity parameter fNL, which is sensitive to the large-scale power.
+
+
+#### [A LOFAR study of non-merging massive galaxy clusters](https://arxiv.org/abs/1811.08410)
+    * We distinguish between giant radio haloes, which occur predominantly in merging clusters, and mini haloes, which are found in non-merging, cool-core clusters.
+    * With this aim, we carried out a campaign of observations with the LOw Frequency ARay (LOFAR) in the frequency range 120 - 168 MHz of nine massive clusters selected from the Planck SZ catalogue, which had no sign of major mergers.
+    * We discover large-scale steep-spectrum emission around mini haloes in the cool-core clusters PSZ1G139.61+24 and RXJ1720.1+2638, which is not observed around the mini halo in the non-cool-core cluster A1413. We also discover a new 570 kpc-halo in the non- cool-core cluster RXCJ0142.0+2131.
+    * We conclude that radio emission in non-merging massive clusters is not common at the sensitivity level reached by our observations and that no clear connection with the cluster dynamical state is observed.
+
+#### [The LOFAR Two-metre Sky Survey - II. First data release](https://arxiv.org/abs/1811.07926)
+    - **Important**
+    * The LOFAR Two-metre Sky Survey (LoTSS) is an ongoing sensitive, high-resolution 120-168MHz survey of the entire northern sky for which observations are now 20% complete.
+    * A total of 325,694 sources are detected with a signal of at least five times the noise, and the source density is a factor of ∼10 higher than the most sensitive existing very wide-area radio-continuum surveys.
+    * The median sensitivity is S144MHz=71μJy beam−1 and the point-source completeness is 90% at an integrated flux density of 0.45mJy. The resolution of the images is 6″ and the positional accuracy is within 0.2″
+
+#### [The LOFAR Two-metre Sky Survey (LoTSS) III. First Data Release: optical/IR identifications and value-added catalogue](https://arxiv.org/abs/1811.07927)
+    * We present the source associations and optical and/or IR identifications for sources in the first data release, which are made using a combination of statistical techniques and visual association and identification
+    * The final LoTSS-DR1-IDs value-added catalogue presented contains 318,520 radio sources, of which 231,716 (73%) have optical and/or IR identifications in Pan-STARRS and WISE. 
+
+
+#### [The LOFAR Two-metre Sky Survey IV. First Data Release: Photometric redshifts and rest-frame magnitudes](https://arxiv.org/abs/1811.07927)
+    * In this paper we present photometric redshifts (photo-z) for 94.4% of optical sources over this region that are detected in the Panoramic Survey Telescope and Rapid Response System (Pan-STARRS) 3π steradian survey.
+    * Combining the Pan-STARRS optical data with mid-infrared photometry from the Wide-field Infrared Survey Explorer, we estimate photo-zs using a novel hybrid photometric redshift methodology optimised to produce the best possible performance for the diverse sample of radio continuum selected sources.
+
+
+#### [The LOFAR Two-metre Sky Survey IV. First Data Release: Photometric redshifts and rest-frame magnitudes](https://arxiv.org/abs/1811.07927)
+    - **Relevant, Interesting**
+    * In preparation for a larger study, we selected three clusters -- Abell 1319, Abell 1314, and RXC J1501.3+4220 (Z7215) -- making use of the new LOFAR Two-Metre Sky Survey (LoTSS) at 120-168 MHz, and together with archival data, show that these clusters appear to be in pre-merging, merging, and post-merging states, respectively.
+    * Systematic studies of this kind over a larger sample of clusters observed with LoTSS will help constrain the time scales involved in turbulent re-acceleration and the subsequent energy losses of the underlying electrons.
+
+
+#### [The origin of radio emission in broad absorption line quasars: Results from the LOFAR Two-metre Sky Survey](https://arxiv.org/abs/1811.07931)
+    * We find that BALQSOs are twice as likely to be detected at 144MHz than their non-BAL counterparts, and BALQSOs with low-ionisation species present in their spectra are three times more likely to be detected than those with only high-ionisation species.
+    * The BALQSO fraction at 144MHz is constant with increasing radio luminosity, which is inconsistent with previous results at 1.4GHz, indicating that observations at the different frequencies may be tracing different sources of radio emission.
+    * The LDR1-detected BALQSOs in our sample are almost exclusively radio-quiet (\logr <2), with radio sizes at 144MHz typically less than 200kpc; these radio sizes tend to be larger than those at 1.4GHz, suggesting more extended radio emission at low frequencies.
+
+
+#### [LoTSS/HETDEX: Disentangling star formation and AGN activity in gravitationally-lensed radio-quiet quasars](https://arxiv.org/abs/1811.07932)
+    * Here, we present the detection of the gravitationally-lensed radio-quiet quasars SDSS J1055+4628, SDSS J1313+5151 and SBS 1520+530 at 144 MHz that fall in the HETDEX Spring Field targeted in the LOFAR Two-metre Sky Survey (LoTSS) first full data release
+    * Their radio luminosities can be explained by star formation.
+    * These detections represent the first study of gravitationally lensed sources with LOFAR, opening a new frequency window for investigating the star-forming properties of high-redshift quasars at radio wavelengths
+
+
+#### [LoTSS/HETDEX: Disentangling star formation and AGN activity in gravitationally-lensed radio-quiet quasars](https://arxiv.org/abs/1811.07932)
+    * To date, radio emission in quasars has been investigated almost exclusively using high-frequency observations in which the Doppler boosting might have an important effect on the measured radio luminosity, whereas extended structures, best observed at low radio frequencies, are not affected by the Doppler enhancement.
+    * The examination of the radio continuum emission and RL/RQ dichotomy in quasars exhibits that quasars show a wide continuum of radio properties (i.e. no clear bimodality in the distribution of R). Radio continuum emission at low frequencies in low-luminosity quasars is consistent with being dominated by star formation.
+
+#### [LOFAR observations of the XMM-LSS field](https://arxiv.org/abs/1811.07942)
+    * The low elevation of this field reduces the effective collecting area of the telescope, thereby reducing sensitivity. This low elevation also causes the primary beam to be elongated in the north-south direction
+
+
+#### [Radio-loud AGN in the first LoTSS data release: The lifetimes and environmental impact of jet-driven sources](https://arxiv.org/abs/1811.07943)
+    * We constructed a sample of 23,344 radio-loud active galactic nuclei (RLAGN) from the catalogue derived from the LOFAR Two-Metre Sky Survey (LoTSS) survey of the HETDEX Spring field
+    * We show that large or giant powerful RLAGN are probably the old tail of the general RLAGN population, but that the low-luminosity RLAGN candidates in our sample, many of which have sizes <100 kpc, either require a very different lifetime distribution or have different jet physics from the more powerful objects
+    * We show that RLAGN in the local Universe are able to supply all the energy required per comoving unit volume to counterbalance X-ray radiative losses from groups and clusters and thus prevent the hot gas from cooling.
+
+
+#### [The environments of radio-loud AGN from the LOFAR Two-Metre Sky Survey (LoTSS)](https://arxiv.org/abs/1811.07949)
+    - **Interesting**
+    * We cross-matched 8,745 radio-loud AGN with 0.08<z<0.4, selected from LoTSS, with two Sloan Digital Sky Survey cluster catalogues, and find that only 10 percent of LoTSS AGN in this redshift range have an association, so that the majority of low-redshift AGN (including a substantial fraction of the most radio-luminous objects) must inhabit haloes with M < 10^14 M_sun.
+    * We find that the probability of a cluster association, and the richness of the associated cluster, is correlated with AGN radio luminosity, and for the cluster population, the number of associated AGN and the radio luminosity of the brightest associated AGN is richness-dependent.
+    * At the lowest radio luminosities we find that the minority of objects with a cluster association are located at larger mean cluster-centre distances than more luminous AGN, which appears to be driven primarily by host-galaxy mass
+    * Finally, we also find that FRI radio galaxies inhabit systematically richer environments than FRIIs.
+
+
+#### [Calibrating the relation of low-frequency radio continuum to star formation rate at 1 kpc scale with LOFAR](https://arxiv.org/abs/1811.07968)
+    * 射电连续谱测SFR不受尘埃消光干扰，低频部分还不被射电热辐射污染 (free-free emision)
+    * We calibrate the conversion from the spatially resolved 140 MHz RC emission to the SFR surface density (ΣSFR) at 1 kpc scale. We used recent observations of three galaxies (NGC 3184, 4736, and 5055) from the LOFAR Two-metre Sky Survey (LoTSS), and archival LOw-Frequency ARray (LOFAR) data of NGC 5194
+    * The RC emission is smoothed with respect to the hybrid ΣSFR owing to the transport of cosmic-ray electrons (CREs).
+    * We then simulate the effect of CRE transport by convolving the hybrid ΣSFR maps with a Gaussian kernel until the RC-SFR relation is linearised; CRE transport lengths are l=1-5 kpc.
+    * A RC-SFR relation at 1.4 GHz can be exploited to measure SFRs at redshift z≈10 using 140 MHz observations.
+
+
+#### [The first detection of radio recombination lines at cosmological distances](https://arxiv.org/abs/1811.08104)
+    * 低频射电复合线观测提供了独到的探测星系中冷-中性气体和热-电离气体的能力，可以用来确定线发射区域的温度和密度；这些线主要来自C和H
+    * With LOFAR observations of the radio quasar 3C 190 (z=1.1946), we aim to demonstrate that the ISM can be explored out to great distances through low-frequency RRLs.  We report the detection of RRLs in the frequency range 112--163 MHz in the spectrum of 3C 190
+    * We consider three interpretations of the origin of the RRL emission: an intervening dwarf-like galaxy, an AGN-driven outflow, and the inter-galactic medium. We argue that the RRLs most likely originate in a dwarf-like galaxy (M ~ 1e9 Msun) along the line of sight
+
+
+#### [LoTSS DR1: Double-double radio galaxies in the HETDEX field](https://arxiv.org/abs/1811.08194)
+    * DDRG: 高能射电噪活动星系核生命周期中短暂和独特的一个阶段，前一次Jet活动停止，在IGM中留下了大尺度的残留射电辐射；新的射点活动周期又刚刚开始, 有两个射电瓣; 星系整体性质和非double的射电星系没有区别，导致jet停止又启动的原因应该不是星系的活动，而是黑洞附近吸积状态的变化
+    * To confirm the restarted nature in each of the candidate sources, we obtained follow-up observations with the VLA at higher resolution to observe the inner lobes or restarted jets, the confirmation of which created a robust sample of 33 DDRGs.
+    * We find that there is no statistically significant difference in the brightness of the host galaxies between double-doubles and single-cycle RLAGN. The DDRG and RLAGN samples also have similar distributions in WISE mid-infrared colours, indicating similar ages of stellar populations and dust levels in the hosts of DDRGs
+    * Restarted jets, particularly for the class of low-excitation radio galaxies, rather than being a product of a particular event in the life of a host galaxy, must instead be caused by smaller scale changes, such as in the accretion system surrounding the black hole.
+
+#### [The intergalactic magnetic field probed by a giant radio galaxy](https://arxiv.org/abs/1811.7934)
+    * we present the Faraday rotation measure (RM) and depolarisation properties of the giant radio galaxy J1235+5317, at a redshift of z=0.34 and 3.38 Mpc in size.
+    * From a catalogue of LSS filaments based on optical spectroscopic observations in the local universe, we find an excess of filaments intersecting the line of sight to only one of the lobes. 
+    * Associating the entire RM difference to these LSS filaments leads to a gas density-weighted IGMF strength of ~0.3 {\mu}G. However, direct comparison with cosmological simulations of the RM contribution from LSS filaments gives a low probability (~5%) for an RM contribution as large as 2.5 rad/m2 可能有银河系的贡献
+
+
+#### [Close-up view of an ongoing merger between the NGC 4839 group and the Coma cluster - a post-merger scenario](https://arxiv.org/abs/1811.7934)
+    * X-ray data show two prominent features: (i) a long (~600 kpc in projection) and bent tail of cool gas trailing (towards south-west) the optical center of NGC 4839, and ii) a "sheath" region of enhanced X-ray surface brightness enveloping the group, which is due to hotter gas.
+    * While at first glance the X-ray images suggest that we are witnessing the first infall of NGC 4839 into the Coma cluster core, we argue that a post-merger scenario provides a better explanation of the observed features and illustrate this with a series of numerical simulations.
+
+
+#### [The First Swift Intensive AGN Accretion Disk Reverberation Mapping Survey](https://arxiv.org/abs/1811.7956)
+    * The X-ray/UV correlations are much weaker than those within the UV/optical, posing severe problems for the lamp-post reprocessing model in which variations in a central X-ray corona drive and power those in the surrounding accretion disk.
+    * The UV/optical interband lags are generally consistent with τ∝λ4/3 as predicted by the centrally illuminated thin accretion disk model.
+    * The one exception is the U band lags, which are on average a factor of ∼2.2 larger than predicted from the surrounding band data and fits. This excess appears due to diffuse continuum emission from the broad-line region (BLR).
+
+
+#### [Blazars in the LOFAR Two-Metre Sky Survey First Data Release](https://arxiv.org/abs/1811.7956)
+    * We identified radio counterparts to all 98 known sources from the Third \textit{Fermi}-LAT Point Source Catalogue (3FGL) or Roma-BZCAT Multi-frequency Catalogue of Blazars (5th edition) that fall within the LDR1 footprint.
+    * We examined the redshift and radio luminosity distributions of our sample, finding flat-spectrum radio quasars (FSRQs) to be more distant and more luminous than BL Lacertae objects (BL Lacs) on average.
+    * Blazars are known to have flat spectra in the gigahertz regime but we found this to extend down to 144 MHz
