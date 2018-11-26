@@ -498,24 +498,42 @@ variability to constrain quasar-wind properties
 
 
 #### [A numerical twist on the observational spin parameter, λR](https://arxiv.org/abs/1811.06148)
+    - **Interesting**
+    *  The goal of this paper is to examine the relationship between the observationally deduced λR and one of the most commonly used theoretical spin parameters in the literature, the Bullock et al. (2001) λ′
+    * we confirm that there are strong positive correlations between λR and measurement radius, and strong negative correlations between λR and size of the PSF, for late-type galaxie
 
 
 #### [Supermassive Black Holes with High Accretion Rates in Active Galactic Nuclei. VIII. Structure of the Broad-Line Region and Mass of the Central Black Hole in Mrk 142](https://arxiv.org/abs/1811.06302)
 
 
 #### [A high space density of L* Active Galactic Nuclei at z~4 in the COSMOS field](https://arxiv.org/abs/1811.06404)
+    * We ended up with 16 spectroscopically confirmed AGNs at 3.6 < z < 4.2 down to a magnitude of iAB=23.0 for an area of 1.73 deg2. This leads to an AGN space density of ∼ 1.6 × 10−6Mpc−3 (corrected) at z ∼4 for an absolute magnitude of M1450 = −23.5. This is higher than previous measurements and seems to indicate that AGNs could make a substantial contribution to the ionizing background at z ∼ 4.
 
 
 #### [SDSS-IV MaNGA: Signatures of halo assembly in kinematically misaligned galaxies](https://arxiv.org/abs/1811.06408)
+    - **Relevant, Interesting**
+    * We select a sub-sample of ∼900 central galaxies from the MaNGA survey with defined global position angles (PA; angle at which velocity change is greatest) for their stellar and Hα gas components up to a minimum of 1.5 effective radii (Re).
+    * We find, at fixed halo mass, no statistical difference in these properties between our kinematically aligned and misaligned galaxies. We suggest that the lack of correlation could be indicative of cooling flows from the hot halo playing a far larger role than ‘cold mode’ accretion from the cosmic web
 
 
 #### [Deep Chandra Observations of ESO 428-G014: IV. The Morphology of the Nuclear Region in the Hard Continuum and Fe Kα Line](https://arxiv.org/abs/1811.06436)
 
 
 #### [The trajectories of galaxies in groups: mass loss and preprocessing](https://arxiv.org/abs/1811.06530)
+    - **Relevant**
+    * 模拟研究group尺度的上的预处理过程：We categorize galaxies that were always in distinct haloes as unaccreted, galaxies that were distinct before accretion onto the main group as single, and galaxies that were in external sub-groups before accretion onto the main group as grouped.
+    * Both single- and group-accreted galaxies begin to lose dark matter and gas after first accretion onto any host but continue to grow in stellar mass.
+    * Single galaxies continue to form stars until the group virial radius is crossed, when they begin to lose both dark matter and gas. Grouped galaxies peak in mass when joining their external sub-group, indicating that they experience preprocessing
+    * These differing histories place unaccreted, single and grouped galaxies in distinct regions of the stellar mass-to-halo mass (SMHM) relation.
 
 
 #### [The Non-Uniformity of Galaxy Cluster Metallicity Profiles](https://arxiv.org/abs/1811.05987)
+    - **Interesting**
+    * On average, we find a mild dependence of the core metallicity with the average temperature 
+    * We identify the cause of this mild dependence to be due to relaxed systems only; disturbed systems do not show this trend
+    * The radial profiles of relaxed systems are centrally peaked and show a steep decrease with radius, flattening beyond 0.3-0.4R500. The metallicity of disturbed systems is also higher in the center but at much lower values than what is observed for relaxed objects.
+    * The scatter of the radial profiles is quite large, but while for relaxed systems it decreases almost monotonically as function of the radius, for disturbed systems it shows a significant boost at large radii.
+    * Systems with a central radio source have a flatter profile indicat- ing that central AGNs are an efficient mechanism to uplift and redistribute the metals in the ICM.
 
 
 #### [Measurement of the Splashback Feature around SZ-selected Galaxy Clusters with DES, SPT and ACT](https://arxiv.org/abs/1811.06081)
@@ -527,6 +545,8 @@ variability to constrain quasar-wind properties
     * blue galaxies have profiles close to a power law with no discernible splashback feature, which is consistent with them being on their first infall into the cluster.
 
 #### [Cosmological constraints from galaxy-lensing cross correlations using BOSS galaxies with SDSS and CMB lensing](https://arxiv.org/abs/1811.06499)
+    - **Relevant**
+    * 
 
 
 #### [Probabilistic Random Forest: A machine learning algorithm for noisy datasets](https://arxiv.org/abs/1811.05994)
@@ -823,3 +843,121 @@ variability to constrain quasar-wind properties
     * We identified radio counterparts to all 98 known sources from the Third \textit{Fermi}-LAT Point Source Catalogue (3FGL) or Roma-BZCAT Multi-frequency Catalogue of Blazars (5th edition) that fall within the LDR1 footprint.
     * We examined the redshift and radio luminosity distributions of our sample, finding flat-spectrum radio quasars (FSRQs) to be more distant and more luminous than BL Lacertae objects (BL Lacs) on average.
     * Blazars are known to have flat spectra in the gigahertz regime but we found this to extend down to 144 MHz
+
+
+----
+
+## Nov 21:
+
+#### [Spatially resolved mass-to-light from the CALIFA survey. Mass-to-light ratio vs. color relations](https://arxiv.org/abs/1811.08431)
+    - **Relevant, Interesting**
+    * We investigated the mass-to-light versus color relations (MLCRs) derived from the spatially resolved star formation history of a sample of 452 galaxies observed with integral field spectroscopy in the CALIFA survey.
+
+
+#### [Atomic gas fractions in active galactic nucleus host galaxies](https://arxiv.org/abs/1811.08448)
+    * We investigate fgas for 75 AGN host galaxies in the extended GALEX Arecibo SDSS Survey (xGASS), whose atomic gas fractions are complete to a few percent.
+    * We construct H i spectral stacks of 1562 AGN from the Arecibo Legacy Fast ALFA (ALFALFA) survey, which enables us to extend the AGN sample to lower stellar masses.
+    * AGN hosts with log (M⋆/M⊙) >10.2 are H i rich by a factor of ∼ 2. However, this gas fraction excess disappears when the control sample is additionally matched in star formation rate (SFR), indicating that these AGN hosts are actually H i normal
+    * At lower stellar mass, the stacking analysis reveals that AGN hosts are H i poor at fixed stellar mass.
+
+
+#### [The Infrared Medium-deep Survey. VI. Discovery of Faint Quasars at z∼5 with a Medium-band-based Approach](https://arxiv.org/abs/1811.08606)
+    * we present the first results of the z∼5 faint quasar survey with the Infrared Medium-deep Survey (IMS), which covers ∼100 deg2 areas in J-band to the depths of JAB∼23 mag.
+    * We newly discovered 10 quasars with −25<M1450<−23 at z∼5, among which three have been missed in a previous survey using the same optical data over the same area, implying the necessity for improvements in high redshift faint quasars selection.
+
+
+#### [Neutral-Gas-Phase Metal Abundances in ZnII-Selected Quasar Absorption Line Systems near Redshift z=1.2](https://arxiv.org/abs/1811.08813)
+    * ten metallicity measurements for quasar absorbers near z=1.2 that were selected for having unusually significant ZnII absorption in their SDSS spectra.
+    * Follow-up UV space spectroscopy of the Lyα region shows that all ten have damped Lyα (DLA) absorption,
+    * The result is a representative sample of the highest Zn+ columns of gas within the DLA population. These ZnII-selected systems define the upper envelope of DLA metallicities near z=1.2.
+
+
+#### [Ultra-steep spectrum emission in the merging galaxy cluster Abell 1914](https://arxiv.org/abs/1811.08450)
+    * The galaxy cluster Abell 1914 is a massive galaxy cluster in which X-ray observations show clear evidence of merging activity. We carried out radio observations of this cluster with the LOw Frequency ARay (LOFAR) at 150 MHz and the Giant Metrewave Radio Telescope (GMRT) at 610 MHz.
+    * Our analysis shows that the ultra-steep spectrum source (4C38.39; α≲−2), previously thought to be part of a radio halo, is a distinct source with properties that are consistent with revived fossil plasma sources.
+
+
+----
+
+## Nov 25:
+
+#### [The number of dwarf satellites of disk galaxies versus their bulge mass in the standard model of cosmology](https://arxiv.org/abs/1811.08898)
+
+
+#### [Effects of environment on sSFR profiles of late-type galaxies in the CALIFA survey](https://arxiv.org/abs/1811.08910)
+
+
+#### [On the small scale clustering of quasars: constraints from the MassiveBlack II simulation](https://arxiv.org/abs/1811.08916)
+
+
+#### [Dust emission profiles of DustPedia galaxies](https://arxiv.org/abs/1811.08923)
+
+
+#### [Jets blowing bubbles in the young radio galaxy 4C 31.04](https://arxiv.org/abs/1811.08971)
+
+
+#### [The dark matter deficit galaxies in hydrodynamical simulations](https://arxiv.org/abs/1811.09070)
+
+
+#### [Optical spectroscopic survey of a sample of Unidentified Fermi objects: II](https://arxiv.org/abs/1811.09070)
+    * We report on optical spectroscopy obtained at the 10.4m Gran Telescopio Canarias of 28 Fermi gamma-ray sources that completes the study of a sample of 60 targets of unidentified objects for which the detection of an X-ray and/or radio source inside the 3FGL error box is available.
+    * In particular, we found 24 BL Lac objects, one QSO, one NLSy1 and two objects showing spectral features typical of Seyfert 2 galaxies.
+
+
+#### [A novel search for gravitationally lensed radio sources in wide-field VLBI imaging from the mJIVE-20 survey](https://arxiv.org/abs/1811.09152)
+    * We present a novel pilot search for gravitational lenses in the mJIVE-20 survey, which observed 24903 radio sources selected from FIRST with the VLBA at an angular resolution of 5 mas
+    * 12 new candidates: Ten were rejected as core-jet or core-hotspot(s) systems
+    * Given the two confirmed gravitational lenses in the mJIVE-20 sample, we find a robust lensing-rate of 1:(318±225) for a statistical sample of 635 radio sources detected on mas-scales
+
+
+#### [The echo of the bar buckling: phase-space spirals in Gaia DR2](https://arxiv.org/abs/1811.09205)
+    * We use a self-consistent N-body simulation of an isolated Milky Way-type galaxy to show that the phase-space spirals develop naturally from vertical oscillations driven by the buckling of the stellar bar. 
+    * We claim that the physical mechanism standing behind the observed incomplete phase-space mixing process can be internal and not necessarily due to the perturbation induced by a massive satellite.
+    * Once bending waves appear, they are supported for a long time via disk self-gravity. The underlying physical mechanism implies the link between in-plane and vertical motion that leads directly to phase-space structures whose amplitude and shape are in remarkable agreement with those of the phase-space spirals observed in the Milky Way disk
+
+
+#### [Detailed Elemental Abundances in the M31 Stellar Halo: Low-Resolution Resolved Stellar Spectroscopy](https://arxiv.org/abs/1811.09205)
+    * DEIMOS观测14颗M31 smooth halo里面的RGB星.
+    * We find ⟨[α/Fe]⟩ = 0.49 ± 0.31 dex and ⟨[Fe/H]⟩ = −1.53 ± 0.52 dex for our sample. This implies that the smooth halo field is likely composed of disrupted dwarf galaxies with truncated star formation histories that were accreted early in the formation history of M31.
+
+
+#### [Keck OSIRIS AO LIRG Analysis: Feedback in the Nuclei of Luminous Infrared Galaxies](https://arxiv.org/abs/1811.09281)
+
+
+#### [Starvation as the primary quenching mechanism in galaxies](https://arxiv.org/abs/1811.09283)
+
+
+#### [The SAMI Galaxy Survey: Stellar and gas misalignments and the origin of gas in nearby galaxies](https://arxiv.org/abs/1811.09298)
+
+
+#### [Interpretation of Departure from the Broad Line Region Scaling in Active Galactic Nuclei](https://arxiv.org/abs/1811.09559)
+
+
+#### [The Foundation Supernova Survey: Measuring Cosmological Parameters with Supernovae from a Single Telescope](https://arxiv.org/abs/1811.09286)
+    * Here, we combine the Foundation sample with SNe from the Pan-STARRS Medium Deep Survey and measure cosmological parameters with 1,338 SNe from a single telescope and a single, well-calibrated photometric system. 
+    * For the first time, both the low-z and high-z data are predominantly discovered by surveys that do not target pre-selected galaxies, reducing selection bias uncertainties
+    * By combining the SN Ia data with cosmic microwave background constraints, we find w=−0.938±0.053, consistent with ΛCDM. With 463 spectroscopically classified SNe Ia alone, we measure w=−0.933±0.061.
+
+
+#### [Deviations from tidal torque theory: environment dependences on halo angular momentum growth](https://arxiv.org/abs/1811.09487)
+    * The tidal torque theory (TTT) naturally relates the origin and evolution of angular momentum with the environment in which dark matter (DM) haloes form. However, the non-linear evolution of haloes introduces deviations that are commonly thought as noise in the theory.
+    * We find that the classification of DM haloes according to their angular momentum growth results in samples with different internal alignment and spin parameter distributions 
+    * low mass haloes are embedded in denser environments if they have acquired angular momentum below the TTT expectations, whereas the opposite occurs at high masses, where higher angular momentum growths are typically associated with more clustering
+
+
+#### [Dark Quest. I. Fast and Accurate Emulation of Halo Clustering Statistics and Its Application to Galaxy Clustering](https://arxiv.org/abs/1811.09504)
+    - **Important, Relevant**
+    * We perform an ensemble of cosmological N-body simulations with 20483 particles for 101 cosmological models within a flat wCDM cosmology framework sampled based on a maximin-distance Sliced Latin Hypercube Design
+    * We develop an emulator, Dark Emulator, which enables fast and accurate computations of halo clustering quantities, the halo mass function, halo-matter cross-correlation, and halo auto-correlation as a function of halo masses, redshift, separations and cosmological models, based on the Principal Component Analysis and the Gaussian Process Regression
+
+
+#### [First Cosmology Results Using Type Ia Supernovae From the Dark Energy Survey: Survey Overview and Supernova Spectroscopy](https://arxiv.org/abs/1811.09565)
+    * We have spectroscopically confirmed 307 supernovae, including 251 type Ia supernovae (SNe Ia) over a redshift range of 0.017<z<0.85.
+
+
+#### [KiDS+GAMA: Intrinsic alignment model constraints for current and future weak lensing cosmology](https://arxiv.org/abs/1811.09598)
+    - **Relevant**
+    * We measure the projected galaxy position-intrinsic shear correlations and the projected galaxy clustering signal using high-resolution imaging from the Kilo Degree Survey (KiDS) overlapping with the GAMA spectroscopic survey
+    * Separating samples by colour, we make no significant detection of blue galaxy alignments
+    * We make robust detections (∼9σ) for red galaxies, with ARIA=3.35+0.50−0.50, corresponding to a net radial alignment with the galaxy density field
+    * Our results indicate, however, that the modelling of red/blue-split galaxy alignments may be insufficient to describe samples with variable central/satellite galaxy fractions.
