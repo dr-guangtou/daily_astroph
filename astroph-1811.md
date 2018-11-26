@@ -545,8 +545,9 @@ variability to constrain quasar-wind properties
     * blue galaxies have profiles close to a power law with no discernible splashback feature, which is consistent with them being on their first infall into the cluster.
 
 #### [Cosmological constraints from galaxy-lensing cross correlations using BOSS galaxies with SDSS and CMB lensing](https://arxiv.org/abs/1811.06499)
-    - **Relevant**
-    * 
+    - **Relevant; 很好的Joint-modeling教材**
+    * We show that our modeling method is robust to the impact of different choices for how galaxies occupy dark matter halos and to the impact of baryonic physics  
+    * We estimate the systematic uncertainty in the galaxy-galaxy lensing measurements to be ∼ 6% (dominated by photometric redshift uncertainties) and in the galaxy-CMB lensing measurements to be ∼ 3%, from small scale modeling uncer- tainties including baryonic physics.
 
 
 #### [Probabilistic Random Forest: A machine learning algorithm for noisy datasets](https://arxiv.org/abs/1811.05994)
@@ -882,21 +883,39 @@ variability to constrain quasar-wind properties
 ## Nov 25:
 
 #### [The number of dwarf satellites of disk galaxies versus their bulge mass in the standard model of cosmology](https://arxiv.org/abs/1811.08898)
+    - **Interesting**
+    * There is a correlation between bulge mass of the three main galaxies of the Local Group (LG)
+    * These correlations do not appear to be expected in standard hierarchical galaxy formation. 本文用DM-only模拟研究 
+    * For this sample, we find an average trend (though with very large scatter) similar to the one observed in the LG; disk galaxies in heavier halos on average host heavier bulges and larger number of satellites. 
+    * we study sub-samples of disk galaxies with very similar stellar or halo masses (but spanning a range of 2-3 orders of magnitude in bulge mass) and find no obvious trend in the number of satellites vs. bulge mass.
 
 
 #### [Effects of environment on sSFR profiles of late-type galaxies in the CALIFA survey](https://arxiv.org/abs/1811.08910)
+    * 完全没有任何新结果。。。
 
 
 #### [On the small scale clustering of quasars: constraints from the MassiveBlack II simulation](https://arxiv.org/abs/1811.08916)
-
+    * At these high luminosities (g < 20.85 quasars), the MBII simulation volume (100 cMpc/h comoving boxsize) has only 3 quasar pairs at distances of 1 − 4 Mpc.  
+    * By modeling the central and satellite AGN CLFs as log-normal and Schechter distributions respectively (as seen in MBII AGNs), we arrive at CLF models which fit the simulation predictions and observed measurements of the luminosity function and the small-scale clustering measured for the SDSS samaple.
+    * The small-scale clustering of our mock quasars is well-explained by central-satellite quasar pairs
 
 #### [Dust emission profiles of DustPedia galaxies](https://arxiv.org/abs/1811.08923)
+    * 用DustPedia样本看disk星系中的dust是不是真的是指数盘形式分布的: GALFITM Sersic同时拟合多个波段的Herschel观测
+    * 大多数盘星系的尘埃辐射Serisc模型的 n <1; Most observed profiles exhibit a depletion in the inner region and are more or less exponential in the outer part.
+    * We assume that the observed deficit of dust emission in the inner galaxy region is related to the depression in the radial profile of the Hi surface density in the same region because the atomic gas reaches high enough surface densities there to be transformed into molecular gas.
 
 
 #### [Jets blowing bubbles in the young radio galaxy 4C 31.04](https://arxiv.org/abs/1811.08971)
+    * the discovery of shocked molecular and ionized gas resulting from jet-driven feedback in the compact radio galaxy 4C 31.04 using near-IR imaging spectroscopy.
+    * The [Fe ii] emission traces shocked gas ejected from the disc plane by a jet-blown bubble 300 − 400 pc in diameter, whilst the H2 emission traces shock-excited molecular gas in the interior ∼ 1 kpc of the circumnuclear disc.
 
 
 #### [The dark matter deficit galaxies in hydrodynamical simulations](https://arxiv.org/abs/1811.09070)
+    - **Relevant**
+    * We explore the population and origins of dark matter deficit galaxies (DMDGs) in two state-of-the-art hydrodynamical sim- ulations, the EAGLE and Illustris projects.
+    * 对小质量卫星星系：we find that about 5.0% of them in the EAGLE, and 3.2% in the Illustris are DMDGs with dark matter fractions below 50% inside two times half-stellar-mass radii
+    * 这些星系还是受到潮汐扰动的影响的，mass loss of the dark matter is much more rapid than stars in DMDGs during tidal interactions. 
+    * 但没有专门讨论模拟resolution的影响; 而且，如果最终恒星部分还是会被扰动到，应该能找到类似的观测证据，但是至少在Coma里并没有
 
 
 #### [Optical spectroscopic survey of a sample of Unidentified Fermi objects: II](https://arxiv.org/abs/1811.09070)
@@ -922,15 +941,31 @@ variability to constrain quasar-wind properties
 
 
 #### [Keck OSIRIS AO LIRG Analysis: Feedback in the Nuclei of Luminous Infrared Galaxies](https://arxiv.org/abs/1811.09281)
+    * we undertook the Keck OSIRIS AO LIRG Analysis observing campaign to study the gas dynamics in the inner kiloparsec regions of these systems at spatial scales of a few 10s of parsecs.
+    * we employ near-infrared diagnostics such as Brγ and the ro-vibrationally excited H2 lines to quantify the nuclear star formation rate and identify feedback associated with shocked molecular gas seen in 21 nearby luminous infrared galaxies.
+    * Shocked molecular gas is preferentially found in the ultraluminous infrared systems, but may also be triggered at a lower-luminosity, earlier merging stage.
+    * On circumnuclear scales, AGN have a strong effect on heating the surrounding molecular gas, though their coupling is not simply driven by AGN strength but rather is complicated by orientation, dust shielding, density, and other factors.
 
 
 #### [Starvation as the primary quenching mechanism in galaxies](https://arxiv.org/abs/1811.09283)
+    - **Relevant**
+    * Our analysis reveals that the star-forming progenitors of massive (M∗ ∼ 10^11 M⊙) local passive galaxies quenched primarily through starvation over a time-scale of 2 Gyr, before any future star formation was abruptly halted by an ejective or heating mode.
+    * Outflows played a minor role in quenching the progenitors of massive galaxies, but were of increasing importance in quenching the progenitors of low-mass
+    * We find that the quenching of central galaxies is independent of the environment. In contrast, we find that environmental effects contributed to the starvation of low-mass satellite galaxies in very dense environments.
 
 
 #### [The SAMI Galaxy Survey: Stellar and gas misalignments and the origin of gas in nearby galaxies](https://arxiv.org/abs/1811.09298)
+    - **Interesting, Relevant**
+    * Integral field spectroscopic observations of 1213 galaxies from the SAMI Galaxy Survey show that 11% of galaxies with fitted gas and stellar rotation are misaligned by more than 30◦ in both field/group and cluster
+    * The misalignment fraction is 45 ± 6% in early-type galaxies, but only 5 ± 1% in late-type galaxies.
+    * Slower dynamical settling time of the gas in elliptical stellar mass distributions accounts for a small increase in misalignment in early-type galaxies. 但不足以解释全部的形态差异
+    * LTGs have primarily accreted gas close to aligned rather than settled from misaligned based on analysis of the skewed distribution of PA offsets compared to a dynamical settling model. LTG吸积的气体一般就是aligned。。。但是为什么气体一定是吸积来的? 
+    * Cluster environments are found to have gas misalignment driven primarily by cluster processes not by gas accretion.
 
 
 #### [Interpretation of Departure from the Broad Line Region Scaling in Active Galactic Nuclei](https://arxiv.org/abs/1811.09559)
+    * A significant fraction of objects exhibit shorter lags than the previously found scaling of the time delay of the Hβ emission region with the monochromatic flux at 5100A ̊
+    * These shorter largs can be explained by the old concept of scaling of the BLR size with the ionization paramete
 
 
 #### [The Foundation Supernova Survey: Measuring Cosmological Parameters with Supernovae from a Single Telescope](https://arxiv.org/abs/1811.09286)
