@@ -996,3 +996,48 @@ variability to constrain quasar-wind properties
     * Separating samples by colour, we make no significant detection of blue galaxy alignments
     * We make robust detections (∼9σ) for red galaxies, with ARIA=3.35+0.50−0.50, corresponding to a net radial alignment with the galaxy density field
     * Our results indicate, however, that the modelling of red/blue-split galaxy alignments may be insufficient to describe samples with variable central/satellite galaxy fractions.
+
+----
+
+## Nov 26:
+
+#### [On the dynamics of the Small Magellanic Cloud through high-resolution ASKAP HI observations](https://arxiv.org/abs/1811.09627)
+    * We model the HI gas component as a rotating disc of non-negligible angular size, moving into the plane of the sky and undergoing nutation/precession motions. We derive a high-resolution (~ 10 pc) rotation curve of the SMC out to R ~ 4 kpc
+    * After correcting for asymmetric drift, the circular velocity slowly rises to a maximum value of Vc ~ 55 km/s at R ~ 2.8 kpc and possibly flattens outwards
+    * 尽管SMC还在相互作用中，其HI旋转曲线和isolated dwarf的差不多
+
+
+#### [FLaREON : a fast computation of Lyα escape fractions and line profiles](https://arxiv.org/abs/1811.09630)
+    * FLaREON (Fast Lyman-Alpha Radiative Escape from Outflowing Neutral gas), a public python package that delivers fast and accurate Lyman alpha escape fractions and line profiles over a wide range of outflow geometries and properties
+    * FLaREON can be used to infer the physical properties of the outflowing medium from an observed Lyman alpha line profile, including the escape fraction, or it can be run over millions of objects in a galaxy formation model to simulate the escape of Lyman alpha photons in a cosmological volume.
+
+
+#### [An enormous molecular gas flow in the RXJ0821+0752 galaxy cluster](https://arxiv.org/abs/1811.09653)
+    - **Relevant, Interesting**
+
+
+#### [SDSS-IV MaNGA: Stellar initial mass function variation inferred from Bayesian analysis of the integral field spectroscopy of early type galaxies](https://arxiv.org/abs/1811.09799)
+    - **Relevant, Interesting**
+
+
+#### [The Density Structure of Simulated Stellar Streams](https://arxiv.org/abs/1811.10084)
+    * Simulations are run with and without a normal cold dark matter sub-halo population below 4x10^8 M_sun to examine the role of the lower mass sub-halos in the creation of density variations, "gaps", within thin tidal star streams.
+    * Only 12±5\% of the stream density variations can be attributed to the sub-halos below 4x10^8 M_sun. The dominant source of density variations in streams is the varying tidal fields along the complex trajectories of the clusters and their streams as the galaxy assembles.
+
+
+#### [New candidates to polar-ring galaxies from the Sloan Digital Sky Survey](https://arxiv.org/abs/1811.10222)
+
+
+#### [Metals and dust content across the galaxies M 101 and NGC 628](https://arxiv.org/abs/1811.10262)
+
+
+#### [High-resolution MEGARA IFU spectroscopy and structural analysis of a fast-rotating, disky bulge in NGC 7025](https://arxiv.org/abs/1811.10440)
+
+
+#### [The Mass-to-light Ratios and the Star Formation Histories of Disk Galaxies](https://arxiv.org/abs/1811.10579)
+
+
+#### [Characterizing the radio emission from the binary galaxy cluster merger Abell 2146](https://arxiv.org/abs/1811.09708)
+
+
+#### [Radio observations of the merging galaxy cluster Abell 520](https://arxiv.org/abs/1811.09713)
