@@ -1041,3 +1041,68 @@ variability to constrain quasar-wind properties
 
 
 #### [Radio observations of the merging galaxy cluster Abell 520](https://arxiv.org/abs/1811.09713)
+
+
+----
+
+## Nov 26:
+
+#### [Formation of ultra-diffuse galaxies in the field and in galaxy groups](https://arxiv.org/abs/1811.10607)
+
+
+#### [A machine--vision method for automatic classification of stellar halo substructure](https://arxiv.org/abs/1811.10613)
+
+
+#### [Galaxy and Quasar Fueling Caught in the Act from the Intragroup to the Interstellar Medium](https://arxiv.org/abs/1811.10615)
+
+
+#### [NIHAO XX: The impact of the star formation threshold on the cusp-core transformation of cold dark matter haloes](https://arxiv.org/abs/1811.10625)
+
+
+#### [Black Hole and Neutron Star Mergers in Galactic Nuclei](https://arxiv.org/abs/1811.10627)
+    * We consider different SMBH masses, slopes for the BH mass function, binary semi-major axis and eccentricity distributions, and different spatial distributions for the binaries.
+    * We find that the merger rates are a decreasing function of the SMBH mass and are in the ranges ∼0.17-0.52 Gpc−3 yr−1, ∼0.06-0.10 Gpc−3 yr−1 and ∼0.04-0.16 Gpc−3 yr−1 for BH-BH, BH-NS and NS-NS binaries
+
+#### [The infrared-luminous progenitors of high-z quasars](https://arxiv.org/abs/1811.10644)
+
+
+#### [The COS CGM Compendium. II: Metallicities of the Partial and Lyman Limit Systems at z<1](https://arxiv.org/abs/1811.10654)
+
+
+#### [NuSTAR Hard X-ray View of Low-luminosity Active Galactic Nuclei: High-energy Cutoff and Truncated Thin Disk](https://arxiv.org/abs/1811.10657)
+    * Simultaneous XMM-Newton+NuSTAR observations of two low-luminosity Active Galactic Nuclei (LLAGN), NGC 3998 and NGC 4579. We do not detect any significant variability in either source over the ~3 day length of the NuSTAR observations.
+    * Neither source shows any reflection hump with a 3σ reflection fraction upper-limits
+
+
+#### [The Red Dead Redemption Survey of Circumgalactic Gas About Massive Galaxies. I. Mass and Metallicity of the Cool Phase](https://arxiv.org/abs/1811.10717)
+
+
+#### [Radio wave scattering by circumgalactic cool gas clumps](https://arxiv.org/abs/1811.10876)
+
+
+#### [Tidal disruption events can power the observed AGN in dwarf galaxies](https://arxiv.org/abs/1811.10942)
+
+
+#### [The impact of AGN on stellar kinematics and orbits in simulated massive galaxies](https://arxiv.org/abs/1811.11059)
+
+
+#### [The assembly of spheroid-dominated galaxies in the EAGLE simulation](https://arxiv.org/abs/1811.11062)
+
+
+#### [Multiply-imaged time-varying sources behind galaxy clusters - Comparing FRBs to QSOs, SNe, and GRBs](https://arxiv.org/abs/1811.10618)
+    - **Interesting**
+    * Depending on the redshift distribution of FRBs and using the repeating FRB121102 as a model, we calculate a detection rate of multiply-imaged FRBs with their multiply-imaged hosts caused by the distribution of galaxy-cluster scale gravitational lenses of the order of 10−4 per square degree per year
+    * Our comparison of estimated detection rates for quasars, supernovae, gamma ray bursts, and FRBs shows that multiple images of FRBs could be more numerous than those of gamma ray bursts and supernovae and as numerous as multiple images of quasars.
+    * Time delays between the multiple images of an FRB break degeneracies in model-based and model-independent lens reconstructions as other time-varying sources do, yet without a microlensing bias as FRBs are more point-like and have shorter duration times.
+
+#### [ETHOS - an Effective Theory of Structure Formation: detecting dark matter interactions through the Lyman-α forest](https://arxiv.org/abs/1811.10630)
+    * we use the ETHOS framework (Cyr-Racine et al. 2016; Vogelsberger et al. 2016) to compare statistics of the Lyman-α forest in cold dark matter (CDM) with an alternative model in which the DM couples strongly with a relativistic species in the early universe. 
+    * These models are characterised by a cutoff in the linear power spectrum, followed by a series of 'dark acoustic oscillations' (DAOs) on sub-dwarf scales. 
+
+#### [Statistics of Two-point Correlation and Network Topology for Lyman Alpha Emitters at z≈2.67](https://arxiv.org/abs/1811.10631)
+
+
+#### [The Impact of Line Misidentification on Cosmological Constraints from Euclid and other Spectroscopic Galaxy Surveys](https://arxiv.org/abs/1811.10668)
+
+
+#### [The Impact of Line Misidentification on Cosmological Constraints from Euclid and other Spectroscopic Galaxy Surveys](https://arxiv.org/abs/1811.10668)
