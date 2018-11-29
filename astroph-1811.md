@@ -1105,4 +1105,41 @@ variability to constrain quasar-wind properties
 #### [The Impact of Line Misidentification on Cosmological Constraints from Euclid and other Spectroscopic Galaxy Surveys](https://arxiv.org/abs/1811.10668)
 
 
-#### [The Impact of Line Misidentification on Cosmological Constraints from Euclid and other Spectroscopic Galaxy Surveys](https://arxiv.org/abs/1811.10668)
+----
+
+## Nov 28:
+
+#### [Planck's dusty GEMS. V. Molecular wind and clump stability in a strongly lensed star-forming galaxy at z=2.2](https://arxiv.org/abs/1811.11185)
+
+
+#### [Cosmic Dawn II (CoDa II): a new radiation-hydrodynamics simulation of the self-consistent coupling of galaxy formation and reionization](https://arxiv.org/abs/1811.11192)
+
+
+#### [Spatially resolved rotation of the broad-line region of a quasar at sub-parsec scale](https://arxiv.org/abs/1811.11195)
+
+
+#### [Planck's dusty GEMS. VI. Multi-J CO excitation and interstellar medium conditions in dusty starburst galaxies at z=2-4](https://arxiv.org/abs/1811.11215)
+
+
+#### [Simultaneous analysis of SDSS spectra and GALEX photometry with STARLIGHT: Method and early results](https://arxiv.org/abs/1811.11255)
+
+
+#### [WISE view of Narrow-Line Seyfert 1 galaxies: mid-infrared color and variability](https://arxiv.org/abs/1811.11372)
+
+
+#### [Angular momentum regulates HI gas content and HI central hole size in the discs of spirals](https://arxiv.org/abs/1811.11386)
+
+
+#### [The Bending Feature of the Fermi Bubbles: a presumed horizontal galactic wind and its implication on the Bubbles' Age](https://arxiv.org/abs/1811.11472)
+    * This inspires us to consider the possibility that the bending may be caused by a presumed global horizontal galactic wind (HGW) blowing from the east to the west.
+
+#### [Timescales for Hi consumption and SFR depletion of satellite galaxies in groups](https://arxiv.org/abs/1811.11613)
+
+
+#### [Identification of Low Surface Brightness Tidal Features in Galaxies Using Convolutional Neural Networks](https://arxiv.org/abs/1811.11616)
+
+
+#### [The SAMI Galaxy Survey: Observing the environmental quenching of star formation in GAMA groups](https://arxiv.org/abs/1811.11676)
+
+
+#### [Deciphering the large-scale environment of radio galaxies in the local Universe: where do they born, grow and die?](https://arxiv.org/abs/1811.11179)
