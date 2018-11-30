@@ -1143,3 +1143,57 @@ variability to constrain quasar-wind properties
 
 
 #### [Deciphering the large-scale environment of radio galaxies in the local Universe: where do they born, grow and die?](https://arxiv.org/abs/1811.11179)
+
+
+----
+
+## Nov 29:
+
+#### [The Origins of the Circumgalactic Medium in the FIRE Simulations](https://arxiv.org/abs/1811.11753)
+
+
+#### [Crossing the Line: Active Galactic Nuclei in the Star-forming region of the BPT Diagram](https://arxiv.org/abs/1811.11755)
+
+
+#### [Abundant Serendipitous Emission Line Sources with JWST/NIRSpec](https://arxiv.org/abs/1811.11757)
+
+
+#### [The ALMA Fornax Cluster Survey I: stirring and stripping of the molecular gas in cluster galaxies](https://arxiv.org/abs/1811.11759)
+
+
+#### [The extraordinary linear polarisation structure of the southern Centaurus A lobe revealed by ASKAP](https://arxiv.org/abs/1811.11760)
+
+
+#### [The MOSDEF Survey: Significant Evolution in the Rest-Frame Optical Emission Line Equivalent Widths of Star-Forming Galaxies at z=1.4-3.8](https://arxiv.org/abs/1811.11767)
+
+
+#### [The OSIRIS Lens-Amplified Survey (OLAS) I: Dynamical Effects of Stellar Feedback in Low Mass Galaxies at z ~ 2](https://arxiv.org/abs/1811.11768)
+
+
+#### [A SOFIA Survey of [CII] in the galaxy M51 I. [CII] as a tracer of Star Formation](https://arxiv.org/abs/1811.11769)
+
+
+#### [The host galaxies of FeLoBAL quasars at z∼0.9 are not dominated by recent major mergers](https://arxiv.org/abs/1811.11773)
+
+
+#### [The large and small scale properties of the intergalactic gas in the Slug Ly-alpha nebula revealed by MUSE HeII emission observations](https://arxiv.org/abs/1811.11783)
+
+
+#### [Dwarf Galaxies in CDM, WDM, and SIDM: Disentangling Baryons and Dark Matter Physics](https://arxiv.org/abs/1811.11791)
+
+
+#### [A wide field map of intracluster globular clusters in Coma](https://arxiv.org/abs/1811.11794)
+    - **Important, Interesting**
+
+
+#### [Exploring Reionization-Era Quasars IV: Discovery of Six New z≳6.5 Quasars with DES, VHS and unWISE Photometry](https://arxiv.org/abs/1811.11915)
+
+
+#### [The Redshift Distribution of Infrared-Faint Radio Sources](https://arxiv.org/abs/1811.11957)
+    * Here we increase the number of IFRSs with known spectroscopic redshifts by a factor of about 5 to 131, with redshifts up to z=4.387, and a median redshift of z = 2.68.
+    * The IFRS redshift distribution overlaps with the high-z radio galaxy (HzRG) redshift distribution but is significantly narrower, suggesting that the IFRSs are a subset of the larger class of HzRGs
+
+#### [The Ultraviolet Detection of Diffuse Gas in Galaxy Groups](https://arxiv.org/abs/1811.12374)
+    * A small survey of the UV-absorbing gas in 12 low-z galaxy groups has been conducted using the Cosmic Origins Spectrograph (COS)
+    * At group-centric impact parameters of 0.3-2 Mpc, these S/N=15-30 spectra detected HI absorption in 7 of 12 groups; high (OVI) and low (SiIII) ion metal lines are present in 2/3 of the absorption components. None of the three most highly-virialized, ETG-dominated groups are detected in absorption.
+    * Covering fractions ≳50% are seen at all impact parameters probed, but do not require large filling factors despite an enormous extent.
