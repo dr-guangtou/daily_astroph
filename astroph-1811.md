@@ -1177,16 +1177,30 @@ variability to constrain quasar-wind properties
 
 
 #### [The large and small scale properties of the intergalactic gas in the Slug Ly-alpha nebula revealed by MUSE HeII emission observations](https://arxiv.org/abs/1811.11783)
+    * Report the results of a deep MUSE integral-field spectroscopic search for non-resonant, extended He iiλ1640 and metal emission. Extended He ii radiation is detected on scales of about 100 kpc, but only in some regions associated with the bright Lyα emission and a continuum-detected source
+    * He ii/Lyα gradient is due to large variations in the physical distances between the associated quasar and these regions. This implies that the overall length of the emitting structure could extend to physical Mpc scales and be mostly oriented along our line of sight. 
+    * These results strengthen the possibility that the density distribution of intergalactic gas at high-redshift is extremely clumpy and multiphase on scales below our current observational spatial resolution of a few physical kpc.
 
 
 #### [Dwarf Galaxies in CDM, WDM, and SIDM: Disentangling Baryons and Dark Matter Physics](https://arxiv.org/abs/1811.11791)
+    * we compare how both self-interacting dark matter (SIDM) and/or warm dark matter (WDM) models affect the assembly histories as well as the central density structure in fully hydrodynamical simulations of dwarfs.
+    * the inclusion of self-interactions does little to affect the mass assembly of these halos (both dark matter and baryonic), while WDM mod- els generally delay dark matter halo formation and reduce galaxies’ stellar masses at z = 0.
+    * Spatially-resolved rotation curves in the central regions (< 400 pc) of small dwarfs could provide a way to distinguish between CDM, WDM, and SIDM: at the masses probed in this simulation suite, cored density profiles in dwarfs with small r1/2 values can only originate from dark matter self-interactions.
 
 
 #### [A wide field map of intracluster globular clusters in Coma](https://arxiv.org/abs/1811.11794)
     - **Important, Interesting**
+    - **非常适合为HSC探测GC做测试**
+    * Data from three different HST observing programs are combined in order to obtain a full surface density map of globular clusters in the core of Coma.
+    * A total of 22,426 Globular cluster candidates were selected through a detailed morphological inspection and the analysis of their magnitude and colors in two wavebands, F475W (Sloan g) and F814W (I). 
+    * The spatial distribution of globular clusters defines three main overdensities in Coma that can be associated with NGC 4889, NGC 4874, and IC 4051 but have spatial scales five to six times larger than individual galaxies.
+    * Intracluster globular clusters also form clear bridges between Coma galaxies. Red globular clusters, which agglomerate around the center of the three main subgroups, reach higher surface densities than blue ones.
 
 
 #### [Exploring Reionization-Era Quasars IV: Discovery of Six New z≳6.5 Quasars with DES, VHS and unWISE Photometry](https://arxiv.org/abs/1811.11915)
+    * In this paper, we expand our search for z ∼ 7 quasars to the footprint of the Dark Energy Survey (DES) Data Release One (DR1), covering ∼ 5000 deg2 of new area.
+    * We report the initial discovery and spectroscopic confirmation of six new luminous quasars at z > 6.4, including an object at z = 7.02, the fourth quasar yet known at z > 7, from a small fraction of candidates observed thus far. 
+    * Based on the recent measurement of z ∼ 6.7 quasar luminosity function using the quasar sample from our survey in the northern sky, we estimate that there will be 􏰇 55 quasars at z > 6.5 at M1450 < −24.5 in the full DES footprint.
 
 
 #### [The Redshift Distribution of Infrared-Faint Radio Sources](https://arxiv.org/abs/1811.11957)
