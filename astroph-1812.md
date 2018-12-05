@@ -130,3 +130,85 @@
 #### [MUSE-AO view of the starburst-AGN connection: NGC 7130](https://arxiv.org/abs/1811.00692)
     * We present the discovery of a small 0.2′′ (60 pc) radius kinematically decoupled core, as well as an outflow jet, in the archetypical AGN-starburst "composite" galaxy NGC 7130
     * A plume of material extends towards the NE from the nucleus until at least the edge of our FOV at 2′′ (640 pc) radius which we interpret as an outflow jet originating in the AGN. The plume is not visible morphologically, but is clearly characterised in our data by emission lines ratios characteristic of AGN emission, enhanced gas velocity dispersion, and distinct non-circular gas velocities. Its orientation is roughly perpendicular to line of nodes of the rotating host galaxy disk.
+
+
+----
+
+## Dec 4:
+
+#### [What Is Inside Matters: Simulated Green Valley Galaxies Have Centrally Concentrated Star Formation](https://arxiv.org/abs/1811.01017)
+
+
+#### [The Next Generation Virgo Cluster Survey. XXIII. Fundamentals of nuclear star clusters over seven decades in galaxy mass](https://arxiv.org/abs/1811.01019)
+
+
+#### [Chemical Abundance Analysis of Tucana III, the Second r-process Enhanced Ultra-Faint Dwarf Galaxy](https://arxiv.org/abs/1811.01022)
+    * The four stars have chemical abundance patterns consistent with the one previously studied star in Tucana III: they are moderately enhanced in r-process elements. 
+    * The non-neutron-capture elements generally follow trends seen in other dwarf galaxies, including a metallicity spread of 0.44 dex and the expected trend in α-elements, i.e., the lower metallicity stars have higher Ca and Ti abundance.  
+
+#### [The Fornax Deep Survey with VST. V. Exploring the faintest regions of the bright early-type galaxies inside the virial radius](https://arxiv.org/abs/1811.01050)
+    - **Relevant**
+    * 对Fornax维力半径以内所有星系的测光测量：From the isophote fit, we derive the azimuthally averaged surface brightness profiles, the position angle and ellipticity profiles as a function of the semi-major axis. In each band, we derive the total magnitudes, effective radii, integrated colors and stellar mass-to-light ratios.
+    * The observations suggest that the Fornax cluster is not completely relaxed inside the virial radius. The bulk of the gravitational interactions between galaxies happens in the W-NW core region of the cluster
+
+#### [The Massive and Distant Clusters of WISE Survey V: Extended Radio Sources in Massive Galaxy Clusters at z~1](https://arxiv.org/abs/1811.01052)
+    * JVLA观测高红移星系团内射电星系的射点形态
+    * Out of the ten targeted sources, six are FR II sources, one is an FR I source, and three sources have undetermined morphologies. Eight radio sources have associated Spitzer data, 75% presenting infrared counterparts. 
+    * A majority of these counterparts are consistent with being massive galaxies.
+
+
+#### [The Influence of the Dynamic State of Galaxy Clusters on Segregation Phenomena and Velocity Dispersion Profiles](https://arxiv.org/abs/1811.01095)
+    * 按照星系团内星系的速度分布分类成Gaussian和Non-Gaussian系统：Our results indicate a strong spatial segregation between active and passive galaxies both in G and NG systems
+    * We also found a clear evolutionary trend for G systems, with brighter galaxies in richer clusters having flatter VDPs. The scenario emerging from this study suggests a direct relationship between segregation effects, VDPs and the dynamic state of clusters.
+
+
+#### [Exploring galaxy evolution with generative models](https://arxiv.org/abs/1811.01114)
+    - **Interesting**
+    * By learning a latent space representation of the data, we can use this network to forward model and explore hypotheses in a data-driven way. We train a neural network to generate artificial data to test hypotheses for the underlying physical processes
+
+
+#### [Infrared echo and late-stage rebrightening of nuclear transient PS1-10adi: exploring Torus by tidal disruption event in active galactic nuclei](https://arxiv.org/abs/1811.01295)
+    * We report the discovery of a long-lasting luminous mid-infrared (mid-IR) flare in PS1-10adi, which is a newly-identified highly energetic transient event occurred in AGN 可以用TDE解释
+    * The torus dust is sublimating during the early stage of the outburst and probably lead to the observed rapid emergence of Fe II lines.
+    * Moreover, the UV-optical rebrightening and contemporaneous X-ray onset after ∼1500 rest-frame days since the optical peak is also an intriguing feature 可能来自告诉外流和torus的相互作用
+
+
+#### [Nonaxisymmetric models of galaxy velocity maps](https://arxiv.org/abs/1811.01447)
+    * We show that if a galaxy is not axisymmetric, there is an intrinsic degeneracy between a rotational and a radial velocity field.  比如用Rotating disk模型或者Rotating tilted-ring模型得到的
+    * 提出了一种新模型：the radial ellipse model (REM), that is not axisymmetric and has a purely radial velocity field with an amplitude that is correlated with the major axis of the ellipse
+    * 运动学拟合中未必是residual最好的，但是 disentangle between circular and radial motions for the case of nonaxisymmetric systems. 
+
+#### [VLT/FLAMES high-resolution chemical abundances in Sculptor: a textbook dwarf spheroidal galaxy](https://arxiv.org/abs/1811.01486)
+    * 99颗红巨星的高分辨观测：This includes abundances of Li (detected in 1 out of 99 stars), Na, α-elements (O, Mg, Si, Ca Ti), iron-peak elements (Sc, Cr, Fe, Co, Ni, Zn), r- and s-process elements (Ba, La, Nd, Eu).
+    * There is a marked decrease in [α/Fe] over our sample, from the Galactic halo plateau value at low [Fe/H] and then, after a `knee', a decrease to sub-solar [α/Fe] at high [Fe/H]. 
+
+
+#### [The FMOS-COSMOS survey of star-forming galaxies at z∼1.6 VI: Redshift and emission-line catalog and basic properties of star-forming galaxies](https://arxiv.org/abs/1811.01529)
+    * H-band and J-band medium-resolution (R∼3000) spectra with FMOS
+    *  We use the larger sample to re-define the stellar mass--star formation rate relation based on the dust-corrected Hα luminosity, and find that the individual galaxies are better fit with a parametrization including a bending feature at M∗≈10^10.2 M
+
+
+#### [Chandra centres for COSMOS X-ray galaxy groups: Differences in stellar properties between central dominant and offset brightest group galaxies](https://arxiv.org/abs/1811.01604)
+    - **Interesting, Relevant**
+    * COSMOS场里 247个X-ray星系群和星系团，红移在 0.08-1.53之间 
+    * 看BGG和X-ray center的offset与group properties的联系
+    * Halo质量越大，红移越低，BGG的offset越小；群内星系和BGG的magnitude gap越大，offset越小
+    * At z<0.5, the central dominant BGGs become more massive than those with large offsets by up to 0.3dex, in agreement with model prediction. 
+
+
+#### [Effect of non-equilibrium ionization on derived physical conditions of the high-z intergalactic medium](https://arxiv.org/abs/1811.01016)
+    * We study the effect of non-equilibrium ionization evolution and UV ionizing background (UVB) generated with different quasar spectral energy distribution (SED) on the derived physical conditions of the intergalactic medium (IGM) at 2≤z≤6 using our post-processing tool
+    * 非平衡态电离模型下，HeII再电离更迅速：The redshift of HeII reionization strongly depends on the quasar SED and occurs earlier for UVB models with flatter quasar SEDs.
+
+
+#### [A joint ALMA-Bolocam-Planck SZ study of the pressure distribution in RX J1347.5-1145](https://arxiv.org/abs/1811.01034)
+    - **Interesting** 有助于理解SZ观测和拟合
+    * RX1347是正在并合中的高温，高光度星系团; 有两个相距100 kpc的BCG
+    * developed a parametric fitting procedure that uses native imaging and visibility data, and tested it using the rich data sets from ALMA, Bolocam, and Planck available for this object.
+    * SZ signal can be well-described by a single, smooth ellipsoidal generalised Navarro-Frank-White profile, centred between the two brightest cluster galaxies (BCGs) and with a core cuspiness between that derived from cool-core and morphologically disturbed samples of clusters.
+    * Furthermore, the majority of features seen in the X-ray can be explained as predominantly isobaric structures, alleviating the need for highly supersonic velocities, although over-pressurised regions associated with the moving subhalos are still present in our model.
+
+
+#### [Expected intermediate mass black holes in the Virgo cluster. I. Early-type galaxies](https://arxiv.org/abs/1811.01231)
+    * 对Virgo里面一定星等cut以上的星系进行X-ray巡天，看IMBH的重要性
+    * 用“super-quadratic”的黑洞质量和光度关系预测黑洞质量：Moreover, three of the galaxies predicted here to host an IMBH have a point-like Chandra source near their nucleus
