@@ -331,3 +331,52 @@
     * Image analysis of a 19.6 ks Chandra archival observation reveals a cluster-wide spiral of enhanced surface brightness in the intracluster medium (ICM). 
     * 类似的spiral常通过sloshing strong cool core产生
     * The cluster merger model of SCC destruction invokes low impact parameter infall as the condition required for core transformation.
+
+
+----
+
+## Dec 9:
+
+#### [Be it therefore resolved: Cosmological Simulations of Dwarf Galaxies with Extreme Resolution](https://arxiv.org/abs/1811.02749)
+    * 超高分辨率30太阳质量：sufficient (for the first time) to resolve the internal structure of individual supernovae remnants within the cooling radius
+    * 所有10^8.6 Msun以上的halo里面都有星系；
+    * UFD的恒星形成历史截断得很早，可能是因为再电离；10^5 Msun以上的经典矮星系可以一直形成恒星到z<0.5
+    * 恒星形成历史非常bursty，SF在空间和时间上的分布都很不均匀
+    * The stellar metallicities are lower than in LG dwarfs; this may reflect pre-enrichment of the LG by the massive hosts or Pop-III stars.
+
+#### [SDSS-IV MaNGA: local and global chemical abundance patterns in early-type galaxies](https://arxiv.org/abs/1811.02753)
+    - **Relevant**
+    * 366个星系10^10-10^11 Msun通过叠加看到1 Re处的金属丰度
+    * We find that C, Mg, and Ti trace each other both as a function of galaxy radius and galaxy mass
+    * Conversely, N and Ca are generally offset to lower abundances. The under-abundance of Ca compared to Mg implies delayed enrichment of Ca through Type Ia supernovae, whereas the correlated behaviour of Ti and the lighter α elements, C and Mg, suggest contributions to Ti from Type II supernovae.
+    * However, we measure strong negative radial gradients for [N/Fe] and [Na/Fe], of up to −0.25±0.05 and −0.29±0.02 dex/Re respectively. These gradients become shallower with decreasing galaxy mass
+
+
+#### [Void galaxies in the nearby Universe. I. Sample description](https://arxiv.org/abs/1811.02785)
+    * 近邻Void里面Dwarf星系样本：We present 25 voids over the entire sky within 25 Mpc from the Local Group.
+    * The nearest nine voids occupy a substantial part of the Local Volume. Of the total number of 6792 cataloged galaxies in the considered volume, 1354 objects fall into 25 nearby voids
+    * The `inner' galaxy sample includes 1088 objects, mostly dwarfs with MB distribution peaked near -15.0 and extending down to -7.5 mag
+
+
+#### [LinKS: Discovering galaxy-scale strong lenses in the Kilo-Degree Survey using Convolutional Neural Networks](https://arxiv.org/abs/1811.03168)
+    * We apply two Convolutional Neural Networks (ConvNets) to ∼88000 colour-magnitude selected luminous red galaxies yielding a list of 3500 strong-lens candidates
+    * 但是还是需要肉眼检查：he resulting LinKS sample is composed of 1983 rank-ordered targets classified as "potential lens candidates" by at least one inspector.
+
+
+#### [SDSS-IV MaStar -- A Large and Comprehensive Empirical Stellar Spectral Library: First Release](https://arxiv.org/abs/1811.02745)
+    - **Useful**
+    * MaNGA Stellar Library (MaStar), which is a large, well-calibrated, high-quality empirical library covering the wavelength range of 3,622-10,354A at a resolving power of R~1800
+    * the MaStar library will have a higher number of stars and a more comprehensive stellar-parameter coverage, especially of cool dwarfs, low-metallicity stars, and stars with different [alpha/Fe]
+    * This empirical library will provide a new basis for stellar population synthesis, and is particularly well-suited for stellar-population analysis of MaNGA galaxies.
+
+
+#### [Chandra Detection of the Circumnuclear Molecular Torus of the Compton Thick AGN in NGC 5643](https://arxiv.org/abs/1811.02764)
+    * We report a clumpy elongated feature found with deep Chandra ACIS high-resolution imaging of the Fe K{\alpha} line emission in the nuclear region of the Compton Thick Active Galactic Nucleus (CT AGN) galaxy NGC 5643
+    * The Fe K{\alpha} feature is spatially consistent with the N-S elongation found in the CO(2-1) high resolution imaging with ALMA (Alonso-Herrero et al 2018), but slightly more extended than the rotating molecular disk of r=26 pc indicated by the kinematics of the CO(2-1) line.
+
+
+#### [Evidence for Optically Thick, Eddington-limited Winds Driven by Supercritical Accretion](https://arxiv.org/abs/1811.02923)
+    * If most of the hard X-rays from the central disk are obscured by the wind, the source will display a blackbody-like spectrum with a luminosity scaled with the mass of the compact object. 
+    * From the Chandra archive of nearby galaxies, we selected a sample of luminous and very soft sources and excluded contaminations from foreground objects and supernova remnants. They are found to be preferentially associated with late-type galaxies.
+    * The most likely explanation is that they are due to emission from the photosphere of a wind driven by supercritical accretion onto compact objects. 来自中子星或者恒星级别的黑洞
+     
