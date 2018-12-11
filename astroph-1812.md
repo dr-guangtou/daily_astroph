@@ -380,3 +380,69 @@
     * From the Chandra archive of nearby galaxies, we selected a sample of luminous and very soft sources and excluded contaminations from foreground objects and supernova remnants. They are found to be preferentially associated with late-type galaxies.
     * The most likely explanation is that they are due to emission from the photosphere of a wind driven by supercritical accretion onto compact objects. 来自中子星或者恒星级别的黑洞
      
+
+----
+
+## Dec 9:
+
+
+
+#### [Semi-analytic modelling of the europium production by neutron star mergers in the halo of the Milky Way](https://arxiv.org/abs/1811.03218)
+    * Munich-Groningen semi-analytic galaxy formation model, applied to three high resolution Aquarius dark matter simulation 用EU元素trace银河系Halo里面r-过程元素的演化和中子星并合的关系
+    * We find that a standard distribution of NS kick velocities decreases [Eu/Mg] abundances of halo stars by ∼0.5~dex compared to models where NS do not receive a kick. With low NS kick velocities, our simulations match observed [Eu/Mg] abundances of halo stars reasonably well, for stars with metallicities [Mg/H]≥−1.5. 
+
+
+#### [The VLA-COSMOS 3 GHz Large Project: Average radio spectral energy distribution of highly star-forming galaxies](https://arxiv.org/abs/1811.03392)
+    * average radio spectral energy distribution (SED) of highly star-forming galaxies (HSFGs) up to z~4. 
+    * IR和射电光度比值q结合红外-射电相关，可以用来估计SFR；高红移的q值似乎变低，可能是因为对射电SED了解不够，不能简单用一个power law描述的缘故。但本文研究认为应该不是射电SED造成的
+    * VLA+GMRT:  By fitting a broken power-law, we find that the spectral index changes from α1=0.42±0.06 below a rest-frame frequency of 4.3 GHz to α2=0.94±0.06 above 4.3 GHz.
+    * SED of HSFGs to differ from the SED found for normal SFGs (SFR<10M0/yr). The difference is mainly in a steeper spectrum around 10 GHz, which could indicate a smaller fraction of thermal free-free emission
+
+
+#### [Towards the first detection of strongly lensed HI emission](https://arxiv.org/abs/1811.03524)
+    * z=0.4的强引力透镜星系的GMRT观测，看到了一个marginal detection的21cm HI发射
+    * if confirmed by follow-up observations, would represent the first strongly lensed and most distant individual galaxy detected in HI emission.
+    * The HI magnification generally differs from the optical magnification and depends largely on the intrinsic HI mass MHI due to the HI mass-size relation
+
+
+#### [Comparing galaxy morphology in hydrodynamical simulation and in semi-analytic model](https://arxiv.org/abs/1811.03645)
+    * Illustris和一个SAM预测的比较，晚型星系的形态分类基本一致，早型星系很多差异很大
+    * In the SAM, major merger and frequent minor mergers result in the growth of bulges and turn the galaxy into early type, while bulge formation is not connected to mergers as tightly as in SAM for the Illustris galaxies. 
+    * The satellite stellar mass can decrease significantly due to tidal stripping before merging into the central galaxy in Illustris, while it does not decrease in the SAM model.
+
+#### [The link between brightest cluster galaxy properties and large scale extensions of 38 DAFT/FADA and CLASH clusters in the redshift range 0.2<z<0.9](https://arxiv.org/abs/1811.03672)
+    * We analyse the morphological properties of 38 BCGs from the DAFT/FADA and CLASH surveys, and compare the position angles of their major axes to the direction of the cluster elongation at Mpc scale.
+    * The cluster elongations are estimated by computing density maps of red sequence galaxies.
+    * An agreement between the major axis of the BCG and the cluster elongation at large scale within +-30 deg is found for 12 clusters out of the 21 for which both PAs can be defined.
+
+
+#### [Ultra-bright CO and [CI] emission in a lensed z=2.04 submillimeter galaxy with extreme molecular gas properties](https://arxiv.org/abs/1811.03845)
+    * very bright detection of cold molecular gas with the IRAM NOEMA interferometer of the strongly lensed source WISE J132934.18+224327.3 at z=2.04, the so-called Cosmic Eyebrow.
+    * This source has a similar spectral energy distribution from optical-mid/IR to submm/radio but significantly higher fluxes than the well-known lensed SMG SMMJ 2135, the Cosmic Eyelash at z=2.3.
+
+    
+#### [Hubble Constant from LSST Strong lens time delays with microlensing systematics](https://arxiv.org/abs/1811.03405)
+    * Due to the inclination of the finite AGN accretion disc and the differential magnification of the coherent temperature fluctuations, the microlensing by the stars can lead to changes in the actual time delay on the light-crossing time scale of the emission region ∼days. 
+    * 看这个如何影响LSST时代的H0测量精度: The relative uncertainty of H0 will be enlarged to 0.47%, 0.51%, 0.76%, respectively from the one without microlensing impact 0.45%.
+    * Suggesting that 1 day is the cut-off for a robust H0 estimate.
+
+
+#### [H2/HD molecular data for analysis of quasar spectra in search of varying constants](https://arxiv.org/abs/1811.03628)
+    * Absorption lines of H2 and HD molecules observed at high redshift in the line of sight towards quasars are a test ground to search for variation of the proton-to-electron mass ratio μ.
+    * A new list of molecular data is compiled for future analyses of cold clouds of hydrogen absorbers, specifically for studies of μ-variation from quasar data. 
+
+
+#### [Towards emulating cosmic shear data: revisiting the calibration of the shear measurements for the Kilo-Degree Survey](https://arxiv.org/abs/1811.03628)
+    - **Relevant**
+    * We present a framework for calibrating shear with image simulations that demonstrates the importance of including realistic correlations between galaxy morphology, size and more importantly, photometric redshifts.
+    * We emulate Kilo-Degree Survey (KiDS) observations of the COSMOS field using morphological information from {\it Hubble} Space Telescope imaging, faithfully reproducing the measured galaxy properties from KiDS observations of the same field
+    * To improve the calibration for future cosmic shear analyses, it will be essential to also correctly account for the measurement of photometric redshifts, which requires simulating multi-band observations.
+
+
+#### [Marvin: A Toolkit for Streamlined Access and Visualization of the SDSS-IV MaNGA Data Set](https://arxiv.org/abs/1811.03833)
+    * Thus, accessing, querying, visually exploring, and performing statistical analyses across the whole data set at a fine-grained scale is extremely challenging using just FITS files. To overcome these challenges, we have developed \marvin: a toolkit consisting of a Python package, Application Programming Interface (API), and web application utilizing a remote database.
+
+
+#### [The optical variability of Supermassive Black Hole Binary Candidate PG1302-102: Periodicity and perturbation in the light curve](https://arxiv.org/abs/1811.03370)
+    * we model the PG 1302-102 light curve, spanning almost 20 years, with a supermassive black hole binary system in which a perturbation in the accretion disk of more massive component is present
+    * predicts that a slightly larger period than previously reported, of about 1899 days, could arise due to a cold spot in the disk of {\bf more massive} component of a close, unequal-mass (m1m2=0.1) black hole binary system.
