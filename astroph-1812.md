@@ -383,9 +383,7 @@
 
 ----
 
-## Dec 9:
-
-
+## Dec 10:
 
 #### [Semi-analytic modelling of the europium production by neutron star mergers in the halo of the Milky Way](https://arxiv.org/abs/1811.03218)
     * Munich-Groningen semi-analytic galaxy formation model, applied to three high resolution Aquarius dark matter simulation 用EU元素trace银河系Halo里面r-过程元素的演化和中子星并合的关系
@@ -409,6 +407,7 @@
     * Illustris和一个SAM预测的比较，晚型星系的形态分类基本一致，早型星系很多差异很大
     * In the SAM, major merger and frequent minor mergers result in the growth of bulges and turn the galaxy into early type, while bulge formation is not connected to mergers as tightly as in SAM for the Illustris galaxies. 
     * The satellite stellar mass can decrease significantly due to tidal stripping before merging into the central galaxy in Illustris, while it does not decrease in the SAM model.
+
 
 #### [The link between brightest cluster galaxy properties and large scale extensions of 38 DAFT/FADA and CLASH clusters in the redshift range 0.2<z<0.9](https://arxiv.org/abs/1811.03672)
     * We analyse the morphological properties of 38 BCGs from the DAFT/FADA and CLASH surveys, and compare the position angles of their major axes to the direction of the cluster elongation at Mpc scale.
@@ -446,3 +445,44 @@
 #### [The optical variability of Supermassive Black Hole Binary Candidate PG1302-102: Periodicity and perturbation in the light curve](https://arxiv.org/abs/1811.03370)
     * we model the PG 1302-102 light curve, spanning almost 20 years, with a supermassive black hole binary system in which a perturbation in the accretion disk of more massive component is present
     * predicts that a slightly larger period than previously reported, of about 1899 days, could arise due to a cold spot in the disk of {\bf more massive} component of a close, unequal-mass (m1m2=0.1) black hole binary system.
+
+----
+
+## Dec 11:
+
+#### [Cosmic Rays or Turbulence can Suppress Cooling Flows (Where Thermal Heating or Momentum Injection Fail)](https://arxiv.org/abs/1811.03997)
+
+
+#### [The Three Hundred Project: The evolution of galaxy cluster density profiles](https://arxiv.org/abs/1811.04009)
+
+
+#### [Multi-band Optical and Near-infrared Properties of Faint Submillimeter Galaxies with Serendipitous ALMA Detections](https://arxiv.org/abs/1811.04108)
+
+
+#### [On the Lack of Correlation Between [OIII]/[OII] and Lyman-Continuum Escape Fraction](https://arxiv.org/abs/1811.04129)
+
+
+#### [Insights on bar quenching from a multi-wavelength analysis: The case of Messier 95](https://arxiv.org/abs/1811.04178)
+
+
+#### [Lyman and Balmer breaks reveal mature z=8 galaxies with the code Pegase.3](https://arxiv.org/abs/1811.04283)
+
+
+#### [Kinetic energy transfer from X-ray ultrafast outflows to mm/sub-mm cold molecular outflows in Seyfert galaxies](https://arxiv.org/abs/1811.04316)
+
+
+#### [A 1D fluid model of the Centaurus A jet](https://arxiv.org/abs/1811.04587)
+
+
+#### [Anomalously low metallicity regions in MaNGA star-forming galaxies: Accretion Caught in Action?](https://arxiv.org/abs/1811.04614)
+
+
+#### [Dark Energy Survey Year 1 results: Detection of Intra-cluster Light at Redshift ∼ 0.25](https://arxiv.org/abs/1811.04004)
+
+
+#### [Focusing on the extended X-ray emission in 3C 459 with a Chandra follow-up observation](https://arxiv.org/abs/1811.04015)
+
+
+#### [Exploring the halo occupation of AGN using dark-matter cosmological simulations](https://arxiv.org/abs/1811.04025)
+
+
