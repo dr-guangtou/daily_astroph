@@ -486,3 +486,102 @@
 #### [Exploring the halo occupation of AGN using dark-matter cosmological simulations](https://arxiv.org/abs/1811.04025)
 
 
+
+----
+
+## Dec 13:
+
+#### [Persistence of the Color-Density Relation and Efficient Environmental Quenching to z∼1.4](https://arxiv.org/abs/1811.04624)
+    * ORELSE:5000个0.55≤z≤1.4的星系，quench fraction和质量，环境，红移有符合预期的关系
+    * High-density environments from 0.55≤z≤1.4 appear capable of efficiently quenching galaxies with log(M∗/M⊙)>10.45, though fail at quenching lower stellar mass galaxies at the highest redshifts.  
+    * 结论是对这个质量的星系，环境的quenching效率还是不够高：These quenching efficiencies and associated timescales are used to rule out certain environmental mechanisms as being the primarily responsible for transforming the star-formation properties of galaxies over this 4 Gyr window in cosmic time.
+
+#### [ETHOS - an effective theory of structure formation: formation of the first haloes and their stars](https://arxiv.org/abs/1811.04627)
+    * 【对这个不是很了解】A cutoff in the linear matter power spectrum at dwarf galaxy scales has been shown to affect the abundance, formation mechanism and age of dwarf haloes and their galaxies at high and low redshift.
+
+#### [Fast and energetic AGN-driven outflows in simulated dwarf galaxies](https://arxiv.org/abs/1811.04629)
+    * Dwarf中AGN对星系的影响：Using the moving mesh code AREPO, we have investigated different models of AGN activity, ranging from simple energy-driven spherical winds to collimated, mass-loaded, bipolar outflows in high resolution simulations of isolated dwarf galaxies hosting an active black hole.
+    * We find that AGN outflows have a small but systematic effect on the central star formation rates (SFRs) for all set-ups explored, while substantial effects on the global SFR are only obtained with strong SNe and a sustained high-luminosity AGN with an isotropic wind. 
+    * There is, however, a significant effect on outflow properties, which are notably enhanced by the AGN to much higher outflow temperatures and velocities 和最近MaNGA观测的一致
+
+#### [Conditional Quenching: A detailed look at the SFR-Density Relation at z ~ 0.9 from ORELSE](https://arxiv.org/abs/1811.04633)
+    * We find that SFR does depend on environment, but only for intermediate-stellar mass galaxies (10^10.1 < M* / Msol < 10^10.8) wherein the median SFR at the highest densities is 0.2-0.3 dex less than at lower densities at a significance of 4 sigma.
+    * 开发一个toy model来描述SFH： The key assumption in this model is that star-forming galaxies in a given environment-stellar mass bin can be described as a superposition of two exponential timescales (SFR ~ e^(-t/tau)): a long-tau timescale with tau = 4 Gyr to simulate "normal" star-forming galaxies, and a short-tau timescale with free tau (between 0.3 < tau/Gyr < 2) to simulate galaxies on a quenching trajectory.
+    * galaxies residing in low/high environmental densities are more heavily weighted to the long-tau/short-tau pathways respectively, which we argue is a signature of environmental quenching. 
+
+#### [Revealing the nonlinear behaviour of the lensed quasar Q0957+561](https://arxiv.org/abs/1811.04635)
+    * 【没听说过这种方法】 wavelet transform modulus maxima-based multifractality analysis approach 找背景QSO不同像之间光变曲线的non-linear behaviour
+    * We detect strong multifractal (nonlinear) signatures in the light curves of the quasar images
+    * the signals of the quasar images are a combination of both intrinsic and extrinsic signals.
+
+#### [The Extremely Luminous Quasar Survey in the Sloan Digital Sky Survey footprint. III. The South Galactic Cap Sample and the Quasar Luminosity Function at Cosmic Noon](https://arxiv.org/abs/1811.04639)
+    * ELQS: provide a highly complete census of unobscured UV-bright quasars during the cosmic noon, z=2.8−5.0 
+    * Our novel ELQS quasar selection strategy resulted in unprecedented completeness at the bright end and allowed us to discover 109 new quasars in total. 
+    * 对亮端的QLF帮助很大: We find a steep bright-end slope of β≈−4.1 and we can constrain the bright-end slope to β≤−3.4 with 99% confidence.
+
+#### [The Spitzer-HETDEX Exploratory Large Area Survey II: Dark Energy Camera and Spitzer/IRAC Multiwavelength Catalog](https://arxiv.org/abs/1811.04646)
+    * ugriz -band Dark Energy Camera (DECam) plus 3.6 and 4.5 μm IRAC catalogs for the Spitzer/HETDEX Exploratory Large-Area (SHELA) survey
+    * SHELA's deep, wide-area multiwavelength images combined with HETDEX's spectroscopic information, will facilitate many extragalactic studies, including measuring the evolution of galaxy stellar mass, halo mass, and environment from 1.5<z<3.5.
+    * Spitzer force photometry是用Tractor做的
+
+#### [Planck's Dusty GEMS. VII. Atomic carbon and molecular gas in dusty starburst galaxies at z=2 to 4](https://arxiv.org/abs/1811.04653)
+
+
+#### [Possible Evidence of the Radio AGN Quenching of Neighboring Galaxies at z ∼ 1](https://arxiv.org/abs/1811.04667)
+
+
+#### [The distinct stellar metallicity populations of simulated Local Group dwarfs](https://arxiv.org/abs/1811.04839)
+    * LG矮星系也常发现有两个星族：富金属的向中心聚集，贫金属的在外围
+    * 用高分辨模拟看：We find three distinct mechanisms for the formation of the two populations, one occurring preferentially in field dwarfs, one that is exclusive to satellite galaxies and one that may occur in both
+    * In field dwarfs and in a small fraction of satellites, a merger causes the metal-poor stars to migrate to larger radii and encourages the available gas to sink to the centre of the dwarf.
+    * In the exclusive case of satellites that have retained some of their gas at infall, it is the compression of this gas by ram pressure near pericentre that triggers the formation of metal-rich stars. 
+    * Additionally, in a small number of field and satellite dwarfs, interactions with gaseous cosmic filaments and other galaxies can result in the formation of a metal-rich population through gas compression induced by ram pressure. 
+
+
+#### [Two Orders of Magnitude Variation in the Star Formation Efficiency Across the Pre-Merger Galaxy NGC 2276](https://arxiv.org/abs/1811.05048)
+    * spatially resolved (~0.5 kpc) measurements of the molecular gas depletion time τdepl across the disk of the interacting spiral galaxy 用的是NOEMA观测
+    * We find a systematic decrease in τdepl of 1-1.5 dex across the disk of NGC 2276, with a further, abrupt drop in τdepl of ~1 dex along the galaxy's western edge.
+    * 这么小尺度上，分子气体消耗时标如此大的变化很少见；不过如果认为X_CO factor随金属丰度变化，tau变化程度也会下降
+    * We attribute the variation in τdepl to the influence of galactic-scale tidal forces and ram pressure on NGC 2276's molecular interstellar medium (ISM).
+
+
+#### [Bayesian emulator optimisation for cosmology: application to the Lyman-alpha forest](https://arxiv.org/abs/1811.04631)
+    * 用Lya森林做宇宙学：Evaluating the likelihood requires a robust and accurate mapping between the parameters and observables, in this case the 1D flux power spectrum
+    * To address this, we introduce an emulation procedure that employs Bayesian optimisation of the training set for a Gaussian process interpolation scheme.
+    * 适合用来进一步了解emulator里面的技术细节
+
+#### [An Emulator for the Lyman-alpha Forest](https://arxiv.org/abs/1811.04654)
+    * We present methods for interpolating between the 1-D flux power spectrum of the Lyman-α forest, as output by cosmological hydrodynamic simulations.
+    * We compare to the previous state of the art, quadratic polynomial interpolation. The Latin hypercube samples the entire volume of parameter space, while quadratic polynomial emulation samples only lower-dimensional subspaces. The Gaussian process provides an estimate of the emulation error and we show using test simulations that this estimate is reasonable.
+    * 和上面的文章是一起的
+
+#### [A new, clean catalogue of extragalactic non-nuclear X-ray sources in nearby galaxies](https://arxiv.org/abs/1811.04684)
+    * Our catalogue contains 1,314 sources, of which 384 are candidate ultraluminous X-ray sources (ULXs). 
+
+----
+
+## Dec 14:
+
+#### [Exploring the origins of a new, apparently metal-free gas cloud at z = 4.4](https://arxiv.org/abs/1811.05098)
+
+
+#### [Peak star formation efficiency and no missing baryons in massive spirals](https://arxiv.org/abs/1811.05099)
+
+
+#### [What shapes the Absorption Measure Distribution in AGN outflows](https://arxiv.org/abs/1811.05154)
+
+
+#### [On the slow quenching of M* galaxies: feeding the heart on the way to taming the beast](https://arxiv.org/abs/1811.05216)
+
+
+#### [Compton-thick AGN in the NuSTAR era IV: A deep NuSTAR and XMM-Newton view of the candidate Compton thick AGN in ESO 116-G018](https://arxiv.org/abs/1811.05229)
+
+
+#### [Using Hα Filaments to Probe AGN Feedback in Galaxy Clusters](https://arxiv.org/abs/1811.05247)
+
+
+#### [ALMA Observations of the Molecular Gas in the Elliptical Galaxy NGC3557](https://arxiv.org/abs/1811.05385)
+
+
+#### [Dark Energy Survey Year 1 results: Validation of weak lensing cluster member contamination estimates from P(z) decomposition](https://arxiv.org/abs/1811.05116)
+
