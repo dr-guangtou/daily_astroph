@@ -556,7 +556,7 @@
     * 和上面的文章是一起的
 
 #### [A new, clean catalogue of extragalactic non-nuclear X-ray sources in nearby galaxies](https://arxiv.org/abs/1811.04684)
-    * Our catalogue contains 1,314 sources, of which 384 are candidate ultraluminous X-ray sources (ULXs). 
+    * Our catalogue contains 1,314 sources, of which 384 are candidate ultraluminous X-ray sources (ULXs).
 
 ----
 
@@ -585,3 +585,57 @@
 
 #### [Dark Energy Survey Year 1 results: Validation of weak lensing cluster member contamination estimates from P(z) decomposition](https://arxiv.org/abs/1811.05116)
 
+
+----
+
+## Dec 16:
+
+#### [Diversity of Galaxy Dust Attenuation Curves Drives the Scatter in the IRX-beta Relation](https://arxiv.org/abs/1811.05606)
+
+
+#### [An Older, More Quiescent Universe from Panchromatic SED Fitting of the 3D-HST Survey](https://arxiv.org/abs/1811.05608)
+
+
+#### [The IllustrisTNG Simulations: Public Data Release](https://arxiv.org/abs/1811.05609)
+
+
+#### [Galaxy cluster mergers as triggers for the formation of jellyfish galaxies: case study of the A901/2 system](https://arxiv.org/abs/1811.05611)
+
+
+#### [A conclusive test for star formation prescriptions in cosmological hydrodynamical simulations](https://arxiv.org/abs/1811.05613)
+
+
+#### [OMEGA -- OSIRIS Mapping of Emission-line Galaxies in A901/2 -- V. The rich population of jellyfish galaxies in the multi-cluster system Abell 901/2](https://arxiv.org/abs/1811.05629)
+
+
+#### [The star formation histories of dwarf galaxies in Local Group cosmological simulations](https://arxiv.org/abs/1811.05669)
+
+
+#### [Constraining Scatter in the Stellar Mass--Halo Mass Relation for Haloes Less Massive than the Milky Way](https://arxiv.org/abs/1811.05733)
+
+
+#### [Internal Structures of Molecular Clouds in the LMC Revealed by ALMA](https://arxiv.org/abs/1811.06001)
+
+
+#### [On the Connection Between Spiral Arm Pitch Angle and Galaxy Properties](https://arxiv.org/abs/1811.06001)
+
+
+#### [Halo concentrations from extended Press-Schechter merger histories](https://arxiv.org/abs/1811.06026)
+
+
+#### [A Halo Occupation Interpretation Of Quasars At z∼1.5 Using Very Small Scale Clustering Information](https://arxiv.org/abs/1811.05760)
+
+
+#### [Numerical convergence of simulations of galaxy formation: the abundance and internal structure of cold dark matter haloes](https://arxiv.org/abs/1811.05777)
+
+
+#### [Core Cosmology Library: Precision Cosmological Predictions for LSST](https://arxiv.org/abs/1811.05995)
+
+
+#### [KiDS+VIKING-450: Cosmic shear tomography with optical+infrared dataT](https://arxiv.org/abs/1811.06076)
+
+
+#### [KiDS+VIKING-450: A new combined optical & near-IR dataset for cosmology and astrophysics](https://arxiv.org/abs/1811.06077)
+
+
+#### [Relativistic Jets in Active Galactic Nuclei](https://arxiv.org/abs/1811.06025)
