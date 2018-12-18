@@ -638,4 +638,35 @@
 #### [KiDS+VIKING-450: A new combined optical & near-IR dataset for cosmology and astrophysics](https://arxiv.org/abs/1811.06077)
 
 
-#### [Relativistic Jets in Active Galactic Nuclei](https://arxiv.org/abs/1811.06025)
+----
+
+## Dec 17:
+
+#### [Revisiting the hardening of the stellar ionizing radiation in galaxy disks](https://arxiv.org/abs/1811.06092)
+
+
+#### [The ISM Properties and Gas Kinematics of a Redshift 3 Massive Dusty Star-forming Galaxy](https://arxiv.org/abs/1811.06095)
+
+
+#### [The Spatial Relation between Young Star Clusters and Molecular Clouds in M 51 with LEGUS](https://arxiv.org/abs/1811.06109)
+
+
+#### [[CII] 158 Micron Emission from z~4 HI Absorption-Selected Galaxies](https://arxiv.org/abs/1811.06113)
+
+
+#### [Signature of the first galaxies in JWST deep field observations](https://arxiv.org/abs/1811.06116)
+
+
+#### [The Limitations of Optical Spectroscopic Diagnostics in Identifying AGNs in the Low Mass Regime](https://arxiv.org/abs/1811.06170)
+
+
+#### [Multifrequency filter search for high redshift sources and lensing systems in Herschel-ATLAS](https://arxiv.org/abs/1811.06657)
+
+
+#### [Disentangling the physical parameters of gaseous nebulae and galaxies](https://arxiv.org/abs/1811.06939)
+
+
+#### [Mass Calibration of the CODEX Cluster Sample using SPIDERS Spectroscopy - I. The Richness-Mass Relation](https://arxiv.org/abs/1811.06094)
+
+
+#### [Imaging the Thermal and Kinematic Sunyaev-Zel'dovich Effect Signals in a Sample of Ten Massive Galaxy Clusters: Constraints on Internal Velocity Structures and Bulk Velocities](https://arxiv.org/abs/1811.06926)
