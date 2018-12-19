@@ -670,3 +670,37 @@
 
 
 #### [Imaging the Thermal and Kinematic Sunyaev-Zel'dovich Effect Signals in a Sample of Ten Massive Galaxy Clusters: Constraints on Internal Velocity Structures and Bulk Velocities](https://arxiv.org/abs/1811.06926)
+
+
+----
+
+## Dec 18:
+
+#### [Massive Dead Galaxies at z~2 with HST Grism Spectroscopy I. Star Formation and Metallicity Enrichment Histories](https://arxiv.org/abs/1811.06980)
+
+
+#### [Resolved galaxy scaling relations in the EAGLE simulation: star formation, metallicity and stellar mass on kpc scales](https://arxiv.org/abs/1811.06984)
+
+
+#### [Medium-resolution Optical and Near-Infrared Spectral Atlas of 16 2MASS-selected NIR-red Active Galactic Nuclei at z∼0.3](https://arxiv.org/abs/1811.06991)
+
+
+#### [The main sequence of star forming galaxies I. The local relation and its bending](https://arxiv.org/abs/1811.07057)
+
+
+#### [A Machine Learning Based Morphological Classification of 14,251 Radio AGNs Selected From The Best-Heckman Sample](https://arxiv.org/abs/1811.07190)
+
+
+#### [The ultra-diffuse galaxy NGC 1052-DF2 with MUSE: I. Kinematics of the stellar body](https://arxiv.org/abs/1811.07345)
+
+
+#### [The ultra-diffuse galaxy NGC 1052-DF2 with MUSE: II. The population of DF2: stars, clusters and planetary nebulae](https://arxiv.org/abs/1811.07346)
+
+
+#### [Deep Hyper Suprime-Cam Images and a Forced Photometry Catalog in W-CDF-S](https://arxiv.org/abs/1811.07565)
+
+
+#### [Observable tests of self-interacting dark matter in galaxy clusters: BCG wobbles in a constant density core](https://arxiv.org/abs/1811.06981)
+
+
+#### [Halo Concentration, Galaxy Red Fraction, and Gas Properties of Optically-defined Merging Clusters](https://arxiv.org/abs/1811.07481)
