@@ -529,7 +529,7 @@ variability to constrain quasar-wind properties
 
 #### [The Non-Uniformity of Galaxy Cluster Metallicity Profiles](https://arxiv.org/abs/1811.05987)
     - **Interesting**
-    * On average, we find a mild dependence of the core metallicity with the average temperature 
+    * On average, we find a mild dependence of the core metallicity with the average temperature
     * We identify the cause of this mild dependence to be due to relaxed systems only; disturbed systems do not show this trend
     * The radial profiles of relaxed systems are centrally peaked and show a steep decrease with radius, flattening beyond 0.3-0.4R500. The metallicity of disturbed systems is also higher in the center but at much lower values than what is observed for relaxed objects.
     * The scatter of the radial profiles is quite large, but while for relaxed systems it decreases almost monotonically as function of the radius, for disturbed systems it shows a significant boost at large radii.
@@ -546,7 +546,7 @@ variability to constrain quasar-wind properties
 
 #### [Cosmological constraints from galaxy-lensing cross correlations using BOSS galaxies with SDSS and CMB lensing](https://arxiv.org/abs/1811.06499)
     - **Relevant; 很好的Joint-modeling教材**
-    * We show that our modeling method is robust to the impact of different choices for how galaxies occupy dark matter halos and to the impact of baryonic physics  
+    * We show that our modeling method is robust to the impact of different choices for how galaxies occupy dark matter halos and to the impact of baryonic physics
     * We estimate the systematic uncertainty in the galaxy-galaxy lensing measurements to be ∼ 6% (dominated by photometric redshift uncertainties) and in the galaxy-CMB lensing measurements to be ∼ 3%, from small scale modeling uncer- tainties including baryonic physics.
 
 
@@ -676,9 +676,9 @@ variability to constrain quasar-wind properties
 
 
 #### [Dark Energy Survey Year 1 Results: Constraints on Intrinsic Alignments and their Colour Dependence from Galaxy Clustering and Weak Lensing](https://arxiv.org/abs/1811.06989)
-    - **Relevant** 
+    - **Relevant**
     * In a fiducial Nonlinear Alignment Model (NLA) analysis, assuming a flat ΛCDM cosmology, we find a significant difference in intrinsic alignment amplitude, with early-type galaxies favouring A = 2.38+0.32−0.31 and late-type galaxies IA consistent with no intrinsic alignments
-    * We find weak evidence of a diminishing alignment amplitude at higher redshifts in the early-type sample. 
+    * We find weak evidence of a diminishing alignment amplitude at higher redshifts in the early-type sample.
 
 
 #### [A deep X-ray view of the bare AGN Ark 120. VI. Geometry of the hot corona from spectroscopic and polarization signatures](https://arxiv.org/abs/1811.07678)
@@ -755,7 +755,7 @@ variability to constrain quasar-wind properties
 
 #### [The LOFAR Two-metre Sky Survey (LoTSS) III. First Data Release: optical/IR identifications and value-added catalogue](https://arxiv.org/abs/1811.07927)
     * We present the source associations and optical and/or IR identifications for sources in the first data release, which are made using a combination of statistical techniques and visual association and identification
-    * The final LoTSS-DR1-IDs value-added catalogue presented contains 318,520 radio sources, of which 231,716 (73%) have optical and/or IR identifications in Pan-STARRS and WISE. 
+    * The final LoTSS-DR1-IDs value-added catalogue presented contains 318,520 radio sources, of which 231,716 (73%) have optical and/or IR identifications in Pan-STARRS and WISE.
 
 
 #### [The LOFAR Two-metre Sky Survey IV. First Data Release: Photometric redshifts and rest-frame magnitudes](https://arxiv.org/abs/1811.07927)
@@ -825,7 +825,7 @@ variability to constrain quasar-wind properties
 
 #### [The intergalactic magnetic field probed by a giant radio galaxy](https://arxiv.org/abs/1811.7934)
     * we present the Faraday rotation measure (RM) and depolarisation properties of the giant radio galaxy J1235+5317, at a redshift of z=0.34 and 3.38 Mpc in size.
-    * From a catalogue of LSS filaments based on optical spectroscopic observations in the local universe, we find an excess of filaments intersecting the line of sight to only one of the lobes. 
+    * From a catalogue of LSS filaments based on optical spectroscopic observations in the local universe, we find an excess of filaments intersecting the line of sight to only one of the lobes.
     * Associating the entire RM difference to these LSS filaments leads to a gas density-weighted IGMF strength of ~0.3 {\mu}G. However, direct comparison with cosmological simulations of the RM contribution from LSS filaments gives a low probability (~5%) for an RM contribution as large as 2.5 rad/m2 可能有银河系的贡献
 
 
@@ -885,8 +885,8 @@ variability to constrain quasar-wind properties
 #### [The number of dwarf satellites of disk galaxies versus their bulge mass in the standard model of cosmology](https://arxiv.org/abs/1811.08898)
     - **Interesting**
     * There is a correlation between bulge mass of the three main galaxies of the Local Group (LG)
-    * These correlations do not appear to be expected in standard hierarchical galaxy formation. 本文用DM-only模拟研究 
-    * For this sample, we find an average trend (though with very large scatter) similar to the one observed in the LG; disk galaxies in heavier halos on average host heavier bulges and larger number of satellites. 
+    * These correlations do not appear to be expected in standard hierarchical galaxy formation. 本文用DM-only模拟研究
+    * For this sample, we find an average trend (though with very large scatter) similar to the one observed in the LG; disk galaxies in heavier halos on average host heavier bulges and larger number of satellites.
     * we study sub-samples of disk galaxies with very similar stellar or halo masses (but spanning a range of 2-3 orders of magnitude in bulge mass) and find no obvious trend in the number of satellites vs. bulge mass.
 
 
@@ -895,7 +895,7 @@ variability to constrain quasar-wind properties
 
 
 #### [On the small scale clustering of quasars: constraints from the MassiveBlack II simulation](https://arxiv.org/abs/1811.08916)
-    * At these high luminosities (g < 20.85 quasars), the MBII simulation volume (100 cMpc/h comoving boxsize) has only 3 quasar pairs at distances of 1 − 4 Mpc.  
+    * At these high luminosities (g < 20.85 quasars), the MBII simulation volume (100 cMpc/h comoving boxsize) has only 3 quasar pairs at distances of 1 − 4 Mpc.
     * By modeling the central and satellite AGN CLFs as log-normal and Schechter distributions respectively (as seen in MBII AGNs), we arrive at CLF models which fit the simulation predictions and observed measurements of the luminosity function and the small-scale clustering measured for the SDSS samaple.
     * The small-scale clustering of our mock quasars is well-explained by central-satellite quasar pairs
 
@@ -914,7 +914,7 @@ variability to constrain quasar-wind properties
     - **Relevant**
     * We explore the population and origins of dark matter deficit galaxies (DMDGs) in two state-of-the-art hydrodynamical sim- ulations, the EAGLE and Illustris projects.
     * 对小质量卫星星系：we find that about 5.0% of them in the EAGLE, and 3.2% in the Illustris are DMDGs with dark matter fractions below 50% inside two times half-stellar-mass radii
-    * 这些星系还是受到潮汐扰动的影响的，mass loss of the dark matter is much more rapid than stars in DMDGs during tidal interactions. 
+    * 这些星系还是受到潮汐扰动的影响的，mass loss of the dark matter is much more rapid than stars in DMDGs during tidal interactions.
     * 但没有专门讨论模拟resolution的影响; 而且，如果最终恒星部分还是会被扰动到，应该能找到类似的观测证据，但是至少在Coma里并没有
 
 
@@ -930,7 +930,7 @@ variability to constrain quasar-wind properties
 
 
 #### [The echo of the bar buckling: phase-space spirals in Gaia DR2](https://arxiv.org/abs/1811.09205)
-    * We use a self-consistent N-body simulation of an isolated Milky Way-type galaxy to show that the phase-space spirals develop naturally from vertical oscillations driven by the buckling of the stellar bar. 
+    * We use a self-consistent N-body simulation of an isolated Milky Way-type galaxy to show that the phase-space spirals develop naturally from vertical oscillations driven by the buckling of the stellar bar.
     * We claim that the physical mechanism standing behind the observed incomplete phase-space mixing process can be internal and not necessarily due to the perturbation induced by a massive satellite.
     * Once bending waves appear, they are supported for a long time via disk self-gravity. The underlying physical mechanism implies the link between in-plane and vertical motion that leads directly to phase-space structures whose amplitude and shape are in remarkable agreement with those of the phase-space spirals observed in the Milky Way disk
 
@@ -959,7 +959,7 @@ variability to constrain quasar-wind properties
     * Integral field spectroscopic observations of 1213 galaxies from the SAMI Galaxy Survey show that 11% of galaxies with fitted gas and stellar rotation are misaligned by more than 30◦ in both field/group and cluster
     * The misalignment fraction is 45 ± 6% in early-type galaxies, but only 5 ± 1% in late-type galaxies.
     * Slower dynamical settling time of the gas in elliptical stellar mass distributions accounts for a small increase in misalignment in early-type galaxies. 但不足以解释全部的形态差异
-    * LTGs have primarily accreted gas close to aligned rather than settled from misaligned based on analysis of the skewed distribution of PA offsets compared to a dynamical settling model. LTG吸积的气体一般就是aligned。。。但是为什么气体一定是吸积来的? 
+    * LTGs have primarily accreted gas close to aligned rather than settled from misaligned based on analysis of the skewed distribution of PA offsets compared to a dynamical settling model. LTG吸积的气体一般就是aligned。。。但是为什么气体一定是吸积来的?
     * Cluster environments are found to have gas misalignment driven primarily by cluster processes not by gas accretion.
 
 
@@ -969,14 +969,14 @@ variability to constrain quasar-wind properties
 
 
 #### [The Foundation Supernova Survey: Measuring Cosmological Parameters with Supernovae from a Single Telescope](https://arxiv.org/abs/1811.09286)
-    * Here, we combine the Foundation sample with SNe from the Pan-STARRS Medium Deep Survey and measure cosmological parameters with 1,338 SNe from a single telescope and a single, well-calibrated photometric system. 
+    * Here, we combine the Foundation sample with SNe from the Pan-STARRS Medium Deep Survey and measure cosmological parameters with 1,338 SNe from a single telescope and a single, well-calibrated photometric system.
     * For the first time, both the low-z and high-z data are predominantly discovered by surveys that do not target pre-selected galaxies, reducing selection bias uncertainties
     * By combining the SN Ia data with cosmic microwave background constraints, we find w=−0.938±0.053, consistent with ΛCDM. With 463 spectroscopically classified SNe Ia alone, we measure w=−0.933±0.061.
 
 
 #### [Deviations from tidal torque theory: environment dependences on halo angular momentum growth](https://arxiv.org/abs/1811.09487)
     * The tidal torque theory (TTT) naturally relates the origin and evolution of angular momentum with the environment in which dark matter (DM) haloes form. However, the non-linear evolution of haloes introduces deviations that are commonly thought as noise in the theory.
-    * We find that the classification of DM haloes according to their angular momentum growth results in samples with different internal alignment and spin parameter distributions 
+    * We find that the classification of DM haloes according to their angular momentum growth results in samples with different internal alignment and spin parameter distributions
     * low mass haloes are embedded in denser environments if they have acquired angular momentum below the TTT expectations, whereas the opposite occurs at high masses, where higher angular momentum growths are typically associated with more clustering
 
 
@@ -1096,8 +1096,8 @@ variability to constrain quasar-wind properties
     * Time delays between the multiple images of an FRB break degeneracies in model-based and model-independent lens reconstructions as other time-varying sources do, yet without a microlensing bias as FRBs are more point-like and have shorter duration times.
 
 #### [ETHOS - an Effective Theory of Structure Formation: detecting dark matter interactions through the Lyman-α forest](https://arxiv.org/abs/1811.10630)
-    * we use the ETHOS framework (Cyr-Racine et al. 2016; Vogelsberger et al. 2016) to compare statistics of the Lyman-α forest in cold dark matter (CDM) with an alternative model in which the DM couples strongly with a relativistic species in the early universe. 
-    * These models are characterised by a cutoff in the linear power spectrum, followed by a series of 'dark acoustic oscillations' (DAOs) on sub-dwarf scales. 
+    * we use the ETHOS framework (Cyr-Racine et al. 2016; Vogelsberger et al. 2016) to compare statistics of the Lyman-α forest in cold dark matter (CDM) with an alternative model in which the DM couples strongly with a relativistic species in the early universe.
+    * These models are characterised by a cutoff in the linear power spectrum, followed by a series of 'dark acoustic oscillations' (DAOs) on sub-dwarf scales.
 
 #### [Statistics of Two-point Correlation and Network Topology for Lyman Alpha Emitters at z≈2.67](https://arxiv.org/abs/1811.10631)
 
@@ -1125,24 +1125,44 @@ variability to constrain quasar-wind properties
 
 
 #### [WISE view of Narrow-Line Seyfert 1 galaxies: mid-infrared color and variability](https://arxiv.org/abs/1811.11372)
+    * The color and flux variability analysis at 3.4 μm (W1-band) and 4.6 μm (W 2-band) of 492 narrow-line Seyfert 1 (NLSy1) using WISE
+    * The average amplitude of variability is 0.11±0.07 mag in long-term (multi-year) with no difference in variability between W 1 and W 2-bands. 
+    * W1-W2颜色和 [OIII]/Hbeta比值反相关，和连续谱光度，黑洞质量，Eddington比值有强相关
 
 
 #### [Angular momentum regulates HI gas content and HI central hole size in the discs of spirals](https://arxiv.org/abs/1811.11386)
+    * 希望解释，为什么在低密度环境下也有盘星系相对缺乏HI气体
+    * Obreschkow et al. introduced a parameter-free model for the neutral atomic gas fraction (fatm), in a symmetric equilibrium disc as a function of the global atomic stability parameter (q), which depends on specific angular momentum.
+    * 通过测量HI气体比例和原子气体稳定参数，这些星系缺乏HI可能和他们较低的specific角动量有关 
+    * HI气体的稳定程度还和HI中心的洞的大小有关
 
 
 #### [The Bending Feature of the Fermi Bubbles: a presumed horizontal galactic wind and its implication on the Bubbles' Age](https://arxiv.org/abs/1811.11472)
     * This inspires us to consider the possibility that the bending may be caused by a presumed global horizontal galactic wind (HGW) blowing from the east to the west.
 
 #### [Timescales for Hi consumption and SFR depletion of satellite galaxies in groups](https://arxiv.org/abs/1811.11613)
+    * MUFASA模拟：We track galaxies as they become satellites, and compute the delay time τd during which the satellites are similar to central galaxies at a given stellar mass, and a fading time τf during which satellites go from gas-rich and star-forming to gas-poor and quiescent.
+    * For a given halo mass, lower stellar mass galaxies at infall time have higher τd. We generally find τf ≪ τd 在群环境里面，模拟给出的是 delayed-then-rapid satellite quenching模式
+    * For a given amount of Hi, galaxies have shorter consumption times in more massive halo structures 
 
 
 #### [Identification of Low Surface Brightness Tidal Features in Galaxies Using Convolutional Neural Networks](https://arxiv.org/abs/1811.11616)
+    - **Interesting, Useful**
+    * This paper uses convolutional neural networks (CNNs) with dropout and augmentation to identify galaxies in the CFHTLS-Wide Survey that have faint tidal features. 
+    * 256x256 pixels; Keras + Tensorflow
+    * The CNN algorithm consists of two nested loops: an inner training loop and an outer epoch loop
 
 
 #### [The SAMI Galaxy Survey: Observing the environmental quenching of star formation in GAMA groups](https://arxiv.org/abs/1811.11676)
+    * we find signatures of environmental quenching in high-mass groups
+    * median的sSFR比低质量group和非group里面的星系要低
+    * These galaxies also lie below the star- formation main sequence, suggesting they may be undergoing outside-in quenching.
 
 
 #### [Deciphering the large-scale environment of radio galaxies in the local Universe: where do they born, grow and die?](https://arxiv.org/abs/1811.11179)
+    * Here we present a detailed, statistical, analysis of the large-scale environment for two samples of RGs up to redshifts zsrc=0.15
+    * Despite their radio morphological (FR I vs FR II) and/or their optical (HERG vs LERG) classification, RGs in the local Universe tend to live in galaxy-rich large-scale environments having similar characteristics and richness.
+    * We also found that 5 out of 7 FR II-HERGs, with zsrc ≤0.11, lie in groups/clusters of galaxies.
 
 
 ----
@@ -1153,32 +1173,53 @@ variability to constrain quasar-wind properties
 
 
 #### [Crossing the Line: Active Galactic Nuclei in the Star-forming region of the BPT Diagram](https://arxiv.org/abs/1811.11755)
+    * X-ray AGN里有2%被BPT图分类成了SF星系；但是X-ray选择的AGN本身不一定完备
 
 
 #### [Abundant Serendipitous Emission Line Sources with JWST/NIRSpec](https://arxiv.org/abs/1811.11757)
+    * At exposure times of ≈ 20 hours in the low-resolution prism mode, the model predicts that, on average, every open 1×3 ‘microslit’ will contain an un-targeted galaxy with a detectable [O iii] and/or H α emission line
+    * The predicted number counts for such galaxies match z ∼ 2 observations of [O iii] emitters from slitless grism spec- troscopic surveys, as well as theoretical predictions based on sophisticated modeling of galaxy spectral energy distributions.
 
 
 #### [The ALMA Fornax Cluster Survey I: stirring and stripping of the molecular gas in cluster galaxies](https://arxiv.org/abs/1811.11759)
+    - **Interesting, Relevant**
+    * a complete ALMA survey of all members of the Fornax galaxy cluster that were detected in HI or in the far infrared with Herschel.
+    * Derived gas fractions in almost all galaxies are lower than expected for field objects with the same mass, especially for the galaxies with disturbed molecular gas, with differences of sometimes more than an order of magnitude.
 
 
 #### [The extraordinary linear polarisation structure of the southern Centaurus A lobe revealed by ASKAP](https://arxiv.org/abs/1811.11760)
+    * We present observations of linear polarisation in the southern radio lobe of Centaurus A
+    * The resulting maps of polarisation and Faraday rotation are amongst the most detailed ever made for radio lobes, with of order 10^5 resolution elements covering the source.
+    * We describe several as-yet unreported observational features of the lobe, including its detailed peak Faraday depth structure, and intricate networks of depolarised filaments.
 
 
 #### [The MOSDEF Survey: Significant Evolution in the Rest-Frame Optical Emission Line Equivalent Widths of Star-Forming Galaxies at z=1.4-3.8](https://arxiv.org/abs/1811.11767)
+    - **Important**
+    * We examine how the equivalent widths of [O II]λλ3727, 3730, Hβ, [O III]λλ4960, 5008, [O III] + Hβ, Hα, and Hα + [N II]λλ6550, 6585, depend on stellar mass, UV slope, age, star-formation rate (SFR) and specific SFR (sSFR), ionization parameter and excitation conditions (O32 and [O III]/Hβ), gas- phase metallicity, and ionizing photon production efficiency (ξion).
+    * The trend of increasing W with decreasing stellar mass is strongest for [O III] (and [O III]+Hβ).
+    * Our results show that high equivalent width galaxies, specifically those with high W ([O III]), have low stellar masses, blue UV slopes, young ages, high sSFRs, ISM line ratios indicative of high ionization parameters, high ξion, and low metallicities.
 
 
 #### [The OSIRIS Lens-Amplified Survey (OLAS) I: Dynamical Effects of Stellar Feedback in Low Mass Galaxies at z ~ 2](https://arxiv.org/abs/1811.11768)
+    * OLAS is designed to probe the stellar mass (M∗) and specific star formation rate (sSFR) range where simulations suggest that stellar feedback is most effective at driving gaseous outflows
+    * Our observations reveal a correlation between sSFR and σ at fixed M∗ that is similar to the trend predicted by simulations: feedback from star formation drives star-forming gas and newly formed stars into more dispersion dominated orbits.
 
 
 #### [A SOFIA Survey of [CII] in the galaxy M51 I. [CII] as a tracer of Star Formation](https://arxiv.org/abs/1811.11769)
+    * We find that [C ii] and the SFR surface density are well correlated in the central, spiral arm, and inter-arm regions. The correlation is in good agreement with that found for a larger sample of nearby galaxies at kpc scales.
+    * The companion galaxy M51b, however, shows a deficit of [C ii] emission compared with the TIR emission and SFR surface density
+    * We interpret the faint [C ii] emission in M51b to be a result of suppressed star formation in this galaxy, while the bright mid– and far–infrared emission
 
 
 #### [The host galaxies of FeLoBAL quasars at z∼0.9 are not dominated by recent major mergers](https://arxiv.org/abs/1811.11773)
+    * 看有显著高速外流和消光的FeLoBAL类星体的host形态，如果FeLoBAL是早期的高光度QSO，应该并和率更高
+    * We compare the host galaxy morphologies and merger signatures of FeLoBALs to luminous blue non-BAL quasars from Villforth et al. (2017) of comparable luminosity, which show no excess of merger features compared to inactive control samples.
+    * While FeLoBAL hosts show weak enhancements over a control of blue quasars, their host galaxies are not dominated by recent major mergers.
 
 
 #### [The large and small scale properties of the intergalactic gas in the Slug Ly-alpha nebula revealed by MUSE HeII emission observations](https://arxiv.org/abs/1811.11783)
     * Report the results of a deep MUSE integral-field spectroscopic search for non-resonant, extended He iiλ1640 and metal emission. Extended He ii radiation is detected on scales of about 100 kpc, but only in some regions associated with the bright Lyα emission and a continuum-detected source
-    * He ii/Lyα gradient is due to large variations in the physical distances between the associated quasar and these regions. This implies that the overall length of the emitting structure could extend to physical Mpc scales and be mostly oriented along our line of sight. 
+    * He ii/Lyα gradient is due to large variations in the physical distances between the associated quasar and these regions. This implies that the overall length of the emitting structure could extend to physical Mpc scales and be mostly oriented along our line of sight.
     * These results strengthen the possibility that the density distribution of intergalactic gas at high-redshift is extremely clumpy and multiphase on scales below our current observational spatial resolution of a few physical kpc.
 
 
@@ -1192,14 +1233,14 @@ variability to constrain quasar-wind properties
     - **Important, Interesting**
     - **非常适合为HSC探测GC做测试**
     * Data from three different HST observing programs are combined in order to obtain a full surface density map of globular clusters in the core of Coma.
-    * A total of 22,426 Globular cluster candidates were selected through a detailed morphological inspection and the analysis of their magnitude and colors in two wavebands, F475W (Sloan g) and F814W (I). 
+    * A total of 22,426 Globular cluster candidates were selected through a detailed morphological inspection and the analysis of their magnitude and colors in two wavebands, F475W (Sloan g) and F814W (I).
     * The spatial distribution of globular clusters defines three main overdensities in Coma that can be associated with NGC 4889, NGC 4874, and IC 4051 but have spatial scales five to six times larger than individual galaxies.
     * Intracluster globular clusters also form clear bridges between Coma galaxies. Red globular clusters, which agglomerate around the center of the three main subgroups, reach higher surface densities than blue ones.
 
 
 #### [Exploring Reionization-Era Quasars IV: Discovery of Six New z≳6.5 Quasars with DES, VHS and unWISE Photometry](https://arxiv.org/abs/1811.11915)
     * In this paper, we expand our search for z ∼ 7 quasars to the footprint of the Dark Energy Survey (DES) Data Release One (DR1), covering ∼ 5000 deg2 of new area.
-    * We report the initial discovery and spectroscopic confirmation of six new luminous quasars at z > 6.4, including an object at z = 7.02, the fourth quasar yet known at z > 7, from a small fraction of candidates observed thus far. 
+    * We report the initial discovery and spectroscopic confirmation of six new luminous quasars at z > 6.4, including an object at z = 7.02, the fourth quasar yet known at z > 7, from a small fraction of candidates observed thus far.
     * Based on the recent measurement of z ∼ 6.7 quasar luminosity function using the quasar sample from our survey in the northern sky, we estimate that there will be 􏰇 55 quasars at z > 6.5 at M1450 < −24.5 in the full DES footprint.
 
 
