@@ -330,3 +330,234 @@
 
 
 #### [Can HI gas trace the matter density distribution linearly on large scales?](https://arxiv.org/abs/1901.02724)
+    * We employ three approaches to generate the mock HI density from an N-body simulation at low redshifts, and demonstrate, for the first time, that the HI linearity assumption breaks down at k > 0.1hMpc−1, generically, except for a “sweet-spot” redshift near z=1.2
+
+----
+
+## Jan 10:
+
+
+#### [Dust scaling relations in a cosmological simulation](https://arxiv.org/abs/1901.02886)
+
+
+#### [The present-day mass-metallicity relation for galaxies using a new electron-temperature method](https://arxiv.org/abs/1901.02890)
+
+
+#### [The inner dark matter distribution of the Cosmic Horseshoe (J1148+1930) with gravitational lensing and dynamics](https://arxiv.org/abs/1901.02896)
+
+
+#### [The birth of the Milky Way: the in-situ halo and early thick disk as uncovered by accurate stellar ages with Gaia](https://arxiv.org/abs/1901.02900)
+
+
+#### [Multiphase gas in the circumgalactic medium: relative role of tcool/tff and density fluctuations](https://arxiv.org/abs/1901.02903)
+    * 模拟研究：quantify the role of the ratio of cooling time to the free-fall time (tcool/tff) and the amplitude of density perturbations (δρ/ρ) in the production of multiphase gas in the circumgalactic medium (CGM).
+    * 之前的模拟只考虑了ICM中的小幅度的扰动：cold gas condenses out of the hot ICM in global thermal balance when the background tcool/tff < 10
+    * 但星系运动的尾流，还有密度高的宇宙尺度的纤维结构会产生更大的密度反差的扰动，可以在不满足上面条件的时候产生冷气体
+    * 
+
+
+#### [The space density of z>4 blazars](https://arxiv.org/abs/1901.02910)
+
+
+#### [Galaxies with monstrous black holes in galaxy cluster environments](https://arxiv.org/abs/1901.03156)
+
+
+#### [The Carnegie-Irvine Galaxy Survey. VIII. Demographics of Bulges along the Hubble Sequence](https://arxiv.org/abs/1901.03195)
+
+
+#### [Mass bias evolution in tSZ cluster cosmology](https://arxiv.org/abs/1901.03096)
+    - **Relevant**
+    * We study one of the most important sources of systematic uncertainties, the mass bias (1 − b).
+    * 探索bias和质量还有红移的power law关系：We apply this parametrisation to the combination of tSZ number counts and power spectrum, finding a hint for redshift dependence that leads to an increasing value of the mass bias for higher redshift. 
+    * We find our results to be dependent on the clusters sample that we are considering, in particular obtaining an inverse (decreasing) redshift dependence when neglecting z < 0.2 clusters.
+    * We find a preferred constant value of mass bias, (1 − b) = 0.62 ± 0.05, that is too low with respect to weak lensing and numerical simulations estimations. 
+
+
+----
+
+## Jan 13:
+
+
+#### [MUSE sneaks a peek at extreme ram-pressure stripping events - IV. Hydrodynamic and gravitational interactions in the Blue Infalling Group](https://arxiv.org/abs/1901.03334)
+
+
+#### [Disruption of satellite galaxies in simulated groups and clusters: the roles of accretion time, baryons, and pre-processing](https://arxiv.org/abs/1901.03336)
+
+
+#### [Constraining First Star Formation with 21cm-Cosmology](https://arxiv.org/abs/1901.03344)
+
+
+#### [Merging cold front and AGN feedback in the peculiar galaxy cluster Abell 2626](https://arxiv.org/abs/1901.03550)
+
+
+#### [The structure of the Mg II broad line emitting region in Type 1 AGNs](https://arxiv.org/abs/1901.03681)
+    * comparing the kinematical parameters of the broad Mg II and broad Hβ lines.
+    * Mg II emitting region has more complex kinematics than the Hβ one.
+    * Mg II broad line originates from two subregions: one which contributes to the line core, which is probably virialized, and the other, 'fountain-like' emitting region, with outflows-inflows nearly orthogonal to the disc, which become suppressed with stronger gravitational influence.
+
+
+----
+
+## Jan 14:
+
+
+#### [Still Missing Dark Matter: KCWI High-Resolution Stellar Kinematics of NGC1052-DF2](https://arxiv.org/abs/1901.03771)
+
+
+#### [Compact Galaxies at Intermediate Redshifts Quench Faster than Normal-sized Galaxies](https://arxiv.org/abs/1901.03712)
+
+
+#### [Following the Cosmic Evolution of Pristine Gas III: The Observational Consequences of the Unknown Properties of Population III Stars](https://arxiv.org/abs/1901.03727)
+
+
+#### [A new class of flares from accreting supermassive black holes](https://arxiv.org/abs/1901.03731)
+
+
+#### [Osaka Feedback Model: Isolated Disk Galaxy Simulations](https://arxiv.org/abs/1901.03815)
+
+
+#### [The circumgalactic medium in Lyman-alpha: a new constraint on galactic outflow models](https://arxiv.org/abs/1901.04015)
+
+
+#### [Elliptical Galaxy in the Making: The Dual Active Galactic Nuclei and Metal-enriched Halo of Mrk 273](https://arxiv.org/abs/1901.04118)
+
+
+#### [Physical properties of SDSS satellite galaxies in projected phase-space](https://arxiv.org/abs/1901.04238)
+
+
+#### [The Fornax 3D project: unveiling the thick disk origin in FCC 170: signs of accretion?](https://arxiv.org/abs/1901.04310)
+
+
+#### [Spectroscopic confirmation and modelling of two lensed quadruple quasars in the Dark Energy Survey public footprint](https://arxiv.org/abs/1901.04414)
+
+
+#### [Physical properties of the X-ray gas as a dynamical diagnosis for galaxy clusters](https://arxiv.org/abs/1901.03851)
+
+----
+
+## Jan 15:
+
+
+#### [Characterizing circumgalactic gas around massive ellipticals at z~0.4 III. The galactic environment of a chemically-pristine Lyman limit absorber](https://arxiv.org/abs/1901.04488)
+
+
+#### [The MUSE Atlas of Disks (MAD): Resolving Star Formation Rates and Gas Metallicities on < 100pc Scales](https://arxiv.org/abs/1901.04493)
+
+
+#### [On the Prevalence of Super-Massive Black Holes over Cosmic Time](https://arxiv.org/abs/1901.04500)
+
+
+#### [Classification of Broad Absorption Line Quasars with a Convolutional Neural Network](https://arxiv.org/abs/1901.04506)
+
+
+#### [How nucleation and luminosity shape faint dwarf galaxies](https://arxiv.org/abs/1901.04509)
+    - **Relevant, Interesting**
+    * Virgo & Fornax中的dwarf：these faint, low surface brightness cluster galaxies are best described as a family of thick (⟨C/A⟩ > 0.5), oblate-triaxial spheroids.
+    * Nucleated satellites are thicker at all luminosities compared to their non-nucleated counterparts, and fainter galaxies are systematically thicker as well, regardless of nu- cleation.
+    * we find no evidence that the environment the satellites live in plays a relevant role in setting their three-dimensional structure.
+    * We interpret both the presence of stellar nuclei and the associated thicker shapes as the result of preferential early and rapid formation
+
+
+#### [Physical conditions in high−z optically thin C III absorbers: Origin of cloud sizes and associated correlations](https://arxiv.org/abs/1901.04510)
+    * detailed photoionization models of well aligned optically thin C III absorption components at 2.1<z<3.4.
+    * Our inferred nH and overdensity (Δ) are much higher than the measurements available in the literature and favor the absorption originating from gas associated with circumgalactic medium and probably not in hydrostatic equilibrium
+    * We also notice nH, L and [C/H] associated with C III components show statistically significant redshift evolution. To some extent, these redshift evolutions are driven by the appearance of compact, high nH and high [C/H] components only in the low−z end
+
+
+#### [Rejuvenated galaxies with very old bulges at the origin of the bending of the main sequence and of the "green valley"](https://arxiv.org/abs/1901.04573)
+    * We have studied in detail a sample of 10 galaxies at 0.45 < z < 1 with secure SFR from Herschel, deep Keck optical spectroscopy, and HST imaging from CANDELS allowing us to perform multi-wavelength bulge to disk decomposition.
+    * Bulge非常old，disk很年轻：rejuvenation, 而不是bulge growth
+
+
+#### [Discovery of CO absorption at z=0.05 in G0248+430](https://arxiv.org/abs/1901.04683)
+    * report here the detection with NOEMA of CO(1-0) and CN(1-0) lines in absorption, and confirmation of CO emission in the quasar/galaxy pair Q0248+430/G0248+430. 
+
+#### [Dust-depletion sequences in damped Ly-α absorbers II. The composition of cosmic dust, from low-metallicity systems to the Galaxy](https://arxiv.org/abs/1901.04683)
+    * We use the observed elemental abundances in dust of several metals (O, S, Si, Mg, and Fe) in different environments, considering systems with different metallicities and dust content, namely damped Lyman-{\alpha} absorbers (DLAs) towards quasars and the Galaxy
+    * Metallic iron (likely in the form of inclusions in silicate grains) and iron oxides is an important component of the mass composition of carbon-free dust. Iron oxides make up a significant mass fraction (~1/4 in some cases) of the oxygen-bearing dust and there are good reasons to believe that metallic iron constitutes a similar mass fraction of dust
+    * FeO could be a simple explanation for the depletion of iron and oxygen because it is easily formed
+
+#### [Spiral arm formation mechanisms: Spiral Structure in Barred galaxies. Observational constraints to spiral arm formation mechanisms](https://arxiv.org/abs/1901.04725)
+    * Here we have combined this information with new determinations of the bar strength and the pitch angle of the innermost segment of the spiral arms to find relationships between these parameters of relevance to the dynamical evolution of the galaxies
+    * We find that bars with high shear have only small pitch angles, while bars with large pitch angles must have low shear; we also find a generally inverse trend of pitch angle with bar strength.
+
+
+#### [Detection of the 380 GHz H2O emission towards the High-z lensed QSO MG J0414+0534](https://arxiv.org/abs/1901.04745)
+    * ALMA Band 3: The 380 GHz line spectrum shows a broad spectral distribution that has a velocity width of ~290 km/s and a peak flux of ~1.5 mJy (5.2 sigma). 
+    * The integrated line flux ratio between the A1 and A2 component shows unexpected difference with the continuum flux ratio. Based on our gravitational lens modeling, this flux ratio anomaly could be explained if the 380 GHz line emissions come from two or three spatially displaced H2O maser components in the QSO, with the dominant one located at the continuum emission position and the other one(s) displaced from the continuum by ~1.5 kpc on the source plane.
+
+
+#### [Impact of ICM disturbances on the mean pressure profile of galaxy clusters: a prospective study of the NIKA2 SZ large program with MUSIC synthetic clusters](https://arxiv.org/abs/1901.04580)
+    * 测量星系团的平均压力轮廓，为宇宙学做准备：This is one of the main goals of the ongoing NIKA2 tSZ large program that aims at mapping the tSZ signal of a representative cluster sample selected from the Planck and ACT catalogs and spanning a redshift range 0.5 < z < 0.9
+    * we employ the hydrodynamical N-body simulation Marenostrum MUltidark SImulations of galaxy Clusters (MUSIC) 模拟NIKA2和Planck观测
+    * We observe that, at R500 the scatter of the distribution of nor- malized pressure profiles associated with the selected morphologically disturbed clusters is 65% larger than the one associated with relaxed clusters. 
+        - The mean pressure profile of the cluster population plays a fundamental role among the different ingredients of a cosmological analysis based on a tSZ survey. Its overall amplitude and shape define the ones of the matched filter used in order to define a catalog of galaxy clusters and estimate their integrated tSZ flux
+        - The mean pressure profile properties also characterize the global amplitude of the tSZ power spectrum and its shape at high multipole
+
+----
+
+## Jan 15:
+
+
+#### [Does radiative feedback make faint z>6 galaxies look small?](https://arxiv.org/abs/1901.05007)
+
+
+#### [Deciphering an evolutionary sequence of merger stages in infrared-luminous starburst galaxies at z ~ 0.7](https://arxiv.org/abs/1901.05013)
+
+
+#### [A mass-dependent slope of the galaxy size-mass relation out to z~3: further evidence for a direct relation between median galaxy size and median halo mass](https://arxiv.org/abs/1901.05014)
+    - **Relevant**
+    * We find that the r_80 - M_star relation has the form of a broken power law, with a clear change of slope at a pivot mass M_p. Below the pivot mass the relation is shallow (r_80 \propto M_star^0.15) and above it it is steep (r_80\propto M_star^0.6).
+    * We compare these r_80-M_star relations to the M_halo-M_star relations derived from galaxy-galaxy lensing, clustering analyses, and abundance matching techniques. Remarkably, the pivot stellar masses of both relations are consistent with each other at all redshifts, and the slopes are very similar both above and below the pivot when assuming M_halo \propto r_80^3. 
+    * 星系的size和halo Rvir之间有很好的关系
+
+
+#### [A New View of the Size-Mass Distribution of Galaxies: Using r20 and r80 instead of r50](https://arxiv.org/abs/1901.05017)
+    - **Relevant**
+    * We find that the size-mass distributions for r20 and r80 are markedly different from each other and also from the canonical r50 distribution. The most striking difference is in the relative sizes of star forming and quiescent galaxies at fixed stellar mass.
+    * Considering all galaxies in a given stellar mass and redshift bin we detect a significant bimodality in the distribution of r20, with one peak corresponding to star forming galaxies and the other to quiescent galaxies.
+
+
+#### [The Galaxy Stellar Mass Function and Low Surface Brightness Galaxies from Core-Collapse Supernovae](https://arxiv.org/abs/1901.05020)
+
+
+#### [SDSS-IV MaNGA: Inside-out vs. outside-in quenching in different local environments](https://arxiv.org/abs/1901.05126)
+
+
+#### [Bar Fraction in Early- and Late-type Spirals](https://arxiv.org/abs/1901.05183)
+    * We investigate the bar fraction and its dependence on the properties of the host galaxies by using three bar classification methods: visual inspection, ellipse fitting method, and Fourier analysis
+    * Moreover, we find the different dependence of bar fraction on the Hubble type for strong versus weak bars: SBs are preponderant in early-type spirals whereas SABs in late-type spirals.
+    * We propose that strong bars and weak bars experience different processes for their formation, growth, and dissipation by interacting with different inner galactic structures of early-type and late-type spirals.
+
+
+#### [Multi-phase Circum-Galactic Medium probed with MUSE and ALMA](https://arxiv.org/abs/1901.05217)
+    * we present optical (MUSE) and mm (ALMA) observations of the field of the quasar Q1130-1449 which includes a log [N(H I)/cm^-2]=21.71+/-0.07 absorber at z=0.313.
+    * Ground-based VLT/MUSE 3D spectroscopy shows 11 galaxies at the redshift of the absorber down to a limiting SFR>0.01 M_sun yr^-1 
+    * Three of the objects are also detected in CO(1-0) in our ALMA observations indicating long depletion timescales for the molecular gas and kinematics consistent with the ionised gas.
+    * 应该是一个小的星系群：Based on metallicity and velocity arguments, we conclude that the neutral gas traced in absorption is only partly related to these emitting galaxies while a larger fraction is likely the signature of gas with surface brightness almost four orders of magnitude fainter that current detection limits.
+    * 强HI吸收系统不一定只示踪某一个星系，而可能指示的是一个更复杂的系统
+
+
+#### [Clustering clusters: unsupervised machine learning on globular cluster structural parameters](https://arxiv.org/abs/1901.05354)
+    - **Interesting**
+    * 球状星团聚类分析： In this paper we use cluster analysis on the (logM,logσ0,logRe,[Fe/H],log|Z|) space to show that the intrinsic number of GC groups is actually either k=2 or k=3, with the latter being favored albeit non-significantly.
+    * In the k=2 case, the Partitioning Around Medoids (PAM) clustering algorithm recovers a metal-poor halo GC group and a metal-rich disk GC group.
+
+
+#### [Halo Concentrations and the New Baseline X-ray Luminosity-Temperature and Mass Relations of Galaxy Clusters](https://arxiv.org/abs/1901.05354)
+    * Baseline Lx-Tx关系，不考虑重子物质物理过程的：baseline relation is predicted without considering the fact that the halo concentration and the characteristic density of clusters increases as their mass decreases, which is a consequence of hierarchical structure formation of the universe
+    * Here, we show that the actual baseline relation should be LX∝TαX, where α∼1.7, instead of α=2, given the mass-dependence of the concentration and the fundamental plane relation of galaxy clusters
+    * 这个shallower slope可以看成是hierarchical assembly of cluster的证据
+    * some of the scatter in the LX-MΔ relation can be attributed to the scatter in the concentration-mass (c-M) relation
+
+
+#### [Phenotypic redshifts with self-organizing maps: A novel method to characterize redshift distributions of source galaxies for weak lensing](https://arxiv.org/abs/1901.05005)
+    * We present a new method to combine wide-field, few-filter measurements with catalogs from deep fields with additional filters and sufficiently low photometric noise to break degeneracies in photometric redshifts
+    * The multi-band deep field is used as an intermediary between wide-field observations and accurate redshifts, greatly reducing cosmic variance, shot noise, and selection effects.
+    * Our implementation of the method uses self-organizing maps to group galaxies into \textit{phenotypes} based on their observed fluxes
+
+
+#### [Decorrelating the errors of the galaxy correlation function with compact transformation matrices](https://arxiv.org/abs/1901.05005)
+    - **Interesting**
+    *  We develop a routine for decorrelating the projected and anisotropic 2PCF with simple and scale-compact transformations on the 2PCF. These transformation matrices are modeled after the Cholesky decomposition and the symmetric square root of the Fisher matrix.
+    * Specifically, we propose simple Cholesky based transformation matrices that suppress the off-diagonal covariances on the projected 2PCF by ~95% and that on the anisotropic 2PCF by ~87%.
