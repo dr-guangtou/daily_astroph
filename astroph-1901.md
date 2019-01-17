@@ -500,9 +500,16 @@
 
 
 #### [Does radiative feedback make faint z>6 galaxies look small?](https://arxiv.org/abs/1901.05007)
-
+    * 解释为什么透镜观测到的z=6-8的星系都非常compact：whether the radiation of a young massive star cluster can suppress the formation of other detectable clusters within the same galaxy already before supernova feedback can affect the galaxy.
+    * We find that in low-mass (M200 <10^10 M⊙) haloes, the radiation from a compact star forming region with an initial mass of 10^7 M⊙ can keep gas clumps with Jeans masses larger than ≈ 10^7 M⊙ warm and ionized throughout the galaxy.
+    * 稳定的大质量团块的辐射足够强就可以保持星系size非常compact; 同时预测这些compact星系的escape fraction特别高
 
 #### [Deciphering an evolutionary sequence of merger stages in infrared-luminous starburst galaxies at z ~ 0.7](https://arxiv.org/abs/1901.05013)
+    * We show that total attenuations anti-correlate with the starburst sizes in radio (3 GHz)
+    * More obscured and compact starbursts also show enhanced N2 (=[NII]/Hα) ratios and larger line velocity widths that we attribute to an increasing shock contribution toward later merger phases,
+    * Additionally, the attenuation is also linked to the equivalent width (EW) of hydrogen recombination lines, which is sensitive to the luminosity weighted age of the relatively unobscured stellar populations
+    * Overall, the correlations among AV, radio size, line width, N2 and EW of Balmer/Paschen lines converge towards suggesting an evolutionary sequence of merger stages: all of these quantities are likely to be good time-tracers of the merger phenomenon, and their large spanned range appears to be characteristic of the different merger phases.
+    * 这些星暴星系的radio core的大小比相同红移的ETG小得多，不能直接在并合后变成椭圆星系
 
 
 #### [A mass-dependent slope of the galaxy size-mass relation out to z~3: further evidence for a direct relation between median galaxy size and median halo mass](https://arxiv.org/abs/1901.05014)
@@ -519,9 +526,18 @@
 
 
 #### [The Galaxy Stellar Mass Function and Low Surface Brightness Galaxies from Core-Collapse Supernovae](https://arxiv.org/abs/1901.05020)
+    - **Interesting**
+    * introduce a method for producing a galaxy sample unbiased by surface brightness and stellar mass, by selecting star-forming galaxies via the positions of core-collapse supernovae (CCSNe). 
+    * 把SDSS超新星发现的超新星和IAC Stripe 82 Legacy图像对比，发现了150个之前没认证出来的LSBG
+    * 用单位恒星质量上的CCSN-rate和恒星形成率来描绘SF星系的质量函数：Resultant star-forming galaxy number densities are found to increase following a power-law down to our low mass limit of ∼10^6.4 M⊙ by a single Schechter function
+    * n order to estimate galaxy stellar masses, a new code for the calculation of galaxy photometric redshifts, zMedIC, is also presented
 
 
 #### [SDSS-IV MaNGA: Inside-out vs. outside-in quenching in different local environments](https://arxiv.org/abs/1901.05126)
+    * We define two non-parametric parameters, quiescence (Fq) and its concentration (Cq), to quantify the strength and the spatial distribution of the quenched areas, respectively, traced by the LI(N)ER regions with low EW(Hα).
+    * Halo质量越大，更倾向于是inside-out quenching的：We find that the fraction of galaxies showing inside-out quenching increases with halo mass, irrespective of stellar mass or galaxy type (satellites vs. centrals)
+    * 不同环境下，恒星质量越大也越倾向于是inside-out quenching的
+    * At a given environment and stellar mass, the fraction of inside-out quenching is systematically greater than that of outside-in quenching, suggesting that inside-out quenching is the dominant quenching mode in all environments.
 
 
 #### [Bar Fraction in Early- and Late-type Spirals](https://arxiv.org/abs/1901.05183)
