@@ -496,7 +496,7 @@
 
 ----
 
-## Jan 15:
+## Jan 16:
 
 
 #### [Does radiative feedback make faint z>6 galaxies look small?](https://arxiv.org/abs/1901.05007)
@@ -577,3 +577,108 @@
     - **Interesting**
     *  We develop a routine for decorrelating the projected and anisotropic 2PCF with simple and scale-compact transformations on the 2PCF. These transformation matrices are modeled after the Cholesky decomposition and the symmetric square root of the Fisher matrix.
     * Specifically, we propose simple Cholesky based transformation matrices that suppress the off-diagonal covariances on the projected 2PCF by ~95% and that on the anisotropic 2PCF by ~87%.
+
+
+----
+
+## Jan 17:
+
+
+#### [Giant cold satellites from low-concentration haloes](https://arxiv.org/abs/1901.05460)
+    * Milky Way Crater II and Antlia II have uncommonly low dynamical mass densities, due to their large size and low velocity dispersion
+    * 作者认为银河系潮汐作用的影响很大：the tidal evolution of ΛCDM NFW haloes is richer than previously recognised: tidal heating causes the innermost regions of haloes that fall short of the mass-concentration relation to expand significantly, resulting in the formation of giant, kinematically cold satellites like Crater II and Antlia II.
+    * 有可能不需要这些satellite损失太多的质量；也许还能解释NGC1052-DF2
+
+
+#### [The nature of sub-millimeter and highly star-forming galaxies in the EAGLE simulation](https://arxiv.org/abs/1901.05467)
+    - **Interesting, Relevant**
+    * EAGLE模拟里面，z>1，S850micron > 1 mJy的星系和submm星系比较
+    * We find that the bulk of the S850μm ≥ 1 mJy model population is at z ≈ 2.5
+    * 大多是大质量，福尘埃，气体比例和SFR高；并合比例和其他星系差不多 --> 并合不是主要驱动
+    * Instead, the S850μm ≥ 1 mJy model galaxies yield high SFRs primarily because they maintain a significant gas reservoir as a result of hosting an undermassive black hole. 黑洞质量偏低，feedback不够有效
+    * 也有一批SFR高，但是submm流量不够高的星系：‘Submm-Faint’ galaxies，主要是低恒星质量和红移偏高的星系
+
+#### [Simulating Gas Inflow at the Disk-Halo Interface](https://arxiv.org/abs/1901.05470)
+    * ENZO模拟吸积气体和外流气体在盘和CGM交接处的相互作用: 10-100 km/s速度的内流和SNe Feedback的相互作用
+    * We find that cooling and hydrodynamic instabilities drive the injected gas to fragment into cold (∼ 103 K) cloud clumps with typical densities of ∼ 1 cm−3. 会和外流气体混合，减速
+    * When the gas clumps hit the disk, 10% − 50% of the injected material is able to accrete (depending on the injection velocity).
+    * Clumps originating from gas injected with a higher initial velocity approach the disk with greater ram pressure, allowing them to penetrate through the disk in low density regions.
+
+
+#### [Radio Galaxy Zoo: The Distortion of Radio Galaxies by Galaxy Clusters](https://arxiv.org/abs/1901.05480)
+    - **Interesting**
+    * study the impact of cluster environment on the morphology of a sample of 4304 extended radio galaxies from Radio Galaxy Zoo 大部分都在cluster周围的15 Mpc内
+    * Brightest cluster galaxies (BCGs) are more likely to be radio sources than other cluster members are, and are also moderately bent. 且Radio galaxy的面密度随到BCG透镜距离按照指数是-1.10的幂律下降; Non-BCG radio galaxies are statistically more bent the closer they are to the cluster center 
+    * 对非BCG，所处cluster质量越大越容易弯，所处环境的冲压剥离影响越大越容易弯
+    * We use the orientation of bent radio galaxies as an indicator of galaxy orbits, and find that they are preferentially in radial orbits.
+
+
+#### [A Predicted Correlation Between Age Gradient and Star Formation History in FIRE Dwarf Galaxies](https://arxiv.org/abs/1901.05487)
+    - **Interesting**
+    * 新的FIRE模拟：a new suite of 17 higher mass field dwarfs with Mstar = 10^7 − 10^9 M⊙ introduced here
+    * We find that age gradients are common in our dwarfs, with older stars dominant at large radii.
+    * 恒星形成越早，年龄的gradient越明显
+    * Mergers can both steepen and flatten the age gradient depending on the timing of the merger and star formation history of the merging galaxy. 并合对梯度的作用是不一定的
+    * 最近没有经历过并合的星系里，有DM core的年龄梯度比较平，因为Feedback发生得比较晚
+
+
+#### [Dissecting the active galactic nucleus in Circinus -- II. A thin dusty disc and a polar outflow on parsec scales](https://arxiv.org/abs/1901.05488)
+    * resolved the mid-infrared (MIR) emission of nearby active galactic nuclei (AGN), surprisingly revealed that their dust emission appears prominently extended in the polar direction 可能和辐射压驱动的尘埃风有关，对MIR光度贡献不小
+    * we successfully explained the peculiar MIR morphology of Circinus observed on large, tens of parsec scales with a model consisting of a compact dusty disc and an extended hollow dusty cone
+    * We find that a model composed of a thin dusty disc seen almost edge-on and a polar outflow in the form of a hyperboloid shell can reproduce well the VLTI/MIDI observations at all wavelengths 尘埃torus模型解释不了红外干涉仪的观测
+
+
+#### [Internal dynamics and stellar content of eight ultra-diffuse galaxies in the Coma cluster prove their evolutionary link with dwarf early-type galaxies](https://arxiv.org/abs/1901.05489)
+    - **Relevant, Interesting**
+    * We present spatially resolved velocity profiles, stellar velocity dispersions, ages and metallicities of 8 UDGs in the Coma cluster. 
+    * BinoSpec@MMT; 
+    * We derive dark matter fractions between 50 % and 90 % within the half-light radius using Jeans dynamical models.
+    * Two galaxies exhibit major axis rotation, two others have highly anisotropic stellar orbits, and one shows signs of triaxiality.
+    * In the Faber–Jackson and mass–metallicity relations, the 8 UDGs fill the gap between cluster dwarf elliptical (dE) and fainter dwarf spheroidal (dSph) galaxies.
+
+#### [Improved Dynamical Constraints on the Masses of the Central Black Holes in Nearby Low-mass Early-type Galactic Nuclei And the First Black Hole Determination for NGC 205](https://arxiv.org/abs/1901.05496)
+    - **Relevant, Interesting**
+    * JAM模拟都是JamPy加上emcee了
+    * We use new HST/STIS spectroscopy to fit the star formation histories of the nuclei in these galaxies, and use these measurements to create local color-mass-to-light ratio (\ml) relations.
+    * 恒星质量map加上AO的kinematics，Jeans模拟动力学
+    * However, for NGC 205, the improved models suggest the presence of a BH for the first time, with a best-fit mass of 6.8+95.6−6.7×10^3\Msun
+    * Using this BH mass, the existing upper limits of both X-ray, and radio emissions in the nucleus of NGC 205 suggest an accretion rate ≲10^−5 of the Eddington rate.
+    * We also discuss the color–M/Leff relations in our nuclei and find that the slopes of these vary significantly between nuclei. Nuclei with significant young stellar populations have steeper color–M/Leff relations than some previously published galaxy color–M/Leff relations.
+
+
+#### [HI-MaNGA: HI Followup for the MaNGA Survey](https://arxiv.org/abs/1901.05579)
+    * We give an overview of the HI 21cm radio follow-up observing plans and progress and present data for the first 331 galaxies observed in the 2016 observing season at the GBT
+    * 同时还把现有的MaNGA数据和ALFALFA的做了交叉
+    * MASCOT - The MaNGA ARO Survey of CO Targets: http://www.eso.org/~dwylezal/mascot
+    * JINGLE - The JCMT legacy survey of dust and gas for extragalactic studies: http://www.star.ucl.ac.uk/JINGLE/survey.html 
+
+
+#### [Gravitational redshift profiles of MaNGA BCGs](https://arxiv.org/abs/1901.05616)
+    - **Interesting** 应该读读intro
+    * 对10^13 Msu的halo，星系会受到引力红移的影响在 1 km/s 量级
+    * We find that systematic effects (possibly related to charge transfer or wavelength calibration accuracy) make the standard MaNGA data pipeline unsuitable for measuring the relevant sub km/s wavelength shifts.
+    * With a sample of 272 galaxies in halos with log(M/M⊙)>13, we attempt a measurement of the gravitational redshift profile, achieving 1σ errors of size ∼0.5 km/s, but are unable to make a significant detection of the signal
+
+
+#### [Discovery of a strong ionized-gas outflow in an AKARI-selected Ultra-luminous Infrared Galaxy at z = 0.5](https://arxiv.org/abs/1901.05618)
+    * optical follow-up program for bright 90-μm FIR sources with a faint optical (i < 20) counterpart selected in the AKARI Far-Infrared Surveyor 找 0.5 < z < 1的ULIRG
+    * AKARI-FIS-V2 J0916248+073034, identified as a ULIRG at z = 0.49 in the spectroscopic follow-up observation, indicates signatures of an extremely strong outflow in its emission line profiles
+
+
+#### [Strong lensing reveals jets in a sub-microJy radio quiet quasar](https://arxiv.org/abs/1901.05618)
+    * We present e-MERLIN and EVN observations which reveal unambiguous jet activity within radio quiet quasar HS~0810+2554. 探测到的最暗的射电源
+    * new evidence against the idea that radio loud and radio quiet quasars are powered by different underlying radio emission mechanisms, showing instead that the same AGN mechanism can operate as the dominant source of radio emission even in the very lowest radio luminosity quasars.
+    * Given that this source has been found to fall on the radio-FIR correlation, we suggest that the radio-FIR correlation cannot always be used to rule out AGN activity in favour of star-formation activity.
+
+
+#### [Strong lensing reveals jets in a sub-microJy radio quiet quasar](https://arxiv.org/abs/1901.05618)
+    * deep searches for CO line emission in the outer disk of M33, at R> 7 kpc
+    * We detect narrow CO lines at the location of two MIR sources at galactocentric distances of about 8 kpc that are associated with low-mass young stellar clusters, and at four locations in the proximity of MA1 其中MIR源处的不排除是背景源
+    * We suggest that GMCs become more massive toward the center because of the fast rotation of the disk, which drives mass growth by coalescence of smaller condensations as they cross the arms. 
+
+
+#### [Effects of baryons on the gravitational redshift profile of ΛCDM halos](https://arxiv.org/abs/1901.05615)
+    - **Interesting**
+    * Gravitational redshifts and other relativistic effects are beginning to be studied in the context of galaxy clustering...On scales below ~20 Mpc/h simulations have shown that gravitational redshift dominates over other effects. 
+    * 需要知道星系内和星系团内重子物质的分布：We investigate the effects of baryonic physics on the gravitational redshift profiles of massive (group and cluster-sized) halos.
+    * 重子过程增加了引力红移的显著程度：We find that inclusion of baryons, cooling, star formation and feedback significantly alters the relevant inner density profiles. These baryonic effects lead to overall increases in both gravitational redshifts and the transverse relativistic Doppler effects by up to ∼50% for group size halos.
