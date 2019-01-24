@@ -902,6 +902,12 @@
 
 
 #### [Stochastic modeling of star-formation histories I: the scatter of the star-forming main sequence](https://arxiv.org/abs/1901.07556)
+    - **Interesting**
+    * a framework for modelling the star-formation histories of galaxies as a stochastic process.
+        - define this stochastic process through a power spectrum density with a functional form of a broken power-law.
+    * SFH在短时间内是想干的，强度由power law的slope决定，在长时标上：they decorrelate to resemble white noise over a timescale that is proportional to the timescale of the break in the power spectrum density, τbreak. 
+    * Specifically, we show how the measurements of the normalisation and width (σMS) of the main sequence, measured in several passbands that probe different timescales, give a constraint on the parameters of the underlying power spectrum density.
+    * This implies that star-formation histories of galaxies lose “memory” of their previous activity on a timescale of ∼ 200 Myr, highlighting the importance of baryonic effects that act over the dynamical timescales of galaxies.
 
 
 #### [The Enigmatic (Almost) Dark Galaxy Coma P: Distance Measurement and Stellar Populations from HST Imaging](https://arxiv.org/abs/1901.07557)
@@ -934,14 +940,27 @@
 #### [Using Surface Brightness Fluctuations to Study Nearby Satellite Galaxy Systems: Calibration and Methodology](https://arxiv.org/abs/1901.07575)
     - **Interesting, Relevant**
     * Using archival CFHT Megacam imaging data for a sample of 27 nearby dwarfs, we demonstrate that reliable SBF measurements and distances accurate to 15% are possible even for very low surface brightness
+    * Our calibration is credible over the color range 0.3   g − i   0.8 mag. It is also the first SBF calibration tied completely to TRGB distances as each galaxy in the sample has a literature TRGB distance. 
+    * We argue that ground-based SBF is a very useful tool for characterizing dwarf satellite systems and field dwarfs in the nearby, D 20 Mpc universe.
 
 
 #### [Using Surface Brightness Fluctuations to Study Nearby Satellite Galaxy Systems: the Complete Satellite System of M101](https://arxiv.org/abs/1901.07578)
     - **Interesting, Relevant**
+    * surface brightness fluctuation (SBF) measurements to constrain the distance to low surface brightness (LSB) dwarfs in the vicinity of M101
+    * The data is deep enough that we constrain 29 of these to be unassociated background galaxies by their lack of SBF. We measure high S/N SBF signals for two of the candidate dwarfs, which are consistent with being at the distance of M101.
+    * Still, by comparison with Local Group dwarfs, we argue that the M101 satellite system is likely now complete down to stellar masses of ∼ 5 × 10^5 M⊙.
 
 
 #### [The evolution of ultra-diffuse galaxies in nearby galaxy clusters from the Kapteyn IAC WEAVE INT Clusters Survey (𝙺𝙸𝚆𝙸𝙲𝚂)](https://arxiv.org/abs/1901.07577)
     - **Interesting, Relevant**
+    * We report the discovery of 442 UDG candidates in our eight field of views, with 247 of these galaxies lying at projected distances < 1 R200 from their host cluster.
+    * in the full parameter space they behave as dwarf galaxies and their colors do not seem to correlate with their effective radii.
+    * We find no systematic trends for the stellar mass nor effective radius as function of the projected distance.
+    * 啥？ the fraction of blue UDGs seems to be lower towards the center of clusters, and UDGs in the inner and outer regions of clusters have different S ́ersic index and axis ratio distributions.
+        - the Kapteyn IAC WEAVE INT Clusters Survey (KIWICS, Choque Challapa et al., in prep.). This survey, imaging 47 X-ray selected clusters (from Piffaretti et al. 2011) in the Northern hemisphere, between 0.02 ≤ z ≤ 0.04, will be excellent for studying the effects of the environment on galaxy evolution, particularly for dwarfs and LSBs.
+        - We use the g− and r− filters with total integration times, per cluster, of ∼1800s and ∼5400s, respectively (with single exposures of 210s), imaging several fields for each cluster covering at least 1 R200 in projection
+        - 0.2 arcsec pixel−1; The mean depth of the r−band images is 29.3 mag arcsec−2 when measured at a 3σ level in boxes of 10”×10”
+        - r-band seeing在1.5 arcsec左右
 
 
 #### [Constraints on the HI Mass of NGC 1052-DF2](https://arxiv.org/abs/1901.07586)
@@ -963,6 +982,13 @@
 
 
 #### [On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy](https://arxiv.org/abs/1901.07570)
+    * 袁峰老师的AGN Feedback模型
+    * Depending on the value of the accretion rate, accretion is divided into two modes, namely hot and cold, corresponding to below and above 2%LEdd respectively.
+    * 做两组模拟，看有没有hot mode有什么影响。We have calculated the AGN light curves, black hole growth, star formation, and AGN energy duty-cycle and compared the results of these two models with the model 
+    * The code that this work will be based on is called “MACER”, which has been described in Yuan18
+    * For example, if we would adopt only the cold mode, compared to the model considering both modes, the AGN luminosity would become significantly smaller, the total mass of newly formed stars would become two orders of magnitude smaller
+    * Hot mode的重要性在于AGN处于这个模式的时间特别长
+        - Roughly speaking, both the radiation and wind produced in the cold mode are much stronger than those in the hot mode.
 
 
 #### [Study of X-ray variability and coronae of Seyfert galaxies using NuSTAR](https://arxiv.org/abs/1901.07594)
