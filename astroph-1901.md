@@ -996,3 +996,73 @@
     * NuStar观测十个Seyfert，拟合光谱，得到E_cut: we derived clear Ecut values for the first time in 8 sources and a lower limit in one source
     * Broad Fe Kα line was noticed in 7 sources, while, excess emission in the energy range beyond ∼15 keV arising from Compton reflection was seen in all the sources.
     * We found no correlation between Ecut and MBH and between Ecut and λEdd., however, Ecut correlates with Γ (X-ray photon index) in a complex manner.
+
+----
+
+## Jan 24:
+
+
+#### [The First Metallicity Study of M83 using the integrated UV light of Star Clusters](https://arxiv.org/abs/1901.08063)
+    * UV integrated-light spectroscopic observations for 15 young star clusters in the starburst M83 with a special focus on metallicity measurements --> HST/COS
+    * We estimate a central metallicity of [Z] = +0.20 ± 0.15 dex in agreement with those obtained through independent methods, i.e. J-band and blue supergiants. We estimate a UV metallicity gradient of −0.041 ± 0.022 dex kpc−1 consistent with the optical metallicity gradient of −0.040 ± 0.032 dex kpc−1 for R/R25<0.5. 
+    * 金属丰度在 0.5和1.0 R25处有break：the metallicity gradient of this galaxy follows a steep-shallow-steep trend, a scenario predicted by three-dimensional (3D) numerical simulations of disc galaxies.
+
+
+#### [Extreme chemical abundance ratio suggesting an exotic origin for an ultra-diffuse galaxy](https://arxiv.org/abs/1901.08068)
+    - **Interesting, Relevant**
+    * KCWI分析DGSAT I的星族：The star formation history of DGSAT I seems to be extended, with a mean luminosity-weighted age of ~3 Gyr
+    * However, we find a very high [Mg/Fe] abundance ratio, which is extreme even in the context of the highly alpha-enhanced massive ellipticals and ultra-faint dwarfs
+    * With a measured velocity dispersion of 56 +/- 10 km/s, DGSAT I also shows a high mass-to-light ratio, which indicates that it is highly dark matter-dominated
+    * additional mechanisms are needed to prevent iron-rich yields from being recycled into stars. These results suggest that some ultra-diffuse galaxies could have experienced chemical enrichment episodes similar to the first building blocks of galaxies.
+
+#### [Spectro-photometric decomposition of galaxy structural components](https://arxiv.org/abs/1901.08075)
+    - **Relevant**
+    * 又是单色图像拟合工具：We introduce C2D, a new algorithm to perform spectro-photometric multi-component decompositions of integral field spectroscopy (IFS) datacubes
+    * The resulting datacubes from C2D are processed through the PIPE3D pipeline obtaining both the stellar populations and ionised gas properties of bulges and discs
+
+#### [CHANG-ES XIII: Transport processes and the magnetic fields of NGC 4666 - indication of a reversing disk magnetic field](https://arxiv.org/abs/1901.08090)
+    * magnetic field geometry and the transport processes of the cosmic rays of the edge-on spiral starburst galaxy NGC 4666 from CHANG-ES radio continuum data in two frequencies; 6 GHz (C-band) and 1.5 GHz (L-band)
+    * Furthermore, we model the processes of cosmic-ray transport into the halo with the 1D SPINNAKER model.
+    * The extended radio halo of NGC 4666 is box-shaped and is probably produced by the previously observed supernova-driven superwind.
+    * The scaleheight analysis revealed an asymmetric halo above and below the disk as well as between the two sides of the major axis.
+
+#### [A Sub-Damped Lyman Alpha Absorber with Unusual Abundances: Evidence of Gas Recycling in a Low-Redshift Galaxy Group](https://arxiv.org/abs/1901.08147)
+    * absorption line system at z=0.07489 in the spectrum of QSO PG1543+489 (zQSO=0.401) 前景是一个星系群中比较亮的侧向盘星系
+    * gas-phase abundance of [N/H] = −1.0±0.1.
+    * Photoionization models indicate that the nitrogen-to-silicon relative abundance is solar, yet magnesium is underabundant by a factor of ≈ 2. 
+    * The absorber velocities suggest that the gas at ρ= 66 kpc is corotating with the galaxy's stellar disk, possibly with an inflow component
+    * this sub-DLA system arises in a "cold-accretion" flow 然而丰度比较奇怪。要解释很高的N丰度比的话，也许需要这里面是再回收的气体
+
+#### [The Chemical Evolution of Carbon, Nitrogen, and Oxygen in Metal-Poor Dwarf Galaxies](https://arxiv.org/abs/1901.08160)
+    * We present UV spectroscopy of 20 nearby low-metallicity, high-ionization dwarf galaxies 
+    * Using new analytic carbon ionization correction factor relationships, we confirm the flat trend in C/O versus O/H observed for local metal-poor galaxies
+    * The C/N ratio also appears to be constant at log(C/N) = 0.75, plus significant scatter ({\sigma} = 0.20 dex)
+    * we find that the C/O ratio is very sensitive to both the detailed star formation history and to supernova feedback. Longer burst durations and lower star formation efficiencies correspond to low C/O ratios, while the escape of oxygen atoms in supernovae winds produces decreased effective oxygen yields and larger C/O ratio
+
+
+#### [The Chemical Evolution of Carbon, Nitrogen, and Oxygen in Metal-Poor Dwarf Galaxies](https://arxiv.org/abs/1901.08160)
+    * The galaxies exhibit strong Balmer absorption in the absence of ongoing star formation in more than 10% of their spectra within the SAMI field of view. 
+    * These Hδ-strong galaxies (HDSGs) are rare, making up only ∼2% (25/1220) of galaxies with stellar mass log(M∗/M⊙)>10. The HDSGs make up a significant fraction of non-passive cluster galaxies
+    * The majority (9/17) of cluster HDSGs show evidence for star formation at their centers, with the HDS regions found in the outer parts of the galaxy.
+    * Conversely, the Hδ-strong signal is more evenly spread across the galaxy for the majority (6/8) of HDSGs in low-density environments, and is often associated with emission lines that are not due to star formation.
+    * the cluster HDSGs are consistent with an infalling population that have entered the central 0.5r200,3D cluster region within the last ∼1Gyr 通过RPS由外向内quench
+
+
+#### [NIHAO XXI: The emergence of Low Surface Brightness galaxies](https://arxiv.org/abs/1901.08559)
+    - **Relevant**
+    * The simulated and observed LSBs share similar properties, having large HI reservoir, extended star formation histories and effective radii, low Sersic index and slowly rising rotation curves.
+    * simulated LSBs form as a result of co-planar co-rotating mergers and aligned accretion of gas at early times, while perpendicular mergers and mis-aligned gas accretion result in higher μ galaxies by z=0.
+    * the formation scenario of such `classical' LSBs differs from the one of less massive, M⋆∼10^7−9M⊙, Ultra-Diffuse Galaxies, the latter resulting from the effects of SNae driven gas outflow
+
+
+#### [Galaxy shape measurement synergies between LSST and Euclid](https://arxiv.org/abs/1901.08586)
+    - **Relevant**
+    * a joint analysis of LSST-like ground-based imaging with Euclid-like space-based imaging leads to increased precision and accuracy in galaxy shape measurements
+    * At galaxy magnitudes of i∼24.5, a combined survey analysis increases the effective galaxy number density for cosmic shear studies by ∼50 percent in comparison to an analysis of each survey alone.
+    * As the statistical power of cosmic shear is dominated by intrinsic ellipticity noise, however, this improvement in shape measurement noise only leads to a ∼ 5 percent improvement in the effective number density of galaxies for lensing studies.
+
+
+#### [Reconstructing the weak lensing magnification distribution of Type Ia supernovae](https://arxiv.org/abs/1901.08175)
+    * The effects induced by weak gravitational lensing of SNe Ia is one of the main systematic uncertainties, and its impact increases with redshift
+    * On one hand, the bias in cosmological inference due to weak lensing can be minimized/removed using flux-averaging 
+    * On the other hand, the weak lensing magnification of SNe Ia contains important information of the distribution of matter in the universe
