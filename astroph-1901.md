@@ -1066,3 +1066,62 @@
     * The effects induced by weak gravitational lensing of SNe Ia is one of the main systematic uncertainties, and its impact increases with redshift
     * On one hand, the bias in cosmological inference due to weak lensing can be minimized/removed using flux-averaging 
     * On the other hand, the weak lensing magnification of SNe Ia contains important information of the distribution of matter in the universe
+
+----
+
+## Jan 27:
+
+
+#### [Small-scale chemical abundance analysis in a blue compact dwarf galaxy SBS 1415+437](https://arxiv.org/abs/1901.08600)
+    * GMOS-N: The IFS data enable us to map the weak auroral line [O iii] λ4363 at a spatial scale of ∼6.5 pc across
+    * We find that the inferred abundances are in agreement with the median of the abundances obtained from the chemical abundance maps of the principal star-forming region and the mapped values within annuli. 对高红移比较有一些意义，高红移处肯定没有分辨率了
+
+#### [DASH: a library of dynamical subhalo evolution](https://arxiv.org/abs/1901.08601)
+    * 数值模拟由于数值精度问题，在处理halo里substructure的演化上不够精确
+    * We therefore present a library of idealized, high reso- lution N-body simulations of the tidal evolution of individual subhaloes that can be used to calibrate semi-analytical models and to complement cosmological simulations.
+    * 主要关注minor merger：In the library, four parameters, two of which characterize the subhalo orbit with respect to the host halo, and the two concentrations of the host- and subhalo, are varied over the ranges encountered in cosmological simulations 忽略了动力学摩擦效应
+
+
+#### [Revealing A Head-on Major Merger in the Nearby NGC 6338 Group with Chandra and VLA observations](https://arxiv.org/abs/1901.08769)
+    * By analyzing the Chandra archival data of the nearby NGC 6338 galaxy group, we identify two X-ray bright clumps (N-clump and S-clump) within the central 100 kpc
+    * 还有cold front引起的弧形结构，探测到了两个相向而行的团块
+    * the group is undergoing a head-on collision that is in a stage of pre-core passage.
+    * 没有发现并合引起的射点结构
+
+
+#### [The cosmic spectral energy distribution in the EAGLE simulation](https://arxiv.org/abs/1901.08878)
+    * We compare the observed CSED from the UV to the submm to that computed from the EAGLE cosmological hydrodynamical simulation
+    * 用SKIRT做的尘埃辐射转移的post-process
+    * z~0处：At UV wavelengths where the EAGLE model over- estimates the observed CSED by up to a factor 2
+    * At higher redshift, EAGLE increasingly underestimates the CSED at optical-NIR wavelengths with the FIR/submm emissivity underestimated by more than a factor of 5 by redshift z = 1
+
+
+#### [Deconstructing double-barred galaxies in 2D and 3D. II. Two distinct groups of inner bars](https://arxiv.org/abs/1901.08881)
+    * 2-D分解和3-D统计去投影：Large-scale bars in single- and double- barred systems show similar sizes, and inner bars may be longer than outer bars in different galaxies.
+    * 内棒的长度分布有两个group: resulting in a bimodal behaviour for the inner/outer bar length ratio
+    * The group of long inner bars lays at the bottom end of the outer bar length vs. ellipticity correlation, whereas the short inner bars are out of that relation. 
+    * 也许是形成内棒的inner disc的性质不同，或者是在不同的演化阶段上
+
+
+#### [ALMA photometry of extragalactic radio sources](https://arxiv.org/abs/1901.08976)
+    * a new catalogue of ALMA observations of 3,364 bright, compact radio sources, mostly blazars, used as calibrators
+    * 用ALMA的数据可以校准Planck给出的多波段点源表格, 包括流量和坐标的精度
+
+
+#### [Constraining the neutral fraction of hydrogen in the IGM at redshift 7.5](https://arxiv.org/abs/1901.09001)
+    * MOSFIRE观测星系团后面被放大的一批LBGs
+    * During the campaign we targeted 70 LBG candidates with MOSFIRE Y-band, selected photometrically to cover Lyα over the range 7 < z < 8.2. 其中两个里找到了发射线，红移都在z~7.1左右
+    * Using a Bayesian framework that employs large scale reionization simulations of the intergalactic medium (IGM) as well as realistic properties of the interstellar medium and circumgalactic medium, we infer the volume-averaged neutral hydrogen fraction = 0.88 @z~7.6
+    
+
+#### [The Local Perspective on the Hubble Tension: Local Structure Does Not Impact Measurement of the Hubble Constant](https://arxiv.org/abs/1901.08681)
+    * 还是关于local void对H0测量的影响
+    * Patheon + CSP: We make use of an inhomogeneous and isotropic Lemaitre- Tolman-Bondi metric to model a void in the SN Ia distance-redshift relation
+    * We conclude that the SN luminosity distance-redshift relation is inconsistent at the 4 − 5σ confidence level with large local underdensities
+    * We conclude that the distance-ladder value of H0, with a current precision of σH0 = 2.2%, is not significantly affected by local density contrasts
+
+
+#### [Model dispersion with PRISM; an alternative to MCMC for rapid analysis of models](https://arxiv.org/abs/1901.08725)
+    - **Useful**
+    * PRISM, a "Probabilistic Regression Instrument for Simulating Models". PRISM uses the Bayes linear approach and history matching to construct an approximation ('emulator') of any given model, by combining limited model evaluations with advanced regression techniques, covariances and probability calculations
+    * With PRISM, the time spent on evaluating a model is minimized, providing developers with an advanced model analysis for a fraction of the time required by more traditional methods.  
