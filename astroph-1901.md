@@ -1125,3 +1125,33 @@
     - **Useful**
     * PRISM, a "Probabilistic Regression Instrument for Simulating Models". PRISM uses the Bayes linear approach and history matching to construct an approximation ('emulator') of any given model, by combining limited model evaluations with advanced regression techniques, covariances and probability calculations
     * With PRISM, the time spent on evaluating a model is minimized, providing developers with an advanced model analysis for a fraction of the time required by more traditional methods.  
+
+----
+
+## Jan 28:
+
+
+#### [The galaxy - halo connection in low mass halos](https://arxiv.org/abs/1901.09039)
+
+
+#### [A systematic metallicity study of DustPedia galaxies reveals evolution in the dust-to-metal ratios](https://arxiv.org/abs/1901.09040)
+
+
+#### [The Occurrence of Compact Groups of Galaxies Through Cosmic Time](https://arxiv.org/abs/1901.09041)
+
+
+#### [Kinematics of Circumgalactic Gas: Feeding Galaxies and Feedback](https://arxiv.org/abs/1901.09123)
+
+
+#### [A machine learning approach for identifying the counterparts of submillimetre galaxies and applications to the GOODS-North field](https://arxiv.org/abs/1901.09594)
+
+
+#### [Halo mass estimates from the Globular Cluster populations of 175 Low Surface Brightness Galaxies in the Fornax Cluster](https://arxiv.org/abs/1901.09648)
+    - **Relevant, Important**
+
+
+#### [Halo mass estimates from the Globular Cluster populations of 175 Low Surface Brightness Galaxies in the Fornax Cluster](https://arxiv.org/abs/1901.09648)
+    * We use the full-sky ray-tracing weak lensing simulations to generate 2268 mock catalogs for the Subaru Hyper Suprime-Cam (HSC) survey first-year shear catalog in Mandelbaum et al. (2018)
+    * We then utilize our mock catalogs to evaluate statistical uncertainties expected in measurements of cosmic shear two-point correlations ξ± with tomographic redshift information for the HSC survey. First we develop a quasi-analytical formula for the Gaussian sample variance properly taking into account the number of source pairs in the survey footprints.
+    * The standard Gaussian formula significantly overestimates or underestimates the mock results by 50\% level.
+    * Secondly we show that different photo-z catalogs or the six disconnected fields, rather than a consecutive geometry for the same area, cause variations in the covariance by ~5\%.
