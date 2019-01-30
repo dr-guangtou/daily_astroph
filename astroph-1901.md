@@ -1155,3 +1155,56 @@
     * We then utilize our mock catalogs to evaluate statistical uncertainties expected in measurements of cosmic shear two-point correlations ξ± with tomographic redshift information for the HSC survey. First we develop a quasi-analytical formula for the Gaussian sample variance properly taking into account the number of source pairs in the survey footprints.
     * The standard Gaussian formula significantly overestimates or underestimates the mock results by 50\% level.
     * Secondly we show that different photo-z catalogs or the six disconnected fields, rather than a consecutive geometry for the same area, cause variations in the covariance by ~5\%.
+    
+----
+
+## Jan 29:
+
+
+#### [Strong FUV fields drive the [CII]/FIR deficit in z~3 dusty, star-forming galaxies](https://arxiv.org/abs/1901.10027)
+   * ALMA: the [CII] surface brightness distribution is dominated by a compact core ≤1 kpc in radius, a factor of 2-3 smaller than the extent of the CO(3-2) emission.
+   * In ALESS 49.1, we find an additional extended (8-kpc radius), low surface-brightness [CII] component. 
+   * Based on an analysis of mock ALMA observations, the [CII] and 160-um continuum surface brightness distributions are inconsistent with a single-Gaussian surface brightness distribution with the same size as the CO(3-2) emission
+   * Both galaxies exhibit a strong [CII]/FIR deficit on 1-kpc scales, with FIR-surface-brightness to [CII]/FIR slope steeper than in local star-forming galaxies
+   * The most direct interpretation of the pronounced [CII]/FIR deficit is a thermal saturation of the C+ fine-structure levels at temperatures ≥500 K, driven by the strong FUV field.
+   
+#### [Radio Sources in the Nearby Universe](https://arxiv.org/abs/1901.10046)
+   * We identified 15,658 NVSS radio sources among the 55,288 2MASX galaxies brighter than k20fe=12.25
+   * We used only radio and infrared data to quantitatively distinguish radio sources powered primarily by recent star formation from those powered by active galactic nuclei. 
+
+#### [Galaxy disc central surface brightness distribution in the optical and near-infrared bands](https://arxiv.org/abs/1901.10128)
+   * We select 708 disc-dominated galaxies within a fixed distance of 57 Mpc from SDSS DR7 and UKIDSS DR10
+   * Among the 8 bands, we find that μ0 distribution in optical bands can not be much better fitted with double Gaussian profiles. However, for all the near-infrared bands, the evidence of being better fitted by using double Gaussian profiles is positive. Especially for K band
+
+#### [A closer look at the deep radio sky: Multi-component radio sources at 3-GHz VLA-COSMOS](https://arxiv.org/abs/1901.10168)
+   * Multi-component radio sources identified in the VLA-COSMOS Large Project at 3 GHz
+
+
+#### [Simba: Cosmological Simulations with Black Hole Growth and Feedback](https://arxiv.org/abs/1901.10203)
+
+
+#### [On the Elevation and Suppression of Star Formation within Galaxies](https://arxiv.org/abs/1901.10276)
+
+
+#### [The kinematics of local thick discs do not support an accretion origin](https://arxiv.org/abs/1901.10294)
+
+
+#### [Radio-Infrared Correlation for Local Dusty Galaxies and Dusty AGNs from the AKARI All Sky Survey](https://arxiv.org/abs/1901.10410)
+   * We find that the Seyfert galaxies have the lowest FIR/radio flux ratios and display excess radio emission when compared to the SFGs. We conclude that FIRC can be used to separate SFGs and AGNs only for the most radio-loud objects.
+
+#### [The Stellar-to-Halo Mass Ratios of Passive and Star-Forming Galaxies at z~2-3 from the SMUVS survey](https://arxiv.org/abs/1901.10455)
+
+#### [Testing the Impact of Satellite Anisotropy on Large and Small Scale Intrinsic Alignments using Hydrodynamical Simulations](https://arxiv.org/abs/1901.09925)
+   * We seek to quantify the impact of a common modelling assumption in analytic descriptions of intrinsic alignments: that of spherically symmetric dark matter halos
+   * Our analysis is based on a catalogue of 113,560 galaxies between z=0.06−1.00 from MassiveBlack-II
+   * We find satellite anisotropy contributes at the level of ≥30−40% to the small scale alignment correlation functions
+   * Our results suggest that modelling alignments using a halo model based upon spherical symmetry could potentially induce cosmological parameter biases at the ∼1.5σ level for S8 and w
+
+#### [Testing the Impact of Satellite Anisotropy on Large and Small Scale Intrinsic Alignments using Hydrodynamical Simulations](https://arxiv.org/abs/1901.09925)
+   * We estimate magnification of type Ia supernovae in two distinct methods: one is based on convergence mass reconstruction under the weak lensing limit and the other is based on the direct measurement from galaxies distribution.
+   * For both measurements, we find no significant correlation between Hubble residual and magnification.
+
+
+
+
+   
