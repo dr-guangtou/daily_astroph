@@ -1205,6 +1205,52 @@
    * For both measurements, we find no significant correlation between Hubble residual and magnification.
 
 
+----
 
+## Jan 30:
+
+
+#### [The Fate of AGB Wind in Massive Galaxies and the ICM](https://arxiv.org/abs/1901.10481)
+    * 用模拟看大质量星系里面AGB星损失的尘埃和星系里的cold dusty filament的关系是什么
+    * AGB星的wind可能形成Mira那样的彗星状结构：We find that the cooling time of the tail is inversely proportional to the ambient pressure. 
+    * In the absence of cooling, or in low pressure environments (e.g., the outskirts of elliptical galaxies), AGB winds are quickly mixed into the hot gas, and all the AGB winds have similar appearance and head-to-tail ratio.
+    * In high pressure environments, such as the Local Bubble and the central regions of massive elliptical galaxies, some of the gas in the mixing layer between the stellar wind and the surrounding hot gas can cool efficiently and cause the tail to become longer.
+    * We speculate that instead of thermal instability, the induced condensation at the mixing layer of AGB winds may be the origin of cold filaments in massive galaxies and galaxy clusters.
+
+
+#### [Source structure and molecular gas properties from high-resolution CO imaging of SPT-selected dusty star-forming galaxies](https://arxiv.org/abs/1901.10482)
+    * ALMA High-J CO lines观测高红移透镜放大的DSFG; SPT发现的，能在kpc尺度上分辨开
+    * Three show clear velocity gradients, of which two are likely rotating disks.
+    * CO发射区比尘埃连续发射区要less concentrated
+    * 不同的线和连续谱的放大率不同：We apply Large Velocity Gradient (LVG) modeling using apparent and intrinsic line ratios between lower-J and high-J CO lines. Ignoring these magnification variations can bias the estimate of physical properties of interstellar medium of the galaxies.
 
    
+#### [Discovery of the First Low-Luminosity Quasar at z > 7](https://arxiv.org/abs/1901.10487)
+    * HSC发现的z=7.7的低光度QSO：This quasar, HSC J124353.93+010038.5, has an order of magnitude lower luminosity than do the other known quasars at z > 7. 
+    * Its spectrum in the optical to near-infrared shows strong emission lines, and shows evidence for a fast gas outflow, as the C IV line is blueshifted and there is indication of broad absorption lines
+    * MgII黑洞质量在3x10^8 Msun; Eddington ratio不是很高
+    * It is the first z > 7 quasar with sub-Eddington accretion
+
+
+#### [The build-up of pseudobulges in a hierarchical universe](https://arxiv.org/abs/1901.10490)
+    * SAM研究；仍然认为并和形成经典核球，盘演化形成伪核球
+    * Tracing their formation history, we find that pseudobulges assembled in galaxies with a very quiet merger history, as opposed to the host galaxies of classical bulges
+    * The classical component typically constitutes ∼10\% of the total bulge galaxy mass
+
+
+#### [Self-consistent population spectral synthesis with FADO - I. The importance of nebular emission in modelling star-forming galaxies](https://arxiv.org/abs/1901.10776)
+    * With the advent of FADO, the now possible self-consistent modelling of stellar and NE opens new routes to the exploration of galaxy SFHs. 
+    * Our analysis indicates that FADO can recover the key physical and evolutionary properties of galaxies, such as M⋆ and mass- and light-weighted mean age and metallicity, with an accuracy better than 0.2 dex. This is the case even in phases of strongly elevated sSFR and thus with considerable NE contamination. 
+    * The insights from this study suggest that the neglect of nebular continuum emission in STARLIGHT and similar purely stellar PS codes could systematically impact M⋆ and SFH estimates for star-forming galaxies.
+
+
+#### [The nature of damped HI absorbers probed by cosmological simulations: satellite accretion and outflows](https://arxiv.org/abs/1901.10777)
+    - **Interesting**
+    * 用模拟看星系周围的IGM和吸收气体结构: Our simulations match all observational data, with DLA and sub-DLA LOS existing over the entire probed parameter space (−4≲[M/H]≲0.5, b<50 kpc) at all redshifts (z∼0.4−3.0).
+    * We demonstrate how the existence of DLA LOS at b≳20−30 kpc from a massive host galaxy require high numerical resolution, and that these LOS are associated with dwarf satellites in the main halo, stripped metal-rich gas and outflows.
+    * On whether sub-DLA and DLA LOS sample different stellar-mass galaxies, such a correlation can be driven by a differential covering-fraction of sub-DLA to DLA LOS with stellar mass. This preferentially selects sub-DLA LOS in more massive galaxies in the low-z universe.
+
+#### [Active Galactic Nuclei and their Large-scale Structure: an eROSITA mock catalogue](https://arxiv.org/abs/1901.10866)
+    * Present a methodology to construct mock catalogues for X-ray selected AGN samples based on dark matter only N-body simulations.
+    * We create a model that reproduces the observed hard X-ray AGN luminosity function (XLF) and the soft X-ray logN-logS from redshift 0 to 6
+    * Using empirical medium resolution optical spectral templates and an exposure time calculator, we find that 1.2×106 (1.1×106) fiber-hours are needed to follow-up spectroscopically from the ground all of the detected X-ray AGN with a 4-m (8-m) class multi-object spectroscopic facility.
