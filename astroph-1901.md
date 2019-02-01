@@ -1092,7 +1092,7 @@
 #### [The cosmic spectral energy distribution in the EAGLE simulation](https://arxiv.org/abs/1901.08878)
     * We compare the observed CSED from the UV to the submm to that computed from the EAGLE cosmological hydrodynamical simulation
     * 用SKIRT做的尘埃辐射转移的post-process
-    * z~0处：At UV wavelengths where the EAGLE model over- estimates the observed CSED by up to a factor 2
+    * z~0处：At UV wavelengths where the EAGLE model over-estimates the observed CSED by up to a factor 2
     * At higher redshift, EAGLE increasingly underestimates the CSED at optical-NIR wavelengths with the FIR/submm emissivity underestimated by more than a factor of 5 by redshift z = 1
 
 
@@ -1254,3 +1254,88 @@
     * Present a methodology to construct mock catalogues for X-ray selected AGN samples based on dark matter only N-body simulations.
     * We create a model that reproduces the observed hard X-ray AGN luminosity function (XLF) and the soft X-ray logN-logS from redshift 0 to 6
     * Using empirical medium resolution optical spectral templates and an exposure time calculator, we find that 1.2×106 (1.1×106) fiber-hours are needed to follow-up spectroscopically from the ground all of the detected X-ray AGN with a 4-m (8-m) class multi-object spectroscopic facility.
+
+
+----
+
+## Jan 31:
+
+
+#### [AGN jet feedback on a moving mesh: lobe energetics and X-ray properties in a realistic cluster environment](https://arxiv.org/abs/1901.11030)
+    * We present simulations of very high-resolution AGN-driven jets launching in a live, cosmological galaxy cluster, within the moving mesh-code Arepo.
+    * As the jet propagates through the ICM the majority of its energy, which is initially in the kinetic form, thermalises quickly through internal shocks and inflates lobes of very hot gas. The jets effectively heat the cluster core, with PdV work and mixing being the main channels of energy transfer from the lobes to the ICM, while turbulence and strong shocks are sub-dominant.
+    * We find bulk motions in the cluster can significantly affect lobe propagation, offsetting them from the jet direction and imparting bulk velocities that can dominate over the buoyantly-rising motion.
+
+
+#### [Black hole scaling relations of active and quiescent galaxies: Addressing selection effects and constraining virial factors](https://arxiv.org/abs/1901.11036)
+    * Local samples of quiescent galaxies with dynamically measured black hole masses (Mbh) may suffer from an angular resolution-related selection effect, which could bias the observed scaling relations
+    * 活动的AGN样本没有这个bias：With the exception of megamasers, Mbh-estimates in these AGN samples are proportional to a virial coefficient fvir. Direct modelling of the broad line region suggests that fvir~3.5.
+    * fvir~3.5 yields Mbh-sigma and Mbh-Mstar relations for AGN which are remarkably consistent with the expected `intrinsic' correlations for quiescent samples
+    * 基本就是在说Mbh-sigma关系是更基本的关系; 但是这里的Mstar是星系整体的质量而不是核球的质量。。。
+
+
+#### [Probing Galactic Halos with Fast Radio Bursts](https://arxiv.org/abs/1901.11051)
+    - **Interesting**
+    * 用FRB的DM研究星系气体：Combining constraints from observations of the high velocity clouds, OVII absorption, and the DM to the Large Magellanic Cloud with hydrostatic models of halo gas, we estimate that our Galactic halo will contribute DMMW,halo≈50−80pc/cm−3 from the Sun to 200 kpc independent of any contribution from the Galactic ISM.
+    * We further examine the DM probability distribution function of a population of FRBs at z >> 0 using an updated halo mass function and new models for the halo density profile.
+
+
+#### [The First Galaxy Cluster Discovered by the VISTA Variables in the Vía Láctea Survey](https://arxiv.org/abs/1901.11097)
+    * 基本就是银河系背后的星系团的发现
+    * Assuming a typical galaxy cluster with low X-ray luminosity, the photometric redshift of the brightest galaxy is z= 0.196 ± 0.025. Follow-up near-IR spectroscopy with FLAMINGOS-2 at the Gemini-South telescope revealed that the two brighter cluster galaxies have typical spectra of early-type galaxies and the estimated redshift for the brightest galaxy VVV-J144321.06-611753.9 is z= 0.234±0.022 and for VVV-J144319.02-611746.1 is z= 0.232±0.019
+
+
+#### [Physical conditions in Centaurus A's northern filaments I: APEX mid-J CO observations of CO-bright regions](https://arxiv.org/abs/1901.11148)
+    * Optical filaments located at 16 kpc from the galaxy along the radio jet direction show recent star formation, likely triggered by the interaction of the jet with an HI shell.
+    * In this reservoir, lies the Horseshoe complex: a filamentary structure seen in CO with ALMA and in Halpha with MUSE. The ionised gas is mostly excited by shocks, with only a minor contribution of star formation
+    * We used the non-LTE radiative transfer code RADEX and determined that the molecular gas in this region has a temperature of 55-70 K and densities between 2-6x10^2 cm^-3. Such densities are also in agreement with results from the Paris-Durham shock code that predicts a post-shock density
+
+
+#### [New Constraints on Models for Circumgalactic Gas Inflow: How Do Galaxies Get Their Gas at Low Redshift?](https://arxiv.org/abs/1901.11182)
+    * 在颜色梯度符合inside-out生长的恒星形成星系里限制gas inflow速度
+    * This degeneracy regarding the 3D orientation of disks has compromised previous efforts to measure gas inflow speeds. We present HST and Keck/LGSAO imaging that resolves spiral structure in redshift z≈0.2 galaxies. We then determine the sign of the disk inclination, under the assumption that the spiral arms trail the rotation 
+    * We find maximum radial inflow speeds of 30-40 km s−1 in two sightlines. We also rule out a velocity component from radial inflow in one sightline, suggesting that the structures feeding gas to these disks do not have unity covering factor
+    
+
+#### [New Constraints on Models for Circumgalactic Gas Inflow: How Do Galaxies Get Their Gas at Low Redshift?](https://arxiv.org/abs/1901.11182)
+    * The radial variations in SFE for individual galaxies are typically a factor of 2 -- 3, which suggests that SFE is nearly constant along galactocentric radius; SFE定义成单位分子气体质量的SFR
+    * 棒旋星系的SFE可能略高？ We compared SFE among different morphological (i.e., SA, SAB, and SB) types, and found that SFE within the inner radii (r/r25<0.3, where r25 is B-band isophotal radius at 25 mag arcsec−2) of SB galaxies is slightly higher than that of SA and SAB galaxies.
+
+
+#### [GMRT observations of extragalactic radio sources with steeply inverted spectra](https://arxiv.org/abs/1901.11217)
+    * 同时多频段观测的，定continuum shape
+    * We had previously identified these sources as candidates for a sharply inverted integrated radio spectrum whose slope is close to, or even exceeds αc = +2.5, the theoretical limit due to synchrotron self-absorption (SSA) in a source of incoherent synchrotron radiation arising from relativistic particles with the canonical (i.e., power-law) energy distribution
+    * These sources, together with another one or two reported in very recent literature, may well be the archetypes of an extremely rare class, from the standpoint of violation of the SSA limit in compact extragalactic radio sources. However, the alternative possibility that free-free absorption is responsible for their ultra-sharp spectral turnover cannot yet be discounted.
+
+
+#### [The 1.4 GHz Cosmic Star Formation History at z < 1.3](https://arxiv.org/abs/1901.11222)
+    * using a sample of 918 radio-selected star forming galaxies within the 2 square degree COSMOS field.
+    * We find radio measurements of the cosmic star formation history are highly dependent on sample completeness and models used to extrapolate the faint end of the radio luminosity function
+
+
+#### [Enhancement of HI absorption associated with the z=3.1 large-scale proto-cluster and characteristic structures with AGNs sculptured over Gpc scale in the SSA22 field](https://arxiv.org/abs/1901.11242)
+
+
+#### [The UV slope of z∼3 bright (L>L∗) Lyman break galaxies in the COSMOS field](https://arxiv.org/abs/1901.11302)
+
+
+#### [Simulating the atomic and molecular content of molecular clouds using probability distributions of physical parameters](https://arxiv.org/abs/1901.11302)
+
+
+#### [Calibrating star-formation rate prescriptions at different scales (10 pc to 1 kpc) in M31](https://arxiv.org/abs/1901.11321)
+
+
+#### [Intensive Monitoring Survey of Nearby Galaxies (IMSNG)](https://arxiv.org/abs/1901.11353)
+
+
+#### [MusE GAs FLOw and Wind (MEGAFLOW) II. A study of gas accretion around z≈1 star-forming galaxies with background quasars](https://arxiv.org/abs/1901.11353)
+
+
+#### [Probing dark matter structure down to 107 solar masses: flux ratio statistics in gravitational lenses with line of sight halos](https://arxiv.org/abs/1901.11031)
+
+
+#### [Inferences on the Timeline of Reionization at z~8 From the KMOS Lens-Amplified Spectroscopic Survey](https://arxiv.org/abs/1901.11045)
+
+
+#### [LoCuSS: Scaling relations between galaxy cluster mass, gas, and stellar content](https://arxiv.org/abs/1901.11276)
+
