@@ -149,3 +149,34 @@
 
 
 #### [Satellite dwarf Galaxies: Stripped but not quenched](https://arxiv.org/abs/1902.02340)
+
+
+----
+
+## Feb 7:
+
+#### [A diversity of starburst-triggering mechanisms in interacting galaxies and their signatures in CO emission](https://arxiv.org/abs/1902.02353)
+
+
+#### [Studying galaxy evolution through cosmic time via the μJy radio population: early results from eMERGE](https://arxiv.org/abs/1902.02356)
+
+
+#### [The Next Generation Fornax Survey (NGFS): V. Discovery of a dwarf-dwarf galaxy pair at z=0.30 and its characterization using deep VLT/MUSE observations](https://arxiv.org/abs/1902.02360)
+
+
+#### [A Near Infrared View of Nearby Galaxies: The Case of NGC 6300](https://arxiv.org/abs/1902.02373)
+
+
+#### [Testing the Evolutionary Link between Type 1 and Type 2 Quasars with Measurements of the Interstellar Medium](https://arxiv.org/abs/1902.02377)
+
+
+#### [Prediction of galaxy halo masses in SDSS DR7 via a machine learning approach](https://arxiv.org/abs/1902.02680)
+
+
+#### [Evolution of the Stellar Mass Function and Infrared Luminosity Function of Galaxies since z=1.2](https://arxiv.org/abs/1902.02779)
+
+
+#### [The Pristine Dwarf-Galaxy survey - II. In-depth observational study of the faint Milky Way satellite Sagittarius II](https://arxiv.org/abs/1902.02780)
+
+
+#### [Stellar Formation Rates for photometric samples of galaxies using machine learning methods](https://arxiv.org/abs/1902.02522)
