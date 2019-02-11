@@ -180,3 +180,78 @@
 
 
 #### [Stellar Formation Rates for photometric samples of galaxies using machine learning methods](https://arxiv.org/abs/1902.02522)
+
+
+----
+
+## Feb 6:
+
+#### [The mean Hα EW and Lyman-continuum photon production efficiency for faint z≈4−5 galaxies](https://arxiv.org/abs/1902.02786)
+    * Lyman-continuum photon production efficiency ξion,0 at z∼4-5 for galaxies fainter than 0.2 L∗ (−19 mag)
+    * Extending previous measurements of ξion,0 to the faint population is important, as ultra-faint galaxies are expected to contribute the bulk of the ionizing emissivity
+    * We probe ξion,0 to such faint magnitudes by taking advantage of 200-hour depth Spitzer/IRAC observations from the GREATS program and ≈300 3<z<6 galaxies with spectroscopic redshifts from the MUSE GTO Deep + Wide programs.
+    * ξion shows no strong dependence on MUV. The ξion,0 values found in our sample imply that the Lyman-continuum escape fraction for MUV≈−19 star-forming galaxies cannot exceed ≈8-20\% in the reionization era.
+
+
+#### [Does AGN Fraction Depend on Redshift or Luminosity? An Extinction-Free Test by 18-band Mid-infrared SED Fitting in the AKARI NEP Wide Field](https://arxiv.org/abs/1902.02800)
+    * Our AKARI North Ecliptic Pole (NEP) wide field sample has 18 filters in mid-IR (9 from AKARI, 4 from WISE, and 5 from Spitzer), for the first time, allowing a sophisticated mid-IR SED fitting diagnosis for a statistical number of sources (89178 over 5.4 deg2) 
+    * We found that the AGN fraction (FAGN) shows no sign of strong redshift evolution. Instead, FAGN increases with increasing IR luminosity in all redshifts bins (0<z<2).
+
+
+#### [Infrared luminosity functions based on 18 mid-infrared bands: revealing cosmic star formation history with AKARI and Hyper Suprime-Cam](https://arxiv.org/abs/1902.02801)
+    - **Useful**; HSC在AKARI NEP field有深场数据
+    * Using the new Hyper Suprime-Cam on Subaru telescope, we obtained deep enough optical images of the entire AKARI NEP field in 5 broad bands (g∼27.5mag).
+    * We have measured restframe 8μm, 12μm luminosity functions (LFs), and estimated total infrared LFs at 0.35<z<2.2. Our results are consistent with our previous work, but with much reduced statistical errors thanks to the large area coverage of the new data. We have possibly witnessed the turnover of CSFH at z∼2.
+
+
+#### [Kiloparsec-scale Variations in the Star Formation Efficiency of Dense Gas: the Antennae Galaxies (NGC 4038/39)](https://arxiv.org/abs/1902.02809)
+    * 校准了一个有空间分辨的LIR和HCN的关系
+    * We study the relationship between dense gas and star formation in the Antennae galaxies by comparing ALMA observations of dense gas tracers (HCN, HCO+, and HNC J=1−0) to the total infrared luminosity (LTIR)
+    * The Antennae extends the linear LTIR−LHCN relationship found in previous studies. The LTIR−LHCN ratio varies by up to a factor of ∼10 across different regions of the Antennae implying variations in the star formation efficiency of dense gas, with the nuclei, NGC 4038 and NGC 4039, showing the lowest SFEdense (0.44 and 0.70 ×10−8 yr−1). The nuclei also exhibit the highest dense gas fractions (∼9.1% and ∼7.9%).
+
+
+#### [Quenching low-mass satellite galaxies: evidence for a threshold ICM density](https://arxiv.org/abs/1902.02820)
+    - **Interesting, Relevant**
+    * We study the quenched fractions of satellite galaxies as a function of ICM density for low- (10^9≲M⋆≲10^10M⊙), intermediate- (10^10≲M⋆≲10^10.5M⊙), and high-mass (M⋆≳10^10.5M⊙) satellite galaxies with >3000 satellite galaxies across 24 low-redshift (z<0.1) clusters 
+    * For low-mass galaxies we find evidence for a broken powerlaw trend between satellite quenched fraction and local ICM density. 似乎有一个临界点密度，在这个ICM密度以上，卫星星系迅速quenched掉
+    * We show that this increase in quenched fraction at high ICM density is well matched by a simple, analytic model of ram pressure stripping. 
+
+
+#### [The Extremely High Dark Matter Halo Concentration of the Relic Compact Elliptical Galaxy Mrk 1216](https://arxiv.org/abs/1902.02938)
+    - **Interesting, Relevant**
+    * we use a new ≈122 ks Chandra observation together with a shallow ≈13 ks archival observation of the CEG Mrk 1216 to perform a hydrostatic equilibrium analysis of the luminous and relaxed X-ray plasma emission extending out to a radius 0.85r2500. 
+    * We examine several DM model profiles and in every case obtain a halo concentration (c200) that is a large positive outlier in the theoretical ΛCDM c200−M200 relation
+    * The high value of c200 we measure implies an unusually early formation time that firmly establishes the relic nature of the DM halo in Mrk 1216.
+    * Mrk 1216 contains ≈80% of the cosmic baryon fraction within r200. The radial profile of the ratio of cooling time to free-fall time varies within a narrow range (tc/tff≈14−19) over a large central region (r≤10 kpc) suggesting "precipitation-regulated AGN feedback" for a multiphase plasma,
+
+
+#### [Star formation in far-IR AGN and non-AGN galaxies in the green valley. II. Morphological analysis](https://arxiv.org/abs/1902.02969)
+    * Morphological properties of 103 green valley FIR active and 2609 non-active galaxies presented in Mahoro et al. 2017.
+    * We found that the fraction of peculiar galaxies with clear signs of interactions and mergers is significantly higher in AGN (38%) than non-AGN (19%) green valley galaxies, while non-AGN galaxies from our sample are predominantly spirals (46%).
+    * We found that the largest fraction of our green valley galaxies is located on the main-sequence (MS) of star formation
+
+
+#### [Conditions for Reionizing the Universe with A Low Galaxy Ionizing Photon Escape Fraction](https://arxiv.org/abs/1902.02792)
+    * We combine simulation-based halo-mass dependent escape fractions with an extrapolation of the observed galaxy rest-ultraviolet luminosity functions to solve for the reionization history from z=20 to z=4 
+    * Our fiducial model can match observational constraints with an average escape fraction of <5% throughout the bulk of the epoch of reionization if:    
+        - i) galaxies form stars down to the atomic cooling limit before reionization and a photosuppression mass of log(M_h/Msol)~9 during/after reionization (-13<M_UV,lim<-11); 
+        - ii) galaxies become more efficient producers of ionizing photons at higher redshifts and fainter magnitudes
+        - iii) there is a significant, but sub-dominant, contribution by AGN at z < 7.
+    * In this model the faintest galaxies (M_UV>-15) dominate the ionizing emissivity, leading to an earlier start to reionization and a smoother evolution of the ionized volume filling fraction than models which assume a single escape fraction at all redshifts and luminosities.
+
+
+#### [Impact of inhomogeneous reionization on the Lyman-α forest](https://arxiv.org/abs/1902.02892)
+    * The Lyman-α forest at high redshifts is a powerful probe of reionization. Modeling and observing this imprint comes with significant technical challenges: the memory fades away swiftly, hence one must focus on high redshifts  
+    * In addition, inhomogeneous reionization must be taken into account while simultaneously being able to resolve the web-like small-scale structure, which has gone fully non-linear prior to reionization. 
+    * 用模拟研究：We find that inhomogeneous reionization could produce a measurable effect on the Lyman-α forest power spectrum
+
+
+#### [Role of intracluster supernovae in radio mini-halos in galaxy clusters](https://arxiv.org/abs/1902.02994)
+    - **Interesting**
+    * A possibility of generating a population of cosmic-ray particles accelerated in supernovae typeIa (SNIa) remnants in the intracluster medium (ICM) is discussed. The presently constrained host-less SNIa rates in the clusters are found to be sufficient to fill a few hundred kpc region with cosmic-ray electrons within their typical synchrotron life-time of 100 Myr. 
+    * A good fraction of total radio power from mini-halos can be sourced from the SNIa energy deposited in the ICM with required energy conversion efficiency <1 per cent. The radio power estimated from low Mach number shock acceleration in SNIa remnants is consistent with the observations within the uncertainties in the estimates.
+
+
+#### [Impact of photometric redshifts on the galaxy power spectrum and BAO scale in the LSST survey](https://arxiv.org/abs/1902.03004)
+    * We evaluate the efficiency of our photometric redshift reconstruction on mock galaxy catalogs up to z=2.45 and estimate the impact of realistic photometric redshift (hereafter photo-z) reconstruction on the large-scale structures (LSS) power spectrum and the baryonic acoustic oscillation (BAO) scale determination for a LSST-like photometric survey. 
+    * We have computed the fractional error on the recovered power spectrum which is dominated by the shot-noise at z>1 for scales k>0.1, due to the photo-z damping. The BAO scale can be recovered with a percent or better accuracy level from z = 0.5 to z = 1.5 using realistic photo-z reconstruction
