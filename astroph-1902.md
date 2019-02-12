@@ -41,7 +41,7 @@
 
 #### [Diffuse polarized emission in the LOFAR Two-meter Sky Survey](https://arxiv.org/abs/1902.00531)
     * 用Faraday tomography方法刻画银河系的弥散偏振同步加速辐射：Faraday depth cube mosaic covering 568 square degrees at high Galactic latitudes
-    * We observed many new polarization features, some up to 15 degrees in length. These include two regions with very uniformly structured, linear gradients in the Faraday depth 
+    * We observed many new polarization features, some up to 15 degrees in length. These include two regions with very uniformly structured, linear gradients in the Faraday depth
     * We also observed a relationship between one of the gradients and an HI filament in the local ISM. Other ISM tracers were also checked for correlations with our polarization data and none were found, but very little signal was seen in most tracers in this region
 
 
@@ -62,7 +62,7 @@
     * The dynamics is dominated by the stellar component, whose distribution is irregular and patchy, thus inducing stochasticity in the orbits: the black hole may be anywhere in the proto-galaxy.
 
 #### [Hunting for Galaxies and Halos in simulations with VELOCIraptor](https://arxiv.org/abs/1902.01010)
-    * A massively parallel galaxy/(sub)halo finder that is also capable of robustly identifying tidally disrupted objects and separate stellar halos from galaxies 
+    * A massively parallel galaxy/(sub)halo finder that is also capable of robustly identifying tidally disrupted objects and separate stellar halos from galaxies
     * It can identify subhalos deep within the host that have negligible density contrasts to their parent halo.
     * We find a subhalo mass-radial distance dependence: large subhalos with mass ratios of ≳10−2 are more common in the central regions that smaller subhalos, a result of dynamical friction and low tidal mass loss rates. 其他的halo finder找不到这个关系
 
@@ -123,7 +123,7 @@
     - **Interesting, Relevant**
     * We present a sample of low-redshift (z < 0.133) candidates for extremely low-metallicity star-forming galaxies with oxygen abun- dances 12 + logO/H < 7.4 selected from the Data Release 14 (DR14)
     * 发展了一个专门估计贫金属星系气体丰度的强线判据
-    * In total, our list of selected candidates for extremely low-metallicity galaxies includes 66 objects. 
+    * In total, our list of selected candidates for extremely low-metallicity galaxies includes 66 objects.
 
 
 #### [Environmental effects on halo abundance and weak lensing peak statistics toward large underdense regions](https://arxiv.org/abs/1902.01503)
@@ -194,7 +194,7 @@
 
 
 #### [Does AGN Fraction Depend on Redshift or Luminosity? An Extinction-Free Test by 18-band Mid-infrared SED Fitting in the AKARI NEP Wide Field](https://arxiv.org/abs/1902.02800)
-    * Our AKARI North Ecliptic Pole (NEP) wide field sample has 18 filters in mid-IR (9 from AKARI, 4 from WISE, and 5 from Spitzer), for the first time, allowing a sophisticated mid-IR SED fitting diagnosis for a statistical number of sources (89178 over 5.4 deg2) 
+    * Our AKARI North Ecliptic Pole (NEP) wide field sample has 18 filters in mid-IR (9 from AKARI, 4 from WISE, and 5 from Spitzer), for the first time, allowing a sophisticated mid-IR SED fitting diagnosis for a statistical number of sources (89178 over 5.4 deg2)
     * We found that the AGN fraction (FAGN) shows no sign of strong redshift evolution. Instead, FAGN increases with increasing IR luminosity in all redshifts bins (0<z<2).
 
 
@@ -212,14 +212,14 @@
 
 #### [Quenching low-mass satellite galaxies: evidence for a threshold ICM density](https://arxiv.org/abs/1902.02820)
     - **Interesting, Relevant**
-    * We study the quenched fractions of satellite galaxies as a function of ICM density for low- (10^9≲M⋆≲10^10M⊙), intermediate- (10^10≲M⋆≲10^10.5M⊙), and high-mass (M⋆≳10^10.5M⊙) satellite galaxies with >3000 satellite galaxies across 24 low-redshift (z<0.1) clusters 
+    * We study the quenched fractions of satellite galaxies as a function of ICM density for low- (10^9≲M⋆≲10^10M⊙), intermediate- (10^10≲M⋆≲10^10.5M⊙), and high-mass (M⋆≳10^10.5M⊙) satellite galaxies with >3000 satellite galaxies across 24 low-redshift (z<0.1) clusters
     * For low-mass galaxies we find evidence for a broken powerlaw trend between satellite quenched fraction and local ICM density. 似乎有一个临界点密度，在这个ICM密度以上，卫星星系迅速quenched掉
-    * We show that this increase in quenched fraction at high ICM density is well matched by a simple, analytic model of ram pressure stripping. 
+    * We show that this increase in quenched fraction at high ICM density is well matched by a simple, analytic model of ram pressure stripping.
 
 
 #### [The Extremely High Dark Matter Halo Concentration of the Relic Compact Elliptical Galaxy Mrk 1216](https://arxiv.org/abs/1902.02938)
     - **Interesting, Relevant**
-    * we use a new ≈122 ks Chandra observation together with a shallow ≈13 ks archival observation of the CEG Mrk 1216 to perform a hydrostatic equilibrium analysis of the luminous and relaxed X-ray plasma emission extending out to a radius 0.85r2500. 
+    * we use a new ≈122 ks Chandra observation together with a shallow ≈13 ks archival observation of the CEG Mrk 1216 to perform a hydrostatic equilibrium analysis of the luminous and relaxed X-ray plasma emission extending out to a radius 0.85r2500.
     * We examine several DM model profiles and in every case obtain a halo concentration (c200) that is a large positive outlier in the theoretical ΛCDM c200−M200 relation
     * The high value of c200 we measure implies an unusually early formation time that firmly establishes the relic nature of the DM halo in Mrk 1216.
     * Mrk 1216 contains ≈80% of the cosmic baryon fraction within r200. The radial profile of the ratio of cooling time to free-fall time varies within a narrow range (tc/tff≈14−19) over a large central region (r≤10 kpc) suggesting "precipitation-regulated AGN feedback" for a multiphase plasma,
@@ -232,26 +232,117 @@
 
 
 #### [Conditions for Reionizing the Universe with A Low Galaxy Ionizing Photon Escape Fraction](https://arxiv.org/abs/1902.02792)
-    * We combine simulation-based halo-mass dependent escape fractions with an extrapolation of the observed galaxy rest-ultraviolet luminosity functions to solve for the reionization history from z=20 to z=4 
-    * Our fiducial model can match observational constraints with an average escape fraction of <5% throughout the bulk of the epoch of reionization if:    
-        - i) galaxies form stars down to the atomic cooling limit before reionization and a photosuppression mass of log(M_h/Msol)~9 during/after reionization (-13<M_UV,lim<-11); 
+    * We combine simulation-based halo-mass dependent escape fractions with an extrapolation of the observed galaxy rest-ultraviolet luminosity functions to solve for the reionization history from z=20 to z=4
+    * Our fiducial model can match observational constraints with an average escape fraction of <5% throughout the bulk of the epoch of reionization if:
+        - i) galaxies form stars down to the atomic cooling limit before reionization and a photosuppression mass of log(M_h/Msol)~9 during/after reionization (-13<M_UV,lim<-11);
         - ii) galaxies become more efficient producers of ionizing photons at higher redshifts and fainter magnitudes
         - iii) there is a significant, but sub-dominant, contribution by AGN at z < 7.
     * In this model the faintest galaxies (M_UV>-15) dominate the ionizing emissivity, leading to an earlier start to reionization and a smoother evolution of the ionized volume filling fraction than models which assume a single escape fraction at all redshifts and luminosities.
 
 
 #### [Impact of inhomogeneous reionization on the Lyman-α forest](https://arxiv.org/abs/1902.02892)
-    * The Lyman-α forest at high redshifts is a powerful probe of reionization. Modeling and observing this imprint comes with significant technical challenges: the memory fades away swiftly, hence one must focus on high redshifts  
-    * In addition, inhomogeneous reionization must be taken into account while simultaneously being able to resolve the web-like small-scale structure, which has gone fully non-linear prior to reionization. 
+    * The Lyman-α forest at high redshifts is a powerful probe of reionization. Modeling and observing this imprint comes with significant technical challenges: the memory fades away swiftly, hence one must focus on high redshifts
+    * In addition, inhomogeneous reionization must be taken into account while simultaneously being able to resolve the web-like small-scale structure, which has gone fully non-linear prior to reionization.
     * 用模拟研究：We find that inhomogeneous reionization could produce a measurable effect on the Lyman-α forest power spectrum
 
 
 #### [Role of intracluster supernovae in radio mini-halos in galaxy clusters](https://arxiv.org/abs/1902.02994)
     - **Interesting**
-    * A possibility of generating a population of cosmic-ray particles accelerated in supernovae typeIa (SNIa) remnants in the intracluster medium (ICM) is discussed. The presently constrained host-less SNIa rates in the clusters are found to be sufficient to fill a few hundred kpc region with cosmic-ray electrons within their typical synchrotron life-time of 100 Myr. 
+    * A possibility of generating a population of cosmic-ray particles accelerated in supernovae typeIa (SNIa) remnants in the intracluster medium (ICM) is discussed. The presently constrained host-less SNIa rates in the clusters are found to be sufficient to fill a few hundred kpc region with cosmic-ray electrons within their typical synchrotron life-time of 100 Myr.
     * A good fraction of total radio power from mini-halos can be sourced from the SNIa energy deposited in the ICM with required energy conversion efficiency <1 per cent. The radio power estimated from low Mach number shock acceleration in SNIa remnants is consistent with the observations within the uncertainties in the estimates.
 
 
 #### [Impact of photometric redshifts on the galaxy power spectrum and BAO scale in the LSST survey](https://arxiv.org/abs/1902.03004)
-    * We evaluate the efficiency of our photometric redshift reconstruction on mock galaxy catalogs up to z=2.45 and estimate the impact of realistic photometric redshift (hereafter photo-z) reconstruction on the large-scale structures (LSS) power spectrum and the baryonic acoustic oscillation (BAO) scale determination for a LSST-like photometric survey. 
+    * We evaluate the efficiency of our photometric redshift reconstruction on mock galaxy catalogs up to z=2.45 and estimate the impact of realistic photometric redshift (hereafter photo-z) reconstruction on the large-scale structures (LSS) power spectrum and the baryonic acoustic oscillation (BAO) scale determination for a LSST-like photometric survey.
     * We have computed the fractional error on the recovered power spectrum which is dominated by the shot-noise at z>1 for scales k>0.1, due to the photo-z damping. The BAO scale can be recovered with a percent or better accuracy level from z = 0.5 to z = 1.5 using realistic photo-z reconstruction
+
+----
+
+## Feb 11:
+
+#### [Multi-wavelength properties of Type 1 and Type 2 AGN Host Galaxies in the Chandra-COSMOS Legacy Survey](https://arxiv.org/abs/1902.03244)
+    * 3701 X-ray-selected active galactic nuclei (AGNs) out to z~5 in the Chandra-COSMOS Legacy Survey
+    * Type 1 and Type 2 AGNs follow the same intrinsic Lx-L6um relation, suggesting that mid-infrared emission is a reasonably good measure of the AGN accretion power regardless of obscuration
+    * We find that there is a strong increase in Type 1 AGN fraction toward higher AGN luminosity, possibly due to the fact that Type 1 AGNs tend to be hosted by more massive galaxies
+    * AGN host galaxies tend to have SFRs that are consistent with normal star-forming galaxies, independent of AGN luminosities. We confirm that black hole accretion rate and SFR are correlated up to z ∼ 5, when forming stars.
+
+
+#### [Chandra Detection of Intra-cluster X-ray Sources in Fornax](https://arxiv.org/abs/1902.03733)
+    * We detect 1177 point sources out to a projected radius of ∼30 arcmin (∼180 kpc) from the cluster center 
+    * From this profile we statistically identify ∼183 excess sources that are not associated with the bulk stellar content of the individual member galaxies of Fornax, nor with the cosmic X-ray background.
+    * We show that a large fraction of the excess can be related to the extended stellar halo of NGC1399 and/or the diffuse intra-cluster light, thus providing strong evidence for the presence of intra-cluster X-ray sources in Fornax
+
+
+#### [Outlying Hα emitters in SDSS IV MaNGA](https://arxiv.org/abs/1902.03754)
+    * 有点像之前Lihwai Lin找到的那个例子：We have discovered six outlying Hα emitters with no bright underlying optical continuum emission in DECaLS, MzLS and BASS.
+    * They also show a ve- locity field which is different from that of the host galaxy. These outlying Hα emitters all have extended structure in the Hα image.
+    * Their emission line ratios show that they are photoionised due to an active galactic nucleus (AGN) or a mixture of both an AGN and star formation
+
+
+#### [Recovering stellar population parameters via different population models and stellar libraries](https://arxiv.org/abs/1902.03759)
+    - **Relevant**
+    * Based on these setups, we select five SSP libraries generated with the Galaxev/STELIB and Vazdekis/MILES models, and apply them to the pPXF full-spectrum fitting of both MaNGA and mock spectra.
+    * 1) Compared to the Galaxev/STELIB model, spectral fitting qualities with the Vazdekis/MILES model have significant improvements for those metal-rich (especially over-solar) spectra
+    * 2) When applying the Vazdekis/MILES model for spectral fitting, the IMF variation will lead to not only a systematic offset in M∗/Lr, but also offsets in age and metal- licity, and these offsets increase with increasing stellar population ages
+    * 3) The Padova2000 model provides a better match to the MaNGA galaxy spectra at [M/H]L < −1.0, while the BaSTI model match the local galaxy spectra better at [M/H]L > −1.0.
+
+
+#### [SDSS IV MaNGA: Full spectroscopic bulge-disc decomposition of MaNGA early-type galaxies](https://arxiv.org/abs/1902.03792)
+    - **Relevant**
+    * Bulges tend to be consistently more metal rich than their disc counterparts, and while the ages of both components are comparable, there is an interesting tail of younger, more metal poor discs
+    * Bulges and discs follow their own distinct kinematic relationships, both on the plane of the stellar spin parameter, λR, and ellipticity, ε, and in the relation between stellar mass, M∗, and specific angular momentum, j∗
+
+
+#### [A Uniformly Selected, All-Sky, Optical AGN Catalog](https://arxiv.org/abs/1902.03799)
+    * We have constructed an all-sky catalog of optical AGNs with z<0.09, based on optical spectroscopy, from the parent sample of galaxies in the 2MASS Redshift Survey (2MRS), a near-complete census of the nearby universe
+    * Our catalog consists of 1929 broad line AGNs, and 6562 narrow line AGNs which satisfy the \citet{Kauffmann03} criteria, of which 3607 also satisfy the \citet{Kewley01} criteria
+
+
+#### [The MBHBM* Project -- I: Measurement of the Central Black Hole Mass in Dwarf Galaxy NGC 3504 Using Molecular Gas Kinematics](https://arxiv.org/abs/1902.03813)
+    * We present the first measurement of the mass of a supermassive black hole (SMBH) in the nearby double-barred spiral galaxy NGC 3504 用ALMA CO数据
+    * 用核周气体盘运动学建模估算SMBH质量：This black hole (BH) mass is consistent with BH--galaxy scaling relations.
+    * We also detect a central deficiency in the 12CO(2−1) integrated intensity map with a diameter of 2.7 pc at the putative position of the SMBH. 但洞里填充了CS(5-4)致密分子气体
+
+
+#### [A New Method to Measure Star Formation Rates in Active Galaxies Using Mid-infrared Neon Emission Lines](https://arxiv.org/abs/1902.03849)
+    * Being less sensitive to dust extinction, the mid-infrared fine-structure lines of [NeII] 12.81 micron and [NeIII] 15.56 micron effectively trace the SFR in star-forming galaxies. These lines also have the potential to serve as a reliable SFR indicator in active galaxies
+    * We demonstrate that AGNs emit a relatively restricted range of [NeII]/[NeV] and [NeIII]/[NeV] ratios. Hence, once [NeV] is measured, the AGN contribution to the low-ionization Ne lines can be estimated, and the SFR can be determined from the strength of [NeII] and [NeIII].
+    * We find that AGN host galaxies have similar properties as compact extragalactic HII regions, which indicates that the star formation in AGN hosts is spatially concentrated.
+
+
+#### [Fluorescent C II* 1335Å emission spectroscopically resolved in a galaxy at z = 5.754](https://arxiv.org/abs/1902.03880)
+    * Discovery of the first spectroscopically resolved C II/C II* 1334, 1335 doublet in the Lyman-break galaxy J0215–0555 at zLyα = 5.754. 
+    * The separation of the resonant and fluorescent emission channels was possible thanks to the large redshift of the source and long integration time, as well as the small velocity width of the feature, 0.6 ± 0.2Å.
+    * We suggest that the close alignment between the fluorescence and Lyman-α emission could indicate an ionisation escape channel within the object.
+        - In addition to this back-scattered emission, resonantly trapped radiation sometimes has access to alternative fluorescent decay channels. This occurs when excited atoms decay into an excited ground state, giving rise to emission of a different wavelength to the resonant absorption by the gas
+
+
+#### [NIHAO XIX: How supernova feedback shapes the galaxy baryon cycle](https://arxiv.org/abs/1902.03888)
+    * We find that SN feedback operates on all scales from the interstellar medium (ISM) to several virial radii.
+    * SNe regulate star formation by preventing condensation of Hi into H2 and by moving cold neutral gas to the hot Hii phase.
+    * 20% to 70% of the gas expelled from galaxies es- capes from the halo (ejective feedback) but outflows are dominated by cold swept-up gas, most of which falls back onto the galaxy on a ∼ 1 Gyr timescale.
+
+
+#### [An IFU investigation of possible Lyman continuum escape from Mrk 71/NGC 2366](https://arxiv.org/abs/1902.03952)
+    * Mrk 71/NGC 2366 is the closest Green Pea (GP) analog and candidate Lyman Continuum (LyC) emitter. Recently, 11 LyC-leaking GPs have been detected through direct observations of the ionizing continuum, making this the most abundant class of confirmed LyC-emitters at any redshift.
+    * An electron density map is obtained from the [S II] ratio. A fortuitous second order contamination by the [O II] λ3727 doublet enables the construction of an electron temperature map. Resolved maps of sound speed, thermal broadening, “true” velocity dispersion, and Mach number are obtained and compared to the high resolution magneto-hydrodynamic SILCC simulations.
+    * Our results strongly indicate that kinematical feedback is an important ingredient for LyC leakage in GPs.
+
+
+#### [QSOs acting as gravitational lenses: halo mass and projected mass density profile at z∼0.7](https://arxiv.org/abs/1902.03624)
+    - **Interesting**
+    * Magnification bias is a gravitational lensing effect that is normally overlooked because it is considered sub-optimal in comparison with the lensing shear.
+    * In this work we were able to measure the magnification bias produced by a sample of QSOs acting as lenses, 0.2 < z < 1.0, on the SMGs observed by Herschel at 1.2 < z < 4.0.
+    * From the halo modelling of the cross-correlation function, the QSOs host halo mass was estimated to be greater than 10^{13.6}
+    * Moreover, we were able to estimate the lensing convergence, κ(θ), for our magnification bias measurements down to a few kpcs. The derived mass density profile shows a core in its centre and it is compatible with a Navarro-Frank-White (NFW) profile.
+
+
+#### [Weak lensing cosmology with convolutional neural networks on noisy data](https://arxiv.org/abs/1902.03663)
+    - **Interesting?**
+    * Due to gravitational collapse, the distribution of dark matter is non- Gaussian on small scales. However, observations are typically evaluated through the two-point correlation function of galaxy shear, which does not capture non-Gaussian features of the lensing maps. 
+    * We show that a CNN is able to yield significantly stricter constraints of (σ8, Ωm) cosmological parameters than the power spectrum using convergence maps generated by full N-body simulations and ray-tracing
+
+
+#### [Sub-Eddington super-massive black hole activity in Fornax early type galaxies](https://arxiv.org/abs/1902.03328)
+    * A nuclear X-ray point-source is detected in 11 out of 29 targets. After accounting for the low mass X-ray binary contamination to the nuclear X-ray signal, the X-ray active fraction is measured at 26.6%±9.6%. 
+    * we find no statistically significant difference between Fornax and Virgo galaxies, with only marginal evidence for a lower active fraction in Fornax (1 σ); if real, owing to Fornax's higher galaxy number density, this could indicate that galaxy-galaxy interactions are more effective at gas removal than galaxy-gas effects.
