@@ -346,3 +346,73 @@
 #### [Sub-Eddington super-massive black hole activity in Fornax early type galaxies](https://arxiv.org/abs/1902.03328)
     * A nuclear X-ray point-source is detected in 11 out of 29 targets. After accounting for the low mass X-ray binary contamination to the nuclear X-ray signal, the X-ray active fraction is measured at 26.6%±9.6%. 
     * we find no statistically significant difference between Fornax and Virgo galaxies, with only marginal evidence for a lower active fraction in Fornax (1 σ); if real, owing to Fornax's higher galaxy number density, this could indicate that galaxy-galaxy interactions are more effective at gas removal than galaxy-gas effects.
+
+----
+
+## Feb 12:
+
+#### [The Coevolution of Massive Quiescent Galaxies and their Dark Matter Halos over the Last 6 Billion Years](https://arxiv.org/abs/1902.04087)
+    - **Relevant, Important**
+    * Our three parameter model links quiescent galaxies across cosmic time by self-consistently evolving stellar mass, stellar population age sensitive Dn4000 index, half-light radius and stellar velocity dispersion. Dn4000，或者说年龄，是scaling relation驱动的。
+    * Stellar velocity dispersion is a robust proxy of dark matter halo mass; we use it to connect galaxies and dark matter halos and thus empirically constrain their coevolution. 仍然认为速度弥散度更好。恒星质量是直接用光度加上固定的M/L来的。
+    * Thus, the stellar mass-halo mass relation of massive galaxies apparently results primarily from dry minor merging.
+
+
+#### [A Wide-field Photometric Survey of Globular Clusters in the Peculiar Early-type Galaxy M85](https://arxiv.org/abs/1902.04088)
+    - **Relevant**
+    * MegaCam观测：We identify 1318 GC candidates with 20.0 mag < g0 < 23.5 mag in the entire survey region.
+    * Their radial number density profile is well fit by a S ́ersic profile with n = 2.58； Re=22 kpc
+    * The overall color distribution of the GCs in M85 is bimodal, but the GCs in the central region at R < 2′ do not show a bimodal distribution clearly. Blue GC比Red的分布要延展
+    * The mean (g − i)0 color of the RGCs in M85 is about 0.1 mag bluer than typical values for other Virgo early-type galaxies of similar luminosity, indicating that a significant fraction of the RGCs in M85 may be younger than typical GCs
+
+
+#### [The structural properties of classical bulges and discs from z∼2](https://arxiv.org/abs/1902.04089)
+    * CANDELS 星系的B+D分析：Discs and star forming galaxies follow similar mass-size relations. The mass-size relation of bulges is less steep than the one of quiescent galaxies
+    * We find little dependence of the structural properties of massive bulges and discs with the global morphology of galaxies (disc vs. bulge dominated) and the star formation activity (star-forming vs. quiescent)
+
+
+#### [ALMA Spatially-resolved Dense Molecular Gas Survey of Nearby Ultraluminous Infrared Galaxies](https://arxiv.org/abs/1902.04124)
+    * ALMA HCN J=3-2 and HCO+ J=3-2 line observations of a uniformly selected sample (>25) of nearby ultraluminous infrared galaxies (ULIRGs) at z < 0.15
+    * In most ULIRGs, the HCN-to-HCO+ J=3-2 flux ratios in the nuclear regions within the beam size are systematically higher than those in the spatially extended regions. The elevated nuclear HCN J=3-2 emission could be related to (a) luminous buried active galactic nuclei, (b) the high molecular gas density and temperature in ULIRG's nuclei, and/or (c) mechanical heating by spatially compact nuclear outflows
+    * The observed nearby ULIRGs are generally rich in dense (>10^5 cm^-3) molecular gas, with an estimated mass of >10^9 Msun within the nuclear (a few kpc) regions
+
+
+#### [Black vs. Dark: Rapid Growth of Supermassive Black Holes in Dark Matter Haloes at z ~ 6](https://arxiv.org/abs/1902.04124)
+    * We report on the relation between the mass of supermassive black holes (SMBHs, MBH) and that of hosting dark matter haloes (Mh) for 49 z ∼ 6 QSOs with [C II]158μm velocity-width measurements.
+    * 从[CII]气体旋转速度估计Halo质量，真敢干啊
+    * A large fraction of the hosting galaxies are consistent with average galaxies in terms of SFR and perhaps of stellar mass and size.
+
+
+#### [CIV Black Hole Mass Measureents with the Australian Dark Energy Survey (OzDES)](https://arxiv.org/abs/1902.04206)
+    * In this paper we present two measurements of supermassive black hole masses from reverberation mapping (RM) of the broad CIV emission line.
+    * The corresponding masses of the two supermassive black holes are 4.4×10^9 and 3.3×10^9 M⊙, which are among the highest-redshift and highest-mass black holes measured to date with RM studies. 
+    * We use these new measurements to better determine the CIV radius−luminosity relationship for high-luminosity quasars, which is fundamental to many quasar black hole mass estimates and demographic studies.
+
+
+#### [GASP. XV. A MUSE View of Extreme Ram-Pressure Stripping along the Line of Sight: Physical properties of the Jellyfish Galaxy JO201](https://arxiv.org/abs/1902.04486)
+    * We present a study of the physical properties of JO201, a unique disk galaxy with extended tails undergoing extreme ram-pressure stripping as it moves through the massive cluster Abell 85 at supersonic speeds mostly along the line of sight
+    * In this paper we present emission-line ratios, gas-phase metallicities and ages of the stellar populations across the galaxy disk and tails.
+    * We find that while the emission at the core of the galaxy is dominated by an active galactic nucleus (AGN), the disk is composed of star-forming knots surrounded by excited diffuse gas
+    * The collection of star-forming knots presents a metallicity gradient steadily decreasing from the centre of the galaxy outwards
+
+
+#### [New Constraints on Quasar Evolution: Broad Line Velocity Shifts over 1.5≲z≲7.5](https://arxiv.org/abs/1902.04558)
+    * a model-independent investigation of the rest-frame UV spectra from a comprehensive sample of 394 quasars in the redshift range 1.5≤z≤7.5
+    * It is found that the average blueshift of the CIV, line with respect to several low-ionisation lines in luminosity-matched samples does not significantly evolve over 1.5≳z≳6.
+    * However, the average blueshift increases significantly by a factor ∼2.5 at z≳6. We propose that this redshift evolution can be explained by CIV, winds launched perpendicularly to an accretion disk with increased torus opacity at high-redshift, coupled with a potential orientation-driven selection bias.
+
+
+#### [Black hole masses of tidal disruption event host galaxies II](https://arxiv.org/abs/1902.04077)
+    * We present new medium resolution, optical long-slit spectra of a sample of 6 UV/optical and 15 X-ray selected tidal disruption event candidate host galaxies. 大多数都是quiescent星系
+    * We measure bulge velocity dispersions using absorption lines and infer host black hole (BH) masses using the M – σ relation. 黑洞质量挺正常的
+    * We find a subset of X-ray selected candidates that are hosted in galaxies significantly less luminous (Mg ∼ –16) and less massive (stellar mass ∼ 108.5−9 M⊙ ) than those of optical events.
+    * Hard X-ray选的host和光学紫外选的还不一样
+
+
+#### [Rapid "Turn-on" of type 1 AGN in a quiescent early type galaxy SDSS1115+0544](https://arxiv.org/abs/1902.04163)
+    * We present a detailed study of a transient in the center of SDSS1115+0544 based on the extensive UV, optical, mid-IR light curves (LC) and spectra over 1200days
+    * Host星系是10^7的quiescent星系，120天内增亮了2.5 mag; 然后在200天内变暗了0.5 mag
+    * Following the optical brightening are the significant mid-IR flares at 3.4 and 4.5μm, with a peak time delay of ∼ 180 days
+    * Optical spectra over 400 days in the plateau phase revealed newly formed broad Hα,β emission with a FWHM of ∼ 3750kms−1
+    * This flare also has a steeply rising UV continuum, detected by multi-epoch Swift data at +700 to +900 days post optical peak.
+    * We propose that this event is a “turn-on” AGN, transitioning from a quiescent state to a type 1 AGN with a sub-Eddington accretion rate of 0.017M⊙/yr. 
