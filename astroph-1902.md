@@ -471,3 +471,45 @@
     * Void虽然对cosmology有帮助，但是现在选Void多是用星系这种有biased的tracer选
     * In particular, we make use of the findings of a previous work in which we have improved the void selection procedure, presenting an algorithm that redefines the void ridges and, consequently, their radius
     *  We find that a relation exists between the tracer used to sample the underlying dark matter density field and its unbiased counterpart. Moreover, we demonstrate that, as long as this relation is accounted for, the size function is a viable approach for studying cosmology with cosmic voids.
+
+
+----
+
+## Feb 14:
+
+#### [Modelling the observed luminosity function and clustering evolution of Lyman-α emitters: growing evidence for late reionization](https://arxiv.org/abs/1902.05077)
+    * populate the high-dynamic-range Sherwood simulation suite with LAEs, and to calculate the transmission of their Ly α emission through the inter-galactic medium (IGM)
+    * Comparing our model with existing observations, we find a late reionization is suggested, consistent with the recent low optical depth derived from the cosmic microwave background (CMB)
+    * 一个forward model，从abundance matching出发，同时拟合不同红移的LAE的Lyalpha REW分布，光度函数，还有clustering
+
+
+#### [Using Commensurabilities and Orbit Structure to Understand Barred Galaxy Evolution](https://arxiv.org/abs/1902.05081)
+    * Using a new geometric algorithm that rapidly isolates commensurate (resonant) orbits, we identify phase-space regions occupied by different orbital families. 
+    * Compared to spectral methods, the geometric algorithm can identify resonant orbits within a few dynamical periods, crucial for understanding an evolving galaxy model.
+    * We present a new observational metric that uses spatial and kinematic in- formation from integral field spectrometers that may reveal signatures of commensurabilities and allow for a differentiation between halo models.
+
+#### [A morphological study of galaxies in ZwCl0024+1652, a galaxy cluster at redshift z ∼ 0.4](https://arxiv.org/abs/1902.05276)
+    * galSVM analyses galaxy morphologies through Support Vector Machine (SVM). From the 231 cluster galaxies, we classified 97 as early-types (ET) and 83 as late-types (LT).
+    * Out of all cluster members, ∼ 20% are emission line galaxies (ELG), taking into account previous GLACE results.
+
+
+#### [A semi-analytical perspective on massive galaxies at z∼0.55](https://arxiv.org/abs/1902.05496)
+    * Here we extract a sample of massive mock galaxies from the semi-analytical model of galaxy formation (SAM) GALACTICUS from the MultiDark-Galaxies, by replicating the CMASS photometric selection from the SDSS-III Baryon Oscillation Spectroscopic Survey (BOSS).
+    * We find good agreement between our modelled galaxies and observations regarding the galaxy-halo connection, but our CMASS-mock over-estimates the clustering amplitude of the 2-point correlation function, due to a smaller number density compared to BOSS, a lack of blue objects, and a small intrinsic scatter in stellar mass at fixed halo mass of <0.1 dex
+
+
+#### [Searching for Highly Magnified Stars at Cosmological Distances: Discovery of a Redshift 0.94 Blue Supergiant in Archival Images of the Galaxy Cluster MACS J0416.1-2403](https://arxiv.org/abs/1902.05510)
+    * Here we report the discovery of a highly magnified star at redshift z=0.94 in a strongly lensed arc behind a Hubble Frontier Field galaxy cluster, MACS J0416.1-2403
+    * The bright transient (dubbed “Warhol”) was discovered in Hubble Space Telescope data taken on 2014 September 15 and 16. This single image faded over a period of two weeks
+    * The light curve may also exhibit slow changes over a period of years consistent with the level of microlensing expected from stars responsible for the intracluster light (ICL) of the cluster.
+
+
+#### [Orientation effects on the near-infrared broad band emission of quasars](https://arxiv.org/abs/1902.05543)
+    * We recently proposed the equivalent width (EW) of the narrow [OIII]5007{\AA} emission line as an orientation indicator for active galactic nuclei. 
+    * We now examine their spectral energy distributions (SEDs) using broad band photometry from the near-infrared to the ultraviolet to look for variations in the overall shape as a function of the EW[OIII].
+    * We find that quasars with low EW[OIII] values (close to face-on position) have flatter near-infrared SEDs with respect to sources with high EW[OIII] values (almost edge-on). Moreover, quasars with high EW[OIII] values show a factor of ∼2 lower emission in the UV to quasars with low EW[OIII] values.
+
+
+#### [Results from the SuperModel Analysis of the X-COP Galaxy Clusters Sample](https://arxiv.org/abs/1902.05420)
+    * the analysis of the stacked projected temperature profile of twelve galaxy clusters of the X-COP sample is performed via the SuperModel, a tool for investigating the intracluster medium thermodynamic properties
+    * 
