@@ -512,4 +512,40 @@
 
 #### [Results from the SuperModel Analysis of the X-COP Galaxy Clusters Sample](https://arxiv.org/abs/1902.05420)
     * the analysis of the stacked projected temperature profile of twelve galaxy clusters of the X-COP sample is performed via the SuperModel, a tool for investigating the intracluster medium thermodynamic properties
-    * 
+     
+
+----
+
+## Feb 17:
+
+#### [First Results from the TNG50 Simulation: The evolution of stellar and gaseous disks across cosmic time](https://arxiv.org/abs/1902.05533)
+    * It hence reaches a numerical resolution typical of zoom-in simulations, with a baryonic element mass of 8.5x10^4 Msun and an average cell size of 70-140 parsecs in the star-forming regions of galaxies.
+    * Simultaneously, TNG50 samples ~700 (6,500) galaxies with stellar masses above 10^10 (10^8) Msun at z=1.
+    * Coupled with the large-volume statistics, we characterize a diverse, redshift- and mass-dependent structural and kinematical morphological mix of galaxies all the way to early epochs.
+    * For star-forming galaxies the fraction of disk-like morphologies, based on 3D stellar shapes, increases with both cosmic time and galaxy stellar mass.
+    * 关于高红移的SF星系：Despite large velocity dispersion at high redshift, cold and dense gas in galaxies predominantly arranges in disky or elongated shapes at all times and masses; these gaseous components exhibit rotationally-dominated motions far exceeding the collisionless stellar bodies.
+
+
+#### [First Results from the TNG50 Simulation: Galactic outflows driven by supernovae and black hole feedback](https://arxiv.org/abs/1902.05554)
+    * We find that the outflow mass loading is a non-monotonic function of galaxy stellar mass, turning over and rising rapidly above 10^10.5 M due to the action of the central black hole (BH)
+    * Outflow velocity increases with stellar mass, and the bulk of material moves slowly (∼ 150 km/s at Milky Way mass). 
+    * we demonstrate that the TNG model can produce high velocity, multi-phase outflows which include cool, dense components. These outflows reach speeds in excess of 3000 km/s with an ejective, BH-driven origin.
+    * We present a correlation between outflow velocity and offset from the star-forming main sequence – galaxies above the SFMS drive faster outflows
+
+
+#### [The SAMI Galaxy Survey: Satellite galaxies undergo little structural change during their quenching phase](https://arxiv.org/abs/1902.05652)
+    * Here, we investigate whether satellite quenching is accompanied by changes in stellar spin (quantified by the ratio of the rotational to dispersion velocity V/σ) for a sample of massive (M∗ >10^10 M⊙) satellite galaxies
+    * As expected, at fixed stellar mass and ellipticity, satellites have lower star for- mation rate (SFR) and spin than the control centrals
+    * However, most of the difference is in SFR, whereas the spin decreases significantly only for satellites that have already reached the red sequence
+    * Our findings highlight the effect of progenitor bias in our understanding of galaxy transformation and they suggest that satellites undergo little structural change before and during their quenching phase.
+
+#### [M31 circum-nuclear region: a molecular survey with the IRAM-interferometer](https://arxiv.org/abs/1902.05822)
+    * We detect 12 molecular clumps in this region, corresponding to a total molecular mass of (8.4 ± 0.4) × 10^4 M. They follow the Larson’s mass-size relation, but lie well above the velocity-size relation
+    * We discuss that these clumps are probably not virialised, but transient agglomerations of smaller entities that might be virialised
+    * Its spectral energy distribution is compatible with passive templates assembled from elliptical galaxies. While weak dust emission is present in the region, we show that no star formation is present and support the previous results that the dust is heated by the old and intermediate stellar population
+
+
+#### [The Wide Field Infrared Survey Telescope: 100 Hubbles for the 2020s](https://arxiv.org/abs/1902.05569)
+    * The Wide Field Infrared Survey Telescope (WFIRST) is a 2.4m space telescope with a 0.281 deg2 field of view for near-IR imaging and slitless spectroscopy and a coronagraph designed for > 10^8 starlight suppression
+    * (a) a large area, high-latitude imaging and spectroscopic survey that enables high-precision cosmological measurements with weak lensing and galaxy clustering, (b) a time-domain survey (~5 day cadence) of several tens of deg2 that enables discovery and light curve monitoring of thousands of Type Ia supernovae to z ~ 2, (c) a time-domain survey (~15- minute cadence) of the Galactic bulge that enables discovery of thousands of exoplanets at AU and larger separations via gravitational microlensing, and (d) a General Observer (GO) program.
+    * Forecasts based on empirical luminosity functions predict that the HLS will detect more than 20,000 galaxies per month at redshift z > 8, and about 1500 per month at z > 10.
