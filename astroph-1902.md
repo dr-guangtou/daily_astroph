@@ -549,3 +549,51 @@
     * The Wide Field Infrared Survey Telescope (WFIRST) is a 2.4m space telescope with a 0.281 deg2 field of view for near-IR imaging and slitless spectroscopy and a coronagraph designed for > 10^8 starlight suppression
     * (a) a large area, high-latitude imaging and spectroscopic survey that enables high-precision cosmological measurements with weak lensing and galaxy clustering, (b) a time-domain survey (~5 day cadence) of several tens of deg2 that enables discovery and light curve monitoring of thousands of Type Ia supernovae to z ~ 2, (c) a time-domain survey (~15- minute cadence) of the Galactic bulge that enables discovery of thousands of exoplanets at AU and larger separations via gravitational microlensing, and (d) a General Observer (GO) program.
     * Forecasts based on empirical luminosity functions predict that the HLS will detect more than 20,000 galaxies per month at redshift z > 8, and about 1500 per month at z > 10.
+
+
+----
+
+## Feb 18:
+
+#### [Multiplicity functions of quasars: Predictions from the MassiveBlackII simulation](https://arxiv.org/abs/1902.05954)
+    * AGN multiplicity functions. This is defined as the volume/ surface density of AGN systems per unit richness R, the number of AGNs in a system.
+    * We find that gravitationally bound multiple AGN systems tend to populate scales of ≲0.7 cMpc/h; this corresponds to angular separations of ≲100 arcsec and a line of sight velocity difference ≲200 km/sec
+    * The simulations predict that these systems predominantly exist at 1.5≲z≲3
+
+#### [Chemical evolution of disc galaxies from cosmological simulations](https://arxiv.org/abs/1902.05955)
+    * We consider either a Kroupa et al. (1993) or a more top-heavy Kroupa (2001) IMF, two sets of stellar yields and different values for the fraction of binary systems suitable to give rise to SNe Ia
+    * We find that a Kroupa et al. (1993) IMF has to be preferred when modelling late-type galaxies in the local universe. On the other hand, the comparison of stellar metallicity profiles and α-enhancement trends with observations of Milky Way stars shows a better agreement when a Kroupa (2001) IMF is assumed.
+
+#### [On the Orbital Decay of Globular Clusters in NGC1052-DF2: Testing a Baryon-Only Mass Model](https://arxiv.org/abs/1902.05959)
+    - **Interesting**
+    * We test the viability of such a scenario by examining whether in a `baryon-only' mass model, the observed GC population experiences rapid orbital decay due to dynamical friction. 
+    * we show that there is a substantial amount of realization-to-realization variance in the evolution of the GCs. Nevertheless, over 10 Gyr, some of the GCs experience significant orbital evolution. Others evolve less.
+    * A combination of reduced dynamical friction in the galaxy core and GC-GC scattering keeps the GCs afloat, preventing them from sinking all the way to the galaxy center.
+    * Therefore, if NGC1052-DF2 has no dark matter, some of its GCs must have formed further out, and the GC system must have been somewhat more extended in the past. The presence of a low mass cuspy halo, while allowed by the kinematics, seems improbable as significantly shorter inspiral timescales in the central region would quickly lead to the formation of a nuclear star cluster.
+
+#### [Exploring HeIIλ1640 emission line properties at z∼2−4](https://arxiv.org/abs/1902.05960)
+    * Here we combine VLT/MUSE Guaranteed Time Observations of the Hubble Deep Field South, Ultra Deep Field, COSMOS, and several quasar fields with other publicly available data from VLT/VIMOS and VLT/FORS2 to construct a catalogue of HeIIλ1640 emitters at z∼2.
+    * After discarding broad line active galactic nuclei we find 13 HeIIλ1640 detections from MUSE with a median MUV = −20.1 and 21 tentative HeIIλ1640 detections from other public surveys. 
+    * Excluding Lyα, all except two galaxies in our sample show at least one other rest-UV emission line, with CIII]λ1907,λ1909 being the most prominent.
+    * Line ratios of our sample can be reproduced by moderately sub-solar photo-ionisation models, however, we find that including effects of binary stars lead to degeneracies in most free parameters.
+
+
+#### [The mass-metallicity relation of local active galaxies](https://arxiv.org/abs/1902.06368)
+    * For the first time we take into account arbitrary mixing between HII region and narrow-line region (NLR) emission, and the models are also varied with metallicity, ionization parameter in the NLR, and the gas pressure.
+    * The active galactic nucleus (AGN) oxygen abundance is found to increase by ΔO/H∼0.1 dex as a function of host galaxy stellar mass over the range 10.1<logM∗/M⊙<11.3.
+    * A systematic offset in oxygen abundance of 0.09 dex is observed between the mass-metallicity relations of the star-forming and active galaxies.
+
+#### [The linear bias of radio galaxies at z~0.3 via cosmic microwave background lensing](https://arxiv.org/abs/1902.06581)
+    * a new measurement of the linear bias of radio loud active galactic nuclei (RLAGN) at z≈0.3 made by cross-correlating the RLAGN surface density with a map of the convergence of the weak lensing field of the cosmic microwave background from Planck.
+    * We detect the cross-power signal at a significance of 3σ and use the amplitude of the cross-power spectrum to estimate the linear bias of RLAGN, b=2.5±0.8; 10^14 Msun halo
+
+
+#### [A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters](https://arxiv.org/abs/1902.05950)
+    * We demonstrate the ability of Convolutional Neural Networks (CNNs) to mitigate systematics in the virial scaling relation and produce dynamical mass estimates of galaxy clusters with remarkably low bias and scatter.
+    * We train each model as a regression over cluster mass using a labeled catalog of realistic mock cluster observations generated from the MultiDark simulation and UniverseMachine catalog
+    * We then evaluate the performance of each model on an independent set of mock observations selected from the same simulated catalog. The CNN models produce cluster mass predictions with log-normal residuals of scatter as low as 0.127 dex
+
+
+#### [From Dark Matter to Galaxies with Convolutional Networks](https://arxiv.org/abs/1902.05965)
+    * In this paper, we propose to use deep learning to establish a mapping between the 3D galaxy distribution in hydrodynamic simulations and its underlying dark matter distribution.
+    * One of the major challenges in this pursuit is the very high sparsity in the predicted galaxy distribution. To this end, we develop a two-phase convolutional neural network architecture to generate fast galaxy catalogues, and compare our results against a standard cosmological technique
