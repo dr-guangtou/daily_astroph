@@ -484,7 +484,7 @@
 
 
 #### [Using Commensurabilities and Orbit Structure to Understand Barred Galaxy Evolution](https://arxiv.org/abs/1902.05081)
-    * Using a new geometric algorithm that rapidly isolates commensurate (resonant) orbits, we identify phase-space regions occupied by different orbital families. 
+    * Using a new geometric algorithm that rapidly isolates commensurate (resonant) orbits, we identify phase-space regions occupied by different orbital families.
     * Compared to spectral methods, the geometric algorithm can identify resonant orbits within a few dynamical periods, crucial for understanding an evolving galaxy model.
     * We present a new observational metric that uses spatial and kinematic in- formation from integral field spectrometers that may reveal signatures of commensurabilities and allow for a differentiation between halo models.
 
@@ -505,14 +505,14 @@
 
 
 #### [Orientation effects on the near-infrared broad band emission of quasars](https://arxiv.org/abs/1902.05543)
-    * We recently proposed the equivalent width (EW) of the narrow [OIII]5007{\AA} emission line as an orientation indicator for active galactic nuclei. 
+    * We recently proposed the equivalent width (EW) of the narrow [OIII]5007{\AA} emission line as an orientation indicator for active galactic nuclei.
     * We now examine their spectral energy distributions (SEDs) using broad band photometry from the near-infrared to the ultraviolet to look for variations in the overall shape as a function of the EW[OIII].
     * We find that quasars with low EW[OIII] values (close to face-on position) have flatter near-infrared SEDs with respect to sources with high EW[OIII] values (almost edge-on). Moreover, quasars with high EW[OIII] values show a factor of ∼2 lower emission in the UV to quasars with low EW[OIII] values.
 
 
 #### [Results from the SuperModel Analysis of the X-COP Galaxy Clusters Sample](https://arxiv.org/abs/1902.05420)
     * the analysis of the stacked projected temperature profile of twelve galaxy clusters of the X-COP sample is performed via the SuperModel, a tool for investigating the intracluster medium thermodynamic properties
-     
+
 
 ----
 
@@ -528,7 +528,7 @@
 
 #### [First Results from the TNG50 Simulation: Galactic outflows driven by supernovae and black hole feedback](https://arxiv.org/abs/1902.05554)
     * We find that the outflow mass loading is a non-monotonic function of galaxy stellar mass, turning over and rising rapidly above 10^10.5 M due to the action of the central black hole (BH)
-    * Outflow velocity increases with stellar mass, and the bulk of material moves slowly (∼ 150 km/s at Milky Way mass). 
+    * Outflow velocity increases with stellar mass, and the bulk of material moves slowly (∼ 150 km/s at Milky Way mass).
     * we demonstrate that the TNG model can produce high velocity, multi-phase outflows which include cool, dense components. These outflows reach speeds in excess of 3000 km/s with an ejective, BH-driven origin.
     * We present a correlation between outflow velocity and offset from the star-forming main sequence – galaxies above the SFMS drive faster outflows
 
@@ -566,14 +566,14 @@
 
 #### [On the Orbital Decay of Globular Clusters in NGC1052-DF2: Testing a Baryon-Only Mass Model](https://arxiv.org/abs/1902.05959)
     - **Interesting**
-    * We test the viability of such a scenario by examining whether in a `baryon-only' mass model, the observed GC population experiences rapid orbital decay due to dynamical friction. 
+    * We test the viability of such a scenario by examining whether in a `baryon-only' mass model, the observed GC population experiences rapid orbital decay due to dynamical friction.
     * we show that there is a substantial amount of realization-to-realization variance in the evolution of the GCs. Nevertheless, over 10 Gyr, some of the GCs experience significant orbital evolution. Others evolve less.
     * A combination of reduced dynamical friction in the galaxy core and GC-GC scattering keeps the GCs afloat, preventing them from sinking all the way to the galaxy center.
     * Therefore, if NGC1052-DF2 has no dark matter, some of its GCs must have formed further out, and the GC system must have been somewhat more extended in the past. The presence of a low mass cuspy halo, while allowed by the kinematics, seems improbable as significantly shorter inspiral timescales in the central region would quickly lead to the formation of a nuclear star cluster.
 
 #### [Exploring HeIIλ1640 emission line properties at z∼2−4](https://arxiv.org/abs/1902.05960)
     * Here we combine VLT/MUSE Guaranteed Time Observations of the Hubble Deep Field South, Ultra Deep Field, COSMOS, and several quasar fields with other publicly available data from VLT/VIMOS and VLT/FORS2 to construct a catalogue of HeIIλ1640 emitters at z∼2.
-    * After discarding broad line active galactic nuclei we find 13 HeIIλ1640 detections from MUSE with a median MUV = −20.1 and 21 tentative HeIIλ1640 detections from other public surveys. 
+    * After discarding broad line active galactic nuclei we find 13 HeIIλ1640 detections from MUSE with a median MUV = −20.1 and 21 tentative HeIIλ1640 detections from other public surveys.
     * Excluding Lyα, all except two galaxies in our sample show at least one other rest-UV emission line, with CIII]λ1907,λ1909 being the most prominent.
     * Line ratios of our sample can be reproduced by moderately sub-solar photo-ionisation models, however, we find that including effects of binary stars lead to degeneracies in most free parameters.
 
@@ -597,3 +597,44 @@
 #### [From Dark Matter to Galaxies with Convolutional Networks](https://arxiv.org/abs/1902.05965)
     * In this paper, we propose to use deep learning to establish a mapping between the 3D galaxy distribution in hydrodynamic simulations and its underlying dark matter distribution.
     * One of the major challenges in this pursuit is the very high sparsity in the predicted galaxy distribution. To this end, we develop a two-phase convolutional neural network architecture to generate fast galaxy catalogues, and compare our results against a standard cosmological technique
+
+----
+
+## Feb 19:
+
+#### [NIHAO XVIII: Origin of the MOND phenomenology of galactic rotation curves in a LCDM universe](https://arxiv.org/abs/1902.06751)
+    * 用模拟解释RAR：We show that the RAR arises naturally in the NIHAO sample of 89 high-resolution LCDM cosmological galaxy formation simulations. The overall scatter from NIHAO is just 0.079 dex, consistent with observational constraints.
+    * we show that the scatter depends on stellar mass: 质量越小，scatter越大
+    * At high masses the intrinsic scatter is consistent with the zero scatter assumed by MOND, but at low masses the intrinsic scatter is non-zero, strongly disfavoring MOND.
+
+
+#### [The 'Big Dipper': The nature of the extreme variability of the AGN SDSS J2232-0806](https://arxiv.org/abs/1902.06753)
+    * a galaxy with no previously known active nucleus, blue colours and large- amplitude brightness evolution occurring on a timescale of years
+    * Our optical photometric and spectroscopic monitoring campaign has recorded one major dimming event (and subsequent rise) over a period of around four years
+    * We find that an intrinsic change in the luminosity is the most favoured explanation of the observations, based on a comparison of continuum and line variability and the apparent lagged response of the hot dust.
+
+
+#### [First Identification of 10-kpc Scale [CII] 158um Halos around Star-Forming Galaxies at z=5-7](https://arxiv.org/abs/1902.06760)
+    * We report the discovery of 10-kpc scale [Cii] 158μm halos surrounding star-forming galaxies in the early Universe.
+    * ALMA观测18个没有AGN的星系，SFR在10-70 Msun之间
+    * uv plane上stack：The radial profiles of the surface brightnesses show a 10-kpc scale [Cii] halo at the 9.2σ level significantly extended more than the HST stellar continuum data by a factor of ∼ 5 on the exponential-profile scale length basis
+    * The existence of the extended [Cii] halo is the evidence of outflow remnants in the early galaxies and suggest that the outflows may be dominated by cold-mode outflows
+
+
+#### [Distinguishing Mergers and Disks in High Redshift Observations of Galaxy Kinematics](https://arxiv.org/abs/1902.06762)
+
+
+#### [Gemini NIFS survey of feeding and feedback in nearbyActive Galaxies - III. Ionized versus warm molecular gasmasses and distributions](https://arxiv.org/abs/1902.06790)
+
+
+#### [The halo mass of optically-luminous quasars at z=1-2 measured via gravitational deflection of the cosmic microwave background](https://arxiv.org/abs/1902.06955)
+
+
+#### [Chandra observations of the Abell S0295 cluster](https://arxiv.org/abs/1902.06791)
+
+
+#### [The local and distant Universe: stellar ages and H0](https://arxiv.org/abs/1902.07081)
+
+
+#### [On Constraining the Growth History of Massive Black Holes via Their Distribution on the Spin-Mass Plane](https://arxiv.org/abs/1902.07056)
+
