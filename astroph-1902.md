@@ -638,3 +638,55 @@
 
 #### [On Constraining the Growth History of Massive Black Holes via Their Distribution on the Spin-Mass Plane](https://arxiv.org/abs/1902.07056)
 
+
+----
+
+## Feb 20:
+
+#### [The global stability of M33: still a puzzle](https://arxiv.org/abs/1902.07222)
+    * The inner disc of the local group galaxy M33 appears to be in settled rotational balance, and near IR images reveal a mild, large-scale, two-arm spiral pattern with no strong bar
+    *  We find that currently favoured models are unstable to the formation of a strong bar of semi-major axis 2 < a_B < 3 kpc on a time-scale of 1 Gyr
+    * 在模拟里，Bar的形成不受气体成分的影响，不受NSC质量的影响，但是改变星族质光比或者增加恒星的random motions，可以阻止Bar的形成
+    * However, all three near-stable models support multi-arm spirals, and not the observed large-scale bi-symmetric spiral. Thus the survival of the current state of this exceptionally well-studied galaxy is not yet understood.
+
+
+#### [Galaxy Merger Fractions in Two Clusters at z∼2 Using the Hubble Space Telescope](https://arxiv.org/abs/1902.07225)
+    * z~2的cluster，HST图像: Using visual classifications as well as a variety of selection techniques, we measure merger fractions of 11+8.2−3.2 in IRC0222A and 18+7.8−4.5 in IRC0222B. In comparison, we measure a merger fraction of 5.0+1.1−0.8% for field galaxies at z∼2.
+    * Our study indicates that the galaxy-galaxy merger fraction in clusters at z∼2 is enhanced compared the field population, but note that more cluster measurements at this epoch are needed to confirm our findings.
+
+#### [Kinematics of the Tucana Dwarf Galaxy: An Unusually Dense Dwarf in the Local Group](https://arxiv.org/abs/1902.07228)
+    * We find that it favours a high central density consistent with `pristine' subhalos in ΛCDM, and a massive dark matter halo (∼10^10 M⊙) consistent with expectations from abundance matching. * Tucana appears to be significantly more centrally dense than other isolated Local Group dwarfs, making it an ideal laboratory for testing dark matter models.
+
+
+#### [A treatment procedure for GMOS/IFU data cubes: application to NGC 2835](https://arxiv.org/abs/1902.07300)
+    * GMOS数据处理技术方法：correction of the differential atmospheric refraction; Butterworth spatial filtering, to remove high spatial-frequency noise; instrumental fingerprint removal; Richardson-Lucy deconvolution, to improve the spatial resolution of the observations.
+    * The treatment procedure applied to the data cube of the central region of the late-type galaxy NGC 2835 allowed the detection of a nuclear emitting region with emission-line ratios indicating a probable LINER
+
+
+#### [SDSS-IV MaNGA: Environmental dependence of the Mgb/<Fe>-sigma_* relation for nearby galaxies](https://arxiv.org/abs/1902.07387)
+    * all galaxies show a tight correlation between Mgb/<Fe> and sigma_*; 
+    * 和“Coordinated assembly"有些类似：`old' (H_beta < 3) low-sigma_* galaxies in high local density environment and inner regions within galaxy groups are enhanced in Mgb/<Fe>, while `young' (H_beta>3) galaxies and high-mass galaxies show no or less environmental dependence;
+    * `old' galaxies with high-z_f show enhanced Mgb/<Fe> over low- and medium-z_f; 
+    * Mgb/<Fe> gradients are close to zero and show dependence on sigma_* but no obvious dependence on the environment or z_f. 
+
+
+#### [Unraveling the complex structure of AGN-driven outflows: IV. Comparing AGNs with and without strong outflows](https://arxiv.org/abs/1902.07560)
+    * Integral field spectroscopy of six Type 2 AGNs at z < 0.1, which are selected as AGNs without strong outflows based on the kinematics of [Oiii] gas
+    * We find significant difference between the kinematics of ionized gas and stars for two AGNs, which indicates the presence of AGN-driven outflows. 
+
+
+#### [On the origin of central abundance drops in the intracluster medium of galaxy groups and clusters](https://arxiv.org/abs/1902.07661)
+    - **Interesting**
+    * It has been proposed that this abundance drop may be due, at least partially, to the depletion of Fe into dust grains in the central, high-density regions. 如果这个图像属实，惰性气体元素的丰度不应该出现depletion
+    * we test this scenario by measuring with Chandra data the radial profiles of Ar and Ne in a sample of 12 groups and clusters where a central drop in Fe abundance has been detected. 
+    * We confirm the presence of the Fe drop in 10 out of 12 clusters at more than 2σ c.l., and 4 Ar drops with similar significance; We also find 4 Ne drops
+    * When comparing the profiles, we find that, on average, the abundance profiles of Ar and Ne are significantly higher than Fe and steeper toward the center, while they all gradually become consistent with solar composition at r ≥ 0.05r500.
+    * This result confirms a scenario in which some fraction of Fe is depleted into dust grains in the inner regions, although the global central abundance drop is mostly due to mechanical processes, like the displacement of metal-rich ICM from the very center to larger radii by AGN-driven feedback.
+
+
+#### [A multifiltering study of turbulence in a large sample of simulated galaxy clusters](https://arxiv.org/abs/1902.07291)
+
+
+#### [Feature Selection for Better Spectral Characterization or: How I Learned to Start Worrying and Love Ensembles](https://arxiv.org/abs/1902.07215)
+    * An ever-looming threat to astronomical applications of machine learning is the danger of over-fitting data, also known as the ‘curse of dimensionality.’ 
+    * We address this problem using an iterative algorithm to sequentially prune redundant features from synthetic PHOENIX spectra, and arrive at an optimal set of wavelengths with the strongest correlation with each of the output variables – Teff , log g, and [Fe/H].
