@@ -690,3 +690,16 @@
 #### [Feature Selection for Better Spectral Characterization or: How I Learned to Start Worrying and Love Ensembles](https://arxiv.org/abs/1902.07215)
     * An ever-looming threat to astronomical applications of machine learning is the danger of over-fitting data, also known as the ‘curse of dimensionality.’ 
     * We address this problem using an iterative algorithm to sequentially prune redundant features from synthetic PHOENIX spectra, and arrive at an optimal set of wavelengths with the strongest correlation with each of the output variables – Teff , log g, and [Fe/H].
+
+
+----
+
+## Feb 21:
+
+#### [Prevalence of radio jets associated with galactic outflows and feedback from quasars](https://arxiv.org/abs/1902.07727)
+
+
+#### [Pégase.3: A code for modeling the UV-to-IR/submm spectral and chemical evolution of galaxies with dust](https://arxiv.org/abs/1902.07929)
+
+
+#### [The first Super Massive Black Holes: indications from models for future observations](https://arxiv.org/abs/1902.07982)
