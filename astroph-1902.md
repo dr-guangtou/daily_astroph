@@ -703,3 +703,29 @@
 
 
 #### [The first Super Massive Black Holes: indications from models for future observations](https://arxiv.org/abs/1902.07982)
+
+
+----
+
+## Feb 24:
+
+#### [Blind chemical tagging with DBSCAN: prospects for spectroscopic surveys](https://arxiv.org/abs/1902.08201)
+    * With precise measurements of stellar chemistry, chemical tagging may be able to group together stars born from the same gas cloud, regardless of their current positions and kinematics.
+    * We use Density-Based Spatial Clustering of Applications with Noise (DBSCAN) to group stars based on their spectra or abundances; these groups are matched to input clusters and are found to be highly homogeneous and complete.
+    * Based on our fiducial model for the Milky Way, we predict recovering over 600 clusters with at least 10 observed members and 70% membership homogeneity in a sample similar to the APOGEE survey.
+
+
+#### [Neutral Gas Properties and Lyα Escape in Extreme Green Pea Galaxies](https://arxiv.org/abs/1902.08204)
+    * VLA 21cm observations of one Green Pea (GP), J160810+352809 (hereafter J1608), and HST COS spectra of 17 GP galaxies at z < 0.2
+    * J1608 has the highest [O III] λ5007/[O II] λ3727 for star-forming galaxies in SDSS, and the 17 GPs have [O III]/[O II] ≥ 6.6
+    * In the COS sample, eight GPs show Lyα absorption components, six of which also have Lyα emission 
+    * Using low-ionization absorption lines, we measure covering fractions (fcov) of 0.1−1, and find that fcov strongly anti-correlates with Lyα escape fraction.
+
+
+#### [Environmental Effect on the Interstellar Medium in Galaxies across the Cosmic Web at z=0.73](https://arxiv.org/abs/1902.08216)
+    *  new ALMA dust continuum observations of 101 log(M∗/M) > 9.5 galaxies in the COSMOS field to study the effect of environment on the interstellar medium at z ∼ 0.7 
+    * MISM is found to have a small dependence on environment, while the depletion timescale remains constant (∼ 200 Myrs) across all environments
+    * We find elevated MISM values at intermediate densities and lower values at high densities compared to low (field) densities
+
+
+#### [Environmental Effect on the Interstellar Medium in Galaxies across the Cosmic Web at z=0.73](https://arxiv.org/abs/1902.08216)
