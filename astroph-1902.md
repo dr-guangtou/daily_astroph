@@ -664,21 +664,21 @@
 
 
 #### [SDSS-IV MaNGA: Environmental dependence of the Mgb/<Fe>-sigma_* relation for nearby galaxies](https://arxiv.org/abs/1902.07387)
-    * all galaxies show a tight correlation between Mgb/<Fe> and sigma_*; 
+    * all galaxies show a tight correlation between Mgb/<Fe> and sigma_*;
     * 和“Coordinated assembly"有些类似：`old' (H_beta < 3) low-sigma_* galaxies in high local density environment and inner regions within galaxy groups are enhanced in Mgb/<Fe>, while `young' (H_beta>3) galaxies and high-mass galaxies show no or less environmental dependence;
-    * `old' galaxies with high-z_f show enhanced Mgb/<Fe> over low- and medium-z_f; 
-    * Mgb/<Fe> gradients are close to zero and show dependence on sigma_* but no obvious dependence on the environment or z_f. 
+    * `old' galaxies with high-z_f show enhanced Mgb/<Fe> over low- and medium-z_f;
+    * Mgb/<Fe> gradients are close to zero and show dependence on sigma_* but no obvious dependence on the environment or z_f.
 
 
 #### [Unraveling the complex structure of AGN-driven outflows: IV. Comparing AGNs with and without strong outflows](https://arxiv.org/abs/1902.07560)
     * Integral field spectroscopy of six Type 2 AGNs at z < 0.1, which are selected as AGNs without strong outflows based on the kinematics of [Oiii] gas
-    * We find significant difference between the kinematics of ionized gas and stars for two AGNs, which indicates the presence of AGN-driven outflows. 
+    * We find significant difference between the kinematics of ionized gas and stars for two AGNs, which indicates the presence of AGN-driven outflows.
 
 
 #### [On the origin of central abundance drops in the intracluster medium of galaxy groups and clusters](https://arxiv.org/abs/1902.07661)
     - **Interesting**
     * It has been proposed that this abundance drop may be due, at least partially, to the depletion of Fe into dust grains in the central, high-density regions. 如果这个图像属实，惰性气体元素的丰度不应该出现depletion
-    * we test this scenario by measuring with Chandra data the radial profiles of Ar and Ne in a sample of 12 groups and clusters where a central drop in Fe abundance has been detected. 
+    * we test this scenario by measuring with Chandra data the radial profiles of Ar and Ne in a sample of 12 groups and clusters where a central drop in Fe abundance has been detected.
     * We confirm the presence of the Fe drop in 10 out of 12 clusters at more than 2σ c.l., and 4 Ar drops with similar significance; We also find 4 Ne drops
     * When comparing the profiles, we find that, on average, the abundance profiles of Ar and Ne are significantly higher than Fe and steeper toward the center, while they all gradually become consistent with solar composition at r ≥ 0.05r500.
     * This result confirms a scenario in which some fraction of Fe is depleted into dust grains in the inner regions, although the global central abundance drop is mostly due to mechanical processes, like the displacement of metal-rich ICM from the very center to larger radii by AGN-driven feedback.
@@ -688,7 +688,7 @@
 
 
 #### [Feature Selection for Better Spectral Characterization or: How I Learned to Start Worrying and Love Ensembles](https://arxiv.org/abs/1902.07215)
-    * An ever-looming threat to astronomical applications of machine learning is the danger of over-fitting data, also known as the ‘curse of dimensionality.’ 
+    * An ever-looming threat to astronomical applications of machine learning is the danger of over-fitting data, also known as the ‘curse of dimensionality.’
     * We address this problem using an iterative algorithm to sequentially prune redundant features from synthetic PHOENIX spectra, and arrive at an optimal set of wavelengths with the strongest correlation with each of the output variables – Teff , log g, and [Fe/H].
 
 
@@ -718,14 +718,108 @@
 #### [Neutral Gas Properties and Lyα Escape in Extreme Green Pea Galaxies](https://arxiv.org/abs/1902.08204)
     * VLA 21cm observations of one Green Pea (GP), J160810+352809 (hereafter J1608), and HST COS spectra of 17 GP galaxies at z < 0.2
     * J1608 has the highest [O III] λ5007/[O II] λ3727 for star-forming galaxies in SDSS, and the 17 GPs have [O III]/[O II] ≥ 6.6
-    * In the COS sample, eight GPs show Lyα absorption components, six of which also have Lyα emission 
+    * In the COS sample, eight GPs show Lyα absorption components, six of which also have Lyα emission
     * Using low-ionization absorption lines, we measure covering fractions (fcov) of 0.1−1, and find that fcov strongly anti-correlates with Lyα escape fraction.
 
 
 #### [Environmental Effect on the Interstellar Medium in Galaxies across the Cosmic Web at z=0.73](https://arxiv.org/abs/1902.08216)
-    *  new ALMA dust continuum observations of 101 log(M∗/M) > 9.5 galaxies in the COSMOS field to study the effect of environment on the interstellar medium at z ∼ 0.7 
+    *  new ALMA dust continuum observations of 101 log(M∗/M) > 9.5 galaxies in the COSMOS field to study the effect of environment on the interstellar medium at z ∼ 0.7
     * MISM is found to have a small dependence on environment, while the depletion timescale remains constant (∼ 200 Myrs) across all environments
     * We find elevated MISM values at intermediate densities and lower values at high densities compared to low (field) densities
 
 
-#### [Environmental Effect on the Interstellar Medium in Galaxies across the Cosmic Web at z=0.73](https://arxiv.org/abs/1902.08216)
+#### [Forecasting Angular Cross Correlations Between Diffuse X-ray Emission and the Thermal Sunyaev-Zel'dovich Effect](https://arxiv.org/abs/1902.08268)
+    * X-ray & SZ: The cross-correlation between these effects eliminates noise bias and reduces observational systematic effects
+    * Using analytic models for the cluster profile, we develop a halo model formalism to study this cross-correlation 预测eROSITA X Simons
+    * X-ray观测是Signal主导的，sample varaince更重要：In particular, non-Gaussian (4-point) contributions to the errors highlight the utility of masking massive clusters.
+    * We find that the cross spectrum is most sensitive to the overall scale of the profiles of pressure and electron density, as well as cosmological parameters σ8 and H0, but that the large number of parameters form a degenerate set, which makes extracting the information more challenging.
+
+
+#### [Hydrodynamical moving-mesh simulations of the tidal disruption of stars by supermassive black holes](https://arxiv.org/abs/1902.08202)
+    * We are here modelling the hydrodynamical evolution of realistic stars as they approach a SMBH on parabolic orbits, using for the first time the moving-mesh code AREPO, which is particularly well adapted to the problem through its combination of quasi-Lagrangian behaviour, low advection errors, and high accuracy typical of mesh-based techniques.
+    * Interestingly, we find that the internal evolution of the remnant's core is strongly influenced by persistent vortices excited in the tidal interaction. These should be sites of strong magnetic field amplification, and the associated mixing may profoundly alter the subsequent evolution of the tidally pruned star.
+
+----
+
+## Feb 25:
+
+#### [Quenching by gas compression and consumption: A case study of a massive radio galaxy at z = 2.57](https://arxiv.org/abs/1902.08622)
+    * detailed investigation of the star-formation history and conditions of a z=2.57 massive radio galaxy based on VLT/X-SHOOTER and ALMA observations.
+    * neither instantaneous nor continuous star-formation history is consistent with the relative strength of the Si II λ1485 and S V λ1502 absorption. Rather, at least two bursts of star formation took place in the recent past, at 6+1−2 Myr and ≳20 Myr ago
+    * 气体质量不高，depletion时标短
+    * Because of the likely very young age of the radio source, our findings suggest that vigorous star formation consumes much of the gas and works in concert with the AGN to remove any residual molecular gas
+
+
+#### [The Resolved Distributions of Dust Mass and Temperature in Local Group Galaxies](https://arxiv.org/abs/1902.08622)
+    * SED模型拟合SMC, LMC, M31, M33的Herschel map: we derive the dust temperature, Td, and the dust mass surface density, Σd, at 13 parsec resolution for SMC and LMC, and at 167 parsec resolution for all targets. 
+    * We find that LMC has the highest mass-weighted average Td, while M31 and M33 have the lowest mass-weighted average Td. 
+    * Within a galaxy, star forming regions have higher Td and Σd relative to the overall distribution function, due to more intense heating by young stars and higher gas mass surface density.
+    * 当分辨率变差的时候，温度测量倾向于偏低, 尘埃质量偏低：When we degrade the resolutions to mimic distant galaxies, the mass-weighted mean temperature gets warmer as the resolution gets coarser, meaning the temperature derived from unresolved observation is systematically higher than that in highly resolved observation.
+
+
+#### [Simultaneous calibration of spectro-photometric distances and the Gaia DR2 parallax zero-point offset with deep learning](https://arxiv.org/abs/1902.08634)
+    - **Interesting**
+    * we design a deep neural network trained on stars in common between Gaia and APOGEE that determines spectro-photometric distances to APOGEE stars, while including a flexible model to calibrate parallax zero-point biases in Gaia DR2. 
+    * Our spectro-photometric distances are more precise than Gaia at distances ≈2kpc from the Sun. We release a catalog of spectro-photometric distances for the entire APOGEE DR14 data set which covers Galactocentric radii 2kpc≲R≲19kpc 
+    * we find that the bulge and bar region at R≲5kpc clearly stands out in [Fe/H] and most abundance ratios.
+
+
+#### [A `Numbers' Approach to Astronomical Correlations I: Introduction and Application to galaxy Scaling Relations](https://arxiv.org/abs/1902.08704)
+    * We recall that behind Dimensionless scaling laws in complex, self-interacting physical objects lies a rigorous theorem of Dimensional analysis, known widely as the Buckingham theorem.
+    * Once a {\it catalogue} of properties and forces that define an object or physical system is established, the theorem allows one to select a complete set of Dimensionless quantities or {\it Numbers} on which structure must depend. 
+
+
+#### [A MegaCam Survey of Outer Halo Satellites. VII. A Single Sérsic Index v/s Effective Radius Relation for Milky Way Outer Halo Satellites](https://arxiv.org/abs/1902.08860)
+    * to present evidence of a correlation in the Sersic index v/s effective radius plane followed by a large fraction of outer halo globular clusters and satellite dwarf galaxies
+    * 认为在测光参数空间有两种球状星团： the existence of two types of outer halo globular clusters: one of high surface brightness (HSB group), with properties similar to inner halo clusters; and another of low surface brightness (LSB group), which share characteristics with dwarf spheroidal and ultra-faint dwarf galaxies.
+
+
+#### [Ubiquitous cold and massive filaments in cool core clusters](https://arxiv.org/abs/1902.09164)
+    - **Relevant**
+    * We observed molecular gas in 3 cool cluster cores: Centaurus, Abell S1101, and RXJ1539.5 and gathered ALMA and MUSE data for 12 other clusters. 
+    * Two objects show nuclear molecular disks. The optical nebula is certainly tracing the warm envelopes of cold molecular filaments.
+    * the radial profile of the Hα/CO flux ratio is roughly constant for most of the objects, suggesting that (i) between 1.2 to 7 times more cold gas could be present and (ii) local processes must be responsible for the excitation.
+    * Velocity and dispersions are low, below the escape velocity. Cold clouds should eventually fall back and fuel the AGN.
+
+#### [A multi-wavelength de-blended Herschel view of the statistical properties of dusty star-forming galaxies across cosmic time](https://arxiv.org/abs/1902.09172)
+    * We use state-of-the-art de-blended Herschel catalogue in the COSMOS field, generated by combining the Bayesian source extraction tool XID+ and informative prior on the spectral energy distributions
+    * we are able to achieve more accurate measurements while probing ten times below the confusion limit.
+    * However, our counts at 350 and 500 microns are considerably below previous Herschel results. This is due to previous studies suffering from source confusion which worsens towards longer wavelength.
+    * The increased dynamic range of our measurements allows us to better measure the faint-end slope of the LF and measure the dust-obscured SFRD out to z~6. 
+    * We find that the fraction of dust obscured star-formation activity is at its highest (> 80%) around z ∼ 1 which then decreases towards both low and high redshift.
+    
+
+#### [Driving massive molecular gas flows in central cluster galaxies with AGN feedback](https://arxiv.org/abs/1902.09227)
+    - **Relevant, Interesting**
+    * ALMA observations of molecular gas in twelve central cluster galaxies. 
+    * 分子气体含量在10^9-11 Msun之间
+    * ALMA images reveal a distribution of morphologies from filamentary to disk-dominated structures. 核周盘比较少见，大多是纤维状结构，可以延展到几十kpc
+    * In nearly all cases the molecular gas velocities lie far below stellar velocity dispersions, indicating youth, transience or both
+    * Filament bulk velocities lie far below the galaxy's escape and free-fall speeds indicating they are bound and being decelerated, a remarkable and poorly understood property.
+    * Smooth velocity gradients found along the filaments are consistent with gas flowing along streamlines surrounding the rising radio bubbles.
+
+
+#### [From kpcs to the central parsec of NGC 1097: feeding star formation and a black hole at the same time](https://arxiv.org/abs/1902.09370)
+    * The assembled IR to UV images at ∼10 pc resolution allow us to characterise the population of circa 250 clusters in the ring and disentangle the network of filaments of dust and gas that enshroud and feed them.
+    * The ring is a place of intermittent star bursts over the last 100 Myr. Four major episodes covering a proto-cluster phase of eleven mid-IR sources at the molecular clouds core, and two (three) previous bursts with a time separation of 20 - 30 Myr are identified.
+    * 看到了很多细节丰富的尘埃纤维结构：We believe these are kpc-scale dust-gas streamers feeding the ring and the black-hole.
+
+
+#### [SDSS-IV eBOSS Spectroscopy of X-ray and WISE AGN in Stripe 82X: Overview of the Demographics of X-ray and Mid-Infrared Selected Active Galactic Nuclei](https://arxiv.org/abs/1902.09408)
+    * eBOSS观测Strip 82里的X-ray和MIR选择的AGN
+    * We combine this sample with X-ray and WISE AGN in the field identified via other sources of spectroscopy, producing a catalog of 4847 sources that is 82% complete to r∼22.
+    * About 30% of the AGN are optically obscured; 50% of the WISE AGN at z<0.5 have emission line ratios consistent with star-forming galaxies
+    * We find that 61% of X-ray AGN are not selected as MIR AGN, with 22% of X-ray AGN undetected by WISE 大多数都是高光度AGN，MIR挑选可能会损失掉一部分高光度的AGN
+    * Conversely, ∼58% of WISE AGN are undetected by X-rays, though we do not find that they are preferentially redder than the X-ray detected WISE AGN.
+
+
+#### [Generating Approximate Halo Catalogs for Blind Challenges in Precision Cosmology](https://arxiv.org/abs/1902.09475)
+    * We present a method for generating suites of dark-matter halo catalogs with only a few N-body simulations, focusing on making small changes to the underlying cosmology of a simulation with high precision 
+    * Starting with full N-body realizations of an original cosmology and a target cosmology, we fit a transfer function that displaces halos in the original so that the galaxy/HOD power spectrum matches that of the target cosmology. 然后再把这个转移函数用到其他模拟上。。。
+
+
+#### [The large-scale environment from cosmological simulations II: The redshift evolution and distributions of baryons](https://arxiv.org/abs/1902.09522)
+    * 研究how baryons affect the LSE as a function of redshift 
+    * 基本没有影响。。。gas web is an unbiased tracer of total matter – even better at high redshifts.
+    * 40%的气体在WHIM中，比例随红移下降; 50%的WHIM在cosmic filament中
+
