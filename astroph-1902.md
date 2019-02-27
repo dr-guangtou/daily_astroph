@@ -823,3 +823,90 @@
     * 基本没有影响。。。gas web is an unbiased tracer of total matter – even better at high redshifts.
     * 40%的气体在WHIM中，比例随红移下降; 50%的WHIM在cosmic filament中
 
+
+----
+
+## Feb 25:
+
+#### [A general approach to quenching and galactic conformity](https://arxiv.org/abs/1902.09543)
+    * 根据恒星质量和局域环境密度建立一个经验的quenching模型，在此之上，根据观测的SFR和模型预测的SFR的差别建立一个framework: 基本就是利用residual作为隐藏变量
+    * For a sample of local galaxies and find that, after accounting for the average quenching effects of stellar mass and local density, Δ remains correlated out to separations of 3 Mpc.
+    * Furthermore, we find that external hidden variables remain important for driving the residual quenching of low-mass galaxies, while the residual quenching of high-mass galaxies is driven mostly by internal properties. 
+
+
+#### [Identification of the Long Stellar Stream of the Prototypical Massive Globular Cluster ω Centauri](https://arxiv.org/abs/1902.09544)
+    * Here we use N-body simulations to show that the recently-discovered `Fimbulthul' structure, identified in the second data release (DR2) of the Gaia mission, is the long sought-for tidal stream of ω Cen, extending up to 28deg from the cluster. 
+    * Follow-up high-resolution spectroscopy of 5 stars in the stream show that they are closely-grouped in velocity, and have metallicities consistent with having originated in that cluster. 
+
+
+#### [Evolution of supernovae-driven superbubbles with conduction and cooling](https://arxiv.org/abs/1902.09547)
+    * study the dynamical evolution and internal structure of superbubbles (SBs) driven by clustered supernovae (SNe), focusing on the effects of thermal conduction and cooling in the interface between the hot bubble interior and cooled shell.
+    * The conductive heat flux into the shell is balanced by a combination of cooling in the interface and evaporation of shell gas into the bubble interior
+    * 热传导效应很重要：This evaporation increases the density, and decreases the temperature, of the SB interior by more than an order of magnitude relative to simulations without conduction
+    * 同时冷却更重要：most of the energy conducted into the interface is immediately lost to cooling, reducing the evaporative mass flux required to balance conduction.
+
+
+#### [Passive galaxies in the early Universe: ALMA confirmation of z~3-5 candidates in the CANDELS GOODS-South field](https://arxiv.org/abs/1902.09548)
+    - **Interesting, Relevant**
+    * We present here the analysis of ALMA archival observations of 26 out of the 30 galaxies in the deep CANDELS GOODS-South field that we identified as passive at z~3-5 by means of a careful and conservative SED fitting analysis.
+    * With the exception of a few marginal detections at <3sigma, we could only infer upper limits, both on individual sources and on the stacks.
+    * This analysis confirms the passive nature of 9 candidates with high confidence and suggests that the classification is correct for at least half of the sample in a statistical sense. For the remaining sources the analysis remain inconclusive because available ALMA data is not deep enough
+
+
+#### [The MOSDEF Survey: Kinematic and Structural Evolution of Star-Forming Galaxies at 1.4≤z≤3.8](https://arxiv.org/abs/1902.09554)
+    * 708 galaxies at z∼1.4−3.8的电离气体动力学
+    * We find V/σV,0 increases with increasing stellar mass and decreasing specific SFR (SSFR). These trends may reflect marginal disk stability, where systems with higher gas fractions have thicker disks. 
+    * By comparing dynamical and baryonic masses, we find that galaxies at 𝑧 ∼ 1.4 − 3.8 are baryon dominated within the Re, with 𝑀dyn/𝑀baryon increasing overtime.
+    * Baryon质量是从恒星质量加上从SFR推出的气体质量 (K-S law) 得到的
+    * At fixed redshift, 𝑓bar does not appear to vary with stellar mass 但随Re变小而增加
+
+
+#### [SILVERRUSH. VIII. Spectroscopic Identifications of Early Large Scale Structures with Protoclusters Over 200 Mpc at z~6-7: Strong Associations of Dusty Star-Forming Galaxies](https://arxiv.org/abs/1902.09555)
+    * three-dimensional maps of the universe in ~200x200x80 comoving Mpc^3 (cMpc^3) volumes each at z=5.7 and 6.6 based on a spectroscopic sample of 174 galaxies 一直完备到很低的Lya光度
+    * The maps reveal filamentary large-scale structures and two remarkable overdensities made out of at least 42 and 12 galaxies at z=5.692 (z57OD) and z=6.585 (z66OD) 
+    * The galaxies in z57OD and z66OD are actively forming stars with star formation rates (SFRs) >~5 times higher than the main sequence
+
+
+#### [Can intrinsic alignments of elongated low-mass galaxies be used to map the cosmic web at high redshift?](https://arxiv.org/abs/1902.09559)
+    * 高红移的低质量SF星系是proloate的雪茄型，可能是因为在filament里形成导致的，也可能指示了filament的方向
+    * Using mock lightcones and spectroscopically-confirmed galaxy pairs from the CANDELS survey, we test two types of alignments: (1) between the galaxy major axis and the direction to nearby galaxies of any mass, and (2) between the major axes of nearby pairs of low-mass, likely prolate, galaxies. The mock lightcones predict strong signals in 3D real space, 3D redshift space, and 2D projected redshift space 
+    
+
+#### [Magnetic fields and extraordinarily bright radio emission in the X-ray faint galaxy group MRC 0116+111](https://arxiv.org/abs/1902.09560)
+    * 没有射电点源，但有弥散射点辐射的group，可能代表了过去的AGN活动
+    * X-ray观测：we find that the radio-to-X-ray luminosity ratio is among the highest ever observed for a diffuse extragalactic source so far, while the extent of the observed radio emission is about three times larger than its observed soft X-ray emission.
+    * the gas properties lie within the LX-T scaling relation established previously for other groups.
+
+
+#### [Extremely Low Molecular Gas Content in a Compact, Quiescent Galaxy at z=1.522](https://arxiv.org/abs/1902.09564)
+    - **Relevant, Interesting**
+    * We present ALMA observations of CO(2-1) in a massive (logM⋆/M⊙=11.2), recently quenched galaxy at z=1.522. The optical spectrum of this object shows strong Balmer absorption lines, which implies that star formation ceased ∼0.8 Gyr ago.
+    * CO(2-1)的上限给出了一个很低的分子气体质量上限，比SF星系的正常含量低10多倍
+    * Our observations show that the depletion of H2 from the interstellar medium of quenched objects can be both efficient and fairly complete, in contrast to recent claims of significant cold gas in recently quenched galaxies. [但两个claim都可以是正确的]
+
+
+#### [The Dark Matter Distributions in Low-Mass Disk Galaxies. I. Hα Observations Using the Palomar Cosmic Web Imager](https://arxiv.org/abs/1902.09629)
+    * To better understand the diversity of dark matter profiles in dwarf galaxies, we undertook a survey of 26 low-mass galaxies within 30 Mpc using the Palomar Cosmic Web Imager
+    * We extract rotation curves and verify their robustness to several choices in the analysis. We present a method for improving the velocity precision obtained from image slicing spectrographs using narrowband Hα images.
+    * we compare the Hα velocity fields to CO kinematics measured using CARMA, finding the maps to be in good agreement...showing that the two tracers have substantially the same bulk kinematics.
+
+
+#### [Alignment between filaments and galaxy spins from the MaNGA integral-field survey](https://arxiv.org/abs/1902.09797)
+    * 星系和halo角动量与大尺度filament的关系：Low mass halos grow by accretion onto filaments, aligning their spins with the filaments, whereas high mass halos grow by mergers along filaments, generating spins perpendicular to the filament.
+    * MaNGA produces a map of the galaxy's rotational velocity, allowing direct measurement of the galaxy's spin direction, or unit angular momentum vector projected onto the sky. 但没有看到和大尺度filament之间的相关
+
+
+#### [A reference sample of face-on bulgeless galaxies](https://arxiv.org/abs/1902.09892)
+    * We present a list of 220 face-on, almost bulgeless galaxies assumed to be counterparts to the objects from the Reference Flat Galaxy Catalog (RFGC).
+    * About half of them have bar-like structures occurring in the whole range of the absolute magnitudes of galaxies
+    * An essential part of our sample (27-50%) exhibit distorted spiral patterns
+
+
+#### [Investigating the Candidate Displaced Active Galactic Nucleus in NGC 3115](https://arxiv.org/abs/1902.10011)
+    * NGC3115 was recently claimed to host a candidate AGN displaced 14.3 pc from the galaxy's optical photocenter. Our goal is to understand whether this represents a single offset AGN
+    * 新的10GHz观测：finds evidence for only one AGN.
+    * This provides an argument against a single offset AGN in NGC 3115, however does not provide conclusive evidence against the purported offset AGN as an in-spiralling secondary black hole.
+
+#### [Highly Magnified Stars in Lensing Clusters: New Evidence in a Galaxy Lensed by MACS J0416.1-2403](https://arxiv.org/abs/1902.10090)
+    * We examine a caustic-straddling arc at z=0.9397 in the field of the galaxy cluster MACS J0416.1-2403 (z=0.397) using archival multiband HST images and show that its surface brightness exhibits anomalies that can be explained by a single highly magnified star undergoing microlensing.
+    * We extend this study to a statistical analysis of the whole arc image and find tentative evidence of the increased mismatch of the two images in the proximity of the critical line. Robust detection of one or multiple caustic-transiting stars in this arc will enable detailed follow-up studies that can shed light on the small-scale structure of the dark matter inside the cluster halo.
