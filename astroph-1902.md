@@ -967,3 +967,83 @@
 #### [The Role of Machine Learning in the Next Decade of Cosmology](https://arxiv.org/abs/1902.10159)
     - **Astro2020 white paper**
     * ML could transform our field, but this transformation will require the astronomy community to both foster and promote interdisciplinary research endeavors.
+
+----
+
+## Feb 28:
+
+#### [The Brightest z≳8 Galaxies over the COSMOS UltraVISTA Field](https://arxiv.org/abs/1902.10713)
+    * We present 16 new ultrabright HAB≲25 galaxy candidates at z~8 identified over the COSMOS/UltraVISTA field
+    * HST/WFC3 coverage from the DASH program reveals that one source evident in our ground-based near-IR data has significant substructure and may actually correspond to 3 separate z~8 objects
+    * UV slope steeper but still consistent with bright ones at z~6
+
+#### [Atomic and molecular gas in IllustrisTNG galaxies at low redshift](https://arxiv.org/abs/1902.10714)
+    - **Important**
+    * We have recently developed a framework to estimate the abundance of atomic and molecular hydrogen (HI and H2, respectively) in galaxies in large-volume cosmological simulations.
+    * 在红移0比较TNG和观测：consider six observational metrics: the overall abundance of HI and H2, their mass functions, gas fractions as a function of stellar mass, the correlation between H2 and star formation rate, the spatial distribution of gas, and the correlation between gas content and morphology.
+    * 气体比例和HI的mass-size关系和观测比较一致：The H2 mass correlates with star formation rate as expected, revealing an almost constant depletion time that evolves up to z = 2 as observed
+    * 也有不一致的地方：including an overestimate of the total neutral gas abundance at z = 0 by about a factor of two and a possible excess of satellites with no or very little neutral gas
+
+#### [A Dynamical Model for Clustered Star Formation in the Galactic Disk](https://arxiv.org/abs/1902.10719)
+    - **Interesting**
+    * we present a new dynamical model of the Galactic disk that takes into account the clustered nature of star formation. This model predicts that the combined phase and chemical space is rich in substructure, and that this structure is sensitive to both the precise nature of clustered star formation and the large-scale properties of the Galaxy
+    * The model self-consistently evolves 4 billion stars over the last 5 Gyr in a realistic potential that includes an axisymmetric component, a bar, spiral arms, and giant molecular clouds (GMCs).
+    * N-body模拟不现实：we have developed a method of initializing star cluster particles to mimic the effects of direct \textit{N}-body effects, while the actual orbit integrations are treated as test particles within the analytic potential.
+    * 相空间和化学空间的结合找结构非常有效
+
+
+#### [The Evolution of Sizes and Specific Angular Momenta in Hierarchical Models of Galaxy Formation and Evolution](https://arxiv.org/abs/1902.10724)
+    - **Relevant**
+    * GAEA (GAlaxy Evolution and Assembly): we show that the predicted size-mass relation for disky/star forming and quiescent galaxies is in good agreement with observational estimates, up to z∼2
+    * Size还是在大质量端偏小，还是可能和feedback有关
+    * Our model compact galaxies have number densities in agreement with observational estimates and they form most of their stars in small and low angular momentum high-z halos. 
+    * GAEA predicts that a significant fraction of compact galaxies forming at high-z is bound to merge with larger structures at lower redshifts: therefore they are not the progenitors of normal-size passive galaxies at z = 0.
+    * Our model also predicts a stellar-halo size relation that is in good agreement with observational estimates
+
+
+#### [On the dust temperatures of high redshift galaxies](https://arxiv.org/abs/1902.10727)
+    * However, different definitions of dust temperatures have been used in the literature, leading to different physical interpretations of how ISM conditions change with, e.g., redshift and star formation rate
+    * FIRE模拟研究高红移中等质量星系
+    * We find that dust temperatures based on the **peak emission wavelength** increase with redshift, in line with the higher star formation activity at higher redshift, and are strongly correlated with the specific star formation rate. 
+    * In contrast, the **mass-weighted dust** temperature does not strongly evolve with redshift over z=2-6 at fixed IR luminosity but is tightly correlated with L_IR at fixed z. 质量加权的尘埃温度才更适合估计尘埃质量
+
+
+#### [Long-term optical spectral monitoring of a changing-look AGN NGC 3516 I: Continuum and broad-line flux variability](https://arxiv.org/abs/1902.10845)
+    * 22年的监测：We explore a variability in the broad lines and continuum, finding that the continuum is changing by more than a factor of 2, while the broad lines are varying by more than a factor of 10
+    * We confirm that NGC 3516 is a changing-look AGN, and the absorption seen in the UV and X-ray may indicate that there is an obscuring region which is responsible for this
+
+
+#### [Galaxies and Cluster of Galaxies as Peak Patches of the Density Field](https://arxiv.org/abs/1902.10941)
+    - **huh??**
+    * 结合星系LF，WL测量和X-ray给出的cluster mass function限制宇宙学
+    * We show the results of the comparison in the form of the mass density fraction that is contained in collapsed objects relative to the mean matter density in the Universe.
+
+
+#### [A new Einstein Cross gravitational lens of a Lyman-break galaxy](https://arxiv.org/abs/1902.10964)
+    * Deep spectroscopic observations obtained at the Spanish 10.4m GTC telescope, allowed us to demonstrate the lens nature of the system, that consists of a Lyman-break galaxy, not a QSO as is usually the case, at z = 3.03 lensed by a galaxy at z=0.556. 
+    * This is the second case known of an Einstein cross of a Lyman-break galaxy.
+
+#### [Size-scaling of clump instabilities in turbulent, feedback regulated disks](https://arxiv.org/abs/1902.11034)
+    - **Interesting**
+    * We explore the scaling between the size of star-forming clumps and rotational support in massively star-forming galactic disks 靠模拟以及DYNAMO sample of rare clumpy analogs at z≈0.1  
+    * Violent Disk Instability (VDI) theory by Fisher+2017 预测了clump size和盘选择速度之间的相关
+        - r_clump/r_disk 和 sigma/V之间的正相关
+    * We here determine the clump sizes using a recently presented 2- point estimator, which is robust against resolution/noise effects, hierarchical clump substructure, clump-clump overlap and other galactic substructure.
+    * 用模拟验证：We find that, during its marginally stable epoch at z = 2, this mock galaxy falls on the clump scaling relation, although its position on this relation depends on the feedback model.
+
+#### [MgII 2797, 2803 emission in a large sample of low-metallicity star-forming galaxies from SDSS DR14](https://arxiv.org/abs/1902.11083)
+    * SDSS DR14中的 A large sample of MgII emitting star-forming galaxies with low metallicity [O/H] = log(O/H)-log(O/H)sun between -0.2 and -1.2 dex 
+    * We study the dependence of the magnesium-to-oxygen and magnesium-to-neon abundance ratios on metallicity. Extrapolating this dependence to [Mg/Ne]=0 and to solar metallicity we derive a magnesium depletion of [Mg/Ne]~-0.4 (at solar metallicity)
+    * 用Ne而不是用O来衡量depletion程度是因为Ne是惰性气体，不进入尘埃
+    * 质量越大，金属丰度越高的星系，Mg的depletion越严重
+    * MgII emission has a nebular origin
+
+#### [The fourth data release of the Kilo-Degree Survey: ugri imaging and nine-band optical-IR photometry over 1000 square degrees](https://arxiv.org/abs/1902.11265)
+    * Present the fourth public data release which more than doubles the area of sky covered by data release 3. We also include aperture-matched ZYJHKs photometry from our partner VIKING survey on the VISTA telescope in the photometry catalogue.
+    * The Astro-WISE information system is used for the production of co-added images in the four survey bands, while a separate reduction of the r-band images using the theli pipeline is used to provide a source catalogue suitable for the core weak lensing science case.
+    * Mean limiting magnitudes (5 sigma in a 2" aperture) are 24.23, 25.12, 25.02, 23.68 in ugri, respectively, and the mean r-band seeing is 0.70".
+
+#### [The galaxy cluster mass scale and its impact on cosmological constraints from the cluster population](https://arxiv.org/abs/1902.10837)
+    - **Relevant, Review**
+    * Building on the rich heritage from X-ray surveys, new results from Sunyaev-Zeldovich and optical surveys have stimulated a resurgence of interest in cluster cosmology.
+    * On the observational side, new, sophisticated techniques are being deployed in individual mass measurements and to account for selection biases in cluster surveys. 
