@@ -84,6 +84,49 @@
 
 * [A New Class of X-Ray Tails of Early-Type Galaxies and Subclusters in Galaxy Clusters - Slingshot Tails vs Ram Pressure Stripped Tails](https://arxiv.org/abs/1903.00482)
 
+* [A New Method to Quantify Environment and Model Ram-Pressure Stripping in N-Body Simulations](https://arxiv.org/abs/1903.01988)
+
+* [The UV and Lyα Luminosity Functions of galaxies and the Star Formation Rate Density at the end of HI reionization from the VIMOS Ultra-Deep Survey (VUDS)](https://arxiv.org/abs/1903.01988)
+
+* [Direct observation of the Broad Line Region in X-rays during the low state of NGC4051](https://arxiv.org/abs/1903.01796)
+  * NGC 4051 is one of the X-ray brightest and most variable Seyfert galaxies
+  * 09年的时候是X-ray continuum最低的时候，看到了很多He-like发射线：The exceptionally high intercombination line flux is a direct measurement of either a high density or a UV irradiated photoionized plasma
+  * 可以直接测宽线区大小，10^5cm: This is the first direct X-ray measurement of a Seyfert Broad Line Region.
+
+* [The metallicity and elemental abundance maps of kinematically atypical galaxies for constraining minor merger and accretion histories](https://arxiv.org/abs/1903.01597)
+  * In previous work we identified five well resolved galaxies with atypical kinematics from a cosmological simulation; two had kinematically distinct cores (KDCs), and three had counter-rotating gas and stars (CRGD)
+  * i) the KDC galaxies have flattening of stellar [O/Fe] at large galacto-centric radii due to the minor mergers that gave rise to the KDCs, and ii) the CRGD galaxies have an abrupt transition in the gas metallicity maps, from high metallicity in the centre to very low metallicity further out.
+  * The non-linear increase in gas metallicity is also seen in the radial profiles, but when the metallicity gradients are measured, the difference is buried in the scatter of the relation
+
+* [Ensemble photometric redshifts](https://arxiv.org/abs/1903.01571)
+  * There are many situations where only the statistical distribution of objects (dN/dz) in the line-of-sight direction is needed. In such situations, there is no need to measure the fluxes of individual objects in all of the surveys. Rather a stacking procedure can be used to perform an `ensemble photo-z'.
+  * We show how a shallow, higher spectral resolution survey can be used to measure dN/dz for stacks of galaxies which coincide in a deeper, lower resolution survey.
+
+* [Is it possible to reconcile extragalactic IMF variations with a universal Milky Way IMF?](https://arxiv.org/abs/1903.01533)
+  * **Relevant**
+  * We explore what sort of cloud-scale IMF models could possibly satisfy these constraints. 指IMF从UFD到大质量椭圆星系的变化
+  * 在模拟星系里重现基本的观测性质，We then consider generic models where the characteristic mass of the IMF is some arbitrary power-law function of progenitor cloud properties, along with well-known literature IMF models, which scale with Jeans mass, turbulent Bonnor-Ebert mass, temperature, the opacity limit, metallicity, or the protostellar heating mass 但都不能满足要求
+  * Either the IMF varies in a more complicated manner, or alternative interpretations of the extragalactic observations must be explored.
+
+* [A Machine Learning Artificial Neural Network Calibration of the Strong-Line Oxygen Abundance](https://arxiv.org/abs/1903.01506)
+  * Here, I explore the possibility of using an artificial neural network model to construct a non-linear strong-line calibration.
+  * Using about 950 literature HII region spectra with auroral line detections, I build multi-layer perceptron models under the machine learning framework of training and testing.
+
+* [Identifying reionization-epoch galaxies with extreme levels of Lyman continuum leakage in James Webb Space Telescope surveys](https://arxiv.org/abs/1903.01483)
+  * Here we present a machine learning framework for identifying cases of very high hydrogen-ionizing (Lyman continuum) photon escape from galaxies based on the data quality expected from potential NIRSpec observations of EoR galaxies in lensed fields.
+  * Under the assumption that the simulations provide sufficiently realistic representations of actual EoR galaxies, we find that ionizing escape fractions of galaxies brighter than mAB,1500≈27 mag may be retrieved with mean absolute error Δfesc≈ 0.07 (0.11) for 10 h (1.5 h) JWST/NIRSpec exposures at resolution R=100. 
+
+* [Do BL Lac Objects and FR I radiogalaxies inhabit the same galaxy environment?](https://arxiv.org/abs/1903.01935)
+  * We compare the environment of a sample of 50 BL Lac objects at 0.1\<z\<0.33 with that of a sample of 90 FR I galaxies at 0.1\<z\< 0.15.
+  * We find that the galaxy excess density within 0.5 Mpc around of FR I radiogalaxies is a factor ~ 2 larger than that around BL Lacs. This implies a reconsideration of the parent population of BL Lac objects.
+
+* [Halo Exclusion Criteria Impacts Halo Statistics](https://arxiv.org/abs/1903.01709)
+  * **Relevant, Interesting**
+  * Every halo finding algorithm must make a critical yet relatively arbitrary choice: it must decide which structures are parent halos, and which structures are sub-halos of larger halos.
+  * We refer to this choice as percolation. We demonstrate that the choice of percolation impacts the statistical properties of the resulting halo catalog
+  * The resulting halos exhibit significant differences in both halo abundance and clustering properties.
+  * Comparable differences are observed in the large-scale clustering bias, while differences in the halo--matter correlation function reach 40% on translinear scales
+
 ----
 
 ### Mar 6
@@ -126,3 +169,42 @@
   * In each redshift bin the linear bias can be fitted with a single, scale-independent value that increases with increasing redshift. We find that the Euclid-like and WFIRST-like surveys yield linear biases that are consistent within error, as the galaxies in the two surveys occupy halos of similar mass
 
 * [A Pre-Merger Stage Galaxy Cluster: Abell 3733](https://arxiv.org/abs/1903.02030)
+
+----
+
+### Mar 7
+
+* [Using Torque to Understand Barred Galaxy Models](https://arxiv.org/abs/1903.02566)
+  * We find evidence for three distinct phases of barred galaxy evolution: assembly, secular growth, and steady-state equilibrium.
+  * We find that the halo model mediates the assembly and growth of the bar for a high central density halo, and the outer disc mediates the assembly and growth of the bar in a low central density halo model.
+  * Both galaxies exhibit a steady-state equilibrium phase where the bar is neither lengthening nor slowing. The steady-state equilibrium results from the balance of torque between particles that are gaining and losing angular momentum
+
+* [The survey of Planetary Nebulae in Andromeda (M31): I. Imaging the disk and halo with MegaCam@CFHT](https://arxiv.org/abs/1903.02597)
+  * PNe were identified based on their bright OIII 5007 Å emission and absence of a continuum.
+  * We identify 4289 PNe, of which only 1099 were previously known. By comparing the PN number density with the surface brightness profile of M31 out to ~30 kpc along the minor-axis, we find that the stellar population in the inner halo has a 7 times larger luminosity-specific PN number value than that of the disk
+  * 关于PNLF：Interestingly, it shows a significant rise at the faint end, present in all radial bins covered by the survey, much steeper than that observed for the Magellanic clouds and Milky Way bulge. M31 shows two major episodes of star formation and the rise in the faint end of the PNLF is possibly associated with the older stellar population.
+
+* [An ALMA survey of the SCUBA-2 Cosmology Legacy Survey UKIDSS/UDS field: Source catalogue and properties](https://arxiv.org/abs/1903.02602)
+  * AS2UDS, an 870-μm continuum survey with the Atacama Large Millimetre/sub-millimetre Array (ALMA) of 716 single-dish sub-millimetre sources detected in the UKIDSS/UDS field by the SCUBA-2 Cosmology Legacy Survey.
+  * We detect 708 sub-millimetre galaxies (SMGs) at > 4.3σ significance
+  * This large sample reveals a statistically significant trend of increasing sub-millimetre flux with redshift suggestive of galaxy downsizing.
+  * we combine X-ray and mid-infrared active galaxy nuclei activity (AGN) indicators to yield a likely range for the AGN fraction of 8–28 % in our sample.
+
+* [ALMA twenty-six arcmin2 survey of GOODS-S at one-millimeter (ASAGAO): Near-infrared-dark faint ALMA sources](https://arxiv.org/abs/1903.02744)
+  * 近红外dark的弱毫米波源：We report detections of two 1.2 mm continuum sources (S1.2mm ~ 0.6 mJy) without any counterparts in the deep H- and/or K-band image 
+  * One has a red IRAC (3.6 and 4.5 μm) counterpart, and the other has been independently detected at 850 and 870 μm using SCUBA2 and ALMA Band 7
+  * Their optical to radio spectral energy distributions indicate that they can lie at z≳ 3-5 and can be in the early phase of massive galaxy formation
+  * 对SFR密度的贡献：can be consistent with, or greater than that of bright submillimeter galaxies (S870μm> 4.2 mJy) at z ~ 3-5. 
+
+* [Pre-processing of galaxies in cosmic filaments around AMASCFI clusters in the CFHTLS](https://arxiv.org/abs/1903.02879)
+  * We detected cosmic filaments around galaxy clusters using photometric redshifts in the range 0.15 < z < 0.7.
+  * The filament reconstruction was done with the DISPERSE al- gorithm in photometric redshift slices.
+  * We showed that the AMASCFI cluster connectivity (i.e. the number of filaments connecting to a cluster) increases with cluster mass M200.
+  * Passive galaxies in filaments are closer to clusters than star-forming galaxies in the low redshift bin only. The passive fraction of galaxies decreases with increasing clustercentric distance up to d ∼ 5 cMpc.
+
+* [High density of active galactic nuclei in the outskirts of distant galaxy clusters](https://arxiv.org/abs/1903.02919)
+  * **Interesting**
+  * 看Planck和SPT找到的z~1的最大质量的星系团的AGN分布
+  * For our purposes, we computed the X-ray point-like source surface density in 0.5RYx500 wide annuli up to a clustercentric distance of 4RYx500
+  * We found a significant excess of X-ray point sources between 2 and 2.5RYx500 at the 99.9\% confidence level
+  * The results clearly display for the first time strong observational evidence of AGN triggering in the outskirts of high-redshift massive clusters with such a high statistical significance.
