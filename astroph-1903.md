@@ -208,3 +208,37 @@
   * For our purposes, we computed the X-ray point-like source surface density in 0.5RYx500 wide annuli up to a clustercentric distance of 4RYx500
   * We found a significant excess of X-ray point sources between 2 and 2.5RYx500 at the 99.9\% confidence level
   * The results clearly display for the first time strong observational evidence of AGN triggering in the outskirts of high-redshift massive clusters with such a high statistical significance.
+
+----
+
+### Mar 10
+
+* [The SAMI Galaxy Survey: Bayesian Inference for Gas Disk Kinematics using a Hierarchical Gaussian Mixture Model](https://arxiv.org/abs/1903.03121)
+  * **Interesting, Useful**
+  * Blobby3D, to infer gas kinematics that mitigates the effects of beam smearing for observations using Integral Field Spectroscopy (IFS)
+  * Modelling the gas substructure within the disk is achieved by using a hierarchical Gaussian mixture model. 可以模拟气体团块和
+
+* [WISDOM project - IV. A molecular gas dynamical measurement of the supermassive black hole mass in NGC 524](https://arxiv.org/abs/1903.03124)
+
+* [PRIMUS: Clustering of Star-forming and Quiescent Central Galaxies at 0.2<z<0.9](https://arxiv.org/abs/1903.03127)
+
+* [Discovery of a Lya emitting dark-cloud within z ~ 2.8 SMMJ02399-0136 system](https://arxiv.org/abs/1903.03131)
+
+* [Black hole mass and cluster mass correlation in cosmological hydro-dynamical simulations](https://arxiv.org/abs/1903.03142)
+
+* [Powerful AGN jets and unbalanced cooling in the hot atmosphere of IC 4296](https://arxiv.org/abs/1903.03198)
+
+* [Spatially resolved carbon and oxygen isotopic ratios in NGC 253 using optically thin tracers](https://arxiv.org/abs/1903.03244)
+  * Spatially resolve the carbon and oxygen isotope ratios across the central molecular zone (full size ~∼600 pc) in the nearby starburst galaxy NGC 253
+  * First extragalactic detection of the double isotopologue 13C18O
+  * The molecular clouds in the central region of NGC 253 show similar rare isotope enrichment to those within the central molecular zone of the Milky way.
+  * This enrichment is attributed to stellar nucleosynthesis. Measured isotopic ratios suggest an enhancement of 18O as compared to our Galactic center, which we attribute to an extra 18O injection from massive stars.
+  * We observe an extra molecular component of highly processed gas on top of the already proposed less processed gas being transported to the central region of NGC 253. Such multicomponent nature and optical depth effects may hinder the use of isotopic ratios based on spatially unresolved line to infer the star formation history and/or initial stellar mass function properties in the nuclei of galaxies.
+
+* [Do Galaxy Morphologies Really Affect the Efficiency of Star Formation during the Phase of Galaxy Transition?](https://arxiv.org/abs/1903.03505)
+
+* [Efficient Selection of Quasar Candidates Based on Optical and Infrared Photometric Data Using Machine Learning](https://arxiv.org/abs/1903.03337)
+
+* [Astrophysical Tests of Dark Matter with Maunakea Spectroscopic Explorer](https://arxiv.org/abs/1903.03155)
+* [Cosmology with the MaunaKea Spectroscopic Explorer](https://arxiv.org/abs/1903.03158)
+* [CDIM: Cosmic Dawn Intensity Mapper Final Report](https://arxiv.org/abs/1903.03144)
