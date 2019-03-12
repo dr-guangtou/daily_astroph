@@ -114,7 +114,7 @@
 
 * [Identifying reionization-epoch galaxies with extreme levels of Lyman continuum leakage in James Webb Space Telescope surveys](https://arxiv.org/abs/1903.01483)
   * Here we present a machine learning framework for identifying cases of very high hydrogen-ionizing (Lyman continuum) photon escape from galaxies based on the data quality expected from potential NIRSpec observations of EoR galaxies in lensed fields.
-  * Under the assumption that the simulations provide sufficiently realistic representations of actual EoR galaxies, we find that ionizing escape fractions of galaxies brighter than mAB,1500≈27 mag may be retrieved with mean absolute error Δfesc≈ 0.07 (0.11) for 10 h (1.5 h) JWST/NIRSpec exposures at resolution R=100. 
+  * Under the assumption that the simulations provide sufficiently realistic representations of actual EoR galaxies, we find that ionizing escape fractions of galaxies brighter than mAB,1500≈27 mag may be retrieved with mean absolute error Δfesc≈ 0.07 (0.11) for 10 h (1.5 h) JWST/NIRSpec exposures at resolution R=100.
 
 * [Do BL Lac Objects and FR I radiogalaxies inhabit the same galaxy environment?](https://arxiv.org/abs/1903.01935)
   * We compare the environment of a sample of 50 BL Lac objects at 0.1\<z\<0.33 with that of a sample of 90 FR I galaxies at 0.1\<z\< 0.15.
@@ -191,10 +191,10 @@
   * we combine X-ray and mid-infrared active galaxy nuclei activity (AGN) indicators to yield a likely range for the AGN fraction of 8–28 % in our sample.
 
 * [ALMA twenty-six arcmin2 survey of GOODS-S at one-millimeter (ASAGAO): Near-infrared-dark faint ALMA sources](https://arxiv.org/abs/1903.02744)
-  * 近红外dark的弱毫米波源：We report detections of two 1.2 mm continuum sources (S1.2mm ~ 0.6 mJy) without any counterparts in the deep H- and/or K-band image 
+  * 近红外dark的弱毫米波源：We report detections of two 1.2 mm continuum sources (S1.2mm ~ 0.6 mJy) without any counterparts in the deep H- and/or K-band image
   * One has a red IRAC (3.6 and 4.5 μm) counterpart, and the other has been independently detected at 850 and 870 μm using SCUBA2 and ALMA Band 7
   * Their optical to radio spectral energy distributions indicate that they can lie at z≳ 3-5 and can be in the early phase of massive galaxy formation
-  * 对SFR密度的贡献：can be consistent with, or greater than that of bright submillimeter galaxies (S870μm> 4.2 mJy) at z ~ 3-5. 
+  * 对SFR密度的贡献：can be consistent with, or greater than that of bright submillimeter galaxies (S870μm> 4.2 mJy) at z ~ 3-5.
 
 * [Pre-processing of galaxies in cosmic filaments around AMASCFI clusters in the CFHTLS](https://arxiv.org/abs/1903.02879)
   * We detected cosmic filaments around galaxy clusters using photometric redshifts in the range 0.15 < z < 0.7.
@@ -242,3 +242,54 @@
 * [Astrophysical Tests of Dark Matter with Maunakea Spectroscopic Explorer](https://arxiv.org/abs/1903.03155)
 * [Cosmology with the MaunaKea Spectroscopic Explorer](https://arxiv.org/abs/1903.03158)
 * [CDIM: Cosmic Dawn Intensity Mapper Final Report](https://arxiv.org/abs/1903.03144)
+
+----
+
+### Mar 11
+
+* [On the Origin of the Scatter in the Red Sequence: An Analysis of Four CLASH Clusters](https://arxiv.org/abs/1903.03618)
+  * **Interesting, Relevant**
+  * In four CLASH clusters at z = 0.355 ± 0.007, we find that the optical-IR galaxy colors confirm the previously known trend of metallicity along the red sequence but also show a strong connection between stellar age and red sequence offset, with ages ranging from 3 to 8 Gyr.
+  * While we will extend this analysis to the full CLASH sample, in four clusters our technique already provides a color precision in near-total-light apertures to resolve the spread in stellar population formation ages that drives the scatter in the red sequence.
+
+* [On the origin of star-gas counterrotation in low-mass galaxies](https://arxiv.org/abs/1903.03627)
+  * Illustris模拟里看逆向旋转的恒星和气体盘：Only ∼1% of our sample shows a counterrotating gaseous disk at z=0. These counterrotating disks arise in galaxies that have had a significant episode of gas removal followed by the acquisition of new gas with misaligned angular momentum.
+  * In our simulations, we identify two main channels responsible for the gas loss: a strong feedback burst and gas stripping during a fly-by passage through a more massive group environment.
+
+* [The role of gas fragmentation during the formation of supermassive black holes](https://arxiv.org/abs/1903.03637)
+  * hydrodynamic simulations to study the effect of fragmentation on the SMBH seed mass in the direct collapse formation scenario
+  * Our simulations in low-spin halos, in the presence of a strong UV background are consistent with the Direct Collapse Black Hole model
+  * While in our simulations under the presence of a low UV background, we find fragmentation and the formation of various minor seeds. 10^3-10^4 Msun的seed，如果能并合还是很显著的
+
+* [The role of gas fragmentation during the formation of supermassive black holes](https://arxiv.org/abs/1903.03637)
+  * A Spectroscopic Census of X-ray Systems in the COSMOS Field
+  * The COSMOS X-ray system catalog we use (George et al. 2011) includes 180 X-ray systems
+  * We identify 1843 spectroscopic redshifts of member candidates in these X-ray systems. The X-ray luminosity (LX) - velocity dispersion (σv) scaling relation of the COSMOS X-ray systems is consistent with that of massive X-ray clusters.
+
+* [A 5deg x 5deg deep HI survey of the M81 group](https://arxiv.org/abs/1903.03767)
+  * A 25 deg2 region, including the M81 complex (M81, M82, NGC 3077), NGC 2976 and IC2574, was mapped during ~3000 hours with the DRAO synthesis telescope. With a physical resolution of ~1 kpc
+  * This supports the assumption that intergalactic gas and galaxies in the system participate to a large-scale ordered rotation motion which is dominated by M81.
+
+* [Testing the rotation versus merger scenario in the galaxy cluster Abell 2107](https://arxiv.org/abs/1903.03858)
+  * Search for global rotation of the intracluster medium (ICM) in the galaxy cluster Abell 2107
+  * By fitting the centroid of the iron Kα line complex at 6.7–6.9 keV rest frame in Chandra ACIS-I spectra, we identify the possible rotation axis 
+  * A more conservative interpretation may be provided by an unnoticed off-center, head-on collision between two comparable halos. Our analysis confirms the peculiar dynamical nature of the otherwise regular cluster Abell 2107, but is not able to resolve the rotation vs merger scenario,
+
+* [High- and Low-α Disk Stars Separate Dynamically at all Ages](https://arxiv.org/abs/1903.04030)
+  * **Interesting**
+  * We find that \emph{at all ages}, the high- and low-α sequences are dynamically distinct. This implies separate formation and evolutionary histories for the two sequences; a star's membership in the high- or low-α sequence indicates its dynamical properties at a given time.
+
+* [C IV absorbers tracing cool gas in dense galaxy group/cluster environments](https://arxiv.org/abs/1903.04119)
+  * 三个很近的QSO视线方向上的HI-CIV吸收系统： The ionization models are consistent with the origin of metal lines and H I from a cool and diffuse photoionized gas phase with T≲4×104 K and nH≲5×10−4 cm−3
+  * The RXJ~1230.8+0115 sightline traces the outskirt regions of the Virgo cluster where the absorber is found to have super-solar metallicity. 
+  * The detection of metal lines along with H I has enabled us to confirm the presence of cool, diffuse gas possibly enriched by outflows and tidal interactions in environments with significant galaxy density.
+
+* [VEGAS: a VST Early-type GAlaxy Survey. IV. NGC 1533, IC 2038 and IC 2039: an interacting triplet in the Dorado group](https://arxiv.org/abs/1903.04466)
+  * **Relevant**
+  * At such faint levels the structure of NGC 1533 appear amazingly disturbed with clear structural asymmetry between inner and outer isophotes in the North-East direction.
+  * We detect new spiral arm-like tails in the outskirts, which might likely be the signature of a past interaction/merging event. Similarly, IC 2038 and IC 2039 show tails and distortions indicative of their ongoing interaction. 
+
+* [A New, Deep JVLA Radio Survey of M33](https://arxiv.org/abs/1903.04434)
+  * We have performed new 1.4 GHz and 5 GHz observations of the Local Group galaxy M33 with the Jansky Very Large Array
+  * Using a new multi-resolution algorithm, we have created a catalog of 2875 sources, including 675 with well-determined spectral indices. We detect sources at the position of 319 of the X-ray sources in the Tuellmann et al. (2011) Chandra survey of M33, the majority of which are likely to be background galaxies.
+  * we detect 155 of the 217 optical supernova remnants included in the lists of Long et al. (2010) and Lee & Lee (2014), making this by far the largest sample of remnants at known distances with multiwavelength coverage
