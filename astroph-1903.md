@@ -254,7 +254,7 @@
   * We argue that this “dark cloud” is illuminated by the quasar with a UV flux that is orders of magnitude brighter than the emission along our sightline. This result confirms statistical inferences that luminous quasars at z > 2 emit UV radiation anisotropically.
 
 * [Black hole mass and cluster mass correlation in cosmological hydro-dynamical simulations](https://arxiv.org/abs/1903.03142)
-  * In our simulations we find that MBH well correlates with M500 and T500, with the scatter around these relations compatible within 2σ with the scatter around MBH − MBCG at z = 0. 
+  * In our simulations we find that MBH well correlates with M500 and T500, with the scatter around these relations compatible within 2σ with the scatter around MBH − MBCG at z = 0.
   * The MBH − M500 relation evolves with time, becoming shallower at lower redshift as a direct consequence of hierarchical structure formation
 
 * [Powerful AGN jets and unbalanced cooling in the hot atmosphere of IC 4296](https://arxiv.org/abs/1903.03198)
@@ -272,7 +272,7 @@
 
 * [Do Galaxy Morphologies Really Affect the Efficiency of Star Formation during the Phase of Galaxy Transition?](https://arxiv.org/abs/1903.03505)
   * **Interesting**
-  * we discuss the net effect of galaxy morphologies on the star formation efficiency (SFE) during the phase of galaxy transition, on the basis of our CO(J = 1 − 0) observations of 28 local “green-valley” galaxies with the Nobeyama 45m Radio Telescope. 
+  * we discuss the net effect of galaxy morphologies on the star formation efficiency (SFE) during the phase of galaxy transition, on the basis of our CO(J = 1 − 0) observations of 28 local “green-valley” galaxies with the Nobeyama 45m Radio Telescope.
   * We observed 13 “disk-dominated” and 15 “bulge-dominated” green-valley galaxies at fixed stellar mass (M∗) and star formation rate (SFR)
   * we reveal that the distributions of molecular gas mass, molecular gas fraction, and SFE of green-valley galaxies do not change with their morphologies, suggesting little impact of galaxy morphologies on their SFE
   * On the other hand, we find that ∼20% of bulge-dominated green-valley galax- ies do not show significant CO emission line, showing high SFEs for their M∗ and SFR. These molecular gas deficient sources identified only in the bulge-dominated green-valley galaxies may represent an important population during the quenching phase under the influence of stellar bulge,
@@ -318,7 +318,7 @@
 
 * [Testing the rotation versus merger scenario in the galaxy cluster Abell 2107](https://arxiv.org/abs/1903.03858)
   * Search for global rotation of the intracluster medium (ICM) in the galaxy cluster Abell 2107
-  * By fitting the centroid of the iron Kα line complex at 6.7–6.9 keV rest frame in Chandra ACIS-I spectra, we identify the possible rotation axis 
+  * By fitting the centroid of the iron Kα line complex at 6.7–6.9 keV rest frame in Chandra ACIS-I spectra, we identify the possible rotation axis
   * A more conservative interpretation may be provided by an unnoticed off-center, head-on collision between two comparable halos. Our analysis confirms the peculiar dynamical nature of the otherwise regular cluster Abell 2107, but is not able to resolve the rotation vs merger scenario,
 
 * [High- and Low-α Disk Stars Separate Dynamically at all Ages](https://arxiv.org/abs/1903.04030)
@@ -327,13 +327,13 @@
 
 * [C IV absorbers tracing cool gas in dense galaxy group/cluster environments](https://arxiv.org/abs/1903.04119)
   * 三个很近的QSO视线方向上的HI-CIV吸收系统： The ionization models are consistent with the origin of metal lines and H I from a cool and diffuse photoionized gas phase with T≲4×104 K and nH≲5×10−4 cm−3
-  * The RXJ~1230.8+0115 sightline traces the outskirt regions of the Virgo cluster where the absorber is found to have super-solar metallicity. 
+  * The RXJ~1230.8+0115 sightline traces the outskirt regions of the Virgo cluster where the absorber is found to have super-solar metallicity.
   * The detection of metal lines along with H I has enabled us to confirm the presence of cool, diffuse gas possibly enriched by outflows and tidal interactions in environments with significant galaxy density.
 
 * [VEGAS: a VST Early-type GAlaxy Survey. IV. NGC 1533, IC 2038 and IC 2039: an interacting triplet in the Dorado group](https://arxiv.org/abs/1903.04466)
   * **Relevant**
   * At such faint levels the structure of NGC 1533 appear amazingly disturbed with clear structural asymmetry between inner and outer isophotes in the North-East direction.
-  * We detect new spiral arm-like tails in the outskirts, which might likely be the signature of a past interaction/merging event. Similarly, IC 2038 and IC 2039 show tails and distortions indicative of their ongoing interaction. 
+  * We detect new spiral arm-like tails in the outskirts, which might likely be the signature of a past interaction/merging event. Similarly, IC 2038 and IC 2039 show tails and distortions indicative of their ongoing interaction.
 
 * [A New, Deep JVLA Radio Survey of M33](https://arxiv.org/abs/1903.04434)
   * We have performed new 1.4 GHz and 5 GHz observations of the Local Group galaxy M33 with the Jansky Very Large Array
@@ -345,11 +345,27 @@
 ### Mar 12
 
 * [How AGN feedback drives the size growth of the first quasars](https://arxiv.org/abs/1903.04544)
+  * **Interersting**
+  * Using a set of cosmological ‘zoom-in’ hydrodynamic simulations performed with the moving mesh code Arepo, we show that z = 6 quasar host galaxies develop extremely tightly bound stellar bulges with peak circular velocities 300 − 500 km s−1 and half-mass radii ≈ 0.5 kpc.
+  * Despite their high binding energy, we find that these compact bulges expand at z < 6, with their half-mass radii reaching ≈ 5 kpc by z = 3
+  * By tracking individual stellar populations, we find that the gradual expansion of the stellar component is mainly driven by fluctuations in the gravitational potential induced by bursty AGN feedback.
+  * We also find that galaxy size growth and the development of a cored stellar profile does not occur if AGN feedback is ineffective.
 
 * [Gemini IFU, VLA, and HST observation of the OH Megamaser Galaxy IRAS17526+3253](https://arxiv.org/abs/1903.04729)
+  * The HST images clearly reveal a mid-to-advanced stage major merger whose northwestern and southeastern nuclei have a projected separation of ∼8.5kpc.
+  * The GMOS/IFU data reveal two structures in north-western separated by 850 pc and by a discontinuity in the velocity field of ∼200 km s−1. We associate the blue-shifted and red-shifted components with, respectively, the distorted disk of northwestern and tidal debris
 
 * [Black Hole Mass Scaling Relations for Early-Type Galaxies: MBH-M∗,sph and MBH-M∗,gal](https://arxiv.org/abs/1903.04738)
+  * However, and importantly, we discover that the ES/S0-type galaxies with disks are offset from the E-type galaxies by more than a factor of ten in their MBH/M∗,sph ratio, with ramifications for formation theories, simulations, and some virial factor measurements used to convert AGN virial masses into MBH 就是说S0的关系更陡
+  * For MBH > 10^7M⊙, we detect no significant bend nor offset in either the MBH–M∗,sph or MBH–M∗,gal relations due to barred versus non-barred, or core-Sersic versus Śersic, early-type galaxies
+  * We report the discovery of a local, compact massive spheroid in NGC 5252.
 
 * [Angular momentum of z∼1.5 galaxies and their local analogues with adaptive optics](https://arxiv.org/abs/1903.04746)
+  * DYNAMO analogues of high-z galaxies have low j∗ for their stellar mass M∗, and low bulge-to-total light ratio β for their j∗/M∗.
+  * The high-z galaxy COSMOS 127977 has j∗/M∗ consistent with normal local disk galaxies, while UDS 78317 is consistent with local analogues. However, our high-resolution OSIRIS data reveal that UDS 78317 may be a merging system.
+  * Much of the scatter in M∗ − j∗ that is not explained by variations in the bulge-to-total ratio or evolution with redshift may be driven by increased turbulence due to star formation, or by treating mergers as rotating disks.
 
 * [Spotting the differences between active and non-active twin galaxies on kpc-scales. A pilot study](https://arxiv.org/abs/1903.04818)
+  * To do so, we compare the properties of two isolated nearby active galaxies and their non-active twins selected from the Calar Alto Legacy Integral Field Area (CALIFA) survey. This pilot sample includes two barred and two unbarred galaxies.
+  * We find that the analysed active galaxies present lopsided disks and higher values of the global stellar angular momentum (λR) than their non-active twins.
+  * The inflow of gas could have been produced by a twisted disk instability in the case of the unbarred AGN, and by the bar in the case of the barred AGN.
