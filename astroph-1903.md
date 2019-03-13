@@ -57,13 +57,21 @@
 ### Mar 4
 
 * [A New Class of X-Ray Tails of Early-Type Galaxies and Subclusters in Galaxy Clusters - Slingshot Tails vs Ram Pressure Stripped Tails](https://arxiv.org/abs/1903.00482)
+  * there is a new class of gas tails - slingshot tails - which form as a subhalo (i.e. a subcluster or early-type cluster galaxy) moves away from the cluster center towards the apocenter of its orbit.
+  * 不能简单的用tail的方向来判断subhalo的运动：These tails can point perpendicular or even opposite to the subhalo direction of motion, not tracing the recent orbital path. Thus, the observed tail direction can be misleading, and we caution against naive conclusions regarding the subhalo’s direction of motion based on the tail direction.
+  * During the slingshot tail stage, the subhalo is not being ram pressure stripped (RPS) and the tail is shaped by tidal forces more than just the ram pressure.
 
 * [The MUSE Ultra Deep Field (MUDF). I. Discovery of a group of Lyα nebulae associated with a bright z≈3.23 quasar pair](https://arxiv.org/abs/1903.00483)
+  * The ≈ 40-hour observation completed to date reveals the presence of a group of three Lyα nebulae associated with a bright quasar pair at z ≃ 3.23 with projected separation of ≈ 500 kpc
+  * Two of the nebulae are physically associated with the quasars which are likely powering the Lyα emission, and extend for >100 kpc
+  * Despite their clustered nature, the two large nebulae have properties similar to those observed in isolated quasars and exhibit no sharp decline in flux at the current depth, suggesting an even more extended distribution of gas around the quasars
 
 * [The host galaxy of GRB 980425 / SN1998bw: a collisional ring galaxy](https://arxiv.org/abs/1903.00485)
   * This is a very clear case of interaction in a gamma ray burst host galaxy, and of interaction-driven star formation giving rise to a gamma ray burst in a dense environment.
 
 * [Lens Model and Source Reconstruction Reveal the Morphology and Star Formation Distribution in the Cool Spiral LIRG SGAS J143845.1+145407](https://arxiv.org/abs/1903.00532)
+  * Hubble Space Telescope (HST) imaging and grism spectroscopy of a strongly lensed LIRG at z = 0.816, SGAS 143845.1+145407, and use the magnification boost of gravitational lensing to study the distribution of star formation throughout this galaxy
+  * We find widespread star formation across this galaxy, in agreement with the current understanding of these objects. However, we note a deficit of Hα emission in the nucleus of SGAS 143845.1+145407, likely due to dust extinction.
 
 * [The Global Star-Formation Law by Supernova Feedback](https://arxiv.org/abs/1903.00962)
   * A simple model where the Kennicutt-Schmidt (KS) relation between the macroscopic densities of star-formation rate (SFR, ρsfr) and gas (n) in galactic discs emerges from self-regulation of the SFR via supernova feedback
@@ -82,9 +90,13 @@
 
 ### Mar 5
 
-* [A New Class of X-Ray Tails of Early-Type Galaxies and Subclusters in Galaxy Clusters - Slingshot Tails vs Ram Pressure Stripped Tails](https://arxiv.org/abs/1903.00482)
-
 * [A New Method to Quantify Environment and Model Ram-Pressure Stripping in N-Body Simulations](https://arxiv.org/abs/1903.01988)
+  * **Interesting**
+  * We introduce a Local Background Environment (LBE) estimator that can be measured in and around every galaxy or its dark matter subhalo in high-resolution cosmological simulations. 用来研究模拟里环境对星系的影响，如冲压剥离这类过程
+    * The density of the LBE, ρLBE, is the number density of simulation particles within this spherical shell multiplied by the particle mass. The nett velocity of the LBE, v LBE is the mean velocity of these shell particles. 这是刨除了central星系和subhalo之后的
+  * We define the LBE directly from the particle data within an adaptive spherical shell, and devise a Gaussian mixture estimator to separate background particles from previously unidentified subhalo particles.
+  * Significantly, there is no abrupt change in LBE velocity or density at the halo virial radius. This suggests that stripping should also happen beyond this radius. 所以实际的气体剥离过程更长，更重要
+  * Central galaxies, as well as satellites beyond the virial radius, can lose a signif- icant fraction of their hot halo gas. As a result, the gas fractions and star formation rates of satellite galaxies are suppressed relative to the fiducial model,
 
 * [The UV and Lyα Luminosity Functions of galaxies and the Star Formation Rate Density at the end of HI reionization from the VIMOS Ultra-Deep Survey (VUDS)](https://arxiv.org/abs/1903.01988)
 
@@ -132,6 +144,11 @@
 ### Mar 6
 
 * [Black hole mass estimation for Active Galactic Nuclei from a new angle](https://arxiv.org/abs/1903.01996)
+  * **Interesting**
+  * In this work, we use a novel algorithm that identifies smooth trends in complex datasets and apply it to a sample of 2 000 type I active galactic nuclei (AGN) spectra.
+  * We detect a sequence in emission line shapes and strengths which reveals a correlation between the narrow L([OIII])/L(Hβ) line ratio and the width of the broad Hα.
+  * This scaling relation ties the kinematics of the gas clouds in the broad line region to the ionisation state of the narrow line region
+  * This relation can be used to estimate black hole masses from narrow emission lines only. It therefore enables black hole mass estimation for obscured type II AGN and allows us to explore the connection between black holes and host galaxy properties for thousands of objects, well beyond the local Universe.
 
 * [RELICS: Reionization Lensing Cluster Survey](https://arxiv.org/abs/1903.02002)
   * RELICS observed 41 massive galaxy clusters with Hubble and Spitzer at 0.4-1.7um and 3.0-5.0um, respectively. We selected 21 clusters based on Planck PSZ2 mass estimates and the other 20 based on observed or inferred lensing strength.
@@ -169,6 +186,8 @@
   * In each redshift bin the linear bias can be fitted with a single, scale-independent value that increases with increasing redshift. We find that the Euclid-like and WFIRST-like surveys yield linear biases that are consistent within error, as the galaxies in the two surveys occupy halos of similar mass
 
 * [A Pre-Merger Stage Galaxy Cluster: Abell 3733](https://arxiv.org/abs/1903.02030)
+  * According to X-ray luminosity map, A3733 hosts two sub-structures separated in the sky by ∼ 0.25 Mpc
+  * Both sub-structures are found to be hosting cool central gas (kT ∼ 1.5-2.5 keV) surrounded by hotter gas (kT ∼ 3.0-3.5 keV). Besides, the X-ray concentration parameters are found to be c ∼ 0.3 for each sub-structure.
 
 ----
 
@@ -219,14 +238,30 @@
   * Modelling the gas substructure within the disk is achieved by using a hierarchical Gaussian mixture model. 可以模拟气体团块和
 
 * [WISDOM project - IV. A molecular gas dynamical measurement of the supermassive black hole mass in NGC 524](https://arxiv.org/abs/1903.03124)
+  * ALMA用分子气体盘测黑洞质量：This disc is shown to be dynamically relaxed, exhibiting ordered rotation about a compact 1.3 mm continuum source
+  * There is a hole at the centre of the disc slightly larger than the SMBH sphere of influence. An azimuthal distortion of the observed velocity field is found to be due to either a position angle warp or radial gas flow
+  * The uncertainties are dominated by the poorly constrained inclination and the stellar mass-to-light ratio of this galaxy
 
 * [PRIMUS: Clustering of Star-forming and Quiescent Central Galaxies at 0.2<z<0.9](https://arxiv.org/abs/1903.03127)
+  * **Relevant**
+  * present measurements of the clustering of isolated primary (IP) galaxies, used as a proxy for central galaxies, at 0.2 < z < 0.9 with data from the PRIMUS galaxy redshift survey.
+  * We find that at fixed stellar mass, quiescent IP galaxies are more strongly clustered than star-forming IP galaxies at z ∼ 0.35 (10σ).
+  * we find that these clustering differences are due in part to quiescent central galaxies being more strongly clustered than star-forming central galaxies. This is consistent with either distinct stellar-to-halo mass relations for quiescent and star-forming central galaxies, and/or central galaxy assembly bias
 
 * [Discovery of a Lya emitting dark-cloud within z ~ 2.8 SMMJ02399-0136 system](https://arxiv.org/abs/1903.03131)
+  * We present Keck/KCWI integral field spectrograph observations of the complex system surrounding SMMJ02399−0136 (a lensed z=2.8 sub-mm galaxy), including an associated Lyα nebula, a dust- obscured, broad-absorption-line quasar, and neighboring galaxies.
+  * The nebula exhibits a kinematic shear of ∼ 1000kms−1 over 100pkpc
+  * We argue that this “dark cloud” is illuminated by the quasar with a UV flux that is orders of magnitude brighter than the emission along our sightline. This result confirms statistical inferences that luminous quasars at z > 2 emit UV radiation anisotropically.
 
 * [Black hole mass and cluster mass correlation in cosmological hydro-dynamical simulations](https://arxiv.org/abs/1903.03142)
+  * In our simulations we find that MBH well correlates with M500 and T500, with the scatter around these relations compatible within 2σ with the scatter around MBH − MBCG at z = 0. 
+  * The MBH − M500 relation evolves with time, becoming shallower at lower redshift as a direct consequence of hierarchical structure formation
 
 * [Powerful AGN jets and unbalanced cooling in the hot atmosphere of IC 4296](https://arxiv.org/abs/1903.03198)
+  * The galaxy hosts powerful radio jets piercing through the inner hot X-ray emitting atmosphere, depositing most of the energy into the ambient intra-cluster medium (ICM).
+  * Whereas the radio surface brightness of the A configuration image is consistent with a Fanaroff-Riley Class I (FR I) system, the D configuration image reveals two large (∼ 160 kpc diameter), well-defined lobes
+  * The jets are mildly curved, possibly re- brightened by the relative motion of the galaxy and the ICM, and terminate with sharp edges, suggesting the presence of bow shocks, which would classify this as a transitional state of a supersonic FRI radio source.
+  * Because most of the energy of the jets is deposited far from the nucleus, the atmosphere of the galaxy continues to cool, apparently feeding the central supermassive black hole and powering the jet activity.
 
 * [Spatially resolved carbon and oxygen isotopic ratios in NGC 253 using optically thin tracers](https://arxiv.org/abs/1903.03244)
   * Spatially resolve the carbon and oxygen isotope ratios across the central molecular zone (full size ~∼600 pc) in the nearby starburst galaxy NGC 253
@@ -236,8 +271,19 @@
   * We observe an extra molecular component of highly processed gas on top of the already proposed less processed gas being transported to the central region of NGC 253. Such multicomponent nature and optical depth effects may hinder the use of isotopic ratios based on spatially unresolved line to infer the star formation history and/or initial stellar mass function properties in the nuclei of galaxies.
 
 * [Do Galaxy Morphologies Really Affect the Efficiency of Star Formation during the Phase of Galaxy Transition?](https://arxiv.org/abs/1903.03505)
+  * **Interesting**
+  * we discuss the net effect of galaxy morphologies on the star formation efficiency (SFE) during the phase of galaxy transition, on the basis of our CO(J = 1 − 0) observations of 28 local “green-valley” galaxies with the Nobeyama 45m Radio Telescope. 
+  * We observed 13 “disk-dominated” and 15 “bulge-dominated” green-valley galaxies at fixed stellar mass (M∗) and star formation rate (SFR)
+  * we reveal that the distributions of molecular gas mass, molecular gas fraction, and SFE of green-valley galaxies do not change with their morphologies, suggesting little impact of galaxy morphologies on their SFE
+  * On the other hand, we find that ∼20% of bulge-dominated green-valley galax- ies do not show significant CO emission line, showing high SFEs for their M∗ and SFR. These molecular gas deficient sources identified only in the bulge-dominated green-valley galaxies may represent an important population during the quenching phase under the influence of stellar bulge,
+  * our results suggest that the presence of stellar bulge does not decrease the efficiency of on-going star formation, in contrast to the prediction of the morphological quenching scenario.
 
 * [Efficient Selection of Quasar Candidates Based on Optical and Infrared Photometric Data Using Machine Learning](https://arxiv.org/abs/1903.03337)
+  * Exploring the distribution of quasars and stars in the color spaces, we find that the combination of infrared and optical photometry is more con- ducive to select quasar candidates.
+  * Two new color criterions (yW1W2 and izW1W2) are constructed to distinguish quasars from stars efficiently.
+  * we put forward an efficient schema to select quasar candidates and high redshift quasar candidates, in which two machine learning algorithms (XGBoost and SVM) are implemented
+  * For these newly predicted quasar candidates, a regressor is constructed to estimate their redshifts
+  * XGBoost (Chen & Guestrin 2016) is a boosting algorithm that can be used for classification and regression problems.
 
 * [Astrophysical Tests of Dark Matter with Maunakea Spectroscopic Explorer](https://arxiv.org/abs/1903.03155)
 * [Cosmology with the MaunaKea Spectroscopic Explorer](https://arxiv.org/abs/1903.03158)
@@ -293,3 +339,17 @@
   * We have performed new 1.4 GHz and 5 GHz observations of the Local Group galaxy M33 with the Jansky Very Large Array
   * Using a new multi-resolution algorithm, we have created a catalog of 2875 sources, including 675 with well-determined spectral indices. We detect sources at the position of 319 of the X-ray sources in the Tuellmann et al. (2011) Chandra survey of M33, the majority of which are likely to be background galaxies.
   * we detect 155 of the 217 optical supernova remnants included in the lists of Long et al. (2010) and Lee & Lee (2014), making this by far the largest sample of remnants at known distances with multiwavelength coverage
+
+----
+
+### Mar 12
+
+* [How AGN feedback drives the size growth of the first quasars](https://arxiv.org/abs/1903.04544)
+
+* [Gemini IFU, VLA, and HST observation of the OH Megamaser Galaxy IRAS17526+3253](https://arxiv.org/abs/1903.04729)
+
+* [Black Hole Mass Scaling Relations for Early-Type Galaxies: MBH-M∗,sph and MBH-M∗,gal](https://arxiv.org/abs/1903.04738)
+
+* [Angular momentum of z∼1.5 galaxies and their local analogues with adaptive optics](https://arxiv.org/abs/1903.04746)
+
+* [Spotting the differences between active and non-active twin galaxies on kpc-scales. A pilot study](https://arxiv.org/abs/1903.04818)
