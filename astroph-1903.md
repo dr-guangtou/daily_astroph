@@ -369,3 +369,64 @@
   * To do so, we compare the properties of two isolated nearby active galaxies and their non-active twins selected from the Calar Alto Legacy Integral Field Area (CALIFA) survey. This pilot sample includes two barred and two unbarred galaxies.
   * We find that the analysed active galaxies present lopsided disks and higher values of the global stellar angular momentum (λR) than their non-active twins.
   * The inflow of gas could have been produced by a twisted disk instability in the case of the unbarred AGN, and by the bar in the case of the barred AGN.
+
+----
+
+### Mar 13
+
+* [Morphology-assisted galaxy mass-to-light predictions using deep learning](https://arxiv.org/abs/1903.05091)
+  * **Useful**
+  * We want to investigate the possibility of using morphology information to assist predictions of M/L. Our first goal is to develop and train a method that only requires a g-band image and redshift as input
+  * We used a machine learning pipeline that can be split in two steps. First, we detected morphology features with a convolutional neural network. These are then combined with redshift, pixel size and g-band luminosity features in a gradient boosting machine.
+  * Morphology is a useful attribute when no colour information is available, but can not outperform colour methods on its own. When we combine the morphology features with global g- and i-band luminosities, we find an improved estimate compared to a model which does not make use of morphology.
+
+* [Strong lensing models of eight CLASH clusters from extensive spectroscopy: accurate total mass reconstructions in the cores](https://arxiv.org/abs/1903.05103)
+  * Different models are tested in each cluster depending on the complexity of its mass distribution and on the number of detected multiple images. Four clusters show more than five spectroscopically confirmed multiple image families
+  * We present spectroscopic confirmation of 27 multiply lensed sources, with no previous spectroscopic measurements, spanning over the redshift range of zsrc=[0.7−6.1]. Moreover, we confirm an average of 48 galaxy members in the core of each cluster, thanks to the high efficiency and large field of view of MUSE.
+  * The projected total mass and mass density profiles of all clusters have very similar shapes, when rescaled by independent measurements of M200c and R200c.
+  * Specifically, we measure the mean value of the projected total mass of our cluster sample within 10 (20)% of R200c to be 0.13 (0.32) of M200c, with a remarkably small scatter of 5 (6)%.
+
+* [From 'bathtub' galaxy evolution models to metallicity gradients](https://arxiv.org/abs/1903.05105)
+
+* [A Compact Jet at the Infrared Heart of the Prototypical Low-Luminosity AGN in NGC 1052](https://arxiv.org/abs/1903.05108)
+  * NGC1052一直到0.5 pc上都不能被分解开，可能来自于compact jet: This is in line with non-thermal emission from a compact jet, a scenario further supported by a number of evidences: the broken power-law shape of the continuum distribution in the radio-to-UV range; the ∼4% degree of polarisation measured in the nuclear mid-IR continuum, together with the mild optical extinction (AV∼1mag); and the "harder when brighter" behaviour of the X-ray spectrum, indicative of self-Compton synchrotron radiation.
+  * A remarkable feature is the steepness of the IR-to-UV core continuum, characterised by a power-law index of ∼2.6, as compared to the canonical value of 0.7.
+  * The case of NGC 1052 shows that compact jets can dominate the nuclear emission in LLAGN across the whole electromagnetic spectrum, a scenario that might be common among this class of active nuclei.
+
+* [A Universal Relation of Dust Obscuration Across Cosmic Time](https://arxiv.org/abs/1903.05121)
+  * 用红外超研究星系的dust obscuration特性: We show that IRX generally correlates with stellar mass (M∗), star formation rate (SFR), gas-phase metallicity (Z), infrared luminosity (LIR) and the half-light radius (Re). A weak correlation of IRX with axial ratio (b/a) is driven by the inclination and thus seen as a projection effect.
+  * We find that SFGs obey an empirical relation of the form IRX=10^α(LIR)^β Re^{-gamma}(b/a)^{−δ} where the power-law indices all increase with metallicity. The best-fitting relation yields a scatter of ∼0.17dex and no dependence on stellar mass.
+  * Moreover, this empirical relation also holds for distant SFGs out to z=3 in a population-averaged sense, suggesting it to be universal over cosmic time.
+
+* [The Dynamics and Distribution of Angular Momentum in HiZELS Star-Forming Galaxies at z = 0.8 - 3.3](https://arxiv.org/abs/1903.05148)
+  * **Interesting**
+  * AO-IFU观测：34 star-forming galaxies at z = 0.8-3.3 selected from the HiZELS narrow-band survey
+  * We measure the kinematics of the ionised interstellar medium on ∼1 kpc scales, and show that the galaxies are turbulent, with a median ratio of rotational to dispersion support of v/σ=0.82±0.13.
+  * 结合高分辨率rest frame光学图像做旋转曲线研究: 在高红移，恒星形成的质量和单位角动量的关系依然存在
+  * 角动量并不随着质量增长而在中心升高：Although the stellar mass of a typical star-forming galaxy is expected to grow by a factor ∼8 in the ∼5 Gyrs between z∼3.3 and z∼0.8, we show that the internal distribution of angular momentum becomes less centrally concentrated in this period i.e the angular momentum grows outwards.
+  * 在EAGLE模拟中也存在类似现象: This change is attributed to a combination of gas accretion in the outer disk, and feedback that preferentially arises from the central regions of the galaxy.
+
+* [On the Assembly Bias of Cool Core Clusters Traced by Hα Nebulae](https://arxiv.org/abs/1903.05092)
+  * **Relevant, Important, Interesting**
+  * We make novel use of Hα emission lines in the central galaxies of redMaPPer clusters as proxies to construct large (1,000's) samples of CC and NCC clusters, and measure their relative assembly bias using both clustering and weak lensing
+  * Our cross-correlations can constrain assembly bias up to a statistical uncertainty of 6%.
+  * Given our Hα criteria for CC and NCC, we find no significant differences in their clustering amplitude. Interpreting this difference as the absence of halo assembly bias, our results rule out the possibility of having different large-scale (tens of Mpc) environments as the source of diversity observed in cluster cores.
+  * This would suggest that either the cooling properties of the cluster core are determined early on solely by the local (<200 kpc) gas properties at formation or that local merging leads to stochastic CC relaxation and disruption in a periodic way, preserving the average population properties over time.
+
+----
+
+### Mar 14
+
+* [Study of gravitational fields and globular cluster systems of early-type galaxies](https://arxiv.org/abs/1903.05659)
+
+* [The lifetime of binary black holes in Sérsic galaxy models](https://arxiv.org/abs/1903.05682)
+
+* [The XMM-Newton/HST view of the obscuring outflow in the Seyfert Galaxy Mrk 335 observed at extremely low X-ray flux](https://arxiv.org/abs/1903.05795)
+
+* [A discovery of young radio sources in the cores of giant radio galaxies selected at hard X-rays](https://arxiv.org/abs/1903.05922)
+
+* [Old and young stellar populations in DustPedia galaxies and their role in dust heating](https://arxiv.org/abs/1903.05933)
+
+* [Is the stellar mass-stellar metallicity relation universal in the Milky Way satellites and beyond?](https://arxiv.org/abs/1903.06054)
+
+* [Discovery of Highly Blueshifted Broad Balmer and Metastable Helium Absorption Lines in a Tidal Disruption Event](https://arxiv.org/abs/1903.05637)
