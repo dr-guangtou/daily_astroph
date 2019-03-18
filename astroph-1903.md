@@ -430,3 +430,34 @@
 * [Is the stellar mass-stellar metallicity relation universal in the Milky Way satellites and beyond?](https://arxiv.org/abs/1903.06054)
 
 * [Discovery of Highly Blueshifted Broad Balmer and Metastable Helium Absorption Lines in a Tidal Disruption Event](https://arxiv.org/abs/1903.05637)
+
+----
+
+### Mar 17
+
+* [Simulating the effect of photoheating feedback during reionization](https://arxiv.org/abs/1903.06167)
+  * 用AREPO-RT模拟再电离过程：We examine how photoheating feedback, due to the reionization process, shapes the properties of galaxies
+  * Contrary to previous works, photoheating suppresses star formation rates by larger than 50% only in halos less massive than ∼ 10^8.4 M (∼ 10^8.8 M) at z = 6 (z = 5).
+  * 
+
+* [The effect of rotation on the thermal instability of stratified galactic atmospheres - I. Local analysis](https://arxiv.org/abs/1903.06172)
+
+* [The effect of rotation on the thermal instability of stratified galactic atmospheres - II. The formation of High Velocity Clouds](https://arxiv.org/abs/1903.06178)
+
+* [Cool circumgalactic gas of passive galaxies from cosmological inflow](https://arxiv.org/abs/1903.06182)
+
+* [Non-equilibrium Ionization States Within Galactic Outflows: Explaining Their O VI and N V Column Densities](https://arxiv.org/abs/1903.06183)
+
+* [Lyα emission from galaxies in the Epoch of Reionization](https://arxiv.org/abs/1903.06185)
+
+* [A metal-poor damped Ly-alpha system at redshift 6.4](https://arxiv.org/abs/1903.06186)
+
+* [Uncertainties in gas kinematics arising from stellar continuum modelling in integral field spectroscopy data: the case of NGC2906 observed with MUSE/VLT](https://arxiv.org/abs/1903.06252)
+
+* [Dual-Component Plasma Lens Models](https://arxiv.org/abs/1903.06384)
+
+* [SHALOS: Statistical Herschel-ATLAS Lensed Objects Selection](https://arxiv.org/abs/1903.06424)
+
+* [Gravitationally Lensed Quasar SDSS J1442+4055: Redshifts of Lensing Galaxies, Time Delay, Microlensing Variability, and Intervening Metal System at z ~ 2](https://arxiv.org/abs/1903.06505)
+
+* [Probing hot gas around luminous red galaxies through the Sunyaev-Zel'dovich effect](https://arxiv.org/abs/1903.06654)
