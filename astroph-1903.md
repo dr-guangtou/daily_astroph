@@ -79,8 +79,14 @@
   * A constant f thus refers to ρ_sfr∝n^1.5
 
 * [Improving Constraints on Fundamental Physics Parameters with the Clustering of Sunyaev-Zeldovich Selected Galaxy Clusters](https://arxiv.org/abs/1903.00976)
+  * **Important**
+  * Late-time structure growth is highly sensitive to extensions to the standard cosmological model (ΛCDM), such as the sum of the neutrino masses, the dark energy equation of state, and modifications to general relativity. The nominal statistic used for cluster observations is their abundances as a function of redshift. We investigate what additional cosmological information is gained after including the clustering signal of clusters, the cluster power spectrum.
+  * We forecast the cluster power spectra for the upcoming Simons Observatory and a CMB Stage-4-like experiment and find that the cluster power spectrum reduces marginalized constraints on the dark energy equation of state by 4--13% and the growth index by 6--9%
 
 * [Star Formation and ISM Properties in Host Galaxies of Three Far-infrared Luminous Quasars at z∼6](https://arxiv.org/abs/1903.01105)
+  * VLA observations of the CO (2−1) line emission
+  * All three sources are detected in the CO (2−1) line emission -- one source is marginally resolved, and the other two appear as point sources.
+  * an analysis of the photo-dissociation regions associated with the three high redshift quasars indicates that the interstellar medium in these sources has similar properties to local starburst galaxies.
 
 * [The nature of GRB host galaxies from chemical abundances](https://arxiv.org/abs/1903.01353)
   * We compared measured abundance data from LGRB afterglow spectra to abundance patterns as predicted by our models for different galaxy types
@@ -387,6 +393,10 @@
   * Specifically, we measure the mean value of the projected total mass of our cluster sample within 10 (20)% of R200c to be 0.13 (0.32) of M200c, with a remarkably small scatter of 5 (6)%.
 
 * [From 'bathtub' galaxy evolution models to metallicity gradients](https://arxiv.org/abs/1903.05105)
+  * 1-D chemical evolution formalism: We fit analytical models against the metallicity radial profiles of low-redshift star-forming galaxies in the mass range log(M⋆/M⊙) = [9.0-11.0]
+  * we take into account inside-out disc growth and add physically-motivated prescriptions for radial gradients in star formation efficiency (SFE).
+  * The parameters describing the disc assembly timescale are not strongly constrained from the metallicity profiles, while useful constrains are obtained for the SFE (and its radial dependence) and the outflow loading factor.
+  * The inferred outflow loading factor is found to decrease with stellar mass, going from nearly unity at log(M⋆/M⊙) = 9.0 to close to zero at log(M⋆/M⊙) = 11.0
 
 * [A Compact Jet at the Infrared Heart of the Prototypical Low-Luminosity AGN in NGC 1052](https://arxiv.org/abs/1903.05108)
   * NGC1052一直到0.5 pc上都不能被分解开，可能来自于compact jet: This is in line with non-thermal emission from a compact jet, a scenario further supported by a number of evidences: the broken power-law shape of the continuum distribution in the radio-to-UV range; the ∼4% degree of polarisation measured in the nuclear mid-IR continuum, together with the mild optical extinction (AV∼1mag); and the "harder when brighter" behaviour of the X-ray spectrum, indicative of self-Compton synchrotron radiation.
@@ -418,18 +428,44 @@
 ### Mar 14
 
 * [Study of gravitational fields and globular cluster systems of early-type galaxies](https://arxiv.org/abs/1903.05659)
+  * **Interesting**
+  * We employed Jeans analysis of radial velocities of globular clusters (GCs). We analysed nearly all ETGs having more than about 100 archival GC radial velocity measurements available.
+  * Successful ΛCDM fits are found for all galaxies, but compared to the theoretical HMCR and SHMR, the best-fit halos usually have concentrations that are too low and stellar masses that are too high for their masses.
+  * Most galaxies can be fitted by the MOND models successfully as well, but for some of the galaxies, especially those in centers of galaxy clusters, the observed GCs velocity dispersions are too high
+  * Additionally, we find many signs that the GC systems were perturbed by galaxy interactions.
 
 * [The lifetime of binary black holes in Sérsic galaxy models](https://arxiv.org/abs/1903.05682)
+  * In this paper, we infer upper limits on the lifetime of binary black holes of 10^{5-6} Msun and up to 10^8 M , forming in galaxy mergers, exploring two underlying stellar density profiles, by Dehnen and by Prugniel & Simien
+  * We find that di↵erent stellar profiles predict very distinct trends with binary mass, with lifetimes ranging between fractions of a Gyr to more than 10 Gyr, and with a spread of about one order of magnitude
+  * Low-mass black hole binaries of 10^5 M develop larger eccentricities as they experience a longer-lasting interaction with the stellar background that help reduce their lifetimes during this phase.
+    * As black hole coalescences of 10^{4-7} Msun can be detected with LISA from redshift z~0 up to z ~ 15–20, when seed black holes form
 
 * [The XMM-Newton/HST view of the obscuring outflow in the Seyfert Galaxy Mrk 335 observed at extremely low X-ray flux](https://arxiv.org/abs/1903.05795)
+  * A simultaneous new campaign by XMM-Newton and HST caught the source at an historical low flux in the X-ray band. The soft X-ray spectrum is dominated by prominent emission features, and by the effect of a strong ionized absorber
+  * The resulting picture from this latest multi-wavelength campaign confirms that Mrk 335 undergoes the effect of a patchy, medium-velocity outflowing gas in a wide range of ionization states that seem to be persistently obscuring the nuclear continuum.
 
 * [A discovery of young radio sources in the cores of giant radio galaxies selected at hard X-rays](https://arxiv.org/abs/1903.05922)
+  * Giant Radio Galaxies (GRG) are the largest single entities in the Universe, having a projected linear size exceeding 0.7 Mpc, which implies that they are also quite old objects. 只占大射电星系的6%
+  * X-ray挑选的射电星系中GRG的比例比射电挑选的要高得多
+  * We present radio observations of 15 nuclei of hard X-ray selected GRG, finding for the first time a large fraction (61%) of young radio sources at the center of Mpc-scale structures.
 
 * [Old and young stellar populations in DustPedia galaxies and their role in dust heating](https://arxiv.org/abs/1903.05933)
+  * 814 galaxies from DustPedia: We take advantage of the widely used galaxy SED fitting code CIGALE, properly adapted to include the state-of-the-art dust model THEMIS.
+  * We find a mild correlation between the mass fraction of the small a-C(:H) grains with the specific star-formation rate. On average, young stars are very efficient in heating the dust, with absorption fractions reaching as high as ∼ 77% of the total, unattenuated luminosity of this population
+  * Dust heating in early-type galaxies is mainly due to old stars, up to a level of ∼ 90%. Young stars progressively contribute more for ‘typical’ spiral galaxies and they become the dominant source of dust heating for Sm type and irregular galaxies, donating up to ∼ 60% of their luminosity to this purpose.
 
 * [Is the stellar mass-stellar metallicity relation universal in the Milky Way satellites and beyond?](https://arxiv.org/abs/1903.06054)
+  * (1) The exponents (α) for the MZRs of the satellites in halos with the same mass as the Milky Way halo but different individual assembly histories are mostly ∼0.2–0.4, i.e., having a scatter of ∼ 0.2; and the scatter of α increases with decreasing halo masses.
+  * (2) The MZR relations are changed little by the variation of halo masses and the classification between central galaxies and satellites, if many halos with the same mass are stacked together.
+  * A double power law exists in the MZR relations for both central galaxies and stacked satellites
 
 * [Discovery of Highly Blueshifted Broad Balmer and Metastable Helium Absorption Lines in a Tidal Disruption Event](https://arxiv.org/abs/1903.05637)
+  * We report the discovery of non-stellar hydrogen Balmer and metastable helium absorption lines accompanying a transient, high-velocity (0.05c) broad absorption line (BAL) system in the optical spectra of the tidal disruption event (TDE) AT2018zr (z = 0.071).
+  * We conclude that these transient absorption features are more likely to arise in fast outflows produced by the TDE than absorbed by the unbound debris.
+  * In accordance with the outflow picture, we are able to reproduce the flat-topped H↵ emission in a spherically expanding medium, without invoking the typical prescription of an ellipticaldisk
+  * This suggests that outflows may be ubiquitous among TDEs and may be less sensitive to viewing angle effects compared to QSO outflows.
+    * TDE中的外流很常见，高速低速都有，射电波段也有
+    * On the other hand, the promi- nent N III]  1750 relative to C III]  1909 in TDEs may imply abundance anomalies due to CNO cycle in the pre-disrupted star
 
 ----
 
@@ -438,26 +474,76 @@
 * [Simulating the effect of photoheating feedback during reionization](https://arxiv.org/abs/1903.06167)
   * 用AREPO-RT模拟再电离过程：We examine how photoheating feedback, due to the reionization process, shapes the properties of galaxies
   * Contrary to previous works, photoheating suppresses star formation rates by larger than 50% only in halos less massive than ∼ 10^8.4 M (∼ 10^8.8 M) at z = 6 (z = 5).
-  * 
+  * 不能简单假定均匀的UV背景：By assuming a uniform UV background instead of self- consistently modelling the patchiness of reionization yields an earlier onset of suppression of star formation, indicating that such an approximation acts like an early reionization model.
+  * 只有光致加热是不够的：photoheating alone is only able to quench halos less massive than ∼ 109 M⊙ at z~5, implying that photoheating feedback plays a sub-dominant role in regulating star formation compared to stellar feedback
+  * Most importantly, photoheating does not generate any observable flattening in the faint end slope of the UV luminosity function up to M1500 = −15 mag or in the low-mass end of the stellar mass function
+  * We also do not observe a dip in the cosmic star formation rate density caused by reionization.
 
 * [The effect of rotation on the thermal instability of stratified galactic atmospheres - I. Local analysis](https://arxiv.org/abs/1903.06172)
+  * (i) multiple gas phases can coexist in the atmospheres of galaxies and clusters; (ii) these atmospheres may be significantly rotating in the inner parts, with typical velocities that approach or even exceed the local sound speed.
+  * 热不稳定性可能是在热气体中形成冷气体结构的可能渠道之一: We find that the formation of cold structures starting from small isobaric perturbations is enhanced in the regions where the rotation of the system is dynamically important
+  * In particular, the threshold value of the ratio between the cooling and dynamical time tcool/tdyn below which condensations can form is increased by a factor up to ∼ 10 in the presence of significant rotation.
+    * However, recent ALMA observations of a sample of 15 clusters showed that in 2 cases (Abell 262 and Hydra-A) the molecular gas has settled into a rotating disc (Olivares et al. 2019; Russell et al. 2019).
+    * Also note that in some clusters the rotation pattern may be hidden because the system is viewed face on, as suggested in the case of Abell 1835 by McNamara et al. (2014).
 
 * [The effect of rotation on the thermal instability of stratified galactic atmospheres - II. The formation of High Velocity Clouds](https://arxiv.org/abs/1903.06178)
+  * We do this by studying the evolution of the models of rotating galactic coronae presented in Sormani et al. (2018) under the presence of cooling and thermal conduction.
+  * We combine a linear stability analysis with the results of local and global hydrodynamical simulations. We find that condensations are likely to occur in regions where the corona has substantial rotational support
+  * We conclude that HVCs can form by thermal instabilities provided that (i) the corona is rotating substantially in the inner (R< 50 kpc) parts, as suggested by current observational data and predicted by cosmological simulations of galaxy formation; (ii) close to the disc the corona is well-represented by a nearly-equilibrium stratified rotating structure (as opposed to a fast cooling flow).
 
 * [Cool circumgalactic gas of passive galaxies from cosmological inflow](https://arxiv.org/abs/1903.06182)
+  * **Interesting**
+  * Using semi-analytical parametric models, we describe the cool CGM around massive, low-redshift ETGs as the cosmological accretion of gas into their dark matter halos, resulting in an inflow of clouds from the external parts of the halos to the central galaxies.
+  * We find that inflow models can successfully reproduce the observed kinematics, the number of absorbers and the column densities of the cool gas
+  * We conclude that the cool gas present in the halos of ETGs likely cannot reach the central regions and feed the galaxy star formation, thus explaining why these passive objects are no longer forming stars.
 
 * [Non-equilibrium Ionization States Within Galactic Outflows: Explaining Their O VI and N V Column Densities](https://arxiv.org/abs/1903.06183)
+  * 一维球对称外流模拟：We track the ionization state of the outflowing gas with a non-equilibrium atomic chemistry network that includes photoionization, photo-heating, and ion-by-ion cooling.
+  * 光致电离平衡的假设不能用：We find that for a large range of parameter choices, the ionization state of the material departs strongly from what it would be in photo-ionization equilibrium, in conflict with what is commonly assumed in the analysis of observations.
+  * Nearly all the models reproduce the low N V to O VI column density ratios and the relatively high O VI column densities that are observed.
 
 * [Lyα emission from galaxies in the Epoch of Reionization](https://arxiv.org/abs/1903.06185)
+  * we combine state-of-the-art hydrodynamical simulations of “Althæa”, a prototypical Lyman Break Galaxy (LBG, stellar mass M⋆ ≃ 10^10M⊙) at z = 7.2, with detailed radiative transfer computations of dust/continuum, [C II]158 μm, and Lyα to clarify the relation between the galaxy properties and its Lyα emission
+  * Lya逃逸比例和EW都低：The correlation between escape fraction and inclination is weak, as a result of the rather chaotic structure of high-redshift galaxies
+  * The high attenuation is primarily caused by dust clumps co-located with young stellar clusters. We can turn Althæa into a Lyman Alpha Emitter (LAE) only if we artificially remove dust from the clumps
 
 * [A metal-poor damped Ly-alpha system at redshift 6.4](https://arxiv.org/abs/1903.06186)
+  * We identify a strong Lyα damping wing profile in the spectrum of the quasar P183+05 at z = 6.4386. Given the detection of several narrow metal absorption lines at z = 6.40392, the most likely explanation for the absorption profile is that it is due to a damped Lyα system.
+  * 最远的DLA探测：in order to match the data a contribution of an intergalactic medium 5 − 40% neutral or additional weaker absorbers near the quasar is also required.
+  * 没有Pop III增丰过的迹象：This object is among the most metal-poor damped Lyα systems known and even though it is observed only ∼850 Myr after the Big Bang, its relative abundances do not show signatures of chemical enrichment by Population III stars.
 
 * [Uncertainties in gas kinematics arising from stellar continuum modelling in integral field spectroscopy data: the case of NGC2906 observed with MUSE/VLT](https://arxiv.org/abs/1903.06252)
+  * We study how the use of several stellar subtraction methods and line fitting approaches can affect the derivation of the main kinematic parameters
+  * We compare three different methods to subtract the stellar continuum (FIT3D, STARLIGHT and pPXF), combined with one of the following stellar libraries: MILES, STELIB and GRANADA+MILES.
+  * The choice of the stellar subtraction method is the most important ingredient affecting the derivation of the gas kinematics, followed by the choice of the stellar library and by the line fitting approach.
+  * The results obtained from the [NII] line seem to be slightly more robust, as it is less affected by stellar absorption than Hα
 
 * [Dual-Component Plasma Lens Models](https://arxiv.org/abs/1903.06384)
+  * Diverging frequency-dependent lensing occurs from refraction due to a distribution of over-dense axisymmetric plasma along an observer’s line of sight. Such plasma lenses are particularly interesting from the point of view of astronomical observations because they can both magnify and dim the appearance of background sources as a function of frequency.
+  * Plasma lensing is believed to be involved in a number of separate phenomena involving the scintillation of radio pulsars, extreme scattering events of background radio sources and may also play a role in the generation of fast radio bursts.
+  * Similar to binary gravitational lens models, these dual component plasma lenses feature a rich and complex critical and caustic morphology, as well as generate more complicated light curves.
 
 * [SHALOS: Statistical Herschel-ATLAS Lensed Objects Selection](https://arxiv.org/abs/1903.06424)
+  * 挑选被强引力透镜放大的星系：we propose a new methodology with a statistical selection approach in order to increase by a factor of ∼ 5 the number of such events.
+  * The proposed methodology is based on the Bhattacharyya distance as a measure of the similarity between probability distributions of properties of two different cross-matched galaxies.
+  * It combines the information of four different properties of the pair of galaxies: angular separation, luminosity percentile, redshift and optical/sub-mm flux density ratio.
+  * The SHALOS method provided a ranked list of strongly lensed galaxies.
+    * In statistics, the Bhattacharyya distance (Bhattacharyya 1943) measures the sim- ilarity of two discrete or continuous probability distributions. It is closely related to the Bhattacharyya coefficient (BC; Bhat- tacharyya 1943), i.e. the overlap estimate of two probability distributions.
 
 * [Gravitationally Lensed Quasar SDSS J1442+4055: Redshifts of Lensing Galaxies, Time Delay, Microlensing Variability, and Intervening Metal System at z ~ 2](https://arxiv.org/abs/1903.06505)
+  * We determine the redshift of two bright galaxies around the doubly imaged quasar using LT spectroscopy, while GTC data lead to low–noise individual spectra of A, B, and the main lensing galaxy G1.
+  * Additionally, the quasar spectra show absorption by metal–rich gas at z ∼ 2. This dusty absorber is responsible for an extinction bump at a rest–frame wavelength of 2209 ± 2  ̊A, which has strengths of ∼ 0.47 and 0.76 mag μm−1 for A and B
 
 * [Probing hot gas around luminous red galaxies through the Sunyaev-Zel'dovich effect](https://arxiv.org/abs/1903.06654)
+  **Interesting**
+  * We construct the mean thermal Sunyaev-Zel’dovich (tSZ) Comptonization y profile around Luminous Red Galaxies (LRGs) in the redshift range 0.16 < z < 0.47 利用Planck
+  * We compare the measured profile with predictions from the cosmo- OWLS suite of cosmological hydrodynamical simulations. This comparison agrees well for models that include feedback from active galactic nuclei (AGN)
+  * We also compare our results with predictions based on the halo model with a universal pressure profile (UPP) giving the y signal. The predicted profile is consistent with the data, but only if we account for the clustering of haloes via a two-halo term and if halo masses are estimated using the mean stellar-to-halo mass (SHM) relation
+  * SHMR的scatter对模型预测很重要
+    * Planck Collaboration et al. (2013b) detected the tSZ signal from low-mass haloes as low as Mh ∼ 2 × 10^13M⊙ by stacking the Planck tSZ map around locally brightest galaxies (LBGs) con- structed from SDSS DR7 galaxies. Vikram et al. (2017) and Hill et al. (2018) cross-correlated the Planck tSZ map with the SDSS DR4 and DR7 group catalogue from Yang et al. (2007)
+
+----
+
+### Mar 18
+
+* [Simulating the effect of photoheating feedback during reionization](https://arxiv.org/abs/1903.06167)
