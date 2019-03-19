@@ -546,4 +546,93 @@
 
 ### Mar 18
 
-* [Simulating the effect of photoheating feedback during reionization](https://arxiv.org/abs/1903.06167)
+* [Revealing the dust attenuation properties on resolved scales in NGC 628 with SWIFT UVOT data](https://arxiv.org/abs/1903.06175)
+  * To shed new light on this question, we present a detailed study of the slope and bump strength of the attenuation law in the nearby spiral galaxy NGC628 at the resolved spatial scale of 325 pc.
+  * CIGALE模拟：We find that the median dust attenuation curve of NGC628 is fairly steep, but not as steep as the SMC curve, and has a sub-MW-type UV bump.
+  * We observe intriguing variations within the galaxy, with regions of high AV exhibiting a shallower attenuation curve
+
+* [A collisional origin for dark matter-free galaxies and their unusual globular clusters](https://arxiv.org/abs/1903.061717)
+  * **Interesting**
+  * We explore the observational evidence for a collisional origin for the recently discovered dark matter (DM)-free ultra-diffuse galaxies observed in the NGC 1052 group. We have computed the timescales for infall to the central nucleus due to dynamical friction (DF) for the globular clusters (GCs)
+  * We find that two out of ten GCs in NGC 1052-DF2 and one out of seven in NGC 1052-DF4 have DF timescales less than a Hubble time
+  * If correct, these would be the first GC populations discovered to have undergone significant collisional evolution \textit{after} their initial formation, ejecting preferentially low-mass GCs and perhaps even resulting in some GC-GC collisions
+
+* [The Radio Scream at Cosmic Dawn: A Semi-Analytic Model for the Impact of Radio Loud Black-Holes on the 21 cm Global Signal](https://arxiv.org/abs/1903.061788)
+  * Our formalism for black-hole growth can be incorporated into existing 21 cm simulations. We find that radio emission from super-massive black hole seeds can impact the global 21 cm signal at the level of tens to hundreds of percent provided that they were radio loud and obscured by gas
+  * 能重现EDGES的观测：We find various sets of parameters that reproduce some of the striking features of the EDGES absorption feature including its depth, timing, and side steepness while producing radio/X-ray backgrounds and source counts that are consistent with published limits
+  * 21 cm measurements, complemented by deep point source surveys, have the potential to constrain the radio properties of super-massive black-hole progenitors.
+
+* [LOFAR observations of 4C+19.44. On the discovery of low frequency spectral curvature in relativistic jet knots](https://arxiv.org/abs/1903.06824)
+  * First LOFAR observations of the radio jet in the quasar 4C+19.44 (a.k.a. PKS 1354+19) obtained with the long baselines.
+  * We found that, for several knots along the jet, the radio flux densities measured at hundreds of MHz lie well below the values estimated by extrapolating the GHz spectra. This clearly indicates the presence of spectral curvature.
+  * Radio spectral curvature has been already observed in different source classes and/or extended radio structures and it has been often interpreted as due to intrinsic processes, as a curved particle energy distribution, rather than absorption mechanisms
+
+* [How Gas Accretion Feeds Galactic Disks](https://arxiv.org/abs/1903.06840)
+  * For EAGLE galaxies at z=0.27, we find that cold gas accretes onto galaxies anisotropically with typical inflow speeds between 20 km s−1 and 60 km s−1. Most of these galaxies have comparable mass inflow rates and star formation rates, implying that the cold inflowing gas plausibly accounts for sustaining the star-forming activities of the galaxies
+  * We demonstrate that by viewing the disk edge-on, sightlines at azimuthal angles below 10∘ and impact parameters out to 60 pkpc can detect cold gas that corotates with the galaxy disk. This example suggests cold gas disks that extend beyond the optical disks possibly explain the sightline observations that detect corotating cold gas near galaxy major axes.
+
+* [Evolution of the Gas Mass Fraction of Progenitors to Today's Massive Galaxies: ALMA Observations in the CANDELS GOODS-S Field](https://arxiv.org/abs/1903.06962)
+  * ALMA survey of dust continuum emission in a sample of 70 galaxies in the redshift range z=2-5 selected from the CANDELS
+  * Multi-Epoch Abundance Matching (MEAM) is used to define potential progenitors of a z = 0 galaxy of stellar mass 1.5 10^11 M_sun
+  * This agrees with expectations for galaxies on the star-forming main sequence, and shows that gas fractions have decreased at a roughly constant rate from z=3 to z=0. 但z>4的没有探测
+  * We do not think that lower gas-phase metallicities can entirely explain the lower dust luminosities. We briefly consider the possibility of accretion of very low-metallicity gas to explain the absence of detectable dust emission in our galaxies at z>4.
+
+* [A tidal's tale: detection of multiple stellar streams in the environment of NGC1052](https://arxiv.org/abs/1903.07285)
+  * **Interesting**
+  * We carried out a search for signatures of past interactions connected to the putative hosts of NGC1052-DF2 and NGC1052-DF4 using a very deep image obtained with the 0.7m Jeanne Rich telescope
+  * We found several low-surface brightness features, possibly consistent with an ongoing merger history in this group.
+  * We find a stellar bridge connecting the NGC1052 and NGC1047, confirming a physical association. Furthermore we find a stellar loop around NGC1052 in the direction of NGC1042 and a stellar stream pointing in the direction of NGC1052-DF2 -- but both are not directly connected.
+
+* [Properties of ionized outflows in MaNGA DR2 galaxies](https://arxiv.org/abs/1903.07432)
+  * A systematic search and characterization of ionized outflows in nearby galaxies
+  * We find evidence for ionized outflows in 105 regions from 103 galaxies, roughly 7% of all the Halpha-emitting galaxies identified in this work
+  * The kinematics of the outflowing gas are strongly linked to the type of ionization mechanism: regions characterized by LIER emission host outflows with more extreme kinematics (FWHM_broad ~900 km/s), followed by those originated in AGN (~550 km/s), `Intermediate' (~450 km/s) and SF (~350 km/s) regions.
+  * In most of the outflows we find evidence for gas ionized by shocks.
+  * The fraction of outflowing gas that can escape from galaxies decreases towards higher dynamical masses, contributing to the preservation of the mass-metallicity relation by regulating the amount of metals in galaxies.
+
+* [Galaxies of the z∼2 Universe. I. Grism-Selected Rest-Frame Optical Emission Line Galaxies](https://arxiv.org/abs/1903.07573)
+  * We present the basic properties of ∼2,000 AEGIS, COSMOS, GOODS-N, GOODS-S, and UDS galaxies identified in the redshift range 1.90<z<2.35 via their [O II], Hβ, and [O III] emission lines.
+  * For these z∼2 galaxies, [O III] is generally much brighter than [O II] and Hβ, with typical rest-frame equivalent widths of several hundred Angstroms.
+  * These strong emission-line systems span an extremely wide range of stellar mass (∼3 dex), star-formation rate (∼2 dex), and [O III] luminosity (∼2 dex).
+  * 发射线挑选的星系质量偏低，尘埃消光偏低
+
+* [The Cosmic Ballet II: Spin alignment of galaxies and haloes with large-scale filaments in the EAGLE simulation](https://arxiv.org/abs/1903.06715)
+  * **Interesting**
+  * We identify filaments by applying the NEXUS+ method to the mass distribution and the Bisous formalism to the galaxy distribution.
+  * EAGLE haloes have an identical spin alignment with filaments as their counterparts in dark matter only simulations: a complex mass dependent trend with low mass haloes spinning preferentially parallel to and high mass haloes spinning preferentially perpendicular to filaments.
+  * In contrast, galaxy spins do not show such a spin transition and have a propensity for perpendicular alignments at all masses, with the degree of alignment being largest for massive galaxies.
+  * When splitting by morphology, we find that elliptical galaxies show a stronger orthogonal spin--filament alignment than spiral galaxies of similar mass.
+  * We find that the galaxies whose minor axis is perpendicular to a filament are much better aligned with their host haloes. This suggests that many of the same physical processes determine both the galaxy--filament and the galaxy--halo alignments.
+
+* [Cross-correlation of POLARBEAR CMB Polarization Lensing with High-z Sub-mm Herschel-ATLAS galaxies](https://arxiv.org/abs/1903.07046)
+  * **Interesting**
+  * Herschel ATLAS的红外星系和POLARBEAR的CMB lensing convergence之间的交叉相干信号
+  * We infer a best-fit galaxy bias of b=5.76±1.25, corresponding to a host halo mass of log10(Mh/M⊙)=13.5+0.2−0.3 at an effective redshift of z∼2
+  * This cross-correlation measurement only relies on CMB polarization information that, differently from CMB temperature maps, is less contaminated by galactic and extra-galactic foregrounds
+
+* [Controlling and leveraging small-scale information in tomographic galaxy-galaxy lensing](https://arxiv.org/abs/1903.07101)
+  * **Interesting**
+  * Using the fact that uncertainty in these contributions corresponds to an uncertainty in the enclosed projected mass around the lens, we provide an analytic marginalization scheme to account for this. Our approach enables the inclusion of measurements on smaller scales without requiring numerical sampling over extra free parameters.
+  * We extend the analytic marginalization formalism to retain cosmographic ("shear-ratio") information from small-scale measurements that would otherwise be removed due to modeling uncertainties, again without requiring the addition of extra sampling parameters.
+  * We demonstrate that we can remove parameter biases due to the presence of an un-modeled 1-halo contamination of the galaxy-galaxy lensing signal, and use the shear-ratio information on small scales to improve cosmological parameter constraints.
+
+* [Testing gravity with galaxy-galaxy lensing and redshift-space distortions using CFHT-Stripe 82, CFHTLenS and BOSS CMASS datasets](https://arxiv.org/abs/1903.07160)
+  * The combination of Galaxy-Galaxy Lensing (GGL) and Redshift Space Distortion of galaxy clustering (RSD) is a privileged technique to test General Relativity predictions, and break degeneracies between the growth rate of structure parameter f and the amplitude of the linear power-spectrum σ8.
+  * This analysis reveals that RSD efficiently decreases the GGL uncertainty on Ωm by a factor of 4, and by 30\% on σ8.
+
+* [Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics Beyond LambdaCDM](https://arxiv.org/abs/1903.07603)
+  * Improved determination of the Hubble constant (H0) from Hubble Space Telescope (HST) observations of 70 long-period Cepheids in the Large Magellanic Cloud.
+  * The Cepheid Period-Luminosity relation provides a zeropoint-free link with 0.4% precision between the new 1.2% geometric distance to the LMC from Detached Eclipsing Binaries (DEBs) measured by Pietrzynski et al (2019) and the luminosity of SNe Ia.
+  * Using only the LMC DEBs to calibrate the ladder we find H0=74.22 +/- 1.82 km/s/Mpc including systematic uncertainties, 3% higher than before for this particular anchor. Combining the LMC DEBs, masers in NGC 4258 and Milky Way parallaxes yields our best estimate: H0 = 74.03 +/- 1.42 km/s/Mpc
+  * Removing any one of these anchors changes H0 by < 0.7%. The difference between H0 measured locally and the value inferred from Planck CMB+LCDM is 6.6+/-1.5 km/s/Mpc or 4.4 sigma (P=99.999% for Gaussian errors) in significance
+
+* [Low-frequency radio study of MACS clusters at 610 and 235 MHz using the GMRT](https://arxiv.org/abs/1903.06799)
+  * GMRT dual-band (235 and 610 MHz) radio observations of four such merging cluster candidates from the MAssive Cluster Survey (MACS) catalogue.
+  * Among the proposed four clusters, three of them are detected with diffuse radio emission. 
+  * We report a flat spectrum (α∼−1.15), giant (∼1.6 Mpc each) rare halo-relic system at low frequency radio waves from a previously known radio loud cluster MACSJ0014.3-3022
+  * We also report the detection of very faint, diffuse radio relic like sources with size of about 0.4-0.5 Mpc in MACSJ0025.4-1222 (previously reported at 325 MHz) and MACSJ0152.5-2852 clusters.
+  * These high-redshift objects (z=0.584 and 0.413) are possibly among the few known early and young merging galaxy clusters. We also report the non-detection of diffuse radio emission from the MACSJ1931-2635 cluster at the reported rms levels in our study.
+
+* [Hyper-Resistive Model of Ultra High Energy Cosmic Ray Acceleration by Magnetically Collimated Jets Created by Active Galactic Nuclei](https://arxiv.org/abs/1903.06839)
+  * When an efficient dynamo can be maintained by accretion disks around supermassive black holes in Active Galactic Nuclei (AGNs), it will lead to the formation of a powerful, magnetically-collimated helix that could explain both the observed jet/radiolobe structures on very large scales and ultimately the enormous power inferred from the observed ultra high energy cosmic rays (UHECRs) with energies > 10^19 eV.
+  * Our hyper-resistive magnetohydrodynamic (MHD) model provides a bridge between General Relativistic MHD simulations of dynamo formation, on the short accretion timescale, and observational evidence of magnetic collimation of large-scale jets on astrophysical timescales.
