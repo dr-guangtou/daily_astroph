@@ -680,18 +680,43 @@
   * We show in our models that the bar triggered by a light perturbation grows into two phases: first, the bar appears as slow rotator, then it evolves toward fast rotator; second, when the perturbation is far from the target galaxy, the bar evolves from fast to slow rotator.
 
 * [Zoom-in cosmological hydrodynamical simulation of a star-forming barred, spiral galaxy at redshift z=2](https://arxiv.org/abs/1903.07958)
+  * By identifying star particles during the evolution of the spiral structure, we find that spiral arms originate from density wave perturbations. The newly-born stellar populations leave the spiral arms with a timescale τspiral ≈ 193 Myr, irrespective of redshift.
+  * Moreover, the pattern of the spiral arms rotates like a solid body with constant angular velocity, which is much lower than the angular velocity of the stars on the thin disc.
+  * The spiral pattern becomes fully organised when the gas settles from a thick (with vertical dispersion σv > 50 km/s) to a thin (σv ∼ 25 km/s) disc component in less than 1 Gyr
+  * 模拟里还有X-shape bar，来自于z~3的富气体的clump
+  * The specific angular momentum of the gas steadily increases as a function of time, at all radii on the thin disc.
 
 * [Precessing winds from the nucleus of the prototype Red Geyser?](https://arxiv.org/abs/1903.08032)
+  * We used SDSS MaNGA and Gemini Integral Field Spectroscopy of the prototype Red Geyser Akira and found that the orientation of the outflow changes by about 50◦ from its nucleus to kpc scales.
+  * 用进动的吸积盘来解释：A possible interpretation is that the outflow is produced by a precessing accretion disk due to a misalignment between the orientation of the disk and the spin of the SMBH.
+  * The precession of an AGN wide wind is reported here for the first time, implying on a larger work surface of the wind, which in turn increases the star formation suppression efficiency of the outflow.
 
 * [Extended Radio Structures and a Compact X-ray Cool-Core in the Cluster Source PKS 1353-341](https://arxiv.org/abs/1903.08044)
+  * Our multi-frequency VLA images reveal an edge-brightened (FR-II), double-lobed structure with total ∼50 kpc separated from the bright, arcsecond-scale core
+  * We reanalyzed the Chandra data and found the X-ray emitting AGN is offset by ∼9 kpc from a compact X-ray cool-core with temperature
+  * The offset suggests sloshing inside the cool-core induced by a minor merger or a past outburst of the AGN that produced the large-scale radio lobes.
+  * The lobes are actively heating the outer layers of what is now a remnant compact cool-core.
+  * Our dual-frequency VLBA images reveal substructure in the central radio source, consisting of a radio core with double-sided pc-scale jets pointing toward the kpc-scale structures.
 
 * [The Very Large Telescope Interferometric Signals of Close Binaries of Supermassive Black Holes in Active Galactic Nuclei](https://arxiv.org/abs/1903.08067)
+  * 模型研究：Each SMBH is assumed to be separately surrounded by their own broad-line regions (BLRs) composed of clouds with virialized motion. Composition of the binary orbital motion and the virial motion of clouds in each BLR intrinsically determines the projected velocity fields and hence differential phase curves, which are obviously different from that of a single BLR.
+  * 看发射线轮廓和较差相位曲线上的特征, 有可能出现平台，有可能出现peak和valley结构：All these features are easily distinguished from the well-known S-shaped phase curves of a single BLR so that the GRAVITY is expected to reveal signals of CB-SMBH from candidates of AGNs.
 
 * [The first 62 AGN observed with SDSS-IV MaNGA -- III: stellar and gas kinematics](https://arxiv.org/abs/1903.08071)
+  * We found that AGN hosts and control galaxies display similar kinematic PA offsets between gas and stars.
+  * AGN have larger fractional velocity dispersion σ differences between gas and stars: [σfrac = (σgas − σstars)/σstars]
+  * We find a correlation between the [O iii]λ5007 luminosity and σfrac for our sample.
+  * Our main conclusion is that the AGN already observed with MaNGA are not powerful enough to produce important outflows at galactic scales, but at 1-2 kpc scales, AGN feedback signatures are always present on their host galaxies.
 
 * [A close look at the dwarf AGN of NGC 4395: optical and near-IR integral field spectroscopy](https://arxiv.org/abs/1903.08083)
+  * We present optical and near-infrared integral field spectroscopy of the inner ∼50 pc of the dwarf galaxy NGC 4395, known to harbor an AGN.
+  * The gas kinematics show a compact, rotation disk component with a projected velocity amplitude of 25 km s−1. We estimate a mass of 7.7 × 10^5 M⊙ inside a radius of 10 pc.
+  * The emission-line flux distributions reveal an elongated structure at 24pc west of the nucleus, which is blueshifted relative to the systemic velocity of the galaxy by ≈30 km s−1. 可能是吸积小星系造成的
 
 * [Gemini Imaging of the Host Galaxies of Changing-Look Quasars](https://arxiv.org/abs/1903.08122)
+  * We characterize the host galaxies of four faded changing-look quasars using broadband optical imaging.
+  * Although we do not detect, voorwerpjes surrounding the four quasar host galaxies, we take advantage of the dim nuclear emission to characterize the colors and morphologies of the host galaxies. Three of the four galaxies show morphological evidence of merger activity or tidal features in their residuals.
+  * On a color-magnitude diagram, our changing-look quasar host galaxies reside in the blue cloud, with other AGN host galaxies and star-forming galaxies. On a color-Sérsic index diagram the changing-look quasar hosts reside with other AGN hosts in the "green valley"
 
 * [Mass Variance from Archival X-ray Properties of Dark Energy Survey Year-1 Galaxy Clusters](https://arxiv.org/abs/1903.08042)
   * **Important, Relevant**
