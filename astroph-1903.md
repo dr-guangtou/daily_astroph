@@ -628,7 +628,7 @@
 
 * [Low-frequency radio study of MACS clusters at 610 and 235 MHz using the GMRT](https://arxiv.org/abs/1903.06799)
   * GMRT dual-band (235 and 610 MHz) radio observations of four such merging cluster candidates from the MAssive Cluster Survey (MACS) catalogue.
-  * Among the proposed four clusters, three of them are detected with diffuse radio emission. 
+  * Among the proposed four clusters, three of them are detected with diffuse radio emission.
   * We report a flat spectrum (α∼−1.15), giant (∼1.6 Mpc each) rare halo-relic system at low frequency radio waves from a previously known radio loud cluster MACSJ0014.3-3022
   * We also report the detection of very faint, diffuse radio relic like sources with size of about 0.4-0.5 Mpc in MACSJ0025.4-1222 (previously reported at 325 MHz) and MACSJ0152.5-2852 clusters.
   * These high-redshift objects (z=0.584 and 0.413) are possibly among the few known early and young merging galaxy clusters. We also report the non-detection of diffuse radio emission from the MACSJ1931-2635 cluster at the reported rms levels in our study.
@@ -636,3 +636,70 @@
 * [Hyper-Resistive Model of Ultra High Energy Cosmic Ray Acceleration by Magnetically Collimated Jets Created by Active Galactic Nuclei](https://arxiv.org/abs/1903.06839)
   * When an efficient dynamo can be maintained by accretion disks around supermassive black holes in Active Galactic Nuclei (AGNs), it will lead to the formation of a powerful, magnetically-collimated helix that could explain both the observed jet/radiolobe structures on very large scales and ultimately the enormous power inferred from the observed ultra high energy cosmic rays (UHECRs) with energies > 10^19 eV.
   * Our hyper-resistive magnetohydrodynamic (MHD) model provides a bridge between General Relativistic MHD simulations of dynamo formation, on the short accretion timescale, and observational evidence of magnetic collimation of large-scale jets on astrophysical timescales.
+
+----
+
+### Mar 19
+
+* [The Hubble Sequence at z∼0 in the IllustrisTNG simulation with deep learning](https://arxiv.org/abs/1903.07625)
+  * **Useful**
+  * We generate mock SDSS images of a mass complete sample of ∼12,000 galaxies in the simulation using the radiative transfer code SKIRT and include PSF and noise to match the SDSS r-band properties
+  * The CNN model finds that ∼95% of the simulated galaxies fall in one the four main classes with high confidence. The mass-size relations of the simulated galaxies divided by morphological type also reproduce well the slope and the normalization of observed relations which confirms the realism of optical morphologies in the TNG suite
+  * We find that the high mass end of the SMF is dominated in TNG by massive disk galaxies while early-type galaxies dominate in the observations according to the CNN classifications.
+
+* [Nature of Faint Radio Sources in GOODS-North and GOODS-South Fields - I. Spectral Index and Radio-FIR Correlation](https://arxiv.org/abs/1903.07632)
+  * JVLA deep and wide 5 GHz radio observations of GOODS-N/S fields
+  * We derive radio spectral indices α between 1.4 and 5 GHz using the beam-matched images and show that the overall spectral index distribution is broad even when the measured noise and flux bias are considered
+  * We also find a clustering of faint radio sources around α=0.8, but only within S5GHz<150μJy.
+  * We demonstrate that the correct radio spectral index is important for deriving accurate rest frame radio power and analyzing the radio-FIR correlation, and adopting a single value of α=0.8 leads to a significant scatter and a strong bias in the analysis of the radio-FIR correlation
+  * When characterized by specific star formation rates, the starburst population (58%) dominates the 5 GHz radio source population, and the quiescent galaxy population (30%) follows a distinct trend in spectral index distribution and the radio-FIR correlation.
+
+* [Search Instructions for Globular Clusters in Formation at High Redshifts](https://arxiv.org/abs/1903.07633)
+  * 关于找高红移正在形成中的GC：A simple set of assumptions are empirically justified and then used to predict how many such precursors formed between redshift 3 and 10 could actually be detected by the NIRCam instrument on board of JWST
+  * It is shown that the near power-law shape of the rest-frame UV continuum of young globular cluster precursors (GCP) implies that both colours and luminosities in NIRCam long-wavelength passbands depend remarkably weakly on formation redshift. Thus, the predicted number counts depend only little on the actual formation redshifts in the mentioned range
+  * Instead, counts depend strongly on the actual mass of GCPs, in such a way that one NIRCam pointing should detect of the order of 10 GCPs to mag∼30 if their mass distribution was the same of today GCs
+
+* [An accreting supermassive black hole irradiating molecular gas in NGC 2110](https://arxiv.org/abs/1903.07637)
+  * **Interesting**
+  * We report on a high-resolution multi-phase study of the nuclear environment in the nearby Seyfert galaxy NGC 2110 using the Atacama Large Millimeter Array (ALMA)
+  * We identify a region that is markedly weak in low-excitation CO 2→1 emission from cold molecular gas, but appears to be filled with ionised and warm molecular gas, which indicates that the AGN is directly influencing the properties of the molecular material.
+  * Our results demonstrate that the influence of an AGN on star-forming gas can be quite localized. In contrast to widely-held theoretical expectations, we find that molecular gas remains resilient to the glare of energetic AGN feedback.
+
+* [Galaxy And Mass Assembly (GAMA): Timescales for galaxies crossing the green valley](https://arxiv.org/abs/1903.07675)
+  * **Interesting**
+  * We utilise galaxies from the GAMA survey with 0.1 < z < 0.2 and classify them according to the intrinsic (u-r?) colours of their stellar populations
+  * Using these fits to also determine stellar population ages and star formation timescales, we argue that our results are consistent with a green valley population dominated by galaxies that are simply decreasing their star formation (running out of gas) over a timescale of 2-4 Gyr which are seen at a specific epoch in their evolution
+  * In this picture, no specific quenching event which cuts-off their star formation is required, though it remains possible that the decline in star formation in green galaxies may be expedited by internal or external forces.
+
+* [Swift, NuStar and XMM-Newton observations of the NLS1 galaxy RX J2317.8-4422 in an extreme X-ray low flux state](https://arxiv.org/abs/1903.07689)
+ * We report the discovery of RX J2317.8-4422 in an extremely low X-ray flux state by the Neil Gehrels Swift observatory. In total, the low-energy X-ray emission dropped by a factor 100
+ * While the high-state Swift observations can be interpreted by a partial covering absorption model with a moderate absorption column density or blurred reflection.
+
+* [Assessing the disk galaxy stability through the time](https://arxiv.org/abs/1903.07728)
+  * We find that the critical limits of DSP are not much affected in barred models, however, when the bar is triggered by the perturbation, the disk fall in the unstable regimen
+  * We show in our models that the bar triggered by a light perturbation grows into two phases: first, the bar appears as slow rotator, then it evolves toward fast rotator; second, when the perturbation is far from the target galaxy, the bar evolves from fast to slow rotator.
+
+* [Zoom-in cosmological hydrodynamical simulation of a star-forming barred, spiral galaxy at redshift z=2](https://arxiv.org/abs/1903.07958)
+
+* [Precessing winds from the nucleus of the prototype Red Geyser?](https://arxiv.org/abs/1903.08032)
+
+* [Extended Radio Structures and a Compact X-ray Cool-Core in the Cluster Source PKS 1353-341](https://arxiv.org/abs/1903.08044)
+
+* [The Very Large Telescope Interferometric Signals of Close Binaries of Supermassive Black Holes in Active Galactic Nuclei](https://arxiv.org/abs/1903.08067)
+
+* [The first 62 AGN observed with SDSS-IV MaNGA -- III: stellar and gas kinematics](https://arxiv.org/abs/1903.08071)
+
+* [A close look at the dwarf AGN of NGC 4395: optical and near-IR integral field spectroscopy](https://arxiv.org/abs/1903.08083)
+
+* [Gemini Imaging of the Host Galaxies of Changing-Look Quasars](https://arxiv.org/abs/1903.08122)
+
+* [Mass Variance from Archival X-ray Properties of Dark Energy Survey Year-1 Galaxy Clusters](https://arxiv.org/abs/1903.08042)
+  * **Important, Relevant**
+  * Using archival X-ray observations and a log-normal population model, we estimate constraints on the intrinsic scatter in halo mass at fixed optical richness for a galaxy cluster sample identified in Dark Energy Survey Year-One (DES-Y1) data with the redMaPPer algorithm
+  * X-ray temperatures are obtained from Chandra and XMM observations for 58 and 110 redMaPPer systems, respectively. Despite non-uniform sky coverage, the TX measurements are >50% complete for clusters with λRM>130.
+  * Joined with constraints for TX scaling with halo mass from the Weighing the Giants program and richness--temperature covariance estimates from the LoCuSS sample, we derive the richness-conditioned scatter in mass, σlnM|λ=0.30±0.04(stat)±0.09(sys), at an optical richness of approximately 70
+
+* [Fermi-LAT Observations of Extreme Spectral Variability in IC 310](https://arxiv.org/abs/1903.07897)
+  * TeV-emitting misaligned active galactic nucleus IC 310
+  * We find strong spectral variability and detect the hard flaring state of IC 310 along with a previously undiscovered soft state in quiescent periods, and the first detection with Fermi-LAT below 1 GeV.
+  * This represents a shift in peak Compton energy of more than five orders of magnitude.
