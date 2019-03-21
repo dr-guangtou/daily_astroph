@@ -734,31 +734,105 @@
 ### Mar 20
 
 * [Discovery of a red ultra-diffuse galaxy in a nearby void based on its globular cluster luminosity function](https://arxiv.org/abs/1903.08168)
+  * **Relevant**
+  * Here we report the discovery of a red ultra-diffuse galaxy (S82-DG-1: reff = 1.6 kpc; < μg > = 25.7 mag arcsec−2; g − i = 0.78 mag) located in a nearby cosmic void.
+  * We used multi-band luminosity functions of its globular clusters to obtain the distance to S82-DG-1 at 28.7 Mpc
+  * 有GTC光谱：association with the NGC 1211 galaxy (one of the most isolated galaxies known) highly likely.
+  * Our work shows: i) The high potential of using optical ground-based photometry of associated globular clusters to explore distances to ultra-diffuse galaxies and ii) the presence of red ultra-diffuse galaxies even in the most sparse environments, suggesting a wide range of formation mechanisms.
 
 * [Maximising the power of deep extragalactic imaging surveys with the James Webb Space Telescope](https://arxiv.org/abs/1903.08169)
+  * we properly simulate what can be achieved with realistic survey strategies, and utilise rigorous signal:noise calculations to calculate the resulting posterior constraints on the physical properties of galaxies
+  * NIRCam巡天加上MIRI或者HST观测能否有提高：We show that MIRI parallel 7.7-μm imaging is of most value for better constraining the redshifts and stellar masses of the dustiest (AV > 3) galaxies, while deep B-band imaging (reaching ≃ 28.5 AB mag) with ACS on HST is vital for determining the redshifts of the large numbers of faint/low-mass
 
 * [Radiation-pressure Waves and Multiphase Quasar Outflows](https://arxiv.org/abs/1903.08170)
+  * Quasar outflow properties revealed by analyzing more than 60 composite outflow spectra built from ∼ 60000 Civ absorption troughs
+  * The evolution of the equivalent widths of the Ovi and Nv lines with outflow velocity correlates with that of the mean absorption-line width, the outflow electron density, and the strength of lines arising from collisionally- excited meta-stable states.
+  * We find no dependence on quasar magnitude or redshift in any case. All the observed trends can be reconciled by considering a multiphase stratified outflow structure, where inner regions are colder, denser and host lower-ionization species.
+  * Radiation pressure sweeps up and compresses the outflowing gas outwards, creating waves or filaments where the multiphase stratified structure could take form.
+  * This scenario is supported by the correlation between electron density and outflow velocity, and the similar behavior observed for the line and line-locking components of the absorption features.
 
 * [Resolved UV and [CII] structures of luminous galaxies within the epoch of reionisation](https://arxiv.org/abs/1903.08171)
+  * Deep ALMA and HST/WFC3 observations of MASOSA and VR7, two luminous Lyα emitters (LAEs) at z = 6.5
+  * MASOSA: compact size, Lya EW宽，[CII]无探测，可能有很低的金属丰度；但是UV slope很红，和没有尘埃不符合
+  * VR7: 很亮，Lya EW中等；is clearly detected in [Cii] emission (S/N=15).
+  * VR7’s rest-frame UV morphology can be described by two components separated by ≈ 1.5 kpc and is globally more compact than the [Cii] emission.
+  * The global [Cii]-UV ratio indicates Z ≈ 0.2Z⊙, but there are large variations in the UV-[Cii] ratio on kpc scales.
+  * Our results further indicate that the global [Cii]-UV relation steepens at SFR < 30 M⊙ yr−1, naturally explaining why the [Cii]-UV ratio is anti-correlated with Lyα EW in many, but not all, observed LAEs.
 
 * [Deep ugrizY Imaging and DEEP2/3 Spectroscopy: A Photometric Redshift Testbed for LSST and Public Release of Data from the DEEP3 Galaxy Redshift Survey](https://arxiv.org/abs/1903.08174)
+  * **Useful**
+  * We present catalogs of calibrated photometry and spectroscopic redshifts in the Ex- tended Groth Strip, intended for studies of photometric redshifts (photo-z’s).
+  * These catalogs incorporate corrections to produce effectively matched- aperture photometry across all bands, based upon object size information available in the catalog and Moffat profile point spread function fits.
+  * Corrected aperture photometry leads to significant improvement in photo-z accuracy compared to the original SExtractor catalogs from CFHTLS and Subaru.
 
 * [Detection of a Lensed z≈11 Galaxy in the Rest-Optical with Spitzer/IRAC and the Inferred SFR, Stellar Mass, and Physical Size](https://arxiv.org/abs/1903.08177)
+  * **Useful, Interesting**
+  * We take advantage of new 100-hour Spitzer/IRAC observations available for MACS0647-JD, a strongly lensed z ≈ 11 galaxy candidate
+  * Thanks to the high ≈2-6× lensing magnification of the multiple images of MACS0647-JD, we can use the sensitive Spitzer/IRAC data to probe the rest-frame optical fluxes
+  * Assuming a constant star formation rate, the age, stellar mass, and rest-frame UV slope we estimate for MACS0647-JD based on a stack of the photometry are log (age/yr) = 8.6+0.1, log (M /M ) = 9.1+0.2, and β = −1.3±0.6,
+  * We also find that its radius, 105±28 pc, is a factor of ≈2 smaller than the mean size in a separate simulation project DRAGONS. Interestingly enough, the observed size is similar to the small sizes seen in very low-luminosity z ≈ 6-10 galaxies behind lensing clusters.
+  * 有关于Spitzer IRAC图像问题的讨论
 
 * [The Journey Counts: The Importance of Including Orbits when Simulating Ram Pressure Stripping](https://arxiv.org/abs/1903.08178)
+  * **Interesting**
+  * 更真实的RPS模拟：We examine the gas disk and tail properties of stripped cluster galaxies in eight “wind-tunnel” hydrodynamical simulations with either varying or constant ram pressure strength.
+  * In simulations without radiative cooling, applying a varying wind leads to significantly different density and velocity structure in the tail than found when applying a constant wind, although the stripping rate, disk mass, and disk radius remain consistent in both scenarios.
+  * In simulations with radiative cooling, the differences between a constant and varying wind are even more pronounced. Not only is there a difference in morphology and velocity structure in the tails, but a varying wind leads to a much lower stripping rate
+  * A constant wind cannot appropriately model the ram pressure stripping of a galaxy entering a cluster. We conclude that simulations attempting detailed comparisons with observations must take the variation of the ram pressure profile due to a galaxy’s orbit into consideration.
 
 * [Using Harmonic Decomposition to Understand Barred Galaxy Evolution](https://arxiv.org/abs/1903.08203)
+  * Bar formation in n-body simulations of a stellar disc and dark matter halo system using harmonic basis function expansion analysis to characterize the dynamical mechanisms in bar evolution.
+  * We recover known analytic results, such as bar slowdown owing to angular momentum transfer. We also find new dynamical mechanisms for bar evolution: a steady-state equilibrium configuration and harmonic interaction resulting in harmonic mode locking, both of which may be observable.
+  * Isophote拟合给出的Bar长度未必可靠：we find that ellipse fitting may severely overestimate measurements of bar length by a factor of two relative to the measurements based on orbits; The bias will lead to overestimates of both bar mass and bar pattern speed
+  * We propose a direct observational technique to compute the radial extent of trapped orbits and determine a dynamical length for the bar.
+    * One can move beyond Fourier analysis in rings. Performing a basis function expansion (BFE) that correlates spatial and aziimuthal structure and more accurately represents the gravitational field that causes the non-axisymmetric structures.
+    * The harmonic BFE decomposition technique has been used to both study and compare simulations, owing to its natural relationship with analytic perturbation theory (Weinberg & Katz 2007a,b).
+    * "Trapping" Analysis: we analyzed bar membership through the clustering of the radial turning points, or apsides, for a given orbit. Orbits ‘trapped’ by the bar’s gravity will librate about the position angle of the bar’s major axis.
 
 * [Initial Mass Function Variation in two Elliptical Galaxies using Near-Infrared Tracers](https://arxiv.org/abs/1903.08323)
+  * **Interesting, Relevant**
+  * NIFS: we demonstrate that gravity-sensitive absorption features in the zJ-band (0.9–1.35 μm) can constrain the low-mass stellar initial mass function (IMF) in the cores of two elliptical galaxies, M85 and M87.
+  * We find that the IMF slopes in M85 are similar to the canonical Milky Way IMF with a median IMF-mismatch parameter αK = 1.26. In contrast, we find that the IMF in M87 is steeper than a Salpeter IMF with αK = 2.77. 既考虑了EW又用了光谱拟合
+  * Certain elemental abundances, e.g. Na and Fe, have dramatic effects on the IMF-sensitive features and therefore the derived IMF slopes. We show evidence for a high [Na/H] ∼ 0.65 dex in the core of M85 from two independent Na I absorption features. The high Na abundance may be the result of a recent galactic merger involving M85.
+    * This provided an effective spectral coverage of 0.94–1.33 μm. These bands have spectral resolving powers in the range of ∼5000–6000. The NIFS integral field size was ∼3" × 3" mapped by 29 image slices, and a pixel scale of 0.103" and 0.04" across and along the slices, respectively.
 
 * [The inflow and outflow rate evolution of local Milky Way-mass star-forming galaxies since z=1.3](https://arxiv.org/abs/1903.08477)
+  * We study the gas inflow rate (ζinflow) and outflow rate (ζoutflow) evolution of local Milky Way-mass star-forming galaxies (SFGs) since z = 1.3.
+  * With the M∗ + Mgas growth curve, the net inflow rate κ is quantified at each cosmic epoch. At z ∼ 1.3, κ is comparable with the SFR, whereas it rapidly decreases to ∼ 0.15×SFR at z = 0.
+  * We then constrain the average outflow rate ζoutflow of progenitor galaxies by modeling the evolution of their gas-phase metallicity. The best-fit ζoutflow is found to be (0.5 − 0.8)×SFR.
+  * We find that ζinflow rapidly decreases by ∼80% from z = 1.3 to z = 0.5. At z < 0.5, ζinflow continuously decreases but with a much lower decreasing rate.
 
 * [A procedure for making high dynamic-range radio images: Deep imaging of the kiloparsec-scale radio structures of a distant blazar, NRAO 530, with JVLA data](https://arxiv.org/abs/1903.08586)
+  * We have demonstrated that, correcting for residual interferometer errors such as antenna-based errors caused by residual delays as well as baseline-based closure errors, radio astronomers can now achieve high-fidelity radio images with a dynamic range (peak:rms) exceeding 1,000,000:1.
+  * Here, we apply this procedure to observations of a distant blazar, NRAO 530, revealing the radio structures surrounding the core in unprecedented detail.
+  * The kiloparsec radio structure of NRAO 530 is prominently characterized by a moderately curved western jet terminating at a hot spot where the radiation is stretched further out into a diffuse radio lobe or plume.
 
 * [The VANDELS survey: the role of ISM and galaxy physical properties on the escape of Lyα emission in z ∼ 3.5 star-forming galaxies](https://arxiv.org/abs/1903.08593)
+  * From all the Lyα emitting galaxies in the VANDELS Data Release 2 at 3.5   z   4.5, we select a sample of 52 galaxies which also have a precise systemic redshift determination from at least one nebular emission line 
+  * We reproduce some of the well known correlations between Lyα EW and stellar mass, dust extinction and UV β slope, in the sense that the emission line appears brighter in lower mass, less dusty and bluer galaxies.
+  * We find that galaxies with brighter Lyα tend to be more compact both in UV and in Lyα. 
+  * Galaxies with larger inter-stellar medium (ISM) out-flow velocities show smaller Lyα velocity shifts. We interpret this relation in the context of the shell-model scenario, where the velocity of the ISM and the HI column density contribute together in determining the Lyα kinematics
 
 * [A survey of the thermal and non-thermal properties of cosmic filaments](https://arxiv.org/abs/1903.08401)
+  * ENZO MHD模拟：We exploit a isovolume based algorithm to identify filaments and determine their attributes from the continuous distribution of gas mass density in the simulated volumes.
+  * We show how the impact of non-gravitational physics on the global thermodynamical properties of filaments is modest, with the exception of the densest gas environment surrounding galaxies in filaments.
+  * Conversely, the magnetic properties of the WHIM in filament are found to dramatically vary as different seeding scenarios are considered.
+    * Covariance matrix的非对角项和波数k有关，不能简单的随着体积V增大而减小
+    * Assessing the magnetisation level of filaments is of great interest also for other studies, from the origin and composition of ultra high-energy cosmic rays (UHECRs) propagating across the Universe (e.g. Sigl et al. 2003; Dolag et al. 2003; Hackstein et al. 2016, 2018) to the study of rotation measure for cosmological sources, like quasars and Fast Radio Bursts (e.g. Akahori et al. 2016; Vazza et al. 2018a
 
 * [Suppressing cosmic variance with paired-and-fixed cosmological simulations: average properties and covariances of dark matter clustering statistics](https://arxiv.org/abs/1903.08518)
+  * cosmic variance – the statistical noise due to the finite number of harmonics. The cosmic variance can be suppressed by fixing the amplitudes of the harmonics instead of drawing them from a Gaussian distribution predicted by the inflation models.
+  * we compare the consequences of using paired-and-fixed vs Gaussian initial conditions on the average dark matter clustering and covariance matrices predicted from N-body simulations. 对Average没啥影响，但是对covariance影响很大
+  * Yet, the covariances from paired-and-fixed simulations are suppressed in a complicated scale- and redshift- dependent way
+  * There is no path towards obtaining accurate covariance matrices from paired-and-fixed simulations.
+    * N-body codes such as COLA (Tassev et al. 2015; Koda et al. 2016) and GLAM (Klypin & Prada 2018) that are very fast and have sufficient resolution for some observational statistics. 这些都是近似工具，只能用来估计Covariance
 
 * [The Galaxy Cluster 'Pypeline' for X-ray Temperature Maps: ClusterPyXT](https://arxiv.org/abs/1903.08215)
+  * **Useful**
+  * ClusterPyXT is a new software pipeline to generate spectral temperature, X-ray surface brightness, pressure, and density maps from X-ray observations of galaxy clusters.
+  * ClusterPyXT automates the creation of these data products with minimal user interaction, and allows for rapid analyses of archival data with user defined parameters and the ability to straightforwardly incorporate additional observations
+  * 现在只能对Chandra用，但是有计划加入XMM
+    * ClusterPyXT uses the Astrophysical Plasma Emission Code (APEC) model for optically thin collisionally ionized hot plasma combined with a photoelectric absorption model (PHABS)
+    * These models include redshift, metallicity, temperature, normalization and hydrogen column density.
+    * ClusterPyXT uses an adaptive circular binning (ACB) to create a bin for each pixel. The bin size is determined by what size circle, centered on the pixel, is needed to obtain the desired signal to noise ratio.
+    * While ClusterPyXT was developed for processing X- ray observations of galaxy clusters, the pipeline can also be used to analyze other sources (e.g. galaxies, supernova, active galactic nuclei, etc.)
