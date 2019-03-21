@@ -728,3 +728,37 @@
   * TeV-emitting misaligned active galactic nucleus IC 310
   * We find strong spectral variability and detect the hard flaring state of IC 310 along with a previously undiscovered soft state in quiescent periods, and the first detection with Fermi-LAT below 1 GeV.
   * This represents a shift in peak Compton energy of more than five orders of magnitude.
+
+----
+
+### Mar 20
+
+* [Discovery of a red ultra-diffuse galaxy in a nearby void based on its globular cluster luminosity function](https://arxiv.org/abs/1903.08168)
+
+* [Maximising the power of deep extragalactic imaging surveys with the James Webb Space Telescope](https://arxiv.org/abs/1903.08169)
+
+* [Radiation-pressure Waves and Multiphase Quasar Outflows](https://arxiv.org/abs/1903.08170)
+
+* [Resolved UV and [CII] structures of luminous galaxies within the epoch of reionisation](https://arxiv.org/abs/1903.08171)
+
+* [Deep ugrizY Imaging and DEEP2/3 Spectroscopy: A Photometric Redshift Testbed for LSST and Public Release of Data from the DEEP3 Galaxy Redshift Survey](https://arxiv.org/abs/1903.08174)
+
+* [Detection of a Lensed z≈11 Galaxy in the Rest-Optical with Spitzer/IRAC and the Inferred SFR, Stellar Mass, and Physical Size](https://arxiv.org/abs/1903.08177)
+
+* [The Journey Counts: The Importance of Including Orbits when Simulating Ram Pressure Stripping](https://arxiv.org/abs/1903.08178)
+
+* [Using Harmonic Decomposition to Understand Barred Galaxy Evolution](https://arxiv.org/abs/1903.08203)
+
+* [Initial Mass Function Variation in two Elliptical Galaxies using Near-Infrared Tracers](https://arxiv.org/abs/1903.08323)
+
+* [The inflow and outflow rate evolution of local Milky Way-mass star-forming galaxies since z=1.3](https://arxiv.org/abs/1903.08477)
+
+* [A procedure for making high dynamic-range radio images: Deep imaging of the kiloparsec-scale radio structures of a distant blazar, NRAO 530, with JVLA data](https://arxiv.org/abs/1903.08586)
+
+* [The VANDELS survey: the role of ISM and galaxy physical properties on the escape of Lyα emission in z ∼ 3.5 star-forming galaxies](https://arxiv.org/abs/1903.08593)
+
+* [A survey of the thermal and non-thermal properties of cosmic filaments](https://arxiv.org/abs/1903.08401)
+
+* [Suppressing cosmic variance with paired-and-fixed cosmological simulations: average properties and covariances of dark matter clustering statistics](https://arxiv.org/abs/1903.08518)
+
+* [The Galaxy Cluster 'Pypeline' for X-ray Temperature Maps: ClusterPyXT](https://arxiv.org/abs/1903.08215)
