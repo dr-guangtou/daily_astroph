@@ -836,3 +836,37 @@
     * These models include redshift, metallicity, temperature, normalization and hydrogen column density.
     * ClusterPyXT uses an adaptive circular binning (ACB) to create a bin for each pixel. The bin size is determined by what size circle, centered on the pixel, is needed to obtain the desired signal to noise ratio.
     * While ClusterPyXT was developed for processing X- ray observations of galaxy clusters, the pipeline can also be used to analyze other sources (e.g. galaxies, supernova, active galactic nuclei, etc.)
+
+----
+
+### Mar 21
+
+* [Imprints of Mass Accretion History on the Shape of the Intracluster Medium and the TX−M Relation](https://arxiv.org/abs/1903.08662)
+
+* [New Insights into the Physical Conditions and Internal Structure of a Candidate Proto-Globular Cluster](https://arxiv.org/abs/1903.08669)
+
+* [The parallelism between galaxy clusters and early-type galaxies: I. The light and mass profiles](https://arxiv.org/abs/1903.08692)
+
+* [MUSE observations of a changing-look AGN I: The re-appearance of the broad emission lines](https://arxiv.org/abs/1903.08696)
+
+* [Spectrophotometric redshifts for z∼1 galaxies and predictions for number densities with WFIRST and Euclid](https://arxiv.org/abs/1903.08705)
+
+* [Stellar populations in hosts of giant radio galaxies and their neighbouring galaxies](https://arxiv.org/abs/1903.08724)
+
+* [Evidence for a Young Stellar Population in Nearby Type 1 Active Galaxies](https://arxiv.org/abs/1903.08796)
+
+* [The Blueshift Of Civ Broad Emission Line In QSOs](https://arxiv.org/abs/1903.08830)
+
+* [The MASSIVE survey - XI. What drives the molecular gas properties of early-type galaxies](https://arxiv.org/abs/1903.08884)
+
+* [The Lyα Luminosity Function and Cosmic Reionization at z∼ 7.0: a Tale of Two LAGER Fields](https://arxiv.org/abs/1903.09046)
+
+* [Lyman Alpha Galaxies in the Epoch of Reionization (LAGER): Spectroscopic Confirmation of Two Redshift ~ 7.0 Galaxies](https://arxiv.org/abs/1903.09047)
+
+* [Bulge plus disc and Sérsic decomposition catalogues for 16,908 galaxies in the SDSS Stripe 82 co-adds: A detailed study of the ugriz structural measurements](https://arxiv.org/abs/1903.09068)
+
+* [Tidal disruption event rates in galaxy merger remnants](https://arxiv.org/abs/1903.09124)
+
+* [Stellar mass as a galaxy cluster mass proxy: application to the Dark Energy Survey redMaPPer clusters](https://arxiv.org/abs/1903.08813)
+
+* [Design for the First Narrowband Filter for the Dark Energy Camera: Optimizing the LAGER Survey for z ~ 7 Galaxies](https://arxiv.org/abs/1903.09045)
