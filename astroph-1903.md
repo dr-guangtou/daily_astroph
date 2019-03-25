@@ -927,3 +927,29 @@
   * We present the design for the first narrowband filter NB964 for the Dark Energy Camera (DECam)
   * The NB964 filter profile is essentially defined by maximizing the power of searching for Lyman alpha emit- ting galaxies (LAEs) in the epoch of reionization, with the consideration of the night sky background in the near-infrared and the DECam quantum efficiency.
   * It has a central wavelength of 964.2 nm and a full width at half maximum (FWHM) of 9.2 nm.
+
+----
+
+### Mar 24
+
+* [Constraining the Active Galactic Nucleus and Starburst Properties of the IR-luminous Quasar Host Galaxy APM 08279+5255 at Redshift 4 with SOFIA](https://arxiv.org/abs/1903.09153)
+
+* [The ALMA Spectroscopic Survey in the HUDF: the molecular gas content of galaxies and tensions with IllustrisTNG and the Santa Cruz SAM](https://arxiv.org/abs/1903.09158)
+
+* [The ALMA Spectroscopic Survey in the HUDF: CO emission lines and 3 mm continuum sources](https://arxiv.org/abs/1903.09161)
+
+* [The ALMA Spectroscopic Survey in the Hubble Ultra Deep Field: Evolution of the molecular gas in CO-selected galaxies](https://arxiv.org/abs/1903.09162)
+
+* [Stellar content, planetary nebulae, and globular clusters of [KKS2000]04 (NGC1052-DF2)](https://arxiv.org/abs/1903.09163)
+
+* [The ALMA Spectroscopic Survey in the HUDF: CO luminosity functions and the molecular gas content of galaxies through cosmic history](https://arxiv.org/abs/1903.09164)
+
+* [The ALMA Spectroscopic Survey in the HUDF: Nature and physical properties of gas-mass selected galaxies using MUSE spectroscopy](https://arxiv.org/abs/1903.09167)
+
+* [400 pc imaging of a quasar host galaxy at z=6.6](https://arxiv.org/abs/1903.09202)
+
+* [SDSS--IV MaNGA : The Inner Density Slopes of nearby galaxies](https://arxiv.org/abs/1903.09282)
+
+* [On the varied origins of up-bending breaks in galaxy disks](https://arxiv.org/abs/1903.09384)
+
+* [Cluster induced quenching of galaxies in the massive cluster XMMXCSJ2215.9-1738 at z~1.5 traced by enhanced metallicities inside half R200](https://arxiv.org/abs/1903.09591)
