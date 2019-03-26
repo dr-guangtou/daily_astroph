@@ -953,3 +953,33 @@
 * [On the varied origins of up-bending breaks in galaxy disks](https://arxiv.org/abs/1903.09384)
 
 * [Cluster induced quenching of galaxies in the massive cluster XMMXCSJ2215.9-1738 at z~1.5 traced by enhanced metallicities inside half R200](https://arxiv.org/abs/1903.09591)
+
+----
+
+### Mar 25
+
+* [Probing IGM accretion onto faint Lyα emitters at z~2.8](https://arxiv.org/abs/1903.09645)
+
+* [The GREATS Hβ+[OIII] Luminosity Function and Galaxy Properties at z∼8: Walking the Way of JWST](https://arxiv.org/abs/1903.09649)
+
+* [Expanding the Sample: The Relationship Between the Black Hole Mass of BCGs and the Total Mass of Galaxy Clusters](https://arxiv.org/abs/1903.09965)
+
+* [The Sloan Digital Sky Survey Reverberation Mapping Project: Low-Ionization Broad-Line Widths and Implications for Virial Black Hole Mass Estimation](https://arxiv.org/abs/1903.10015)
+
+* [Kinematics of disk galaxies in clusters at z=1.5](https://arxiv.org/abs/1903.10016)
+
+* [Energy equipartition between stellar and dark matter particles in cosmological simulations results in spurious growth of galaxy sizes](https://arxiv.org/abs/1903.10110)
+
+* [Denuded Dwarfs Demystified: Gas Loss from dSph Progenitors and Implications for the Minimum Mass of Galaxies](https://arxiv.org/abs/1903.10141)
+
+* [Ground-based Paα Narrow-band Imaging of Local Luminous Infrared Galaxies II: Bulge Structure And Star Formation Activity](https://arxiv.org/abs/1903.10317)
+
+* [Spatially Resolved Outflows in a Seyfert Galaxy at z = 2.39](https://arxiv.org/abs/1903.10403)
+
+* [Learning the Relationship between Galaxies Spectra and their Star Formation Histories using Convolutional Neural Networks and Cosmological Simulations](https://arxiv.org/abs/1903.10457)
+
+* [How to Optimally Constrain Galaxy Assembly Bias: Supplement Projected Correlation Functions with Count-in-cells Statistics](https://arxiv.org/abs/1903.09656)
+
+* [How to Optimally Constrain Galaxy Assembly Bias: Supplement Projected Correlation Functions with Count-in-cells Statistics](https://arxiv.org/abs/1903.09656)
+
+* [Can reverberation-measured quasars be used for cosmology](https://arxiv.org/abs/1903.09687)
