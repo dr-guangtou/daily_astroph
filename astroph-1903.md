@@ -983,3 +983,59 @@
 * [How to Optimally Constrain Galaxy Assembly Bias: Supplement Projected Correlation Functions with Count-in-cells Statistics](https://arxiv.org/abs/1903.09656)
 
 * [Can reverberation-measured quasars be used for cosmology](https://arxiv.org/abs/1903.09687)
+
+----
+
+### Mar 26
+
+* [Do halos that form early, have high concentration, are part of a pair, or contain a central galaxy potential host more pronounced planes of satellite galaxies?](https://arxiv.org/abs/1903.10513)
+
+* [The Fornax 3D project: a two-dimensional view of the stellar initial mass function in the massive lenticular galaxy FCC 167](https://arxiv.org/abs/1903.10513)
+
+* [Star formation histories of dwarf galaxies in the FIRE simulations: dependence on mass and Local Group environment](https://arxiv.org/abs/1903.10515)
+
+* [The gentle monster PDS 456: the kpc scale molecular outflow and its implications for QSO feedback](https://arxiv.org/abs/1903.10528)
+
+* [The MURALES survey. II. Presentation of the observations and first results](https://arxiv.org/abs/1903.10768)
+
+* [Massive star cluster formation and evolution in tidal dwarf galaxies](https://arxiv.org/abs/1903.10789)
+
+* [Nuclear angular momentum of early-type galaxies hosting nuclear star clusters](https://arxiv.org/abs/1903.10918)
+
+* [Horizon-AGN virtual observatory - 1. SED-fitting performance and forecasts for future imaging surveys](https://arxiv.org/abs/1903.10934)
+
+* [CHANG-ES: XVIII---The CHANG-ES Survey and Selected Results](https://arxiv.org/abs/1903.11042)
+
+* [The diverse evolutionary pathways of post-starburst galaxies](https://arxiv.org/abs/1903.11050)
+
+* [The case for two-dimensional galaxy-galaxy lensing](https://arxiv.org/abs/1903.10980)
+
+* [Dynamical evolution of magnetic fields in the intracluster medium](https://arxiv.org/abs/1903.11052)
+
+* [Dynamical evolution of magnetic fields in the intracluster medium](https://arxiv.org/abs/1903.11052)
+
+----
+
+### Mar 27
+
+* [A high baryon fraction in massive haloes at z~3](https://arxiv.org/abs/1903.11069)
+
+* [Discovering AGN-driven winds through their infrared emission: II. Mass outflow rate and energetics](https://arxiv.org/abs/1903.11076)
+
+* [The VANDELS survey: the stellar metallicities of star-forming galaxies at 2.5 < z < 5.0](https://arxiv.org/abs/1903.11081)
+
+* [The VANDELS survey: the star-formation histories of massive quiescent galaxies at 1.0 < z < 1.3](https://arxiv.org/abs/1903.11082)
+
+* [1ES 1927+654: an AGN Caught Changing Look on a Timescale of Months](https://arxiv.org/abs/1903.11084)
+
+* [Obscured AGN at 1.5 < z < 3.0 from the zCOSMOS-deep Survey I. Properties of the emitting gas in the Narrow Line Region](https://arxiv.org/abs/1903.11085)
+
+* [A galaxy's accretion history unveiled from its integrated spectrum](https://arxiv.org/abs/1903.11089)
+
+* [Studying the Physical Properties of Tidal Features I. Extracting Morphological Substructure in CANDELS Observations and VELA Simulations](https://arxiv.org/abs/1903.11099)
+
+* [The Massive and Distant Clusters of WISE Survey VI: Stellar Mass Fractions of a Sample of High-Redshift Infrared-selected Clusters](https://arxiv.org/abs/1903.11100)
+
+* [Feedback by supermassive black holes in galaxy evolution: impacts of accretion and outflows on the star formation rate](https://arxiv.org/abs/1903.11151)
+
+* [CNO emission of an unlensed submillimeter galaxy at z=4.3](https://arxiv.org/abs/1903.11234)
