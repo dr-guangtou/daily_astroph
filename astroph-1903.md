@@ -808,9 +808,9 @@
   * The kiloparsec radio structure of NRAO 530 is prominently characterized by a moderately curved western jet terminating at a hot spot where the radiation is stretched further out into a diffuse radio lobe or plume.
 
 * [The VANDELS survey: the role of ISM and galaxy physical properties on the escape of Lyα emission in z ∼ 3.5 star-forming galaxies](https://arxiv.org/abs/1903.08593)
-  * From all the Lyα emitting galaxies in the VANDELS Data Release 2 at 3.5   z   4.5, we select a sample of 52 galaxies which also have a precise systemic redshift determination from at least one nebular emission line 
+  * From all the Lyα emitting galaxies in the VANDELS Data Release 2 at 3.5   z   4.5, we select a sample of 52 galaxies which also have a precise systemic redshift determination from at least one nebular emission line
   * We reproduce some of the well known correlations between Lyα EW and stellar mass, dust extinction and UV β slope, in the sense that the emission line appears brighter in lower mass, less dusty and bluer galaxies.
-  * We find that galaxies with brighter Lyα tend to be more compact both in UV and in Lyα. 
+  * We find that galaxies with brighter Lyα tend to be more compact both in UV and in Lyα.
   * Galaxies with larger inter-stellar medium (ISM) out-flow velocities show smaller Lyα velocity shifts. We interpret this relation in the context of the shell-model scenario, where the velocity of the ISM and the HI column density contribute together in determining the Lyα kinematics
 
 * [A survey of the thermal and non-thermal properties of cosmic filaments](https://arxiv.org/abs/1903.08401)
@@ -844,14 +844,14 @@
 * [Imprints of Mass Accretion History on the Shape of the Intracluster Medium and the TX−M Relation](https://arxiv.org/abs/1903.08662)
   * **Relevant, Interesting** 陈浣清
   * 用模拟研究halo聚集历史：We find that the mass accretion rate (MAR) of a cluster is correlated with the ellip- ticity of the ICM. The correlation is largely driven by material accreted in the last ∼ 4.5 Gyr, indicating a characteristic time-scale for relaxation of cluster gas.
-  * Furthermore, we find that the ellipticity of the outer regions (R ∼ R500c) of the ICM is correlated with the overall MAR of clusters, while ellipticity of the inner regions (<0.5 R500c) is sensitive to recent major mergers with mass ratios of ≥ 1 : 3. 
+  * Furthermore, we find that the ellipticity of the outer regions (R ∼ R500c) of the ICM is correlated with the overall MAR of clusters, while ellipticity of the inner regions (<0.5 R500c) is sensitive to recent major mergers with mass ratios of ≥ 1 : 3.
   * We show that there is a continuous anti-correlation between the residuals in the TX − M relation and cluster MARs, within which merging and relaxed clusters occupy extremes of the distribution rather than form two peaks in a bi-modal distribution
   * 考虑到ICM的shape可以改进halo mass的估计
 
 * [New Insights into the Physical Conditions and Internal Structure of a Candidate Proto-Globular Cluster](https://arxiv.org/abs/1903.08669)
   * ALMA观测天线星系中一个没有形成恒星的大质量分子云，firecraker，可能是一个GC的前身
   * Using emission from 12 CO(2-1), 12 CO(3-2), 13 CO(2-1), HCN(4-3), and HCO+(4-3) molecular lines, we are able to resolve the cloud’s structure and find that it has a characteristic radius of 22 pc 总质量 1-9x10^6 Msun
-  * We demonstrate that if the cloud is bound (as is circumstantially suggested by its bright, compact morphology), an external pressure in excess of P/k > 10^8 K cm−3 is required. This would be consistent with theoretical expectations that globular cluster formation requires high pressure environments 
+  * We demonstrate that if the cloud is bound (as is circumstantially suggested by its bright, compact morphology), an external pressure in excess of P/k > 10^8 K cm−3 is required. This would be consistent with theoretical expectations that globular cluster formation requires high pressure environments
   * The position-velocity diagram of the cloud and its surrounding material suggests that this high pressure may be produced by ram pressure from the collision of filaments.
 
 * [The parallelism between galaxy clusters and early-type galaxies: I. The light and mass profiles](https://arxiv.org/abs/1903.08692)
@@ -860,7 +860,7 @@
   * By grouping objects in different classes of luminosity, the average profile of each class slightly deviates from the other only in the inner and outer regions (outside 0.1 ≤ r/Re ≤ 3)
 
 * [MUSE observations of a changing-look AGN I: The re-appearance of the broad emission lines](https://arxiv.org/abs/1903.08696)
-  * In this work we study for the first time the host galaxy of a changing-look AGN, Mrk 590, using high spatial resolution optical and near-infrared observations. 
+  * In this work we study for the first time the host galaxy of a changing-look AGN, Mrk 590, using high spatial resolution optical and near-infrared observations.
   * We discover that after ∼ 10 yr absence, the optical broad emission lines of Mrk 590 have reappeared. 但和连续谱光度最大的时候比,连续谱光度现在依然很低
   * Extended ionised and warm molecular gas emission are detected in the nucleus, indicating that there is a reservoir of gas as close as 60 pc from the black hole. We observe a nuclear gas spiral between radii r ∼ 0.5 − 2 kpc, which has been suggested as a dynamical mechanism able to drive the necessary gas to fuel AGN.
   * 核心既有内流也有外流
@@ -871,7 +871,7 @@
   * Dn4000对SPZ极为重要；We also estimate the accuracy of continuum-based redshifts, i.e., for galaxies that do not contain strong emission lines, based on the grism data alone (σNMAD<=0.06).
 
 * [Stellar populations in hosts of giant radio galaxies and their neighbouring galaxies](https://arxiv.org/abs/1903.08724)
-  * Giant radio galaxies (with projected linear size of radio structure larger than 0.7 Mpc) are very rare and unusual objects. Only ∼5% of extended radio sources reach such sizes. 
+  * Giant radio galaxies (with projected linear size of radio structure larger than 0.7 Mpc) are very rare and unusual objects. Only ∼5% of extended radio sources reach such sizes.
   * We studied 41 giant-size radio galaxies as well as galaxies located within a radius of 5 Mpc around giants to verify whether the external conditions of the intergalactic medium somehow influence the internal evolution of galaxies in the group/cluster.
   * We find that hosts of giant radio galaxies have a larger amount of intermediate age stellar populations compared with smaller- sized FRII radio sources. The same result is also visible when we compare neighbouring galaxies located up to 1.5 Mpc around giants and FRIIs.
 
@@ -886,7 +886,7 @@
 
 * [The MASSIVE survey - XI. What drives the molecular gas properties of early-type galaxies](https://arxiv.org/abs/1903.08884)
   * **Interesting**
-  * We present new IRAM-30m telescope observations of 30 of these galaxies, allowing us to probe the molecular gas content of the entire sample to a fixed molecular-to-stellar mass fraction of 0.1%. 
+  * We present new IRAM-30m telescope observations of 30 of these galaxies, allowing us to probe the molecular gas content of the entire sample to a fixed molecular-to-stellar mass fraction of 0.1%.
   * MASSIVE + ATLAS3D: 分子气体的探测比例是 22%; 且detection和星系质量，大小，环境，FP上的位置无关
   * We show here for the first time that true slow rotators can host molecular gas reservoirs, but the rate at which they do so is significantly lower than for fast-rotators.
   * Objects with a higher velocity dispersion at fixed mass (a higher kinematic bulge fraction) are less likely to have detectable molecular gas, and where gas does exist, have lower molecular gas fractions.
@@ -895,7 +895,7 @@
 * [The Lyα Luminosity Function and Cosmic Reionization at z∼ 7.0: a Tale of Two LAGER Fields](https://arxiv.org/abs/1903.09046)
   * We present the largest-ever sample of 79 Lyα emitters (LAEs ) at z ∼ 7.0 selected in the COSMOS and CDFS fields of the LAGER project
   * We detect two large scale LAE-overdense regions in the COSMOS that are likely protoclusters at the highest redshift to date.
-  * We show significant incompleteness comes from blending with foreground sources, which however has not been corrected in LAE luminosity functions in the literature. 
+  * We show significant incompleteness comes from blending with foreground sources, which however has not been corrected in LAE luminosity functions in the literature.
   * Meanwhile, the faint end luminosity functions from the two fields well agree with each other.
 
 * [Lyman Alpha Galaxies in the Epoch of Reionization (LAGER): Spectroscopic Confirmation of Two Redshift ~ 7.0 Galaxies](https://arxiv.org/abs/1903.09047)
@@ -906,7 +906,7 @@
   * **Relevant**
   * Deep images from the Sloan Digital Sky Survey (SDSS) Stripe 82 co-adds provide a unique solution to this problem - offering 1.6 − 1.8 magnitudes improvement in depth with respect to SDSS Legacy images.
   * Using the gim2d surface-brightness decomposition software, we provide public morphology catalogs for 16,908 galaxies in the Stripe 82 ugriz co-adds.
-  * We find no systematics in total magnitudes and sizes except for faint galax- ies in the u-band and the brightest galaxies in each band 
+  * We find no systematics in total magnitudes and sizes except for faint galax- ies in the u-band and the brightest galaxies in each band
   * Furthermore, statistics used to determine whether single-Sersic or two-component (e.g., bulge+disc) models are required become more bimodal in the deep images
 
 * [Tidal disruption event rates in galaxy merger remnants](https://arxiv.org/abs/1903.09124)
@@ -1039,3 +1039,32 @@
 * [Feedback by supermassive black holes in galaxy evolution: impacts of accretion and outflows on the star formation rate](https://arxiv.org/abs/1903.11151)
 
 * [CNO emission of an unlensed submillimeter galaxy at z=4.3](https://arxiv.org/abs/1903.11234)
+
+----
+
+### Mar 28
+
+* [GMRT Low-frequency Imaging of an Extended Sample of X-shaped Radio Galaxies](https://arxiv.org/abs/1903.11632)
+  * Both the intensity maps and spectral index maps of the 16 newly observed sources are presented.
+  * With the combined sample of 28 X-shaped radio sources, we found no systematic differences in the spectral properties of the higher surface brightness, active lobes versus the lower surface brightness, off-axis emission
+
+* [The impact of Stellar feedback from velocity-dependent ionised gas maps. – A MUSE view of Haro 11](https://arxiv.org/abs/1903.11662)
+  * The ionised gas in Haro 11 is assembled by a rich arrangement of structures, such as superbubbles, filaments, arcs and galactic ionised channels, whose appearances change drastically with velocity.
+  * The central star forming knots and the star forming dusty arm are the main engines that power the strong mechanical feedback in this galaxy, although with different impact on the ionisation structure.
+  * Haro 11 appears to leak LyC radiation in many directions.
+  * Finally, we find evidence that a significant fraction of the ionised gas mass may escape the gravitational potential of the galaxy
+
+* [A new approach to finding galaxy groups using Markov Clustering](https://arxiv.org/abs/1903.12026)
+  * **Interesting**
+  * Markov graph CLustering (MCL; Van Dongen 2000) that naturally handles probabilistic linking criteria.
+  * We introduce a new figure of merit, the variation of information statistic (VI; Meila 2003), used to optimise the free parameter(s) of the MCL algorithm.
+  * By making the linking length sensitive to the local galaxy density, the quality of the FoF and MCL group catalogues improve significantly, with MCL being preferred over FoF due to a smaller VI value.
+
+* [Simulating the dark matter decay signal from the Perseus galaxy cluster](https://arxiv.org/abs/1903.11608)
+  * 为XRISM做准备：We use the C-EAGLE simulations of galaxy clusters to predict the flux, width and shape of a dark matter decay line, paying particular attention to the unexplained 3.55 keV line detected in the spectra of some galaxies and clusters
+  * Haloes that are significantly disturbed can, however, exhibit galaxy velocity dispersions higher than 1000 km s−1, and in this case will show a large difference between the line profiles of on- and offcenter observations.
+
+* [Relation between winds and jets in radio-loud AGN](https://arxiv.org/abs/1903.11605)
+  * Systematic and homogeneous analysis of XMM-Newton spectra of a sample of 16 suitable radio-loud Seyfert-1 AGN. The ionised winds in these AGN are parameterised through high-resolution X-ray spectroscopy and photoionisation modelling.
+  * We discover a significant inverse correlation between the column density NH of the ionised wind and the radio-loudness parameter R of the jet.
+  * We argue that the NH-R relation is rather a manifestation of the magnetic driving mechanism of the wind from the accretion disk. Change in the magnetic field configuration from toroidal to poloidal, powering either the wind or the jet mode of the outflow, is the most feasible explanation for the observed decline in the wind NH as the radio jet becomes stronger.
