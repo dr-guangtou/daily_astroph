@@ -1003,42 +1003,89 @@
 * [Nuclear angular momentum of early-type galaxies hosting nuclear star clusters](https://arxiv.org/abs/1903.10918)
 
 * [Horizon-AGN virtual observatory - 1. SED-fitting performance and forecasts for future imaging surveys](https://arxiv.org/abs/1903.10934)
+  * 模拟COSMOS，DES，LSST和Euclid观测：The virtual photometry accounts for the complex star formation history and metal enrichment of HORIZON-AGN galaxies, and consistently includes magnitude errors, dust attenuation and absorption by inter-galactic medium.
+  * COSMOS-like stellar masses are well recovered with a dispersion typically lower than 0.1 dex. The simple star formation his- tories and metallicities of the templates induce a systematic underestimation of stellar masses at z < 1.5 by at most 0.12 dex.
+  * We stress that adding Euclid near-infrared photometry to the LSST-like baseline improves redshift accuracy especially at the faint end and decreases the outlier fraction by a factor ∼2.
 
 * [CHANG-ES: XVIII---The CHANG-ES Survey and Selected Results](https://arxiv.org/abs/1903.11042)
 
 * [The diverse evolutionary pathways of post-starburst galaxies](https://arxiv.org/abs/1903.11050)
 
 * [The case for two-dimensional galaxy-galaxy lensing](https://arxiv.org/abs/1903.10980)
+  * This method exploits the information for the actual positions and ellipticities of source galaxies, rather than using only the ensemble properties of statistically equivalent samples
+  * We find that under idealised circumstances, the confidence regions of joint constraints for the amplitude and scale parameters of the NFW model in the two-dimensional analysis can be more than 3 times tighter than the one-dimensional results.
+  * Because of its advantage in high galaxy density areas, the method is especially suitable for studying the properties of satellite galaxies in clusters of galaxies.
+    * Two-dimensional galaxy-galaxy lensing tries to fit a two-dimensional shear field directly to the galaxy ellipticity measurements.
+    * why it should be considered again because it uses the unique signatures of overlapping regions of lenses to constrain the halo properties more precisely.
 
 * [Dynamical evolution of magnetic fields in the intracluster medium](https://arxiv.org/abs/1903.11052)
-
-* [Dynamical evolution of magnetic fields in the intracluster medium](https://arxiv.org/abs/1903.11052)
+  * 模拟研究星系团际的磁场：The magnetic fields in our sample exhibit amplification via a small-scale dynamo and compression during structure formation
+  * The magnetic energy grows by a factor of ∼ 40-50 in a time-span of ∼ 9 Gyr and equipartition between kinetic and magnetic energy occurs on a range of scales (< 160 kpc at all epochs) depending on the turbulence state of the system.
+  * The effect of major mergers is to shift the peak magnetic spectra to smaller scales, whereas the magnetic amplification only starts after <1 Gyr. In contrast, continuous minor mergers promote the steady growth of the magnetic field.
 
 ----
 
 ### Mar 27
 
 * [A high baryon fraction in massive haloes at z~3](https://arxiv.org/abs/1903.11069)
+  * 高红移 Mh=10^12 Msun halo里的CGM: modelling the surface brightness profile of the giant Lyα nebulae recently discovered by MUSE around bright QSOs at this redshift.
+  * Acceptable CGM baryon fractions (equal or smaller than the cosmological value) require that the cold gas occupies À 1% of the volume, but is about as massive as the hot gas.
+  * 某些外流模型给出的很低的重子物质比例很观测不符合: both the QSO-hosting haloes at z „ 3 are more massive than recent BOSS estimates based on clustering and the photo-ionized gas is colder than expected in a standard QSO ionizing radiation field
+  * 也考虑了Lyalpha发射被QSO散射辐射主导的情况: In this scenario, a very stringent lower limit to the baryon fraction can be obtained under the extreme assumption of optically thin scattering. We infer in this case a baryon fraction of at least 70% of the cosmic value, for fiducial parameters.
+    * 高红移的CGM比例测量主要是对早期的feedback机制限制作用很强
 
 * [Discovering AGN-driven winds through their infrared emission: II. Mass outflow rate and energetics](https://arxiv.org/abs/1903.11076)
+  * we determine the mass and energetics of ionized outflows is 234 type II AGN, the largest such sample to date, by combining the infrared emission of the dust in the wind (paper I) with the emission line properties.
+  * 还给出了估计电子密度的新方法，The inferred electron densities, ne ∼ 10^4.5 cm−3, are two orders of magnitude larger than typically found in most other cases of ionized outflows. 这是因为[SII]-based的方法会低估密度
+  * 认为外流中中性气体的比例不低：Our analysis suggests the existence of a significant amount of neutral atomic gas at the back of the outflowing ionized gas clouds, with mass that is a factor of a few larger than the observed ionized gas mass.
 
 * [The VANDELS survey: the stellar metallicities of star-forming galaxies at 2.5 < z < 5.0](https://arxiv.org/abs/1903.11081)
+  * 叠加光谱 Across the stellar mass range 8.5 < log(⟨M∗⟩/M⊙) < 10.2 we find a strong correlation between stellar metallicity (Z∗/Z⊙) and stellar mass
+  * In contrast, at a given stellar mass, we find no evidence for significant metallicity evolution across the redshift range of our sample.
+  * comparing our results to the z = 0 stellar mass-metallicity relation for star-forming galaxies, we find that the ⟨z⟩ = 3.5 relation is consistent with being shifted to lower metallicities by ≃ 0.6 dex at all stellar masses.
+  * comparing our results to the z = 0 stellar mass-metallicity relation for star-forming galaxies, we find that the ⟨z⟩ = 3.5 relation is consistent with being shifted to lower metallicities by ≃ 0.6 dex at all stellar masses.
 
 * [The VANDELS survey: the star-formation histories of massive quiescent galaxies at 1.0 < z < 1.3](https://arxiv.org/abs/1903.11082)
+  * **Relevant**
+  * 75个 z>1的大质量星系，BAGPIPES光谱拟合:finding a strong trend towards earlier formation with increasing stellar mass (downsizing)
+  * We demonstrate that, although the relationships predicted by Simba and IllustrisTNG agree well with observations at z = 0.1, they are too shallow at z = 1
+  * The majority of our lowest-mass galaxies (M∗ ∼ 10^10.5M⊙) are consistent with formation in recent (z < 2), intense starburst events, with timescales of <500 Myr.
+  * The most massive galaxies in our sample are extreme systems: already old by z = 1, they formed at z ∼ 5 and quenched by z = 3
 
 * [1ES 1927+654: an AGN Caught Changing Look on a Timescale of Months](https://arxiv.org/abs/1903.11084)
+  * 真正的Type2，没有宽线也没有遮挡，1ES 1927+654 was part of the small and peculiar class of “true Type-2” AGN, which lack broad emission lines and line-of-sight obscuration.
+  * captures the appearance of a blue, featureless continuum, followed several weeks later by the appearance of broad Balmer emission lines.
+  * HST spectroscopy reveals no evidence for broad UV emission lines (e.g., Civλ1549, Ciii]λ1909, Mgiiλ2798), probably due to dust in the broad line emission region.
+  * 光谱特征和TDE不符合：The X-ray emission displays a markedly different behavior, with frequent flares on timescales of hours to days
 
 * [Obscured AGN at 1.5 < z < 3.0 from the zCOSMOS-deep Survey I. Properties of the emitting gas in the Narrow Line Region](https://arxiv.org/abs/1903.11085)
+  * 高红移2型AGN的模型限制：we exploit predictions from photo-ionization models – including new parameterizations for the distance of gas distribution from the central source and the presence of internal microturbulence in the emitting clouds – to interpret rest-frame UV spectral data.
+  * 挑选靠高电离紫外窄线：5σ-detection of the high-ionization C iv λ1549 narrow emission line
+  * 要解释紫外发射线的强度，需要较小的NLR内半径以及对云团内部有耗散作用的microturbulence的考虑
+  * Finally, we do not observe, in our C iv-selected type 2 AGN sample, a strong relationship between the NLR gas metallicity and the stellar mass of the host galaxy.
 
 * [A galaxy's accretion history unveiled from its integrated spectrum](https://arxiv.org/abs/1903.11089)
+  * **Relevant, Interesting**
+  * Using full spectral fitting and calibrated regularization techniques we show how we can accurately derive a galaxy’s mass distribution in age-metallicity space and further separate this into stellar populations from different chemical enrichment histories.
+  * Empirical age-metallicity relations (AMRs) parameterized for different galaxy masses are used to identify the accreted stellar populations and link them back to the progenitor galaxy’s stellar mass.
+  * 可以测量ex-situ fraction: Using mock spectra of simulated, present-day galaxies from the EAGLE suite we demonstrate that our method can recover the total accreted fraction to within ≈ 12 %, the stellar mass of the most massive accreted subhalo to within ≈ 26%
 
 * [Studying the Physical Properties of Tidal Features I. Extracting Morphological Substructure in CANDELS Observations and VELA Simulations](https://arxiv.org/abs/1903.11099)
+  * we develop and share publicly a new Python-based software tool that identifies and extracts the flux-wise and area-wise significant contiguous regions from the model-subtracted residual images produced by popular parametric light-profile fitting tools (e.g., GALFIT).
+  * We test our method on synthetic HST observations of a z ∼ 1.5 major merger from the VELA hydrodynamic simulations. We extract H-band residual features corresponding to the birth, growth, and fading of tidal features during different stages and viewing orientations at CANDELS depths and resolution.
+  * We find that the extracted features at shallow depths have noisy visual appearance and are susceptible to viewing angle effects
 
 * [The Massive and Distant Clusters of WISE Survey VI: Stellar Mass Fractions of a Sample of High-Redshift Infrared-selected Clusters](https://arxiv.org/abs/1903.11100)
+  * **Relevant**
+  * 比较WISE挑选的和SZ效应挑选的cluster的SMF: We do not find a significant difference in mean f⋆ between the two selection methods, though we do find an unexpectedly large range in f⋆ for the SZ-selected clusters.
+  * Finally, we present SZ detections and masses for seven MaDCoWS clusters and new spectroscopic redshifts for five MaDCoWS clusters. One of these new clusters, MOO J1521+0452 at z = 1.31, is the most distant MaDCoWS cluster confirmed to date.
 
 * [Feedback by supermassive black holes in galaxy evolution: impacts of accretion and outflows on the star formation rate](https://arxiv.org/abs/1903.11151)
 
 * [CNO emission of an unlensed submillimeter galaxy at z=4.3](https://arxiv.org/abs/1903.11234)
+  * ALMA观测：The kinematic properties of the [N ii] emission are consistent with those of the CO(4-3) and [C ii] emission, suggesting that the ionized gas feels the same gravitational potential as the associated molecular gas and photodissociation regions (PDRs).
+  * On the other hand, the spatial extent is different among the lines and dust continuum: the [C ii] emitting gas is the most extended and the dust is the most compact, leading to a difference of the physical conditions in the interstellar medium.
+  * We have also successfully measured the line ratio of [O iii]/[N ii] in the central 3 kpc region of COSMOS-AzTEC-1 at z = 4.3, which is the highest redshift where both nitrogen and oxygen lines are detected. 气体金属丰度已经接近 Solar
 
 ----
 
