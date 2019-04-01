@@ -1132,12 +1132,28 @@
   * Based on the observed merger rates per galaxy, we infer specific mass accretion rates from major mergers that are comparable to the specific star-formation rates for the same mass galaxies at z>3
 
 * [Radio continuum size evolution of star-forming galaxies over 0.35 < z < 2.25](https://arxiv.org/abs/1903.12217)
-  * 
+  * present the first systematic study of the radio continuum size evolution of star-forming galaxies (SFGs) over the redshift range 0.35 < z < 2.25.
+  * We find no clear dependence between the radio size and stellar mass, M⋆, of SFGs with 10.5<log(M⋆/M⊙)<11.5.
+  * Our analysis suggests that MS galaxies are preferentially extended, while SFGs above the MS are always compact
+  * The size of the stellar component of galaxies is larger than the extent of the radio continuum emission by a factor ∼2 (1.3) at z = 0.5 (2), indicating star formation is enhanced at small radii
+  * These “hidden” starbursts might have experienced a compaction phase due to disk instability and/or merger-driven burst of star formation, which may or may not significantly offset a galaxy from the MS.
 
 * [The XXL Survey: XXXVII. The role of the environment in shaping the stellar population properties of galaxies at 0.1<z<0.5](https://arxiv.org/abs/1903.12293)
+  * We find that regardless of the environmental definition adopted, the fraction of blue or star-forming galaxies is the highest in the field or least dense regions and the lowest in the virial regions of clusters or highest densities. 
+  * The fraction of star-forming galaxies is higher than the fraction of blue galaxies, regardless of the environment. This result is particularly evident in the virial cluster regions, most likely reflecting the different star formation histories of galaxies in different environments
+  * 局部和整体的环境定义可能物理意义不同：In fact, using the local environment the fraction of galaxies below the main sequence is similar at low and high densities, whereas in clusters (and especially within the virial radii) a population with reduced SFR with respect to the field is observed.
 
 * [Models of Multi-component Splash Bridges in Face-on Galaxy Disc Collisions](https://arxiv.org/abs/1903.12397)
+  * 非弹性碰撞粒子code+subgrid上的冷却和激波模拟星系碰撞：The models produce many unique structures, ranging from central bridge discs to swirled sheets, which resemble those observed in interacting galaxies.
+  * In the case of the Taffy galaxies - NGC 12914/15, extensive observations have revealed radio continuum emitting gas, HI gas, hot X-rays from hot diffuse gas and more H2 than exists in the Milky Way coexisting in the bridge.
+  * We show that for small disc impact parameters, multiple phases of ISM with densities over many orders of magnitude can be removed from their host galaxies into a Taffy-like bridge.
 
 * [Cosmology with powerful radio-loud AGNs](https://arxiv.org/abs/1903.12308)
+  * 基本就是想法把FRII射电星系当成标准烛光：An analytic theory is proposed to measure the distance to powerful Fanaroff & Riley type-II radio sources based on their integrated flux density across a broad range of radio frequencies, and the angular size and axis ratio of their synchrotron-emitting lobes.
+  * Distances calculated with this method are consistent for dissimilar objects at the same redshift
+    * 基于The analytic theory underpinning the Radio AGNs in Semi-analytic Environments (RAiSE; Turner & Shabala 2015; Turner et al. 2018a
 
 * [Time-dependent behaviour of quasar proximity zones at z∼6](https://arxiv.org/abs/1903.12346)
+  * Lya的proximity zone: But even when in a highly ionized intergalactic medium, these zones provide a rich laboratory for determining the timescales that govern quasar activity and the concomitant growth of their supermassive black holes.
+  * 用一维辐射转移数值模拟：The sizes of the simulated proximity zones, as quantified by the distance at which the smoothed Lyα transmission drops below 10% (denoted Rp), are in excellent agreement with observations
+  * 建立一个SAM来描述QSO光变和proximity zone大小的关系:We show that large variations in the ionizing luminosity of quasars on timescales of ∼<10^4 years are disfavored based on the good agreement between the observed distribution of Rp and our model prediction based on “lightbulb” (i.e. steady constant emission) light curves.
