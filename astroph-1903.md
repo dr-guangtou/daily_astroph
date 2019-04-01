@@ -1008,8 +1008,13 @@
   * We stress that adding Euclid near-infrared photometry to the LSST-like baseline improves redshift accuracy especially at the faint end and decreases the outlier fraction by a factor ∼2.
 
 * [CHANG-ES: XVIII---The CHANG-ES Survey and Selected Results](https://arxiv.org/abs/1903.11042)
+  * 侧向盘星系的射电观测：The observations were in wide bandwidths centred at 1.6 and 6.0 GHz. Unique to this survey is full polarization data showing magnetic field structures in unprecedented detail, resolution and sensitivity for such a large sample.
+  * We see circular polarization and variability in ac- tive galactic nuclei (AGNs), in-disk discrete features, disk-halo structures sometimes only seen in polarization, and broad-scale halos with reversing magnetic fields, among others.
 
 * [The diverse evolutionary pathways of post-starburst galaxies](https://arxiv.org/abs/1903.11050)
+  * **Interesting**
+  * Here we present examples of four different evolutionary pathways through the post-starburst phase found in the EAGLE cosmological simulation: blue→blue, blue→red, red→red and truncated
+  * 解释了为什么PSB星系的性质可以特别多样
 
 * [The case for two-dimensional galaxy-galaxy lensing](https://arxiv.org/abs/1903.10980)
   * This method exploits the information for the actual positions and ellipticities of source galaxies, rather than using only the ensemble properties of statistically equivalent samples
@@ -1115,3 +1120,24 @@
   * Systematic and homogeneous analysis of XMM-Newton spectra of a sample of 16 suitable radio-loud Seyfert-1 AGN. The ionised winds in these AGN are parameterised through high-resolution X-ray spectroscopy and photoionisation modelling.
   * We discover a significant inverse correlation between the column density NH of the ionised wind and the radio-loudness parameter R of the jet.
   * We argue that the NH-R relation is rather a manifestation of the magnetic driving mechanism of the wind from the accretion disk. Change in the magnetic field configuration from toroidal to poloidal, powering either the wind or the jet mode of the outflow, is the most feasible explanation for the observed decline in the wind NH as the radio jet becomes stronger.
+
+----
+
+### Mar 31
+
+* [Observational constraints on the merger history of galaxies since z≈6: Probabilistic galaxy pair counts in the CANDELS fields](https://arxiv.org/abs/1903.12188)
+  * We present the first study of galaxy major mergers (mass ratios > 1:4) in mass-selected samples out to z≈6. Using all five fields of the HST/CANDELS survey and a probabilistic pair count methodology that incorporates the full photometric redshift posteriors and corrections for stellar mass completeness
+  * We find that the major merger pair fraction rises with redshift to z≈6 proportional to (1+z)^m, with m=0.8±0.2
+  * sing evolving merger timescales we find that the merger rate per galaxy rises rapidly from 0.07±0.01 Gyr−1 at z<1 to 7.6±2.7 Gyr−1 at z=6 for galaxies at log10(M∗/M⊙)>10.3.
+  * Based on the observed merger rates per galaxy, we infer specific mass accretion rates from major mergers that are comparable to the specific star-formation rates for the same mass galaxies at z>3
+
+* [Radio continuum size evolution of star-forming galaxies over 0.35 < z < 2.25](https://arxiv.org/abs/1903.12217)
+  * 
+
+* [The XXL Survey: XXXVII. The role of the environment in shaping the stellar population properties of galaxies at 0.1<z<0.5](https://arxiv.org/abs/1903.12293)
+
+* [Models of Multi-component Splash Bridges in Face-on Galaxy Disc Collisions](https://arxiv.org/abs/1903.12397)
+
+* [Cosmology with powerful radio-loud AGNs](https://arxiv.org/abs/1903.12308)
+
+* [Time-dependent behaviour of quasar proximity zones at z∼6](https://arxiv.org/abs/1903.12346)
