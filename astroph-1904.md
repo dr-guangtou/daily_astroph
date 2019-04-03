@@ -68,3 +68,41 @@
   * The EBL can be studied indirectly through its effect on very-high energy photons that are emitted by cosmic sources and absorbed via photon-photon interactions during their propagation across cosmological distances. We obtain estimates of the EBL density in good agreement with state-of-the-art models of the EBL production and evolution.
   * No anomaly in the expected transparency of the universe to gamma rays is observed in any range of optical depth.
   * We also perform a wavelength-resolved EBL determination, which results in a hint of an excess of EBL in the 0.18 - 0.62 μm range relative to the studied models, yet compatible with them within systematics.
+
+----
+
+### Apr 2
+
+* [Satellites of Satellites: The Case for Carina and Fornax](https://arxiv.org/abs/1903.01028)
+
+* [A metal-poor ultra compact dwarf galaxy at a kiloparsec distance from the low-mass elliptical galaxy FCC47](https://arxiv.org/abs/1903.01041)
+  * **Relevant, Interesting**
+
+* [The abundance and physical properties of O VII and O VIII X-ray absorption systems in the EAGLE simulations](https://arxiv.org/abs/1903.01057)
+
+* [An old, metal-poor globular cluster in Sextans A and the metallicity floor of globular cluster systems](https://arxiv.org/abs/1903.01084)
+
+* [A Chandra and ALMA Study of X-ray-irradiated Gas in the Central ~100 pc of the Circinus Galaxy](https://arxiv.org/abs/1903.01144)
+
+* [The Fornax 3D project: Thick disks in a cluster environment](https://arxiv.org/abs/1903.01260)
+  * **Relevant, Interesting**
+
+* [The UV spectral slope beta and stellar population of most active star-forming galaxies at z~4](https://arxiv.org/abs/1903.01373)
+
+* [Multiphase gas flows in the nearby Seyfert galaxy ESO428-G14](https://arxiv.org/abs/1903.01483)
+
+* [On the Detection of Supermassive Primordial Stars. II. Blue Supergiants](https://arxiv.org/abs/1903.01507)
+  * These stars have spectral features that are quite distinct from those of cooler stars and may have different detection limits in the near infrared (NIR) today.
+  * We find that photometric detections of these stars by the James Webb Space Telescope (JWST) will be limited to z≲ 10 - 12, lower redshifts than those at which red stars can be found, because of quenching by their accretion envelopes.
+  * With moderate gravitational lensing, Euclid and the Wide-Field Infrared Space Telescope (WFIRST) could detect blue supermassive stars out to similar redshifts in wide-field surveys.
+
+* [Beyond BAO: improving cosmological constraints from BOSS with measurement of the void-galaxy cross-correlations](https://arxiv.org/abs/1903.01030)
+
+* [Measurements of effective optical depth in the Lyα forest from the BOSS DR12 Quasar sample](https://arxiv.org/abs/1903.01110)
+
+* [Evidence for CII diffuse line emission at redshift z∼2.6](https://arxiv.org/abs/1903.01181)
+
+* [Imaging the AGN Torus in Cygnus](https://arxiv.org/abs/1903.01365)
+  * First direct imaging of what may be the thick torus in the active galactic nucleus (AGN) of the archetype powerful radio galaxy Cygnus A, using the Jansky Very Large Array (VLA) at 18 GHz to 48 GHz, with a resolution down to 45 mas.
+  * An elongated structure, perpendicular to the radio jets and centered on the core, is well resolved
+  * The radio emission spectrum is consistent with optically thin free-free emission.
