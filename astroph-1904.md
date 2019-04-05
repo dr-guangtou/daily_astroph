@@ -110,8 +110,8 @@
   * A clear distinction in age is found between the metal poor and [Mg/Fe]-enhanced thick disks (old, ∼ 12 − 13 Gyr), and the metal rich and less [Mg/Fe]-enhanced thin disks (young, ∼ 4 − 5 Gyr).
 
 * [Multiphase gas flows in the nearby Seyfert galaxy ESO428-G14](https://arxiv.org/abs/1904.01483)
-  * ALMA观测：We detect CO(2-1) emission from spiral arms and a circum-nuclear ring with 200 pc radius, and from a transverse gas lane with size of ∼ 100 pc, which crosses the nucleus and connects the two portions the circumnuclear ring. 
-  * In the inner 100 pc region CO is distributed in a equatorial bar, whose kinematics is highly perturbed and consistent with an inflow of gas towards the AGN. 
+  * ALMA观测：We detect CO(2-1) emission from spiral arms and a circum-nuclear ring with 200 pc radius, and from a transverse gas lane with size of ∼ 100 pc, which crosses the nucleus and connects the two portions the circumnuclear ring.
+  * In the inner 100 pc region CO is distributed in a equatorial bar, whose kinematics is highly perturbed and consistent with an inflow of gas towards the AGN.
   * CO bar和compton thick的区域重合，CO分子柱密度很高：molecular gas may contribute significantly to the AGN obscuration.
   * 看到了CO分子的外流，在700pc的距离上；The bi-conical outflow is also detected in the H2 emission line at 2.12 μm, which traces a warmer nuclear outflow located within 170 pc from the AGN. This suggests that the outflow cools with increasing distance from the AGN.
 
@@ -140,3 +140,52 @@
   * First direct imaging of what may be the thick torus in the active galactic nucleus (AGN) of the archetype powerful radio galaxy Cygnus A, using the Jansky Very Large Array (VLA) at 18 GHz to 48 GHz, with a resolution down to 45 mas.
   * An elongated structure, perpendicular to the radio jets and centered on the core, is well resolved
   * The radio emission spectrum is consistent with optically thin free-free emission.
+
+----
+
+### Apr 3
+
+* [The HI mass function in the Parkes HI Zone of Avoidance survey](https://arxiv.org/abs/1904.01581)
+
+* [The submillimetre view of massive clusters at z~0.8-1.6](https://arxiv.org/abs/1904.01582)
+
+* [Extremely metal-poor galaxies with HST/COS: laboratories for models of low-metallicity massive stars and high-redshift galaxies](https://arxiv.org/abs/1904.01615)
+
+* [Dark-ages Reionization and Galaxy Formation Simulation - XVII. Sizes, angular momenta and morphologies of high redshift galaxies](https://arxiv.org/abs/1904.01619)
+
+* [Gaia-assisted selection of a quasar reddened by dust in an extremely-strong Damped Lyman-α Absorber at z=2.226](https://arxiv.org/abs/1904.01686)
+
+* [HST resolves stars in a tiny body falling on the dwarf galaxy DDO 68](https://arxiv.org/abs/1904.01986)
+
+* [HST resolves stars in a tiny body falling on the dwarf galaxy DDO 68](https://arxiv.org/abs/1904.01986)
+
+----
+
+### Apr 4
+
+* [Ionization driven intrinsic absorption line variability of BAL quasars in the Stripe 82 region](https://arxiv.org/abs/1904.02149)
+
+* [dynesty: A Dynamic Nested Sampling Package for Estimating Bayesian Posteriors and Evidences](https://arxiv.org/abs/1904.02180)
+
+* [Probing 3D Structure with a Large MUSE Mosaic: Extending the Mass Model of Frontier Field Abell 370](https://arxiv.org/abs/1904.02158)
+
+* [The impact of magnetic fields on cold streams feeding galaxies](https://arxiv.org/abs/1904.02167)
+
+* [Detailed dust modelling in the L-Galaxies semi-analytic model of galaxy formation](https://arxiv.org/abs/1904.02196)
+
+* [Molecular Gas Properties in the Host Galaxies of GRB080207](https://arxiv.org/abs/1904.02196)
+  * The host is detected in CO(1-0) and CO(4-3), becoming the first case for a GRB host with more than two CO transitions detected
+  * The CO velocity field shows a clear rotation and is reproduced by a rotation-dominated disk model
+  * The CO spectral line energy distribution derived from the four CO transitions is similar to that of starburst galaxies, suggesting a high excitation condition.
+
+* [Ultraviolet Signatures of the Multiphase Intracluster and Circumgalactic Media in the RomulusC Simulation](https://arxiv.org/abs/1904.02318)
+  * We show that the ICM becomes increasingly multiphased at large radii, with the cool-warm gas becoming dominant in cluster outskirts. The diffuse cool-warm gas also exhibits a wider range of metallicity than the hot X-ray emitting gas.
+
+* [Metallicity and ionization state of the gas in polar-ring galaxies](https://arxiv.org/abs/1904.02513)
+  * 13个确认的polar disk星系
+  * We show that ionization by young stars dominates in the external parts of polar discs, while shocks have a significant contribution to gas excitation in the inner parts of polar structures.
+  * The measured values of the gas metallicity almost do not depend on the galaxy luminosity. The radial [O/H] gradient in the considered polar rings is shallow or absent.
+  
+* [A Constant LGRB Metallicity Distribution Across Redshifts z < 2.5](https://arxiv.org/abs/1904.02673)
+  * We then find a curious consistency in the metallicity distribution across different redshifts. This is at odds with the general evolution in the mass metallicity relation of typical galaxies, which become progressively more metal poor with increasing redshift at constant mass
+  * The estimated LGRB host metallicity distribution is approximately a quarter dex higher than the measured metallicity distribution at all redshifts.
