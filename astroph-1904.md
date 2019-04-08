@@ -185,7 +185,78 @@
   * 13个确认的polar disk星系
   * We show that ionization by young stars dominates in the external parts of polar discs, while shocks have a significant contribution to gas excitation in the inner parts of polar structures.
   * The measured values of the gas metallicity almost do not depend on the galaxy luminosity. The radial [O/H] gradient in the considered polar rings is shallow or absent.
-  
+
 * [A Constant LGRB Metallicity Distribution Across Redshifts z < 2.5](https://arxiv.org/abs/1904.02673)
   * We then find a curious consistency in the metallicity distribution across different redshifts. This is at odds with the general evolution in the mass metallicity relation of typical galaxies, which become progressively more metal poor with increasing redshift at constant mass
   * The estimated LGRB host metallicity distribution is approximately a quarter dex higher than the measured metallicity distribution at all redshifts.
+
+----
+
+### Apr 7
+
+* [Spectroscopy of NGC 4258 globular cluster candidates: membership confirmation and kinematics](https://arxiv.org/abs/1904.02712)
+  * **Relevant**
+  * 23个uiK颜色挑选出来的球状星团候选，OSIRIS观测：In the spectroscopy presented here, 70% of the candidates are confirmed as globular clusters.
+  * We find that the GCs, mostly metal-poor, co-rotate with the HI disk, even at large galactocentric distances.
+
+* [Evolution of galactic planes of satellites in the EAGLE simulation](https://arxiv.org/abs/1904.02719)
+  * EAGLE模拟：we introduce a robust method to identify the subsets of satellites that have the most co-planar orbits.
+  * Purely flattened satellite systems are short-lived chance associations and persist for less than 1 Gyr. In contrast, satellite subsets that share roughly the same orbital plane are longer lived, with half of the MW-like systems being at least 4 Gyrs old.
+  * On average, satellite systems were flatter in the past, with a minimum in their minor-to-major axes ratio about 9 Gyrs ago, which is the typical infall time of the classical satellites.
+
+* [A Characteristic Mass Scale in the Mass-Metallicity Relation of Galaxies](https://arxiv.org/abs/1904.02721)
+  * **Interesting**
+  * We observe a characteristic stellar mass scale at M∗≃10^9.5M⊙, above which the ISM undergoes a sharp increase in its level of chemical enrichment.
+  * At approaching M∗≃10^9.5M⊙ the MZR steepens significantly, showing a slope of α=0.37±0.08 in the 10^9.5−10^10.5M⊙ range, and a flattening towards a constant metallicity at higher stellar masses.
+  * High resolution hydrodynamical simulations can qualitatively reproduce our result, and suggest a transition in the ability of galaxies to retain their metals for stellar masses above this threshold.
+  * The MZR characteristic mass scale also coincides with a transition in the scale height and clumpiness of cold gas disks, and a typical gas fraction below which the efficiency of star formation feedback for driving outflows is expected to decrease sharply.
+
+* [EDGE I: the mass-metallicity relation as a critical test of galaxy formation physics](https://arxiv.org/abs/1904.02723)
+  * **Interesting**
+  * 模拟研究dwarf：we explore the effects of resolution and sub-grid physics on a single low mass halo
+  * On-the-fly辐射转移重要：We show that RT changes the mode of galactic self-regulation at this halo mass, suppressing star formation by causing the interstellar and circumgalactic gas to remain predominantly warm (∼10^4 K) even before cosmic reionisation
+  * 能重现各种观测的scaling relation：This is because such structural scaling relations are predominantly set by the host dark matter halo
+  * We find that only the stellar mass-metallicity relation differentiates the galaxy formation models. Explosive feedback ejects more metals from the dwarf, leading to a lower metallicity at a fixed stellar mass. 对于dwarf星系，质量-丰度关系很重要
+
+* [A Catalog of the Most Optically Luminous Galaxies at z<0.3: Super Spirals, Super Lenticulars, Super Post-Mergers, and Giant Ellipticals](https://arxiv.org/abs/1904.02806)
+  * **Relevant, Useful**
+  * We present a catalog of the 1525 most optically luminous galaxies from the Sloan Digital Sky Survey (SDSS) with r-band luminosity L_r > 8L* and redshift z<0.3, including 84 super spirals, 15 super lenticulars, 14 super post-merger galaxies, and 1400 giant ellipticals.
+  * 这些大质量盘星系很有意思：The specific star formation rates of super spirals place them on or below the star-forming main sequence.
+  * Their disks are red on the inside and blue on the outside, consistent with inside-out growth. They tend to have small bulge-to-total (B/T) r-band luminosity ratios, characteristic of disk building via minor mergers and cold accretion.
+  * A large percentage of super disk galaxies (41%) have double nuclei, double disks, or other signatures of ongoing mergers. Most (72%) are found in moderate to low density environments, while the rest are found at the outskirts of clusters.
+
+* [Jet Kinematics of the Quasar 4C +21.35 from Observations with the KaVA Very Long Baseline Interferometry Array](https://arxiv.org/abs/1904.02894)
+  * The timing of the ejection of a new component detected in 2016 is consistent with a gamma-ray flare in November 2014.
+  * The discrepancy at 43 GHz indicates that radio arrays with different angular resolution identify and trace different jet features even when the data are obtained at the same frequency and at the same time.
+
+* [Runaway Merger Shocks in Galaxy Cluster Outskirts and Radio Relics](https://arxiv.org/abs/1904.03052)
+  * 研究星系团并合产生的shock在星系际介质中继续传播的性质：In a uniform medium, such a "runaway" shock should weaken with distance. However, as shocks move to large radii in galaxy clusters, the shock is moving down a steep density gradient that helps the shock to maintain its strength over a large distance.
+  * 在R500以外，气体密度轮廓会变陡，适合激波的维持。
+  * A characteristic feature of runaway shocks is that the strong compression, relative to the initial state, is confined to a narrow region just behind the shock. This makes these shocks promising candidates for "igniting" radio relics via adiabatic compression of pre-existing populations of relativistic particles.
+
+* [Detection of a double-peaked Hα component from the accretion disc of NGC 4958](https://arxiv.org/abs/1904.03095)
+  * 双峰Halpha线可以是吸积盘的证据：The narrow line region of this object has an emission that is typical of a LINER galaxy, which is the usual classification for double-peaked emitters.
+  * We concluded that the double-peaked emission is emitted by a circular relativistic Keplerian disc
+
+* [Fast Outflows Identified in Early Star-Forming Galaxies at z=5−6](https://arxiv.org/abs/1904.03106)
+  * 高红移10^10 Msun的恒星形成星系的外流速度测量，用ALMA [CII] 158micron线作为系统速度测量，用Keck观测前景吸收线测量外流 (composite光谱)
+  * Fit outflow-line profiles to the SiII1260, CII1335, and SiIV1394,1403 absorption lines in the composite spectrum
+  * We find the redshift evolution that the vmax value of our z=5-6 galaxies is higher than those of z=0 galaxies by a factor of 3.5 and comparable to the one of z=2 galaxies.
+
+* [Young stellar populations in early-type dwarf galaxies; occurrence, radial extent and scaling relations](https://arxiv.org/abs/1904.03108)
+  * **Relevant, Interesting**
+  * We compare the slopes and intrinsic scatter of color-magnitude relations (CMRs) for three nearby clusters, Fornax, Virgo and Coma.
+  * Based on analysis of the color profiles, we report a large number of dEs with young stellar populations in their center in all three clusters.
+  * While for Virgo and Coma the number of blue-cored dEs is found to be 85 +/- 2% and 53 +/- 3% respectively, for Fornax, we find that all galaxies have a blue core.
+  * We show that bluer cores reside in fainter dEs, similar to the trend seen in nucleated dEs.
+  * Presenting adaptive smoothing we show that the galaxies on the blue side of the CMR often show evidence for dust extinction, which strengthens the interpretation that the bluer colors are due to young stellar populations.
+  * We also find that outliers on the red side of the CMR are more compact than expected for their luminosity. We find several of these red outliers in Virgo, often close to more massive galaxies.
+
+* [Milky Way and Andromeda past-encounters in different gravity models: the impact on the estimated Local Group mass](https://arxiv.org/abs/1904.03153)
+  * 看M31和MW有没有之前的相遇：it is shown that if M31 and the MW had more than one encounter then the mass of the Local Group (LG) would be a few times higher than if there had been no encounters. Past encounters are possible only for non-zero transverse velocity, and their viability is subject to observations of the imprints of such near collisions.
+
+* [Radio Galaxy Zoo: Knowledge Transfer Using Rotationally Invariant Self-Organising Maps](https://arxiv.org/abs/1904.02876)
+  * Here we discuss the challenges of transferring crowdsourced labels obtained from the Radio Galaxy Zoo project and introduce a proper transfer mechanism via quantile random forest regression.
+  * By using parallelized rotation and flipping invariant Kohonen-maps, image cubes of Radio Galaxy Zoo selected galaxies formed from the FIRST radio continuum and WISE infrared all sky surveys are first projected down to a two-dimensional embedding in an unsupervised way.
+  * In the second step, images are compared with those prototypes to create a heat-map, which is the morphological fingerprint of each object and the basis for transferring the user generated labels.
+  * These heat-maps have reduced the feature space by a factor of 248 and are able to be used as the basis for subsequent ML methods.
