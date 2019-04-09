@@ -157,13 +157,14 @@
 
 * [HST resolves stars in a tiny body falling on the dwarf galaxy DDO 68](https://arxiv.org/abs/1904.01986)
 
-* [HST resolves stars in a tiny body falling on the dwarf galaxy DDO 68](https://arxiv.org/abs/1904.01986)
-
 ----
 
 ### Apr 4
 
 * [Ionization driven intrinsic absorption line variability of BAL quasars in the Stripe 82 region](https://arxiv.org/abs/1904.02149)
+  * the connection between the intrinsic C iv absorption line variability and the continuum flux changes of broad absorption line (BAL) quasars using a sample of 78 sources in the Stripe 82 region.
+  * We find evidence for weak correlations (ρs ∼ 0.3) between the intrinsic C iv absorption line variability and the quasar continuum variability
+  * 对于吸收比较浅的系统，相关性更好，说明饱和吸收对于测量相关有一定影响
 
 * [dynesty: A Dynamic Nested Sampling Package for Estimating Bayesian Posteriors and Evidences](https://arxiv.org/abs/1904.02180)
 
@@ -260,3 +261,76 @@
   * By using parallelized rotation and flipping invariant Kohonen-maps, image cubes of Radio Galaxy Zoo selected galaxies formed from the FIRST radio continuum and WISE infrared all sky surveys are first projected down to a two-dimensional embedding in an unsupervised way.
   * In the second step, images are compared with those prototypes to create a heat-map, which is the morphological fingerprint of each object and the basis for transferring the user generated labels.
   * These heat-maps have reduced the feature space by a factor of 248 and are able to be used as the basis for subsequent ML methods.
+
+----
+
+### Apr 8
+
+* [Observing AGN feedback with CO intensity mapping](https://arxiv.org/abs/1904.03197)
+  * Upcoming CO intensity mapping experiments offer an opportunity for a less biased probe of quasar feedback. By correlating intensity maps with spectroscopic AGN surveys, we can obtain a measurement of the mean CO luminosity of a large population of quasars simultaneously.
+  * We show that experiments like COMAP, CCAT-prime, and CONCERTO have enough sensitivity to detect this cross-correlation if existing AGN observations are representative of the whole population
+
+* [The Sloan Digital Sky Survey Reverberation Mapping Project: Initial CIV Lag Results from Four Years of Data](https://arxiv.org/abs/1904.03199)
+  * reverberation-mapping lags and black-hole mass measurements using the CIV 1549 broad emission line from a sample of 349 quasars
+  * We report significant time delays between the continuum and the CIV 1549 emission line in 52 quasars, with an estimated false-positive detection rate of 10%.
+  * 如果观测时间更长，还有更多的delay相关可以被观测到
+  * Our results significantly increase the sample of quasars with CIV RM results, with the quasars spanning two orders of magnitude in luminosity toward the high-luminosity end of the CIV radius-luminosity relation.
+
+* [Radiation pattern and outflow geometry: a new probe of black hole spin?](https://arxiv.org/abs/1904.03203)
+  * The BH spin determines the radiation pattern from the accretion disc, which directly imprints on the geometry of the radiation-driven outflows.
+  * 黑洞自旋低的时候，辐射更多是polar的；自旋高的时候，更倾向于各向同
+  * 也可以反向利用外流性质来看黑洞自旋
+
+* [Supermassive black holes with high accretion rates in active galactic nuclei: X. Optical variability characteristics](https://arxiv.org/abs/1904.03393)
+  * 73个AGN的RM监测，是SEAMBHS的一部分：We employed the damped random walk (DRW) model to delineate the optical variability of continuum at 5100~\AA~and obtained damped variability timescale (τd) and amplitude (σd)
+  * AGN光变特征和黑洞质量，吸积率，连续谱光度有相关；These correlations are smooth from sub-Eddington to super-Eddington accretion AGNs, probably implying that the AGN variability may be caused by the same physical mechanism.
+
+* [Torus model properties of an ultra-hard X-ray selected sample of Seyfert galaxies](https://arxiv.org/abs/1904.03694)
+  * In the case of the Sy1s we estimate the accretion disk contribution to the subarcsecond resolution nuclear IR SEDs (~0.4'') which is, on average, 46+-28, 23+-13 and 11+-5% in the J-, H- and K-bands
+  * 那些假定吸积盘辐射贡献过了近红外端就锐减的模型可能会低估torus的红外贡献
+  * We confirm that Sy2s have larger values of the torus covering factor (CT~0.95) than Sy1s (CT~0.65) in our volume-limited Seyfert sample.
+  * 覆盖参数不随AGN光度和吸积率有太大变化
+  * Even an ultra hard X-ray selection is missing a significant fraction of highly absorbed type 2 sources with very high covering factor tori.
+
+* [Piercing Through Highly Obscured and Compton-thick AGNs in the Chandra Deep Fields: I. X-ray Spectral and Long-term Variability Analyses](https://arxiv.org/abs/1904.03827)
+  * CDFS里面的AGN X-ray光谱分析，找高度遮挡的：We propose a new hardness-ratio measure of the obscuration level which can be used to select highly obscured AGN
+  * The observed logN-logS relation favors cosmic X-ray background models that predict moderate (i.e., between optimistic and pessimistic) CT number counts.
+  * 部分X-ray遮挡是视线效应
+  * After correcting for several observational biases, we obtain the intrinsic NH distribution and its evolution. The CT-to-highly-obscured fraction is roughly 52% and is consistent with no evident redshift evolution.
+
+* [Polarization of changing-look quasars](https://arxiv.org/abs/1904.03914)
+  * 如果宽线区消失来自尘埃遮挡，应该可以观测到高线偏振度的光学辐射: measured the rest-frame UV-blue linear polarization of a sample of 13 changing-look quasars
+  * For all quasars but one the polarization degree is lower than 1% 所以应该不是尘埃导致的
+  * Characterizing the local relation between star formation rate and gas-phase metallicity in MaNGA spiral galaxies
+
+* [Characterizing the local relation between star formation rate and gas-phase metallicity in MaNGA spiral galaxies](https://arxiv.org/abs/1904.03930)
+  * We have characterized the local relation between SFR and Zg after subtracting the azimuthally averaged radial profiles of both quantities. 60% of the analyzed galaxies display a SFR−Zg anti-correlation, with the remaining 40% showing no correlation (19%) or positive correlation (21%).
+  * Thus, the local SFR−Zg slope varies with the average metallicity, with the more metal-poor galaxies presenting the lowest slopes (i.e., the strongest SFR−Zg anti-correlations)
+  * Our results suggest that external gas accretion fuels star-formation in metal-poor galaxies, whereas in metal-rich systems the gas comes from previous star formation episodes.
+
+* [Stellar 3-D kinematics in the Draco dwarf spheroidal galaxy](https://arxiv.org/abs/1904.03930)
+  * Altogether this resulted in a final sample of 45 members of Draco with high-precision and accurate 3D motion
+  * Our Jeans modelling supports the case for a cuspy dark matter profile in this galaxy.
+
+* [Inner and outer rings are not strongly coupled with stellar bars](https://arxiv.org/abs/1904.04222)
+  * **Interesting**
+  * S4G里面正向盘星系：The ring fraction increases with bar Fourier density amplitude: this can be interpreted as evidence for the role of bars in ring formation.
+  * The sizes of inner rings are positively correlated with bar strength: this can be linked to the radial displacement of the 1/4 ultra-harmonic resonance while the bar grows and the pattern speed decreases.
+  * i) approximately ∼1/3 and ∼1/4 of the non-barred galaxies in the S4G host inner and outer rings, respectively;
+  * ii) on average, the sizes and shapes of rings are roughly the same for barred and non-barred galaxies;
+  * iii) the fraction of inner (outer) rings is a factor of 1.2−1.4 (1.65−1.9) larger in barred galaxies than in their non-barred counterparts.
+  * We confirm, with the aid of SOMs, that rings are mainly hosted by red, massive, gas-deficient, dark-matter poor, and centrally concentrated galaxies.
+  * 环和棒的联系似乎不如模拟里预测的那么明显
+
+* [Baryon acoustic oscillations at z = 2.34 from the correlations of Lyα absorption in eBOSS DR14](https://arxiv.org/abs/1904.03400)
+  * We measure the imprint of primordial baryon acoustic oscillations (BAO) in the correlation function of Lyα absorption in quasar spectra from BOSS and eBOSS
+  * We measure the Hubble distance, DH, and the comoving angular diameter distance, DM, relative to the sound horizon at the drag epoch rd at an effective redshift z=2.34
+  * With the addition of polynomial "broadband" terms, the results remain within one standard deviation of the CMB-inspired model.
+
+* [Baryon acoustic oscillations from the cross-correlation of Lyα absorption and quasars in eBOSS DR14](https://arxiv.org/abs/1904.03430)
+  * From the measured BAO peak position along and across the line of sight, we determine the Hubble distance DH and the comoving angular diameter distance DM relative to the sound horizon at the drag epoch rd
+  * These results are consistent at 1.5σ with the prediction of the best-fit flat ΛCDM cosmological model
+
+* [Improved supervised learning methods for EoR parameters reconstruction](https://arxiv.org/abs/1904.04106)
+  * 如何从未来的21cm mapping数据里限制EoR模型：We build on these by improving the accuracy of the predictions using neural network and exploring other supervised learning methods: the kernel and ridge regressions
+  * This last performance level requires optimizing the hyper-parameters of the method: how to do that perfectly in the case of an unknown signal remains an open question
