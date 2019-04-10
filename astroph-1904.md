@@ -334,3 +334,27 @@
 * [Improved supervised learning methods for EoR parameters reconstruction](https://arxiv.org/abs/1904.04106)
   * 如何从未来的21cm mapping数据里限制EoR模型：We build on these by improving the accuracy of the predictions using neural network and exploring other supervised learning methods: the kernel and ridge regressions
   * This last performance level requires optimizing the hyper-parameters of the method: how to do that perfectly in the case of an unknown signal remains an open question
+
+----
+
+### Apr 9
+
+* [The E-MOSAICS project: tracing galaxy formation and assembly with the age-metallicity distribution of globular clusters](https://arxiv.org/abs/1904.04261)
+
+* [The composite nature of Dust-Obscured Galaxies (DOGs) at z~2-3 in the COSMOS field: II. The AGN fraction](https://arxiv.org/abs/1904.04263)
+
+* [The effect of Large Magellanic Cloud on the satellite galaxy population in Milky Way analogous Galaxies](https://arxiv.org/abs/1904.04296)
+
+* [On the dust properties of high redshift molecular clouds and the connection to the 2175 Å extinction bump](https://arxiv.org/abs/1904.04301)
+
+* [The Neutral Gas Properties of Extremely Isolated Early-Type Galaxies III](https://arxiv.org/abs/1904.04366)
+
+* [A Systematic Analysis of Stellar Populations in the Host Galaxies of SDSS Type I QSOs](https://arxiv.org/abs/1904.04426)
+
+* [ALMA 200-parsec Resolution Imaging of Smooth Cold Dusty Disks in Typical z∼3 Star-Forming Galaxies](https://arxiv.org/abs/1904.04507)
+
+* [HST/COS Observations of the Warm Ionized Gaseous Halo of NGC 891](https://arxiv.org/abs/1904.04716)
+
+* [Measuring the dark matter velocity anisotropy to the cluster edge](https://arxiv.org/abs/1904.04260)
+
+* [Lyman-alpha emitters in a cosmological volume II: the impact of the intergalactic medium](https://arxiv.org/abs/1904.04274)
