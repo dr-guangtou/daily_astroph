@@ -358,3 +358,13 @@
 * [Measuring the dark matter velocity anisotropy to the cluster edge](https://arxiv.org/abs/1904.04260)
 
 * [Lyman-alpha emitters in a cosmological volume II: the impact of the intergalactic medium](https://arxiv.org/abs/1904.04274)
+
+----
+
+### Apr 10
+
+* [Spatially-resolved stellar kinematics of the ultra diffuse galaxy Dragonfly 44. I. Observations, kinematics, and cold dark matter halo fits](https://arxiv.org/abs/1904.04838)
+
+* [The QUEST-La Silla AGN Variability Survey: selection of AGN candidates through optical variability](https://arxiv.org/abs/1904.04844)
+
+* [MUSE unravels the ionisation and origin of metal enriched absorbers in the gas halo of a z = 2.92 radio galaxy](https://arxiv.org/abs/1904.05114)
