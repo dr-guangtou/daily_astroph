@@ -368,3 +368,17 @@
 * [The QUEST-La Silla AGN Variability Survey: selection of AGN candidates through optical variability](https://arxiv.org/abs/1904.04844)
 
 * [MUSE unravels the ionisation and origin of metal enriched absorbers in the gas halo of a z = 2.92 radio galaxy](https://arxiv.org/abs/1904.05114)
+
+----
+
+### Apr 11
+
+* [Self-consistent potential-density pairs of thick disks and flattened galaxies](https://arxiv.org/abs/1904.05366)
+
+* [Molecular Gas of the Most Massive Spiral Galaxies I: a Case Study of NGC 5908](https://arxiv.org/abs/1904.05413)
+
+* [Classifying the formation processes of S0 galaxies using Convolutional Neural Networks](https://arxiv.org/abs/1904.05518)
+
+* [Spectroscopy of broad absorption line quasars at 3≲z≲5: sample, observations, and results](https://arxiv.org/abs/1904.05531)
+
+* [Cosmic Shear: Inference from Forward Models](https://arxiv.org/abs/1904.05364)
