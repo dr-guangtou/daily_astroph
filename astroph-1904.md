@@ -389,7 +389,7 @@
 ### Apr 14
 
 * [Clustering of Lyman-alpha Emitters Around Quasars at z∼4](https://arxiv.org/abs/1904.05894)
-  * QSO本身的clustering强，但是QSO周围星系的是不是一样还不清楚：Here we conduct a survey for Lyman alpha emitters (LAEs) in the environs of 17 quasars at z∼4 probing scales of R≲7h−1Mpc. We measure an average LAE overdensity around quasars of 1.4 for our full sample, which we quantify by fitting the quasar-LAE cross-correlation function. 
+  * QSO本身的clustering强，但是QSO周围星系的是不是一样还不清楚：Here we conduct a survey for Lyman alpha emitters (LAEs) in the environs of 17 quasars at z∼4 probing scales of R≲7h−1Mpc. We measure an average LAE overdensity around quasars of 1.4 for our full sample, which we quantify by fitting the quasar-LAE cross-correlation function.
   * We compare the observed clustering with the expectation from a deterministic bias model, whereby LAEs and quasars probe the same underlying dark matter overdensities, and find that our measurements fall short of the predicted overdensities by a factor of 2.1.
   * 原因可能包括了尘埃的影响，以及QSO周围星系过早的quench (因为看的都是LAE)
 
@@ -411,12 +411,12 @@
   * We report spectroscopic or photometric redshifts of sources in these fields, including cluster galaxies and background sources. Based on all available lensing evidence, we construct and present strong lensing mass models for these galaxy clusters.
 
 * [Reverberation mapping of narrow-line Seyfert 1 galaxy I Zwicky 1: black hole mass](https://arxiv.org/abs/1904.06146)
-  * Taking a virial factor of fBLR=1, we find a black hole mass of M∙=9.30+1.26−1.38×10^6M⊙ from the mean spectra. 
+  * Taking a virial factor of fBLR=1, we find a black hole mass of M∙=9.30+1.26−1.38×10^6M⊙ from the mean spectra.
   * 超Eddington吸积;  By decomposing Hubble Space Telescope images, we find that the stellar mass of the bulge of its host galaxy is log(Mbulge/M) = 10.92 ± 0.07; 比Mbulge-M_BH关系预测得黑洞质量小很多
 
 * [Ultra-Diffuse Galaxies at Ultraviolet Wavelengths](https://arxiv.org/abs/1904.06262)
   * **Relevant**
-  * Measure NUV aperture magnitudes from {\sl GALEX} images for 258 ultra-diffuse galaxy (UDG) candidates drawn from the initial SMUDGes survey of ∼300 square degrees surrounding, and including, the Coma galaxy cluster. 
+  * Measure NUV aperture magnitudes from {\sl GALEX} images for 258 ultra-diffuse galaxy (UDG) candidates drawn from the initial SMUDGes survey of ∼300 square degrees surrounding, and including, the Coma galaxy cluster.
   * For 242 of them, we present flux upper limits due either to a lack of significant flux in the aperture or confusion with other objects projected within the aperture
   * The NUV detected UDG candidates form mostly an extension toward lower stellar masses of the star forming galaxy sequence and none of these lie within regions of high local galaxy density. UDG candidates span a range of properties, although almost all are consistent with being quiescent, low surface brightness galaxies, regardless of environment.
 
@@ -426,7 +426,7 @@
 
 * [Towards mapping turbulence in the intra-cluster medium -- I. Sample variance in spatially-resolved X-ray line diagnostics](https://arxiv.org/abs/1904.06248)
   * 用X-ray光谱仪研究星系团内的ICM的湍动，由于湍动的尺度，误差与观测的sampling variance有关
-  * We consider the model of a "turbulent gas cloud", consisting in isotropic and uniform turbulence described by a universal Kolmogorov power-spectrum with random amplitudes and phases in an optically thin medium. 
+  * We consider the model of a "turbulent gas cloud", consisting in isotropic and uniform turbulence described by a universal Kolmogorov power-spectrum with random amplitudes and phases in an optically thin medium.
   * Generic expressions for the sample variance of line centroid shifts and broadening in arbitrary apertures are derived and match the simulations within their range of applicability. Generic expressions for the mean and variance of the structure function are provided and verified against simulations. 给Athena和XRISM做预测
 
 * [Towards mapping the turbulence in the intra-cluster medium -- II. Measurement uncertainties in the estimation of structure functions](https://arxiv.org/abs/1904.06249)
@@ -467,7 +467,7 @@
 * [The Role of Major Mergers and Nuclear Star Formation in Nearby Obscured Quasars](https://arxiv.org/abs/1904.06734)
   * Morphological classification reveals that only a minority (34%) of the hosts are mergers or interacting galaxies
   * More than half (55%) of the hosts contain regular disks, and a substantial fraction (38%), in fact, are disk-dominated (B/T≲0.2) late-type galaxies with low Sersic indices (n<2), which is characteristic of pseudo bulges.
-  * The prevalence of bars in the spiral host galaxies may be sufficient to supply the modest fuel requirements needed to power the nuclear activity in these systems. 
+  * The prevalence of bars in the spiral host galaxies may be sufficient to supply the modest fuel requirements needed to power the nuclear activity in these systems.
   * Nuclear star formation seems to be ubiquitous in the central regions, leading to positive color gradients within the bulges and enhancements in the central surface brightness of most systems.
 
 * [The ACS Fornax Cluster Survey. III. Globular Cluster Specific Frequencies of Early-Type Galaxies](https://arxiv.org/abs/1904.06909)
@@ -493,9 +493,91 @@
 
 * [Cosmological constraints from the mass accretion rate I: galaxy cluster number count evolution](https://arxiv.org/abs/1904.06951)
   * **Relevant, Interesting**
-  * Thanks to its nearly mass independence the specific mass accretion rate of galaxy clusters is nearly insensitive to the calibration of mass-observable relations. The study of galaxy cluster number count evolution allows to probe the galaxy cluster mass accretion history in the context of an homogenous Universe. 
+  * Thanks to its nearly mass independence the specific mass accretion rate of galaxy clusters is nearly insensitive to the calibration of mass-observable relations. The study of galaxy cluster number count evolution allows to probe the galaxy cluster mass accretion history in the context of an homogenous Universe.
   * Therefore, the MAR is a key cosmological probe that can break the σ8-Ωm degeneracy and that is not sensitive to the calibration of the mass-observable relations and does not requires a parametric form for the galaxy cluster mass-function.
 
 * [Propagating Residual Biases in Cosmic Shear Power Spectra](https://arxiv.org/abs/1904.07173)
   * We derive a full expression for the propagation of multiplicative and additive shape measurement biases into the cosmic shear power spectrum
   * we identify several new terms that are associated with selection effects, as well as cross-correlation terms between the multiplicative and additive biases and the shear field
+
+----
+
+### Apr 15
+
+* [High redshift JWST predictions from IllustrisTNG: Dust modelling and galaxy luminosity functions](https://arxiv.org/abs/1904.07238)
+  * We put particular emphasis on the exploration of different dust attenuation models to determine galaxy luminosity functions for the rest-frame ultraviolet (UV), and apparent wide NIRCam bands.
+  * Our most detailed dust model is based on continuum Monte Carlo radiative transfer calculations employing observationally calibrated dust properties. This calibration results in constraints on the redshift evolution of the dust attenuation normalisation and dust-to-metal ratios yielding a stronger redshift evolution of the attenuation normalisation compared to most previous theoretical studies.
+
+* [Revealing Dust Obscured Star Formation in CLJ1449+0856, a Cluster at z=2](https://arxiv.org/abs/1904.07246)
+  * **Interesting**
+  * SCUBA-2 450μm and 850μm data of the mature redshift 2 cluster CLJ1449
+  * Using archival optical and near infrared data with the energy-balance code CIGALE we calculate star formation rates, and stellar masses for all our cluster members, and find the star formation rate varies between 20-1600M⊙yr−1 over the entire 3Mpc radial range.
+  * This indicates that there is indeed a reversal in the star formation/density relation in CLJ1449. Based on the radial star-formation rate density profile, we see evidence for an elevation in the star formation rate density, even out to radii of 3Mpc.
+
+* [Linking gas and galaxies at high redshift: MUSE surveys the environments of six damped Lyman alpha galaxies at z~3](https://arxiv.org/abs/1904.07254)
+  * We report a high detection rate of up to ~80% of galaxies within 1000 km/s from DLAs and with impact parameters between 25 and 280 kpc.
+  * In particular, we discovered 5 high-confidence Lyman alpha emitters associated with three DLAs, plus up to 9 additional detections across five of the six fields. 
+
+* [Infrared Galaxies in the Field of the Massive Cluster Abell S1063: Discovery of a Luminous Kiloparsec-Sized HII Region in a Gravitationally Lensed IR-Luminous Galaxy at z=0.6](https://arxiv.org/abs/1904.07256)
+
+* [The morphology and kinematics of the gaseous circumgalactic medium of Milky Way mass galaxies -- II. comparison of IllustrisTNG and Illustris simulation results](https://arxiv.org/abs/1904.07274)
+
+* [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). VI. Black Hole Mass Measurements of Six Quasars at 6.1<z<6.7](https://arxiv.org/abs/1904.07278)
+  * Deep near-infrared spectroscopy of six quasars at 6.1<z<6.7 with VLT/X-Shooter and Gemini-N/GNIRS
+  * From single-epoch mass measurements based on MgII {\lambda}2798, we find a wide range in black hole masse
+  * The Eddington ratios L_bol/L_Edd range from 0.16 to 1.1, but the majority of the HSC quasars are powered by M_BH=10^9 Msun SMBHs accreting at sub-Eddington rates.
+  * The Eddington ratio distribution of the HSC quasars is inclined to lower accretion rates than those of Willott et al. (2010a), who measured the black hole masses for similarly faint z=6 quasars. This suggests that the global Eddington ratio distribution is wider than has previously been thought.
+
+* [Investigating the Stellar Mass Growth Histories of Satellite Galaxies as a Function of Infall Time using Phase-Space](https://arxiv.org/abs/1904.07340)
+  * **Relevant**
+
+* [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs) VIII. A less biased view of the early co-evolution of black holes and host galaxies](https://arxiv.org/abs/1904.07345)
+  * We present ALMA [CII] line and far-infrared (FIR) continuum observations of three z>6 low-luminosity quasars
+  * 全都探测到了，但是比光学亮 的QSO的[CII]光度低
+  * Most of the HSC quasars studied thus far show [CII]/FIR luminosity ratios similar to local star-forming galaxies
+  * 用[CII]动力学估计”spheroidal“质量：a significant fraction of low-luminosity quasars are located on or even below the local MBH−Mbulge relation
+  * All the quasars presented in this work are growing their black hole mass at much higher pace at z∼6 than the parallel growth model, in which supermassive black holes and their hosts grow simultaneously to match the local MBH−Mbulge relation at all redshifts.
+
+* [Nebular Line Emission During the Epoch of Reionization](https://arxiv.org/abs/1904.07504)
+  * In anticipation of Webb we combine the large cosmological hydrodynamical simulation BlueTides with photoionisation modelling to predict the nebular emission line properties of galaxies at z = 8 → 13
+  * We also find that the predicted Hα - star formation rate calibration differs significantly from commonly assumed values.
+
+* [Spectral Energy Distribution of the First Galaxies: Contribution from Pre-Main-Sequence Stars](https://arxiv.org/abs/1904.07611)
+  * We consider very young star-forming galaxies at z=10 and incorporate the contribution from pre-main-sequence (PMS) stars. Unlike in the present-day galaxies, primordial protostars are not embedded in dusty gas clouds, and hence the light from them can be visible at a wide range of wavelengths.
+  * We show that PMS stars contribute to boost the flux in mid-infrared, and that the galaxy SED at very early evolutionary phases is overall redder than at later phases.
+  * We argue that the contribution from PMS stars is important for characterizing young galaxies in the early Universe and also for the target selection with future deep galaxy surveys.
+
+* [Outflows in the Discs of Active Galaxies](https://arxiv.org/abs/1904.07621)
+  * 建立了一个2D的AGN outflow在盘上传播的模型并合观测比较  The encouraging, quantitative agreement of the model predictions with a wide set of existing observations constitutes a baseline for the interpretation of forthcoming data, and for a more detailed treatment of AGN feedback in galaxy formation models.
+
+* [Lyα view around a z=2.84 hyperluminous QSO at a node of the cosmic web](https://arxiv.org/abs/1904.07747)
+  * One HSC pointing enables us to detect 3490 LAEs and 76 extended Lyα blobs (LABs), probing diverse environments from voids to protoclusters.
+  * LABs are basically distributed along the large-scale structure, with larger ones particularly clustered around the HLQSO, confirming a previously noted tendency of LABs to prefer denser environments.
+  * A deep Lyα image reveals a diffuse Lyα nebula along a filamentary structure with no luminous UV/sub-mm counterpart. We suggest that the diffuse nebula is due to a cold filament with high clumping factor illuminated by the QSO, with a required high clumpiness provided by unresolved residing halos
+
+* [Resolving the interstellar medium in the nuclear region of two z=5.78 quasar host galaxies with ALMA](https://arxiv.org/abs/1904.07749)
+  * The spatially resolved emission show a similar trend of increasing [CII]-FIR ratios with decreasing FIR surface brightnesses toward larger radii as was found in the infrared luminous galaxies with intense star formation
+  * The velocity maps and PV-diagrams also suggest turbulent gas clumps in both objects
+  * No evidence of order motion is detected in SDSS J1044-0125.
+  * We tentatively detect a [CII] peak offset 4.9 kpc to the East of SDSS J1044-0125. This may be associated with an infalling companion, or node of gas outflows
+
+* [Next generation cosmography with strong lensing and stellar dynamics](https://arxiv.org/abs/1904.07237)
+  * **Interesting**
+  * A joint strong lensing and stellar dynamical framework for future time-delay cosmography purposes
+  * Based on a pixelated source reconstruction and the axisymmetric Jeans equations, we are capable of constraining cosmological distances and hence the current expansion rate of the Universe (H0) to the few percent level per lens, when high signal-to-noise integral field unit (IFU) observations from the next generation of telescopes become available.
+  * The measurement accuracy of Dd, however, is highly sensitive to any systematics in the measurement of the stellar kinematics. For both distance measurements, we strongly advise to probe a large set of physically motivated lens potentials in the future, to minimise the systematic errors associated with the lens mass parameterisation.
+
+* [Virgo: an unlikely cluster of galaxies because of its environment](https://arxiv.org/abs/1904.07253)
+  * This paper presents such a statistical study with 200 Virgo-like and 400+ cluster-size random dark matter halos. Only 18%(0.5%) of these random halos comply within 3(2)-sigma with the mean values (radius, velocity dispersion, number of substructures, spin, velocity, concentration, center of mass offset with respect to the spherical center) of Virgo halos at z=0 and abide by a similar merging history up to redshift 4.
+  * This highlights the importance of studying clusters within their proper large scale environment: simulated galaxy population, grandly affected by the cluster history, can then be compared with the observed one in details.
+
+* [The mass-richness relation of optically-selected clusters from weak gravitational lensing and abundance with Subaru HSC first-year data](https://arxiv.org/abs/1904.07524)
+  * **Relevant, Useful**
+  * Ryoma's CAMIRA paper: We measure stacked weak lensing profiles around 1747 HSC CAMIRA clusters over a redshift range of 0.1≤zcl≤1.0 with N≥15
+  * We constrain richness-mass relations P(lnN|M,z) of the HSC CAMIRA clusters assuming a log-normal distribution without informative priors on model parameters, by jointly fitting to the lensing profiles and abundance measurements under both Planck and WMAP cosmological models.
+  * We also show that the scatter values for the Planck model increase toward lower richness values, whereas those for the WMAP model are consistent with constant values as a function of richness. This result highlights the importance of the scatter in the mass-richness relation for cluster cosmology.
+
+* [Evolution of the mass-richness relation for the redMaPPer catalog](https://arxiv.org/abs/1904.07610)
+  * **Relevant**
+  * we expect the present galaxy cluster mass function to be the same everywhere in the Universe. Using relative abundance matching, we contraint the relation between the richness, λ(z), and the expected present mass, M(t0), of galaxy clusters.
+  * This results implies that the redMaPPer richness appears to be a better proxy for the expected present-day galaxy cluster mass than for the mass at the observational redshift.
