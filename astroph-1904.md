@@ -502,7 +502,7 @@
 
 ----
 
-### Apr 15
+### Apr 16
 
 * [High redshift JWST predictions from IllustrisTNG: Dust modelling and galaxy luminosity functions](https://arxiv.org/abs/1904.07238)
   * We put particular emphasis on the exploration of different dust attenuation models to determine galaxy luminosity functions for the rest-frame ultraviolet (UV), and apparent wide NIRCam bands.
@@ -516,7 +516,7 @@
 
 * [Linking gas and galaxies at high redshift: MUSE surveys the environments of six damped Lyman alpha galaxies at z~3](https://arxiv.org/abs/1904.07254)
   * We report a high detection rate of up to ~80% of galaxies within 1000 km/s from DLAs and with impact parameters between 25 and 280 kpc.
-  * In particular, we discovered 5 high-confidence Lyman alpha emitters associated with three DLAs, plus up to 9 additional detections across five of the six fields. 
+  * In particular, we discovered 5 high-confidence Lyman alpha emitters associated with three DLAs, plus up to 9 additional detections across five of the six fields.
 
 * [Infrared Galaxies in the Field of the Massive Cluster Abell S1063: Discovery of a Luminous Kiloparsec-Sized HII Region in a Gravitationally Lensed IR-Luminous Galaxy at z=0.6](https://arxiv.org/abs/1904.07256)
 
@@ -581,3 +581,169 @@
   * **Relevant**
   * we expect the present galaxy cluster mass function to be the same everywhere in the Universe. Using relative abundance matching, we contraint the relation between the richness, λ(z), and the expected present mass, M(t0), of galaxy clusters.
   * This results implies that the redMaPPer richness appears to be a better proxy for the expected present-day galaxy cluster mass than for the mass at the observational redshift.
+
+
+----
+
+### Apr 17
+
+* [Galaxy mass profiles from strong lensing I: The circular power-law model](https://arxiv.org/abs/1904.08400)
+  * We develop a formalism for constraining mass profiles in strong gravitational lenses with extended images, using fluxes in addition to positional information
+  * We start in this paper with a circular power-law profile and show that the slope γ is uniquely determined by only two observables: the flux ratio f1/ f2 and the image position ratio θ1/θ2 of the two images.
+  * We derive an analytic expression relating these two observables to the slope, a result which does not depend on the Einstein angle or the structure or brightness of the source
+
+* [The 3XMM/SDSS Stripe 82 Galaxy Cluster Survey II. X-ray and optical properties of the cluster sample](https://arxiv.org/abs/1904.08348)
+  * **Relevant**
+  * The sample includes 54 galaxy clusters in the redshift range of 0.05-1.2
+  * No strong variation of the fraction of early and late type galaxies with cluster mass is observed.
+
+* [SDSS J153636.22+044127.0 and its analogues: shocked outflows, not active binary black holes](https://arxiv.org/abs/1904.08043)
+  * Here, we show the follow-up optical and nearinfrared spectral observations of SDSS J153636.22+044127.0 and its analogues. In these objects, the broad hydrogen Balmer and Paschen, He I and Mg II lines share the same peculiar emissionline profile
+  * The invariance in the large time interval, the absence of the blue system in He I λ10830 profile and the abnormally strong emission of the hydrogen Paβ blue system oppose the binary proposal.
+  * These unique broad lines arise from the AGN emission-line region and the shock-heated outflowing gases
+
+* [Ionising the Intergalactic Medium by Star Clusters ? The first empirical evidence](https://arxiv.org/abs/1904.07941)
+  * VLT/X-Shooter spectroscopy of the Lyman continuum (LyC) emitting galaxy Ion2 at z=3.2121
+  * The Lyα has three distinct peaks with the central one at the systemic redshift, indicating a ionised tunnel through which both Lyα and LyC radiation escape
+  * O32指数高，有高电离窄金属发射线；有年轻高温，大质量恒星存在
+  * 有HeII1640宽线，应该是来自WR星
+  * 和z=2.4的Sunburst arc相似，这个有一个被强引力放大的星团
+  * This work supports the idea that dense young star clusters can contribute to the ionisation of the IGM through holes created by stellar feedback.
+
+* [The Discovery of QSOs Behind M31 and M33](https://arxiv.org/abs/1904.07898)
+  * We report the discovery of 11 newly found quasars behind the stellar disks of the spiral galaxies M31 and M33 in the fields covered by the Local Group Galaxy Survey
+  * 都是在光谱确认恒星的过程中被发现的：as part of a program (reported elsewhere) to confirm spectroscopically candidate red supergiant plus B star binaries; others were discovered as part of our identification of early-type massive stars based upon their optical colors
+  * have the potential for being good probes of the interstellar medium in these stellar disks, as well as serving as zero-point calibrators for Gaia parallaxes
+
+* [Star formation in galaxies hosting AGN: A flat trend of star-formation rate with X-ray luminosity of galaxies hosting AGN in the SCUBA-2 Cosmology Legacy Survey](https://arxiv.org/abs/1904.07880)
+  * We use new deep 850 µm observations from the SCUBA-2 Cosmology Legacy survey (S2CLS) to investigate star formation in a sample of X-ray selected AGN
+  * We perform a stacking analysis, binning our sample by redshift and X-ray luminosity
+  *  We find that the average AGN in our sample resides in a star-forming host galaxy, with SFRs ranging from 80-600 Msun/yr
+  * 没有看到X-ray光度和SFR有相关
+
+* [On the detectability of visible-wavelength line emission from the local circumgalactic and intergalactic medium](https://arxiv.org/abs/1904.07874)
+  * **Interesting**
+  * 为Dragonfly进行Halpha巡天的理论准备，研究近邻星系的IGM和CGM：We use the hydrodynamical cosmological simulation EAGLE to investigate the expected brightness of this emission at low redshift (z ≲ 0.2).
+  * Mock observations show that the Dragonfly Telephoto Array, equipped with state-of-the-art narrow-band filters, could directly image these structures in exposure times of ∼10 hours
+  * Hα fluorescence emission from this gas can be used to place strong constraints on the local ultra-violet background, and on gas flows around galaxies
+
+* [Weak lensing in the Horizon-AGN simulation lightcone. Small scale baryonic effects](https://arxiv.org/abs/1904.07905)
+  * **Relevant, Important**
+  * Lensing quantities (deflection, shear, convergence) and their statistics (convergence power spectrum, shear correlation functions, galaxy-galaxy lensing) are computed in the past lightcone built in the Horizon-AGN hydrodynamical cosmological simulation
+  * 不同方法模拟1Mpc内1kpc分辨率的lensing性质：Two methods are explored (standard projection of particles with adaptive smoothing, and integration of the acceleration field) to assert a good implementation
+  * Standard cosmic shear statistics are impacted at the 10% level by the baryonic component for angular scales below a few arcmin
+  * The galaxy-galaxy lensing signal, or galaxy-shear correlation function, is consistent with measurements for the redshift z~0.5 massive galaxy population.
+
+* [Cosmological constraints from Planck galaxy clusters with CMB lensing mass bias calibration](https://arxiv.org/abs/1904.07887)
+  * **Relevant**
+  * In order to calibrate the absolute mass scale of the full Planck cluster sample, we remeasure the masses of all 433 clusters through their weak lensing signature in the CMB temperature anisotropies as measured by Planck.
+  * We perform a joint Bayesian analysis of the cluster counts and masses taking as input the estimated cluster masses, SZ signal-to-noise ratios, and redshifts.
+  * We find no evidence for tension with the Planck primary CMB constraints on ΛCDM model parameters.
+
+----
+
+### Apr 18
+
+* [Revealing the differences in the SMBH accretion rate distributions of starburst and non-starburst galaxies](https://arxiv.org/abs/1904.08406)
+  * 把logMs>10.5的星系按FIR SFR和红移分类，看X-ray光度和恒星质量比值的分布，用power-law with cutout去描述
+  * When we use our inferred distributions to calculate the ratios of high to low sLx AGN (corresponding to above and below 0.1λEdd, respectively) we find that starbursts have significantly higher proportions of high sLx AGN compared to their non-starburst counterparts.
+
+* [Origin of the Golden Mass of Galaxies and Black Holes](https://arxiv.org/abs/1904.08431)
+  * 解释为什么在z~2的时候在10^12 Msun的halo里星系和黑洞成长最快
+  * 在这个质量以下和以上都有物理过程抑制恒星形成
+  * The blue-nugget phase is responsible for transitions in the galaxy structural, kinematic and compositional properties, e.g., from dark-matter to baryon central dominance and from prolate to oblate shape.
+  * A compaction near the golden mass makes the black hole sink to the galactic center and triggers a rapid black-hole growth. This ignites feedback by the Active Galactic Nucleus that helps keeping the CGM hot and maintaining long-term quenching.
+
+* [The Herschel Dwarf Galaxy Survey: II. Physical conditions, origin of [CII] emission, and porosity of the multiphase low-metallicity ISM](https://arxiv.org/abs/1904.08434)
+  * We find that the lower-metallicity galaxies of our sample tend to have higher ionization parameters and galaxies with higher specific star-formation rates have higher gas densities.
+  * The [CII] emission arises mainly from PDRs and the contribution from the ionized gas phases is small, typically less than 30% of the observed emission
+  * Overall, the low metal abundances appear to be driving most of the changes in the ISM structure and conditions of these galaxies, and not the high specific star-formation rates.
+  * These results demonstrate in a quantitative way the increase of ISM porosity at low metallicity. Such porosity may be typical of galaxies in the young Universe. 多孔性
+
+* [Action-based models for dwarf spheroidal galaxies and globular clusters](https://arxiv.org/abs/1904.08447)
+  * The stellar component of the models is described by a distribution function (DF) depending on the action integrals, previously used to model the Fornax dwarf spheroidal galaxy (dSph).
+  * Focussing on spherically symmetric models, we show how the stellar observables vary with the anisotropy prescribed by the DF, with the dominance and nature of the dark halo, and with the mass of the black hole.
+
+* [Kinematics of the OVI Circumgalactic Medium: Halo Mass Dependence and Outflow Signatures](https://arxiv.org/abs/1904.08564)
+  * 0.12< zgal <0.66的星系，通过200kpc以内的QSO探测OVI高电离吸收系统
+  * Using the pixel-velocity two-point correlation function (TPCF) method, we find that OVI absorber kinematics have a strong halo mass dependence.
+  * L*星系的OVI吸收系统速度弥散最大：halo virial temperature closely matches the temperature at which the collisionally ionized OVI fraction peaks.
+  * After normalizing out the observed mass dependence, we studied absorber-galaxy kinematics with a modified TPCF and found non-virialized motions due to outflowing gas.
+  * Edge-on minor axis gas has large optical depths concentrated near the galaxy systemic velocity as expected for bipolar outflows, while face-on minor axis gas has a smoothly decreasing optical depth distribution out to large normalized absorber-galaxy velocities, suggestive of decelerating outflowing gas
+
+* [SkyMapper SEDs of nearby galaxies: quenching and bursting probed by a change index for star formation](https://arxiv.org/abs/1904.08564)
+  * Here, we present a proof-of-concept for a new quenching-and-bursting diagnostic, a “change index” for star formation, that requires only photometric data, provided they include filters such as the violet uv bands used by SkyMapper.
+  * The index responds mostly to changes in star-formation rate on a timescale of 20 to 500 Myr and is nearly insensitive to dust extinction 对到100-150 Mpc以内都有效
+  * The change index can only be a qualitative indicator of changes in star-formation rate
+
+* [The Fornax Deep Survey (FDS) with VST. VI. Optical properties of the dwarf galaxies in the Fornax cluster](https://arxiv.org/abs/1904.08660)
+  * **Relevant, Useful**
+  * 看矮星系的标度关系和到星系团中心的距离有什么区别: We find a different behavior for the bright dwarfs (-18.5 mag < Mr < -16 mag) as compared to the fainter ones (Mr > -16 mag)
+  * 对低光度矮星系：面亮度越低的颜色越红 (g-r); 对高光度矮星系，反而是高面亮度和高Sersic index的颜色红
+  * As the fraction of early-type dwarfs with respect to late-types increases toward the central parts of the cluster, the color-surface brightness trends are also manifested in the cluster-centric trends, confirming that it is indeed the environment that changes the galaxies
+  * 整体的统计性质和Virgo cluster中心的类似
+
+* [A merger shock in Abell 1367](https://arxiv.org/abs/1904.08803)
+  * 动力学活跃，有至少两个成分的星系团 : 在XMM数据中 we discover a previously unknown merger shock at the NW edge of the cluster.
+  * This shock region also corresponds to a radio relic discovered with the VLA and GBT, which could be produced by the shock re-acceleration of pre-existing seed relativistic electrons.
+
+* [Integral constraints in spectroscopic surveys](https://arxiv.org/abs/1904.08851)
+  * We present a new derivation of the global integral constraint effect, arising when the expected galaxy density is taken to be the measured one
+  * We find that the radial integral constraint effect can be as significant as the window function correction at large scales
+  * We model the radial integral constraint for a Redshift Space Distortions (RSD) analysis but we emphasise that it can be of paramount importance for large-scale studies of primordial non-Gaussianity.
+
+----
+
+### Apr 21
+
+* [The MASSIVE Survey XIII -- Spatially Resolved Stellar Kinematics in the Central 1 kpc of 20 Massive Elliptical Galaxies with the GMOS-North Integral-Field Spectrograph](https://arxiv.org/abs/1904.08929)
+  * **Relevant, Important**
+  * 20个大质量星系：we obtain unprecedentedly detailed kinematic maps of local massive ETGs, covering a scale of ∼0.1−30 kpc
+  * All but one galaxy in the sample have σ(R) profiles that increase towards the center, whereas the slope of σ(R) at one effective radius (Re) can be of either sign；例外是NGC890; 中心大质量黑洞的影响，因为已经分辨到1kpc以内了
+  * The h4 is generally positive, with 14 of the 20 galaxies having positive h4 within the GMOS aperture and 18 having positive h4 within 1Re. 速度非各向同性
+
+* [The Supersonic Project: Shining Light on SIGOs - a New Formation Channel for Globular Clusters](https://arxiv.org/abs/1904.08941)
+  * **Interesting**
+  * Supersonically induced gas objects (SIGOs) 可以没有暗物质；在再复合时期，暗物质和重子物质之间的相对速度不可忽略的地方可以存在
+  * AREPO模拟，内部气体密度搞到可以形成恒星。形成的星团甚至可以被JWST看到
+  * SIGO在光度-半径关系的参数空间上位置独特，最终有可能演化成球状星团
+
+* [Anatomy of a Cooling Flow: The Feedback Response to Pure Cooling in the Core of the Phoenix Cluster](https://arxiv.org/abs/1904.08941)
+  * **Relevant**
+  * 非常深入的多波段观测：We find that the one-dimensional temperature and entropy profiles are consistent with expectations for pure-cooling hydrodynamic simulations and analytic descriptions of homogeneous, steady-state cooling flow models
+  * 中心10 kpc的冷却时标比已知星系团要短1个量级:  ICM is unable to resist multiphase condensation on kpc scales
+  * 但是具体看2维分布的话，冷却是很不均匀的：The bulk of the cooling in the inner ~20 kpc is confined to a low-entropy filament extending northward from the central galaxy 这些纤维结构里面冷气体(<10^4 K)质量不低
+  * The bulk of this cool gas is draped around and behind a pair of X-ray cavities
+  * 还是想说支持stimulated feedback机制：These data support a picture in which AGN feedback is promoting the formation of a multiphase medium via a combination of ordered buoyant uplift and locally enhanced turbulence.
+
+* [Radio spectra and sizes of ALMA-identified submillimetre galaxies: evidence of age-related spectral curvature and cosmic ray diffusion?](https://arxiv.org/abs/1904.08944)
+  * we study the far-infrared/radio correlation via the logarithmic flux ratio qIR, measuring ⟨qIR⟩=2.19±0.07 for our sample
+  * 高频射电波段看到的SMG大小在2-3kpc，比尘埃连续辐射的要大一些
+  * At least a quarter (10/41) of our sample show evidence of a spectral break - a high-frequency flux deficit relative to simple extrapolations from the low-frequency data. 高频上的流量会偏低 ；和年龄有关的同步加速能量损失？
+  * 需要一个弱的磁场和一个年轻的星暴 (40-80 Myr) 来解释这些射电能谱特征： Assuming these represent evolved (but ongoing) starbursts and we are observing these systems roughly half-way through their current episode of star formation, this implies starburst durations of ≲100Myir : 和气体耗尽时标相似
+
+* [Rapid Luminosity Decline and Subsequent Reformation of the Innermost Dust Distribution in the Changing-look AGN Mrk 590](https://arxiv.org/abs/1904.08946)
+  * Mrk 590 experienced a sudden luminosity decrease during the period from 2000 to 2001. Detection of dust reverberation lag signals between V- and K-band light curves obtained by the MAGNUM project during the faint state in 2003-2007 suggests that the dust torus innermost radius Rdust of Mrk 590 had become very small (Rdust≃32 light-days) by the year 2004
+  * 这段期间的R_dust和Hbeta指示的宽线区半径差不多，和90年代在AGN高光度阶段的类似
+  * These observations indicate that the innermost radius of the dust torus in Mrk 590 decreased rapidly after the AGN ultraviolet-optical luminosity drop, and that the replenishment time scale of the innermost dust distribution is less than 4 years
+  * We suggest that rapid replenishment of the innermost dust distribution can be accomplished either by (1) new dust formation in radiatively-cooled BLR gas clouds or (2) new dust formation in the disk atmosphere and subsequent vertical wind from the dusty disk launched by radiation pressure.
+
+* [Testing ΛCDM With Dwarf Galaxy Morphology](https://arxiv.org/abs/1904.08949)
+  * **Useful: projected triaxial 2-D contour**
+  * We find that the subpopulation of dwarf galaxies with mass-to-light ratio ≳100M⊙/L⊙ reflects an oblate morphology.
+  * This is discrepant with the dwarf galaxies with mass-to-light ratio ≲100M⊙/L⊙, which reflect prolate morphologies, and more importantly with simulations of CDM-sourced galaxies which are explicitly prolate.
+  * we argue that an underlying oblate non-CDM dark matter halo may be required, and present this as motivation for future studies.
+
+* [Parameter Estimation for Scarce Stellar Populations](https://arxiv.org/abs/1904.09054)
+  * Present a Bayesian method to determine simultaneously the age, metallicity, distance modulus, and interstellar reddening by dust of any resolved stellar population 是单个恒星层面上的比较，而不是需要bin起来的； 有多次恒星形成也可以
+  * In this paper we analyze in detail three Large Magellanic Cloud star clusters and 6 Ultra Faint Dwarf Galaxies. For these galaxies we recover physical parameters in agreement with those quoted in the literature
+  * we find, at a very low significance level, signs of a double stellar population for Ursa Major I: a dominant old population and a younger one which contributes ∼25% of the stars
+
+* [Cosmology-independent estimate of the fraction of baryon mass in the IGM from fast radio burst observations](https://arxiv.org/abs/1904.08927)
+  * Here we propose a method of estimating fIGM using a putative sample of FRBs with the measurements of both DM and luminosity distance dL. The latter can be obtained if the FRB is associated with a distance indicator (e.g. a gamma-ray burst or a gravitational wave event), or the redshift z of the FRB is measured and dL
+  * Since dL/DM essentially does not depend on cosmological parameters, our method can determine fIGM independent of cosmological parameters.
+  * Assuming fIGM has a mild evolution with redshift with a functional form and by means of Monte Carlo simulations, we show that an unbiased and cosmology-independent estimate of the present value of fIGM with a ∼12%
+
+* [X-Ray Spectral Model from Clumpy Torus and Its Application to Circinus Galaxy](https://arxiv.org/abs/1904.08945)
+  * X-ray spectral model from the clumpy torus in an active galactic nucleus (AGN), designated as "XCLUMPY", utilizing the Monte Carlo simulation for Astrophysics and Cosmology framework (MONACO: Odaka et al. 2011, 2016)
+  * Assume a power law distribution of clumps in the radial direction and a normal distribution in the elevation direction.
