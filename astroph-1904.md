@@ -735,6 +735,7 @@
   * we argue that an underlying oblate non-CDM dark matter halo may be required, and present this as motivation for future studies.
 
 * [Parameter Estimation for Scarce Stellar Populations](https://arxiv.org/abs/1904.09054)
+  * **Useful**
   * Present a Bayesian method to determine simultaneously the age, metallicity, distance modulus, and interstellar reddening by dust of any resolved stellar population 是单个恒星层面上的比较，而不是需要bin起来的； 有多次恒星形成也可以
   * In this paper we analyze in detail three Large Magellanic Cloud star clusters and 6 Ultra Faint Dwarf Galaxies. For these galaxies we recover physical parameters in agreement with those quoted in the literature
   * we find, at a very low significance level, signs of a double stellar population for Ursa Major I: a dominant old population and a younger one which contributes ∼25% of the stars
@@ -753,13 +754,35 @@
 ### Apr 22
 
 * [Merging galaxies in isolated environments I. Multiband photometry, classification, stellar masses, and star formation rates](https://arxiv.org/abs/1904.09300)
+  * Our aim is to provide accurate multi-wavelength photometry (from the UV to the IR, including GALEX, SDSS, and WISE) in a sample of ∼ 600 nearby (z<0.1) isolated mergers, as well as estimations of M∗ and SFR.
+  * SExtractor + MAGPHYS
+  * Even when the SED fitting often smooths out some of the differences in the photometry, caution using automatic photometry is suggested as these measurements can lead to large differences in M∗ and SFR estimations.
 
 * [The Local Volume HI Survey (LVHIS)](https://arxiv.org/abs/1904.09648)
+  * Deep Hi spectral line and 20-cm radio continuum observations of 82 nearby, gas-rich galaxies
+  * We present a comprehensive LVHIS galaxy atlas, including the overall gas distribution, mean velocity field, velocity dispersion and position-velocity diagrams,
+  * LVHIS galaxies represent a wide range of morphologies and sizes; our measured Hi masses range from ∼10^7 to 10^10 M⊙, based on independent distance estimates.
 
 * [X-ray cavities in the hot corona of the lenticular galaxy NGC~4477](https://arxiv.org/abs/1904.09652)
+  * 距离M87 100kpc左右的一个S0星系： A possible cool core is indicated by the short cooling time of the gas at the galaxy centre.
+  * We identify a pair of symmetric cavities lying 1.1 kpc southeast and 0.9 kpc northwest of the galaxy centre with diameters of 1.3 kpc and 0.9 kpc, 应该是刚刚形成；Cavity里面看不到射电辐射
+  * 形成这个cavity所用的能量比一般的X-ray空腔要小两个量级，是已知最小的
+  * It falls on the scaling relation between the cavity power and the AGN radio luminosity, calibrated for groups and clusters. Our findings suggest that AGN feedback is universal among all cool core systems.
 
 * [The Hyper Suprime-Cam SSP Transient Survey in COSMOS: Overview](https://arxiv.org/abs/1904.09697)
+  * The survey was performed for the 1.77 deg2 ultra-deep layer and 5.78 deg2 deep layer in the Subaru Strategic Program over 6- and 4-month periods from 2016 to 2017
+  * The ultra-deep layer shows a median depth per epoch of 26.4, 26.3, 26.0, 25.6, and 24.6 mag in g, r, i, z, and y bands
+  * 1,824 supernova candidates were identified.
+  * Based on light curve fitting and derived light curve shape parameter, we classified 433 objects as Type Ia supernovae (SNe); among these candidates, 129 objects have spectroscopic or COSMOS2015 photometric redshifts and 58 objects are located at z > 1.
 
 * [The young stellar population in NGC 247 Main properties and hierarchical clustering](https://arxiv.org/abs/1904.09926)
+  * we focused our attention in its hierarchical clustering distributions and the properties of the smallest groups.
+  * 利用HSTS图像：through the path linkage criterion (PLC), we found compact young star groups, and estimated their fundamental parameters, such as their stellar densities, sizes, amount of members and luminosity function (LF) slopes.
+  * We detected 339 young star groups, for which we computed a mean radius of ∼ 60 pc and a maximum in the size distribution between 30 and 70 pc.
+  * We observed that the young population are hierarchically organized, where the smaller and denser structures are within larger and less dense ones
 
 * [Discovery and Early Evolution of ASASSN-19bt, the First TDE Detected by TESS](https://arxiv.org/abs/1904.09293)
+  * We present the discovery and early evolution of ASASSN-19bt, a tidal disruption event (TDE)
+  * As the TDE is located in the TESS Continuous Viewing Zone, our dataset includes 30-minute cadence observations of the transient and its host dating to the start of TESS Sector 1
+  * ASASSN-19bt thus has the most detailed pre-peak dataset for any TDE, allowing us to better model the early emission of a TDE than has been previously possible.
+  * From the TESS light curve, we find that the transient began to brighten on 2019 January 21.6 and that its initial rise was consistent with a flux ∝ t^2 power-law model.
