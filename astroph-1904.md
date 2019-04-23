@@ -747,3 +747,19 @@
 * [X-Ray Spectral Model from Clumpy Torus and Its Application to Circinus Galaxy](https://arxiv.org/abs/1904.08945)
   * X-ray spectral model from the clumpy torus in an active galactic nucleus (AGN), designated as "XCLUMPY", utilizing the Monte Carlo simulation for Astrophysics and Cosmology framework (MONACO: Odaka et al. 2011, 2016)
   * Assume a power law distribution of clumps in the radial direction and a normal distribution in the elevation direction.
+
+----
+
+### Apr 22
+
+* [Merging galaxies in isolated environments I. Multiband photometry, classification, stellar masses, and star formation rates](https://arxiv.org/abs/1904.09300)
+
+* [The Local Volume HI Survey (LVHIS)](https://arxiv.org/abs/1904.09648)
+
+* [X-ray cavities in the hot corona of the lenticular galaxy NGC~4477](https://arxiv.org/abs/1904.09652)
+
+* [The Hyper Suprime-Cam SSP Transient Survey in COSMOS: Overview](https://arxiv.org/abs/1904.09697)
+
+* [The young stellar population in NGC 247 Main properties and hierarchical clustering](https://arxiv.org/abs/1904.09926)
+
+* [Discovery and Early Evolution of ASASSN-19bt, the First TDE Detected by TESS](https://arxiv.org/abs/1904.09293)
