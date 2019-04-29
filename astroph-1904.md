@@ -834,11 +834,22 @@
   * 还是可以继续用恒星运动学来估计动力学质量的
 
 * [The stellar host in star-forming low-mass galaxies: Evidence for two classes](https://arxiv.org/abs/1904.10462)
+  * We use a sample of medium-band selected star-forming galaxies from the GOODS-North field. Hα images for the sample are created combining both spectral energy distribution fits and HST data. 并且把恒星形成区mask掉才拟合
+  * Using a clustering algorithm, we find two different classes of star-forming galaxies: A more compact, redder, and high-n (class A) and a more extended, bluer and lower-n one (class B).
+  * The host component of low-mass star-forming galaxies at z < 0.36 separates into two different classes
 
 * [Survey of Gravitationally-lensed Objects in HSC Imaging (SuGOHI). III. Statistical strong lensing constraints on the stellar IMF of CMASS galaxies](https://arxiv.org/abs/1904.10465)
   * **Relevant, Interesting**
+  * We take 23 strong lenses drawn from the CMASS sample, measure their Einstein radii and stellar masses using multi-band photometry from HSC, then fit a model distribution for the IMF mismatch parameter and dark matter halo mass to the whole sample.
+  * Assuming an NFW density profile for the dark matter distribution, we infer a value μIMF = −0.04 ± 0.11 for the average base-10 logarithm of the IMF mismatch parameter, defined with respect to a Chabrier IMF.
+  * Our results are consistent with a scenario in which the region of massive galaxies where the IMF normalisation is significantly heavier than that of the Milky Way is much smaller than the scales 5 ∼ 10 kpc probed by the Einstein radius of the lenses in our sample
 
 * [JINGLE, a JCMT legacy survey of dust and gas for galaxy evolution studies: II. SCUBA-2 850 μm data reduction and dust flux density catalogues](https://arxiv.org/abs/1904.10466)
+  * SCUBA-2 850 μm观测193个近邻星系
+  * 有多波段数据，并考虑了CO(J=3-2)在850 micron里的污染
+  * The distribution of the JINGLE galaxies in far-infrared/sub-millimetre colour-colour plots reveals that the sample is not well fit by single modified-blackbody models that assume a single dust-emissivity index (β)
+  * Instead, our new 850 μm data suggest either that a large fraction of our objects require β < 1.5, or that a model allowing for an excess of sub-mm emission is required
+  * For JINGLE the FIR colours cor- relate more strongly with star-formation rate surface-density rather than the stellar surface-density, suggesting heating of dust is greater due to younger rather than older stellar-populations
 
 * [MIND THE GAP: The Too Big To Fail Problem Resolved](https://arxiv.org/abs/1904.10471)
   * Using techniques based on Tremaine & Richstone (1977), we show that there is no problem with the luminosity function computed from modern codes per se, but that the gap between first and second brightest systems is too big {\it given} the luminosity function
@@ -846,8 +857,16 @@
   * Briefly stated, ΛCDM does not have a problem with an absence of "too big to fail" galaxies. Statistically significant large gaps between first and second brightest galaxies are to be expected.
 
 * [Large Scale Structure in CHILES](https://arxiv.org/abs/1904.10511)
+  * We apply DisPerSE to the distribution of galaxies in the COSMOS field and find the best parameters to identify filaments
+  * To study the growth of galaxies across cosmic time, and environment, we are carrying out an HI survey covering redshifts z = 0 - 0.45, the COSMOS HI Large Extragalactic Survey (CHILES).
+  * 看HI气体的mass function和性质如何随Cosmic Web而改变: 距离越远，M_HI/Mstar越高
 
 * [Correlations between supermassive black holes, hot atmospheres, and the total masses of early type galaxies](https://arxiv.org/abs/1904.10513)
+  * **Interesting**
+  * 星系团里的X-ray气体温度和SMBH质量相关不错：We report the discovery of a tight correlation between the atmospheric temperatures of the brightest cluster/group galaxies (BCGs) and their central SMBH masses, making the atmospheric gas temperature the best known proxy for SMBH masses in these systems.
+  * In the scenario of a simultaneous growth of central SMBHs and their host galaxies through mergers, the observed linear correlation is a natural consequence of the central limit theorem.
+  *  The observed correlations between the massive dark matter dominated galaxies and their central SMBHs must thus be largely non-causal and most likely, a result of the simultaneous growth of BCGs and their SMBHs by mergers.
+  * 低质量的ETG和S0则没这个关系：The low-mass non-BCGs and lenticular galaxies do not show a strong MBH-kT correlation.
 
 * [Chandra and Hubble Space Telescope observations of dark gamma-ray bursts and their host galaxies](https://arxiv.org/abs/1904.10549)
   * A study of 21 dark gamma-ray burst (GRB) host galaxies, predominantly using X-ray afterglows obtained with the Chandra X-Ray Observatory (CXO)
@@ -931,13 +950,13 @@
 
 * [Multi-Filament Inflows Fueling Young Star Forming Galaxies](https://arxiv.org/abs/1904.11465)
   * **Interesting**
-  * KCWI观测之前探测到inflow的两个QSO-LyAlpha：With the Keck Cosmic Web Imager (KCWI) we now have eight times the spatial resolution, permitting the detection of these in-spiraling flows. 
+  * KCWI观测之前探测到inflow的两个QSO-LyAlpha：With the Keck Cosmic Web Imager (KCWI) we now have eight times the spatial resolution, permitting the detection of these in-spiraling flows.
   * In order to detect these inflows, we introduce a suite of models which incorporate zonal radial flows, demonstrate their performance on a numerical simulation that exhibits coldflow accretion, and show that they are an excellent match to KCWI velocity maps of two Ly{\alpha} emitters observed around high-redshift quasars.
   * The derived gas flux and inflow path is sufficient to fuel the inferred central galaxy star formation rate and angular momentum. Thus, our kinematic emission maps provide strong evidence for the inflow of gas from the cosmic web building galaxies at the peak of star formation.
 
 * [Astrometric requirements for strong lensing time-delay cosmography](https://arxiv.org/abs/1904.11965)
   * To convert the time delay into distances, it is well known that the gravitational potential of the main deflector and the contribution of the matter along the line-of-sight need to be known to a sufficient level of precision.
-  * We derive an analytic expression for the propagation of astrometric uncertainties on the multiple image positions into the inference of the Hubble constant and derive requirements depending on image separation and relative time delay. 
+  * We derive an analytic expression for the propagation of astrometric uncertainties on the multiple image positions into the inference of the Hubble constant and derive requirements depending on image separation and relative time delay.
   * To illustrate the requirement, we discuss some example lensing configurations and highlight that, especially for time delays of order 10 days or shorter, the relative astrometric requirement is of order milli-arcseconds.
   * 现阶段，多重象的天体测量学误差可能是限制SL宇宙学应用的主要因素
 
@@ -946,9 +965,88 @@
   * We report the discovery of six active galactic nuclei (AGN) caught "turning on" during the first nine months of the Zwicky Transient Facility (ZTF) survey
   * In five of the cases, we found via follow-up spectroscopy that they had transformed into broad-line AGN, reminiscent of the changing-look LINER iPTF 16bco
   * In one case, ZTF18aajupnt/AT2018dyk, follow-up HST UV and ground-based optical spectra revealed the transformation into a narrow-line Seyfert 1 (NLS1) with strong [Fe VII, X, XIV] and He II 4686 coronal lines.
-    * 有Optical和X-ray的flaire，且有时间延迟，X-ray的peak出现得更晚 
+    * 有Optical和X-ray的flaire，且有时间延迟，X-ray的peak出现得更晚
   * They are a unique class of transients related to physical processes associated with the LINER accretion state.
 
 * [Photo-astrometric distances, extinctions, and astrophysical parameters for Gaia DR2 stars brighter than G = 18](https://arxiv.org/abs/1904.11973)
   * **Useful**
   * StarHorse catalog of Gaia stars: 数据后面会公开
+
+----
+
+### Apr 28
+
+* [Comparing IMF-sensitive indices of intermediate-mass quiescent galaxies in various environments](https://arxiv.org/abs/1904.11493)
+  * **Interesting, Relevant**
+  * 环境和IMF的关系：We perform an observational approach based on the comparison of IMF-sensitive indices of quiescent galaxies with similar mass in varying environments
+  * These galaxies are selected within a narrow redshift interval (0.020< z < 0.055) and spanning a range in velocity dispersion from 100 to 200 kms−1
+  * 还是用叠加光谱：We find a lack of dependence of the IMF on the environment for intermediate-mass galaxy regime.
+
+* [Simulating the Diverse Instabilities of Dust in Magnetized Gas](https://arxiv.org/abs/1904.11494)
+  * Squire & Hopkins: 在磁化气体中运动的带电尘埃粒子，在有任何形式的外力存在的情况下 (辐射压，引力)，会受到各种不稳定性的影响
+  * Qualitatively distinct instability families are associated with different Alfvenic or magnetosonic waves and drift or gyro motion.
+  * 利用一组模拟：We vary parameters such as the ratio of Lorentz-to-drag forces on dust, plasma β, size scale, and acceleration. 看不稳定性的变化
+  * Turbulence grows from small to large scales, and larger-scale modes usually drive more vigorous gas turbulence, but dust velocity and density fluctuations are more complicated. In many regimes, dust forms structures (clumps, filaments, sheets) that reach extreme over-densities, and exhibit substantial sub-structure even in nearly-incompressible gas.
+
+* [A profile in FIRE: resolving the radial distributions of satellite galaxies in the Local Group with simulations](https://arxiv.org/abs/1904.11508)
+  * We examine the radial distributions of satellites with Mstar > 10^5 Msun around 8 isolated Milky Way- (MW) mass host galaxies and 4 hosts in LG-like pairs.
+  * 基本和M31还有银河系的情况符合得很好：Host-to-host variation dominates the scatter in satellite counts within 300 kpc of the hosts, while time variation dominates scatter within 50 kpc.
+  * 越大质量的host在小半径上的卫星数量更少，因为潮汐瓦解过程更剧烈
+  * 认为还有更多的矮星系等着被发现：Our simulated profiles imply observational incompleteness in the LG even at Mstar >~ 10^5 Msun: we predict 2-10 such satellites to be discovered around the MW and possibly 6-9 around M31.
+
+* [A Giant Green Pea Identified in the Spectroscopy of Spatially Extended [OIII] Sources](https://arxiv.org/abs/1904.11510)
+  * Deep Subaru/FOCAS and Keck/MOSFIRE spectroscopy for four spatially extended [O III]λλ4959,5007 sources, dubbed [O III] blobs, at z=0.6-0.8; 只有一个找到了被AGN激发的迹象
+  * One of such star-forming [O III] blobs, OIIIB-4, at z=0.838 has an [O III] equivalent width of 845±27 \r{A} and an [O III] to [O II]λλ3726,3729 ratio of [O III]/[O II]= 6.5±2.7 that are as high as those of typical green peas
+  * 但是：The spatially resolved spectrum of OIIIB-4 shows [O III]/[O II]= 5−10 over 14 kpc in the entire large [O III] extended regions of OIIIB-4; 而且似乎没有Type-II AGN的贡献
+  * No detections of He IIλ4686 or [Ne V]λλ3346,3426 lines that are fast-radiative shock signatures
+  * 低恒星质量，低金属丰度，高电离度，高sSFR: SF外流产生的辐射区？ 
+
+* [Combining Stellar Populations with Orbit-Superposition Dynamical Modelling - the Formation History of the Lenticular Galaxy NGC 3115](https://arxiv.org/abs/1904.11605)
+  * **Interesting, Relevant**
+  * 对MUSE观测的NGC3115的史瓦西建模加上星族分布分析
+  * We find evidence for a dynamically-cold, metal-rich disk, consistent with a gradual in-situ formation. This disk is embedded in a generally-old population of stars, with kinematics ranging from dispersion-dominated in the centre to an old, diffuse, metal-poor stellar halo at the extremities
+  * We find also a direct correlation between the dominant dynamical support of these components, and their associated age, akin to the relation observed in the Milky Way.
+
+* [The evolution and dependence of the local mass-metallicity relation](https://arxiv.org/abs/1904.11651)
+  * We find that the metallicity tends to be lower in galaxies with a higher concentration, higher S\'{e}rsic index, or higher SFR
+
+* [LARgE Survey. I. Dead Monsters: the Massive End of the Passive Galaxy Stellar Mass Function at Cosmic Noon](https://arxiv.org/abs/1904.11654)
+  * **Relevant, Interesting**
+  * Depp CFHT: 27.6 deg^2的z~1.6大质量quiescent星系巡天：we apply our gzK adaptation of the BzK technique to select our z~1.6 galaxy catalog and then study the quiescent galaxy stellar mass function with good statistics over M_stars ~ 10^10.2 - 10^11.7 M_sun
+  * including 60 ultra-massive z~1.6 quiescent galaxies with M_stars > 10^11.5 M_sun. We find that the stellar mass function of quiescent galaxies at z~1.6 is well represented by the Schechter function over this large mass range.
+  * This close adherence to the Schechter shape also suggests that neither merging nor gravitational lensing significantly affect the observed quenched population
+
+* [Group connectivity in COSMOS: a tracer of mass assembly history](https://arxiv.org/abs/1904.11859)
+  * Cosmic connectivity: 单个group有几个大尺度纤维联系在一起
+  * The local connectivity is measured in COSMOS around X-Ray detected groups between redshift 0.5 and 1.2. 测量是基于photo-z的
+  * 还利用基于Horizon-AGN模拟的mock做了测量，检验各种systematics的影响
+  * More massive groups are on average more connected. At fixed group mass in low-mass groups, BGG mass is slightly enhanced at high connectivity, while in high mass groups BGG mass is lower at higher connectivity
+  * Groups with a star-forming BGG have on average a lower connectivity at given mass.
+
+* [Extended X-ray study of M49: the frontier of the Virgo Cluster](https://arxiv.org/abs/1904.11899)
+  * We report results from deep XMM-Newton mosaic observations of M49. Its hot gas temperature is 0.8\,keV at the group center and rises to 1.5\,keV beyond the brightest group galaxy (BGG).
+  * The observations reveal a cold front ∼20 kpc north of the BGG center and an X-ray bright stripped tail 70\,kpc long and 10 kpc wide to the southwest of the BGG.
+  * We argue that the atmosphere of the infalling group was slowed by its encounter with the Virgo cluster gas, causing the BGG to move forward subsonically relative to the group gas.
+  * We extrapolate to a virial radius of 740 kpc and derive a virial mass of 4.6×10^13M⊙ for the M49 group. Its group atmosphere appears truncated and deficient when compared with isolated galaxy groups of similar temperatures.
+
+* [Determination of the Cosmic Infrared Background from COBE/FIRAS and Planck HFI Observations](https://arxiv.org/abs/1904.11556)
+  * Planck was not designed to measure the monopole component of sky brightness, so cross-correlation of the 2015 HFI maps with COBE/FIRAS data is used to recalibrate the zero level of the HFI maps.
+  * Correlation of the recalibrated HFI maps with a linear combination of Galactic H I and H alpha data is used to separate the Galactic foreground emission and determine the cosmic infrared background brightness in each of the HFI bands.
+  * We obtain CIB values of 0.007 +- 0.014, 0.010 +- 0.019, 0.060 +- 0.023, 0.149 +- 0.017, 0.371 +- 0.018, and 0.576 +- 0.034 MJy/sr at 100, 143, 217, 353, 545, and 857 GHz,
+
+* [A radio halo surrounding the Brightest Cluster Galaxy in RXCJ0232.2-4420: a mini-halo in transition ?](https://arxiv.org/abs/1904.11670)
+  * We report the discovery of a diffuse radio source in the galaxy cluster RXCJ0232.2-4420 (SPT-CL J0232-4421, z=0.2836) using 606 MHz observations with the Giant Metrewave Radio Telescope.
+  * Spectral上像mini-halo，但是尺度更像普通halo
+  * The BCG itself is also a radio source with a marginally resolved core at 7″ (30 kpc) resolution.
+  * The dynamical state of the cluster has been inferred to be "relaxed" and also as "complex" depending on the classification methods based on the morphology of the X-ray surface brightness 正在从mini-halo成长成halo的过渡阶段？
+
+* [HACC Cosmological Simulations: First Data Release](https://arxiv.org/abs/1904.11966)
+  * **Useful**
+  * Cosmological simulations carried out with Argonne's HACC code.
+  * The data products include halo information for multiple redshifts, down-sampled particles, and lightcone outputs.
+  * We provide data from two very large LCDM simulations as well as beyond-LCDM simulations spanning eleven w0-wa cosmologies.
+
+* [HACC Cosmological Simulations: First Data Release](https://arxiv.org/abs/1904.11966)
+  * **Useful**
+  * One of the largest high-resolution N-body simulations performed to date, aimed at promoting science to be carried out with large-scale structure surveys
+  * The simulation results have been used to generate synthetic catalogs for large-scale structure surveys, including DESI and eBOSS, as well as CMB experiments. A detailed catalog for the LSST DESC data challenges has been created as well.
