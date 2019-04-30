@@ -999,7 +999,7 @@
   * One of such star-forming [O III] blobs, OIIIB-4, at z=0.838 has an [O III] equivalent width of 845±27 \r{A} and an [O III] to [O II]λλ3726,3729 ratio of [O III]/[O II]= 6.5±2.7 that are as high as those of typical green peas
   * 但是：The spatially resolved spectrum of OIIIB-4 shows [O III]/[O II]= 5−10 over 14 kpc in the entire large [O III] extended regions of OIIIB-4; 而且似乎没有Type-II AGN的贡献
   * No detections of He IIλ4686 or [Ne V]λλ3346,3426 lines that are fast-radiative shock signatures
-  * 低恒星质量，低金属丰度，高电离度，高sSFR: SF外流产生的辐射区？ 
+  * 低恒星质量，低金属丰度，高电离度，高sSFR: SF外流产生的辐射区？
 
 * [Combining Stellar Populations with Orbit-Superposition Dynamical Modelling - the Formation History of the Lenticular Galaxy NGC 3115](https://arxiv.org/abs/1904.11605)
   * **Interesting, Relevant**
@@ -1050,3 +1050,77 @@
   * **Useful**
   * One of the largest high-resolution N-body simulations performed to date, aimed at promoting science to be carried out with large-scale structure surveys
   * The simulation results have been used to generate synthetic catalogs for large-scale structure surveys, including DESI and eBOSS, as well as CMB experiments. A detailed catalog for the LSST DESC data challenges has been created as well.
+
+----
+
+### Apr 29
+
+* [Galaxy properties as revealed by MaNGA. I. Constraints on Initial Mass Function and M∗/L gradients in ellipticals](https://arxiv.org/abs/1904.11992)
+  * **Important, Relevant**
+  * MaNGA DR15: a sample of pure elliptical galaxies at z ≤ 0.08
+  * Show that the properties of the inner regions of Es with the largest luminosity (Lr) and central velocity dispersion (σ0) are consistent with those associated with the commonly used Salpeter IMF, whereas a Kroupa-like IMF is a better description at ∼ 0.8R/Re (assuming [Ti/Fe] variations are limited).
+  * For these galaxies the stellar mass-to-light ratio decreases at most by a factor of 2 from the central regions to Re.
+  * Accounting self-consistently for these gradients when estimating both M∗ and Mdyn brings the two into good agreement: gradients reduce Mdyn by ∼ 0.2 dex while only slightly increasing the M∗ inferred using a Kroupa IMF.
+
+* [Galaxy properties as revealed by MaNGA II. Differences in stellar populations of slow and fast rotator ellipticals and dependence on environment](https://arxiv.org/abs/1904.11996)
+  * **Important, Relevant**
+  * We find that: 1) FRs are ∼5~Gyrs younger, more metal rich, less α-enhanced and more compact than SRs of the same luminosity Lr and central velocity dispersion σ0.
+  * Their SP gradients are also different (all quantities light-weighted from single SP models)
+  * SRs with σ0≤250 km s−1 are remarkably homogeneous within ∼Re: they are old, α-enhanced and only slightly super-solar in metallicity.
+  * These SRs show no gradients in age and M∗/Lr, negative gradients in metallicity, and slightly positive gradients in [α/Fe]
+  * The FR population all but disappears above M∗≥3×10^11M⊙, the same scale at which the size-mass correlation and other scaling relations change.
+
+* [A spectroscopic study of a rich cluster at z=1.52 with Subaru & LBT: the environmental impacts on the mass-metallicity relation](https://arxiv.org/abs/1904.12090)
+  * We successfully confirmed the redshifts of 39 galaxies, and conclude that this is a gravitationally bound, real cluster at z=1.517.
+  * By stacking the spectra to derive their average interstellar medium (ISM) gas-phase metallicity based on the [NII]/Hα emission line flux ratio, we find that the mass-metallicity relation (MZR) in the 4C65.22 cluster environment is consistent with that of Hα-selected field galaxies at similar redshifts.
+  * Environmental impacts on the MZR is small at high redshifts, but a larger sample of high-z clusters and their member galaxies is still required to fully address the effect of environment as well as its cluster-cluster variation.
+
+* [Identifying MgII Narrow Absorption Lines with Deep Learning](https://arxiv.org/abs/1904.12192)
+  * Our deep learning algorithm is capable of detecting MgII absorption lines with an accuracy of ∼94% . It takes only ∼9 seconds to analyze ∼ 50000 quasar spectra with our deep neural network, which is ten thousand times faster than traditional methods, while preserving high accuracy with little human interference
+  * Our study shows that Mg II absorption line detection accuracy of a deep neutral network model strongly depends on the filter size in the filter layer of the neural network, and the best results are obtained when the filter size closely matches the absorption feature size.
+
+* [A 3 mm Spectral Line Survey toward the Barred Spiral Galaxy NGC 3627](https://arxiv.org/abs/1904.12430)
+  * IRAM 30m+Nobeyama: We detect 8, 11, and 9 molecular species in the spiral arm, the bar-end, and the nuclear region, respectively.
+  * The chemical composition shows impressive similarities among the three regions
+  * the observed chemical compositions are also found to be similar to those of molecular clouds in our Galaxy and the spiral arm of M51, whose elemental abundances are close to those in NGC 3627.
+
+* [On the Uncertainties of Results Derived from HI Spectral Line Stacking Experiments](https://arxiv.org/abs/1904.12472)
+  * **Interesting**
+  * 看Stacking结果是否可靠：We focus on the effects of spatial and spectral aperture sizes and redshift uncertainties on co-added HI spectra, and by implication on the usefulness of results from HI line spectral stacking experiments.
+  * When redshift uncertainties are high, S/N decreases while the contamination level remains roughly constant. Using small spectral apertures in the presence of large HI redshift uncertainties can yield significant decreases in S/N without the expected decrease in amount of contaminant flux.
+  * 对待HI叠加谱线要格外小心：co-added spectrum rarely yields an accurate measure of the total HI mass of a galaxy sample.
+  * Co-added HI galaxy spectrum needs to be fully modelled in the ways presented in this paper in order to apply accurate corrections for flux contamination and derive realistic uncertainties in total HI galaxy mass.
+
+* [The XXL Survey: XXXVI. Evolution and black hole feedback of high-excitation and low-excitation radio galaxies in XXL-S](https://arxiv.org/abs/1904.12507)
+  * LERG: Low excitation; HERG: High excitation: The wide area and deep radio and optical data of XXL-S have allowed the construction of the radio luminosity functions (RLFs) of the RL HERGs and LERGs across a wide range in radio luminosity out to high redshift (z=1.3).
+  * RL-AGN的comoving动能量密度似乎可以平衡掉cooling
+  * While LERGs dominate the kinetic luminosity output of RL AGN at all redshifts, the evolution of the RL HERGs in XXL-S is weaker compared to what other studies have found. This implies that radio mode feedback from RL HERGs is more prominent at lower redshifts than was previously thought.
+
+* [Anomalous behaviour of the UV-optical continuum bands in NGC 5548](https://arxiv.org/abs/1904.12588)
+  * NGC 5548 (AGN STORM), the UV-optical broad emission lines exhibited anomalous, decorrelated behaviour relative to the far-UV continuum flux variability.
+  * In particular, the ionising continuum seen by the BLR was weaker and softer during the anomalous period than during the first third of the campaign, and apparently less variable than exhibited by the far-UV continuum
+  * We also report the first evidence for anomalous behaviour in the longer wavelength (relative to 1157A) continuum bands. This is corroborative evidence that a significant contribution to the variable UV-optical continuum emission arises from a diffuse continuum emanating from the same gas that emits the broad emission lines.
+
+* [Forecasting Super-Sample Covariance in Future Weak Lensing Surveys with SuperSCRAM](https://arxiv.org/abs/1904.12071)
+  * **Interesting**
+  * The observable universe contains density perturbations on scales larger than any finite volume survey. Perturbations on scales larger than a survey can measure degrade its power to constrain cosmological parameters.
+  * 什么是Super-sample covariance: The dependence of survey observables such as the weak lensing power spectrum on these long-wavelength modes results in super-sample covariance.
+  * We present a Fisher matrix based formalism for approximating the magnitude of super-sample covariance and the effectiveness of mitigation strategies for realistic survey geometries.
+  * We illustrate SuperSCRAM with an example application, where the modes contributing to super-sample covariance in the WFIRST weak lensing survey are constrained by the low-redshift galaxy number counts in the wider LSST footprint.
+
+* [Probing galaxy cluster and intra-cluster gas with luminous red galaxies](https://arxiv.org/abs/1904.12089)
+  * **Interesting**
+  * Planck tSZ信号和LRG样本交叉，研究星系团和ICM气体; LRG分成三个红移bin
+  * 叠加Planck y-map：We then fit the stacked profile with the theoretical prediction from the universal pressure profile (UPP)
+  * 同时拟合三个红移bins的时候需要考虑改变模型的红移演化：The joint fits can be improved by including an additional parameter eta to change the redshift-dependence of the model
+  * This suggests that the original UPP model with less redshift-dependence may provide a better fit to the stacked thermal Sunyaev-Zeldovich profile.
+
+* [HIGAN: Cosmic Neutral Hydrogen with Generative Adversarial Networks](https://arxiv.org/abs/1904.12846)
+  * 为了未来的21cm宇宙学：we use Wasserstein Generative Adversarial Networks (WGANs) to generate new high-resolution (35 h−1kpc) 3D realizations of cosmic HI at z=5
+  * We show that different statistical properties of the produced samples -- 1D PDF, power spectrum, bispectrum, and void size function -- match very well those of IllustrisTNG, and outperform state-of-the-art models such as Halo Occupation Distributions (HODs).
+
+* [Tidal disruption events in active galactic nuclei](https://arxiv.org/abs/1904.12261)
+  * 在AGN里面，TDE和一般的AGN flare不好区分开; 但是束缚残骸流 (bound debris stream) 的演化会受到吸积盘的影响。
+  * The outcome of the collision is largely determined by the ratio of the stream mass current to the azimuthal mass current of the disk rotating underneath the stream footprint, which in turns depends on the mass and luminosity of the AGN.
+  * 通过模拟研究：The collision excites shocks in the disk, leading to inflow and energy dissipation orders of magnitude above Eddington.
+  * However, much of the radiation is trapped in the inflow and advected into the black hole, so the actual luminosity may be closer to Eddington.
