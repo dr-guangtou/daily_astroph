@@ -1124,3 +1124,94 @@
   * The outcome of the collision is largely determined by the ratio of the stream mass current to the azimuthal mass current of the disk rotating underneath the stream footprint, which in turns depends on the mass and luminosity of the AGN.
   * 通过模拟研究：The collision excites shocks in the disk, leading to inflow and energy dissipation orders of magnitude above Eddington.
   * However, much of the radiation is trapped in the inflow and advected into the black hole, so the actual luminosity may be closer to Eddington.
+
+----
+
+### Apr 30
+
+* [Morphology and star formation in IllustrisTNG: the buildup of spheroids and discs](https://arxiv.org/abs/1904.12860)
+  * **Relevant**
+  * we find good agreement with observational estimates for both S/T and C82.
+  * Although we find a correlation between S/T and star-formation activity, in the TNG model galaxies do not necessarily change their morphology when they transition through the green valley or when they cease their star formation, this depending on galaxy stellar mass and morphological estimator. 
+  * the morphology (S/T and C82) is generally set during the star-forming phase of galaxies.
+
+* [The relativistic jet of the γ-ray emitting narrow-line Seyfert 1 galaxy PKS J1222+0413](https://arxiv.org/abs/1904.12863)
+  * 多波段研究这个：the highest redshift γ-ray emitting narrow-line Seyfert 1 (γ-NLS1).
+  * We apply physical models to the broadband SED, parameterising the accretion flow and jet emission to investigate the disc-jet connection.
+  * PKS J1222+0413 has a much greater black hole mass than most other NLS1s 和FSRQs里面的类似
+
+* [Unravelling the Origin of the Counter-Rotating Core in IC 1459 with KMOS and MUSE](https://arxiv.org/abs/1904.12871)
+  * **Relevant, Interesting**
+  * We studied IC 1459's stellar populations and, for the first time for a KDC, the spatially resolved initial mass function (IMF).
+  * When no SFH is assumed, we derived a negative metallicity gradient for IC 1459 that could be driven by a distinct metal-poor population in the outer regions of the galaxy, and a radially constant old stellar age.
+  * We found a radially constant bottom-heavy IMF out to ∼13Re. The radially flat IMF and age extend beyond the counter-rotating core.
+  * 关于KDC：the core is not a distinct population of stars but in fact two smooth co-spatial counter-rotating populations.
+
+* [SDSS J075101.42+291419.1: A Super-Eddington Accreting Quasar with Extreme X-ray Variability](https://arxiv.org/abs/1904.12876)
+  * X-ray光变幅度极端大的I型类星体，有RM黑洞测量；SMBH超Eddington吸积
+  * Its XMM-Newton observation in 2015 May reveals a flux drop by a factor of ∼22 with respect to the Swift observation in 2013 May when it showed a typical level of X-ray emission relative to its UV/optical emission.
+  * The mild UV/optical continuum and emission-line variability also suggest that the accretion rate did not change significantly. 而且和X-ray光变相关不明显
+  * 之前发现的有这种级别X-ray光变的大都是NLS1以及吸积率很高的类星体
+  * The fraction of extremely X-ray variable objects among super-Eddington accreting AGNs is estimated to be ≈15−24%.
+  * 两种解释机制：We discuss two possible scenarios, disk reflection and partial covering absorption
+
+* [Evaluating the ability of triaxial Schwarzschild modelling to estimate properties of galaxies from the Illustris simulation](https://arxiv.org/abs/1904.12942)
+  * **Relevant, Interesting**
+  * 用模拟测试史瓦西轨道分解：Nine early-type galaxies with a range of triaxiality are selected, and we create mock integral field unit data for five line-of-sight projections of each galaxy. Each of the 45 mock data sets is taken as an independent observed galaxy.
+  * Total mass within Re is recovered well with average deviations within ±15 percent. Stellar mass is underestimated by ∼24 percent and dark matter overestimated by ∼38 percent (assuming an NFW dark matter profile and allowing for degeneracy between stellar mass and dark matter mass).
+  * Using a gNFW profile, these values improve to ∼13 percent for stellar mass and ∼18 percent for dark matter.
+  * Distributions of the orbit circularities λz and λx, representing rotation about the minor and major axes, are well reconstructed.
+
+* [Active Galactic Nucleus Pairs from the Sloan Digital Sky Survey. III. Chandra X-ray Observations Unveil Obscured Double Nuclei](https://arxiv.org/abs/1904.12998)
+  * [O III]-selected AGN pairs 里面选出来的候选的X-ray观测: Each of the targets contains two nuclei separated by ∼3-9 kpc in projection, both of which are optically classified as Type 2 (obscured) AGNs based on diagnostic ratios of the narrow emission lines.
+  * We confirm two (SDSS J0907+5203 and SDSS J1544+0446) of the five targets as bona-fide dual AGNs.
+  * 其他的不能排除恒星形成或者是激波加热的可能性
+  * Dual-AGN里的X-ray和[OIII]光度比比较低：We suggest that the systematically smaller X-ray-to-[O III] luminosity ratio observed in dual AGNs than in single AGNs is due to a high nuclear gas column likely from strong merger-induced inflows
+
+* ['Scraggy' dark halos around bulge-less spiral galaxies](https://arxiv.org/abs/1904.13155)
+  * **Interesting**
+  * We use a sample of 220 face-on bulge-less galaxies situated in the low density environment to estimate their total mass via orbital motions of supposed rare satellites.
+  * Our inspection reveals 43 dwarf companions having the mean projected separation of 130 kpc and the mean-square velocity difference of 96 km/s
+  * We conclude that bulge-less Sc-Scd-Sd galaxies have poor dark halos, about two times lower than that of bulgy spiral galaxies of the same stellar mass.
+
+* [DustPedia - the relationships between stars, gas and dust for galaxies residing in different environments](https://arxiv.org/abs/1904.13217)
+  * Late type galaxies (later than Sc) in all of the environments can be modelled using simple closed box chemical evolution and a simple star formation history (SFR(t) \propto t\exp{-t/\tau}).
+  * For earlier type galaxies the physical mechanisms that give rise to their properties are clearly much more varied and require a more complicated model (mergers, gas in or outflow).
+  * 环境影响不大：we find little or no difference in the properties of galaxies of the same morphological type within the cluster, field or with different density contrasts
+
+* [Optical integral field spectroscopy of intermediate redshift infrared bright galaxies](https://arxiv.org/abs/1904.13267)
+  * To investigate this evolution, we present new optical SWIFT integral field spectroscopic H{\alpha}+[NII] observations of a sample of 9 intermediate-z (0.2 < z < 0.4) U/LIRG systems selected from Herschel 250{\mu}m observations.
+  * The ratios between the velocity dispersion and the rotation curve amplitude indicate that 10-25% (1-2 out of 8) might be compatible with being isolated disks while the remaining objects are interacting/merging systems
+  * The ratio between un-obscured and obscured SFR traced by H{\alpha} and LIR, respectively, is similar in both local and these intermediate-z U/LIRGs
+  * 250micron和LIR的比例比低红移的ULIRG要高，意味着尘埃温度要低; ISM条件可能不一样
+
+* [The Host-Galaxy Properties of Type 1 Versus Type 2 Active Galactic Nuclei](https://arxiv.org/abs/1904.13267)
+  * We investigate this prediction with 2463 X-ray selected AGNs in the COSMOS field 看Host性质
+  * The host M* of type 1 AGNs tend to be slightly smaller than those of type 2 AGNs by ΔlogM⋆≈0.2 dex
+  * 用FIR数据看SFR： We find that the SFRs of type 1 and type 2 sources are similar once their redshifts and X-ray luminosities are controlled.
+  * 环境上看非常相似：the surface number densities (sub-Mpc) and cosmic-web environments (≈1--10~Mpc) are similar for both populations.
+
+* [Kinematics of CIV and [OIII] emission in luminous high-redshift quasars](https://arxiv.org/abs/1904.13348)
+  * 看高红移QSO里的[OIII]外流：The median velocity width of the [OIII] emission line is 1540 kms^-1, increasing with increasing quasar luminosity. Broad, blue-shifted wings are seen in the [OIII] profiles of 42 per cent of the sample.
+  * 用紫外的CIV 1550宽线看BLR和NLR的关系：The [OIII] blueshift is correlated with CIV blueshift, even when the dependence of both quantities on quasar luminosity has been taken into account.
+  * A strong anti-correlation between the [OIII] equivalent width (EW) and CIV blueshift also exists
+  * [OIII] is very weak, with EW<1A, in ~10 per cent of the sample, a factor of 10 higher compared to quasars at lower luminosities and redshifts
+  * BLR处的外流有能力影响几Kpc处的气体; 外流的动能是QSO热光度的0.2%
+
+* [Kinematics of CIV and [OIII] emission in luminous high-redshift quasars](https://arxiv.org/abs/1904.13348)
+  * We identify 814 discrete HI clouds in 40 dwarf irregular galaxies from the LITTLE THINGS survey using an automated cloud-finding algorithm.
+  * 团块的质量在1000到10^7 Msun, constitute 2-53% of the total HI mass of the host galaxy.
+  * The HI clouds tend to be in the outer regions of the galaxies, with 72% of the galaxies having more than 70% of their clouds outside one disk scale length, and 32% of the galaxies having more than 50% of their clouds outside the radius encircling the HII emission.
+  * We conclude that a significant fraction of the inner parts of these dwarf galaxy disks is in the form of dark molecular gas, and that this fraction could be high enough to make the inner disks mildly gravitationally unstable as a precursor to star formation.
+
+* [Constraints on the redshift evolution of astrophysical feedback with Sunyaev-Zeldovich effect cross-correlations](https://arxiv.org/abs/1904.13347)
+  * **Interesting**
+  * The thermal Sunyaev-Zel'dovich effect, quantified via the Compton-y parameter, is a powerful tool for studying feedback, because it directly probes the pressure of the hot, ionized gas residing in dark matter halos.
+  * We use galaxies identified in year one data from the Dark Energy Survey and Compton-y maps constructed from Planck observations. We find highly significant (roughly 12σ) detections of galaxy-y cross-correlation in multiple redshift bins.
+  * By jointly fitting these measurements as well as measurements of galaxy clustering, we constrain the halo bias-weighted, gas pressure of the Universe as a function of redshift between 0.15≲z≲0.75.
+
+* [Cosmology with dropout selection: Straw-man surveys and CMB lensing](https://arxiv.org/abs/1904.13378)
+  * **Interesting, Important**
+  * 研究用2 < z < 5 dropout galaxies for large-scale structure
+  * Together with low-z tracers, these samples would map practically every linear mode and facilitate a tomographic decomposition of the CMB lensing kernel over an unprecedented volume
+  * Focusing on color-color selection, we estimate the completeness, contamination, and spectroscopic survey speed of tailored Lyman-break galaxy (LBG) samples. We forecast the potential of CMB lensing cross-correlation, clustering redshifts and Redshift-Space Distortions (RSD) analyses.
