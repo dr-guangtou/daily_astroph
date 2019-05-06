@@ -86,7 +86,7 @@
   * 用CIV线测量高光度AGN的黑洞质量的时候需要小心，需要做FWHM的改正
 
 * [A low-frequency study of recently identified double-double radio galaxies](https://arxiv.org/abs/1905.00677)
-  * 认为射电星系的linear大小可以代表射电活动的时标：we present high-sensitivity 607-MHz Giant Metrewave Radio Telescope (GMRT) images of 21 possible double-double radio galaxies (DDRGs) identified from the FIRST survey to confirm their episodic nature.
+  * 认为Double-Double射电星系的linear大小可以代表射电活动的时标：we present high-sensitivity 607-MHz Giant Metrewave Radio Telescope (GMRT) images of 21 possible double-double radio galaxies (DDRGs) identified from the FIRST survey to confirm their episodic nature.
   * These GMRT observations show that none of the inner compact components suspected to be hot-spots of the inner doubles are cores having a flat radio spectrum, confirming the episodic nature of these radio sources.
   * The estimated age limits (11 − 52 Myr) are smaller than those of the large-sized (∼ 1 Mpc) DDRGs.
 
@@ -106,4 +106,38 @@
 
 ### May 5
 
-* [Fluorescent rings in star-free dark matter haloes](https://arxiv.org/abs/1905.00430)
+* [MOCCA-SURVEY Database I. Intermediate mass black holes in Milky Way globular clusters and their connection to supermassive black holes](https://arxiv.org/abs/1905.00902)
+  * MC GC模型看GC和IMBH的演化联系：We find that the average density of IMBHs sphere of influence can be uniquely connected to the host GCs luminosity and half-light radius via a fundamental plane.
+  * Our models show that the IMBH is often bound to a stellar companion or a stellar BH, which can lead to tidal disruption events or to low-frequency gravitational waves.
+  * We show that GCs orbiting close to the Galactic Centre have a larger probability to witness IMBH formation during their early evolution.
+
+* [Assembling a RELIC at Redshift 1: Spectroscopic Observations of Galaxies in the RELICS Cluster SPT-CLJ0615-5746](https://arxiv.org/abs/1905.00914)
+  * **Relevant**
+  * We identify ∼50 cluster members and derive a cluster redshift of zc=0.972, with a velocity dispersion of σ=1235±170 km s−1; 用sigma估计M200和之前的相符，质量很大，接近10^15 Msun
+  * With an elongated profile in lensing mass and X-ray emission, a non-Gaussian velocity dispersion that increases with clustercentric radius, and a brightest cluster galaxy not at rest with the bulk of the system, there are multiple cluster properties that, while not individually compelling, combine to paint a picture that SPT-CLJ0615−5746 is currently being assembled. 
+
+* [Nuclear kinematics in nearby AGN. I. An ALMA perspective on the Morphology and Kinematics of the molecular CO(2-1) emission](https://arxiv.org/abs/1905.00994)
+  * Molecular gas morphology and kinematics of seven nearby Seyfert galaxies obtained from our 230~GHz ALMA observations.
+  * The CO J=2-1 kinematics within the inner ∼30" (≲9~kpc) reveals rotation patterns that have been explored using the Bertola rotation model and a modified version of the Kinemetry package. 可以揭示和circular rotation的偏差
+  * 中心分子气体运动的PA和整体系统运动的比较符合，但residual map上也可以看到非圆周运动的证据
+
+* [Time dependent spectral modeling of Markarian 421 during a violent outburst in 2010](https://arxiv.org/abs/1905.01043)
+  * Mrk421：距离我们最近的Blazar
+  * The source underwent rapid flux variations in both X-rays and very high energy (VHE) gamma-rays as it evolved from a low-flux state on 2010 February 13-15 to a high-flux state on 2010 February 17.
+  * During this period, the source exhibited significant spectral hardening from X-rays to VHE gamma-rays while exhibiting a "harder when brighter" behavior in these energy bands
+  * 模拟SED，使用a time-dependent multi-zone leptonic jet模型
+
+* [The evolution of galaxy intrinsic alignments in the MassiveBlack II universe](https://arxiv.org/abs/1905.00906)
+  * **Relevant**
+  * Dark matter components of z=0.6 galaxies are more spherical than their progenitors while stellar matter components tend to be less spherical than their progenitors. 
+  * The distribution of the galaxy-subhalo misalignment angle peaks at ∼10 deg with a mild increase with time.
+  * The evolution of the ellipticity-direction~(ED) correlation amplitude ω(r) of galaxies is governed by the evolution in the alignment of underlying dark matter~(DM) subhaloes to the matter density of field, as well as the alignment between galaxies and their DM subhaloes.
+  * At scales ∼1 cMpc/h, the alignment between DM subhaloes and matter overdensity gets suppressed with time, whereas the alignment between galaxies and DM subhaloes is enhanced
+  * 总之就是在<1Mpc的小尺度上红移演化很复杂；> 1 Mpc的尺度上 alignment between DM subhaloes and matter overdensity does not evolve significantly
+  * The evolution of the galaxy-subhalo misalignment therefore leads to an increase in ω(r) for galaxies by a factor of ∼4 from z=3 to 0.6 at scales >1 cMpc/h.
+
+* [Estimating the galaxy two-point correlation function using a split random catalog](https://arxiv.org/abs/1905.01133)
+  * **Relevant**
+  * The expected field is commonly specified using a Monte-Carlo sampling of the volume covered by the survey and, to minimize additional sampling errors, this random catalog has to be much larger than the data catalog
+  * Given the large number of random objects required to guarantee sub-percent accuracy, it is of paramount importance to improve the efficiency of the algorithm without degrading its precision. We show both analytically and numerically that splitting the random catalog into a number of subcatalogs of the same size as the data catalog when calculating random-random pairs, and excluding pairs across different subcatalogs provides the optimal error at fixed computational cost.
+  * For a random catalog fifty times larger than the data catalog, this reduces the computation time by a factor of more than ten without affecting estimator variance or bias.
