@@ -141,3 +141,76 @@
   * The expected field is commonly specified using a Monte-Carlo sampling of the volume covered by the survey and, to minimize additional sampling errors, this random catalog has to be much larger than the data catalog
   * Given the large number of random objects required to guarantee sub-percent accuracy, it is of paramount importance to improve the efficiency of the algorithm without degrading its precision. We show both analytically and numerically that splitting the random catalog into a number of subcatalogs of the same size as the data catalog when calculating random-random pairs, and excluding pairs across different subcatalogs provides the optimal error at fixed computational cost.
   * For a random catalog fifty times larger than the data catalog, this reduces the computation time by a factor of more than ten without affecting estimator variance or bias.
+
+----
+
+### May 6
+
+* [The Life Cycle of the Central Molecular Zone. I: Inflow, Star Formation, and Winds](https://arxiv.org/abs/1905.01309)
+  * 银心周围4.5kpc的数值模拟：We find that star formation activity in the CMZ goes through oscillatory burst/quench cycles, with a period of tens to hundreds of Myr, characterised by roughly constant gas mass but order-of-magnitude level variations in the star formation rate. 目前接近SF的极小
+  * 恒星形成的反馈过程产生two-phase wind：warm phase包括了大多数质量，尤其是形成恒星的部分，但大多数这些warm气体会形成喷泉，回落银盘
+  * Hot phase则携带了大部分能量，站了SN产生能量的10-20%
+
+* [Do AGN triggering mechanisms vary with radio power? I.Optical morphologies of radio-intermediate HERGs](https://arxiv.org/abs/1905.01315)
+  * we use deep optical imaging data to study the detailed host morphologies of a complete sample of 30 local radio AGNs with high-excitation optical emission (HERG) spectra and intermediate radio powers
+  * 其中有并合和相互作用迹象的比 2 Jy radio-powerful galaxies比例要低
+  * The most radio-powerful half of the sample has a higher frequency of morphological disturbance than the least radio-powerful half
+  * This suggests that the importance of triggering nuclear activity in HERGs through mergers and interactions reduces with radio power.
+
+* [Photometry of high-redshift blended galaxies using deep learning](https://arxiv.org/abs/1905.01324)
+  * **Interesting**
+  * This work explores the use of deep neural networks to estimate the photometry of blended pairs of galaxies in monochrome space images, similar to the ones that will be delivered by the Euclid space telescope
+  * 利用CANDELS样本里的孤立星系，形成blend星系的training sample
+  * We show that our approach can recover the original photometry of the galaxies before being blended with ∼7% accuracy without any human intervention and without any assumption on the galaxy shape.
+  * We also show that forcing the network to simultaneously estimate a binary segmentation map results in a slightly improved photometry
+
+* [The Dust and Molecular Gas in the Brightest Cluster Galaxy in MACS 1931.8-2635](https://arxiv.org/abs/1905.01377)
+  * **Relevant**
+  * ALMA观测BCG，揭示了 2x10^10 Msun的分子气体： We detect CO(1-0), CO(3-2), and CO(4-3) emission from both diffuse and compact molecular gas components that extend from the BCG center out to ∼30 kpc to the northwest
+  * Due to the lack of morphological symmetry, we hypothesize that the ∼300 km s−1 velocity of the CO in the tail is not due to concurrent uplift by AGN jets, rather we may be observing the aftermath of a recent AGN outburst.
+  * Continuum emission in Bands 6 and 7 arises from dust and is spatially coincident with young stars and nebular emission observed in the UV and optical.
+
+* [A Wide and Deep Exploration of Radio Galaxies with Subaru HSC (WERGS). II. Physical Properties derived from the SED Fitting with Optical, Infrared, and Radio Data](https://arxiv.org/abs/1905.01419)
+  * HSC+FIRST看到的RG：For 1056 FIRST RGs at 0< z ≤ 1.7 with HSC counterparts in about 100 deg2, we compiled multi-wavelength data of optical, near-infrared (IR), mid-IR, far-IR, and radio (150 MHz).
+  * Since optically-faint (iAB≥21.3) RGs that are newly discovered by our RG survey tend to be high redshift, they tend to not only have a large dust extinction and low stellar mass but also have high SFR and AGN luminosity, high IR luminosity, and high Eddington ratio compared to optically-bright ones. 
+
+* [Variability of Low-ionization Broad Absorption Line Quasars Based on Multi-epoch Spectra from The Sloan Digital Sky Survey](https://arxiv.org/abs/1905.01573)
+  * We present absorption variability results for 134 bona fide \mgii\ broad absorption line (BAL) quasars at 0.46~≲z≲~2.3 covering days to ∼ 10 yr in the rest frame 样本来自SDSS，还是目前最大的BAL QSO样本
+  * We find a remarkable time-dependent asymmetry in EW variation from the sample, such that weakening troughs outnumber strengthening troughs, the first report of such a phenomenon in BAL variability.
+  * 低电离的BAL QSO吸收线变化不是那么频繁：The frequency of BAL variability is significantly lower (typically by a factor of 2) than that from high-ionization BALQSO samples
+  * BAL absorbers tend to have relatively high optical depths and small covering factors along our line of sight
+  * These observational results can be explained by a combined transverse-motion/ionization-change scenario, where transverse motions likely dominate the strengthening BALs while ionization changes and/or other mechanisms dominate the weakening BALs.
+
+* [Beyond the Solar Circle − Trends in Massive Star Formation Between the Inner and Outer Galaxy](https://arxiv.org/abs/1905.01714)
+  * We present a new UC HII region catalogue that more than doubles the original sample size of previous work, totaling 536 embedded HII regions and 445 host clumps.
+  * We find a significant trend showing that Lbol/M decreases with increasing RGC, suggesting that the overall star formation per unit mass is less in the outer Galaxy.
+
+* [Near- to mid-infrared spectroscopy of the heavily obscured AGN LEDA 1712304 with AKARI/IRC](https://arxiv.org/abs/1905.01831)
+  * We study the infrared (IR) spectral properties of circumnuclear silicate dust in LEDA 1712304
+  * The best-fit model indicates 0.1 μm-sized porous amorphous olivine (Mg2xFe2−2xSiO4; x=0.4) with 4% crystalline pyroxene.
+  * The silicate dust in the AGN torus of LEDA 1712304 has properties notably similar to those in other AGNs as a whole, but slightly different in the wing shape of the absorption profile.
+  * The porosity of the silicate dust suggests dust coagulation or processing in the circumnuclear environments, while the crystallinity suggests that the silicate dust is relatively fresh.
+
+* [ALMA captures feeding and feedback from the active galactic nucleus in NGC613](https://arxiv.org/abs/1905.01979)
+  * The morphology of CO(3-2) line emission reveals a 2-arm trailing nuclear spiral at r≲100pc and a circumnuclear ring at ~350pc radius, that is coincident with the star-forming ring seen in the optical images.
+  * The kinematics in the nuclear region is very skewed.
+  * The nuclear spectrum of CO and dense gas tracers HCN(4-3), HCO+(4-3), and CS(7-6) show broad wings up to ±300km/s, associated with a molecular outflow emanating from the nucleus (r~25pc).
+  * The outflow is mainly boosted by the AGN through entrainment by the radio jet, but given the weak nuclear activity of NGC613, we might be witnessing a fossil outflow, resulted from a strong past AGN that now has already faded.
+
+* [An evolving and mass dependent σsSFR-M⋆ relation for galaxies](https://arxiv.org/abs/1905.02023)
+  * We employ the EAGLE simulations to study the dependence of the σsSFR of galaxies on stellar mass (M⋆) through the σsSFR-M⋆ relation in z∼0−4. Scatter对红移和恒星质量都有依赖
+  * The models point to an evolving U-shape form for the σsSFR-M⋆ relation with the scatter being minimal at a characteristic mass M⋆ of 10^9.5 M⊙ and increasing both at lower and higher masses. 
+  * We find that active galactic nuclei feedback is important for increasing the σsSFR for high mass objects. 小质量端则是SN Feedback的作用，主要是增加了给定质量上SFH的diversity
+  * We also find that excluding galaxies that have experienced recent mergers does not significantly affect the σsSFR-M⋆ relation.
+
+* [Proximate Molecular Quasar Absorbers: Excess of damped H2 systems at zabs~zQSO in SDSS DR14](https://arxiv.org/abs/1905.02040)
+  * A search for strong H2 absorption systems proximate to quasars (zabs~zem) in the Sloan Digital Sky Survey (SDSS) Data Release 14 based on the Lyman-Werner band signature of damped H2 absorption lines without any prior on the associated metal or neutral hydrogen content.
+  * Detection of 81 systems with log N(H2)~19-20 located within a few thousand km/s from the quasar.
+  * The most striking feature of the proximate systems compared to the intervening ones is the presence of Ly-alpha emission in the core of the associated damped HI absorption line in about half of the sample.
+  * we show that the presence of H2 helps to break the degeneracy between density and strength of the UV field as main sources of excitation and hence provides unique constraints on the possible origin and location of the absorbing clouds.
+
+* [Modelling the tightest relation between galaxy properties and dark matter halo properties from hydrodynamical simulations of galaxy formation](https://arxiv.org/abs/1905.01612)
+  * **Relevant**
+  * 在EAGLE, Illustrius, and IllustrisTNG模拟里，看哪个星系性质和Halo相关最好，考虑了各种类型的星系
+  * We find that the stellar mass of a galaxy at the epoch of the peak circular velocity with an evolution correlation gives the tightest such correlation to the peak circular velocity Vpeak of the galaxy's underlining dark matter halo.
+  * We show that the size of scatter predicted by hydrodynamical simulations has a negligible impact on the clustering of dense Vpeak-selected subhalo samples from simulations
