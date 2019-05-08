@@ -114,7 +114,7 @@
 * [Assembling a RELIC at Redshift 1: Spectroscopic Observations of Galaxies in the RELICS Cluster SPT-CLJ0615-5746](https://arxiv.org/abs/1905.00914)
   * **Relevant**
   * We identify ∼50 cluster members and derive a cluster redshift of zc=0.972, with a velocity dispersion of σ=1235±170 km s−1; 用sigma估计M200和之前的相符，质量很大，接近10^15 Msun
-  * With an elongated profile in lensing mass and X-ray emission, a non-Gaussian velocity dispersion that increases with clustercentric radius, and a brightest cluster galaxy not at rest with the bulk of the system, there are multiple cluster properties that, while not individually compelling, combine to paint a picture that SPT-CLJ0615−5746 is currently being assembled. 
+  * With an elongated profile in lensing mass and X-ray emission, a non-Gaussian velocity dispersion that increases with clustercentric radius, and a brightest cluster galaxy not at rest with the bulk of the system, there are multiple cluster properties that, while not individually compelling, combine to paint a picture that SPT-CLJ0615−5746 is currently being assembled.
 
 * [Nuclear kinematics in nearby AGN. I. An ALMA perspective on the Morphology and Kinematics of the molecular CO(2-1) emission](https://arxiv.org/abs/1905.00994)
   * Molecular gas morphology and kinematics of seven nearby Seyfert galaxies obtained from our 230~GHz ALMA observations.
@@ -129,7 +129,7 @@
 
 * [The evolution of galaxy intrinsic alignments in the MassiveBlack II universe](https://arxiv.org/abs/1905.00906)
   * **Relevant**
-  * Dark matter components of z=0.6 galaxies are more spherical than their progenitors while stellar matter components tend to be less spherical than their progenitors. 
+  * Dark matter components of z=0.6 galaxies are more spherical than their progenitors while stellar matter components tend to be less spherical than their progenitors.
   * The distribution of the galaxy-subhalo misalignment angle peaks at ∼10 deg with a mild increase with time.
   * The evolution of the ellipticity-direction~(ED) correlation amplitude ω(r) of galaxies is governed by the evolution in the alignment of underlying dark matter~(DM) subhaloes to the matter density of field, as well as the alignment between galaxies and their DM subhaloes.
   * At scales ∼1 cMpc/h, the alignment between DM subhaloes and matter overdensity gets suppressed with time, whereas the alignment between galaxies and DM subhaloes is enhanced
@@ -172,7 +172,7 @@
 
 * [A Wide and Deep Exploration of Radio Galaxies with Subaru HSC (WERGS). II. Physical Properties derived from the SED Fitting with Optical, Infrared, and Radio Data](https://arxiv.org/abs/1905.01419)
   * HSC+FIRST看到的RG：For 1056 FIRST RGs at 0< z ≤ 1.7 with HSC counterparts in about 100 deg2, we compiled multi-wavelength data of optical, near-infrared (IR), mid-IR, far-IR, and radio (150 MHz).
-  * Since optically-faint (iAB≥21.3) RGs that are newly discovered by our RG survey tend to be high redshift, they tend to not only have a large dust extinction and low stellar mass but also have high SFR and AGN luminosity, high IR luminosity, and high Eddington ratio compared to optically-bright ones. 
+  * Since optically-faint (iAB≥21.3) RGs that are newly discovered by our RG survey tend to be high redshift, they tend to not only have a large dust extinction and low stellar mass but also have high SFR and AGN luminosity, high IR luminosity, and high Eddington ratio compared to optically-bright ones.
 
 * [Variability of Low-ionization Broad Absorption Line Quasars Based on Multi-epoch Spectra from The Sloan Digital Sky Survey](https://arxiv.org/abs/1905.01573)
   * We present absorption variability results for 134 bona fide \mgii\ broad absorption line (BAL) quasars at 0.46~≲z≲~2.3 covering days to ∼ 10 yr in the rest frame 样本来自SDSS，还是目前最大的BAL QSO样本
@@ -199,7 +199,7 @@
 
 * [An evolving and mass dependent σsSFR-M⋆ relation for galaxies](https://arxiv.org/abs/1905.02023)
   * We employ the EAGLE simulations to study the dependence of the σsSFR of galaxies on stellar mass (M⋆) through the σsSFR-M⋆ relation in z∼0−4. Scatter对红移和恒星质量都有依赖
-  * The models point to an evolving U-shape form for the σsSFR-M⋆ relation with the scatter being minimal at a characteristic mass M⋆ of 10^9.5 M⊙ and increasing both at lower and higher masses. 
+  * The models point to an evolving U-shape form for the σsSFR-M⋆ relation with the scatter being minimal at a characteristic mass M⋆ of 10^9.5 M⊙ and increasing both at lower and higher masses.
   * We find that active galactic nuclei feedback is important for increasing the σsSFR for high mass objects. 小质量端则是SN Feedback的作用，主要是增加了给定质量上SFH的diversity
   * We also find that excluding galaxies that have experienced recent mergers does not significantly affect the σsSFR-M⋆ relation.
 
@@ -214,3 +214,34 @@
   * 在EAGLE, Illustrius, and IllustrisTNG模拟里，看哪个星系性质和Halo相关最好，考虑了各种类型的星系
   * We find that the stellar mass of a galaxy at the epoch of the peak circular velocity with an evolution correlation gives the tightest such correlation to the peak circular velocity Vpeak of the galaxy's underlining dark matter halo.
   * We show that the size of scatter predicted by hydrodynamical simulations has a negligible impact on the clustering of dense Vpeak-selected subhalo samples from simulations
+
+----
+
+### May 7
+
+* [Hyper Wide Field Imaging of the Local Group Dwarf Irregular Galaxy IC 1613: An Extended Component of Metal-poor Stars](https://arxiv.org/abs/1905.02210)
+
+* [A new empirical method to estimate the molecular gas mass in galaxies](https://arxiv.org/abs/1905.02214)
+  * 用尘埃消光和经验关系测量：a tight correlation between the dust extinction, traced by the Balmer Decrement (BD=Hα/Hβ), the CO(1-0) line luminosity (LCO) and total molecular gas mass (MH2) in a sample of 222 local star-forming galaxies drawn from the xCOLD GASS survey.
+  * 侧向盘引起的饱和效应需要改正：the galaxy disk inclination affects the correlation by inducing a saturation of the Balmer decrement on highly inclined galaxies
+  * We do not find any dependence on galaxy size, mass, morphology, star formation activity, and gas metallicity. The correlation disappears if the atomic gas phase is considered.
+
+* [New Horizon: On the origin of the stellar disk and spheroid of field galaxies](https://arxiv.org/abs/1905.02216)
+
+* [Formation histories of stars, clusters and globular clusters in the E-MOSAICS simulations](https://arxiv.org/abs/1905.02217)
+
+* [Understanding extreme quasar optical variability with CRTS: II. Changing-state quasars](https://arxiv.org/abs/1905.02262)
+  * Search for quasars in the Catalina Real-time Transient Survey
+  * We identify 73 sources with specific patterns of optical and mid-IR photometric behavior and a defined spectroscopic change. These "Changing-State" quasars (CSQs) form a higher luminosity sample to complement existing sets of "Changing-Look" AGN and quasars in the literature.
+  * 
+
+* [Correlation between the ionizing continuum and variable C iv broad absorption line in multi-epoch observations of SDSS J141007.74+541203.3](https://arxiv.org/abs/1905.02407)
+  * Correlation between the variations of quasar absorption lines and the ionizing continuum have been recently confirmed
+  * we confirm the anticorrelation between the equivalent width of BALs and the flux of the continuum based on the spectra of this quasar that show significant variations, which serve as another independent evidence for the view of Grier et al. (2015).
+
+* [Revealing the nature of central emission nebulae in the dwarf elliptical galaxy NGC 185](https://arxiv.org/abs/1905.02468)
+  * 
+
+* [Lyman Radiation Hydrodynamics of Turbulent H II Regions in Molecular Clouds: A Physical Origin of LyC Leakage and the Associated Lyα Spectra](https://arxiv.org/abs/1905.02480)
+
+* [UV Background Fluctuations and Three-Point Correlations in the Large Scale Clustering of the Lyman-alpha Forest](https://arxiv.org/abs/1905.02208)
