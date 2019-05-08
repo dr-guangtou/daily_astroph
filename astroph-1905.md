@@ -220,6 +220,11 @@
 ### May 7
 
 * [Hyper Wide Field Imaging of the Local Group Dwarf Irregular Galaxy IC 1613: An Extended Component of Metal-poor Stars](https://arxiv.org/abs/1905.02210)
+  * **Interesting**
+  * HSC观测：Here we present g and i photometry of resolved stars in the isolated Local Group dwarf irregular galaxy IC 1613
+  * 测量年轻主序星，中等-老年红巨星，老年水平支恒星：extend out to ∼24′ (∼5.2 kpc; 5 half-light radii), with the older populations best fit by a broken exponential in these outer regions
+  * Comparing with earlier studies sensitive to IC 1613's inner regions shows that the stellar density of the old stellar populations steepens substantially with distance from the center 有效面亮度一直到了 g~33.7 mag/arcsec^2
+  * Conversely, the distribution of younger stars follows a single, shallow exponential profile in the outer regions, demonstrating different formation channels for the younger and older components of IC 1613.
 
 * [A new empirical method to estimate the molecular gas mass in galaxies](https://arxiv.org/abs/1905.02214)
   * 用尘埃消光和经验关系测量：a tight correlation between the dust extinction, traced by the Balmer Decrement (BD=Hα/Hβ), the CO(1-0) line luminosity (LCO) and total molecular gas mass (MH2) in a sample of 222 local star-forming galaxies drawn from the xCOLD GASS survey.
@@ -227,21 +232,34 @@
   * We do not find any dependence on galaxy size, mass, morphology, star formation activity, and gas metallicity. The correlation disappears if the atomic gas phase is considered.
 
 * [New Horizon: On the origin of the stellar disk and spheroid of field galaxies](https://arxiv.org/abs/1905.02216)
+  * 用NewHorizon数值模拟：New Horizon, we explore kinematically decomposed disk and spheroidal components of 144 field galaxies with masses greater than 10^9M⊙ at z=0.7
+  * 同样把恒星分成了不同的起源：in-situ vs. ex-situ
+  * Before disk settling, stars form mainly through chaotic mergers between proto-galaxies and become part of the spheroidal component.
+  * When disk settling starts, we find that more massive galaxies begin to form disk stars from earlier epochs; massive galaxies commence to develop their disks at z∼1−2, while low-mass galaxies do after z∼1.
+  * A significant fraction of the spheroids comes from the disk stars that are perturbed, which becomes more important at lower redshifts.
 
 * [Formation histories of stars, clusters and globular clusters in the E-MOSAICS simulations](https://arxiv.org/abs/1905.02217)
+  * **Relevant**
+  * Zoom-in模拟：We find that the median lookback time of GC formation in these galaxies is ∼10.73 Gyr (z=2.1), roughly 2.5 Gyr earlier than that of the field stars
+  * The epoch of peak GC formation is mainly determined by the time evolution of the maximum cluster mass, which depends on the galactic environment and largely increases with the gas pressure. 恒星形成和GC形成是同时进行的。
+  * The metal-poor GCs (−2.5<[Fe/H]<−1.5) of our galaxies are older than the metal-rich GC subpopulation (−1.0<[Fe/H]<−0.5), forming 12.13 Gyr and 10.15 Gyr ago (z=3.7 and z=1.8), respectively.
+  * The median ages of GCs are found to decrease gradually with increasing metallicity, which suggests different GC metallicity subpopulations do not form independently and their spatial and kinematic distributions are the result of their evolution in the context of hierarchical galaxy formation and evolution
 
 * [Understanding extreme quasar optical variability with CRTS: II. Changing-state quasars](https://arxiv.org/abs/1905.02262)
   * Search for quasars in the Catalina Real-time Transient Survey
   * We identify 73 sources with specific patterns of optical and mid-IR photometric behavior and a defined spectroscopic change. These "Changing-State" quasars (CSQs) form a higher luminosity sample to complement existing sets of "Changing-Look" AGN and quasars in the literature.
-  * 
+  * We find that this population of extreme varying quasars is associated with changes in the Eddington ratio and the timescales imply cooling/heating fronts propagating through the disk
 
 * [Correlation between the ionizing continuum and variable C iv broad absorption line in multi-epoch observations of SDSS J141007.74+541203.3](https://arxiv.org/abs/1905.02407)
   * Correlation between the variations of quasar absorption lines and the ionizing continuum have been recently confirmed
   * we confirm the anticorrelation between the equivalent width of BALs and the flux of the continuum based on the spectra of this quasar that show significant variations, which serve as another independent evidence for the view of Grier et al. (2015).
 
 * [Revealing the nature of central emission nebulae in the dwarf elliptical galaxy NGC 185](https://arxiv.org/abs/1905.02468)
-  * 
+  * M31的一个伴星系：Our deep photometric study with the 2-m telescope at Rozhen National Astronomical Observatory using narrow-band Hα and [SII] filters has revealed complex structure of the interstellar medium in the center of the galaxy. 可能来自多个SNR
+  * Our observation detected enhanced [SII]/Hα and [SII]/Hα line ratios, as well as relatively high expansion velocities of the observed nebulae, motivating the classification of these sources as SNRs.
+  * Archival XMM-Newton observations indicate the presence of an extended source in projection of one of optical SNRs, whereas the archival VLA radio image shows weak, unresolved emission in the center of NGC 185.
 
 * [Lyman Radiation Hydrodynamics of Turbulent H II Regions in Molecular Clouds: A Physical Origin of LyC Leakage and the Associated Lyα Spectra](https://arxiv.org/abs/1905.02480)
 
 * [UV Background Fluctuations and Three-Point Correlations in the Large Scale Clustering of the Lyman-alpha Forest](https://arxiv.org/abs/1905.02208)
+  * Using the Lyα mass assignment scheme (LyMAS), we make theoretical predictions for the 3-dimensional 3-point correlation function (3PCF) of the Lyα forest at redshift z=2.3. 利用Horizon模拟
