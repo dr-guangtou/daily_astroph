@@ -263,3 +263,59 @@
 
 * [UV Background Fluctuations and Three-Point Correlations in the Large Scale Clustering of the Lyman-alpha Forest](https://arxiv.org/abs/1905.02208)
   * Using the Lyα mass assignment scheme (LyMAS), we make theoretical predictions for the 3-dimensional 3-point correlation function (3PCF) of the Lyα forest at redshift z=2.3. 利用Horizon模拟
+
+----
+
+### May 8
+
+* [On the primordial specific frequency of globular clusters in dwarf and giant elliptical galaxies](https://arxiv.org/abs/1905.02723)
+  * We devise a theoretical model for the specific frequency (SN,th). GC erosion is considered to be an important aspect for shaping this relation, since observations show that galaxies with low densities have a higher SN, while high density galaxies have a small SN.
+  * We construct a model based on the hypothesis that star-formation is clustered and depends on the minimum embedded star cluster mass (Mecl,min), the slope of the power-law embedded cluster mass function (beta) and the relation between the star formation rate (SFR) and the maximum star cluster mass (Mecl,max).
+
+* [Slowing down of cosmic growth of supermassive black holes: Theoretical prediction of the Eddington ratio distribution](https://arxiv.org/abs/1905.02732)
+  * 半解析模型：We find that the growth rate of black holes at higher redshift is more likely to exceed the Eddington limit because the typical gas fraction of the host galaxies is higher at higher redshift 而且超Eddington吸积在低质量SMBH中更容易出现
+  * These results indicate the "slowing down" of cosmic growth of supermassive black holes: the growth of supermassive black holes with a higher Eddington ratio peaks at higher redshift.
+
+* [X-ray Properties of Radio-Selected Dual Active Galactic Nuclei](https://arxiv.org/abs/1905.02733)
+  * Chandra X-ray observations that spatially resolve these dAGN and compare their multi-wavelength properties to those of single AGN from the literature
+  * 探测到了6个，给出了2个上限：we find that our dAGN have properties similar to nearby low-luminosity AGN and Seyferts, and they agree well with the black hole fundamental plane relation.
+  * Hardness ratio分布和Single AGN样本比也没有差别： we find no convincing evidence that these dAGN are more obscured than single AGN, in contrast to the predictions from simulations.
+
+* [A 3D Dust Map Based on Gaia, Pan-STARRS 1 and 2MASS](https://arxiv.org/abs/1905.02734)
+  * **Useful**
+  * A new three-dimensional map of dust reddening, based on Gaia parallaxes and stellar photometry from Pan-STARRS 1 and 2MASS.
+  * Dec>-30 deg: out to a distance of several kiloparsecs. This new map contains three major improvements over our previous work.
+  * We infer the distances, reddenings and types of 799 million stars.
+
+* [Flaring stellar disk in low surface brightness galaxy UGC 7321](https://arxiv.org/abs/1905.02735)
+  * We calculate the thickness of stellar and HI disks in terms of half-width at half-maximum of vertical density distribution in a region of R=0 to 12 kpc
+  * We obtain a mildly increasing disk thickness up to R=6 kpc, in a fairly good agreement with observations, and predict a strong flaring beyond that.
+  * We also show that a compact and dense halo as implied by the observed rotation curve is needed to explain this trend. Interestingly both the stellar and HI disks show flaring at outer disk region despite being dynamically dominated by the dark matter halo from the very inner radii.
+
+* [Black Hole -- Galaxy Correlations in Simba](https://arxiv.org/abs/1905.02741)
+  * Simba grows black holes via gravitational torque-limited accretion from cold gas and Bondi accretion from hot gas, while feedback from black holes is modeled in radiative and jet modes depending on the Eddington ratio (fEdd).
+  * For MBH<∼10^8M⊙, fEdd is anti-correlated with MBH since the BHAR is approximately independent of MBH, while at higher masses fEdd−MBH flattens and has a larger scatter.
+  * BHAR vs. SFR is invariant with redshift, but fEdd drops steadily with time at a given MBH, such that all but the most massive black holes are accreting in a radiatively efficient mode at z>∼2.
+  * The black hole mass function amplitude decreases with redshift and is locally dominated by quiescent galaxies for MBH>108M⊙, but for z>∼1 star forming galaxies dominate at all MBH.
+  * z=0的Eddington ratio分布基本是log-Normal的，peak在 f_Edd < 0.01的位置
+
+* [Dark-ages Reionization and Galaxy Formation Simulation - XIX: Predictions of infrared excess and cosmic star formation rate density from UV observations](https://arxiv.org/abs/1905.02735)
+  * 半解析模型：provide self-consistent predictions of the infrared excess (IRX) - β relations and cosmic star formation rate density.
+  * A Bayesian approach is employed to statistically calibrate model free parameters including star formation efficiency, mass loading factor, dust optical depths and reddening slope directly against UV luminosity functions and colour-magnitude relations at z ~ 4 - 7.
+  * We calculate IRX using energy balance arguments, and find that the large intrinsic scatter in the IRX -β plane is driven by the specific star formation rate.
+
+* [Initial results from a systematic search for changing-look active galactic nuclei selected via mid-infrared variability](https://arxiv.org/abs/1905.02904)
+  * We propose an effective method to select CL candidates from spectroscopic quasar catalogs using the mid-infrared (MIR) variability information derived from ALL-WISE/NEOWISE data releases.
+  * Our primary selection criteria include both a large amplitude flux variation and a transition of MIR color from an AGN to a normal galaxy.
+  * A pilot spectroscopic follow-up of 7 candidates among about 300 candidates selected from Sloan Digital Sky Survey low-redshift (z<0.5) AGN sample results in 6 new turn-off CL AGNs.
+
+* [Modeling the spectral energy distributions of super-Eddington quasars](https://arxiv.org/abs/1905.02920)
+  * This is based on the slim disc emissivity, where radial advection keeps the surface luminosity at the local Eddington limit, resulting in L(r)~/r^2 rather than the 1/r^3 expected from the Novikov-Thorne (standard, sub-Eddington) disc emissivity
+  * We assume that the flow is radially stratified, with an outer standard disc, an inner hot Comptonising region and an intermediate warm Comptonising region to produce the soft X-ray excess.
+
+* [The Main Sequence at z∼1.3 contains a sizable fraction of galaxies with compact star formation sizes: a new population of early post-starbursts?](https://arxiv.org/abs/1905.02958)
+  * **Interesting**
+  * ALMA measurements for 93 Herschel-selected galaxies at 1.1⩽z⩽1.7 in COSMOS reveal a sizable (>29\%) population with compact star formation (SF) sizes, lying on average >×3.6 below the optical stellar mass (M⋆)-size relation of disks. 
+  * These compact galaxies have instead normally extended Kband sizes, suggesting strong specific SFR gradients.
+  * 这些星系占了M*>10^11 Msun星系以上的 50%: We suggest that compact MS objects are early post-starburst galaxies in which the merger-driven boost of SF has subsided.
+  * The presence of large galaxies above the MS demonstrates an overall poor correlation between galaxy SF size and specific SFR.
