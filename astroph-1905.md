@@ -315,7 +315,52 @@
 
 * [The Main Sequence at z∼1.3 contains a sizable fraction of galaxies with compact star formation sizes: a new population of early post-starbursts?](https://arxiv.org/abs/1905.02958)
   * **Interesting**
-  * ALMA measurements for 93 Herschel-selected galaxies at 1.1⩽z⩽1.7 in COSMOS reveal a sizable (>29\%) population with compact star formation (SF) sizes, lying on average >×3.6 below the optical stellar mass (M⋆)-size relation of disks. 
+  * ALMA measurements for 93 Herschel-selected galaxies at 1.1⩽z⩽1.7 in COSMOS reveal a sizable (>29\%) population with compact star formation (SF) sizes, lying on average >×3.6 below the optical stellar mass (M⋆)-size relation of disks.
   * These compact galaxies have instead normally extended Kband sizes, suggesting strong specific SFR gradients.
   * 这些星系占了M*>10^11 Msun星系以上的 50%: We suggest that compact MS objects are early post-starburst galaxies in which the merger-driven boost of SF has subsided.
   * The presence of large galaxies above the MS demonstrates an overall poor correlation between galaxy SF size and specific SFR.
+
+----
+
+### May 9
+
+* [The Effects of Diffuse Ionized Gas and Spatial Resolution on Metallicity Gradients: TYPHOON Two-Dimensional Spectrophotometry of M83](https://arxiv.org/abs/1905.03251)
+  * We separate the HII regions from the DIG using the [SII]/Hα ratio, HIIphot (HII finding algorithm) and the Hα surface brightness.
+  * 对Halpha光度的贡献，HII区和DIG是差不多的
+  * 然后降低分辨率，看金属丰度梯度测量的影响：Metallicity gradients are measured using five different metallicity diagnostics at each resolution. We find that all metallicity diagnostics used are affected by the inclusion of DIG to varying degrees
+  * We find that applying the [SII]/Hα cut will provide a closer estimate of the true metallicity gradient up to a resolution of 1005 pc for all metallicity diagnostics
+
+* [The SAMI Galaxy Survey: Stellar population radial gradients in early-type galaxies](https://arxiv.org/abs/1905.03257)
+  * **Relevant**
+  * 522 early-type galaxies (ETGs) from the SAMI; 还是通过分Radial bin的stack进行的
+  * We find that velocity dispersion (σ) - or, equivalently gravitational potential - is the dominant driver of the chemical composition gradients. Surface mass density is also correlated with the trends, especially with stellar age.
+  * Sigma增大，Mg/Fe的梯度在降低；但是金属丰度的梯度和sigma关系不显著
+  * Only weak environment-related differences are found, most notably a stronger dependence of central total metallicity ([Z/H]e4) with σ
+
+* [Galaxies lacking dark matter in the Illustris simulation](https://arxiv.org/abs/1905.03258)
+  * **Relevant**
+  * 用的Illustris-1的数据：We find 97 TDGCs with Mstellar > 5 × 10^7 M at redshift z = 0,
+  * Simulated TDGCs and dark matter-dominated galaxies populate different regions in the radius–mass diagram in disagreement with observations of early-type galaxies
+  * The dark matter-poor galaxies formed in Illustris-1 have comparable radii to observed dwarf galaxies and to TDGs formed in other galaxy-encounter simulations. 还是在和 NGC1052-DF2比较
+
+* [Assembly bias evidence in close galaxy pairs](https://arxiv.org/abs/1905.03266)
+  * **Relevant**
+  * A sample of approximately two thousand satellites of massive galaxies is carefully selected within a relatively narrow redshift range (0.07 < z < 0.14).
+  * Two main parameters are considered as major drivers of the star formation history of these galaxies, namely: the stellar velocity dispersion of the satellite (σ), as a proxy of "local" drivers, and the ratio between the stellar mass of the satellite and the primary, μ=MSAT/MPRI, meant to serve as an indicator of environment.
+  * We find that satellites around the most massive primaries appear older, at fixed velocity dispersion, with respect to satellites of lower mass primaries.
+
+* [Prospects for Recovering Galaxy Intrinsic Shapes from Projected Quantities](https://arxiv.org/abs/1905.03306)
+  * **rRelevant**
+  * Theoretical work using analytical galaxy potentials suggests a relationship between galaxy intrinsic shape (as defined by its "triaxiality", in practice a proxy for how prolate a galaxy is) and the intrinsic misalignment angle between kinematic and morphological axes (Ψint).
+  * 在Illustris里面看：The strongest relationship we find is that galaxy intrinsic flattening is correlated with specific angular momentum (j) with high j galaxies being flatter than galaxies with low specific angular momentum.
+  * Although the majority of kinematically misaligned galaxies exhibit prolate shapes, examples of kinematically aligned prolate galaxies are also present.
+  * We demonstrate that the assumption of a simple relationship between Ψint and intrinsic shape commonly employed in shape recovery studies is not valid for Illustris galaxies
+
+* [QSO2 outflow characterization using data obtained with OSIRIS at the Gran Telescopio Canarias](https://arxiv.org/abs/1905.03770)
+  * We search for large-scale ionized outflows associated with six optically selected QSO2; 用GTC的OSIRIS观测
+  * 在四个里面都找到了外流证据；Of particular interest is the radioquiet QSO2 SDSS 0741+3020 at z = 0.47. It is associated with a giant ∼112 kpc nebula.
+  *  Regarding the dynamical state of the host galaxies, we find that the majority of the QSO2 show v/σ < 1, implying that they are dominated by random motions (so-called dispersion-dominated systems).
+
+* [Non-Gaussianity in the Weak Lensing Correlation Function Likelihood - Implications for Cosmological Parameter Biases](https://arxiv.org/abs/1905.03779)
+  * We study the significance of non-Gaussianity in the likelihood of weak lensing shear two-point correlation functions, detecting significantly non-zero skewness and kurtosis in one-dimensional marginal distributions of shear two-point correlation functions in simulated weak lensing data though the full multivariate distributions are relatively more Gaussian.
+  * We also present a systematic approach to constructing an approximate multivariate likelihood function by decorrelating the data points using principal component analysis (PCA). When using a subset of the PCA components that account for the majority of the cosmological signal as a data vector, the one-dimensional marginal likelihood distributions of those components exhibit less skewness and kurtosis than the original shear correlation functions.
