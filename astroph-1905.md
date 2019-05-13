@@ -359,8 +359,32 @@
 * [QSO2 outflow characterization using data obtained with OSIRIS at the Gran Telescopio Canarias](https://arxiv.org/abs/1905.03770)
   * We search for large-scale ionized outflows associated with six optically selected QSO2; 用GTC的OSIRIS观测
   * 在四个里面都找到了外流证据；Of particular interest is the radioquiet QSO2 SDSS 0741+3020 at z = 0.47. It is associated with a giant ∼112 kpc nebula.
-  *  Regarding the dynamical state of the host galaxies, we find that the majority of the QSO2 show v/σ < 1, implying that they are dominated by random motions (so-called dispersion-dominated systems).
+  * Regarding the dynamical state of the host galaxies, we find that the majority of the QSO2 show v/σ < 1, implying that they are dominated by random motions (so-called dispersion-dominated systems).
 
 * [Non-Gaussianity in the Weak Lensing Correlation Function Likelihood - Implications for Cosmological Parameter Biases](https://arxiv.org/abs/1905.03779)
   * We study the significance of non-Gaussianity in the likelihood of weak lensing shear two-point correlation functions, detecting significantly non-zero skewness and kurtosis in one-dimensional marginal distributions of shear two-point correlation functions in simulated weak lensing data though the full multivariate distributions are relatively more Gaussian.
   * We also present a systematic approach to constructing an approximate multivariate likelihood function by decorrelating the data points using principal component analysis (PCA). When using a subset of the PCA components that account for the majority of the cosmological signal as a data vector, the one-dimensional marginal likelihood distributions of those components exhibit less skewness and kurtosis than the original shear correlation functions.
+
+----
+
+### May 12
+
+* [Toward a Complete Understanding of the Magellanic Stream Formation](https://arxiv.org/abs/1905.03801)
+  * We use accurate and mesh-free hydrodynamic simulations to reproduce the Magellanic Stream and the Magellanic Clouds in the frame of a 'ram-pressure plus collision' model.
+  * The modeled scenario also reproduces the Magellanic Bridge, including the offset between young and old stars, and the collision between the Clouds, which is responsible of the very elongated morphology of the Small Magellanic Cloud along the line of sight.
+
+* [The Extremely Luminous Quasar Survey in the Pan-STARRS 1 Footprint (PS-ELQS)](https://arxiv.org/abs/1905.04069)
+  * This spectroscopic survey targets the most luminous quasars (M1450≤−26.5; mi≤18.5) at intermediate redshifts (z≥2.8). 
+  * Candidates are selected based on a near-infrared JKW2 color cut using WISE AllWISE and 2MASS photometry to mainly reject stellar contaminants.
+  * We report the discovery of 190 new z≥2.8 quasars and an additional 28 quasars at lower redshifts.
+
+* [WARPFIELD Population Synthesis: The physics of (extra-)Galactic star formation and feedback driven cloud structure and emission from sub-to-kpc scales](https://arxiv.org/abs/1905.04158)
+  * A novel method to model galactic scale star formation and the resulting emission from star clusters and the multi-phase interstellar medium.
+  * We construct the interstellar radiation field at any point in the galaxy, and we employ the multi-frequency Monte Carlo radiative transfer code {\sc polaris} to produce synthetic emission maps for the one-to-one comparison with observational data.
+  * First, we compute the multi-scale distribution of electron ne− and Te− and synthesize the MW all-sky Hα emission.
+
+* [Outflows, Inflows and Young Stars in the inner 200 pc of the Seyfert galaxy NGC 2110](https://arxiv.org/abs/1905.04168)
+  * 中心200pc的NIFS观测：The unresolved nuclear continuum is originated in combined contributions of young stellar population (SP; age≤100 Myr), a featureless AGN continuum and hot dust emission.
+  * The young-intermediate SP (100 < age ≤ 700 Myr) is distributed in a ring-shaped structure at ≈140 pc from the nucleus, which is roughly coincident with the lowest values of the stellar velocity dispersion.
+  * In the inner ≈115 pc the old SP (age>2 Gyr) is dominant.
+  * The [FeII]1.25μm emission-line flux distribution is correlated with the radio emission and its kinematics comprise two components, one from gas rotating in the galaxy plane and another from gas in outflow within a bicone oriented along north-south.
