@@ -374,7 +374,7 @@
   * The modeled scenario also reproduces the Magellanic Bridge, including the offset between young and old stars, and the collision between the Clouds, which is responsible of the very elongated morphology of the Small Magellanic Cloud along the line of sight.
 
 * [The Extremely Luminous Quasar Survey in the Pan-STARRS 1 Footprint (PS-ELQS)](https://arxiv.org/abs/1905.04069)
-  * This spectroscopic survey targets the most luminous quasars (M1450≤−26.5; mi≤18.5) at intermediate redshifts (z≥2.8). 
+  * This spectroscopic survey targets the most luminous quasars (M1450≤−26.5; mi≤18.5) at intermediate redshifts (z≥2.8).
   * Candidates are selected based on a near-infrared JKW2 color cut using WISE AllWISE and 2MASS photometry to mainly reject stellar contaminants.
   * We report the discovery of 190 new z≥2.8 quasars and an additional 28 quasars at lower redshifts.
 
@@ -388,3 +388,94 @@
   * The young-intermediate SP (100 < age ≤ 700 Myr) is distributed in a ring-shaped structure at ≈140 pc from the nucleus, which is roughly coincident with the lowest values of the stellar velocity dispersion.
   * In the inner ≈115 pc the old SP (age>2 Gyr) is dominant.
   * The [FeII]1.25μm emission-line flux distribution is correlated with the radio emission and its kinematics comprise two components, one from gas rotating in the galaxy plane and another from gas in outflow within a bicone oriented along north-south.
+
+----
+
+### May 13
+
+* [A Broadband Spectro-polarimetric View of the NVSS Rotation Measure Catalogue I: Breaking the nπ-ambiguity](https://arxiv.org/abs/1905.04313)
+  * nπ-ambiguity, resulting in deviations of the reported RM from the true values by multiples of +-652.9 rad m-2
+  * We identified nine sources with erroneous RM values due to nπ-ambiguity and 11 with reliable RM values.
+  * We devised a measure of how much a source's RM deviates from that of its neighbours: Δ/σ, which we found to be a good diagnostic of nπ-ambiguity.
+
+* [Constraining the metallicities, ages, star formation histories, and ionizing continua of extragalactic massive star populations](https://arxiv.org/abs/1905.04314)
+  * **Interesting**
+  * Far-ultraviolet stellar continua of 61 star-forming galaxies的大质量星族
+  * Inferred light-weighted stellar metallicities span 0.05-1.5 Z⊙ and are similar to the measured nebular metallicities.
+  * 用900AA和1500AA的连续光度的比值来作为电离连续谱的测量
+  * Single burst models only match the inferred ionizing continua of half of the sample, while the other half are described by a mixture of stellar ages.
+  * Mixed age星族产生的电离光谱更强，更硬; Stellar population age and metallicity affect the far-UV continua in different and distinguishable ways; assuming a constant star formation history diminishes the diagnostic power.
+  * 对BPASS和Starburst99进行了比较
+
+* [A Broadband Spectro-polarimetric View of the NVSS Rotation Measure Catalogue II: Effects of Off-axis Instrumental Polarisation](https://arxiv.org/abs/1905.04318)
+  * make careful comparisons between our new on-axis broadband observations with the Karl G. Jansky Very Large Array and the NVSS RM results for 23 sources. We found that two unpolarised sources were reported as polarised at about 0.5% level in the RM catalogue, and noted significant differences between our newly derived RM values and the catalogue values for the remaining 21 sources.
+  * 这是 off-axis instrumental polarisation的影响: on average the RM uncertainties in the catalogue have to be increased by ≈ 10% to account for the off-axis instrumental polarisation effect.
+
+* [Hot Dust-Obscured Galaxies with Excess Blue Light](https://arxiv.org/abs/1905.04320)
+  * Hot-DOGS中也有一部分有 enhanced UV emision的：it was concluded that the enhanced emission was most likely due to either extreme unobscured star-formation (SFR>1000 M⊙ yr−1) or to light from the highly obscured AGN scattered by gas or dust into our line of sight.
+  * 又用HST观测了两个类似的，We conclude that the excess UV emission is primarily dominated by light from the central highly obscured, hyper-luminous AGN that has been scattered into our line of sight.
+
+* [But What About... Cosmic Rays, Magnetic Fields, Conduction, & Viscosity in Galaxy Formation](https://arxiv.org/abs/1905.04321)
+  * **Interesting**
+  * A suite of high-resolution cosmological simulations, using the FIRE-2 feedback physics together with explicit treatment of magnetic fields, anisotropic conduction and viscosity, and cosmic rays (CRs) injected by supernovae 研究UFD质量的星系，改变CR参数等，看对星系的影响
+  * Magnetic fields, conduction, and viscosity on resolved (≳1pc) scales have small effects on bulk galaxy properties.
+  * CRs have relatively weak effects on all galaxy properties studied in dwarfs, or at high redshifts (z≳1−2), for any physically-reasonable parameters.
+  * 但是在大质量和低红移处，如果effective diffusion coefficient比较高，CR可以抑制SF by factors ~ 2-4.
+  * At lower κ, CRs take too long to escape dense star-forming gas and lose energy to hadronic collisions, producing negligible effects on galaxies and violating empirical constraints from γ-ray emission.
+
+* [Atacama Cosmology Telescope: Dusty star-forming galaxies and active galactic nuclei in the equatorial survey](https://arxiv.org/abs/1905.04592)
+  * **Interesting**
+  * A catalog of 510 radio-loud active galactic nuclei (AGN, primarily blazars) and 287 dusty star-forming galaxies (DSFGs) detected by the Atacama Cosmology Telescope at >5σ significance
+  * We developed new techniques to remove Galactic contamination (including evidence for CO(2-1) line emission) from the extragalactic catalog, providing a catalog of 321 Galactic sources in addition to the extragalactic catalog.
+  * The DSFG spectra depart from the Rayleigh-Jeans regime of an optically thin modified blackbody between 218 GHz and 277 GHz, consistent with optically thick emission.
+  * For AGN with 148 and 218 GHz flux density > 50 mJy, we estimate the inter-year RMS fractional deviation in flux density due to source variability to be 40%. 
+  * Our DSFG counts probe both the brighter, lensed population and the fainter, unlensed population.
+  * At 277 GHz we report the first measurements of source counts at these flux densities, finding an excess above most model count predictions.
+
+* [Accounting for selection bias using simulations: A general method and an application to millimeter-wavelength surveys](https://arxiv.org/abs/1905.04593)
+  * 和上面的ATCA paper一起的技术文章
+  * Developed a new Bayesian method to correct the flux densities of astronomical sources.
+  * Combines a simulated likelihood to model survey selection together with an analytic source-count-based prior
+  * The simulated likelihood captures the effect of complicated selection methods, such as multi-frequency filtering or imposed restrictions on recovered sample properties (e.g., color cuts)
+
+* [The Brightest Galaxies at Cosmic Dawn from Scatter in the Galaxy Luminosity versus Halo Mass Relation](https://arxiv.org/abs/1905.04848)
+  * We model the UVLF over cosmic history with a semi-empirical framework and include a log-normal scatter, Σ, in galaxy luminosities with a conditional luminosity function approach.
+  * We show that stochasticity induces a flattening or a feedback scale in the median galaxy luminosity versus halo mass relation, Lc(Mh) to account for the increase of bright objects placed in lower mass halos. 
+  * We observe a natural broadening in the bright-end exponential segment of the UVLF for z>6 if processes that regulate star-formation acts on the same mass scale as at z∼5, where the degree of broadening is enhanced for larger Σ.
+  * Alternatively, if the bright-end feedback is triggered at a near-constant luminosity threshold, the feedback threshold occurs at progressively lower halo masses with increasing redshift, due to galaxies being more luminous on average at a fixed halo mass from rapid halo assembly.
+
+* [Radio core dominance of Fermi-LAT selected AGNs](https://arxiv.org/abs/1905.04984)
+  * We present a sample of 4388 AGNs with available radio core-dominance parameters defined as the ratio of the core flux densities to extended ones
+  * 584 blazars are Fermi-detected and 1310 are not, and also consists of other subclasses such as Seyfert, Fanaroff-Riley I/II and normal galaxies. 看Fermi探测到的和没有Fermi探测的有什么不同
+  * We found that the core-dominance parameters and radio spectral indices are quite different for different subclasses of AGNs, not only for Fermi sources but also non-Fermi sources: Fermi探测到的core dominance要高
+  * Fermi探测到的Blazar的Gamma辐射主要来自于core成分，可能和beaming effect有关
+
+* [CHANG-ES XX. High Resolution Radio Continuum Images of Edge-on Galaxies and their AGNs -- Data Release 3](https://arxiv.org/abs/1905.05160)
+  * 35 nearby edge-on galaxies that have been observed using the VLA at 1.6 GHz and 6.0 GHz.
+  * 数据发布: we make available the {\it band-to-band} spectral index maps between 1.6 GHz and 6.0 GHz 
+  * New features can be seen in the spectral index maps that are masked in the total intensity emission, including hidden spiral arms in NGC~3448 and two previously unknown radio lobes on either side of the nucleus of NGC~3628. 
+  * AGN比例的下限是 55%
+
+* [Precision Weak Gravitational Lensing Using Velocity Fields: Fisher Matrix Analysis](https://arxiv.org/abs/1905.04404)
+  * 如果有source星系的速度场信息，可以大大提高WL精度: If the source is a disk galaxy with a well-ordered velocity field, however, velocity field data can support simultaneous inference of the shear, inclination, and position angle, virtually eliminating shape noise. 
+  * 对Face-on星系更有效；随着星系变得倾斜，精度也会降低
+
+* [Ultracompact minihalos associated with stellar-mass primordial black holes](https://arxiv.org/abs/1905.04477)
+  * 考虑原初黑洞并合解释引力波探测的黑洞并合信号的可能性
+  * primordial black holes can comprise only part of the entire dark matter, say, of order 0.1 \%.
+  * 在这种情况下：We point out that in this situation, very compact dark matter minihalos, composed of the dominant component of the dark matter, are likely to be formed abundantly in the early Universe
+
+* [Turbulent pressure support and hydrostatic mass-bias in theintracluster medium](https://arxiv.org/abs/1905.04896)
+  * Residual气体运动支撑的湍动压力的显著程度还不清楚：we test a new filtering technique to disentangle the bulk gas motion from the turbulent one in high-resolution cosmological simulations of galaxy clusters using the cosmological hydro code ENZO.
+  * 主要是看非热压力和总压力的比例如何随着到星系团中心的半径变化: 基本可以用一个简单的多项式关系描述
+  * 从中心的5%增大到外围的 ~15%
+  * We also find that the total mass recovered under the assumption of the hydrostatic equilibrium is affected by an hydrostatic mass bias with a no-negligible contribution from residual radial accelerations of the gas
+
+* [Impact of the mean pressure profile of galaxy clusters on the cosmological constraints from the Planck tSZ power spectrum](https://arxiv.org/abs/1905.05129)
+  * 关于Planck CMB宇宙学结果和SZ cluster得到的之间的tension：SZ测量假设一个平均的cluster压力轮廓
+  * A variation of both the amplitude and the shape of the mean normalized pressure profile could also explain part of this tension.
+  * We analyze the effects of a modification of this profile on the constraints of the σ8 and Ωm parameters through the analysis of the Planck tSZ power spectrum. 如果平均轮廓随质量和红移改变，会对宇宙学有影响
+  * We conclude that a ∼15% decrease of the amplitude of the mean normalized pressure profile would alleviate the tension observed between the constraints of σ8 and Ωm obtained from the CMB and cluster analyses without requiring extreme values of the mass bias parameter.
+
+* [Using Convolutional Neural Networks to identify Gravitational Lenses in Astronomical images](https://arxiv.org/abs/1905.04303)
+  * Here our CNN is trained and tested on Euclid-like and KiDS-like simulations from the Euclid Strong Lensing Group, successfully classifying 77% of lenses, with an area under the ROC curve of up to 0.96.
