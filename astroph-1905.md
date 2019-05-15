@@ -428,7 +428,7 @@
   * A catalog of 510 radio-loud active galactic nuclei (AGN, primarily blazars) and 287 dusty star-forming galaxies (DSFGs) detected by the Atacama Cosmology Telescope at >5σ significance
   * We developed new techniques to remove Galactic contamination (including evidence for CO(2-1) line emission) from the extragalactic catalog, providing a catalog of 321 Galactic sources in addition to the extragalactic catalog.
   * The DSFG spectra depart from the Rayleigh-Jeans regime of an optically thin modified blackbody between 218 GHz and 277 GHz, consistent with optically thick emission.
-  * For AGN with 148 and 218 GHz flux density > 50 mJy, we estimate the inter-year RMS fractional deviation in flux density due to source variability to be 40%. 
+  * For AGN with 148 and 218 GHz flux density > 50 mJy, we estimate the inter-year RMS fractional deviation in flux density due to source variability to be 40%.
   * Our DSFG counts probe both the brighter, lensed population and the fainter, unlensed population.
   * At 277 GHz we report the first measurements of source counts at these flux densities, finding an excess above most model count predictions.
 
@@ -440,7 +440,7 @@
 
 * [The Brightest Galaxies at Cosmic Dawn from Scatter in the Galaxy Luminosity versus Halo Mass Relation](https://arxiv.org/abs/1905.04848)
   * We model the UVLF over cosmic history with a semi-empirical framework and include a log-normal scatter, Σ, in galaxy luminosities with a conditional luminosity function approach.
-  * We show that stochasticity induces a flattening or a feedback scale in the median galaxy luminosity versus halo mass relation, Lc(Mh) to account for the increase of bright objects placed in lower mass halos. 
+  * We show that stochasticity induces a flattening or a feedback scale in the median galaxy luminosity versus halo mass relation, Lc(Mh) to account for the increase of bright objects placed in lower mass halos.
   * We observe a natural broadening in the bright-end exponential segment of the UVLF for z>6 if processes that regulate star-formation acts on the same mass scale as at z∼5, where the degree of broadening is enhanced for larger Σ.
   * Alternatively, if the bright-end feedback is triggered at a near-constant luminosity threshold, the feedback threshold occurs at progressively lower halo masses with increasing redshift, due to galaxies being more luminous on average at a fixed halo mass from rapid halo assembly.
 
@@ -452,12 +452,12 @@
 
 * [CHANG-ES XX. High Resolution Radio Continuum Images of Edge-on Galaxies and their AGNs -- Data Release 3](https://arxiv.org/abs/1905.05160)
   * 35 nearby edge-on galaxies that have been observed using the VLA at 1.6 GHz and 6.0 GHz.
-  * 数据发布: we make available the {\it band-to-band} spectral index maps between 1.6 GHz and 6.0 GHz 
-  * New features can be seen in the spectral index maps that are masked in the total intensity emission, including hidden spiral arms in NGC~3448 and two previously unknown radio lobes on either side of the nucleus of NGC~3628. 
+  * 数据发布: we make available the {\it band-to-band} spectral index maps between 1.6 GHz and 6.0 GHz
+  * New features can be seen in the spectral index maps that are masked in the total intensity emission, including hidden spiral arms in NGC~3448 and two previously unknown radio lobes on either side of the nucleus of NGC~3628.
   * AGN比例的下限是 55%
 
 * [Precision Weak Gravitational Lensing Using Velocity Fields: Fisher Matrix Analysis](https://arxiv.org/abs/1905.04404)
-  * 如果有source星系的速度场信息，可以大大提高WL精度: If the source is a disk galaxy with a well-ordered velocity field, however, velocity field data can support simultaneous inference of the shear, inclination, and position angle, virtually eliminating shape noise. 
+  * 如果有source星系的速度场信息，可以大大提高WL精度: If the source is a disk galaxy with a well-ordered velocity field, however, velocity field data can support simultaneous inference of the shear, inclination, and position angle, virtually eliminating shape noise.
   * 对Face-on星系更有效；随着星系变得倾斜，精度也会降低
 
 * [Ultracompact minihalos associated with stellar-mass primordial black holes](https://arxiv.org/abs/1905.04477)
@@ -479,3 +479,76 @@
 
 * [Using Convolutional Neural Networks to identify Gravitational Lenses in Astronomical images](https://arxiv.org/abs/1905.04303)
   * Here our CNN is trained and tested on Euclid-like and KiDS-like simulations from the Euclid Strong Lensing Group, successfully classifying 77% of lenses, with an area under the ROC curve of up to 0.96.
+
+----
+
+### May 14
+
+* [The EDGE-CALIFA Survey: Evidence for Pervasive Extraplanar Diffuse Ionized Gas in Nearby Edge-On Galaxies](https://arxiv.org/abs/1905.05196)
+  * 25个侧向盘星系的CALIFA观测; 弥散电离气体盘scale height的中位数是0.8 kpc：From the Hα kinematics, we find that 60% of galaxies show a decrease in the rotation velocity as a function of height above the midplane. 可以看成是弥散电离气体运动的lag
+  * This lag is characteristic of eDIG, and we measure a median lag of 21 km s−1 kpc−1 which is comparable to lags measured in the literature.
+  * 这种lag随半径也可能改变：HI  lags have been reported to systematically decrease with galactocentric radius. We find both increasing and decreasing ionized gas lags with radius, as well as a large number of galaxies consistent with no radial lag variation
+  * We confirm that the [SII]/Hα and [NII]/Hα line ratios increase with height above the midplane as is characteristic of eDIG.
+  * eDIG似乎主要是被HII区逃逸的光子电离的; eDIG的气体也可能是来自SF抛出的
+
+* [X-ray Binary Luminosity Function Scaling Relations for Local Galaxies Based on Subgalactic Modeling](https://arxiv.org/abs/1905.05197)
+  * Chandra constraints on the X-ray luminosity functions (XLFs) of X-ray binary (XRB) populations, and their scaling relations, for a sample of 38 nearby galaxies (D = 3.4-29 Mpc). 样本来自SINGS
+  * We divided the 2478 X-ray detected sources into 21 subsamples in bins of specific-SFR
+  * 拟合一个global XLF模型，考虑HMXB和LMXB，以及CXB的贡献，看XLF如何随sSFR变化：We find an HMXB XLF that is more complex in shape than previously reported and an LMXB XLF that likely varies with sSFR, potentially due to an age dependence.
+  * 用global XLF去拟合每个星系，可以看到有些星系的XLF有明显区别：Most notably, relatively low-metallicity galaxies have an excess of HMXBs above ~10^38 erg/s and elliptical galaxies that have relatively rich populations of globular clusters (GCs) show excesses of LMXBs compared to the global model.
+
+* [Origins of scaling relations of globular cluster systems](https://arxiv.org/abs/1905.05199)
+  * **Relevant, Interesting**
+  * 基于之前的解析模型研究GC和Halo标度关系的起源：The ratio of the combined mass in GCs MGC to the host dark matter halo mass Mh is nearly constant at all redshifts, but its normalization evolves by a factor of ∼10 from birth to z=0.
+  * 在 M < 10^11.5 Msun的halo里, M_GC和Mhalo关系非线性，但主要是因为SHMR的非线性造成的
+  * The near constancy of the ratio MGC/Mh, combined with the shape of the stellar mass-halo mass relation, sets the characteristic U−shape of the GC specific frequency as a function of host galaxy mass.
+  * 吸积satellite对GC的贡献和halo质量有很强的关系，在Mh=10^11 Msun处基本没有；在10^15 Msun处可以占80%；而且主要贡献的是贫金属的GC population
+  * Red GC在10^11 Msun的halo里占10%, 在10^13 Msun以及以上质量的halo中，基本占60%左右
+  * Clusters formation occurs essentially continuously at high redshift, while at low redshift galactic mergers become increasingly important for cluster formation.
+
+* [Newly Discovered Bright z~9-10 Galaxies and Improved Constraints on Their Prevalence Using the Full CANDELS Area](https://arxiv.org/abs/1905.05202)
+  * An expanded search for z~9-10 candidates over the ~883 arcmin^2 CANDELS+ERS fields.
+  * As a result of our expanded search and use of broader color criteria, 3 new candidate z~9-10 galaxies are identified. We also find again the z=8.683 source previously confirmed by Zitrin+2015.
+  * This brings our sample of probable z~9-11 galaxy candidates over the CANDELS+ERS fields to 19 sources in total, equivalent to 1 candidate per 47 arcmin^2 (1 per 10 WFC3/IR fields).
+  * UVLF在z>8演化很快：Based on this expanded sample, we obtain a more robust LF at z~9 and improved constraints on the volume density of bright z~9 and z~10 galaxies. Our improved z~9-10 results again reinforce previous findings for strong evolution in the UV LF at z>8, with a factor of ~10 evolution seen in the luminosity density from z~10 to z~8.
+
+* [The Close AGN Reference Survey (CARS): Comparative analysis of the structural properties of star-forming and non-star-forming galaxy bars](https://arxiv.org/abs/1905.05214)
+  * **Interesting**
+  * 16个近邻的有棒的盘星系的MUSE观测：to investigate how star formation within bars is connected to structural properties of the bar and the host galaxy.
+  * Bars上的恒星形成可以清晰的划分成SF和non-SF类型的，各8个星系：quenching
+  的作用时标应该比Bar的寿命短 (?)
+  * 棒上的SF似乎与Bar结构的轮廓有关：profile越flat (n_ser低)，SF的可能性越高
+  * 棒的n_bar和棒上的SFR都与Hubble type无关
+  * We find that star formation is 1.75 times stronger on the leading than on the trailing edge and is radially decreasing.
+  * Non-SF bars 似乎和inner-ring结构有关
+  * Bar上的恒星形成率和AGN的热光度无关
+
+* [Probing the assembly of dwarf galaxies through cosmic time with damped Lyman-α absorption spectroscopy](https://arxiv.org/abs/1905.05409)
+  * 用模拟看和高红移dwarf星系有关的吸收特征：Our goal is to explore whether the progenitors of the lowest mass dwarf galaxies known to harbor neutral hydrogen today (M_star~10^6 solar mass, M_halo=4x10^9 solar mass) could possibly be detected as Damped Lyman-alpha Absorbers (DLAs) over cosmic time.
+  * We find that the progenitors of the simulated dwarf are expected to be seen for most of their evolution as DLAs that are contaminated by normal, Population~II, stars.
+  * 只有在z>6才可能看到单纯被Pop-III增丰的DLA
+  * 这些dwarf的前身在UV背景辐射面前比较脆弱，很可能只有在中心100pc才留有中性气体，所以作为DLA被看到的几率比较低
+
+* [Radio jet structures at ~100 parsec and larger scales of the γ-ray-emitting narrow-line Seyfert 1 galaxy PMN J0948+0022](https://arxiv.org/abs/1905.05414)
+  * PMN J0948+0022 is an archetype of gamma-ray-emitting NLS1s in AGN
+  * The new VLA images reveal an outermost radio emission separated by 9.1 arcsec. Its resolved structure and steep spectrum suggest a terminal shock in a radio lobe energized by the jet from the PMN J0948+0022 nucleus.
+  * This large-scale radio component is found at almost the same position angle as that of the pc-scale jet, indicating a stable jet direction up to ~1 Mpc.
+
+* [Star-forming rings in lenticular galaxies: origin of the gas](https://arxiv.org/abs/1905.05517)
+  * SALT长缝光谱观测一批又UV outer ring的S0星系
+  * Four of the five rings are also bright in the H-alpha emission line, and the spectra of the gaseous rings extracted around the maxima of the H-alpha equivalent width reveal excitation by young stars betraying current star formation in the rings.
+  * The difference of chemical composition between the ionized gas of the rings which demonstrate nearly solar metallicity and the underlying stellar disks which are metal-poor implies recent accretion of the gas and star formation ignition
+
+* [Radiation-pressure-driven dust transport to galaxy halos at z∼10](https://arxiv.org/abs/1905.05645)
+  * 看高红移处的辐射压能不能把尘埃输送到halo里: we solve the motion of a dust grain considering radiation pressure, gas drag, and gravity in the vertical direction of the galactic disc.
+  * 在一个特定的尘埃颗粒尺度上，如果辐射压够强是可以的：we find that dust grains with radii a∼0.1 μm successfully escape from the galactic disc if the ongoing star formation episode converts more than 15 per cent of the baryon content into stars and lasts ≳30 Myr, while larger and smaller grains are trapped in the disc because of gravity and gas drag
+  * 如果尘埃带电荷会很不一样：grain charge significantly enhances gas drag at a few--10 scale heights of the galactic disc, where the grain velocities are suppressed to ∼1 km s−1
+
+* [A VLT/FORS2 Narrowband Imaging Search for MgII Emission Around z ~ 0.7 Galaxies](https://arxiv.org/abs/1905.05746)
+  * VLT/FORS2窄带成像看5 star-forming galaxies at redshift z=0.67-0.69，来研究共振散射的MgII辐射指示的大尺度外流
+  * 星系都有显著的SF，都有MgII吸收trace的外流，速度在150-420 km/s之间
+  * We do not detect any extended emission around any of the sample galaxies
+    * 两种可能的解释：(1) the extent of the MgII-emitting material in the outflows from these galaxies is limited to ≲20 kpc; or (2) the outflows are anisotropic and/or dusty.
+  * The imaging also resolves the MgII absorption observed toward each galaxy spatially, revealing approximately constant absorption strengths across the galaxy disks.
+
+* [Planck 2018 results. IX. Constraints on primordial non-Gaussianity](https://arxiv.org/abs/1905.05697)
