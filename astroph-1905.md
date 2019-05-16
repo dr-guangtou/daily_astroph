@@ -552,3 +552,57 @@
   * The imaging also resolves the MgII absorption observed toward each galaxy spatially, revealing approximately constant absorption strengths across the galaxy disks.
 
 * [Planck 2018 results. IX. Constraints on primordial non-Gaussianity](https://arxiv.org/abs/1905.05697)
+  * We compare estimates obtained from separable template-fitting, binned, and modal bispectrum estimators, finding consistent values for the local, equilateral, and orthogonal bispectrum amplitudes.
+  * Our results provide a high-precision test for structure-formation scenarios, in complete agreement with the basic picture of the LambdaCDM cosmology regarding the statistics of the initial conditions
+
+* [Intermediate mass black holes in globular clusters: effects on jerks and jounces of millisecond pulsars](https://arxiv.org/abs/1905.05209)
+  * 用一组毫秒脉冲星的观测来推断IMBH的存在：We show that measuring the first (jerk) and second (jounce) derivatives of the accelerations of an ensemble of MSPs will let us infer the presence of an IMBH in a globular cluster better than measuring the sole accelerations.
+  * 以47 Tuc为例做了模拟，目前还不行
+
+----
+
+### May 15
+
+* [Stronger Constraints on the Evolution of the MBH−σ∗ Relation up to z∼0.6](https://arxiv.org/abs/1905.05780)
+  * LRIS观测a sample of 22 Seyfert 1 galaxies with black holes (BHs) in the mass range 10^6.3−10^8.3 M⊙ and redshift range 0.03 < z < 0.57; 用MgIb吸收线得到恒星的速度弥散度； Hbeta线和5100光度测量黑洞质量
+  * Additionally, we investigate the use of [O III]λ5007 emission line width as a surrogate for stellar velocity dispersion, finding better correlation once corrected for Fe II contamination and any possible blueshifted wing components.
+  * FeII线的改正对测量恒星速度弥散度很重要
+  * We find that any offset in the MBH−σ∗ relation up to z∼0.6 is consistent with the scatter of local BH masses, and address the sources of biases and uncertainties that contribute to this scatter.
+
+* [The fundamental metallicity relation emerges from the local anti-correlation between star formation rate and gas-phase metallicity existing in disk galaxies](https://arxiv.org/abs/1905.05826)
+  * FMR is thought to be fundamental because it naturally arises from the stochastic feeding of star-formation from external metal-poor gas accretion, a process extremely elusive to observe but essential according the cosmological simulations of galaxy formation
+  *  we show how the FMR emerges from the local anti-correlation between SFR surface density and Zg recently observed to exist in disk galaxies.
+  * 全局FMR可以从local的关系中得到
+  * The correspondence between local and global laws is not specific of the FMR, so that a number of local relations should exist associated with known global relations.
+
+* [Multiwavelength radio observations of a Brightest Cluster Galaxy at z=1.71: Detection of a modest Active Galactic Nucleus and evidence for extended star formation](https://arxiv.org/abs/1905.05875)
+  * **Interesting**
+  * 3 bands: 1-2 GHz, 4-8 GHz and 8-12 GHz 观测一个z=1.71的BCG
+  * 中心BCG有射电源，spectral index alpha=0.44; 符合 AGN
+  * The flux densities are 6σ below the predicted values of the star-forming Spectral Energy Distribution based on far infrared data.
+  * We suggest that the star-forming core might not be driven by a single major wet merger, but rather by several smaller galaxies stripped of their gas or by a displaced cooling flow
+
+* [The ALMA Discovery of the Rotating Disk and Fast Outflow of Cold Molecular Gas in NGC~1275](https://arxiv.org/abs/1905.06017)
+  * **Interesting**
+  * ALMA Band 6 observations of the CO(2-1), HCN(3-2), and HCO+(3-2) lines in the nearby radio galaxy / brightest cluster galaxy (BCG) of NGC 1275
+  * 20 pc的分辨率，看到中心的filament不能用简单的infalling stream来解释，很像模拟里面给出的混乱吸积：cold gas structure predicted by recent numerical simulations of cold chaotic accretion
+  * 中心100pc内有一个10^8 Msun的冷气体盘；冷气体的吸积率可能比热气体还要高
+  * 盘平面和sub-pc尺度的jet垂直：the cold gas disk is physically connected to the innermost accretion disk which is responsible for jet launching.
+  * 中心射电连续谱背景上可以看到蓝移了300-600 km/s的 HCN (3-2)的 HCO+(3-2); 从AGN出现的分子气体外流
+
+* [Robust profile decomposition for large extragalactic spectral-line surveys](https://arxiv.org/abs/1905.06036)
+  * 从射电单镜或者干涉仪观测中分析线轮廓的MCMC Bayesian方法
+  * It fits a set of models comprised of a number of Gaussian components given by the user to individual line-of-sight velocity profiles, then compares them and finds an optimal model based on the Bayesian Inference Criteria computed for each model
+  * 对Gaussian成分进行分解，分类成 bulk和non-circular运动；分解成cold和warm的运动学成分
+  * We apply the newly developed algorithm to the Hi data cubes of sample galaxies from the Local Volume Hi galaxy Survey (LVHIS).
+
+* [A near-infrared study of the multi-phase outflow in the type-2 quasar J1509+0434](https://arxiv.org/abs/1905.06288)
+  * Report the presence of an ionized and warm molecular outflow in the luminous type-2 quasar J150904.22+043441.8 (z = 0.1118).
+  * 电离气体外流成分的速度比分子气体外流速度快：Whilst the ionized and warm molecular outflows represent a small fraction of the AGN power, 总分子气体外流代表的能量是AGN热光度的2%左右。
+  * 有空可以看看如何计算外流气体质量和能量
+
+* [Modelling baryonic feedback for survey cosmology](https://arxiv.org/abs/1905.06082)
+  * **Important**
+  * Galaxy formation is known to have a significant impact on observables such as two-point correlations of galaxy shapes and positions, altering their amplitude and scale dependence beyond the expected statistical uncertainty of up- coming experiments at separations under 10 Mpc.
+  *  This work reviews the current state of the art in the mod- elling of baryons for cosmology, from numerical methods to approximate analytical prescriptions, and makes recommendations for studies in the next decade, including a discussion of potential probe combinations that can help constrain the role of baryons in cosmological studies.
+  * 关注在对功率谱的modelling上
