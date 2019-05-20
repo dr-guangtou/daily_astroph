@@ -571,7 +571,7 @@
 
 * [The fundamental metallicity relation emerges from the local anti-correlation between star formation rate and gas-phase metallicity existing in disk galaxies](https://arxiv.org/abs/1905.05826)
   * FMR is thought to be fundamental because it naturally arises from the stochastic feeding of star-formation from external metal-poor gas accretion, a process extremely elusive to observe but essential according the cosmological simulations of galaxy formation
-  *  we show how the FMR emerges from the local anti-correlation between SFR surface density and Zg recently observed to exist in disk galaxies.
+  * We show how the FMR emerges from the local anti-correlation between SFR surface density and Zg recently observed to exist in disk galaxies.
   * 全局FMR可以从local的关系中得到
   * The correspondence between local and global laws is not specific of the FMR, so that a number of local relations should exist associated with known global relations.
 
@@ -604,5 +604,116 @@
 * [Modelling baryonic feedback for survey cosmology](https://arxiv.org/abs/1905.06082)
   * **Important**
   * Galaxy formation is known to have a significant impact on observables such as two-point correlations of galaxy shapes and positions, altering their amplitude and scale dependence beyond the expected statistical uncertainty of up- coming experiments at separations under 10 Mpc.
-  *  This work reviews the current state of the art in the mod- elling of baryons for cosmology, from numerical methods to approximate analytical prescriptions, and makes recommendations for studies in the next decade, including a discussion of potential probe combinations that can help constrain the role of baryons in cosmological studies.
+  * This work reviews the current state of the art in the mod- elling of baryons for cosmology, from numerical methods to approximate analytical prescriptions, and makes recommendations for studies in the next decade, including a discussion of potential probe combinations that can help constrain the role of baryons in cosmological studies.
   * 关注在对功率谱的modelling上
+
+----
+
+### May 15
+
+* [How Do Galaxies trace a large scale structure?: A case study around a massive protocluster at z=3.13](https://arxiv.org/abs/1905.06337)
+  * **Interesting**
+  * Motivated by the discovery of a z=3.13 protocluster, we examine how the same structure is populated by Lyα-emitting galaxies (LAEs)
+  * 进行了非常深的窄带Halpha的巡天，70 Mpc^2的空间里找到了93个LAE候选，21个LAE形成了overdensity，但是和LBG的overdensity位置还不一样
+  * 可能代表了两个不同的大质量halo，只是形成时间不一样; LBG的 overdensity中缺少LAE可能反应了halo assembly bias的影响。
+  * The median Lyα- and UV luminosity is 30--70\% higher for the protocluster LAEs relative to the field. 可能的解释包括 top-heavy mass function, higher star formation efficiency for protocluster halos, or suppression of galaxy formation in low-mass halos
+
+* [SHARP − VI. Evidence for CO (1−0) molecular gas extended on kpc-scales in AGN star forming galaxies at high redshift](https://arxiv.org/abs/1905.06363)
+  * Study of the stellar host galaxy, CO (1−0) molecular gas distribution and AGN emission on 50 to 500 pc-scales of the gravitationally lensed dust-obscured AGN MG J0751+2716 and JVAS B1938+666 at redshifts 3.200 and 2.059. 被透镜放大的尘埃遮蔽AGN
+  * There is evidence for a decrement in the CO (1−0) surface brightness at the location of the host galaxy, which may indicate radiative feedback from the AGN, or offset star formation.
+  * The intrinsic CO line luminosities are comparable to those of unobscured AGN and dusty star-forming galaxies at similar redshifts, but the infrared luminosities are lower, suggesting that the targets are less efficient at forming stars.
+
+* [Low X-Ray Luminosity Galaxy Clusters. IV. SDSS galaxy clusters at z < 0.2](https://arxiv.org/abs/1905.06410)
+  * **Relevant**
+  * The sample comprises 45 galaxy clusters with X-ray luminosities fainter than 0.7 10^44 erg s−1 at redshifts lower than 0.2
+  * The obtained parameters for these galaxy clusters with low X-ray luminosities are remarkably similar to those for groups and poor galaxy clusters at these lower redshifts.
+
+* [An Ultra diffuse Galaxy in the NGC 5846 group from the VEGAS survey](https://arxiv.org/abs/1905.06415)
+  * **Relevant**
+  * We found one object with properties of a UDG if it associated with the NGC 5846 group, which seems likely. The galaxy, we name NGC 5846_UDG1, has an absolute magnitude of Mg = –14.2, corresponding to a stellar mass of ∼10^8 M.
+  * 还发现了一堆球状星团，根据球状星团，Halo质量可能在8x10^10 Msun以上
+  * Both AGN host galaxies have 300 to 500 pc-scale size and surface brightness consistent with a bulge/pseudo-bulge, and 2 kpc-scale AGN radio jets that are embedded in extended molecular gas reservoirs that are 5 to 20 kpc in size.
+
+* [Intense CIV and HeII Emission in z~0 Galaxies](https://arxiv.org/abs/1905.06434)
+  * 高红移星系中高电离星云发射线(OIII], CIII], CIV, HeII)的观测指示了再电离阶段极端的辐射场性质; 并且可能与leak出的LyC光子有关
+  * high-ionization UV emission lines present our best probe to detect and characterize the most distant galaxies
+  * HST光谱观测两个极端紫外发射星系：first observations of intense nebular HeII and double-peaked, resonantly-scattered CIV emission, a combination that suggests these galaxies both produce and transmit a significant number of very high-energy ionizing photons (E>47.89 eV) through relatively low column densities of high-ionization gas.
+  * The very hard ionizing photons that escape from these galaxies may provide a secondary source of ionization that is currently unconstrained observationally
+  * 需要用一个辐射转移模型同时解LyA和CIV的发射线
+
+* [On the Origin of the Dramatic Spectral Variability of WPVS 007](https://arxiv.org/abs/1905.06538)
+  * 低光度窄线Sy1在WISE W1/2波段的高幅度 (0.3 mag) 中红外光变
+  * 这个AGN有蓝移很大的宽吸收线，也有时变特征: The observed significant MIR variability, the UV to optical color variabilities in the Swift bands that deviate from the predictions of pure dust attenuation models 中红外的光变很难简单用尘埃遮挡解释
+  * The variations of BAL features (i.e., trough strength and maximum velocity) and continuum luminosity are concordant
+  * 光变很可能是本征的：is likely induced by the intrinsic ionizing continuum variation；而不是因为torus的旋转造成的
+  * The BAL gas in WPVS 007 might be in the low-ionization state as traced by its weak N V BAL feature; as the ionizing continuum strengthens, the Ci IV and Si IV column densities also increase, resulting in stronger BALs and the emergence of high-velocity components of the outflow.
+
+* [Gas engaged in noncircular motions in LITTLE THINGS dwarf irregular galaxies](https://arxiv.org/abs/1905.06915)
+  *
+
+* [Early Low-Mass Galaxies and Star-Cluster Candidates at z~6-9 Identified by the Gravitational Lensing Technique and Deep Optical/Near-Infrared Imaging](https://arxiv.org/abs/1905.06927)
+
+----
+
+### May 19
+
+* [Extreme CO Isotopologue Line Ratios in ULIRGS: Evidence for a top-heavy IMF](https://arxiv.org/abs/1905.06950)
+  * **Relevant, Interesting**
+  * 高分辨率的ALMA观测：3 nearby ultra-luminous infrared galaxies (ULIRGS; Arp 220, IRAS 13120-5453, IRAS 17208-0014) and 1 nearby post-merger galaxy (NGC 2623)
+  * 12CO/C18O and 12CO/13CO 比值都很高；13 CO/C18O 比值非常低
+  * Assuming both lines are optically thin, low 13CO/C18O values suggest that C18O is more abundant than 13CO in the interstellar medium of these systems Top IMF可能是一种解释
+
+* [Prospects for Observing the Cosmic Web in Lyman-α Emission](https://arxiv.org/abs/1905.06954)
+  * we examine the Lyman-α emission of the moderate-density IGM due to collisional excitations and recombinations in the presence of a UV background in the Sherwood simulation suite.
+  * At low density the emission is primarily due to fluorescent re-emission of the ionising UV background due to recombinations, while collisional excitations dominate at higher densities.
+  * We find that it should be most feasible to detect the Lyman-α emission from filaments in the IGM in overdense regions, somewhat surprisingly towards the high-redshift end (z≳4.5) accessible by MUSE
+
+* [AGN in Dusty Starbursts at Z=2: Feedback Still To Kick In](https://arxiv.org/abs/1905.06955)
+  * Herschel挑选的152个>10^10 Msun的高恒星形成率的 1.5 < z < 2.5的 Dusty星系
+  * 根据SED拟合结果分成完全是SF主导的以及有AGN贡献的
+  * SBs-SFR are generally irregular and composite systems
+  * 50% of SBs-AGN are instead dominated by regular compact morphologies
+  * 这两类星系的气体比例很接近; Feedback (如果有的话)，还没有降低气体比例
+  * Our results show that SBs are consistent with a mixture of: 1) highly star-forming merging systems (dominating the SBs-SFR), and 2) primordial galaxies, rapidly growing their M* together with their SMBH
+
+* [Revealing the Stellar Mass and Dust Distributions of Submillimeter Galaxies at Redshift 2](https://arxiv.org/abs/1905.06960)
+  * AS2UDS survey at z~2中K-band选出的20个SMG的HST和ALMA观测
+  * 恒星质量中心和尘埃中心在1.1kpc之内吻合。尘埃分布一般比恒星致密
+  * 尘埃和恒星的Re比值在0.6左右，且不随sSFR改变，在整个SF MS之内都差不多
+  * Our results imply that massive SMGs are experiencing centrally enhanced star formation unlike typical spiral galaxies in the local Universe
+  * The sizes and stellar densities of our SMGs are in agreement with those of the passive population at z=1.5, consistent with these systems being the descendants of z~2 SMGs.
+
+* [CO Emission in Infrared-Selected Active Galactic Nuclei](https://arxiv.org/abs/1905.06961)
+  * Spitzer IRS以及Spitzer-Herschel颜色：perform a meta-analysis of the CO emission for a sample of z=0.01−4 galaxies from the literature with existing CO detections and well-constrained AGN contributions to the infrared (67 galaxies).
+  * We calculate new average CO spectral line ratios (primarily from Carilli \& Walter 2013) to uniformly scale the higher-J CO detections to the ground state and accurately determine our sample's molecular gas masses
+  * 没有发现气体消耗时标和恒星形成的气体效率和MIR AGN光度有相关: 有红外亮的AGN不一定是quenched
+
+* [Broad-band X-ray analysis of local mid-infrared selected Compton-thick AGN candidates](https://arxiv.org/abs/1905.06964)
+  * Here we test the selection of obscured sources among the local 12-micron sample of Seyfert galaxies. Our selection is based on a difference up to three orders of magnitude in the ratio between the AGN bolometric luminosity, derived from the spectral energy distribution (SED) decomposition, and the same quantity obtained by the published XMM-Newton 2-10 keV luminosity.
+  * The newly derived NH values clearly indicate heavy obscuration for UGC05101, NGC1194 and NGC3079
+  * 而且N_H柱密度和9.7微米的硅吸收指示的符合
+
+* [The hidden heart of the luminous infrared galaxy IC 860 I. A molecular inflow feeding opaque, extreme nuclear activity](https://arxiv.org/abs/1905.07275)
+  * ALMA+VLA: We detect compact (r=8-10 pc), luminous, mm continuum emission in the core of IC 860, with brightness temperatures TB> 280 K. The 45 GHz continuum is equally compact, but fainter in flux.
+  * It appears that the centre of IC 860 is in a phase of rapid evolution where an inflow is building up the nuclear column density of gas. A slow, dense outflow may be signalling the onset of feedback. The inner, r=10 pc, IR luminosity can be powered by an accreting black hole and/or a compact starburst with a top-heavy initial mass function.
+
+* [Bivariate Luminosity Function of Galaxy Pairs](https://arxiv.org/abs/1905.07275)
+  * **Interesting**
+  * The galaxy pair sample is selected from the main galaxy sample of Sloan Digital Sky Survey and supplied with a significant number of redshifts from the LAMOST spectral and GAMA surveys.
+  * We find the BLFs depend on the projected distance dp between pair members. At large separation dp>150h−1 kpc, the BLF degenerates into a luminosity function (LF) of single galaxies, indicating few interactions between pair members
+  * At 100h−1 kpc≤dp≤150h−1 kpc, the BLF starts to show the correlation between pair members, in the sense that the shape of the conditional luminosity function (CLF) of one member galaxy starts to depend on the luminosity of the other member galaxy.
+  * the CLF with a brighter companion has a steeper faint-end slope, which becomes even more significant at 50h−1 kpc≤dp≤100h−1 kpc.
+  * 一种解释是： dynamic friction drives massive major merger pairs to merge more quickly
+  * 在小尺度上：the BLF also shows an overall brightening of ΔMr≥0.04 mag, which reveals the enhanced star formation of the close-pair phase.
+
+* [A deep learning model to emulate simulations of cosmic reionization](https://arxiv.org/abs/1905.06958)
+  * CRADLE (Cosmological Reionization And Deep LEarning) is an autoencoder convolutional neural network that uses two-dimensional maps of the star number density and the gas density field at z=6 as inputs and that predicts 3D maps of the times of reionization treion as outputs.
+  * We trained the model on a given simulation and tested the predictions on another simulation with the same paramaters but with different initial conditions.
+  * We show that the network predicts large scales almost perfectly but is somewhat less accurate at smaller scales. 
+
+* [Probing Galaxy Assembly Bias in BOSS Galaxies Using Void Probabilities](https://arxiv.org/abs/1905.07024)
+  * **Important**
+  * We measure the void probability function (VPF) of galaxies in the Baryon Oscillation Spectroscopic Survey (BOSS). 
+  * VPF对极端低密度宇宙结构中的galaxy bias敏感，提供了标准2PCF之外的信息。非常适合测试galaxy assembly bias，看星系的HOD对大尺度结构密度的依赖
+  * Find that standard HOD model---one parameterized by halo mass only---fit only to the two-point function, accurately predicts the VPF.
+  * Thus galaxy assembly bias is not a strong source of systematic uncertaintiy when modeling the clustering of massive galaxies.
