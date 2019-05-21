@@ -717,3 +717,66 @@
   * VPF对极端低密度宇宙结构中的galaxy bias敏感，提供了标准2PCF之外的信息。非常适合测试galaxy assembly bias，看星系的HOD对大尺度结构密度的依赖
   * Find that standard HOD model---one parameterized by halo mass only---fit only to the two-point function, accurately predicts the VPF.
   * Thus galaxy assembly bias is not a strong source of systematic uncertaintiy when modeling the clustering of massive galaxies.
+
+----
+
+### May 20
+
+* [Galaxy Zoo: Probabilistic Morphology through Bayesian CNNs and Active Learning](https://arxiv.org/abs/1905.07424)
+  * Use Bayesian convolutional neural networks and a novel generative model of Galaxy Zoo volunteer responses to infer posteriors for the visual morphology of galaxies
+  * BCNN可以学习不确定的标签，给出新数据的概率分类
+  * We apply the active learning strategy BALD to request volunteer responses for the subset of galaxies which, if labelled, would be most informative for training our network. 可以使用更少的训练样本
+
+* [Rejuvenation in z∼0.8 quiescent galaxies in LEGA-C](https://arxiv.org/abs/1905.07541)
+  * **Relevant, Interesting**
+  * 在LEGA-C z=0.6-1样本里找有第二次显著恒星形成活动，曾经quiescent的星系。
+  * 在z~0.8比例大概是16%，这些星系的二次恒星形成活动持续~0.7 Gyr，形成平均约10%的恒星质量
+  * 但对于相同红移处的星系整体来说，rejuvenation过程不是一个很重要的影响red sequence演化的物理过程
+  * The galaxies with rejuvenation events tend to lie in the so-called `green valley', yet their progenitors were quiescent at z∼2.
+
+* [Global distribution of far-ultraviolet emissions from highly ionized gas in the Milky Way](https://arxiv.org/abs/1905.07823)
+  * 来自FIMS/SPEAR的观测：We present all-sky maps of two major FUV cooling lines, C IV and O VI, of highly ionized gas to investigate the nature of the transition-temperature gas. 
+  * The gas temperature was found to be more or less uniform throughout the Galaxy: 20万K左右
+  * 这些气体分布的标高在6kpc左右；气体质量在6x10^9 Msun左右; 气体的filling factor在星系内部的37%到星系外部的18%之间变化
+  * The spatial distribution of C IV and O VI cannot be explained by a simple supernova remnant model or a three-phase model. 要考虑超新星爆发以及turbulent mixing layers； Thermal conduction front models and high-velocity cloud models are also consistent with our observation.
+
+* [[OIII] Emission Line Properties in a New Sample of Heavily Reddened Quasars at z>2](https://arxiv.org/abs/1905.08198)
+  * VLT-SINFONI near infra-red spectra of 26 new heavily reddened quasar candidates selected from the UKIDSS-LAS, VHS, VIKING surveys
+  * 25 of the 26 candidates are confirmed to be broad line quasars with redshifts 0.7< z < 2.6 and dust extinctions 0.5<E(B−V)<3.0.
+  * 在高光度端，在相同的光度和红移上比较obscured和unobscured QSO的[OIII]发射线性质
+  * Obscutred样本的OIII线中可以看到受外流影响的非常宽的发射线：但控制条件下，和unobscured样本的OIII线性质差别不大
+  * Our results are consistent with a model where quasar-driven outflows persist for some time after the obscuring dust has been cleared from along the line of sight.
+  * We find that the dust is most likely to be located on galactic scales, outside the [OIII] emitting region.
+
+* [On the Emergence of Thousands of Absorption Lines in the Quasar PG1411+442: A Clumpy High-Column Density Outflow from the Broad Emission-Line Region?](https://arxiv.org/abs/1905.08201)
+  * We report on the emergence of a remarkable new outflow absorption-line system in the quasar PG1411+442 (redshift ~0.089) detected in the UV and visible
+  * This new "transient'' system contains thousands of lines, including FeII and FeII* from excited states up to 3.89 eV, HI* Balmer lines, NaI D 5890,5896, and the first detection of HeI* 5876 in a quasar.
+  * The transient absorber is spatially inhomogeneous and compact, with sizes ~<0.003 pc, based on covering fractions on the quasar continuum source ranging from ~0.45 in strong UV lines to ~0.04 in NaI D. 
+  * 需要非常高的气体柱密度和< 0.4 pc处极强的QSO连续辐射
+  * We propose that the transient lines identify a clumpy outflow from the broad emission-line region that, at its current speed and location, is still gravitationally bound to the central black hole.
+
+* [Testing halo assembly bias using galaxy clusters](https://arxiv.org/abs/1905.07557)
+  * **Relevant**
+  * 用mock catalog重现cluster selection过程，检验之前用redmapper看到的assembly bias观测结果
+  * 2 个mock，一个有AB信号，一个故意抹去了AB信号；同样用 average cluster-centric distance of the member galaxies去区分clusters
+  * We observe that the subsamples split by cluster-centric radii show differences in clustering strength, even in the catalog where the true assembly bias signal was erased
+  * We show that this is a result of contamination of the member galaxy sample from interlopers along the line-of-sight
+  * We figure out the telltale signatures of such contamination, and show that the observational data also shows similar signatures
+
+* [The matter fluctuation amplitude inferred from the weak lensing power spectrum and correlation function in CFHTLenS data](https://arxiv.org/abs/1905.07803)
+  * **Interesting**
+  * 基于同样的CFHTLens数据，用2PCF和功率谱得到的S8限制不一样：We here investigate the origin of this difference, by performing a fair side-by-side comparison of the 2PCF and power spectrum analyses on CFHTLenS data
+  * 主要是小尺度功率谱的问题：We identify excess power in the data on small scales (l > 5000) driving the larger values inferred from the power spectrum.
+
+* [Pseudo Evolution of Galaxy-Cluster Masses and Its Impact on Mass Density Profile](https://arxiv.org/abs/1905.07895)
+  * **Relevant, Important**
+  * we directly measure the amount of pseudo evolution of a SO mass of cluster-sized dark matter halo by the change of reference density from time series of N-body simulation for the first time.
+  * 对z=0处10^14 Msun的cluster：We find that 48±14% of difference in virial SO mass between z=0 and 1 is accounted by the pseudo evolution for clusters
+  * The amount of pseudo evolution of SO mass is found to be correlated with the age and the density environment of galaxy cluster.
+  * We discuss how more concentrated clusters can have a larger clustering amplitude than less concentrated counterparts and argue the presence of rich filamentary structures plays a critical role in determining the linear halo bias of galaxy clusters.
+
+* [Suppressing the thermal SZ-induced variance in CMB-cluster lensing estimators](https://arxiv.org/abs/1905.07943)
+  * 利用CMB lensing的SZ效应测量星系团质量需要考虑cluster自身的tSZ效应的影响
+  * Quadratic lensing estimators use a pair of maps to extract the lensing signal: a large scale gradient map and a small scale lensing map. The SZ bias can be eliminated by using an SZ-free map in the pair
+  * However, while this approach eliminates the bias, the SZ power in small scale lensing map adds extra variance that can become significant for high mass clusters and low noise surveys.
+  * we propose projecting out an SZ template to reduce the SZ variance. Any residual SZ signal after template fitting is uncorrelated with the SZ-free gradient map, and thus does not bias the mass measurements.
