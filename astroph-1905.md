@@ -709,11 +709,11 @@
 * [A deep learning model to emulate simulations of cosmic reionization](https://arxiv.org/abs/1905.06958)
   * CRADLE (Cosmological Reionization And Deep LEarning) is an autoencoder convolutional neural network that uses two-dimensional maps of the star number density and the gas density field at z=6 as inputs and that predicts 3D maps of the times of reionization treion as outputs.
   * We trained the model on a given simulation and tested the predictions on another simulation with the same paramaters but with different initial conditions.
-  * We show that the network predicts large scales almost perfectly but is somewhat less accurate at smaller scales. 
+  * We show that the network predicts large scales almost perfectly but is somewhat less accurate at smaller scales.
 
 * [Probing Galaxy Assembly Bias in BOSS Galaxies Using Void Probabilities](https://arxiv.org/abs/1905.07024)
   * **Important**
-  * We measure the void probability function (VPF) of galaxies in the Baryon Oscillation Spectroscopic Survey (BOSS). 
+  * We measure the void probability function (VPF) of galaxies in the Baryon Oscillation Spectroscopic Survey (BOSS).
   * VPF对极端低密度宇宙结构中的galaxy bias敏感，提供了标准2PCF之外的信息。非常适合测试galaxy assembly bias，看星系的HOD对大尺度结构密度的依赖
   * Find that standard HOD model---one parameterized by halo mass only---fit only to the two-point function, accurately predicts the VPF.
   * Thus galaxy assembly bias is not a strong source of systematic uncertaintiy when modeling the clustering of massive galaxies.
@@ -735,7 +735,7 @@
   * The galaxies with rejuvenation events tend to lie in the so-called `green valley', yet their progenitors were quiescent at z∼2.
 
 * [Global distribution of far-ultraviolet emissions from highly ionized gas in the Milky Way](https://arxiv.org/abs/1905.07823)
-  * 来自FIMS/SPEAR的观测：We present all-sky maps of two major FUV cooling lines, C IV and O VI, of highly ionized gas to investigate the nature of the transition-temperature gas. 
+  * 来自FIMS/SPEAR的观测：We present all-sky maps of two major FUV cooling lines, C IV and O VI, of highly ionized gas to investigate the nature of the transition-temperature gas.
   * The gas temperature was found to be more or less uniform throughout the Galaxy: 20万K左右
   * 这些气体分布的标高在6kpc左右；气体质量在6x10^9 Msun左右; 气体的filling factor在星系内部的37%到星系外部的18%之间变化
   * The spatial distribution of C IV and O VI cannot be explained by a simple supernova remnant model or a three-phase model. 要考虑超新星爆发以及turbulent mixing layers； Thermal conduction front models and high-velocity cloud models are also consistent with our observation.
@@ -751,7 +751,7 @@
 * [On the Emergence of Thousands of Absorption Lines in the Quasar PG1411+442: A Clumpy High-Column Density Outflow from the Broad Emission-Line Region?](https://arxiv.org/abs/1905.08201)
   * We report on the emergence of a remarkable new outflow absorption-line system in the quasar PG1411+442 (redshift ~0.089) detected in the UV and visible
   * This new "transient'' system contains thousands of lines, including FeII and FeII* from excited states up to 3.89 eV, HI* Balmer lines, NaI D 5890,5896, and the first detection of HeI* 5876 in a quasar.
-  * The transient absorber is spatially inhomogeneous and compact, with sizes ~<0.003 pc, based on covering fractions on the quasar continuum source ranging from ~0.45 in strong UV lines to ~0.04 in NaI D. 
+  * The transient absorber is spatially inhomogeneous and compact, with sizes ~<0.003 pc, based on covering fractions on the quasar continuum source ranging from ~0.45 in strong UV lines to ~0.04 in NaI D.
   * 需要非常高的气体柱密度和< 0.4 pc处极强的QSO连续辐射
   * We propose that the transient lines identify a clumpy outflow from the broad emission-line region that, at its current speed and location, is still gravitationally bound to the central black hole.
 
@@ -780,3 +780,53 @@
   * Quadratic lensing estimators use a pair of maps to extract the lensing signal: a large scale gradient map and a small scale lensing map. The SZ bias can be eliminated by using an SZ-free map in the pair
   * However, while this approach eliminates the bias, the SZ power in small scale lensing map adds extra variance that can become significant for high mass clusters and low noise surveys.
   * we propose projecting out an SZ template to reduce the SZ variance. Any residual SZ signal after template fitting is uncorrelated with the SZ-free gradient map, and thus does not bias the mass measurements.
+
+----
+
+### May 21
+
+* [Deep into the structure of the first galaxies: SERRA views](https://arxiv.org/abs/1905.08254)
+  * Follow the interstellar medium (ISM) thermo-chemical non-equilibrium evolution, and perform on-the-fly radiative transfer of the interstellar radiation field (ISRF).
+  * 对模拟结果再处理，估计FIR发射线的强度 [CII], [NII], [OIII]
+  * At z=8, the most massive galaxy, `Freesia', has an age t⋆≃409Myr, stellar mass M⋆≃4.2×10^9M⊙, and a star formation rate SFR≃11.5M⊙yr−1, due to a recent burst
+  * The resulting ionising escape fraction from Freesia is fesc≃2%. While [CII] emission is extended (radius 1.54 kpc), [OIII] is concentrated in Freesia-A (0.85 kpc)
+  * As many high-z galaxies, Freesia lies below the local [CII]-SFR relation. We show that this is the general consequence of a starburst phase
+  * Metallicity has a sub-dominant impact on the amplitude of [CII]-SFR deviations.
+
+* [Galactic r-process abundance feature shaped by radial migration](https://arxiv.org/abs/1905.08275)
+  * We show that radial migration of stars across the Galactic disk plays a crucial role in shaping the r-process abundance feature in the solar vicinity 恒星的径向迁移过程对r过程元素丰度的分布很重要
+  * we highlight the importance of migration from the outer disk where [r-process/Fe] of some old stars is predicted to be enhanced to the level beyond the expectation from the observed Galactic Fe and Eu radial gradient, which results in a large span of [r-process/Fe] among nearby disk stars.
+  * The variation in the [r-process/Fe] ratio seen across the Galactic disk as well as in dwarf galaxies may be an outcome of different stellar initial mass functions which change the occurrence frequency between supernovae leaving behind neutron stars and ones ending with black holes.
+
+* [He abundances in disc galaxies - I. Predictions from cosmological chemodynamical simulations](https://arxiv.org/abs/1905.08254)
+  * We investigate how the stellar and gas-phase He abundances evolve as functions of time within three simulated star-forming disc galaxies
+  * 三个星系的SFH不同，The predicted relations between the He mass fraction, Y, and the metallicity, Z, in the interstellar medium of our simulated disc galaxies depend on the past galaxy star formation history.
+  * we find that dY/dZ is not constant and evolves as a function of time, depending on the specific chemical element that we choose to trace Z 比如用C，N，O。
+  * Interestingly, dY/dXC+N evolves very weakly, being always in the range ≈[6.4,6.6].
+  * Predict negative radial gradients for the gas-phase He abundances in our simulated disc galaxies, due to the galaxy inside-out growth as a function of time, which gives rise to longer chemical enrichment time scales in the outer galaxy regions, where we find lower average values for Y and Z.
+
+* [Formation of disc galaxies around z~2](https://arxiv.org/abs/1905.08432)
+  * The fraction of 2-component (bulge+disc) systems increases from ~46% for z>2 to ~70% for z<2, compensating for the fall in population of pure discs and pure spheroids.
+  * All quiescent outliers of our full sample on the main-sequence, are 2-component systems, belonging to the lower redshift range (z<2).
+  * The doubling of stellar mass of 2-component systems and decrease in their SFR by the same factor, suggests that mechanisms
+  * Interestingly, while there is substantial increase in the size (~2.5 times) and mass (~5 times) of pure discs, from z>2 to z<2, pure spheroids maintain roughly the same values. Additionally, while bulge hosting discs witness an expansion in scale length (~1.3 times), their bulge sizes as well as bulge to total light ratio see no evolution, suggesting that z~2 is pre-dominantly a disc formation period.
+
+* [COSMOGRAIL XVIII: time delays of the quadruply lensed quasar WFI2033-4723](https://arxiv.org/abs/1905.08260)
+  * 透镜QSO的时延测量：14 years of data taken at the 1.2m Leonhard Euler Swiss telescope, 13 years of data from the SMARTS 1.3m telescope at Las Campanas Observatory and a single year of high-cadence and high-precision monitoring at the MPIA 2.2m telescope.
+  * We also explore the prior distributions of microlensing time-delay potentially affecting the cosmological time-delay measurements of WFI2033-4723. There is however no strong indication in our measurements that microlensing time delay is neither present nor absent.
+
+* [2MTF - VII. 2MASS Tully-Fisher survey final data release: distances for 2,062 nearby spiral galaxies](https://arxiv.org/abs/1905.08530)
+  * The final 2MTF catalogue contains 2,062 nearby spiral galaxies in the CMB frame velocity range of 600 km s−1 < cz <10,000 km s−1 with a mean velocity of 4,805 km s−1.
+  * The mean uncertainties of the linear distance measurements are around 22\% in all three infrared bands. 2MTF measurements agree well with the distances from the Cosmicflows-3 compilation, which contains 1,117 common galaxies, including 28 with SNIa distance measurements.
+
+* [Towards determining the neutrino mass hierarchy: weak lensing and galaxy clustering forecasts with baryons and intrinsic alignments](https://arxiv.org/abs/1905.08754)
+  * **Interesting**
+  * 能不能用Stage IV的lensing巡天测量中微子质量和以及区分 mass hierarchies很大程度上依赖于能否足够好的描述小尺度上的重子物理过程以及intrinsic alignment
+  * For a Euclid-like survey, we perform the first combined weak lensing and galaxy clustering Fisher analysis with baryons, intrinsic alignments, and massive neutrinos for both hierarchies. 
+  * For weak lensing, we find that baryons cause severe degradation to forecasts of the neutrino mass sum, Σ, approximately doubling σΣ. We show that including galaxy clustering constraints from Euclid and BOSS, and cosmic microwave background (CMB) Planck priors, can reduce this degradation to σΣ to 9% and 16% for the normal and inverted hierarchies respectively.
+  * The effect of intrinsic alignments on forecasts is shown to be minimal, with σΣ even experiencing mild improvements due to information from the intrinsic alignment signal.
+
+* [The shape of the Photon Transfer Curve of CCD sensors](https://arxiv.org/abs/1905.08677)
+  * The Photon Transfer Curve (PTC) of a CCD depicts the variance of uniform images as a function of their average.
+  * It is now well established that the variance is not proportional to the average, as Poisson statistics would indicate, but rather flattens out at high flux. This `variance deficit', related to the brighter-fatter effect, feeds correlations between nearby pixels, that increase with flux, and decay with distance.
+  * We propose an analytical expression for the PTC shape, and for the dependence of correlations with intensity, and relate both to some more basic quantities related to the electrostatics of the sensor, that are commonly used to correct science images for the brighter-fatter effect.
