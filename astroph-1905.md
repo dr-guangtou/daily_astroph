@@ -822,7 +822,7 @@
 * [Towards determining the neutrino mass hierarchy: weak lensing and galaxy clustering forecasts with baryons and intrinsic alignments](https://arxiv.org/abs/1905.08754)
   * **Interesting**
   * 能不能用Stage IV的lensing巡天测量中微子质量和以及区分 mass hierarchies很大程度上依赖于能否足够好的描述小尺度上的重子物理过程以及intrinsic alignment
-  * For a Euclid-like survey, we perform the first combined weak lensing and galaxy clustering Fisher analysis with baryons, intrinsic alignments, and massive neutrinos for both hierarchies. 
+  * For a Euclid-like survey, we perform the first combined weak lensing and galaxy clustering Fisher analysis with baryons, intrinsic alignments, and massive neutrinos for both hierarchies.
   * For weak lensing, we find that baryons cause severe degradation to forecasts of the neutrino mass sum, Σ, approximately doubling σΣ. We show that including galaxy clustering constraints from Euclid and BOSS, and cosmic microwave background (CMB) Planck priors, can reduce this degradation to σΣ to 9% and 16% for the normal and inverted hierarchies respectively.
   * The effect of intrinsic alignments on forecasts is shown to be minimal, with σΣ even experiencing mild improvements due to information from the intrinsic alignment signal.
 
@@ -830,3 +830,103 @@
   * The Photon Transfer Curve (PTC) of a CCD depicts the variance of uniform images as a function of their average.
   * It is now well established that the variance is not proportional to the average, as Poisson statistics would indicate, but rather flattens out at high flux. This `variance deficit', related to the brighter-fatter effect, feeds correlations between nearby pixels, that increase with flux, and decay with distance.
   * We propose an analytical expression for the PTC shape, and for the dependence of correlations with intensity, and relate both to some more basic quantities related to the electrostatics of the sensor, that are commonly used to correct science images for the brighter-fatter effect.
+
+----
+
+### May 22
+
+* [H0LiCOW XI: Spectroscopic/imaging survey and galaxy-group identification around the strong gravitational lens system WFI2033-4723](https://arxiv.org/abs/1905.08800)
+  * we present a detailed characterization of the environment of the lens system WFI2033-4723 (zsrc=1.662, zlens = 0.6575) 看实现方向有没有任何能影响 time delay测量的
+  * Our new catalog, complemented with literature data, more than doubles the number of known galaxy spectroscopic redshifts in the direct vicinity of the lens, expanding to 116 (64) the number of spectroscopic redshifts for galaxies separated by less than 3 arcmin (2 arcmin) from the lens.
+  * Using the flexion-shift as a measure of the amplitude of the gravitational perturbation, we identify 2 galaxy groups and 3 galaxies that require specific attention in the lens models.
+
+* [Fast and inefficient star formation due to short-lived molecular clouds and rapid feedback](https://arxiv.org/abs/1905.08801)
+  * **Interesting**
+  * The key question is why the timescale for depleting molecular gas through star formation in galaxies (tdep≈2 Gyr) exceeds the dynamical timescale of GMCs by two orders of magnitude.
+  * we report our observation that molecular gas and star formation are spatially de-correlated on GMC scales in the nearby flocculent spiral galaxy NGC300, contrary to their tight correlation on galactic scales
+  * We demonstrate that this de-correlation implies rapid evolutionary cycling between GMCs, star formation, and feedback.
+  * star formation is regulated by efficient stellar feedback, driving GMC dispersal on short timescales (~1.5 Myr) due to radiation and stellar winds, prior to supernova explosions
+  * 由于feedback非常强，GMC的寿命只在一个动力学时标作用，就是10Myr左右; SF效率也只有2-3%
+
+* [ALMA polarimetry measures magnetically aligned dust grains in the torus of NGC 1068](https://arxiv.org/abs/1905.08802)
+  * We have detected the polarization of the torus of NGC 1068 using ALMA Cycle 4 high-angular resolution (0.07", 4.2 pc) polarimetric dust continuum observations at Band 7
+  * We measure an asymmetric variation of the degree of polarization across the torus equatorial axis with a peak polarization of 2.2±0.3%
+  * 用一个 magnetically aligned dust grains assuming a toroidal magnetic field and homogeneous grain alignment 的模型去理解观测
+  * We explain the asymmetric degree of polarization across the equatorial axis of the torus due to 1) an inhomogeneous optical depth, and 2) a variation of the velocity dispersion, i.e. variation of the magnetic field turbulence at sub-pc scales
+
+* [Simulating the interstellar medium and stellar feedback on a moving mesh: Implementation and isolated galaxies](https://arxiv.org/abs/1905.08806)
+  * Stars and MUltiphase Gas in GaLaxiEs -- SMUGGLE model, an explicit and comprehensive stellar feedback model for the moving-mesh code Arepo.
+  * 超分辨率模型模拟多相气体结构，自洽的产生外流：implements crucial aspects of stellar feedback including photoionization, radiation pressure, energy and momentum injection from stellar winds and from supernovae
+  * Stellar feedback regulates star formation to the observed level and naturally captures the establishment of a Kennicutt-Schmidt relation.
+  * Gaseous outflows are generated with average mass loading factors of the order of unity. Strong outflow activity is correlated with peaks in the star formation history of the galaxy with evidence that most of the ejected gas eventually rains down onto the disc in a galactic fountain flow that sustains late-time star formation.
+
+* [Near-Infrared Spectroscopy of Galaxies During Reionization: Measuring CIII in a Galaxy at z=7.5](https://arxiv.org/abs/1905.08812)
+  * **Super nice figures**
+  * Keck/MOSFIRE H-band光谱观测z=7.5的LAE: We tentatively identify this line as [CIII] λ1907, but we are unable to detect CIII] λ1909 owing to sky emission
+  * The ratio of combined CIII]/Lyα is 0.30-0.45, one of the highest values measured for any z>2 galaxy.
+  * Comparing our results to photoionization models, the CIII] equivalent width (WCIII]=16.23±2.32\AA), low SiIII]/CIII] ratio, and high implied [OIII] equivalent width (from the Spitzer/IRAC [3.6]−[4.5]≃0.8 mag color) require sub-Solar metallicities (Z≃0.1−0.2Z⊙) and a high ionization parameter
+  * 更倾向于那些能产生更多高电离辐射的模型：These results favor models that produce higher ionization, such as the BPASS models for the photospheres of high-mass stars, and that include both binary stellar populations and/or an IMF that extends to 300 M⊙.
+  * we cannot rule out ionization from a combination of an AGN and young stars.
+
+* [Confirming Herschel candidate protoclusters from ALMA/VLA CO observations](https://arxiv.org/abs/1905.08813)
+  * Herschel发现的blended DSFG系统：Using ALMA and VLA, we have targeted three of these systems to confirm whether the multiple 870μm continuum sources lie at the same redshift
+  * 三个系统的星系都是有物理联系的，而且都位于某种overdensity区域：Therefore, we report the discovery of two new gas-rich dusty protocluster cores (HELAISS02, z=2.171±0.004; HXMM20, z=2.602±0.002). The third target is located in the well known COSMOS overdensity at z=2.51
+  * From the gas, dust, and stellar properties of the two new protocluster cores, we find very large molecular gas fractions yet low stellar masses, pushing the sources above the main sequence, while not enhancing their star formation efficiency.
+
+* [Spatially-resolved stellar populations and kinematics with KCWI: probing the assembly history of the massive early-type galaxy NGC 1407](https://arxiv.org/abs/1905.08818)
+  * **Important, Relevant**
+  * We obtained high signal-to-noise integral-field-spectra for a central and an outer (around one effective radius towards the south-east direction) pointing with integration times of just 600s and 2400s 确认了MUSE看到的KDC
+  * Our outer pointing confirms the near-uniform old ages and the presence of a steep metallicity gradient, but with no evidence for anomalously high metallicity values at large galactocentric radii.
+  * We find a rising outer velocity dispersion profile and high values of the 4th-order kinematic moment -- an indicator of possible anisotropy.
+  * With short exposures, we have been able to derive robust stellar kinematics and stellar populations in NGC 1407 to about 1 effective radius
+
+* [A definitive merger-AGN connection at z~0 with CFIS: mergers have an excess of AGN and AGN hosts are more frequently disturbed](https://arxiv.org/abs/1905.08830)
+  * 并合可以引发AGN活动，但是不清楚是不是主要机制：quantifying the frequency of morphological disturbances in low surface brightness r-band images from the Canada France Imaging Survey (CFIS)
+  * Only ~30 per cent of optical AGN host galaxies are morphologically disturbed, indicating that recent interactions are not the dominant trigger.
+  * 但MIR AGN中有相互作用痕迹的比例更高：Almost 60 per cent of mid-IR AGN hosts show signs of visual disturbance, indicating that interactions play a more significant role in nuclear feeding.
+
+* [Globular Cluster Formation from Colliding Substructure](https://arxiv.org/abs/1905.08951)
+  * **Interesting**
+  * Formation of Globular Clusters (GCs) is triggered by high-speed collisions between infalling atomic-cooling subhalos during the assembly of the main galaxy host, a special dynamical mode of star formation that operates at high gas pressures and is intimately tied to LCDM hierarchical galaxy assembly.
+  * 两个相互碰撞的subhalo也会产生如子弹星系团那样的恒星和DM分离的效果：We find that the resulting shock-compressed layer cools on a timescale that is tipically shorter than the crossing time, first by atomic line emission and then via fine-structure metal-line emission, and is subject to gravitational instability and fragmentation.
+  * 可以解释 GC质量和halo质量的相关；以及GC相比于星系更延展的空间分布
+    * This is because, in an inelastic collision, the splash remnant will lose orbital energy and fall deeper into the Galactic potential rather than sharing the orbits of the progenitor subhalos
+
+* [GASP. XVI. Does cosmic web enhancement turn on star formation in galaxies?](https://arxiv.org/abs/1905.08971)
+  * Provide the first characterisation of the spatially resolved properties of galaxies embedded in filaments in the local Universe.
+  * The four galaxies we focus on show peculiar ionised gas distributions: Halpha clouds have been observed beyond four times the effective radius.
+  * The gas kinematics, metallicity map and the ratios of emission line fluxes confirm that they do belong to the galaxy gas disk
+  * The clouds are powered by star formation, and are characterised by intermediate values of dust absorption.
+  * We hypothesise a scenario in which the observed features are due to "Cosmic Web Enhancement": we are most likely witnessing galaxies passing through or flowing within filaments that assist the gas cooling and increase the extent of the star formation in the densest regions in the circumgalactic gas.
+
+* [GASP XIX: AGN and their outflows at the center of jellyfish galaxies](https://arxiv.org/abs/1905.08972)
+  * Our comparison of several emission line ratios with both AGN and shock models show that photoionization by the AGN is the dominant ionization mechanism.
+  * The presence of nuclear iron coronal lines and extended (>10 kpc) emission line regions ionized by the AGN in some of these galaxies.
+
+* [GASP XVIII: Star formation quenching due to AGN feedback in the central region of a jellyfish galaxy](https://arxiv.org/abs/1905.08973)
+  * We report evidence for star formation quenching in the central 8.6 kpc region of the jellyfish galaxy JO201 which hosts an active galactic nucleus
+  * The ultraviolet imaging data of the galaxy disk reveal a region with reduced flux around the center of the galaxy and a horse shoe shaped region with enhanced flux in the outer disk.
+  * The CO J2−1 map of the galaxy disk reveals a cavity in the central region.
+
+* [Morphological diversity of spiral galaxies originating in the cold gas inflow from cosmic webs](https://arxiv.org/abs/1905.08993)
+  * In the case of Milky Way, the previous study suggested that the cold accretion created its thick disc in early times and the cooling flow formed the thin disc in later epochs.
+  * Here we report that extending this idea to galaxies with various masses and associating the hybrid accretion with the formation of bulges reproduces the observed mass-dependent structures of spiral galaxies: namely, more massive galaxies have lower thick disc mass fractions and higher bulge mass fractions
+
+* [Comparison of Observed Galaxy Properties with Semianalytic Model Predictions using Machine Learning](https://arxiv.org/abs/1905.08996)
+  * **Interesting**
+  * We use a lightcone of semianalytic galaxies tuned to match CANDELS observations from Lu et al. (2014) to train a set of neural networks on a set of galaxy properties (stellar mass, metallicity, and average star formation rate) using the truth values from the semianalytic catalogs.
+  * On semianalytic galaxies alone, we are nearly competitive with template-fitting methods
+  * Our results show that stellar mass, metallicity, and star formation rate can in principle be measured with neural networks at a competitive degree of accuracy and precision relative to physically motivated template-fitting methods if an appropriate training set can be obtained.
+
+* [New insights on the central stellar population and gas outflow in NGC 1068 from YJH spectroscopy with SPHERE/VLT](https://arxiv.org/abs/1905.09208)
+  * Dust and stars are the main contributors to the continuum, but scattered light from the central engine is also detected in the very central region.
+  * The dust emission is well modeled by a 800K blackbody, is spatially unresolved and only located in the very central region.
+  * Finally, the emission lines exhibit a significant doppler shift, consistent with a radial outflow from the nucleus in a biconical structure. The [Fe II] behaviour strongly differs from other lines, suggesting that it arises from a different structure.
+
+* [Revealing the galaxy-halo connection in IllustrisTNG](https://arxiv.org/abs/1905.08799)
+  * **Relevant, Important**
+  * 对TNG100和TNG300的星系进行HOD模型分析：we find that haloes located in dense environments, with low concentrations, later formation times, and high angular momenta are richest in their satellite population
+  * At low mass, highly-concentrated haloes and those located in overdense regions are more likely to contain a central galaxy.
+  * The degree of environmental dependence is sensitive to the definition adopted for the physical boundary of the host halo.
+  * HODs predicted by halo mass and present-day concentration capture the qualitative dependence on the remaining halo properties
+  * At fixed halo mass, concentration is a strong predictor of the stellar mass of the central galaxy, which may play a defining role in the fate of the satellite population.
