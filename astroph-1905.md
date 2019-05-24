@@ -930,3 +930,65 @@
   * The degree of environmental dependence is sensitive to the definition adopted for the physical boundary of the host halo.
   * HODs predicted by halo mass and present-day concentration capture the qualitative dependence on the remaining halo properties
   * At fixed halo mass, concentration is a strong predictor of the stellar mass of the central galaxy, which may play a defining role in the fate of the satellite population.
+
+----
+
+### May 23
+
+* [AGN-Driven Outflows in Dwarf Galaxies](https://arxiv.org/abs/1905.09287)
+  * Keck观测：From a parent sample of 50 dwarf galaxies with and without AGN, we find spatially extended (up to ∼1.5kpc), high velocity ionized gas outflows (W80 up to ∼2000kms−1) in 13 dwarf galaxies
+  * Nine of the galaxies with outflows have optical line ratios indicative of AGN, and six of these have outflow components with optical line ratios also consistent with AGN ionization.
+  * 外流的速度都超过了暗物质晕的逃逸速度:our measurements constitute the first direct detection and measurement of AGN impact on the large scale kinematics and gas content in dwarf galaxies.
+   
+* [Stellar Properties of z ~ 8 Galaxies in the Reionization Lensing Cluster Survey](https://arxiv.org/abs/1905.09295)
+  * IRAC imaging in the spectral energy distribution fitting of the seven highest-redshift galaxy candidates selected from the \emph{Hubble Space Telescope} imaging of the Reionization Lensing Cluster Survey (RELICS) 加入了Spitzer测光后，大部分依然适合用z=7-8的红移解释
+  * Abell1763-1434, which shows evidence of an evolved stellar population at z∼8, implying its first generation of star formation occurred just <100 Myr after the Big Bang.
+  * SPT0615-JD, a spatially resolved z∼10 candidate, remains at its high redshift, supported by deep \textit{Spitzer}/IRAC data, and also shows some evidence for an evolved stellar population. 
+
+* [Establishing a New Technique for Discovering Large-Scale Structure Using the ORELSE Survey](https://arxiv.org/abs/1905.09298)
+  * **Interesting**
+  * We use its rich data in combination with a powerful new technique, Voronoi tessellation Monte-Carlo (VMC) mapping, to search for serendipitous galaxy overdensities at 0.55 < z < 1.37 within 15 ORELSE fields, a combined spectroscopic footprint of ∼1.4 square degrees.
+  * Our overdensity search yielded 402 new overdensity candidates with precisely measured redshifts and an unprecedented sensitivity down to low total overdensity masses
+  * we estimated the purity and completeness of our overdensity catalog as a function of redshift, total mass, and spectroscopic redshift fraction, finding impressive levels of both 0.92/0.83 and 0.60/0.49 for purity/completeness at z=0.8 and z=1.2
+  * Other methods (e.g., red-sequence overdensities and hot medium reliant detections) begin to fail at similar redshifts, which attests to VMC mapping's potential to be a powerful tool for current and future wide-field galaxy evolution surveys at z∼1 and beyond.
+
+* [Constraining Lyman-alpha spatial offsets at 3<z<5.5 from VANDELS slit spectroscopy](https://arxiv.org/abs/1905.09467)
+  * Constrain the distribution of spatially offset Lyman-alpha emission (Lyα) relative to rest-frame ultraviolet emission in ∼300 high redshift (3< z < 5.5) Lyman-break galaxies (LBGs) exhibiting Lyα emission from VANDELS
+  * Because slit spectroscopy compresses two-dimensional spatial information into one spatial dimension, we use Bayesian inference to recover the underlying Lyα spatial offset distribution.
+  * 在样本的红移范围里，Lyapha平均偏离UV中心1.7 kpc; 并且平均偏移随红移下降
+  * ecause Lyα spatial offsets can cause slit-losses, the decrease in σr,Lyα with redshift can partially explain the increase in the fraction of Lyα emitters observed in the literature over this same interval
+  * if spatial offsets increase with the increasing opacity of the IGM, slit losses may explain some of the drop in Lyα transmission observed at z>6 需要空间分辨信息
+
+* [WALLABY Early Science - III. An HI Study of the Spiral Galaxy NGC 1566](https://arxiv.org/abs/1905.09491)
+  * We measure an integrated HI flux density of 180.2 Jy km s−1 emanating from this galaxy, which translates to an HI mass of 1.94×10^10M
+  * NGC 1566 has an asymmetric and mildly warped HI disc. The HI-to-stellar mass fraction of NGC 1566 is 0.29, which is high in comparison with galaxies that have the same stellar mass
+  * We also derive the rotation curve of this galaxy to a radius of 50 kpc and fit different mass models to it. The NFW, Burkert and pseudo-isothermal dark matter halo profiles fit the observed rotation curve reasonably well and recover dark matter fractions of 0.62, 0.58 and 0.66
+  * Ram pressure interactions with the IGM can affect the HI disc of NGC 1566 and is possibly the reason for the asymmetries seen in the HI morphology of NGC 1566.
+
+* [Reconstructing Probability Distributions with Gaussian Processes](https://arxiv.org/abs/1905.09299)
+  * **Useful**
+  * Here we present a method for reconstructing the log-probability distributions of completed experiments from an existing MCMC chain (or any set of posterior samples). The reconstruction is performed using Gaussian process regression for interpolating the log-probability.
+  * This allows for easy resampling, importance sampling, marginalization, testing different samplers, investigating chain convergence, and other operations.
+
+* [H0LiCOW XII. Lens mass model of WFI2033-4723 and blind measurement of its time-delay distance and H0](https://arxiv.org/abs/1905.09338)
+  * Lens mass model of the quadruply-imaged gravitationally lensed quasar WFI2033-4723, and perform a blind cosmographical analysis based on this system.
+  * We account for all known sources of systematics, including the influence of nearby perturbers and complex line-of-sight structure, as well as the parametrization of the light and mass profiles of the lensing galaxy
+  * 在6.6%的精度上，得到H0=71.6 km/s/Mpc assuming a flat ΛCDM cosmology with a uniform prior on Ωm in the range [0.05, 0.5].
+
+* [Gaussbock: Fast parallel-iterative cosmological parameter estimation with Bayesian nonparametrics](https://arxiv.org/abs/1905.09800)
+  * **Useful**
+  * Gaussbock, a new embarrassingly parallel iterative algorithm for cosmological parameter estimation designed for an era of cheap parallel computing resources
+  * Gaussbock uses Bayesian nonparametrics and truncated importance sampling to accurately draw samples from posterior distributions with an orders-of-magnitude speed-up in wall time over alternative methods.
+  * 针对现在模型高维度空间引起的计算能力要求和时间消耗
+
+* [MIFAL: fully automated Multiple-Image Finder ALgorithm for strong-lens modelling -- proof of concept](https://arxiv.org/abs/1905.09802)
+  * Combining (a) an arc-finding (or source extracting) program, (b) photometric redshift measurements, and (c) a preliminary light-traces-mass lens model, multiple-image systems can be identified in a fully automated (`blind') manner.
+
+* [HST unveils a compact mildly relativistic Broad Line Region in the candidate true type 2 NGC 3147](https://arxiv.org/abs/1905.09627)
+  * **Interesting**
+  * NGC 3147 has been considered the best case of a true type 2 AGN: an unobscured AGN, based on the unabsorbed compact X-ray continuum, which lacks a broad line region (BLR).
+  * 但 3147 光度很低，所以预期的BLR也很小，线宽很高，在很亮的星系背景上不容易被看到
+  * Narrow (0.1"x0.1") slit HST spectroscopy allowed us to exclude most of the host galaxy light, and revealed an Hα line with an extremely broad base (FWZI∼27000 km s−1)
+  * The line profile shows a steep cutoff blue wing and an extended red wing, which match the signature of a mildly relativistic thin accretion disk line profile.
+  * 可以用一个几乎正向 (i~23 deg) 的薄盘来解释，内半径是 77+/-15 r_g；和 R_BLR = L^0.5的预测符合
+  * This result questions the very existence of true type 2 AGN.
