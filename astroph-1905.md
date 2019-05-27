@@ -939,11 +939,11 @@
   * Keck观测：From a parent sample of 50 dwarf galaxies with and without AGN, we find spatially extended (up to ∼1.5kpc), high velocity ionized gas outflows (W80 up to ∼2000kms−1) in 13 dwarf galaxies
   * Nine of the galaxies with outflows have optical line ratios indicative of AGN, and six of these have outflow components with optical line ratios also consistent with AGN ionization.
   * 外流的速度都超过了暗物质晕的逃逸速度:our measurements constitute the first direct detection and measurement of AGN impact on the large scale kinematics and gas content in dwarf galaxies.
-   
+
 * [Stellar Properties of z ~ 8 Galaxies in the Reionization Lensing Cluster Survey](https://arxiv.org/abs/1905.09295)
   * IRAC imaging in the spectral energy distribution fitting of the seven highest-redshift galaxy candidates selected from the \emph{Hubble Space Telescope} imaging of the Reionization Lensing Cluster Survey (RELICS) 加入了Spitzer测光后，大部分依然适合用z=7-8的红移解释
   * Abell1763-1434, which shows evidence of an evolved stellar population at z∼8, implying its first generation of star formation occurred just <100 Myr after the Big Bang.
-  * SPT0615-JD, a spatially resolved z∼10 candidate, remains at its high redshift, supported by deep \textit{Spitzer}/IRAC data, and also shows some evidence for an evolved stellar population. 
+  * SPT0615-JD, a spatially resolved z∼10 candidate, remains at its high redshift, supported by deep \textit{Spitzer}/IRAC data, and also shows some evidence for an evolved stellar population.
 
 * [Establishing a New Technique for Discovering Large-Scale Structure Using the ORELSE Survey](https://arxiv.org/abs/1905.09298)
   * **Interesting**
@@ -992,3 +992,58 @@
   * The line profile shows a steep cutoff blue wing and an extended red wing, which match the signature of a mildly relativistic thin accretion disk line profile.
   * 可以用一个几乎正向 (i~23 deg) 的薄盘来解释，内半径是 77+/-15 r_g；和 R_BLR = L^0.5的预测符合
   * This result questions the very existence of true type 2 AGN.
+
+----
+
+### May 26
+
+* [High-Resolution Radiative Transfer Modelling of M33](https://arxiv.org/abs/1905.09838)
+  * We have characterised the spectral energy distribution (SED) of M33 from UV to sub-mm wavelengths, at a spatial scale of 100 pc.
+  * In terms of stellar attenuation by dust, we find a reasonably strong, broad UV bump, as well as significant systematic differences in the amount of dust attenuation when compared to standard SED modelling.
+  * We also find discrepancies in the residuals of the spiral arms versus the diffuse interstellar medium (ISM), indicating a difference in properties between these two regimes.
+  * The dust emission is dominated by heating due to the young stellar populations at all wavelengths
+
+* [A fundamental test for stellar feedback recipes in galaxy simulations](https://arxiv.org/abs/1905.09839)
+  * 在小于10 pc的分辨率上比较观测和模拟：Our simulation shows excellent agreement with almost all kpc-scale and larger observables, including total star formation rates, radial profiles of CO, HI, and star formation through the galactic disc, mass ratios of the ISM components, both whole-galaxy and resolved Kennicutt-Schmidt relations, and giant molecular cloud properties.
+  * Our simulation does not reproduce the observed de-correlation between tracers of gas and star formation on < 100 pc scales 可能是因为在超新星爆发前的反馈作用不够强: which does not disperse the surrounding gas completely, leaving star formation tracer emission too strongly associated with molecular gas tracer emission
+  * 在分子云团尺度上比较气体和恒星形成的分布可能有助于检验stellar feedback模型
+
+* [The formation of low metallicity globular clusters in dwarf galaxy mergers](https://arxiv.org/abs/1905.09840)
+  * **Interesting**
+  * The formation of the three most massive clusters (M∗≳10^5M⊙) in the simulation matches the high-mass end of a universal cluster mass function with a power-law slope of α∼−1.7.
+  * 星团的形成时标很短，处于embedded merger phase的时候SFR密度和内部热压力很高
+  * The formation process is terminated by rapid gas expulsion driven by the first generation of supernovae, after which the cluster centers relax and both their structure and kinematics become indistinguishable from observed local globular clusters.
+
+* [CHORUS. III. Photometric and Spectroscopic Properties of Lyα Blobs at z=4.9−7.0](https://arxiv.org/abs/1905.09841)
+  * HSC discovery of two Lyα blobs (LABs), dubbed z70-1 and z49-1 at z=6.965 and z=4.888
+  * The z70-1 LAB shows the extended Lyα emission with a scale length of 1.4±0.2 kpc, about three times larger than the UV continuum emission, making z70-1 the most distant LAB identified to date.
+  * LAB里面AGN的迹象很少：All of the 7 LABs, except z49-1, exhibit no AGN signatures such as X-ray emission, {\sc Nv}λ1240 emission, or Lyα line broadening, while z49-1 has a strong {\sc Civ}λ1548 emission line indicating an AGN
+  * The Lyα scale lengths of the core (star-forming region) and the halo components are rc=0.6−1.2 kpc and rh=2.0−13.8 kpc, respectively.
+  * r_h和Lya光度的关系与经验关系预期的接近，说明这些LAB可能代表的就是高红移SFR很高的那些“普通”星系
+
+* [Resolved Molecular Gas and Star Formation Properties of the Strongly Lensed z=2.26 Galaxy SDSS J0901+1814](https://arxiv.org/abs/1905.09845)
+  * 1" resolution (~2 kpc in the source plane) observations of the CO(1-0), CO(3-2), Halpha, and [N II] lines in the strongly-lensed z=2.26 star-forming galaxy SDSS J0901+1814
+  * SDSS J0901+1814 is a nearly face-on (i~30 degrees) massive disk with r_{1/2}>~4 kpc for its molecular gas. SFR和恒星质量符合main sequence
+  * SDSS J0901+1814 is offset from "normal" star-forming galaxies to higher star formation efficiencies independent of assumptions for the CO-to-H_2 conversion factor.
+
+* [A novel approach to study the variability of NGC 5548](https://arxiv.org/abs/1905.10128)
+  * We use a multifractality analysis technique called Multifractal Detrended Moving Average (MFDMA) analysis.
+  * We detect multifractal (nonlinear) signatures in the full monitoring and densely sampled period of the Hβ line and 5100 {\AA} continuum light curves of NGC 5548, possibly indicating the presence of complex and nonlinear interaction in the 5100 {\AA} continuum and Hβ emission line regions.
+  * the degree of multifractality of Hβ line is found to be about twice that of the 5100 {\AA} continuum.
+
+* [Stellar systems following the R1/m luminosity law. III. Photometric, intrinsic and dynamical properties for all Sérsic indices](https://arxiv.org/abs/1905.10359)
+  * **Useful, Important**
+  * In this study, we use a combination of numerical and analytical techniques to investigate the Sersic model over the entire range of Sersic parameters, focusing on the small m regime
+  * For all values m<1, the model is characterised by a finite central luminosity density, and for m<12, even a central depression in the luminosity density profile.
+  * 对运动学也有影响：we show that all Sersic models with m⩾12 can be supported by an isotropic velocity dispersion tensor, and that these isotropic models are stable to both radial and non-radial perturbations. The models with m<12, on the other hand, cannot be supported by an isotropic velocity dispersion tensor.
+
+* [Multiwavelength cluster mass estimates and machine learning](https://arxiv.org/abs/1905.09920)
+  * **Relevant**
+  * Here, machine learning is used in a simulation to instead directly combine five multiwavelength measurements to obtain cluster masses.
+  * As machine learning relies upon the accuracy of the training set in capturing the observables, their correlations, and the observational selection function, and the training set originates from simulations, a few ways of testing whether a simulation and observations are consistent are explored as well
+
+* [A Massive Cluster at z = 0.288 Caught in the Process of Formation: The Case of Abell 959](https://arxiv.org/abs/1905.10156)
+  * Using LOFAR Two-meter Sky Survey data, we present new detections of both a radio halo and a likely radio relic in A959
+  * Using a sample of clusters with giant radio haloes from the literature (80 in total), we show that the radio halo in A959 lies reasonably well on the scaling relations between the thermal and non-thermal power of the system.
+  * Steep-spectrum haloes tend to reside in clusters with high X-ray luminosities relative to those expected from cluster LM scaling relations, indicating that such systems may preferentially lie at an earlier stage of the merger, consistent with the theory that some steep-spectrum haloes result from low-turbulence mergers.
+  * Halo systems containing radio relics tend to lie at lower X-ray luminosities, relative to those expected from cluster LM scaling relations, for a given halo radio power than those without relics, suggesting that the presence of relics indicates a later stage of the merger, in line with simulations.
