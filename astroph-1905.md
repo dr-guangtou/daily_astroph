@@ -1047,3 +1047,85 @@
   * Using a sample of clusters with giant radio haloes from the literature (80 in total), we show that the radio halo in A959 lies reasonably well on the scaling relations between the thermal and non-thermal power of the system.
   * Steep-spectrum haloes tend to reside in clusters with high X-ray luminosities relative to those expected from cluster LM scaling relations, indicating that such systems may preferentially lie at an earlier stage of the merger, consistent with the theory that some steep-spectrum haloes result from low-turbulence mergers.
   * Halo systems containing radio relics tend to lie at lower X-ray luminosities, relative to those expected from cluster LM scaling relations, for a given halo radio power than those without relics, suggesting that the presence of relics indicates a later stage of the merger, in line with simulations.
+
+----
+
+### May 27
+
+* [Spatially Resolved Stellar Kinematics of the Ultra-Diffuse Galaxy Dragonfly 44: II. Constraints on Fuzzy Dark Matter](https://arxiv.org/abs/1905.10373)
+  * **Interesting**
+  * Following up on new integral field unit spectroscopic observations and dynamics modeling of the DM-dominated ultra-diffuse galaxy Dragonfly 44 in the outskirts of the Coma Cluster, we present models of fuzzy DM constrained by the stellar dynamics of this galaxy.
+  * We infer a scalar field mass of ∼3×10^−22 eV, consistent with other constraints from galaxy dynamics but in tension with constraints from Lyα forest power spectrum modeling.
+  * 暂时无法去分普通CDM和FuzzyDM的区别：the inferred properties of the fuzzy DM halo satisfy a number of predictions for halos in a fuzzy DM cosmology.
+
+* [Optically variable active galactic nuclei in the 3 yr VST survey of the COSMOS field](https://arxiv.org/abs/1905.10374)
+  * Here we present the results of our r-band analysis of a sample of 299 optically variable AGN candidates in the VST survey of the COSMOS field, counting 54 visits spread over three observing seasons spanning > 3 yr. 和COSMOS的多波段数据校验光变选择的有效性
+  * We demonstrate that the method allows the selection of high-purity (> 86%) samples. We take advantage of the longer observing baseline to achieve great improvement in the completeness of our sample with respect to X-ray and spectroscopically confirmed samples of AGNs (59%, vs. ~15% in our previous work) 样本纯度高，完备性和监测数据的时间覆盖有关
+
+* [Bringing manifold learning and dimensionality reduction to SED fitters](https://arxiv.org/abs/1905.10379)
+  * **Interesting, Useful**
+  * We use self organizing maps (SOMs) to visualize a spectral energy distribution (SED) model library in the observed photometry space.
+    * The resulting visual maps allow for a better understanding of how the observed data maps to physical properties and to better optimize the model libraries for a given set of observational data.
+  * The SOMs are used to estimate the physical parameters of 14,000 z~1 galaxies in the COSMOS field and found to be in agreement with those measured with SED fitting.
+  * 但是在获得PDF的速度上比SED拟合方法要快的多
+
+* [The Close AGN Reference Survey (CARS). Discovery of a global [CII] 158 μm line excess in AGN HE1353-1917](https://arxiv.org/abs/1905.10383)
+  * Discovery of the highest global [CII] excess with respect to the FIR luminosity in the nearby AGN host galaxy HE1353-1917.
+  * 这个源的特殊之处在于：AGN ionization cone and radio jet directly intercept the cold galactic disk. 窄线区里“镶嵌”着一个多相喷流
+  * A global [CII] excess in AGN host galaxies could be a direct signature of a multiphase AGN-driven outflow with a high mass-loading factor.
+
+* [The Close AGN Reference Survey (CARS). A massive multi-phase outflow impacting the edge-on galaxy HE1353-1917](https://arxiv.org/abs/1905.10385)
+  * We detect a biconical extended narrow-line region (ENLR) ionized by the luminous AGN oriented nearly parallel to the galaxy disc, extending out to at least 25kpc.
+  * 盘外的气体可能主要还是来自SF过程，而不是AGN的
+  * A fast multi-phase AGN-driven outflow with speeds up to 1000km/s is detected close to the nucleus at 1kpc distance.
+  * 因为AGN引起的SF负反馈证据不强，也仅限于中心1 kpc: 但是 the outflow has the potential to greatly impact the future evolution of the galaxy disc due to its geometrical orientation.
+  * 即便是在射点宁静的类星体中，低能量的射点喷流也可能驱动告诉的多相星系尺度外流
+
+* [Jet-driven galaxy-scale gas outflows in the hyper-luminous quasar 3C273](https://arxiv.org/abs/1905.10387)
+  * MUSE+ALMA观测Hyper luminous QSO原型 3C273的ENLR以及核心周围的分子气体
+  * The ENLR size of 12.1±0.2kpc implies a smooth continuation of the size-luminosity relation out to large radii or a much larger break radius as previously proposed.
+  * The kinematically disturbed ionized gas with line splits reaching 1000km/s out to 6.1±1.5kpc is aligned along the jet axis.
+  * The extreme line broadening on kpc scales is caused by spatial and spectral blending of many distinct gas clouds separated on sub-arcsecond scales with different line-of-sight velocities.
+  * 可能的解释：a pressurized expanding hot gas cocoon created by the radio jet is impacting on an inclined gas disk leading to transverse and/or backflow motion with respect to our line-of-sight.
+  * Using 3C273 as a template for observations of high-redshift hyper-luminous AGN reveals that large-scale ENLRs and kpc scale outflows may often be missed due to the brightness of the nuclei
+
+* [An extended catalog of galaxy-galaxy strong gravitational lenses discovered in DES using convolutional neural networks](https://arxiv.org/abs/1905.10522)
+  * We train two neural networks using images of simulated lenses, then use them to score postage stamp images of 7.9 million sources from the Dark Energy Survey chosen to have plausible lens colors based on simulations.
+  * After including 86 candidates discovered in earlier searches using neural networks and 26 candidates discovered through visual inspection of blue-near-red objects in the DES catalog, we present a catalog of 511 lens candidates.
+
+* [Connecting galaxy structure and star formation: the role of environment in formation of S0 galaxies](https://arxiv.org/abs/1905.10739)
+  * We find that the fraction of pseudobulge hosting disc galaxies decreases with increase in density.
+  * The classical bulge hosting spirals and S0 galaxies follow a similar trend in less dense environments but towards higher densities, we observe an increase in the fraction of classical bulge host S0 galaxies at the expense of spirals
+  * We surmise that the existence of more classical bulge hosting spirals galaxies and more efficient quenching leads to the observed increased occurrence of S0 galaxies in high density environments.
+
+* [The complex case of MACSJ0717.5+3745 and its extended filament: intra-cluster light, galaxy luminosity function, and galaxy orientations](https://arxiv.org/abs/1905.10816)
+  * **Relevant, Interesting**
+  * By analyzing the distribution and fractions of intra-cluster light (ICL) in the core of this cluster and by trying to detect intra-filament light (IFL) in the filament.
+  * 看星系团核心区域和纤维结构里星系的光度函数；看先委区域里星系的指向: 光度函数有差别，但是星系在纤维结构内的指向没有明显的和纤维方向重合的证据：the GLFs in the filament are notably different from those of field galaxies, with a flatter faint end slope and an excess of bright galaxies. We do not detect a significant alignment of the galaxies in the filament region that was analyzed.
+  * The spatial distribution of the ICL is determined with our new wavelet-based software, DAWIS.
+  * We detect a large amount of ICL in the cluster core, but no IFL in the cosmic filament. The fraction of ICL in the core peaks in the F606W filter before decreasing with wavelength.
+
+* [The morphological transformation and the quenching of galaxies](https://arxiv.org/abs/1905.11008)
+  * Both early type galaxies and late type galaxies are found to have bimodal distributions on the star formation rate versus stellar mass diagram 按这两个标准分成四组
+  * We found that the morphological transformation is mainly regulated by the stellar mass.
+
+* [Complex distribution and velocity field of molecular gas in NGC 1316 as revealed by Morita Array of ALMA](https://arxiv.org/abs/1905.11085)
+  * We reveal the detailed distribution of the molecular gas in the central region for the first time: a shell structure in the northwest, a barely resolved blob in the southeast of the center and some clumps between them.
+  * 中心有大致5x10^8 Msu的分子气体；速度场显示了很大的扰动迹象，可能说明了分子气体来自外部，并正向一个盘上面settle
+  * To explain these ratios, additional processes should be taken into accounts such as an effective dust formation and conversion from atomic to molecular gas during the interaction.
+
+* [Molecular Gas Density Measured with H2CO and CS toward a Spiral Arm of M51](https://arxiv.org/abs/1905.11087)
+  * IRAM+NRO观测：Here we present sensitive measurements of the H2CO (101−000) line at 72 GHz toward giant molecular clouds (GMCs) in the spiral arm of M51
+  * The derived H2 density indicates that the emission of H2CO and CS is not localized to star-forming cores, but is likely distributed over an entire region of GMCs.
+  * Contributions from the widespread less-dense components should be taken into account for interpretation of these molecular emission observed with a GMC-scale resolution. 
+
+* [The molecular gas content of shell galaxies](https://arxiv.org/abs/1905.11356)
+  * **Interesting**
+  * 看有没有可能通过分子气体观测得到shell的LOS速度: Some of the gas, the most diffuse and dissipative, is expected to be driven quickly to the center if it is travelling on nearly radial orbits. Molecular gas, distributed in dense clumps, is less dissipative, and may be associated to shells, and determine their velocity
+  * IRAM观测6个shell星系：Six of them are detected in their galaxy center, and in three galaxies, we clearly detect molecular gas in shells.
+  * For two of them (Arp~10 and NGC~3656), the shells are characteristic of an oblate system. Their velocity is nearly systemic, and we conclude that these shells are phase-wrapped. 
+  * For the third one (NGC~3934) the shells appear to participate to the rotation
+
+* [Deconfusing intensity maps with neural networks](https://arxiv.org/abs/1905.11376)
+  * First application of convolutional neural network (CNN) to directly determine the underlying luminosity function of a LIM, including a treatment of extragalactic foregrounds and instrumental noise.
+  * We find that, in the ideal case where the mock data capture all of the features of the real data, the CNN performs comparably to or better than conventional analyses. However, the network's accuracy degrades considerably when tested on signals and systematics outside of those it was trained on.
