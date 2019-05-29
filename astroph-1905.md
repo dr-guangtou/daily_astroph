@@ -1117,15 +1117,56 @@
 * [Molecular Gas Density Measured with H2CO and CS toward a Spiral Arm of M51](https://arxiv.org/abs/1905.11087)
   * IRAM+NRO观测：Here we present sensitive measurements of the H2CO (101−000) line at 72 GHz toward giant molecular clouds (GMCs) in the spiral arm of M51
   * The derived H2 density indicates that the emission of H2CO and CS is not localized to star-forming cores, but is likely distributed over an entire region of GMCs.
-  * Contributions from the widespread less-dense components should be taken into account for interpretation of these molecular emission observed with a GMC-scale resolution. 
+  * Contributions from the widespread less-dense components should be taken into account for interpretation of these molecular emission observed with a GMC-scale resolution.
 
 * [The molecular gas content of shell galaxies](https://arxiv.org/abs/1905.11356)
   * **Interesting**
   * 看有没有可能通过分子气体观测得到shell的LOS速度: Some of the gas, the most diffuse and dissipative, is expected to be driven quickly to the center if it is travelling on nearly radial orbits. Molecular gas, distributed in dense clumps, is less dissipative, and may be associated to shells, and determine their velocity
   * IRAM观测6个shell星系：Six of them are detected in their galaxy center, and in three galaxies, we clearly detect molecular gas in shells.
-  * For two of them (Arp~10 and NGC~3656), the shells are characteristic of an oblate system. Their velocity is nearly systemic, and we conclude that these shells are phase-wrapped. 
+  * For two of them (Arp~10 and NGC~3656), the shells are characteristic of an oblate system. Their velocity is nearly systemic, and we conclude that these shells are phase-wrapped.
   * For the third one (NGC~3934) the shells appear to participate to the rotation
 
 * [Deconfusing intensity maps with neural networks](https://arxiv.org/abs/1905.11376)
   * First application of convolutional neural network (CNN) to directly determine the underlying luminosity function of a LIM, including a treatment of extragalactic foregrounds and instrumental noise.
   * We find that, in the ideal case where the mock data capture all of the features of the real data, the CNN performs comparably to or better than conventional analyses. However, the network's accuracy degrades considerably when tested on signals and systematics outside of those it was trained on.
+
+----
+
+### May 28
+
+* [Kinematics of z≥6 galaxies from [CII] line emission](https://arxiv.org/abs/1905.10402)
+  * 看 [CII] 158线里有什么运动学信息：we develop analytical models from which we identify disk inclination and gas turbulent motions as the key parameters affecting the line profile
+  * Use "Althaea", a highly-resolved (30pc) simulated prototypical Lyman Break Galaxy, in the redshift range z=6−7 把星系的动力学状态分成并合，普通盘，受到扰动的盘三个阶段，看线轮廓的特征
+  * 能够通过[CII]线的FWHM把动力学质量定到2-4倍误差范围内，取决于星系的倾角是不是已知
+  * 高红移星系的[CII]线宽和光度follow类似TF的关系
+
+* [How to Quench a Dwarf Galaxy: The Impact of Inhomogeneous Reionization on Dwarf Galaxies and Cosmic Filaments](https://arxiv.org/abs/1905.11414)
+  * SPHINX高分辨模拟，可以分辨出原子冷却threshold以下的halo，适合研究再电离如何影响dwarf中的气体
+  * 再电离严重降低了从filament进入dwarfhalo的气体总量
+  * Our simulations show that inflow suppression (i.e. starvation), rather than photoevaporation, is the dominant mechanism by which the baryonic content of high-redshift dwarf galaxies is regulated.
+  * 在固定halo质量和红移上，dwarf中的气体比例scatter很大；而且，在再电离之后，一般都还可以继续形成恒星
+
+* [A study of stellar orbit fractions: simulated IllustrisTNG galaxies compared to CALIFA observations](https://arxiv.org/abs/1905.11415)
+  * We find that the TNG100 simulation broadly reproduces the observed fractions of different orbital components and their stellar mass dependencies.
+  * The simulation also largely reproduces the observed peak and trough features at a stellar mass of 1-2E10 solar masses, in the mean distributions of the cold- and hot-orbit fractions, respectively, indicating fewer cooler orbits and more hotter orbits in both more- and less-massive galaxies beyond such a mass range.
+  * The average cold-orbit (counter-rotating) fractions of the simulated galaxies below (above) a stellar mass of 6E10 solar masses, are systematically higher than the observational data by < 10% (absolute orbital fraction)
+
+* [The Molecular Gas Reservoirs of z∼2 Galaxies: A comparison of CO(1-0) and dust-based molecular gas masses](https://arxiv.org/abs/1905.11417)
+  * We recover a clear correlation between the rest-frame 850μm luminosity, inferred from the single-band, long-wavelength flux, and the CO(1-0) line luminosity, consistent with the samples used to perform the 850μm calibration. Rest-frame 850微米光度的到分子气体质量和CO得到的差别在一倍以内
+  * We show that this factor of two uncertainty can arise from the values of the dust emissivity index and temperature that need to be assumed in order to extrapolate from the observed frequency to the rest-frame at 850μm.
+  * We therefore conclude that single-band observations of long-wavelength dust emission can be used to reliably constrain the molecular gas masses of massive, star-forming galaxies at z≳2.
+
+* [Discovery of nine new stellar groups in the Orion complex](https://arxiv.org/abs/1905.11429)
+  * **Useful**
+  * 用机器学习算法在Gaia数据里找星群：Shared Nearest Neighbor (SNN) and EnLink
+  * We identify 21 spatially- and kinematically-coherent groups in the Orion complex, nine of which previously unknown. The groups show a wide distribution of distances extending as far as about 150 pc in front of the star-forming Orion clouds
+
+* [Effects of baryons on weak lensing peak statistics](https://arxiv.org/abs/1905.11636)
+  * We investigate the effects of baryons on the number of weak-lensing peaks in the convergence field.
+  * 用Schneider et al. (2019)对density map进行改正: As a result we find that the baryonic effects strongly depend on the Gaussian smoothing applied to the convergence map.
+  * Smaller smoothing scales lead to a significant suppression of high peaks with κ>0.2, while lower peaks are not affected.
+
+* [Towards a Model-Independent Measurement of the Halo Mass Function with Observables](https://arxiv.org/abs/1905.11886)
+  * **Interesting**
+  * We point out an interesting feature in the halo mass function of the concordence ΛCDM model: the total halo mass within each evenly-spaced logarithmic mass bin is approximately the same over a large mass range.
+  * We show that this property allows us to construct an almost bias-free halo mass function using only an observable (as a halo mass estimator) and stacked weak lensing measurements as long as the scatter between the true halo mass and the observable-inferred mass has a stable form in logarithmic units
