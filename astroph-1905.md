@@ -451,7 +451,7 @@
   * Fermi探测到的Blazar的Gamma辐射主要来自于core成分，可能和beaming effect有关
 
 * [CHANG-ES XX. High Resolution Radio Continuum Images of Edge-on Galaxies and their AGNs -- Data Release 3](https://arxiv.org/abs/1905.05160)
-  * 35 nearby edge-on galaxies that have been observed using the VLA at 1.6 GHz and 6.0 GHz.
+  * 35 nearby edge-onGG galaxies that have been observed using the VLA at 1.6 GHz and 6.0 GHz.
   * 数据发布: we make available the {\it band-to-band} spectral index maps between 1.6 GHz and 6.0 GHz
   * New features can be seen in the spectral index maps that are masked in the total intensity emission, including hidden spiral arms in NGC~3448 and two previously unknown radio lobes on either side of the nucleus of NGC~3628.
   * AGN比例的下限是 55%
@@ -1170,3 +1170,56 @@
   * **Interesting**
   * We point out an interesting feature in the halo mass function of the concordence ΛCDM model: the total halo mass within each evenly-spaced logarithmic mass bin is approximately the same over a large mass range.
   * We show that this property allows us to construct an almost bias-free halo mass function using only an observable (as a halo mass estimator) and stacked weak lensing measurements as long as the scatter between the true halo mass and the observable-inferred mass has a stable form in logarithmic units
+
+----
+
+### May 29
+
+* [High Star Formation Rates of Low Eddington Ratio Quasars at z≳6](https://arxiv.org/abs/1905.12268)
+  * 
+
+* [The Evolution of Brightest Cluster Galaxies in the Nearby Universe I: Colours and Stellar Masses from the Sloan Digital Sky Survey and Wide Infrared Survey Explorer](https://arxiv.org/abs/1905.12117)
+  * **Interesting, Relevant**
+  * 0.05 < z < 0.35的SDSS+WSIE BCG颜色研究：We analyse optical and infrared colours and stellar masses of BCGs as a function of the mass of their host haloes.
+  * 9%的BCG有SF；颜色较蓝和SF的BCG主要在低质量的星系群里；但也有些SF的BCG g-r颜色是很红的
+  * SF BCG比例随红移而升高，随星系团质量和BCG质量升高而下降
+  * CC-星系团中也有quiescent的BCG；但non-CC的BCG基本没有SF的
+
+* [Fundamental differences in the radio properties of red and blue quasars: evolution strongly favoured over orientation](https://arxiv.org/abs/1905.12108)
+
+* [Discovery of a dark, massive, ALMA-only galaxy at z~5-6 in a tiny 3-millimeter survey](https://arxiv.org/abs/1905.11996)
+
+* [Robust Identification of Active Galactic Nuclei through HST Optical Variability in GOODS-S: Comparison with the X-ray and mid-IR Selected Samples](https://arxiv.org/abs/1905.11995)
+
+* [The Hubble Constant determined through an inverse distance ladder including quasar time delays and Type Ia supernovae](https://arxiv.org/abs/1905.12496)
+  * **Interesting**
+  * We apply an inverse-distance-ladder approach, combining strong-lensing time-delay-distance measurements with SN Ia data. By themselves, SNe Ia are merely good relative distance indicators, but by anchoring them to strong gravitational lenses one can obtain an H0 measurement that is relatively insensitive to other cosmological parameters.
+  * In combination with SN Ia data, the inferred H0 consistently lies around 73-74 km s−1 Mpc−1, regardless of the assumed cosmological background model.
+
+----
+
+### May 30
+
+* [Imaging the Molecular Interstellar Medium in a Gravitationally Lensed Star-forming Galaxy at z=5.7](https://arxiv.org/abs/1905.12738)
+
+* [An [O III] search for extended emission around AGN with H I mapping: a distant cloud ionized by Mkn 1](https://arxiv.org/abs/1905.12693)
+
+* [Environmental Effects on the UV Upturn in Local Clusters of Galaxies](https://arxiv.org/abs/1905.12655)
+  * **Relevant**
+  * 24个近邻星系团中的red-seq星系的UV颜色和cluster性质以及星系位置的关系：没发现相关
+
+* [New Constraints on Early-Type Galaxy Assembly from Spectroscopic Metallicities of Globular Clusters in M87](https://arxiv.org/abs/1905.12641)
+  * **Interesting, Relevant**
+  * Keck/LRIS观测177个M87的GC，全谱拟合得到金属丰度，重新得到颜色-丰度关系
+  * 发现M87的GC的颜色-丰度关系和银河系的很不一样，说明GC性质和环境有关：We use our color–metallicity relation to derive a new GC metallicity-host galaxy luminosity relation for red and blue GCs and find a shallower relation for the blue GCs than what previous work has found and that the metal-poor GCs are more enriched than what was previously found
+  * 也许说明这些GC形成在质量更大的satellite星系中
+
+* [The SAMI Galaxy Survey: mass-kinematics scaling relations](https://arxiv.org/abs/1905.12637)
+  * **Interesting**
+  * 定义了一个运动学参数：S_K=sqrt(K * V_rot^2 + sigma^2)，看和质量的关系
+  * logM*-logSk关系基本是线性的，而且对ETG和LTG都成立，比F-J和T-F关系弥散小; 比质量一定孔径内平均的恒星速度弥散度和质量的关系scatter小
+  * 用恒星和电离气体得到的有些不一样
+
+* [Long troughs in the Lyman-α forest below redshift 6 due to islands of neutral hydrogen](https://arxiv.org/abs/1905.12640)
+
+* [Dark Energy Survey Year 1 Results: Wide field mass maps via forward fitting in harmonic space](https://arxiv.org/abs/1905.12682)
