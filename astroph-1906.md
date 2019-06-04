@@ -77,25 +77,72 @@
 ### June 3
 
 * [A Giant Intragroup Nebula Hosting a Damped Lya Absorber at z=0.313](https://arxiv.org/abs/1906.00005)
+  * z=0.3的一个DLA周围的100kpc的巨大发射气体星云，DLA位于一个group里
+  * [O II], Hβ, [O III], Hα, and [N II] 发射气体与星系群内星系的运动比较一致 
+  * The emission morphology, kinematics, and line ratios of the nebula suggest that shocks and turbulent mixing layers, produced as a result of stripped gaseous streams moving at supersonic speed across the ambient hot medium, contribute significantly to the ionization of the gas.
+  * 星系群内星系损失的气体可以和有效的贡献金属增丰的气体
 
 * [Star formation quenching imprinted on the internal structure of naked red nuggets](https://arxiv.org/abs/1906.00007)
+  * **Relevant, Interesting**
+  * 作者还是假设naked red nuggets基本全是in situ成分
+  * 对12个这样的星系进行了IFU观测，研究SFH和星族性质的径向变化：这些星系在SF时变得越来越compact，在quenched时最compact；之后仍在可以在disc结构上有SF
+  * Red nugget quenched的时刻可能和 M_SMBH/M_*有关
 
 * [The Grism Lens-Amplified Survey from Space (GLASS). XIII. G800L optical spectra from the parallel fields](https://arxiv.org/abs/1906.00008)
+  * GLASS平行场里面的22755个天体的无缝光谱，覆盖了220平方角分
+  * The spectroscopic catalogue has a median redshift of ⟨z⟩ = 0.60 with a median uncertainty of ∆z/(1 + z)~2% at F814W <23 AB. 
+  * 处理软件是：Grism Redshift and Line Analysis tool (GRIZLI)
 
 * [Discovery of four cold dusty galaxies at z=3.62-5.85 in the COSMOS field: direct evidence of CMB impact on high-redshift galaxy observables](https://arxiv.org/abs/1906.00040)
+  * ALMA观测COSMOS场里的FIR挑选出来的高红移富尘埃SF星系：This includes the most distant dusty galaxy currently known in the COSMOS field, ID85001929 at z=5.847.
+  * CMB plays a significant role biasing their observed Rayleigh-Jeans (RJ) slopes to unlikely steep values and, possibly, reducing their CO fluxes by a factor of two. 把CMB贡献扣除后，RJ端的slope就正常了
+  * 这些星系的形态比较compact，而且有些有merger迹象，这是一族尘埃很冷的SF星系，在之前巡天中发现得不多；比相应红移上MS上的星系的尘埃都要冷
+  * 可能意味着较低的恒星形成效率和较高的金属增丰效率；或者更可能的原因是FIR波段尘埃的不透明度高
 
 * [The Mass Density Profile and Star Formation History of Gaussian and Non-Gaussian Clusters](https://arxiv.org/abs/1906.00060)
+  * 看Yang etal中的近邻cluster里面的星系的运动学状态：速度分布是否是高斯的
+  * There is a 61% excess of faint galaxies in NGs when contrasted with G groups, when integrating from 0.8 to 2.0R/R200
+  * Star formation in faint spirals of NG groups is significantly different from their counterpart in the G groups. 团成员速度分布不是高斯的星系团有更高的富气体星系的infall rate
 
 * [Supermassive Black Hole Demographics: Evading M−σ](https://arxiv.org/abs/1906.00064)
+  * **Interesting**
+  * SMBH-星系共同演化的解析研究，着眼于对质量超过M-sigma关系预测的SMBH: these are likely to have descended from extremely compact `blue nugget' galaxies born at high redshift, whose very high velocity dispersions allowed the black holes to reach unusually large masses.
+  * 随后的并和使得sigma降低，让这些星系成为了M-sigma关系的另类，过程中还可能损失大量本来可以用于形成恒星的气体，导致恒星质量偏低
+  * 还“预测”了两类星系的存在：Low-mass dwarfs whose central black holes lie below the M−σ relation at low redshift, and galaxies consisting of very massive (≳10^11M⊙) black holes with extremely small stellar masses.
 
 * [The early growth of supermassive black holes in cosmological hydrodynamic simulations with constrained Gaussian realizations](https://arxiv.org/abs/1906.00242)
+  * BlueTides模拟中的高红移SMBH成长：Our re-simulations confirm that only with the lowest tidal field, high-density peaks in the initial conditions can induce the fastest BH growth required to explain the z > 6 quasars.
+  * 成长过程对种子黑洞的质量不是很敏感，从5x10^3-5-10^5 Msun, 在z=6都可以成长到10^9 Msun的SMBH
+  * The increased BH merger rate for low mass BH seeds provides an exciting prospect for discriminating BH formation mechanisms with the advent of multi-messenger astrophysics and next-generation GW facilities.
 
 * [SDSS-IV MaNGA: Stellar Population Gradients Within Barred Galaxies](https://arxiv.org/abs/1906.00643)
+  * characterise radial stellar age and metallicity gradients along the bar and outside the bar in 128 strongly barred galaxies.
+  * 年龄和丰度梯度在棒区域变平；IFU观测结果不宜简单的用角向平均的性质
+  * 也说明棒能在径向有效的混合恒星成分
 
 * [CO observations of major merger pairs at z=0: Molecular gas mass and star formation](https://arxiv.org/abs/1906.00682)
+  * 一批78个近邻并和星系对中的旋涡星系的CO观测，有各种形态组合；SFR和尘埃质量来自Herschel，HI来自GBT
+  * 看并和中的旋涡星系的不同质量成分之间的关系，看H2对恒星质量以及HI质量的比例等如何随并和对中的形态组合和恒星质量变化。
+  * 处于并和中的Spiral-Spiral对有分子气体比例和 H2/HI 比例的轻微增强，但是在SFE和总气体比例上似乎没有明显变化
+  * For the molecular-to-atomic gas ratio MH2 /MHI, the difference between S+S and S+E subsamples is 0.69±0.16 dex and between pairs with and without interaction signs is 0.53±0.18 dex.
+  * 相互作用星系中的SF增强主要是对于S+S对来说的，而且主要发生在第一次近密接触之后
 
 * [The nature of faint radio galaxies at high redshifts](https://arxiv.org/abs/1906.00746)
+  * HzRGS的候选，暗弱的射电源的光谱和近红外图像
+  * 红移在 0.52 ≤ z ≤ 5.72, 射电光度比之前的巡天低一个量级左右
+  * 和相同红移的明亮射电源比，这些星系的Lya光度更低，线宽更窄 --> AGN的电离作用更弱？恒星质量也更低
+  * We find that faint HzRG population in the red- shift range 2 − 4 forms a bridge between star-forming and narrow-line AGN, whereas th ones at z > 4 are dominated by star-formation
 
 * [Redshift Evolution of the Fundamental Plane Relation in the IllustrisTNG Simulation](https://arxiv.org/abs/1906.00927)
+  * **Interesting, Relevant**
+  * TNG中，在z=2就可以看到FP的迹象了：Its scatter stays as low as ∼ 0.08 dex across this redshift range. 
+  * FP的slopes从z=2开始只有轻度的演化
+  * FP的residual主要和恒星年龄有关 
+  * 4c + b + 2 = δ, where δ ∼ 0.8 for FPs in TNG, rather than zero as is typically inferred from observations. 说明TNG中动力学质量和动力学质光比之间的关系不如观测中推测出的那样紧密
+  * 而这个关系的出现需要非常好的暗物质和重子物质平衡的相互混合，也需要有恰到好处的SFE和反馈强度，对模型的限制能力很强
+  * 使用类似CModel的方法区分早型和晚型星系的，看Dev和Exp轮廓哪个能更好的拟合。这个未必是最好的办法
 
 * [Accurate Modeling of the Projected Galaxy Clustering in Photometric Surveys: I. Tests with Mock Catalogs](https://arxiv.org/abs/1906.00516)
+  * **Relevant, Useful**
+  * 用测光红移下的图像巡天给出的投影2PCF来研究星系-暗晕关系的方法：By assuming a Gaussian form of the photometric redshift errors, we are able to simultaneously constrain the halo occupation distribution (HOD) models and the effective photometric redshift uncertainties.
+  * This method also works well even for galaxy samples with 10 per cent catastrophic photometric redshift errors.
