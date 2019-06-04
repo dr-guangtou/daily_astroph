@@ -8,7 +8,8 @@
 
 ### June 2
 
-* [Photoevaporation of Jeans unstable clumps by FUV radiation](https://arxiv.org/abs/1905.13230)  * 外加的FUV辐射场很难完全阻止10-200Msun的分子气体团块的坍缩，但是可以控制最后用于形成恒星的气体质量
+* [Photoevaporation of Jeans unstable clumps by FUV radiation](https://arxiv.org/abs/1905.13230)
+  * 外加的FUV辐射场很难完全阻止10-200Msun的分子气体团块的坍缩，但是可以控制最后用于形成恒星的气体质量
   * For example, for G0<104 more than 10% of the initial clump mass survives
   * 对于大质量的分子气体团块，H2质量在坍缩过程中还会增加。可能是在过程中因为H2 self-shielding形成的
 
@@ -70,3 +71,31 @@
   * 4个星系团后用MUSE观测被放大的LAE，看Lya的LF: The price to pay to benefit from magnification is a reduction of the effective volume of the survey, together with a more complex analysis procedure.
   * 在2.9< z < 6.7的四个红移bin内没有看到显著的LF的红移演化
   * The contribution of the LAE population to the star formation rate density at z∼6 is ≲50% depending on the luminosity limit considered, which is of the same order as the Lyman-break galaxy (LBG) contribution.
+
+----
+
+### June 3
+
+* [A Giant Intragroup Nebula Hosting a Damped Lya Absorber at z=0.313](https://arxiv.org/abs/1906.00005)
+
+* [Star formation quenching imprinted on the internal structure of naked red nuggets](https://arxiv.org/abs/1906.00007)
+
+* [The Grism Lens-Amplified Survey from Space (GLASS). XIII. G800L optical spectra from the parallel fields](https://arxiv.org/abs/1906.00008)
+
+* [Discovery of four cold dusty galaxies at z=3.62-5.85 in the COSMOS field: direct evidence of CMB impact on high-redshift galaxy observables](https://arxiv.org/abs/1906.00040)
+
+* [The Mass Density Profile and Star Formation History of Gaussian and Non-Gaussian Clusters](https://arxiv.org/abs/1906.00060)
+
+* [Supermassive Black Hole Demographics: Evading M−σ](https://arxiv.org/abs/1906.00064)
+
+* [The early growth of supermassive black holes in cosmological hydrodynamic simulations with constrained Gaussian realizations](https://arxiv.org/abs/1906.00242)
+
+* [SDSS-IV MaNGA: Stellar Population Gradients Within Barred Galaxies](https://arxiv.org/abs/1906.00643)
+
+* [CO observations of major merger pairs at z=0: Molecular gas mass and star formation](https://arxiv.org/abs/1906.00682)
+
+* [The nature of faint radio galaxies at high redshifts](https://arxiv.org/abs/1906.00746)
+
+* [Redshift Evolution of the Fundamental Plane Relation in the IllustrisTNG Simulation](https://arxiv.org/abs/1906.00927)
+
+* [Accurate Modeling of the Projected Galaxy Clustering in Photometric Surveys: I. Tests with Mock Catalogs](https://arxiv.org/abs/1906.00516)
