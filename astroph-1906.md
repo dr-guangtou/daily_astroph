@@ -52,6 +52,7 @@
   * The mass-loading factors of the outflows are typically 0.1−1 and increase with AGN luminosity 有些足以调节星系的SF
 
 * [The Origin of the Stellar Mass-Stellar Metallicity Relation in the Milky Way Satellites and beyond](https://arxiv.org/abs/1905.13374)
+  * **Worth-reading**
   * 用化学演化模型去解释MZR的起源，以及为什么在很大的质量范围内关系都很好
   * 假定：冷气体质量以及恒星反馈强度都和恒星质量呈一定幂律关系: We use the SAM to obtain these power-law scaling relations, which appear to be roughly universal over a large range of stellar masses for both satellites and central galaxies within a large range of halo masses
   * MZR的出现和Universal特征和冷气体质量比例随质量下降，以及恒星反馈效率也随恒星质量下降有关
@@ -78,7 +79,7 @@
 
 * [A Giant Intragroup Nebula Hosting a Damped Lya Absorber at z=0.313](https://arxiv.org/abs/1906.00005)
   * z=0.3的一个DLA周围的100kpc的巨大发射气体星云，DLA位于一个group里
-  * [O II], Hβ, [O III], Hα, and [N II] 发射气体与星系群内星系的运动比较一致 
+  * [O II], Hβ, [O III], Hα, and [N II] 发射气体与星系群内星系的运动比较一致
   * The emission morphology, kinematics, and line ratios of the nebula suggest that shocks and turbulent mixing layers, produced as a result of stripped gaseous streams moving at supersonic speed across the ambient hot medium, contribute significantly to the ionization of the gas.
   * 星系群内星系损失的气体可以和有效的贡献金属增丰的气体
 
@@ -90,7 +91,7 @@
 
 * [The Grism Lens-Amplified Survey from Space (GLASS). XIII. G800L optical spectra from the parallel fields](https://arxiv.org/abs/1906.00008)
   * GLASS平行场里面的22755个天体的无缝光谱，覆盖了220平方角分
-  * The spectroscopic catalogue has a median redshift of ⟨z⟩ = 0.60 with a median uncertainty of ∆z/(1 + z)~2% at F814W <23 AB. 
+  * The spectroscopic catalogue has a median redshift of ⟨z⟩ = 0.60 with a median uncertainty of ∆z/(1 + z)~2% at F814W <23 AB.
   * 处理软件是：Grism Redshift and Line Analysis tool (GRIZLI)
 
 * [Discovery of four cold dusty galaxies at z=3.62-5.85 in the COSMOS field: direct evidence of CMB impact on high-redshift galaxy observables](https://arxiv.org/abs/1906.00040)
@@ -105,7 +106,7 @@
   * Star formation in faint spirals of NG groups is significantly different from their counterpart in the G groups. 团成员速度分布不是高斯的星系团有更高的富气体星系的infall rate
 
 * [Supermassive Black Hole Demographics: Evading M−σ](https://arxiv.org/abs/1906.00064)
-  * **Interesting**
+  * **Interesting, Worth-reading**
   * SMBH-星系共同演化的解析研究，着眼于对质量超过M-sigma关系预测的SMBH: these are likely to have descended from extremely compact `blue nugget' galaxies born at high redshift, whose very high velocity dispersions allowed the black holes to reach unusually large masses.
   * 随后的并和使得sigma降低，让这些星系成为了M-sigma关系的另类，过程中还可能损失大量本来可以用于形成恒星的气体，导致恒星质量偏低
   * 还“预测”了两类星系的存在：Low-mass dwarfs whose central black holes lie below the M−σ relation at low redshift, and galaxies consisting of very massive (≳10^11M⊙) black holes with extremely small stellar masses.
@@ -134,10 +135,10 @@
   * We find that faint HzRG population in the red- shift range 2 − 4 forms a bridge between star-forming and narrow-line AGN, whereas th ones at z > 4 are dominated by star-formation
 
 * [Redshift Evolution of the Fundamental Plane Relation in the IllustrisTNG Simulation](https://arxiv.org/abs/1906.00927)
-  * **Interesting, Relevant**
-  * TNG中，在z=2就可以看到FP的迹象了：Its scatter stays as low as ∼ 0.08 dex across this redshift range. 
+  * **Interesting, Relevant, Worth-reading**
+  * TNG中，在z=2就可以看到FP的迹象了：Its scatter stays as low as ∼ 0.08 dex across this redshift range.
   * FP的slopes从z=2开始只有轻度的演化
-  * FP的residual主要和恒星年龄有关 
+  * FP的residual主要和恒星年龄有关
   * 4c + b + 2 = δ, where δ ∼ 0.8 for FPs in TNG, rather than zero as is typically inferred from observations. 说明TNG中动力学质量和动力学质光比之间的关系不如观测中推测出的那样紧密
   * 而这个关系的出现需要非常好的暗物质和重子物质平衡的相互混合，也需要有恰到好处的SFE和反馈强度，对模型的限制能力很强
   * 使用类似CModel的方法区分早型和晚型星系的，看Dev和Exp轮廓哪个能更好的拟合。这个未必是最好的办法
@@ -146,3 +147,46 @@
   * **Relevant, Useful**
   * 用测光红移下的图像巡天给出的投影2PCF来研究星系-暗晕关系的方法：By assuming a Gaussian form of the photometric redshift errors, we are able to simultaneously constrain the halo occupation distribution (HOD) models and the effective photometric redshift uncertainties.
   * This method also works well even for galaxy samples with 10 per cent catastrophic photometric redshift errors.
+
+----
+
+### June 4
+
+* [Finding Strong Gravitational Lenses in the DESI DECam Legacy Survey](https://arxiv.org/abs/1906.00970)
+  * DECaLS中找SL，自动化：deep residual neural network architecture by Lanusse et al.
+  * Here we present 335 candidate strong lensing systems, identified for the first time.
+
+* [A superluminous supernova in high surface density molecular gas within the bar of a metal-rich galaxy](https://arxiv.org/abs/1906.00972)
+  * ALMA观测metal rich host galaxy of superluminous supernova (SLSN) PTF10tpz at z=0.04
+  * 分子气体只分布在棒上，似乎在沿着两个通道流向星系中心：These gas lanes end in a gaseous structure in the inner region of the galaxy, likely associated with an inner Lindblad resonance.
+  * 这样的气体供给可以在星系中心形成大质量的分子云和星团 --> SLSN PTF10tpz being located near the inner structure
+
+* [ERQs are the BOSS of Quasar Samples: The Highest-Velocity [OIII] Quasar Outflows](https://arxiv.org/abs/1906.00980)
+  * z=2-3处消光很强的一类QSO，被认为是处在 blow-out phase的罕见个体
+  * median infrared luminosity ⟨log L(erg/s)⟩ ∼46.2的28个ERQs的红外光谱观测，发现了非常宽，高度蓝移的 [OIII] 发射线 -> 反映了很高速的外流: ERQs on average have [OIII] outflows velocities about 3 times larger than those of luminosity-matched blue quasar samples.
+  * 宽[OIII]线外流主要和QSO的红颜色有关，和射电噪程度，QSO光度，以及Eddington ratio关系不是很紧密
+  * 应该至少有3-5%的QSO光度转化成了外流的动能
+
+* [Testing the blast-wave AGN feedback scenario in MCG-03-58-007](https://arxiv.org/abs/1906.00985)
+  * ALMA观测一个近邻AGN，其中有非常快的X-ray外流 (UFO, 接近0.1光速)
+  * 探测到了星系尺度上的CO辐射，大部分的CO光度位于盘上; 但扣除盘的贡献后，可以看到中心的4kpc上的剩余CO发射，可能来自低速的分子气体外流; 也有可能是一个致密的盘结构
+  * 和X-ray的UFO对比，发现符合a momentum-driven blast-wave feedback模型的预测; 和ULIRGS中那种能量守恒的大规模分子气体外流不同
+
+* [Testing Star Formation Laws on Spatially Resolved Regions in a z≈4.3 Starburst Galaxy](https://arxiv.org/abs/1906.01173)
+  * 
+
+* [The Molecular Disk of the Elliptical Galaxy NGC 5128 (Centaurus A): I. Star Formation Efficiencies at Giant Molecular Cloud Scales](https://arxiv.org/abs/1906.01237)
+
+* [Fluctuation of the background sky in the Hubble Extremely Deep Field (XDF) and its origin](https://arxiv.org/abs/1906.01443)
+
+* [And yet it flips: connecting galactic spin and the cosmic web](https://arxiv.org/abs/1906.01623)
+
+* [Exploring the effects of galaxy formation on matter clustering through a library of simulation power spectra](https://arxiv.org/abs/1906.00968)
+
+* [On the mass mismatch between simulations and weak-lensing measurements](https://arxiv.org/abs/1906.00975)
+
+* [The polytropic state of the intracluster medium in the X-COP cluster sample](https://arxiv.org/abs/1906.00977)
+
+* [Monte Carlo Control Loops for cosmic shear cosmology with DES Year 1](https://arxiv.org/abs/1906.01018)
+
+* [Producing a BOSS-CMASS sample with DES imaging](https://arxiv.org/abs/1906.01136)
