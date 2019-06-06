@@ -217,6 +217,10 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * N-body realisations of cold dark matter subhaloes with centrally-divergent density cusps form artificial constant-density cores on the scale of the resolution limit of the simulation
 
 * [On The Effect of Environment on Line Emission from the Circumgalactic Medium](https://arxiv.org/abs/1906.01643)
+  * **Interesting**
+  * SDSS叠加光谱研究CGM中Halpha发射线强度随环境的变化：在距离大质量星系500 kpc范围内，以及在高密度环境中发射线强度都偏低
+  * We interpret these observations as a direct signature of environmentally-caused strangulation
+  * 给出了一个简单的模型：the CGM cool gas fraction within 50 kpc is significantly decreased for galaxies that lie within 700 kpc of a massive galaxy, with about 80% of the cool gas removed even when the galaxy is at a distance of 500 kpc from its massive parent
 
 * [Two merging galaxy clusters with very hot shock fronts observed shortly before pericentric passage](https://arxiv.org/abs/1906.01708)
   * ICM因为merger被加热，在subcluster中间发现merger shock的证据
@@ -230,14 +234,32 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * The powerful magnification provided by the HFF clusters allows us an exploration of the properties of galaxies with intrinsic stellar masses as low as M∗≳107M⊙ and intrinsic star formation rates SFRs∼0.1-1M⊙/yr at z > 6.
 
 * [The evolution of the UV luminosity function of globular clusters in the E-MOSAICS simulations](https://arxiv.org/abs/1906.01755)
+  * 科学背景是用HST观测高红移被透镜放大的星系中的明亮年轻GC：Due to the rapid fading of young stellar populations in the UV, most of the simulated galaxies do not host GCs bright enough to be individually identified in deep Hubble Space Telescope (HST) observation
+  * The median age of the most UV-luminous GCs is < 10 Myr (assuming no extinction)
+  * 而且这些UV亮的GC对星系整体UV光度的贡献不大
+  * We predict that the number density of UV-bright proto-GCs (or cluster clumps) will peak between redshifts z = 1 − 3
 
 * [The Evolution of the Interstellar Medium in Post-Starburst Galaxies](https://arxiv.org/abs/1906.01890)
+  * **Interesting**
+  * 58个PSB星系中的尘埃质量测量：尘埃质量和恒星质量的比值与星暴结束后的时间之间呈反相关，说明在1Gyr的时间内，尘埃被摧毁，抛出星系外，或者因为其他原因而无法被观测到。
+  * 尘埃的消耗时标在 205 Myr; 和CO示踪的 MH2/M*消耗时标相似; 说明气体和尘埃受到同样过程的影响，并在1-2Gyr内变成和ETG相符合的
+  * 利用尘埃calibrate H2质量，可以把PSB放到K-S关系上，在200-300Myr的时间上，PSB逐渐从K-S关系上向下演化，偏离，因为SFR下降得比H2气体更快
+  * 作者认为还是AGN feedback最有可能产生这种气体和尘埃的变化 
 
 * [Formation of Blue-cored Dwarf Early-type Galaxies in a Cluster Environment: a Kinematical Perspective](https://arxiv.org/abs/1906.01902)
+  * **Relevant**
+  * GMOS观测Virgo中心和边缘处两个有Blue core的dEs
+  * The occurrence of a KDC and zero rotation in the internal kinematics along with the central star formation support the scenario of gas-rich dwarf-dwarf mergers in the formation of these two dE(bc)s
+  * 至少Virgo中有部分蓝核dE是在团外通过dwarf-dwarf并合形成的，然后落入cluster，被quenched掉
 
 * [Galaxy simulation with the evolution of grain size distribution](https://arxiv.org/abs/1906.01917)
   * 在孤立的盘星系的模拟中考虑尘埃颗粒尺寸的演化：by sampling 32 grid points on the axis of the grain radius
+    * 模拟是用 gadget3-osaka 进行的
   * The grain size distribution evolves from a large-grain-dominated (≳0.1 μm) phase to a small-grain production phase, eventually converging to a power-law-like grain size distribution similar to the so-called MRN distribution.
+    * Mathis et al. 1977; 
+    * 文章里有关于尘埃成长的很好的介绍：吸积在开始很有效，因为小尘埃的面积-体积比高；在气态金属被用完后，聚团开始变得重要，最终形成一个power law分布
+  * We find that the small-grain abundance is higher in the dense ISM in the early epoch (t <1 Gyr) because of efficient dust growth by accretion, while coagulation makes the small-grain abundance less enhanced in the dense ISM later
+  * 重点是：尘埃颗粒大小分布随着年龄会有变化，尤其是在1Gyr左右，对于高红移星系的消光曲线有很大影响
 
 * [The Absence of [CII] 158μm Emission in Spectroscopically-Confirmed Galaxies at z>8](https://arxiv.org/abs/1906.01937)
   * ALMA data for the two most distant, gravitationally-lensed and spectroscopically-confirmed galaxies, A2744\_YD4 at z=8.38 and MACS1149\_JD1 at z=9.11: 两个星系都有很强的 [OII] 88 micron探测
@@ -249,13 +271,17 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 同样推荐了"Virial velocity parameter": We consider revised velocity-based scaling relations using the virial velocity parameter S_K^2 = K V_rot^2 + sigma^2 constructed with each of our dispersions. Our search for the strongest linear correlation between S_K and i-band absolute magnitudes favors the common K ~ 0.5, though the range 0.3 - 0.8 is statistically acceptable.
 
 * [Radiative Transfer Distortions of Lyman-α Emitters: a New Fingers-of-God Damping in the Clustering in Redshift Space](https://arxiv.org/abs/1906.02173)
+  * 用LAE研究大尺度结构受到Lya光子的复杂辐射转移机制的影响：RT induces a selection effect which results in an anisotropic distortion even in real space but in an otherwise negligible effect in redshift space.
+  * 用模拟看RT对LAE在红移空间的成团性的影响: 观测中是通过Lya线的peak来定红移，所以RT会对红移空间的位置产生影响
+  * 这种效应在径向方向上抑制了LAE的成团信号，可以看做是一种FoG效应
+  * Although our findings strongly encourage a more careful RSD modeling in LAE surveys, we also seek a method to mitigate the additional FoG effect due to RT by making use of other information in a Lyman-α spectrum.
 
 * [BlueMUSE: Project Overview and Science Cases](https://arxiv.org/abs/1906.01657)
   * **Interesting**
   * BlueMUSE, a blue-optimised, medium spectral resolution, panoramic integral field spectrograph based on the MUSE concept
   * With an optimised transmission down to 350 nm, a larger FoV (1.4 x 1.4 arcmin2) and a higher spectral resolution compared to MUSE
   * Deep field observations with BlueMUSE will also significantly increase samples of Lyman-alpha emitters, spanning the era of Cosmic Noon.
-  * By 2030, at a time when the focus of most of the new large facilities (ELT, JWST) will be on the infra-red, BlueMUSE will be a unique facility, outperforming any ELT instrument in the Blue/UV. 
+  * By 2030, at a time when the focus of most of the new large facilities (ELT, JWST) will be on the infra-red, BlueMUSE will be a unique facility, outperforming any ELT instrument in the Blue/UV.
 
 * [Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations](https://arxiv.org/abs/1906.01846)
   * **Useful**
