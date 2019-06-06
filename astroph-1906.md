@@ -173,7 +173,7 @@
   * 和X-ray的UFO对比，发现符合a momentum-driven blast-wave feedback模型的预测; 和ULIRGS中那种能量守恒的大规模分子气体外流不同
 
 * [Testing Star Formation Laws on Spatially Resolved Regions in a z≈4.3 Starburst Galaxy](https://arxiv.org/abs/1906.01173)
-  * 
+  *
 
 * [The Molecular Disk of the Elliptical Galaxy NGC 5128 (Centaurus A): I. Star Formation Efficiencies at Giant Molecular Cloud Scales](https://arxiv.org/abs/1906.01237)
 
@@ -190,3 +190,82 @@
 * [Monte Carlo Control Loops for cosmic shear cosmology with DES Year 1](https://arxiv.org/abs/1906.01018)
 
 * [Producing a BOSS-CMASS sample with DES imaging](https://arxiv.org/abs/1906.01136)
+
+----
+
+### June 4
+
+* [KiDS-SQuaD II: Machine learning selection of bright extragalactic objects to search for new gravitationally lensed quasars](https://arxiv.org/abs/1906.01638)
+  * 在KiDS DR4里用机器学习方法找强引力透镜放大的类星体
+  * 算法：CatBoost, that was specifically trained with the aim of creating a sample of extragalactic sources as clean as possible from stars
+    * https://github.com/catboost
+  * KiDS Bright EXtraGalactic Objects catalogue (KiDSBEXGO), specifically created to find gravitational lenses. r < 22 mag的类星体和星系
+  * From this catalog we selected ’Multiplets’: close pairs of quasars or galaxies surrounded by at
+least one quasar, presenting the 12 most reliable gravitationally lensed quasar candidates
+
+* [The mid-infrared and CO gas properties of an extreme star-forming FeLoBAL quasar](https://arxiv.org/abs/1906.01640)
+  * CO观测，气体质量在7x10^10 Msun，偏离中心速度40km/s
+  * 红外SED需要三个成分解释： active galactic nucleus (AGN) torus, an AGN polar dust component, and a starburst; 星暴占主导，恒星形成率 > 2000 Msun/yr
+  * 没有发现AGN明显影响CO分子气体的证据，可能正在从星暴阶段向AGN阶段转换
+
+* [Detection of the self-regulation of star formation in galaxy discs](https://arxiv.org/abs/1906.01641)
+  * Performed stellar population analysis using MUSE optical spectra of the spiral galaxy NGC 628 and find that current maximum star formation in spatially resolved regions is regulated according to the level of star formation in the recent past. 基本就是把当前的SFR密度和过去的平均值进行比较
+  * 构建了一个适用于局域SF的“bathtub"模型：resolved self-regulator model
+  * Estimate the mass-loading factor, η=2.5±0.5, consistent with values predicted by galaxy formation models
+
+* [Can tides disrupt cold dark matter subhaloes?](https://arxiv.org/abs/1906.01642)
+  * N-body realisations of cold dark matter subhaloes with centrally-divergent density cusps form artificial constant-density cores on the scale of the resolution limit of the simulation
+
+* [On The Effect of Environment on Line Emission from the Circumgalactic Medium](https://arxiv.org/abs/1906.01643)
+
+* [Two merging galaxy clusters with very hot shock fronts observed shortly before pericentric passage](https://arxiv.org/abs/1906.01708)
+  * ICM因为merger被加热，在subcluster中间发现merger shock的证据
+  * From the ICM analysis of temperature discontinuity, the Mach numbers were determined to be MG036=1.3 and MG292=1.5
+  * Simulations suggest that both clusters are observed shortly before pericentric passage.
+  * 都是两个M500c超过3x10^14 Msun的cluster在并合
+
+* [Hubble Frontier Field Photometric Catalogues of Abell 370 and RXC J2248.7-4431: Multiwavelength photometry, photometric redshifts, and stellar properties](https://arxiv.org/abs/1906.01725)
+  * ASTRODEEP pipeline处理HST+VLT+Spitzer图像
+  * A brief analysis of z > 6 objects selected using drop-out method, as well as spectroscopically confirmed sources and multiple images in both clusters. 发现dropout探测的污染依然比较多：~30-45% level by dusty galaxies at lower redshifts
+  * The powerful magnification provided by the HFF clusters allows us an exploration of the properties of galaxies with intrinsic stellar masses as low as M∗≳107M⊙ and intrinsic star formation rates SFRs∼0.1-1M⊙/yr at z > 6.
+
+* [The evolution of the UV luminosity function of globular clusters in the E-MOSAICS simulations](https://arxiv.org/abs/1906.01755)
+
+* [The Evolution of the Interstellar Medium in Post-Starburst Galaxies](https://arxiv.org/abs/1906.01890)
+
+* [Formation of Blue-cored Dwarf Early-type Galaxies in a Cluster Environment: a Kinematical Perspective](https://arxiv.org/abs/1906.01902)
+
+* [Galaxy simulation with the evolution of grain size distribution](https://arxiv.org/abs/1906.01917)
+  * 在孤立的盘星系的模拟中考虑尘埃颗粒尺寸的演化：by sampling 32 grid points on the axis of the grain radius
+  * The grain size distribution evolves from a large-grain-dominated (≳0.1 μm) phase to a small-grain production phase, eventually converging to a power-law-like grain size distribution similar to the so-called MRN distribution.
+
+* [The Absence of [CII] 158μm Emission in Spectroscopically-Confirmed Galaxies at z>8](https://arxiv.org/abs/1906.01937)
+  * ALMA data for the two most distant, gravitationally-lensed and spectroscopically-confirmed galaxies, A2744\_YD4 at z=8.38 and MACS1149\_JD1 at z=9.11: 两个星系都有很强的 [OII] 88 micron探测
+  * In both cases we provide stringent upper limits on the presence of [CII] 158μm
+  * Our results highlight the importance of using several emission line diagnostics with ALMA to investigate the nature of the interstellar medium in early galaxies.
+
+* [Pipe3D Stellar and Gaseous Velocity Dispersions for CALIFA Galaxies](https://arxiv.org/abs/1906.02100)
+  * Four different dispersions are extracted from emission (ionized gas) or absorption (stellar) spectra, with two spatial apertures (5'' and 30'').
+  * 同样推荐了"Virial velocity parameter": We consider revised velocity-based scaling relations using the virial velocity parameter S_K^2 = K V_rot^2 + sigma^2 constructed with each of our dispersions. Our search for the strongest linear correlation between S_K and i-band absolute magnitudes favors the common K ~ 0.5, though the range 0.3 - 0.8 is statistically acceptable.
+
+* [Radiative Transfer Distortions of Lyman-α Emitters: a New Fingers-of-God Damping in the Clustering in Redshift Space](https://arxiv.org/abs/1906.02173)
+
+* [BlueMUSE: Project Overview and Science Cases](https://arxiv.org/abs/1906.01657)
+  * **Interesting**
+  * BlueMUSE, a blue-optimised, medium spectral resolution, panoramic integral field spectrograph based on the MUSE concept
+  * With an optimised transmission down to 350 nm, a larger FoV (1.4 x 1.4 arcmin2) and a higher spectral resolution compared to MUSE
+  * Deep field observations with BlueMUSE will also significantly increase samples of Lyman-alpha emitters, spanning the era of Cosmic Noon.
+  * By 2030, at a time when the focus of most of the new large facilities (ELT, JWST) will be on the infra-red, BlueMUSE will be a unique facility, outperforming any ELT instrument in the Blue/UV. 
+
+* [Brighter-fatter effect in near-infrared detectors -- I. Theory of flat auto-correlations](https://arxiv.org/abs/1906.01846)
+  * **Useful**
+  * 对WFIRST上的Teledyne H4RG-10 detector arrays的Brighter-Fatter效应的讨论: in which charge already accumulated in a pixel alters the electric field geometry and causes new charge to be deflected away from brighter pixels.
+  * Here we describe the formalism for measuring the BFE using flat field correlation functions in infrared detector arrays.
+  * 光学CCD都是通过平场的自相关函数来测量BFE：because the infrared detector arrays are read out with the charge "in place," the flat field correlations are dominated by capacitive cross-talk between neighboring pixels (the inter-pixel capacitance, or IPC).
+  * Because the infrared detector arrays can be read out non-destructively, one can compute numerous cross-correlation functions between different time slices of the same flat exposures, and that correlations due to IPC and BFE leave distinct imprints.
+
+* [Brighter-fatter effect in near-infrared detectors -- II. Auto-correlation analysis of H4RG-10 flats](https://arxiv.org/abs/1906.01847)
+  * **Useful**
+  * WFIRST will use hybrid complementary metal oxide semiconductor (CMOS) detector arrays, which must be fully characterized to inform data reduction and calibration procedures such that unbiased cosmological results can be achieved
+  * We find a residual correlation signal after accounting for classical non-linearity. This residual correlation contains a combination of the BFE and NL-IPC 但BFE占主导
+  * This work presents the first evidence for the BFE in an H4RG-10 detector, demonstrates some of the useful insights that can be gleaned from flat field statistics, and represents a significant step towards calibration of WFIRST data.
