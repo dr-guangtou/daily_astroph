@@ -295,3 +295,45 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * WFIRST will use hybrid complementary metal oxide semiconductor (CMOS) detector arrays, which must be fully characterized to inform data reduction and calibration procedures such that unbiased cosmological results can be achieved
   * We find a residual correlation signal after accounting for classical non-linearity. This residual correlation contains a combination of the BFE and NL-IPC 但BFE占主导
   * This work presents the first evidence for the BFE in an H4RG-10 detector, demonstrates some of the useful insights that can be gleaned from flat field statistics, and represents a significant step towards calibration of WFIRST data.
+
+----
+
+### June 6
+
+* [Independent Cosmological Constraints from high-z HII Galaxies](https://arxiv.org/abs/1906.02195)
+
+* [Insights into formation scenarios of massive Early-Type galaxies from spatially resolved stellar population analysis in CALIFA](https://arxiv.org/abs/1906.02209)
+
+* [The EDGE-CALIFA Survey: Exploring the Star Formation Law through Variable Selection](https://arxiv.org/abs/1906.02273)
+
+* [The [CII]/[NII] ratio in 3 < z < 6 sub-millimetre galaxies from the South Pole Telescope survey](https://arxiv.org/abs/1906.02293)
+
+* [Dust properties and star formation of about a thousand local galaxies](https://arxiv.org/abs/1906.02712)
+
+* [The Evolution and Origin of Ionized Gas Velocity Dispersion from z∼2.6 to z∼0.6 with KMOS3D](https://arxiv.org/abs/1906.02737)
+
+* [Average Dark Matter Halo Sparsity Relations as Consistency Check of Mass Estimates in Galaxy Cluster Samples](https://arxiv.org/abs/1906.02259)
+
+* [The Most Massive galaxy Clusters (M2C) across cosmic time: link between radial total mass distribution and dynamical state](https://arxiv.org/abs/1906.02339)
+
+----
+
+### June 6
+
+* [The relationship between black hole mass and galaxy properties: Examining the black hole feedback model in IllustrisTNG](https://arxiv.org/abs/1906.02747)
+
+* [Multiple components of the Jhelum stellar stream](https://arxiv.org/abs/1906.02748)
+
+* [Multiphase quasar-driven outflows in PG 1114+445. I. Entrained ultra-fast outflows](https://arxiv.org/abs/1906.02765)
+
+* [SDSS J094635.06+101706.1: a redshift one, very radio-loud, γ-ray emitting narrow-line Seyfert 1 galaxy](https://arxiv.org/abs/1906.02946)
+
+* [The M101 Satellite Luminosity Function and the Halo to Halo Scatter Among Milky Way Analogues](https://arxiv.org/abs/1906.03230)
+
+* [The Impact of the Fiducial Cosmology Assumption on BAO Cosmological Parameter Inference](https://arxiv.org/abs/1906.03035)
+
+* [Cosmological constraints with deep learning from KiDS-450 weak lensing maps](https://arxiv.org/abs/1906.03156)
+
+* [Radio Galaxy Zoo: Unsupervised Clustering of Convolutionally Auto-encoded Radio-astronomical Images](https://arxiv.org/abs/1906.02864)
+
+* [Searching for fast extragalactic X-ray transients in Chandra surveys](https://arxiv.org/abs/1906.02793)
