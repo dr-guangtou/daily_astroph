@@ -318,22 +318,71 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 
 ----
 
-### June 6
+### June 9
 
 * [The relationship between black hole mass and galaxy properties: Examining the black hole feedback model in IllustrisTNG](https://arxiv.org/abs/1906.02747)
+  * **Relevant**
 
 * [Multiple components of the Jhelum stellar stream](https://arxiv.org/abs/1906.02748)
+  * The Jhelum stream, a stellar stream in the inner halo, is a two-dimensional structure
+  * 有一个很窄的高密度成分，也有一个更弥散的，并且在空间上有偏移
+  * 这两个成分在自行上无法分离，恒星成分的蓝离散型和蓝水平支恒星的比例相似，恒星成分起源可能是相同的
+  * 运动学上看却不太一致
+  * An older orbital wrap of Jhelum’s orbit traces the Indus stream, indicating a possible connection between these two structures 
 
 * [Multiphase quasar-driven outflows in PG 1114+445. I. Entrained ultra-fast outflows](https://arxiv.org/abs/1906.02765)
 
 * [SDSS J094635.06+101706.1: a redshift one, very radio-loud, γ-ray emitting narrow-line Seyfert 1 galaxy](https://arxiv.org/abs/1906.02946)
+  * 发射Gamma-ray的NLS1对高Eddington ratio下的喷流机制用处很大
+  * 本文讨论的是一个高红移的例子：It turns out to be one of the radio-loudest NLS1s known, highly variable at all wavelengths, and shows widely extended radio emission at a (projected) > 100 kpc scale
 
 * [The M101 Satellite Luminosity Function and the Halo to Halo Scatter Among Milky Way Analogues](https://arxiv.org/abs/1906.03230)
+  * **Relevant**
 
 * [The Impact of the Fiducial Cosmology Assumption on BAO Cosmological Parameter Inference](https://arxiv.org/abs/1906.03035)
 
 * [Cosmological constraints with deep learning from KiDS-450 weak lensing maps](https://arxiv.org/abs/1906.03156)
 
 * [Radio Galaxy Zoo: Unsupervised Clustering of Convolutionally Auto-encoded Radio-astronomical Images](https://arxiv.org/abs/1906.02864)
+  * 非监督机器学习：unsupervised clustering method with the combination of a Self-Organising Map (SOM) and a convolutional autoencoder.
+  * Our approach shows SOM training time is drastically reduced and high-level features can be clustered by training on auto-encoded feature vectors instead of raw images. 
+  * We present this method as a powerful new approach to data exploration by providing a detailed understanding of the morphology and relationships of Radio Galaxy Zoo (RGZ) dataset image features which can be applied to new radio survey data.
 
 * [Searching for fast extragalactic X-ray transients in Chandra surveys](https://arxiv.org/abs/1906.02793)
+  * 最近的两个快速X-ray transients的发现意味着有更多类似的情况出现。
+  * We find 13 transient candidates, including CDF-S XT1 and XT2. 多波段数据发现新找到的11个候选都是恒星天体
+  * Future missions such as Athena and the Einstein Probe with large grasps (effective area × field of view) are needed to discover a large sample (∼thousands) of fast extragalactic X-ray transients.
+
+----
+
+### June 10
+
+* [Detecting Thin Stellar Streams in External Galaxies: Resolved Stars & Integrated Light](https://arxiv.org/abs/1906.03264)
+  * **Intersting**
+  * We investigate the current and future prospects of detecting globular cluster streams in external galaxies in resolved stars (e.g. with WFIRST) and using integrated light (e.g. with HSC LSST and Euclid).
+  * 向PAndAS M31数据中加入mock stream，模拟WFIRST观测，看到多远还可以看到stream
+  * 1hr曝光 WFIRST should detect globular cluster streams in resolved stars in galaxies out to distances of ~3.5 Mpc. 这个体积内的星系大多是矮星系
+  * With integrated light, thin streams can be resolved out to ~100 Mpc with HSC and LSST and to ~600 Mpc with WFIRST and Euclid. 面亮度很低，对年轻球状星团产生的stream更容易探测 
+
+* [A new formulation of the external field effect in MOND and numerical simulations of ultra-diffuse dwarf galaxies − application to NGC 1052-DF2 and NGC 1052-DF4](https://arxiv.org/abs/1906.03268)
+  * Due to the non-linear Poisson equation in MOND, a dwarf galaxy has weaker self-gravity when in close proximity to a massive host. This external field effect is investigated using a new analytic formulation and fully self-consistent live N-body models in MOND.
+  * The correctly calculated MOND velocity dispersion agrees with our inferred dispersion and that of van Dokkum et al. (2018b) if DF2 is within 150 kpc of NGC 1052 and both are 20 Mpc away. The GCs of DF2 are however significantly brighter and larger than normal GCs, a problem which disappears if DF2 is significantly closer to us.
+
+* [GASP XVII. HI imaging of the jellyfish galaxy JO206: gas stripping and enhanced star formation](https://arxiv.org/abs/1906.03286)
+  * z=0.05的一个低质量cluster中心的一个质量接近10^11 Msun的星系的VLA HI观测，发现和光学一样有很长的tail
+  * HI总质量3x10^9 Msun, 接近预期星系中HI质量的50%; 其中 2x10^9 Msun的HI在tail中
+  * 但当前的星系的SFR并不低，反而还偏高；只是HI的depletion time很短，只有0.5Gyr
+  * The star formation efficiency of the disc is about 10 times higher than that of the tail at fixed H I surface densities. 星系肯定是第一次掉入星系团，SFR正得到增强
+
+* [RadioGAN - Translations between different radio surveys with generative adversarial networks](https://arxiv.org/abs/1906.03874)
+  * We investigate if generative adversarial networks (GANs) can extract additional information from radio data and might ultimately recover extended flux from a survey with a high angular resolution and vice versa
+  * 用GAN在FIRST和NVSS的射点图像之间做“翻译”
+  * RadioGAN is able to recover extended flux density within a 20% margin for almost half of the sources and learns more complex relations between sources in the two surveys than simply convolving them with a different synthesized beam.
+
+* [Efficient Production of Sound Waves by AGN Jets in the Intracluster Medium](https://arxiv.org/abs/1906.03272)
+  * 看AGN喷流在ICM里驱动声波的效率。
+  * 过去的模型把AGN jet看成是球对称的爆发，发现有12%的能量转换成立声波的能量
+  * Our axisymmetric fiducial simulations convert 􏰀 25% of the jet energy into strong, long-wavelength sound waves which can propagate to large distances.
+  * Vigorous instabilities driven by the jet-ICM in- teraction generate small-scale sound waves which constructively interfere, forming powerful large-scale waves.
+  * 看对喷流性质的依赖：High velocity, wide angle jets produce sound waves most efficiently, yet the acoustic efficiency never exceeds 1/3 of the jet energy
+  * Sound waves may comprise a significant fraction of the energy budget in cluster AGN feedback
