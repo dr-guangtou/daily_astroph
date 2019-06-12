@@ -244,7 +244,7 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 58个PSB星系中的尘埃质量测量：尘埃质量和恒星质量的比值与星暴结束后的时间之间呈反相关，说明在1Gyr的时间内，尘埃被摧毁，抛出星系外，或者因为其他原因而无法被观测到。
   * 尘埃的消耗时标在 205 Myr; 和CO示踪的 MH2/M*消耗时标相似; 说明气体和尘埃受到同样过程的影响，并在1-2Gyr内变成和ETG相符合的
   * 利用尘埃calibrate H2质量，可以把PSB放到K-S关系上，在200-300Myr的时间上，PSB逐渐从K-S关系上向下演化，偏离，因为SFR下降得比H2气体更快
-  * 作者认为还是AGN feedback最有可能产生这种气体和尘埃的变化 
+  * 作者认为还是AGN feedback最有可能产生这种气体和尘埃的变化
 
 * [Formation of Blue-cored Dwarf Early-type Galaxies in a Cluster Environment: a Kinematical Perspective](https://arxiv.org/abs/1906.01902)
   * **Relevant**
@@ -256,7 +256,7 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 在孤立的盘星系的模拟中考虑尘埃颗粒尺寸的演化：by sampling 32 grid points on the axis of the grain radius
     * 模拟是用 gadget3-osaka 进行的
   * The grain size distribution evolves from a large-grain-dominated (≳0.1 μm) phase to a small-grain production phase, eventually converging to a power-law-like grain size distribution similar to the so-called MRN distribution.
-    * Mathis et al. 1977; 
+    * Mathis et al. 1977;
     * 文章里有关于尘埃成长的很好的介绍：吸积在开始很有效，因为小尘埃的面积-体积比高；在气态金属被用完后，聚团开始变得重要，最终形成一个power law分布
   * We find that the small-grain abundance is higher in the dense ISM in the early epoch (t <1 Gyr) because of efficient dust growth by accretion, while coagulation makes the small-grain abundance less enhanced in the dense ISM later
   * 重点是：尘埃颗粒大小分布随着年龄会有变化，尤其是在1Gyr左右，对于高红移星系的消光曲线有很大影响
@@ -328,7 +328,7 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 有一个很窄的高密度成分，也有一个更弥散的，并且在空间上有偏移
   * 这两个成分在自行上无法分离，恒星成分的蓝离散型和蓝水平支恒星的比例相似，恒星成分起源可能是相同的
   * 运动学上看却不太一致
-  * An older orbital wrap of Jhelum’s orbit traces the Indus stream, indicating a possible connection between these two structures 
+  * An older orbital wrap of Jhelum’s orbit traces the Indus stream, indicating a possible connection between these two structures
 
 * [Multiphase quasar-driven outflows in PG 1114+445. I. Entrained ultra-fast outflows](https://arxiv.org/abs/1906.02765)
 
@@ -345,7 +345,7 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 
 * [Radio Galaxy Zoo: Unsupervised Clustering of Convolutionally Auto-encoded Radio-astronomical Images](https://arxiv.org/abs/1906.02864)
   * 非监督机器学习：unsupervised clustering method with the combination of a Self-Organising Map (SOM) and a convolutional autoencoder.
-  * Our approach shows SOM training time is drastically reduced and high-level features can be clustered by training on auto-encoded feature vectors instead of raw images. 
+  * Our approach shows SOM training time is drastically reduced and high-level features can be clustered by training on auto-encoded feature vectors instead of raw images.
   * We present this method as a powerful new approach to data exploration by providing a detailed understanding of the morphology and relationships of Radio Galaxy Zoo (RGZ) dataset image features which can be applied to new radio survey data.
 
 * [Searching for fast extragalactic X-ray transients in Chandra surveys](https://arxiv.org/abs/1906.02793)
@@ -362,7 +362,7 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * We investigate the current and future prospects of detecting globular cluster streams in external galaxies in resolved stars (e.g. with WFIRST) and using integrated light (e.g. with HSC LSST and Euclid).
   * 向PAndAS M31数据中加入mock stream，模拟WFIRST观测，看到多远还可以看到stream
   * 1hr曝光 WFIRST should detect globular cluster streams in resolved stars in galaxies out to distances of ~3.5 Mpc. 这个体积内的星系大多是矮星系
-  * With integrated light, thin streams can be resolved out to ~100 Mpc with HSC and LSST and to ~600 Mpc with WFIRST and Euclid. 面亮度很低，对年轻球状星团产生的stream更容易探测 
+  * With integrated light, thin streams can be resolved out to ~100 Mpc with HSC and LSST and to ~600 Mpc with WFIRST and Euclid. 面亮度很低，对年轻球状星团产生的stream更容易探测
 
 * [A new formulation of the external field effect in MOND and numerical simulations of ultra-diffuse dwarf galaxies − application to NGC 1052-DF2 and NGC 1052-DF4](https://arxiv.org/abs/1906.03268)
   * Due to the non-linear Poisson equation in MOND, a dwarf galaxy has weaker self-gravity when in close proximity to a massive host. This external field effect is investigated using a new analytic formulation and fully self-consistent live N-body models in MOND.
@@ -386,3 +386,58 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * Vigorous instabilities driven by the jet-ICM in- teraction generate small-scale sound waves which constructively interfere, forming powerful large-scale waves.
   * 看对喷流性质的依赖：High velocity, wide angle jets produce sound waves most efficiently, yet the acoustic efficiency never exceeds 1/3 of the jet energy
   * Sound waves may comprise a significant fraction of the energy budget in cluster AGN feedback
+
+----
+
+### June 11
+
+* [An observational link between AGN Eddington ratio and [NII]λ6583/Ha at 0.6<z<1.7](https://arxiv.org/abs/1906.04179)
+  * X-ray挑选的宽线AGN中Eddington ratio和[NII]/Halpha比值的关系，反相关
+  * The observed distribution implies that there is a consistent relationship from local to z \sim 1.7
+
+* [Characterizing the Infall Times and Quenching Timescales of Milky Way Satellites with Gaia Proper Motions](https://arxiv.org/abs/1906.04180)
+  * **Interesting**
+  * Gaia自行测量结合高分辨模拟，研究银河系周围37个dwarf的quenching时标；发现70%都符合非常快的被quenched了
+  * 卫星星系的轨道影响很大：The remaining classical Milky Way satellites have quenching timescales noticeably longer, with τquench∼6−8 Gyr
+  * 6个有HST观测的UFD的恒星形成历史都符合SF在infall之前就被quenched了; 很可能是被再电离quenched的
+
+* [The possible hierarchical scales of observed clumps in high-redshift disc galaxies](https://arxiv.org/abs/1906.04182)
+  * We focus on an isolated and pure gas disk with an isothermal equation of state with T=10^4 K that allows capturing the effects of self-gravity and hydrodynamics robustly.
+  * clump开始时旋转支撑的，通过并合成长，能到10^8 Msun，尺度到120pc；并在比较短的时标内 < 50Myr聚集成 clump clusters
+  * 分辨率对一开始clump形成时的质量影响很大, 低分辨率模拟有 artificial pressure floor，可以阻止致密气体碎裂的太快
+
+* [Spiral instabilities: Mechanism for recurrence](https://arxiv.org/abs/1906.04191)
+  * 不稳定性的自激发：We argue that self-excited instabilities are the cause of spiral patterns in simulations of unperturbed stellar discs.
+  * The superposition of a few steadily rotating waves inevitably causes the appearance of the disc to change continuously, and creates the kind of shearing spiral patterns that have been widely reported.
+  * We confirm our suspicion by demonstrating that scattering at either of the Lindblad resonances seeds a new groove-type instability
+
+* [Classifying galaxies according to their HI content](https://arxiv.org/abs/1906.04198)
+  * 基于MUFASA模拟，用光学和环境性质通过机器学习来预测HI性质；也用HI巡天数据进行了训练
+  * Random Forest和SVM效果很好，
+
+* [Discovery of the first heavily obscured QSO candidate at z>6 in a close galaxy pair](https://arxiv.org/abs/1906.04241)
+  * z>6的尘埃遮蔽QSO不是很好发现：We report the Chandra discovery of the first heavily obscured QSO candidate in the early universe, hosted by a close (≈5 kpc) galaxy pair at z=6.515
+  * 附近的星系是 [CII] emitter
+  * An X-ray source is significantly (P=0.9996) detected by Chandra in the 2-5 keV band, with <1.14 net counts in the 0.5-2 keV band
+
+* [No signs of star formation being regulated in the most luminous quasars at z~2 with ALMA](https://arxiv.org/abs/1906.04290)
+  * ALMA Band~7 observations at 850μm of 20 luminous (logLbol>46.9 [erg s−1]) unobscured quasars at z∼2; 19个里面都看到了continuum
+  * SFR的分布是log-normal的，平均在140 Msun/yr; 和Main sequence上的SF星系相近，没有迹象显示AGN活动抑制或者提升了SFR
+  * SFR和黑洞吸积率有非常微弱的相关，可能是因为都来自相同的气体贮藏
+
+* [Halpha Nuclear Geyser (Bipolar Outflow) from the Barred Galaxy NGC 1415 (ESO 482-G033)](https://arxiv.org/abs/1906.04564)
+  * Kinematical data indicates that the central bright Halpha straddling the nucleus have velocities in excess of the Na I D velocities.
+  * We interpret these velocity excesses of the central bright Halpha knots as due to a geyser (nuclear bipolar outflow) with V_outflow 140 km/s
+  * The axis of this outflow, is not along the rotation axis of the disk of NGC 1415
+
+* [Tests of Acoustic Scale Shifts in Halo-based Mock Galaxy Catalogues](https://arxiv.org/abs/1906.04262)
+  * 利用N-body模拟的mock catalog看星系成团性里面的bias如何影响acoustic尺度的测量，除了linear bias外，也考虑assembly bias和velocity bias的影响。
+  * We create mocks based on generalised halo occupation populations of 36 periodic boxes from the Abacus Cosmos release with
+  * With respect to the baseline, we find a 0.3% shift in the line-of-sight acoustic scale for one variation in the satellite galaxy population, and we find an 0.7% shift for an extreme level of velocity bias of the central galaxies
+
+* [Euclid preparation III. Galaxy cluster detection in the wide photometric survey, performance and algorithm selection](https://arxiv.org/abs/1906.04707)
+  * **Important, Relevant**
+  * Euclid Cluster Finder Challenge (CFC)的结果，一共考虑了6种算法 （such as photometric redshift tomography, optimal filtering, hierarchical approach, wavelet and friend-of-friends algorithms)
+  * All the tested algorithms are very competitive in terms of performance, with three of them reaching >80% completeness for a mean purity of 80% down to masses of 1014 M⊙ and up to redshift z=2.
+  * Based on these results, two algorithms were selected to be implemented in the Euclid pipeline, the AMICO code, based on matched filtering, and the PZWav code, based on an adaptive wavelet approach.
+    * The codes were tested on Euclid survey-like mock catalogs based on semianalytic models (Merson et al. 2013; Gonzalez-Perez et al. 2014) and halo occupation modeling (Carretero et al. 2015)
