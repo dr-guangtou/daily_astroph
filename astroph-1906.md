@@ -441,3 +441,21 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * All the tested algorithms are very competitive in terms of performance, with three of them reaching >80% completeness for a mean purity of 80% down to masses of 1014 M⊙ and up to redshift z=2.
   * Based on these results, two algorithms were selected to be implemented in the Euclid pipeline, the AMICO code, based on matched filtering, and the PZWav code, based on an adaptive wavelet approach.
     * The codes were tested on Euclid survey-like mock catalogs based on semianalytic models (Merson et al. 2013; Gonzalez-Perez et al. 2014) and halo occupation modeling (Carretero et al. 2015)
+
+----
+
+### June 12
+
+* [Inquiring into the nature of the Abell 2667 Brightest Cluster Galaxy: physical properties from MUSE](https://arxiv.org/abs/1906.04744)
+
+* [The GIST Pipeline: A Multi-Purpose Tool for the Analysis and Visualisation of (Integral-field) Spectroscopic Data](https://arxiv.org/abs/1906.04746)
+
+* [Star-forming clumps in the Lyman Alpha Reference Sample of galaxies -- I. Photometric analysis and clumpiness](https://arxiv.org/abs/1906.04751)
+
+* [Circumnuclear rings and Lindblad resonances in spiral galaxies](https://arxiv.org/abs/1906.04843)
+
+* [A Very Large Array Survey of Luminous Extranuclear Star-forming Regions in Luminous Infrared Galaxies in GOALS](https://arxiv.org/abs/1906.05182)
+
+* [Distinguishing cosmologies using the turn-around radius near galaxy clusters](https://arxiv.org/abs/1906.04748)
+
+* [Distinguishing cosmologies using the turn-around radius near galaxy clusters](https://arxiv.org/abs/1906.04748)
