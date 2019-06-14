@@ -447,15 +447,36 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 ### June 12
 
 * [Inquiring into the nature of the Abell 2667 Brightest Cluster Galaxy: physical properties from MUSE](https://arxiv.org/abs/1906.04744)
+  * **Relevant**
+  * X-ray luminous cool core cluster Abell 2667 (z = 0.2343) 的BCG
+  * Clumps of different size and shape plunged into a more diffuse component constitute these substructures, whose intense ‘blue’ optical colour hints to the presence of a young stellar population. Clumps的发射线诊断显示了来自SF和AGN的贡献
+  * We conclude our analysis describing how scenarios of both chaotic cold accretion and merging with a gas-rich disc galaxy can efficaciously explain the phenomena the BCG is undergoing.
 
 * [The GIST Pipeline: A Multi-Purpose Tool for the Analysis and Visualisation of (Integral-field) Spectroscopic Data](https://arxiv.org/abs/1906.04746)
+  * The GIST pipeline (Galaxy IFU Spectroscopy Tool) is entirely written in Python 3 and conducts all steps from the preparation of input data, over the scientific analysis to the production of publication-quality plots.
+  * In its basic setup, it extracts stellar kinematics, performs an emission-line analysis and derives stellar population properties from full spectral fitting as well as via the measurement of absorption line-strength indices by exploiting the well-known pPXF and GandALF routines
 
 * [Star-forming clumps in the Lyman Alpha Reference Sample of galaxies -- I. Photometric analysis and clumpiness](https://arxiv.org/abs/1906.04751)
+  * LARS样本里的星系的clumps的统计，有1400多个团块的多波段测光；有团块的UV光度函数
+  * SFR密度比普通HII区要高，和z=1-3的星系里的clump差不多
+  * We find that in galaxies with higher ΣSFR or lower vs/σ0, clumps dominate the UV emission of their host systems
 
 * [Circumnuclear rings and Lindblad resonances in spiral galaxies](https://arxiv.org/abs/1906.04843)
+  * The CNRs are located between the inner ILR (iILR) and the outer ILR (oILR), or between the center of the galaxy and the ILR, when the object has only one of such resonance
 
 * [A Very Large Array Survey of Luminous Extranuclear Star-forming Regions in Luminous Infrared Galaxies in GOALS](https://arxiv.org/abs/1906.05182)
+  * 25个GOALS星系能测量单个恒星形成区; 不受尘埃影响
+  * The median 3 − 33 GHz spectral index and 33 GHz thermal fraction measured for these “extranuclear” regions is −0.51 ± 0.13 and 65 ± 11% respectively.
 
 * [Distinguishing cosmologies using the turn-around radius near galaxy clusters](https://arxiv.org/abs/1906.04748)
+  * 数值模拟里看turn around radius测量的误差：We find that for a ΛCDM cosmology these error-bars are typically of the order of 20%.
+  * We find that only rather extreme models can be distinguished from a ΛCDM universe due to the large error-bars arising from the non-trivial cluster environments.
+  * 比起ULIRGS中心，更受到热free-free辐射主导。
+  * We conclude that while nuclear starburst activity drives LIRGs above the SFMS, extranuclear star-formation still proceeds in a more extreme fashion relative to what is seen in local spiral galaxies.
 
-* [Distinguishing cosmologies using the turn-around radius near galaxy clusters](https://arxiv.org/abs/1906.04748)
+
+----
+
+### June 12
+
+* [A Correlated Search for Local Dwarf Galaxies in GALFA-HI and Pan-STARRS](https://arxiv.org/abs/1906.05287)
