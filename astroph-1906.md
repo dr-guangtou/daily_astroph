@@ -480,3 +480,50 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 ### June 12
 
 * [A Correlated Search for Local Dwarf Galaxies in GALFA-HI and Pan-STARRS](https://arxiv.org/abs/1906.05287)
+  * 在Galactic Arecibo L−band Feed Array HI (GALFA-HI)里面找富气体的UFD，像Leo T那样的
+  * We find 690 dwarf galaxy candidates, one of which is particularly promising and likely a new galaxy near the Galactic plane 不过暂时没有恒星CMD的证据
+  * We find we are sensitive to Leo T-like objects out to 1Mpc at velocities clear from background HI emission. 
+
+* [Signatures of stellar accretion in MaNGA early-type galaxies](https://arxiv.org/abs/1906.05298)
+  * 1010个MaNGA ETGs的外围星族研究：The outputs from the stellar population fitting codes FIREFLY, pPXF, and Prospector are compared to control for systematic errors in stellar metallicity (Z) estimation.
+  * 金属丰度径向轮廓随质量变化，而且很难用一个梯度简单描述
+  * Instead, we examine the full radial extent of stellar metallicity profiles and find them to flatten in the outskirts of M>10^{11}Msun ETGs. This is a signature of stellar accretion. 
+  * We find that ex-situ stars at 2Re make up 20% of the projected stellar mass of M<10^{10.5}Msun ETGs, rising up to 80% for M>10^{11.5}Msun ETGs.
+
+* [ALMA and HST kiloparsec-scale imaging of a quasar-galaxy merger at z≈6.2](https://arxiv.org/abs/1906.05308)
+  * At a resolution of ∼0.3″ (≈1.7 kpc), the system is resolved over >4″ (>20 kpc) 
+  * 有多个成分：The [CII] emission of the entire system stretches over >1500 km/s along the line of sight. 
+  * A toy model of a single satellite galaxy that is tidally stripped by the interaction with the quasar host galaxy can account for the observed velocity and spatial extent of the two extended components. 不太能用简单的外流来解释 
+
+* [The energetics of starburst-driven outflows at z=1 from KMOS](https://arxiv.org/abs/1906.05311)
+  * 叠加光谱，通过发射线看z=1的500多个MS星系的外流性质： we derive a typical mass outflow rate of dM/dt = 1-4 Mo/yr and a mass loading of dM/dt/SFR = 0.2-0.4 和恒星形成率关系不强
+  * We find that the line width of the broad H-alpha increases with disk circular velocity with a sub-linear scaling relation FWHM_broad ~ v^(0.21+/-0.05). 
+  * M* < 10^10 Msun的星系里，外流气体中很大一部分是可以离开星系的
+
+* [Statistical stellar mass corrections for high-z galaxies observed with JWST broad-band filters due to template degeneracies](https://arxiv.org/abs/1906.05320)
+  * 检验LePhare code和Yggdrasil模板在JWST高红移星系SED拟合上的表现
+  * The most challenging cases are galaxies with nebular emission lines, especially the ones that are wrongly identified as galaxies without, relative dust-free galaxies and galaxies with small metallicities (i.e. Z=1/50Z⊙).
+  * We found that without the stellar-mass corrections the number of low-mass galaxies (M∗<10^7M⊙) is overestimated, which can potentially lead to systematic errors in the calculation of the galaxy stellar mass function faint-end slope at high z.
+
+* [ALMA observations of molecular gas in the host galaxy of AT2018cow](https://arxiv.org/abs/1906.05446)
+  * AT2018cow is the nearest Fast-Evolving Luminous Transient (FELT)
+    * 特点是无特征的光谱以及快速下降的光变曲线
+  * Host星系是普通的SF矮星系，SFR和气体质量都很正常; 气体金属丰度偏高
+  * AT2018cow is located between a CO peak and a blue star cluster
+  * 可能的解释还是大质量恒星爆发
+
+* [Spatially Resolved Water Emission from Gravitationally Lensed Dusty Star Forming Galaxies at z ∼ 3](https://arxiv.org/abs/1906.05469)
+  * The low excitation transition of H2O, p−H2O(202 − 111) (νrest = 987.927 GHz, 0.3毫米，亚毫米波线) is known to trace the far-infrared (FIR) radiation field independent of the presence of active galactic nuclei (AGN) over many orders-of-magnitude in FIR luminosity 主要来自恒星形成的贡献
+  * Examines the LH2O/LFIR relation on resolved scales for the first time at high-redshift.
+  * 在局域尺度上的相关性也很好；关系的scatter和尘埃的有效温度以及分子气体的面密度没有明显相关
+
+* [Ultimate Merging at z~0.1](https://arxiv.org/abs/1906.05429)
+  * A study of 58 double-peaked emission line galaxies for which one of the components is suppressed in [OIII]5008 or significantly weaker than the other one. 
+  * 大多数强的 [OIII] 都和星系恒星速度一致；弱的成分经常是off-center的 
+  * 很可能都来自不同阶段的并和; 如果这些double core没有被分辨出来，会导致并和率被低估
+
+* [Resolved neutral carbon emission in nearby galaxies: [CI] Lines as Total Molecular Gas Tracers](https://arxiv.org/abs/1906.05671)
+  * Herschel观测的几个不同SF和AGN性质的星系的[CI](1-0)和(2-1)线的 map
+  * We explore the correlations between the luminosities of CO(1-0) and [CI] lines, and find that L_CO(1-0) correlates tightly and almost linearly with both L_[CI](1-0) and L_[CI](2-1), suggesting that [CI] lines, similar as CO(1-0), can trace total molecular gas in our resolved galaxies on kpc scales.
+
+
