@@ -527,3 +527,73 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * We explore the correlations between the luminosities of CO(1-0) and [CI] lines, and find that L_CO(1-0) correlates tightly and almost linearly with both L_[CI](1-0) and L_[CI](2-1), suggesting that [CI] lines, similar as CO(1-0), can trace total molecular gas in our resolved galaxies on kpc scales.
 
 
+----
+
+### June 16
+
+* [Constraining the dark matter halo mass of isolated low-surface-brightness galaxies](https://arxiv.org/abs/1906.05867)
+  * **Relevant, Interesting**
+  * 用X-ray观测区分UDG的两种形成机制："failed" Milky Way-type galaxies, which reside in massive dark matter halos, are expected to have significantly higher X-ray luminosities than dwarf galaxies
+  * We find that none of the individual galaxies show significant X-ray emission. By co-adding the signal of individual galaxies, the stacked galaxies remain undetected 
+  * This upper limit is about 40 times lower than that expected in a galaxy with a massive dark matter halo, implying that the majority of isolated low-surface-brightness galaxies reside in dwarf-size dark matter halos.
+
+* [Anomaly in the Opacity of the Post-Reionization Intergalactic Medium in the Lyα and Lyβ Forest](https://arxiv.org/abs/1906.05874)
+  * 5.5≲zabs≲6.1: 再电离末期19个QSO视线方向的Lya和Lyb IGM不透明度测量
+  * Lyb的振子强度低，敏感的气体温度和Lya不一样； 和模拟比较 NyX数值模拟
+  * We find that including the effects of spectral noise is key for a proper data to model comparison; 噪声会导致有一段光谱区域对不透明度不明感
+  * 能解释Lya等效光学深度分布的模型都在相同的物理尺度上低估了Lyb的光学深度
+
+* [The Origin of Lopsided Satellite Galaxy Distribution in Galaxy Pairs](https://arxiv.org/abs/1906.06128)
+  * LCDM模型下卫星星系分布的不均匀性：Namely, in pairs of galaxies (like Andromeda and the Milky Way) the satellites are more likely to inhabit the region in between the pair, rather than on opposing sides.
+  * 在模拟中研究这种偏心分布的起源和演化：the lopsided distribution was stronger in the past and weakens towards z=0；the weakening of the signal is due to the interaction of satellite galaxies with the pair
+  * The z=0 signal is driven primarily by satellites that are on first approach, who have yet to experience a "flyby". This suggests that the signal seen in the observations is also dominated by dynamically young accretion events. 
+
+* [Three Dimensional Optimal Spectral Extraction (TDOSE) from Integral Field Spectroscopy](https://arxiv.org/abs/1906.05891)
+  * **Useful**
+  * In each wavelength layer of the IFS data cube, TDOSE simultaneously optimizes all sources in the morphological model to minimize the difference between the scaled model components and the IFS data.
+  * The flux optimization produces individual data cubes containing the scaled three-dimensional source models. This allows for efficient de-blending of flux in both the spatial and spectral dimensions of the IFS data cubes, and extraction of the corresponding one-dimensional spectra.
+
+* [The HI Velocity Function: a test of cosmology or baryon physics?](https://arxiv.org/abs/1906.06130)
+  * LCDM模拟里面的简单假设下，预测了比观测到更多的低HI旋转速度的星系，但是如何在模拟里考虑Baryonic effect的影响很重要
+  * SURFS suite of LCDM N-body simulations + SHARK 半解析模型: 模拟了一个ALFALFA巡天，考虑了选择效应和观测系统问题
+  * 模拟和观测差异小了很多：This is a direct consequence of our careful treatment of survey selection effects and, importantly, how we model the relationship between galaxy and halo circular velocity - the HI mass-maximum circular velocity relation of galaxies is characterized by a large scatter. 从观测的HI线宽分布中得到没有bias的HI速度方程是很难的
+
+* [The kiloparsec-scale gas kinematics in two star-forming galaxies at z∼1.47 seen with ALMA and VLT-SINFONI](https://arxiv.org/abs/1906.06245)
+  * 从HiZELS里挑选的富分子气体的星系：These two systems have been previously reported to be molecular gas rich fH2≡MH2/(MH2+M⋆)∼0.8. 
+  * 看能不能分辨出分子气体的分布和运动，如果能的话，和Halpha电离气体比较空间分布，旋转速度，和速度弥散度。
+  * 估计分子气体的耗尽时标，在2.3 Gyr左右，和Local SF星系的平均接近
+
+* [A Precision Measurement of the Mass of the Black Hole in NGC 3258 from High-Resolution ALMA Observations of its Circumnuclear Disk](https://arxiv.org/abs/1906.06267)
+  * **Interesting**
+  * Aaron Barth的工作；分解了黑洞影响区域的分子气体的运动学：revealing a quasi-Keplerian central increase in projected rotation speed 
+  * We construct dynamical models for the rotating disk and fit beam-smeared model CO line profiles directly to the ALMA data cube.
+  * ALMA的分辨率可以独立判断中心150 pc内的质量分布轮廓：The best model fit yields MBH=2.249×10^9 M⊙ with a statistical model-fitting uncertainty of just 0.18%, and systematic uncertainties of 0.62% from various aspects of the model construction and 12% from uncertainty in the distance to NGC 3258.
+
+* [Combining high-z galaxy luminosity functions with Bayesian evidence](https://arxiv.org/abs/1906.06296)
+  * **Interesting**
+  * Here we propose a methodology to combine disparate high-z UV LF data sets in a Bayesian framework: Bayesian Data Averaging (BDA).
+  * Our model, based primarily on power-law scalings of the halo mass function, naturally penalizes systematically jagged data points as well as mis-estimated errors
+  * The BDA framework we introduce enables galaxy models to leverage multiple, analogous observational data sets.
+
+* [Full-Sky Lensing Reconstruction of 21 cm Intensity Maps](https://arxiv.org/abs/1906.05873)
+  * Investigate the reconstruction of the matter density perturbations using a quadratic minimum variance estimator.
+  * 针对未来HIRAX和CHIME这样21cm巡天的大天区覆盖所带来的天空曲率的影响：we extend the plane-parallel flat-sky formalism for lensing reconstruction to account for a full-sky survey using the Spherical Fourier-Bessel (SFB) expansion.
+   
+* [Revisiting constraints on asteroid-mass primordial black holes as dark matter candidates](https://arxiv.org/abs/1906.05950)
+  * 光学微引力透镜限制：We argue that it will be difficult to push the existing optical microlensing constraints to much lower mPBH
+  * For dynamical capture of PBHs in stars, we derive a general result on the capture rate based on phase space arguments
+  * For destruction of white dwarfs by PBHs that pass through the white dwarf without getting gravitationally captured, but which produce a shock that ignites carbon fusion
+  * We find that the asteroid-mass window remains open for PBHs to account for all the dark matter.
+
+* [Cosmological constraints from cosmic shear two-point correlation functions with HSC survey first-year data](https://arxiv.org/abs/1906.06041)
+  * **Important**
+  * Cosmic shear two-point correlation functions (TPCFs) 
+  * We adopt the standard TPCF estimators, ξ±, for our cosmological analysis, given that we find no evidence of the significant B-mode shear.
+  * We carefully check the robustness of the cosmological results against astrophysical modeling uncertainties and systematic uncertainties in measurements, and find that none of them has a significant impact on the cosmological constraints.
+  
+* [One simulation to have them all: performance of the Bias Assignment Method against N-body simulations](https://arxiv.org/abs/1906.06109)
+  * 更高效的生成对宇宙学有意义的mock catalog的方法
+  * Bias Assignment Method (BAM, Balaguera-Antol´ınez et al. 2019) to extract the local and non-local bias linking the halo to the dark matter distribution
+    * The method exploits the idea of mapping the halo distribution onto an approximated dark matter density field (A-DMDF hereafter), based on measurements of the halo-bias
+  * We use an approximate (and fast) gravity solver to generate 300 dark matter density fields from the downsampled initial conditions of the reference simulation and sample each of these fields using the halo-bias and a kernel
+  * We show that the power spectrum, its variance and the three-point statistics are reproduced within ∼2%
