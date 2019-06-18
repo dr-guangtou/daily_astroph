@@ -482,22 +482,22 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 * [A Correlated Search for Local Dwarf Galaxies in GALFA-HI and Pan-STARRS](https://arxiv.org/abs/1906.05287)
   * 在Galactic Arecibo L−band Feed Array HI (GALFA-HI)里面找富气体的UFD，像Leo T那样的
   * We find 690 dwarf galaxy candidates, one of which is particularly promising and likely a new galaxy near the Galactic plane 不过暂时没有恒星CMD的证据
-  * We find we are sensitive to Leo T-like objects out to 1Mpc at velocities clear from background HI emission. 
+  * We find we are sensitive to Leo T-like objects out to 1Mpc at velocities clear from background HI emission.
 
 * [Signatures of stellar accretion in MaNGA early-type galaxies](https://arxiv.org/abs/1906.05298)
   * 1010个MaNGA ETGs的外围星族研究：The outputs from the stellar population fitting codes FIREFLY, pPXF, and Prospector are compared to control for systematic errors in stellar metallicity (Z) estimation.
   * 金属丰度径向轮廓随质量变化，而且很难用一个梯度简单描述
-  * Instead, we examine the full radial extent of stellar metallicity profiles and find them to flatten in the outskirts of M>10^{11}Msun ETGs. This is a signature of stellar accretion. 
+  * Instead, we examine the full radial extent of stellar metallicity profiles and find them to flatten in the outskirts of M>10^{11}Msun ETGs. This is a signature of stellar accretion.
   * We find that ex-situ stars at 2Re make up 20% of the projected stellar mass of M<10^{10.5}Msun ETGs, rising up to 80% for M>10^{11.5}Msun ETGs.
 
 * [ALMA and HST kiloparsec-scale imaging of a quasar-galaxy merger at z≈6.2](https://arxiv.org/abs/1906.05308)
-  * At a resolution of ∼0.3″ (≈1.7 kpc), the system is resolved over >4″ (>20 kpc) 
-  * 有多个成分：The [CII] emission of the entire system stretches over >1500 km/s along the line of sight. 
-  * A toy model of a single satellite galaxy that is tidally stripped by the interaction with the quasar host galaxy can account for the observed velocity and spatial extent of the two extended components. 不太能用简单的外流来解释 
+  * At a resolution of ∼0.3″ (≈1.7 kpc), the system is resolved over >4″ (>20 kpc)
+  * 有多个成分：The [CII] emission of the entire system stretches over >1500 km/s along the line of sight.
+  * A toy model of a single satellite galaxy that is tidally stripped by the interaction with the quasar host galaxy can account for the observed velocity and spatial extent of the two extended components. 不太能用简单的外流来解释
 
 * [The energetics of starburst-driven outflows at z=1 from KMOS](https://arxiv.org/abs/1906.05311)
   * 叠加光谱，通过发射线看z=1的500多个MS星系的外流性质： we derive a typical mass outflow rate of dM/dt = 1-4 Mo/yr and a mass loading of dM/dt/SFR = 0.2-0.4 和恒星形成率关系不强
-  * We find that the line width of the broad H-alpha increases with disk circular velocity with a sub-linear scaling relation FWHM_broad ~ v^(0.21+/-0.05). 
+  * We find that the line width of the broad H-alpha increases with disk circular velocity with a sub-linear scaling relation FWHM_broad ~ v^(0.21+/-0.05).
   * M* < 10^10 Msun的星系里，外流气体中很大一部分是可以离开星系的
 
 * [Statistical stellar mass corrections for high-z galaxies observed with JWST broad-band filters due to template degeneracies](https://arxiv.org/abs/1906.05320)
@@ -518,8 +518,8 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 在局域尺度上的相关性也很好；关系的scatter和尘埃的有效温度以及分子气体的面密度没有明显相关
 
 * [Ultimate Merging at z~0.1](https://arxiv.org/abs/1906.05429)
-  * A study of 58 double-peaked emission line galaxies for which one of the components is suppressed in [OIII]5008 or significantly weaker than the other one. 
-  * 大多数强的 [OIII] 都和星系恒星速度一致；弱的成分经常是off-center的 
+  * A study of 58 double-peaked emission line galaxies for which one of the components is suppressed in [OIII]5008 or significantly weaker than the other one.
+  * 大多数强的 [OIII] 都和星系恒星速度一致；弱的成分经常是off-center的
   * 很可能都来自不同阶段的并和; 如果这些double core没有被分辨出来，会导致并和率被低估
 
 * [Resolved neutral carbon emission in nearby galaxies: [CI] Lines as Total Molecular Gas Tracers](https://arxiv.org/abs/1906.05671)
@@ -534,7 +534,7 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 * [Constraining the dark matter halo mass of isolated low-surface-brightness galaxies](https://arxiv.org/abs/1906.05867)
   * **Relevant, Interesting**
   * 用X-ray观测区分UDG的两种形成机制："failed" Milky Way-type galaxies, which reside in massive dark matter halos, are expected to have significantly higher X-ray luminosities than dwarf galaxies
-  * We find that none of the individual galaxies show significant X-ray emission. By co-adding the signal of individual galaxies, the stacked galaxies remain undetected 
+  * We find that none of the individual galaxies show significant X-ray emission. By co-adding the signal of individual galaxies, the stacked galaxies remain undetected
   * This upper limit is about 40 times lower than that expected in a galaxy with a massive dark matter halo, implying that the majority of isolated low-surface-brightness galaxies reside in dwarf-size dark matter halos.
 
 * [Anomaly in the Opacity of the Post-Reionization Intergalactic Medium in the Lyα and Lyβ Forest](https://arxiv.org/abs/1906.05874)
@@ -546,7 +546,7 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 * [The Origin of Lopsided Satellite Galaxy Distribution in Galaxy Pairs](https://arxiv.org/abs/1906.06128)
   * LCDM模型下卫星星系分布的不均匀性：Namely, in pairs of galaxies (like Andromeda and the Milky Way) the satellites are more likely to inhabit the region in between the pair, rather than on opposing sides.
   * 在模拟中研究这种偏心分布的起源和演化：the lopsided distribution was stronger in the past and weakens towards z=0；the weakening of the signal is due to the interaction of satellite galaxies with the pair
-  * The z=0 signal is driven primarily by satellites that are on first approach, who have yet to experience a "flyby". This suggests that the signal seen in the observations is also dominated by dynamically young accretion events. 
+  * The z=0 signal is driven primarily by satellites that are on first approach, who have yet to experience a "flyby". This suggests that the signal seen in the observations is also dominated by dynamically young accretion events.
 
 * [Three Dimensional Optimal Spectral Extraction (TDOSE) from Integral Field Spectroscopy](https://arxiv.org/abs/1906.05891)
   * **Useful**
@@ -559,13 +559,13 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 模拟和观测差异小了很多：This is a direct consequence of our careful treatment of survey selection effects and, importantly, how we model the relationship between galaxy and halo circular velocity - the HI mass-maximum circular velocity relation of galaxies is characterized by a large scatter. 从观测的HI线宽分布中得到没有bias的HI速度方程是很难的
 
 * [The kiloparsec-scale gas kinematics in two star-forming galaxies at z∼1.47 seen with ALMA and VLT-SINFONI](https://arxiv.org/abs/1906.06245)
-  * 从HiZELS里挑选的富分子气体的星系：These two systems have been previously reported to be molecular gas rich fH2≡MH2/(MH2+M⋆)∼0.8. 
+  * 从HiZELS里挑选的富分子气体的星系：These two systems have been previously reported to be molecular gas rich fH2≡MH2/(MH2+M⋆)∼0.8.
   * 看能不能分辨出分子气体的分布和运动，如果能的话，和Halpha电离气体比较空间分布，旋转速度，和速度弥散度。
   * 估计分子气体的耗尽时标，在2.3 Gyr左右，和Local SF星系的平均接近
 
 * [A Precision Measurement of the Mass of the Black Hole in NGC 3258 from High-Resolution ALMA Observations of its Circumnuclear Disk](https://arxiv.org/abs/1906.06267)
   * **Interesting**
-  * Aaron Barth的工作；分解了黑洞影响区域的分子气体的运动学：revealing a quasi-Keplerian central increase in projected rotation speed 
+  * Aaron Barth的工作；分解了黑洞影响区域的分子气体的运动学：revealing a quasi-Keplerian central increase in projected rotation speed
   * We construct dynamical models for the rotating disk and fit beam-smeared model CO line profiles directly to the ALMA data cube.
   * ALMA的分辨率可以独立判断中心150 pc内的质量分布轮廓：The best model fit yields MBH=2.249×10^9 M⊙ with a statistical model-fitting uncertainty of just 0.18%, and systematic uncertainties of 0.62% from various aspects of the model construction and 12% from uncertainty in the distance to NGC 3258.
 
@@ -578,7 +578,7 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 * [Full-Sky Lensing Reconstruction of 21 cm Intensity Maps](https://arxiv.org/abs/1906.05873)
   * Investigate the reconstruction of the matter density perturbations using a quadratic minimum variance estimator.
   * 针对未来HIRAX和CHIME这样21cm巡天的大天区覆盖所带来的天空曲率的影响：we extend the plane-parallel flat-sky formalism for lensing reconstruction to account for a full-sky survey using the Spherical Fourier-Bessel (SFB) expansion.
-   
+
 * [Revisiting constraints on asteroid-mass primordial black holes as dark matter candidates](https://arxiv.org/abs/1906.05950)
   * 光学微引力透镜限制：We argue that it will be difficult to push the existing optical microlensing constraints to much lower mPBH
   * For dynamical capture of PBHs in stars, we derive a general result on the capture rate based on phase space arguments
@@ -587,13 +587,97 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 
 * [Cosmological constraints from cosmic shear two-point correlation functions with HSC survey first-year data](https://arxiv.org/abs/1906.06041)
   * **Important**
-  * Cosmic shear two-point correlation functions (TPCFs) 
+  * Cosmic shear two-point correlation functions (TPCFs)
   * We adopt the standard TPCF estimators, ξ±, for our cosmological analysis, given that we find no evidence of the significant B-mode shear.
   * We carefully check the robustness of the cosmological results against astrophysical modeling uncertainties and systematic uncertainties in measurements, and find that none of them has a significant impact on the cosmological constraints.
-  
+
 * [One simulation to have them all: performance of the Bias Assignment Method against N-body simulations](https://arxiv.org/abs/1906.06109)
   * 更高效的生成对宇宙学有意义的mock catalog的方法
   * Bias Assignment Method (BAM, Balaguera-Antol´ınez et al. 2019) to extract the local and non-local bias linking the halo to the dark matter distribution
     * The method exploits the idea of mapping the halo distribution onto an approximated dark matter density field (A-DMDF hereafter), based on measurements of the halo-bias
   * We use an approximate (and fast) gravity solver to generate 300 dark matter density fields from the downsampled initial conditions of the reference simulation and sample each of these fields using the halo-bias and a kernel
   * We show that the power spectrum, its variance and the three-point statistics are reproduced within ∼2%
+
+----
+
+### June 17
+
+* [A giant Lyα nebula and a small-scale clumpy outflow in the system of the exotic quasar J0952+0114 unveiled by MUSE](https://arxiv.org/abs/1906.06347)
+  * z=3.02; Lya窄线发射，金属线有宽线，可能是近邻的DLA造成的
+  * MUSE观测揭示了一个100 pkpc的发射线星云。PDLA in J0952+0144 is covering only a small fraction of the QSO emission solid angle. 因为PDLA挡住了中心的QSO，才可以一直到中心都看到窄Lya弥散辐射
+  * We also detected bright and spectrally narrow C IV λ1550 and He II λ1640 extended emission around J0952+0114 with velocity centroids similar to the peak of the extended and central narrow Lyα emission
+  * The smaller velocity dispersion of the large scale Lyα emission suggests that the high-speed outflow is confined to the central region.
+
+* [Constraints on Black Hole Jet Models Used As Diagnostic Tools of Event Horizon Telescope Observations of M87](https://arxiv.org/abs/1906.06353)
+  * Recent 86 GHz Very Long Baseline Interferometry observations of M87 have revealed the morphology and size of the jet near its source 关于Jet形成的模型应该能解释这个特征。但是能解释宏观jet结构的模拟往往在中心区域太窄
+  * 而且中心的jet是被edge的辐射主导的；Furthermore, the synthetic radio images are not edge dominated 0.06 - 0.32 lt-yrs from the source, but spine dominated.
+
+* [Covariance-regularized reconstruction of data cubes in integral field spectroscopy and application to MaNGA data](https://arxiv.org/abs/1906.06369)
+  * **Useful**
+  * 基本就是 Bolton et al. 2010的 spectroperfectionism的IFU实现
+  * IFU处理的第一步就是resample grid到一个正规的grid上：Most subsequent analysis procedures require a regular, wavelength independent sampling (for example a fixed rectangular grid)
+  * 很难得到pixel之间相关性弱的sampling：A standard method in the field to produce a regular set of samples from an irregular set of samples is Shepard's method, but Shepard's method typically yields images with a degraded resolution and large statistical correlations between pixels.
+  * 本文给出了一个FWHM和仪器本征分辨率更接近，比Shepard方法好16%，且low statistical correlations between pixels的新方法
+
+* [ALMA view of the 12C/13C isotopic ratio in starburst galaxies](https://arxiv.org/abs/1906.06638)
+  * 利用ALMA的CN线观测: We derive molecular-gas-phase 12C/13C isotope ratios for the central few 100 pc of the three nearby starburst galaxies NGC 253, NGC 1068, and NGC 494
+  * The highest 12C/13C isotopic ratios are determined in some of the outskirts of the nuclear regions of the three starburst galaxies.
+  * Low 12C/13C isotopic ratios in the central regions of these starburst galaxies indicate the presence of highly processed material.
+  * 应该记住12C和13C同位素丰度比的意义：12C and 18O are produced on rapid timescales primarily via He burning in massive stars. 13C and 17O are predominantly synthesized via CNO processing of 12C and 16O seeds from earlier stellar generations. The latter occurs on a slower time scale during the red giant phase in low and intermediate mass stars or novae
+    * It is believed to be a direct measure of primary to secondary nuclear processing; 随着13C累积，比值应该会下降
+
+* [Spatially Resolved Interstellar Medium and Highly-Excited Dense Molecular Gas in the Most Luminous Quasar at z=6.327](https://arxiv.org/abs/1906.06801)
+  * 多频段ALMA观测号称有10^10 Msun SMBH的高红移类星体 J0100+2802
+  * The galaxy size is measured to be Rmajor=3.6±0.2 kpc from the high resolution continuum observations.
+  * No ordered motion on kilo-parsec scales was found in both [CII] and CO(6-5) emissions; we found that the CO emission is more concentrate (a factor of 1.8±0.4) than the [CII] emission.
+  * 气体的速度弥散度比local M-sigma关系预测的低很多
+  * CO SLED可以用一个cold+一个warm成分解释；尘埃连续谱的灰体拟合给出了高尘埃发射率或者热尘埃温度的证据
+
+* [A nuclear molecular outflow in the Seyfert galaxy NGC3227](https://arxiv.org/abs/1906.06889)
+  * ALMA的CO观测：On large scales the cold molecular gas shows circular motions as well as streaming motions on scales of a few hundred parsecs associated with a large scale bar.
+  * The molecular gas in the central region (1" ~73pc) shows several CO clumps with complex kinematics which appears to be dominated by non-circular motions.
+  * Assuming that the radial motions are in the plane of the galaxy, then we interpret them as a nuclear molecular outflow due to molecular gas in the host galaxy being entrained by the AGN wind.
+
+* [NIHAO XXII: Introducing black hole formation, accretion and feedback into the NIHAO simulation suite](https://arxiv.org/abs/1906.06955)
+  * **Relevant**
+  * NIHAO模拟中加入黑洞物理，扩展到更高的halo质量：Now NIHAO contains 144 different galaxies and thus has the largest sample of zoom-in simulations of galaxies, spanning z=0 halo masses from 9×108 to 4×10^13M⊙.
+  * For our fiducial choice of parameters we successfully quench star formation in objects above a z=0 halo mass of 10^12M⊙, thus transforming them into red and dead galaxies
+
+* [The Near and Mid-infrared photometric properties of known redshift z≥5 Quasars](https://arxiv.org/abs/1906.06974)
+  * A catalogue of 463 spectroscopically confirmed very high (z≥5.00) redshift quasars
+  * 97% of the VHzQ sample is detected in one or more NIR (ZYJHK/Ks) band, with lack of coverage rather than lack of depth being the reason for the non-detections. 362 (78%) of the very high redshift quasars are detected at 3.4μm in the W1 band from the unWISE catalog and all of the z≥7 quasars are detected in both unWISE W1 and W2.
+  * 高红移类星体可能的超爱丁顿吸积应该可以有光变探测：We find 32 of the quasars have sufficient NIR measurements and signal-to-noise to look for variability. Weak variability was detected in multiple bands of SDSS J0959+0227, and very marginally in the Y-band of MMT J0215-0529.
+
+* [The star formation history of the Sculptor dwarf spheroidal galaxy](https://arxiv.org/abs/1906.07042)
+  * DECam CMD研究Sculptor的SFH如何随位置变化：所有区域都是单次恒星形成, 中心区域的持续时间更长
+  * 年龄由内向外增长：These results suggest that Sculptor continued forming stars after the reionization epoch in its central part, while in the peripheral region the majority of stars probably formed during the reionization epoch and soon after its end.
+
+* [HI Spectroscopy of Reverberation-Mapped Active Galactic Nuclei](https://arxiv.org/abs/1906.07062)
+  * Combining MGAS with constraints on MSTARS allows exploration of the baryonic content of these galaxies. We find a typical MGAS/MSTARS fraction of 10%, with a few reaching ∼30-50%.
+  * We find a weak preference for galaxies with larger MGAS to host more massive black holes.
+  * We also find gas-to-stellar fractions to weakly correlate with later types in unbarred spirals, with an approximately constant fraction for barred spirals.
+  * Finally, we find a clear relationship for MBH-MBARY with a similar slope as MBH-MSTARS reported by Bentz & Manne-Nicholas (2018).
+
+* [An interpretable machine learning framework for dark matter halo formation](https://arxiv.org/abs/1906.06339)
+  * We investigate the impact of the initial density and tidal shear fields on the formation of haloes over the mass range 11.4≤log(M/M⊙)≤13.4. 用N-body模拟来训练, "initial conditions-to-halo mass mapping"
+  * 机器学习算法训练从density contrast in the particles’ local environment预测final halo mass
+  * 加入tidal shear信息并不能改进预测：This implies that our machine learning setup does not identify any significant role for the tidal shear in determining halo masses.
+
+* [Cosmology with Stacked Cluster Weak Lensing and Cluster-Galaxy Cross-Correlations](https://arxiv.org/abs/1906.06499)
+  * **Relevant, Interesting**
+  * We show that combining the cluster weak lensing observable ΔΣ with the projected cluster-galaxy cross-correlation function wp,cg and galaxy auto-correlation function wp,gg can break the degeneracy between σ8 and σlnMc to achieve tight, percent-level constraints on σ8.
+  * The small scale (rp<3.0h−1Mpc) "mass function" and large scale (rp>3.0h−1Mpc) "halo-mass cross-correlation" regimes of ΔΣ have comparable constraining power, allowing internal consistency tests from such an analysis.
+
+* [Excursion Set Halos -- ExSHalos: A New Parameter Free Method for Fast Generation of Halo Catalogues](https://arxiv.org/abs/1906.06630)
+  * 快速生成DM catalog的方法: This method requires as inputs only the linear matter power spectrum and the threshold density for halo formation in linear theory.
+  * It directly uses excursion set ideas and Lagrangian perturbation theory to produce halo catalogues with the correct abundance, large scale power spectrum, bispectrum and velocity field.
+
+* [Constraining dark matter annihilation with HSC Low Surface Brightness Galaxies](https://arxiv.org/abs/1906.06701)
+  * We report on an analysis that uses eight LSBGs (detected by Subaru Hyper Suprime-Cam survey data) with known redshifts to conduct a search for gamma-ray emission at the positions of these new objects in Fermi Large Area Telescope data.
+  * We found no excesses of gamma-ray emission and set constraints on the dark matter annihilation cross-section.
+  * 未来LSB星系样本大了会很有帮助：We forecast conservatively that using the full catalog of soon-to-be-detected LSBGs will allow us to exclude the canonical thermal relic cross-section for dark matter particles with masses up to several tens of GeV.
+
+* [Expanding the sample of radio minihalos in galaxy clusters](https://arxiv.org/abs/1906.07087)
+  * We use GMRT and VLA data to expand the sample of minihalos by reporting three new minihalo detections (A 2667, A 907 and PSZ1 G139.61+24.20) and confirming minihalos in five clusters (MACS J0159.8-0849, MACS J0329.6-0211, RXC J2129.6+0005, AS 780 and A 3444).
+  * We find no strong relation between the minihalo radio luminosity and the total cluster mass.
+  * We find a strong positive correlation between the minihalo radio power and X-ray bolometric luminosity of the cool core (r<70 kpc). 可能几乎所有的Cool core cluster里都含有mini-halo; 可能是被气体sloshing产生的湍动引起的电子再加速产生的。
