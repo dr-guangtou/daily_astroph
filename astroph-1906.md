@@ -681,3 +681,42 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * We use GMRT and VLA data to expand the sample of minihalos by reporting three new minihalo detections (A 2667, A 907 and PSZ1 G139.61+24.20) and confirming minihalos in five clusters (MACS J0159.8-0849, MACS J0329.6-0211, RXC J2129.6+0005, AS 780 and A 3444).
   * We find no strong relation between the minihalo radio luminosity and the total cluster mass.
   * We find a strong positive correlation between the minihalo radio power and X-ray bolometric luminosity of the cool core (r<70 kpc). 可能几乎所有的Cool core cluster里都含有mini-halo; 可能是被气体sloshing产生的湍动引起的电子再加速产生的。
+
+----
+
+### June 18
+
+* [Lyα Halos Around z∼6 Quasars](https://arxiv.org/abs/1906.07197)
+  * The four Lyα halos presented here are diverse in morphology and size, they each display spatial asymmetry, and none are centred on the position of the quasar.
+  * 发射线星云的速度一般与QSO有偏移，但不大；且每个系统都有宽Lya成分；一般能延伸到13-30 pkpc的距离上
+  * We find larger sizes and higher Lyα luminosities than previous literature results at this redshift, but find no correlation between the quasar properties and the Lyα halo
+
+* [Boötes IV: A New Milky Way Satellite Discovered in the Subaru Hyper Suprime-Cam Survey and Implications for the Missing Satellite Problem](https://arxiv.org/abs/1906.07332)
+  * HSC-SSP新探测到的银河系矮星系：We have identified a statistically significant (32.3σ) overdensity of stars having characteristics of a metal-poor, old stellar population.
+  * We also found another overdensity that appears to be a faint globular cluster
+  * We estimate that there should be about two MW satellites at MV≤0 in the ∼676 deg2 covered by HSC-SSP, whereas that area includes six satellites.
+
+* [AGN-driven quenching of satellite galaxies](https://arxiv.org/abs/1906.07431)
+  * 一组高分辨Hydro模拟比较AGN对quenching的作用：Our wAGN model is identical to the noAGN model except that it also includes a model for black hole seeding and accretion, as well as AGN feedback via high-velocity broad absorption line winds and Compton/photoionization heating.
+  * 在模拟里，AGN能从z~2就开始影响satellites的气体性质 The mean gas rich fraction of satellites at z=0 decreases from 15% in the noAGN simulation to 5% in the wAGN simulation.
+  * 两组模拟的卫星星系性质的区别在z~1可以体现在五倍Virial半径以外: find an increase in the temperature and relative velocity of the intergalactic gas
+
+* [New Analytic Solutions for Galaxy Evolution: Gas, Stars, Metals and Dust in local Early-Type Galaxies and in their high-z Starforming Progenitors](https://arxiv.org/abs/1906.07458)
+  * **Relevant**
+
+* [Stellar populations of nine passive spiral galaxies from the CALIFA survey: are they progenitors of S0s?](https://arxiv.org/abs/1906.07484)
+  * Nine spiral galaxies that have NUV-r > 5 and no/weak nebular emission lines in their spectra are selected as passive spirals.
+  * We find that stellar populations of the passive spirals span a wide range, even in their centers, and hardly show any common trend amongst themselves either.
+  * 和S0比较：However, the distribution of passive spirals are skewed toward higher values of metallicity, lower [a/Fe], and younger ages at all radii.
+
+* [A radio ridge connecting two galaxy clusters in a filament of the cosmic web](https://arxiv.org/abs/1906.07584)
+  * We observed a ridge of radio emission connecting the merging galaxy clusters Abell 0399 and Abell 0401 with the Low Frequency Array (LOFAR) at 140 MHz.
+  * This emission requires a population of relativistic electrons and a magnetic field located in a filament between the two galaxy clusters
+  * We performed simulations to show that a volume-filling distribution of weak shocks may re-accelerate a pre-existing population of relativistic particles, producing emission at radio wavelengths that illuminates the magnetic ridge.
+
+* [Building a cluster: shocks, cavities, and cooling filaments in the group-group merger NGC 6338](https://arxiv.org/abs/1906.07710)
+  * **Relevant, Interesting**
+  * X-ray imaging and spectral mapping show that as well as trailing tails of cool, enriched gas, the two cool cores are embedded in an extensive region of shock heated gas with temperatures rising to ~5 keV.
+  * 星系速度分布显示并合时沿着视线方向的，产生的激波马赫数 M > 2
+  * Both cool cores host potential AGN cavities and Halpha nebulae, indicating rapid radiative cooling.
+  * We estimate the total mass of the system and find that the product of this group-group merger will likely be a galaxy cluster.
