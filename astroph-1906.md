@@ -703,6 +703,8 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 
 * [New Analytic Solutions for Galaxy Evolution: Gas, Stars, Metals and Dust in local Early-Type Galaxies and in their high-z Starforming Progenitors](https://arxiv.org/abs/1906.07458)
   * **Relevant**
+  * We present a set of new analytic solutions aimed at self-consistently describing the spatially-averaged time evolution of the gas, stellar, metal, and dust content in an individual starforming galaxy hosted within a dark halo of given mass and formation redshift
+  * when coupled to specific prescriptions for parameter setting (inspired by in-situ galaxy-black hole coevolution scenarios) and merger rates (based on numerical simulations), can be exploited to reproduce the main statistical relationships followed by early-type galaxies and by their high-redshift starforming progenitors
 
 * [Stellar populations of nine passive spiral galaxies from the CALIFA survey: are they progenitors of S0s?](https://arxiv.org/abs/1906.07484)
   * Nine spiral galaxies that have NUV-r > 5 and no/weak nebular emission lines in their spectra are selected as passive spirals.
@@ -720,3 +722,77 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 星系速度分布显示并合时沿着视线方向的，产生的激波马赫数 M > 2
   * Both cool cores host potential AGN cavities and Halpha nebulae, indicating rapid radiative cooling.
   * We estimate the total mass of the system and find that the product of this group-group merger will likely be a galaxy cluster.
+
+----
+
+### June 19
+
+* [The Assembly of the Virgo Cluster, Traced by its Galaxy Halos](https://arxiv.org/abs/1906.07724)
+  * **Interesting**
+  * 星系光学等光度半径 R_23.5以内的平均暗物质密度不强烈依赖于暗物质质量，但是对红移敏感。
+  * 星系落入更大的暗物质晕的时候，被逐渐潮汐瓦解，暗物质晕质量减少，但中心星系区域的暗物质密度不变：所以可以用这个DM平均密度指示星系落入的红移
+  * 用SHIVir巡天数据检查： We find that galaxies with high ρ¯dm do indeed trace the densest regions of the cluster, with a few notable exceptions.
+
+* [Cooling flow solutions for the circumgalactic medium](https://arxiv.org/abs/1906.07737)
+  * For a given halo mass and cooling function, steady-state cooling flows form a single-parameter family of solutions, while initially hydrostatic gaseous halos converge on one of these solutions within a cooling time.
+  * The solution is thus fully determined once either the mass inflow rate M˙ or the total halo gas mass are known.
+  * 在银河系这个模型可以解释很多观测，说明在halo内部不太需要feedback进一步加热CGM
+  * We also demonstrate that the entropy profiles of some of the most relaxed clusters are reasonably well described by a cooling flow solution.
+
+* [CHANG-ES XVII: H-alpha Imaging of Nearby Edge-on Galaxies, New SFRs, and an Extreme Star Formation Region -- Data Release 2](https://arxiv.org/abs/1906.07763)
+  * Halpha窄带+WISE 22micron数据： a mid-IR extinction correction should be applied to SFR calibrations when used in edge-on galaxies, due to attenuation by dust.
+  * SFR和射电测量的标长以及半径有相关
+
+* [Signatures from a merging galaxy cluster and its AGN population: LOFAR observations of Abell 1682](https://arxiv.org/abs/1906.07792)
+  * 6 arc-second resolution images at low frequencies reveal new structures associated with numerous radio galaxies in the cluster.
+  * We show that a significant part of the cluster emission is from an old radio galaxy with very steep spectrum emission
+  * We identify a new region of diffuse steep spectrum emission (α<−1.1) as a candidate for a radio halo; 位置上和星系并合的中心重合，来自于之前射电星系活动留下电子的激波再加速
+
+* [Separating Line Emission from Star Formation, Shocks, and AGN Ionisation in NGC 1068](https://arxiv.org/abs/1906.07907)
+  * 在三维空间诊断图上区分SF, AGN，以及shock电离
+  * The AGN, shock, and star formation luminosity distributions across the galaxy accurately align with X-ray, radio, and CO(3-2) observations
+  * The shocked emission heavily mixes with the AGN emission
+
+* [Characterization of the continuum and kinematical properties of nearby NLS1](https://arxiv.org/abs/1906.07909)
+  * We found a correlation between the luminosity of the broad component of Hβ and black hole mass with the fraction of power law component.
+  * Finally, according to our results, NLS1 galaxies in our sample follow the relation M − σ, both considering the stellar velocity dispersion (σ⋆), and the core component of [OIII]λ5007.
+
+* [The XMM-Newton Wide Field Survey in the COSMOS Field: Clustering Dependence of X-ray Selected AGN on Host Galaxy Properties](https://arxiv.org/abs/1906.07911)
+  * COSMOS中X-ray AGN的2PCF看AGN的bias和典型暗物质晕质量; 按质量和L_X/M*划分，看环境影响，等
+  * 全样本典型halo质量，log(Mh)=12.8，基本是群环境；Halo质量和L_X/M*以及恒星质量不相关
+  * 比较SHMR：we find that the typical DM halo mass of our high M∗ AGN subsample is similar to that of non-active galaxies. However, AGNs in our low M∗ subsample are found in more massive halos than non-active galaxies.
+
+* [Iron abundance distribution in the hot gas of merging galaxy clusters](https://arxiv.org/abs/1906.08067)
+  * XMM观测6个并合星系团：The Fe distribution of these clusters along the merging axis is found to be in good agreement with the azimuthally-averaged Fe abundance profile in typical non-cool-core clusters out to r500
+  * Fe丰度中心的peak不如弛豫系统那么显著；丰度在大半径处变平，接近0.2-0.3 Zsun
+  * In some cases, remnants of metal-rich and low entropy cool cores can persist after major mergers.
+
+* [The Systematics of Galaxy Morphology in the Comprehensive de Vaucouleurs revised Hubble-Sandage Classification System: Application to the EFIGI Sample](https://arxiv.org/abs/1906.08124)
+  * The survey is focussed on statistics of features, and brings attention to exceptional examples of some morphologies, such as skewed bars, blue bar ansae, bar-outer pseudoring misalignment, extremely elongated inner SB rings, outer rings and lenses, and other features that are likely relevant to galactic secular evolution and internal dynamics.
+
+* [Optical follow-up study of 32 high-redshift galaxy cluster candidates from Planck with the William Herschel Telescope](https://arxiv.org/abs/1906.08174)
+  * **Relevant**
+  * Optical observations obtained for 32 Planck cluster candidates using ACAM on the 4.2-m William Herschel Telescope
+  * The optical richness is often lower than expected from the inferred SZ mass when compared to scaling relations previously calibrated at low redshifts. 低红移的质量-richness关系未必适用
+  * This likely indicates the impact of Eddington bias and projection effects or noise-induced detections, especially at low SZ-significance. 
+  * We find that 18 (7) of the candidates at redshifts z>0.5 (z>0.8) are at least half as rich as expected from scaling relations
+
+* [The Fornax3D project: Tracing the assembly history of the cluster from the kinematic and line-strength maps](https://arxiv.org/abs/1906.08187)
+  * **Relevant**
+  * Fornax viral半径内31个最亮的星系的MUSE观测：2-3 Re for 21 early-type galaxies and 1-2 Re for 10 late-type galaxies.
+  * Eight host a kinematically distinct core; 只有两个是slow rotator
+  * Extended emission-line gas is detected in 13 galaxies, most of them are late-type objects with wide-spread star formation. 
+
+* [Cluster Cosmology with the Velocity Distribution Function of the HeCS-SZ Sample](https://arxiv.org/abs/1906.07729)
+  * **Relevant**
+  * 用SZ Clusters的速度弥散度分布来限制宇宙学模型：The VDF is a forward-modeled test statistic that can be used to constrain cosmological models directly from galaxy cluster dynamical observations.
+  * 应用在Hectospec Survey of Sunyaev-Zeldovich-Selected Clusters (HeCS-SZ) sample, which is a spectroscopic follow up of a Planck-selected sample of 83 galaxy clusters数据上
+  * 对S8的结果限制和Planck不一致
+
+* [A joint XMM-NuSTAR observation of the galaxy cluster Abell 523: constraints on Inverse Compton emission](https://arxiv.org/abs/1906.07730)
+  * 是radio power P(1.4 GHz) - X-ray luminosity关系的一个例外。 
+
+* [The Prospects of Observing Tidal Disruption Events with the LSST](https://arxiv.org/abs/1906.08235)
+  * We used the LSST simulation framework and defined TDE catalogs on 20 fields of 20.25 deg2 size. 
+  * Observations of TDEs in 10 years of LSST operations were simulated by querying the simulated observing strategy database minion_1016.
+  * Based on the results of our simulations we estimate that the LSST should discover between 35 000 and 80 000 TDEs in 10 years of operations
