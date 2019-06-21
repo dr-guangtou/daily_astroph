@@ -796,3 +796,56 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * We used the LSST simulation framework and defined TDE catalogs on 20 fields of 20.25 deg2 size. 
   * Observations of TDEs in 10 years of LSST operations were simulated by querying the simulated observing strategy database minion_1016.
   * Based on the results of our simulations we estimate that the LSST should discover between 35 000 and 80 000 TDEs in 10 years of operations
+
+----
+
+### June 20
+
+* [Tidal destruction in a low mass galaxy environment: the discovery of tidal tails around DDO 44](https://arxiv.org/abs/1906.08260)
+  * MADCASH巡天：NGC2403的卫星星系DDO 44附近的一个很长的tidal stream
+  * Density maps of old, metal-poor RGB stars reveal tidal streams extending on two sides of DDO 44, with the streams directed toward NGC 2403.
+  * Analogs of ∼LMC-mass hosts with massive tidally disrupting satellites are rare in the Illustris simulations, especially at large separations such as that of DDO 44
+
+* [Cosmological Simulations of Satellites around Isolated Dwarf Galaxies](https://arxiv.org/abs/1906.08267)
+  * 高分辨hydro模拟看dwarf星系的卫星的来源：mini-halos form objects resembling dwarf galaxies
+  * 很多mini halo的恒星形成都靠的是再电离之后吸积来的气体，所以mini halo里的气体能不能从再电离里幸存下来不是很关键。
+  * 在相对dense的环境，halo经历的并合更多，有助于吸积来的气体冷却
+  * 即便是在dwarf星系周围，RPS也是很重要的让mini halo损失气体的主要原因 both by interacting with hot halo gas but also in direct collisions with the gas disk of the host.
+  * 和被瓦解的卫星比，卫星能幸存的主要原因除了质量稍大外，是落入halo的时间更晚
+
+* [The origin of the Galaxy's system of globular clusters](https://arxiv.org/abs/1906.08271)
+  * We have found that about 40% of the clusters likely formed in-situ. A similarly large fraction, 35%, can be associated to the merger events, in particular to Gaia-Enceladus (19%), the Sagittarius dwarf galaxy (5%), the progenitor of the Helmi streams (6%) and to the Sequoia galaxy (5%)
+
+* [The influence of the void environment on the ratio of dark matter halo mass to stellar mass in SDSS MaNGA galaxies](https://arxiv.org/abs/1906.08327)
+  * 比较MaNGA里的 641 void galaxies and 937 galaxies in denser regions
+  * 用Halpha发射线运动估计旋转曲线，估计动力学质量，推测暗物质晕质量
+  * 发现SHMR以及M_DM/M_* 和气态丰度的关系都不受Void环境的影响
+
+* [An ALMA multi-line survey of the interstellar medium of the redshift 7.5 quasar host galaxy J1342+0928](https://arxiv.org/abs/1906.08569)
+  * 8个波段研究尘埃连续谱和远红外发射线:We find line deficits that are in agreement with local ultra luminous infrared galaxies.
+  * Comparison of the [NII]122 and [CII]158 lines indicates that the [CII]158 emission arises predominantly from the neutral medium 
+  * Our observations favor a low gas-to-dust ratio of <100 and a metallicity of the interstellar medium comparable to the Solar value. 这个高红移QSO的host富集了很多尘埃和金属
+
+* [The Fornax Deep Survey with VST. VII. Evolution and Structure of Late Type Galaxies inside the Virial Radius of the Fornax Cluster](https://arxiv.org/abs/1906.08704)
+  * **Relevant**
+  * Fornax 0.7xRvir内13 late type galaxies (LTGs)的外围结构研究。
+  * We observe a clear discontinuity in their SB profiles, derive their break radius (Br), and classify their disc-breaks into Type-II (down-bending) or Type-III (up-bending).
+  * We find that Type-II galaxies have bluer average (g-i) colour in their outer discs while Type-III galaxies are redder
+
+* [The polarized signal from broad emmission lines in AGN](https://arxiv.org/abs/1906.08718)
+  * Use the STOKES Monte Carlo radiative transfer code we revisit the predictions on the spectropolarimetric signal from a disc-like Broad Emission Line (BLR) in Type I AGN due to the presence of an equatorial scattering region
+  * we find that the presence of outflows in the scattering media can greatly change the observed line profiles, with the PA of the scattering signal being enhanced in the presence of radially outflowing winds
+
+* [Measuring cosmological distances of active galactic nuclei from spectroastrometry and reverberation mapping: application to 3C 273](https://arxiv.org/abs/1906.08417)
+  * **Interesting**
+  * GRAVITY的分光天体测量观测揭示了3C 273的BLR的精细运动学，包括BLR的角大小
+  * 同时RM观测揭示了BLR的物理线大小，综合分析可以估计距离
+  * The advantages of the scheme rest on the feasibility of directly measuring cosmological distances without the invoking of otherwise calibrations through known cosmic ladders.
+  * With RM campaigns, a GRAVITY-sample with a reasonable size (∼25 AGNs) will provide accurate measurements of distances of the AGNs and hence a new way of measuring the Hubble constant with high precision
+
+* [New perspectives on the BOSS small-scale lensing discrepancy for the Planck ΛCDM Cosmology](https://arxiv.org/abs/1906.08680)
+  * **Relevant** Johannes Lange
+  * We present new measurements of the redshift and stellar mass dependence of the lensing properties of the galaxy sample.
+  * 看如果假设了Planck18的宇宙学，能在什么程度上解释小尺度上的clustering和lensing信号
+  * 从clustering预测出的lensing信号低25%，且对红移和星系恒星质量不敏感
+  * 简单改变S8参数并不能完美解释差异：Instead, other often neglected systematics like baryonic feedback or assembly bias are likely contributing to the small-scale lensing discrepancy
