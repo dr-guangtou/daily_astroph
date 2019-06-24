@@ -774,14 +774,14 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * **Relevant**
   * Optical observations obtained for 32 Planck cluster candidates using ACAM on the 4.2-m William Herschel Telescope
   * The optical richness is often lower than expected from the inferred SZ mass when compared to scaling relations previously calibrated at low redshifts. 低红移的质量-richness关系未必适用
-  * This likely indicates the impact of Eddington bias and projection effects or noise-induced detections, especially at low SZ-significance. 
+  * This likely indicates the impact of Eddington bias and projection effects or noise-induced detections, especially at low SZ-significance.
   * We find that 18 (7) of the candidates at redshifts z>0.5 (z>0.8) are at least half as rich as expected from scaling relations
 
 * [The Fornax3D project: Tracing the assembly history of the cluster from the kinematic and line-strength maps](https://arxiv.org/abs/1906.08187)
   * **Relevant**
   * Fornax viral半径内31个最亮的星系的MUSE观测：2-3 Re for 21 early-type galaxies and 1-2 Re for 10 late-type galaxies.
   * Eight host a kinematically distinct core; 只有两个是slow rotator
-  * Extended emission-line gas is detected in 13 galaxies, most of them are late-type objects with wide-spread star formation. 
+  * Extended emission-line gas is detected in 13 galaxies, most of them are late-type objects with wide-spread star formation.
 
 * [Cluster Cosmology with the Velocity Distribution Function of the HeCS-SZ Sample](https://arxiv.org/abs/1906.07729)
   * **Relevant**
@@ -790,10 +790,10 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 对S8的结果限制和Planck不一致
 
 * [A joint XMM-NuSTAR observation of the galaxy cluster Abell 523: constraints on Inverse Compton emission](https://arxiv.org/abs/1906.07730)
-  * 是radio power P(1.4 GHz) - X-ray luminosity关系的一个例外。 
+  * 是radio power P(1.4 GHz) - X-ray luminosity关系的一个例外。
 
 * [The Prospects of Observing Tidal Disruption Events with the LSST](https://arxiv.org/abs/1906.08235)
-  * We used the LSST simulation framework and defined TDE catalogs on 20 fields of 20.25 deg2 size. 
+  * We used the LSST simulation framework and defined TDE catalogs on 20 fields of 20.25 deg2 size.
   * Observations of TDEs in 10 years of LSST operations were simulated by querying the simulated observing strategy database minion_1016.
   * Based on the results of our simulations we estimate that the LSST should discover between 35 000 and 80 000 TDEs in 10 years of operations
 
@@ -823,7 +823,7 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 
 * [An ALMA multi-line survey of the interstellar medium of the redshift 7.5 quasar host galaxy J1342+0928](https://arxiv.org/abs/1906.08569)
   * 8个波段研究尘埃连续谱和远红外发射线:We find line deficits that are in agreement with local ultra luminous infrared galaxies.
-  * Comparison of the [NII]122 and [CII]158 lines indicates that the [CII]158 emission arises predominantly from the neutral medium 
+  * Comparison of the [NII]122 and [CII]158 lines indicates that the [CII]158 emission arises predominantly from the neutral medium
   * Our observations favor a low gas-to-dust ratio of <100 and a metallicity of the interstellar medium comparable to the Solar value. 这个高红移QSO的host富集了很多尘埃和金属
 
 * [The Fornax Deep Survey with VST. VII. Evolution and Structure of Late Type Galaxies inside the Virial Radius of the Fornax Cluster](https://arxiv.org/abs/1906.08704)
@@ -849,3 +849,47 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 看如果假设了Planck18的宇宙学，能在什么程度上解释小尺度上的clustering和lensing信号
   * 从clustering预测出的lensing信号低25%，且对红移和星系恒星质量不敏感
   * 简单改变S8参数并不能完美解释差异：Instead, other often neglected systematics like baryonic feedback or assembly bias are likely contributing to the small-scale lensing discrepancy
+
+----
+
+### June 23
+
+* [EMPIRE: The IRAM 30-m Dense Gas Survey of Nearby Galaxies](https://arxiv.org/abs/1906.08779)
+  * 9个近邻大质量旋涡星系的1-2 kpc分辨率的IRAM 3-4 mm致密气体观测
+  * We find that the fraction of dense gas correlates with stellar surface density, gas surface density, molecular-to-atomic gas ratio, and dynamical equilibrium pressure.
+  * In EMPIRE, the star formation rate per unit dense gas anti-correlates with these same environmental parameters. 所以在星系中心虽然致密气体多，但是SF效率不高
+
+* [Deep-CEE I: Fishing for Galaxy Clusters with Deep Neural Nets](https://arxiv.org/abs/1906.08784)
+  * **Relevant, Interesting**
+  * A novel deep learning technique, applied directly to wide-field colour imaging to search for galaxy clusters, without the need for photometric catalogues
+  * Ultimately, we will apply our model to surveys such as LSST and Euclid to probe wider and deeper into unexplored regions of the Universe.
+
+* [Radio-spectral index distribution of SDSS-FIRST sources across optical diagnostic diagrams](https://arxiv.org/abs/1906.08877)
+  * Two-point radio spectral index distributions for star-forming galaxies, composite galaxies (with a combined contribution to the line emission from the star-formation and AGN activity), Seyferts, and low ionization narrow emission region (LINER) galaxies in SDSS
+  * we found three distinct classes of radio emitters for our sample: (i) sources with steep radio index, high ionization ratio and high radio loudness, (ii) sources with flat radio index, lower ionization ratio and intermediate radio loudness, (iii) sources with inverted radio index, low ionization ratio and low radio loudness. The classes (i), (ii), (iii) cluster mainly along the transition from Seyfert to LINER sources in the BPT diagram.
+
+* [High-precision Monte-Carlo modelling of galaxy distribution](https://arxiv.org/abs/1906.09042)
+  * We address the question of generating a 3D field with a given one-point function (as a log-normal one, but not only) and some power-spectrum fixed by cosmology
+  * We extend the method to generate a full light cone evolution comparing two methods for doing it and validate our method with a tomographic analysis. We investigate analytically and numerically the structure of the covariance matrices obtained with such simulations which may be useful for future large and deep surveys.
+
+* [Constraints on decaying dark matter from weak lensing and cluster counts](https://arxiv.org/abs/1906.09112)
+  * We use N-body simulation to investigate how DDM affects the halo mass function. 
+  * This allows us to incorporate the cluster counts observed by the Sunyaev-Zel'dovich effect to study a bound on the lifetime of DDM. 
+    * DDM可以缓解CMB和星系clustering宇宙学限制的不符合
+    * Given the DDM decay rate Γ, the suppression in the mass function from the CDM case
+
+* [CMB tensions with low-redshift H0 and S8 measurements: impact of a redshift-dependent type-Ia supernovae intrinsic luminosity](https://arxiv.org/abs/1906.09189)
+  * **Interesting**
+  * We reconstruct the Dark Energy equation of state as a function of redshift, while we study the impact of type-Ia supernovae (SNIa) redshift-dependent astrophysical systematic effects on these tensions
+  * 假设SNIa的本征光度会随着红移改变，背后的驱动可以是SFR随环境的变化，或者是金属丰度的改变
+  * We find that the H0 and S8 tensions can be significantly alleviated, or even removed, if we account for varying Dark Energy for SNIa and CMB data
+  * The tensions remain when we add baryon acoustic oscillations data into the analysis, even after the addition of extra SNIa systematic uncertainties.
+
+* [KiDS+VIKING-450 and DES-Y1 combined: Cosmology with cosmic shear](https://arxiv.org/abs/1906.09262)
+  * **Interesting, Important**
+  * Combined tomographic weak gravitational lensing analysis of the Kilo Degree Survey (KV450) and the Dark Energy Survey (DES-Y1)
+  * 更新了DES的红移估计，得到的S8值变低了 0.8xsigma, 依然与Planck结果的S8有2.5 sigma的差异
+
+* [RefleX: X-ray absorption and reflection in active galactic nuclei for arbitrary geometries](https://arxiv.org/abs/1906.08824)
+  * RefleX, which allows to reproduce absorption and reflection by quasi-arbitrary geometries.
+  * RefleX implements both Compton scattering on free electrons and Rayleigh scattering and Compton scattering on bound electrons.
