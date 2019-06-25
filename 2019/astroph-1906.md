@@ -873,8 +873,8 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * We extend the method to generate a full light cone evolution comparing two methods for doing it and validate our method with a tomographic analysis. We investigate analytically and numerically the structure of the covariance matrices obtained with such simulations which may be useful for future large and deep surveys.
 
 * [Constraints on decaying dark matter from weak lensing and cluster counts](https://arxiv.org/abs/1906.09112)
-  * We use N-body simulation to investigate how DDM affects the halo mass function. 
-  * This allows us to incorporate the cluster counts observed by the Sunyaev-Zel'dovich effect to study a bound on the lifetime of DDM. 
+  * We use N-body simulation to investigate how DDM affects the halo mass function.
+  * This allows us to incorporate the cluster counts observed by the Sunyaev-Zel'dovich effect to study a bound on the lifetime of DDM.
     * DDM可以缓解CMB和星系clustering宇宙学限制的不符合
     * Given the DDM decay rate Γ, the suppression in the mass function from the CDM case
 
@@ -893,3 +893,57 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
 * [RefleX: X-ray absorption and reflection in active galactic nuclei for arbitrary geometries](https://arxiv.org/abs/1906.08824)
   * RefleX, which allows to reproduce absorption and reflection by quasi-arbitrary geometries.
   * RefleX implements both Compton scattering on free electrons and Rayleigh scattering and Compton scattering on bound electrons.
+
+----
+
+### June 24
+
+* [The Dust-to-Gas and Dust-to-Metals Ratio in Galaxies from z=0-6](https://arxiv.org/abs/1906.09277)
+  * 气尘比和尘埃-金属比的模型预测：通过在Simba模拟中加入尘埃产生，成长，和瓦解的模型。
+  * Our simulation reproduces the observed dust mass function at z=0, but modestly under-predicts the mass function by ~x3 at z ~ 1-2. z=0的气尘比和金属丰度在恒星形成星系中有正相关，在quiescent星系中没有
+  *  DGR is primarily correlated with the gas-phase metallicity
+
+* [A NuSTAR and XMM-Newton Study of the Two Most Actively Star-forming Green Pea Galaxies (SDSS J0749+3337 and SDSS J0822+2241)](https://arxiv.org/abs/1906.09653)
+  * The GPs have red mid-infrared (MIR) spectral energy distributions and higher 22 μm luminosities than expected from a proxy of the SFR 符合AGN的特征
+  * Hard X-ray没有探测到，但是Soft X-ray有探测，且可以用SF解释。
+  * A possible reason for the lack of clear evidence is that a putative AGN torus absorbs most of the X-ray emission.
+  * Therefore, the GPs may host such heavily obscured AGNs. Otherwise, no AGN exists and the MIR emission is ascribed to SF.
+
+* [The "Red Radio Ring": Ionised and Molecular Gas in a Starburst/Active Galactic Nucleus at z∼2.55](https://arxiv.org/abs/1906.09656)
+  * A strongly lensed galaxy, hereafter ``The Red Radio Ring''; the RRR, at z = 2.55
+  * All line profiles suggest that the HII regions, traced by [Nii] 205 µm , and the (diffuse and dense) molecular gas, traced by the CO, are co-spatial when averaged over kpc-sized regions
+  * [NII]线有显著的消光： It is clear that dust attenuation corrections should be accounted for when studying FIR fine-structure lines in such systems
+  * We find that the lower-limit, [Nii] 205 µm -based star-formation rate (SFR) is less than the IR-derived SFR by a factor of four.
+
+* [Evidence of a fast bar in the weakly-interacting galaxy NGC 4264 with MUSE](https://arxiv.org/abs/1906.09853)
+  * We measured the bar radius (a_bar=3.2 +/-0.5 kpc) and strength (S_bar=0.31+/-0.04) of NGC 4264
+  * Its bar pattern speed (Omega_bar=71+/-4 km/s/kpc) using the Tremaine-Weinberg method with stellar-absorption
+  * We derived the circular velocity (V_circ=189+/-10 km/s) by correcting the stellar streaming velocity for asymmetric drift and calculated the corotation radius (R_cor=2.8+/-0.2 kpc) from the bar pattern speed
+  * We find that NGC 4264 hosts a strong and large bar extending out to the corotation radius. This means that the bar is rotating as fast as it can like nearly all the other bars measured so far
+
+* [3D Optical Spectroscopic Study of NGC3344 with SITELLE: I. Identification and Confirmation of Supernova Remnants](https://arxiv.org/abs/1906.10021)
+  * SITELLE观测：we identified about 2200 emission line regions, many of which are H II regions, diffuse ionized gas regions, and also SNRs
+  * We have selected 129 SNR candidates based on four criteria for regions where the emission lines flux ratio [S II]/Hα ≥ 0.4.
+  * we end up with 42 Confirmed SNRs, 45 Probable SNRs, and 42 Less likely SNRs 金属丰度从LMC到2倍太阳丰度
+  * Sabbadin Plot (Sabbadin et al. 1977): 
+    - log(Halpha / [SII]6716+6731) v.s. log(Halpha / [NII]6548+4584)
+    - log(Halpha / [SII]6716+6731) v.s. ([SII] 6716 / [SII] 6731)
+    - 用来区分HII区，SNR和PNe
+
+* [The specific angular momenta of superthin galaxies: Cue to their origin?](https://arxiv.org/abs/1906.10039)
+  * **Interesting**
+  * We calculate the specific angular momenta of a sample of six superthins and nine other bulgeless LSBs using stellar photometry, atomic hydrogen (HI) surface density and high resolution HI rotation curves available in the literature.
+  * Superthin和LSB星系的恒星盘的大小：lie above the 95.4 % confidence band of the js - Vrot regression line for ordinary bulgeless disc galaxies
+  * Further, we find that superthins and LSBs have higher js and RD values for a given value of stellar mass Ms at high values of statistical significance
+
+* [Inflowing Gas in the Central Parsec of M81](https://arxiv.org/abs/1906.10085)
+  * STIS观测M81中间：revealed a UV--visible spectrum rich with emission lines of a variety of widths, ionization potentials, and critical densities
+  * The broad-line region of M81 cannot be uniquely defined on the basis of commonly used observables such as the full-width at half maximum of the emission lines, or ratios of various emission lines
+  * 复杂的电离辐射区可以分成三个区域： 1） A large, highly ionized, low density, low metallicity H+ region producing the broad Balmer lines；2）H+区内有smaller condensations spanning a wide-range in density, and the source of forbidden line emission through collisional excitation of the respective ions; 3) a curious extended source of time-variable CIV λ 1548 emission
+  * These observations can be qualitatively understood in the context of a shock excited jet cavity within a large H+ region that is photoionized by the central UV--X-ray source.
+
+* [Spectral imaging of the thermal Sunyaev-Zel'dovich effect in X-COP galaxy clusters: method and validation](https://arxiv.org/abs/1906.10013)
+  * **Interesting**
+  * For the first time, we produce maps of the Comptonization parameter by applying a locally parametric algorithm for sparse component separation to the latest frequency maps released by Planck.
+  * The implementation of a deconvolution of Planck beams in the chi-square minimization of each wavelet coefficient.
+  * Our images show the presence of anisotropic features, such as small-scale blobs and filamentary substructures, located in the outskirts of a number of clusters in the sample.
