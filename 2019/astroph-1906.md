@@ -902,6 +902,8 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * 气尘比和尘埃-金属比的模型预测：通过在Simba模拟中加入尘埃产生，成长，和瓦解的模型。
   * Our simulation reproduces the observed dust mass function at z=0, but modestly under-predicts the mass function by ~x3 at z ~ 1-2. z=0的气尘比和金属丰度在恒星形成星系中有正相关，在quiescent星系中没有
   *  DGR is primarily correlated with the gas-phase metallicity
+  * 还使用了机器学习算法来探索哪些星系参数和DGR有关：The primary algorithm used in this work is extremely
+randomized trees (ERTs; Geurts et al. 2006)
 
 * [A NuSTAR and XMM-Newton Study of the Two Most Actively Star-forming Green Pea Galaxies (SDSS J0749+3337 and SDSS J0822+2241)](https://arxiv.org/abs/1906.09653)
   * The GPs have red mid-infrared (MIR) spectral energy distributions and higher 22 μm luminosities than expected from a proxy of the SFR 符合AGN的特征
@@ -947,3 +949,67 @@ least one quasar, presenting the 12 most reliable gravitationally lensed quasar 
   * For the first time, we produce maps of the Comptonization parameter by applying a locally parametric algorithm for sparse component separation to the latest frequency maps released by Planck.
   * The implementation of a deconvolution of Planck beams in the chi-square minimization of each wavelet coefficient.
   * Our images show the presence of anisotropic features, such as small-scale blobs and filamentary substructures, located in the outskirts of a number of clusters in the sample.
+
+----
+
+### June 25
+
+* [Evidence for Low Radiative Efficiency or Highly Obscured Growth of z>7 Quasars](https://arxiv.org/abs/1906.10130)
+  * 高红移的超大质量黑洞不能用简单的薄盘吸积来解释：Here we show that one can constrain the radiative efficiencies of the most distant quasars known using foreground neutral intergalactic gas as a cosmological-scale ionizing photon counter
+  * 用高红移QSO前景的Lya吸收啦限制平均辐射效率，发现远低于10%。This low radiative efficiency implies rapid mass accretion for the earliest SMBHs, greatly easing the tension between the age of the Universe and the SMBH masses
+  * Our measured efficiency may instead reflect nearly complete obscuration by dusty gas in the
+quasar host galaxies over the vast majority of their SMBH growth
+
+* [The Iκεα model of feedback-regulated galaxy formation](https://arxiv.org/abs/1906.10135)
+  * **Interesting**; Worth looking into this model
+  * A galaxy's star formation rate is set by the balance between energy injected by feedback from massive stars and energy lost by the deepening of the potential of its host dark matter halo due to cosmological accretion
+  * 有四个参数；关键假设是SFR随着SF气体的密度升高而升高
+  * These self-regulation results are independent of the star formation law and the galaxy's gas content
+
+* [The Sloan Digital Sky Survey Reverberation Mapping Project: Accretion and Broad Emission Line Physics from a Hypervariable Quasar](https://arxiv.org/abs/1906.10138)
+  * z=0.4的一个变脸QSO的RM观测，光度在3年间升高了10倍
+  * The observed broad emission lines all respond in luminosity and width to the changing optical continuum, as expected for photoionization in a stratified, virialized broad emission line region
+  * 所以“变脸”是因为吸积率在真的改变; 光变是连续的，不能很好的用TDE或者微引力透镜这样的离散现象来解释。
+  *  It is coordinated on day timescales with blue leading red, consistent with reprocessing powering the entire optical SED.
+  * 不能用薄盘模型解释，需要有更大的covering factor
+
+* [Ionization Mechanisms in Quasar Outflows](https://arxiv.org/abs/1906.10249)
+  * Gemini/IFS观测近邻射电宁静的Type 1类星体，用发射线比值和线宽来分析host和outflow中的电离机制
+  * AGN的光致电离在两个成分里作用都很重要。外流中的气体往往被电离的比例更高，说明更多的暴露在AGN的辐射下
+  * 有些系统中外流部分的线宽和发射线比值之间有正相关，可能指示了激波的贡献。shocks with velocities of order 100 − 500 km s−1 may also be contributing to the ionization and heating of the outflowing gas component
+
+* [Estimating the Fuel Supply Rate on the Galactic Disk from High Velocity Clouds (HVCs) Infall](https://arxiv.org/abs/1906.10294)
+  * The hydrodynamic interaction between the HVCs and the Galactic disk is not considered in the traditional method of estimating the infall rate 实际的吸积率可能会比0.4 Msun/yr 要低很多。
+
+* [Supernovae and their host galaxies -- VI. Normal Type Ia and 91bg-like supernovae in ellipticals](https://arxiv.org/abs/1906.10501)
+  * 看Elliptical host的普通SNIa和一类叫做 91bg-like的特殊类型的在宿主星系的性质上有什么区别
+  * The galactocentric distributions of normal and 91bg-like SNe are consistent with each other, and with the radial light distribution of host stellar populations
+  * Only the distributions of u-r colours and ages are inconsistent significantly between the ellipticals of different SN Ia subclasses: the hosts of normal SNe are on average bluer and younger than those of 91bg-like SNe.
+  * The bluer and younger ellipticals might have more residual star formation that gives rise to younger "prompt" progenitors, resulting in normal SNe Ia with shorter delay times
+
+* [Observational evidence for bar formation in disk galaxies via cluster-cluster interaction](https://arxiv.org/abs/1906.10585)
+  * We examined 105 galaxy clusters at redshift 0.015 < z < 0.060 that are selected from the Sloan Digital Sky Survey data, and identified 16 interacting clusters. We find that the barred disk-dominated galaxy fraction is about 1.5 times higher in interacting clusters than in clusters with no clear signs of ongoing interaction (42% versus 27%). 
+
+* [CHANG-ES XIX: Galaxy NGC 4013 -- a diffusion-dominated radio halo with plane-parallel disk and vertical halo magnetic fields](https://arxiv.org/abs/1906.10650)
+  * LFOAR+EVLA观测：The central point source dominates the radio continuum in both CHANG-ES bands, but no clear AGN classification is possible at this time.
+  * 射电晕的标高随频率降低而变大：The radio continuum halo of NGC 4013 in C-band is rather small, while the low-frequency LOFAR data reveal a large halo.
+  * The polarization data reveal plane-parallel, regular magnetic fields within the entire disk and vertical halo components out to heights of about 6 kpc indicating the presence of an axisymmetric field having a radial component pointing outwards.
+  * the CR transport in the halo of NGC 4013 is diffusive: the frequency dependence of the synchrotron scale height, the disk/halo flux density ratio, the vertical profile of the synchrotron spectral index, the small propagation speed measured modeled with spinnaker, and the low temperature of the X-ray emitting hot gas.
+
+* [UVIT view of dwarf irregular galaxy IC 2574 : Is the star formation triggered due to expanding H I shells?](https://arxiv.org/abs/1906.10660)
+  * We identified 419 FUV bright regions with radii between 15 - 285 pc in the galaxy and found that 28.6% of them to be located in H I shells, 12.6% inside holes and 60.1% to be away from the holes
+  * 30 out of the 48 H I holes show triggered star formation in their shells while 16 holes do not show any related FUV emission
+  * Therefore, star formation in the galaxy has been partly triggered due to the expanding H I holes whereas in majority of the sites it is driven by other mechanisms.
+
+* [The XXL Survey: XLII. Scatters and correlations of X-ray proxies in the bright XXL cluster sample](https://arxiv.org/abs/1906.10455)
+  * 看X-ray观测星系团的主要观测量，光度，温度，气体质量之间的关系，主要关注scatter和协方差矩阵
+  * Intrinsic scatters and correlations can be measured under the assumption that the observable properties of the intra-cluster medium hosted in clusters are log-normally distributed around power-law scaling relations
+  * We analyzed the 100 brightest clusters detected in the XXL Survey and their X-ray properties measured within a fixed radius of 300 kpc
+  * The gas mass is the less scattered proxy (∼8%). The temperature (∼20%) is intrinsically less scattered than the luminosity (∼ 30%) but it is measured with a larger observational uncertainty.
+  * Positive correlations between X-ray properties can be determined by the dynamical state and the merger history of the halos. The slopes of the scaling relations are affected by radiative processes
+
+* [Observations of a Pre-Merger Shock in Colliding Clusters of Galaxies](https://arxiv.org/abs/1906.10285)
+  * Nearly all of the merger shocks are found in systems where the clusters have already collided, knowledge of shocks in the pre-merger phase is a crucial missing ingredient.
+  * On the discovery of a unique shock in a cluster pair 1E 2216 and 1E 2215. The two clusters are observed at an early phase of major merger.
+  * This discovery uncovers an important epoch in the formation of massive clusters, when the rapid approach of the cluster pair leads to strong compression of gas along the merger axis.
+    * the new shock propagates outward along the equatorial plane of the merger.
