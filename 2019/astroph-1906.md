@@ -1013,3 +1013,47 @@ quasar host galaxies over the vast majority of their SMBH growth
   * On the discovery of a unique shock in a cluster pair 1E 2216 and 1E 2215. The two clusters are observed at an early phase of major merger.
   * This discovery uncovers an important epoch in the formation of massive clusters, when the rapid approach of the cluster pair leads to strong compression of gas along the merger axis.
     * the new shock propagates outward along the equatorial plane of the merger.
+
+----
+
+### June 26
+
+* [Shattering of Cosmic Sheets due to Thermal Instabilities: a Formation Channel for Metal-Free Lyman Limit Systems](https://arxiv.org/abs/1906.10693)
+  * 极高分辨率下研究两个在filament中的halo的演化：At 5>z>3, the two halos are found to lie in a large intergalactic sheet, or "pancake", consisting of multiple co-planar dense filaments
+  * 这个sheet在红移5时因为两个更小的sheet的并合产生坍缩，并合的激波产生热不稳定性，导致sheet碎裂成kpc尺度的小云团
+  * 这些小云团的HI柱密度可以达到LLS标准，且有极低的金属丰度
+
+* [AGN in dwarf galaxies: frequency, triggering processes and the plausibility of AGN feedback](https://arxiv.org/abs/1906.10697)
+  * **Interesting**
+  * HSC+WISE看~800 AGN in dwarfs at low redshift (z<0.3).
+  * Infrared-selected AGN fractions are ~10-30 per cent in dwarfs, which, for reasonable duty cycles, indicates a high BH-occupation fraction.
+  * The merger fraction in dwarf AGN (~6 per cent) shows no excess compared to a control sample of non-AGN 和并合关系不大
+  * L_AGN/L_SN is, in fact, higher in dwarfs, with predictions from simulations suggesting that this ratio only increases with redshift. 
+
+* [The Rest-frame H-band Luminosity Function of Red Sequence Galaxies in Clusters at 1.0<z<1.3](https://arxiv.org/abs/1906.10707)
+  * **Relevant**
+  * GOGREEN项目，GMOS-z波段加上IRAC 3.6micron: red-sequence的faint end从z=1.3到z=0.6有演化，with the mean faint end red sequence luminosity growing by more than a factor of two.
+  * 在z=1.15的cluster里，red-sequence的faint/bright比值和field里差不多，但是随着红移降低升高很多，有很强的演化
+  * The build up of the faint red sequence galaxies occurs gradually over time and suggest that faint cluster galaxies, similar to bright cluster galaxies, experience the quenching effect induced by environment already at z~1.15. 
+  * COncentration-Mass relation and Mass Accretion History’ (COMMAH) code
+
+* [Radio jets from AGN in dwarf galaxies in the COSMOS survey: mechanical feedback out to redshift ∼3.4](https://arxiv.org/abs/1906.10713)
+  * **Interesting**
+  * We report the discovery of 35 dwarf galaxies hosting radio AGN out to redshift ∼3.4
+    * 恒星质量都在10^9 Msun，考虑到恒星形成历史的假设，有没有可能被显著的低估了？
+  * The galaxies are drawn from the VLA-COSMOS 3 GHz Large Project and all are star-forming.
+  * The 3 GHz radio emission of most of the sources is compact 能量也符合有AGN的迹象
+  * dwarf galaxies can host radio jets as powerful as those of massive radio galaxies whose jet mechanical feedback can strongly affect the formation of stars in the host galaxy. AGN反馈在dwarf中的作用可能也不小
+  * This implies that those low-mass AGN hosted in dwarf galaxies might not be the untouched relics of the early seed BHs, which has important implications for seed BH formation models. 
+
+* [Star-formation in CALIFA early-type galaxies. A matter of discs](https://arxiv.org/abs/1906.10759)
+  * `C2D`光谱核盘分解code： i) star formation always occurs in the disc component and not in bulges; ii) star-forming discs in our ETGs are compatible with the SFMS defined by star forming galaxies at z∼0; iii) the star formation is not confined to the outskirts of discs, but it is present at all radii
+
+* [The quantity of dark matter in early-type galaxies and its relation to the environment](https://arxiv.org/abs/1906.11161)
+  * **Relevant**
+  * We assume that any difference between the dynamical and stellar mass is due to dark matter and/or a non-universal IMF.
+  * (i) the amount of dark matter inside ETGs depends on the environment; (ii) ETGs in low density environments span a wider dark matter range than ETGs in dense environments; (iii) the amount of dark matter inside ETGs in the most dense environments will be less than approximately 55\%--75\% of the dynamical mass
+
+* [Constraints on gamma-ray and neutrino emission from NGC 1068 with the MAGIC telescopes](https://arxiv.org/abs/1906.10954)
+  * NGC 1068 is the brightest of the star-forming galaxies found to emit gamma rays from 0.1 to 50 GeV.
+  * 在200 GeV以上，We did not detect significant gamma-ray emission
