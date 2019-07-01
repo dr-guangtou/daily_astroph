@@ -1098,3 +1098,46 @@ quasar host galaxies over the vast majority of their SMBH growth
   * We report the interferometric localization of the single pulse FRB 180924 to a position 4 kpc from the center of a luminous galaxy at redshift 0.3214.
   * The properties of the burst and its host are markedly different from the only other accurately localized FRB source.
   * The integrated electron column density along the line of sight closely matches models of the intergalactic medium, indicating that some FRBs are clean probes of the baryonic component of the cosmic web.
+
+----
+
+### June 30
+
+* [Forming early-type galaxies without AGN feedback: a combination of merger-driven outflows and inefficient star formation](https://arxiv.org/abs/1906.11836)
+  * We describe the implementation of supernova momentum feedback and star formation based on the turbulence of the gas in the RAMSES code
+  * 对于SF，使用multi-freefall模型，恒星形成效率和传统上假定的1%偏差很大
+  * 看在没有AGN feedback的情况下如何形成大质量星系：At high redshift, the merger event pushes gas to large densities and large turbulent velocity dispersions, such that efficiencies come close to 10%, resulting in large SFR.
+
+* [Quiescent galaxies at z≳2.5: observations vs. models](https://arxiv.org/abs/1906.11842)
+  * **Relevant**
+  * 比较观测到的z>2.5，质量大于10^10.5的大质量宁静星系的观测数密度和理论预测的比较
+  * 大多数模型都低估了M>10^10.8Msun的大质量星系的数密度。 their merger trees suggest that AGN feedback could be the key process allowing for a rapid quenching of the star formation at z & 4 and that its treatment should be improved in models.
+
+* [The Detection of [O III]λ4363 in a Lensed, Dwarf Galaxy at z=2.59: Testing Metallicity Indicators and Scaling Relations at High Redshift and Low Mass](https://arxiv.org/abs/1906.11849)
+  * MOSFIRE+LRIS观测一个z=2.6的被透镜放大的矮星系：We report a 4.2σ detection of the electron-temperature-sensitive [O III]λ4363 emission line, the second such detection at z > 2
+  * 金属丰度时1/4太阳丰度；同时可以测量电子温度，电子密度，以及消光强度
+  * Although A1689-217 is metal-rich for its M∗ and SFR, we find it to be consistent within the large scatter of the low-mass end of the Fundamental Metallicity Relation.
+
+* [Simulating the Spatial Distribution and Kinematics of Globular Clusters within Galaxy Clusters in Illustris](https://arxiv.org/abs/1906.11921)
+  * **Relevant**
+  * 基于Hydro模拟的“粒子标记”技术：GCs are tagged to individual galaxies at infall time and their tidal removal and distribution within the cluster is followed later self-consistently by the simulation
+  * 假定Halo质量和GC质量之间有简单的power-law关系；可以重现星系质量和GC S_N的U型相关
+  * GCs that have been tidally removed from their galaxies form today the intra-cluster component from which about ∼ 60% were brought in by galaxies that orbit today within the cluster potential
+  * 剩下的来自已经被完全瓦解的小星系。
+  * This intra-cluster component is a good dynamical tracer of the dark matter potential providing an estimate of the velocity dispersion of the dark matter with 25% accuracy
+
+* [The warm Gaseous Disk and the Anisotropic Circumgalactic Medium of the Milky Way](https://arxiv.org/abs/1906.12259)
+  * 2维的星系盘-CGM模型来和观测的SiIV和OVI吸收线分布比较：假定两种离子在盘上的分布一致；We suggest that the warm gas disk might be dominated by the Galactic fountain mechanism, which ejects and recycles gas to set both the scale height and the scale length of the warm gas disk.
+  * CGM成分则依赖于纬度；在垂直于银盘的方向上柱密度更高： This difference may be due to the enrichment of Galactic feedback to the entire CGM, or an additional interaction layer between the warm gas disk and the CGM
+
+* [The X-ray Coronae of two massive galaxies in the core of the Perseus cluster](https://arxiv.org/abs/1906.11867)
+  * Our aim is to examine relatively cool soft X-ray emitting gas within the central region of these massive early-type galaxies: NGC1270和NGC1272
+  * 这些气体一般被叫做 minicorona: It has not been completely stripped or evaporated by the surrounding hot intracluster medium and nor fully accreted onto the central black hole
+  * 这两个星系都有minicorona，且来自这些气体的热辐射比任何power law成分都要强
+  * We show that the depletion time scale of minicoronal gas via viscous stripping is shorter by a factor of 100 than the replenishment time scale due to stellar mass loss
+  * Magnetic fields are presumably responsible for suppression of the transport processes.
+
+* [Turbulence Dynamo in Galaxy Clusters](https://arxiv.org/abs/1906.12210)
+  * 一种说法认为星系团尺度上的microgauss强度的磁场来自于ICM在小尺度上的湍动的动力学效应；但同时星系团中有尺度非常大的radio relic结构，和小尺度机制的原理不符合
+  * Unlike turbulence in the interstellar medium, turbulence in the ICM is subsonic. And it is driven sporadically in highly stratified backgrounds, when major mergers occur during the hierarchical formation of clusters.
+  * MHD模拟显示，小尺度湍动可以产生强度足够的磁场，但特征尺度一般在kpc上；对于radio relic中的磁场，可能需要之前活跃的射点喷流中的磁场结构残留
