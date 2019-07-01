@@ -927,7 +927,7 @@ randomized trees (ERTs; Geurts et al. 2006)
   * SITELLE观测：we identified about 2200 emission line regions, many of which are H II regions, diffuse ionized gas regions, and also SNRs
   * We have selected 129 SNR candidates based on four criteria for regions where the emission lines flux ratio [S II]/Hα ≥ 0.4.
   * we end up with 42 Confirmed SNRs, 45 Probable SNRs, and 42 Less likely SNRs 金属丰度从LMC到2倍太阳丰度
-  * Sabbadin Plot (Sabbadin et al. 1977): 
+  * Sabbadin Plot (Sabbadin et al. 1977):
     - log(Halpha / [SII]6716+6731) v.s. log(Halpha / [NII]6548+4584)
     - log(Halpha / [SII]6716+6731) v.s. ([SII] 6716 / [SII] 6731)
     - 用来区分HII区，SNR和PNe
@@ -988,7 +988,7 @@ quasar host galaxies over the vast majority of their SMBH growth
   * The bluer and younger ellipticals might have more residual star formation that gives rise to younger "prompt" progenitors, resulting in normal SNe Ia with shorter delay times
 
 * [Observational evidence for bar formation in disk galaxies via cluster-cluster interaction](https://arxiv.org/abs/1906.10585)
-  * We examined 105 galaxy clusters at redshift 0.015 < z < 0.060 that are selected from the Sloan Digital Sky Survey data, and identified 16 interacting clusters. We find that the barred disk-dominated galaxy fraction is about 1.5 times higher in interacting clusters than in clusters with no clear signs of ongoing interaction (42% versus 27%). 
+  * We examined 105 galaxy clusters at redshift 0.015 < z < 0.060 that are selected from the Sloan Digital Sky Survey data, and identified 16 interacting clusters. We find that the barred disk-dominated galaxy fraction is about 1.5 times higher in interacting clusters than in clusters with no clear signs of ongoing interaction (42% versus 27%).
 
 * [CHANG-ES XIX: Galaxy NGC 4013 -- a diffusion-dominated radio halo with plane-parallel disk and vertical halo magnetic fields](https://arxiv.org/abs/1906.10650)
   * LFOAR+EVLA观测：The central point source dominates the radio continuum in both CHANG-ES bands, but no clear AGN classification is possible at this time.
@@ -1028,13 +1028,13 @@ quasar host galaxies over the vast majority of their SMBH growth
   * HSC+WISE看~800 AGN in dwarfs at low redshift (z<0.3).
   * Infrared-selected AGN fractions are ~10-30 per cent in dwarfs, which, for reasonable duty cycles, indicates a high BH-occupation fraction.
   * The merger fraction in dwarf AGN (~6 per cent) shows no excess compared to a control sample of non-AGN 和并合关系不大
-  * L_AGN/L_SN is, in fact, higher in dwarfs, with predictions from simulations suggesting that this ratio only increases with redshift. 
+  * L_AGN/L_SN is, in fact, higher in dwarfs, with predictions from simulations suggesting that this ratio only increases with redshift.
 
 * [The Rest-frame H-band Luminosity Function of Red Sequence Galaxies in Clusters at 1.0<z<1.3](https://arxiv.org/abs/1906.10707)
   * **Relevant**
   * GOGREEN项目，GMOS-z波段加上IRAC 3.6micron: red-sequence的faint end从z=1.3到z=0.6有演化，with the mean faint end red sequence luminosity growing by more than a factor of two.
   * 在z=1.15的cluster里，red-sequence的faint/bright比值和field里差不多，但是随着红移降低升高很多，有很强的演化
-  * The build up of the faint red sequence galaxies occurs gradually over time and suggest that faint cluster galaxies, similar to bright cluster galaxies, experience the quenching effect induced by environment already at z~1.15. 
+  * The build up of the faint red sequence galaxies occurs gradually over time and suggest that faint cluster galaxies, similar to bright cluster galaxies, experience the quenching effect induced by environment already at z~1.15.
   * COncentration-Mass relation and Mass Accretion History’ (COMMAH) code
 
 * [Radio jets from AGN in dwarf galaxies in the COSMOS survey: mechanical feedback out to redshift ∼3.4](https://arxiv.org/abs/1906.10713)
@@ -1044,7 +1044,7 @@ quasar host galaxies over the vast majority of their SMBH growth
   * The galaxies are drawn from the VLA-COSMOS 3 GHz Large Project and all are star-forming.
   * The 3 GHz radio emission of most of the sources is compact 能量也符合有AGN的迹象
   * dwarf galaxies can host radio jets as powerful as those of massive radio galaxies whose jet mechanical feedback can strongly affect the formation of stars in the host galaxy. AGN反馈在dwarf中的作用可能也不小
-  * This implies that those low-mass AGN hosted in dwarf galaxies might not be the untouched relics of the early seed BHs, which has important implications for seed BH formation models. 
+  * This implies that those low-mass AGN hosted in dwarf galaxies might not be the untouched relics of the early seed BHs, which has important implications for seed BH formation models.
 
 * [Star-formation in CALIFA early-type galaxies. A matter of discs](https://arxiv.org/abs/1906.10759)
   * `C2D`光谱核盘分解code： i) star formation always occurs in the disc component and not in bulges; ii) star-forming discs in our ETGs are compatible with the SFMS defined by star forming galaxies at z∼0; iii) the star formation is not confined to the outskirts of discs, but it is present at all radii
@@ -1068,22 +1068,45 @@ quasar host galaxies over the vast majority of their SMBH growth
   * Morpheus shows resiliency to false positive identifications of sources
 
 * [Dragonfly imaging of the galaxy NGC5907: a revised view of the iconic stellar stream](https://arxiv.org/abs/1906.11260)
+  * **Interesting**
+  * 对NGC5907的double loop进行Drgonfly观测：We find that the stream has a qualitatively different morphology from that reported in the 2008 study. The Dragonfly data do not show two loops but a single curved stream with a total length of 45′ (220 kpc).
+  * We find a density enhancement near the luminosity-weighted midpoint of the stream which we identify as the likely remnant of a nearly-disrupted progenitor galaxy.
 
 * [Self-consistent proto-globular cluster formation in cosmological simulations of high-redshift galaxies](https://arxiv.org/abs/1906.11261)
+  * FIRE模拟中z>5的星系中的大质量星团的形成。发现高内部气体压力的云团中的高气体密度有助于形成可以bounded在一起的大质量星团。这些云团往往被SF反馈的wind压缩，或者在富气体，高湍动的环境下和小质量的云团碰撞。
+  * 形成的星团的质量函数是power-law的；在星系内的形成效率也是比较均匀的。
+  * Our findings support the scenario that present-day old globular clusters (GCs) were formed during relatively normal star formation in high-redshift galaxies.
 
 * [Cosmological simulations of massive black hole seeds: predictions for next generation electromagnetic and gravitational wave observations](https://arxiv.org/abs/1906.11271)
+  * 基于Illustris模拟的种子黑洞形成模型；要求 black hole seeds only form in progenitor galaxies that conform to the conditions for direct collapse black hole formation.
+  * 不同的种子黑洞模型 lead to widely different black hole number densities and halo occupation fractions which are currently observationally unconstrained. 
+  * 未来的观测限制中，QSO光度函数的低光度端形状，以及小质量星系中的host-BH关系对具体模型比较敏感
+  * Direct collapse model exhibits a seeding efficiency which decreases rapidly with cosmic time and produces much fewer black holes in low mass galaxies
 
 * [Do Reverberation Mapping Analyses Provide an Accurate Picture of the Broad Line Region?](https://arxiv.org/abs/1906.11272)
+  * 比较测试：we present a blind test of two widely used RM methods: MEMEcho (developed by Horne) and CARAMEL (developed by Pancoast and collaborators).
+  * The underlying BLR model is a rotating, biconical accretion disc wind, and the synthetic spectra are generated via self-consistent ionization and radiative transfer simulations. 给出了QSO和Seyfert两种预测。
+  * Since the Hα line-forming region is rotation dominated, neither method recovers the disc wind nature of the underlying BLR model.
 
 * [Shiva: the dust destruction model](https://arxiv.org/abs/1906.11308)
+  * A numerical tool Shiva designed to simulate the dust destruction in warm neutral, warm ionized, and hot ionized media under the influence of photo-processing, sputtering, and shattering.
+  * The Shiva tool allows calculating the time-dependent evolution of the dust size distribution depending on hydrogen, helium, and carbon number densities and ionization state, gas temperature, radiation flux, relative gas- dust and grain-grain velocities.
 
 * [Constraining Radio Mode Feedback in Galaxy Clusters with the Cluster Radio AGN Properties to z∼1](https://arxiv.org/abs/1906.11388)
+  * Sydney University Molonglo Sky Survey (SUMSS) 843 MHz radio AGN population in galaxy clusters
+  * We show that cluster radio loud active galactic nuclei (AGN) are highly concentrated around cluster centers to z ∼ 1.
+  * 每个星系团中的射电噪AGN的数量随Halo质量升高；说明大质量Halo里面，Radio-mode feedback更重要
+  * we demonstrate weak redshift evolution in the host broad band colors and the radio luminosity at fixed host galaxy stellar mass.
+  * We use the cluster radio galaxy LF to estimate the average radio- mode feedback energy as a function of cluster mass and redshift and compare it to the core (< 0.1R500) X-ray radiative losses for clusters at z < 1 可以粗略的解释Cool core的比例
 
 * [The environment of HI-bearing ultra diffuse galaxies in the ALFALFA survey](https://arxiv.org/abs/1906.11543)
   * ALFALFA探测到的有HI的LSB星系，看环境影响：We find that that HUDs inhabit the same environments as other samples of HI-selected galaxies and that they show no environmental preference in any metric.
   * We suggest that these results are consistent with a picture of the extreme properties of HUDs being driven by internal mechanisms and that they are largely unperturbed by environmental impacts
 
 * [A Comprehensive Examination of the Optical Morphologies of 719 Isolated Galaxies in the AMIGA Sample](https://arxiv.org/abs/1906.11677)
+  * Our results confirm previous findings that isolated galaxies are found across the complete revised Hubble sequence, with intermediate to late-type (Sb-Sc) spirals being relatively more common
+  * More than 50% of the 514 spirals in the sample for which an arm class could be judged are grand design (AC 8,9,12)
+  * The visual bar fraction for the sample is ≈50%, but only 16% are classified as strongly- barred (SB).
 
 * [Baryon Acoustic Oscillations and the Hubble Constant: Past, Present and Future](https://arxiv.org/abs/1906.11628)
   * eBOSS DR14 BAO，使用BBN给出的baryon density，看BAO和Lya森林结果的不同
