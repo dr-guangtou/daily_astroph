@@ -122,5 +122,57 @@
 ### July 3
 
 * [Neutron star mergers and rare core-collapse supernovae as sources of r-process enrichment in simulated galaxies](https://arxiv.org/abs/1907.01557)
+  * 利用Auriga模拟研究银河系类型星系里r过程的增丰过程：from both binary neutron star mergers and rare core-collapse supernovae
+  * We find that the majority of metal-poor stars are r-process enriched in all our enrichment models. 
+  * The scatter in r-process abundance increases for models with longer delay times or lower rates of r-process producing events.
+  * Current (sparse and potentially biased) observations of metal-poor stars in the Milky Way seem to prefer rare core-collapse supernovae over neutron star mergers as the dominant source of r-process elements.
 
 * [Observational Properties of Ultra-Diffuse Galaxies in the Field: Field-UDGs are Predominantly Blue and Starforming](https://arxiv.org/abs/1907.01559)
+  * **Relevant**
+  * We have used the public Kilo-Degree Survey (KiDS) together with the Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP) to constrain the abundance and properties of UDGs in the field
+  * We show that a scenario in which cluster-like red sequence UDGs occupy a significant number of field galaxies is unlikely, with most field UDGs being significantly bluer and showing signs of localised star formation. 能给出field里面UDG密度的上限估计
+  * UDGs are much more efficiently quenched in high-density environments
+  * We also compare the total field abundance of UDGs to a measurement of the abundance of HI-rich UDGs from the literature, suggesting that they occupy at least one-fifth of the overall UDG population
+
+* [The Fundamental Relations between Halo Mass and Galaxy Group Properties](https://arxiv.org/abs/1907.01560)
+  * **Interesting**
+  * 具有blue和red central的星系群可能有着不同的聚集历史：blue的星系和halo都能继续增长质量；而red的星系的质量可能已经基本停滞，但halo还可以继续成长 (but mergers?)
+  * 对SAM模型L-Galaxies给出的groups利用随机森林进行对group质量的回归分析：the results given by RF regressor are fully consistent with the prediction from our simple scenario and hence provide strong support to it
+  * 除了RF预测外，还用ordinary least squared (OLS) regression model给出了经验公式的预测。对red和blue groups采用了不同的参数选择；使用 Schwarz information criterion (SIC)来判断拟合好坏。
+
+* [The Dependence of AGN Activity on Environment in SDSS](https://arxiv.org/abs/1907.01563)
+  * At a given stellar mass, the specific star formation rate distribution of the AGN host galaxies remains unchanged with over-density, with the peak of the distribution around the Green Valley.
+  * 给定恒星质量上，由卫星星系数量定义的overdensity影响AGN比例：overdensity越高，AGN比例越高; 但在传统等一下，这个其实是由passive星系的比例驱动的
+  * 作者认为AGN比例应该定义在AGN对SF星系上: With the new definition, we find little dependence of AGN fraction on over-density, central/satellite, and group halo mass.
+  * Our results support the scenario that internal secular evolution is the predominant mechanism of triggering AGN activity, while external environment related processes only play a minor role. 
+
+* [The Southern Photometric Local Universe Survey (S-PLUS): improved SEDs, morphologies and redshifts with 12 optical filters](https://arxiv.org/abs/1907.01567)
+  * **Interesting, Important**
+  * Imaging ~9300 deg^2 of the celestial sphere in twelve optical bands using a dedicated 0.8 m robotic telescope, the T80-South
+  * A field-of-view of 2 deg^2 with a plate scale of 0.55"/pixel.
+  * S-PLUS uses the Javalambre 12-band magnitude system, which includes the 5 u', g', r', i', z' broad-band filters and 7 narrow-band filters centered on prominent stellar spectral features: the Balmer jump/[OII], Ca H+K, H-delta, G-band, Mg b triplet, H-alpha, and the Ca triplet.
+  * S-PLUS delivers accurate photometric redshifts (delta_z/(1+z) = 0.02 or better) for galaxies with r' < 20 AB mag and redshift < 0.5
+
+* [Multi-wavelength Campaign on NGC 7469 VI. Photoionisation Modelling of the Emission Line Regions and the Warm Absorber](https://arxiv.org/abs/1907.01946)
+  * We apply the photoionisation model, PION, within the spectral fitting code SPEX to analyse the 640 ks RGS spectrum of NGC 7469
+  * We find the emission line region in NGC 7469 to be multiphased, consisting of two narrow components with ionisation parameters of logξ=0.4 and 1.6. 同时还有一个宽线外流成分
+  * In addition, we model the photoionised plasma of the warm absorber (WA) in NGC 7469, and find that it consists of three photoionised phases
+  * The environment of NGC 7469 is a complex mix of plasma winds absorbing and emitting X-rays. We find the picture painted by our results can be attributed to line emitting plasma located at distances ranging from near the black hole to the torus and beyond the ionised outflows.
+
+* [The dwarf galaxy satellite system of Centaurus A](https://arxiv.org/abs/1907.02012)
+  * **Interesting**
+  * Deep FORS2观测15个dwarf候选，利用Bayesian方法通过TRGB定距离，确认了9个dwarf是真的卫星星系
+  * The properties of the new dwarfs are similar to those in the Local Group in terms of their sizes, luminosities, and mean metallicities. 没有被潮汐扰动的迹象
+  * 通过isochrones定金属丰度没有发现丰度在卫星星系里变化很大，但是有些dwarf中有extended SF （as evidenced by a population of asymptotic giant branch stars brighter than the red giant branch tip）
+  * 和TNG模拟星系的光度函数比较：CenA seems to be missing its brightest satellites and has an overabundance of the faintest dwarfs in comparison to its simulated analogs.
+
+* [Constraining the inner density slope of massive galaxy clusters](https://arxiv.org/abs/1907.01680)
+  * **Relevant, Interesting**
+  * Cluster-EAGLE中大质量星系团的模拟，看能不能通过恒星运动学以及引力透镜估计出中心的质量分布轮廓：可以
+  * 和Andrew Newman的结果比较，发现C-EAGLE星系团的gNFW质量分布拟合给出的profile明显比观测得到的要陡
+  * The mean mass-weighted dark matter density slopes, γ¯dm, are remarkably similar in the simulated and real clusters.
+  * Slope的估计对于WL测量scale radius很敏感
+
+* [The Karl G. Jansky Very Large Array Sky Survey (VLASS). Science case, survey design and initial results](https://arxiv.org/abs/1907.01981)
+  * The Very Large Array Sky Survey (VLASS) is a synoptic, all-sky radio sky survey with a unique combination of high angular resolution (≈2.5"), sensitivity (a 1σ goal of 70 μJy/beam in the coadded data), full linear Stokes polarimetry, time domain coverage, and wide bandwidth (2-4 GHz).
+  * 到2024年将覆盖VLA能观测的全天，33885 deg^2；分三次观测
