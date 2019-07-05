@@ -176,3 +176,20 @@
 * [The Karl G. Jansky Very Large Array Sky Survey (VLASS). Science case, survey design and initial results](https://arxiv.org/abs/1907.01981)
   * The Very Large Array Sky Survey (VLASS) is a synoptic, all-sky radio sky survey with a unique combination of high angular resolution (≈2.5"), sensitivity (a 1σ goal of 70 μJy/beam in the coadded data), full linear Stokes polarimetry, time domain coverage, and wide bandwidth (2-4 GHz).
   * 到2024年将覆盖VLA能观测的全天，33885 deg^2；分三次观测
+
+----
+
+### July 4
+
+* [Radiation hydrodynamics simulations of the evolution of the diffuse ionized gas in disc galaxies](https://arxiv.org/abs/1907.02067)
+  * 关于在盘星系中，盘上方kpc以上的地方，是什么样的机制给DIG提供了足够的压力。we investigate if the pressure increase caused by photoionization can provide this support. 
+  * We find that photoionization feedback can drive low levels of turbulence in the dense galactic disc, and that it provides pressure support for an extended diffuse gas layer.
+  * 在星系能提供的电离能量和不同电离态的ISM中气体质量之间有一点精细调节的感觉
+
+* [The prevalence of pseudo-bulges in the Auriga simulations](https://arxiv.org/abs/1907.02082)
+
+* [Exploring a new definition of the green valley and its implications](https://arxiv.org/abs/1907.02093)
+
+* [Early-type galaxies in low-density environments: NGC 6876 explored through its globular cluster system](https://arxiv.org/abs/1907.02108)
+
+* [Early-type galaxies in low-density environments: NGC 6876 explored through its globular cluster system](https://arxiv.org/abs/1907.02108)
