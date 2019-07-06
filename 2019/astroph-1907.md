@@ -45,7 +45,7 @@
 
 * [The molecular outflow in NGC253 at a resolution of two parsecs](https://arxiv.org/abs/1907.00731)
   * We decompose the emission into a disk and non–disk component: ∼ 7 − 16% of the CO luminosity to be associated with the non-disk component
-  * The majority of this outflow rate is contributed by distinct outflows perpendicular to the disk, with a significant contribution by diffuse molecular gas. 
+  * The majority of this outflow rate is contributed by distinct outflows perpendicular to the disk, with a significant contribution by diffuse molecular gas.
 
 * [A new estimator for gravitational lensing using galaxy and intensity mapping surveys](https://arxiv.org/abs/1907.00071)
   * Propose a new tomographic estimator for the gravitational lensing potential, based on a combination of intensity mapping (IM) and galaxy counts.
@@ -123,7 +123,7 @@
 
 * [Neutron star mergers and rare core-collapse supernovae as sources of r-process enrichment in simulated galaxies](https://arxiv.org/abs/1907.01557)
   * 利用Auriga模拟研究银河系类型星系里r过程的增丰过程：from both binary neutron star mergers and rare core-collapse supernovae
-  * We find that the majority of metal-poor stars are r-process enriched in all our enrichment models. 
+  * We find that the majority of metal-poor stars are r-process enriched in all our enrichment models.
   * The scatter in r-process abundance increases for models with longer delay times or lower rates of r-process producing events.
   * Current (sparse and potentially biased) observations of metal-poor stars in the Milky Way seem to prefer rare core-collapse supernovae over neutron star mergers as the dominant source of r-process elements.
 
@@ -144,7 +144,7 @@
   * At a given stellar mass, the specific star formation rate distribution of the AGN host galaxies remains unchanged with over-density, with the peak of the distribution around the Green Valley.
   * 给定恒星质量上，由卫星星系数量定义的overdensity影响AGN比例：overdensity越高，AGN比例越高; 但在传统等一下，这个其实是由passive星系的比例驱动的
   * 作者认为AGN比例应该定义在AGN对SF星系上: With the new definition, we find little dependence of AGN fraction on over-density, central/satellite, and group halo mass.
-  * Our results support the scenario that internal secular evolution is the predominant mechanism of triggering AGN activity, while external environment related processes only play a minor role. 
+  * Our results support the scenario that internal secular evolution is the predominant mechanism of triggering AGN activity, while external environment related processes only play a minor role.
 
 * [The Southern Photometric Local Universe Survey (S-PLUS): improved SEDs, morphologies and redshifts with 12 optical filters](https://arxiv.org/abs/1907.01567)
   * **Interesting, Important**
@@ -182,14 +182,67 @@
 ### July 4
 
 * [Radiation hydrodynamics simulations of the evolution of the diffuse ionized gas in disc galaxies](https://arxiv.org/abs/1907.02067)
-  * 关于在盘星系中，盘上方kpc以上的地方，是什么样的机制给DIG提供了足够的压力。we investigate if the pressure increase caused by photoionization can provide this support. 
+  * 关于在盘星系中，盘上方kpc以上的地方，是什么样的机制给DIG提供了足够的压力。we investigate if the pressure increase caused by photoionization can provide this support.
   * We find that photoionization feedback can drive low levels of turbulence in the dense galactic disc, and that it provides pressure support for an extended diffuse gas layer.
   * 在星系能提供的电离能量和不同电离态的ISM中气体质量之间有一点精细调节的感觉
 
 * [The prevalence of pseudo-bulges in the Auriga simulations](https://arxiv.org/abs/1907.02082)
+  * The bulges of the Auriga galaxies show a large variety in their shapes, sizes and formation histories
+  * 按Sersic index和规则旋转运动等特征区分，大部分属于“伪核球”
+  * Auriga bulges show mostly an in-situ origin, 21% of them with a negligible accreted fraction ( facc < 0.01).
+  * Their in-situ component was centrally formed, with ∼ 75% of the bulges forming most of their stars inside the bulge region at z = 0.
+  * In 90% of the Auriga bulges, the accreted bulge component originates from less than four satellites.
+  * 核球质量和吸积比例没有明显相关。
 
 * [Exploring a new definition of the green valley and its implications](https://arxiv.org/abs/1907.02093)
+  * **Interesting**
+  * We exploit an alternative definition of the GV using the 4,000A break strength, an indicator that is more resilient than colour to dust attenuation.
+  * By use of high SNR stacked spectra of the quiescent GV subsample, we derive the simple stellar population (SSP) age difference across the GV, a rough proxy of the quenching timescale (∆t).
+  * We obtain an increasing trend with velocity dispersion (σ), from ∆t∼1.5Gyr at σ=100kms−1, up to 3.5 Gyr at σ=200 km s−1, followed by a rapid decrease in the most massive GV galaxies 
 
 * [Early-type galaxies in low-density environments: NGC 6876 explored through its globular cluster system](https://arxiv.org/abs/1907.02108)
+  * **Relevant**
+  * Pavo Group的中心星系，光度很高；CGS中的星系
+  * The selected globular cluster (GC) candidates present a clear bimodal colour distribution at different galactocentric radii
+  * The azimuthal projected distribution shows an overdensity in the red subpopulation in the direction of a trail observed in X-ray that could be evidence of interactions with its spiral neighbour NGC6872.
+  * 用GC数量估计halo质量10^13左右，确实是group里面的大质量星系
 
-* [Early-type galaxies in low-density environments: NGC 6876 explored through its globular cluster system](https://arxiv.org/abs/1907.02108)
+* [J-PLUS: Synthetic galaxy catalogues with emission lines for photometric surveys](https://arxiv.org/abs/1907.02111)
+  * **Relevant, Important**
+  * A synthetic galaxy lightcone specially designed for narrow-band optical photometric surveys
+  * Millennium模拟+L-Galaxies SAM；加入一系列发射线
+  * We study the ability of the survey to correctly identify, with a simple three filter method, a population of emission-line galaxies at various redshifts.
+  * We show that the 4000Å break in the spectral energy distribution of galaxies can be misidentified as line emission. However, all significant excess (larger than 0.4 magnitudes) can be correctly and unambiguously attributed to emission line galaxies.
+
+* [Clues on Arp 142: The Spiral-Elliptical merger](https://arxiv.org/abs/1907.02193)
+  * 相互作用区域的HII区的Gemini观测，发现SFR和整体比有显著的提升。Star-forming regions on this galaxy display oxygen abundances that are consistent with solar metallicities
+  * Diagnostic diagrams suggest that the central region of NGC 2936 is ionized by AGN activity and the eastern tidal plume in NGC 2936 is experiencing a burst of star formation, which may be triggered by the gas compression; shock可以解释这些区域的电离
+
+* [On the nature of a shell of young stars in the outskirts of the Small Magellanic Cloud](https://arxiv.org/abs/1907.02264)
+  * We present new deep images of a shell-like over-density of stars in the outskirts of the Small Magellanic Cloud (SMC). SMASH测光+Gaia2运动学
+  * The shell is composed of a young population with an age ~ 150 Myr, with no contribution from an old population. 不像是潮汐瓦解形成的。
+  * The spatial distribution of the young main-sequence stars shows a rich sub-structure, with a spiral arm-like feature emanating from the main shell
+  * we suggest that the shell formed in a recent star formation event, likely triggered by an interaction with the Large Magellanic Cloud and/or the Milky Way, ~150 Myr ago.
+
+* [The missing dwarf galaxies of the Local Group](https://arxiv.org/abs/1907.02463)
+  * The simulations, from the APOSTLE project, indicate that the total mass within 3 Mpc of the pair’s midpoint (M3Mpc) typically exceeds ∼ 3 times the sum of the virial masses of the two primaries and that the dwarf galaxy formation efficiency per unit mass is uniform throughout the volume.
+  * At lower galaxy masses, however, the satellite fraction is sub- stantially higher (42 per cent for M∗ > 10^5 M⊙, or 42 out of 99) 按照这个估计，∼ 50 dwarf galaxies at least as massive as the Draco dwarf spheroidal are missing from our current LG field dwarf inventory
+  * The simulations indicate that most missing dwarfs should lie near the virial boundaries of the two LG primaries
+
+* [Reflection geometries in absorbed and unabsorbed AGN](https://arxiv.org/abs/1907.02523)
+  * NuStar观测83个AGN: Our main goal is to investigate the variation of the Compton hump amongst a population of sources and correlate it with other spectral properties to constrain the source geometry.
+  * We found a stronger reflection in mildly obscured sources
+  * 不同类型的AGN中，反射体可能不同；非遮挡的AGN里，可能主要看到的是来自吸积盘的反射；而obscured AGN中可能主要还是clumpy torus的贡献。
+  * The filling factor of the clouds surrounding the active nucleus is a key parameter that drives the appearance of AGN.
+
+* [Three- and two-point spatial correlations of intergalactic medium at z∼2 using projected quasar triplets](https://arxiv.org/abs/1907.02086)
+  * X-Shooter spectra of three background quasar triplets probing transverse separations of 0.5-1.6 pMpc.
+  * 2P和3P相关分析：statistics based on transmitted flux and clouds identified using Voigt profile fitting. Q: reduced 3-p correlation
+  * Our simulations suggest an increase in correlation amplitudes and Q with increasing N_HI
+  * Additionally, we conclude a positive Civ-Lyα correlations for higher NHI thresholds up to a scale of ∼ 1000 kms−1both in transverse and longitudinal directions. 
+
+* [Detection of anti-correlation of hot and cold baryons in galaxy clusters](https://arxiv.org/abs/1907.02502)
+  * **Relevant, Interesting**
+  * Hydrodynamic simulations indicate that the highest-mass systems retain the cosmic fraction of baryons, a natural consequence of which is anti-correlation between the masses of hot gas and stars within dark matter halos of fixed total mass.
+  * We report observational detection of this anti-correlation based on 4 elements of a 9×9 element covariance matrix for nine cluster properties
+  * Our detection of anti-correlation is consistent with predictions from contemporary hydrodynamic cosmological simulations that were not tuned to reproduce this signal.
