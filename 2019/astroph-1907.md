@@ -246,3 +246,21 @@
   * Hydrodynamic simulations indicate that the highest-mass systems retain the cosmic fraction of baryons, a natural consequence of which is anti-correlation between the masses of hot gas and stars within dark matter halos of fixed total mass.
   * We report observational detection of this anti-correlation based on 4 elements of a 9×9 element covariance matrix for nine cluster properties
   * Our detection of anti-correlation is consistent with predictions from contemporary hydrodynamic cosmological simulations that were not tuned to reproduce this signal.
+
+----
+
+### July 7
+
+* [Resolved [CII] Emission from z>6 Quasar Host -- Companion Galaxy Pairs](https://arxiv.org/abs/1907.02536)
+
+* [Clustering with JWST: Constraining Galaxy Host Halo Masses, Satellite Quenching Efficiencies, and Merger Rates at z=4-10](https://arxiv.org/abs/1907.02546)
+
+* [Spectral Energy Distributions of Companion Galaxies to z∼6 Quasars](https://arxiv.org/abs/1907.02607)
+
+* [Are Narrow Line Seyfert 1 Galaxies powered by low mass black holes?](https://arxiv.org/abs/1907.02683)
+
+* [A luminous molecular gas pair beyond redshift 7](https://arxiv.org/abs/1907.02721)
+
+* [UV regulated star formation in high-redshift galaxies](https://arxiv.org/abs/1907.02958)
+
+* [A SHARP view of H0LiCOW: H0 from three time-delay gravitational lens systems with adaptive optics imaging](https://arxiv.org/abs/1907.02533)
