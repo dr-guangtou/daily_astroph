@@ -252,15 +252,40 @@
 ### July 7
 
 * [Resolved [CII] Emission from z>6 Quasar Host -- Companion Galaxy Pairs](https://arxiv.org/abs/1907.02536)
+  * 在高红移QSO host里进行高分辨[CII]观测：physical extents of 3.2 − 5.4 kpc
+  * The dust continuum is on-average 40% more compact, which results in larger [C II] deficits in the center of the galaxies.
+  * Four of the galaxies show [C II] velocity fields that are consistent with ordered rotation, while the remaining six galaxies show no clear velocity gradient.
+  * 速度弥散度很高，说明星系里的ISM非常turbulent
+  * Tidal interactions are not the only viable method for fueling their active centers.
 
 * [Clustering with JWST: Constraining Galaxy Host Halo Masses, Satellite Quenching Efficiencies, and Merger Rates at z=4-10](https://arxiv.org/abs/1907.02546)
+  * 用UniverseMachine预测z=4-10的星系clustering，以及JWST的观测
+  * We find that galaxy clustering will be measured with 􏰅5σ significance at z∼4−10. Halo mass precisions resulting from Cycle 1 angular clustering measurements will be ∼0.2 dex for faint (-18<MUV<-19) galaxies at z∼4−10 as well as ∼0.3 dex for bright (MUV ∼ -20) galaxies at z∼4−7.
+  * Future JWST observations will therefore provide the first constraints on the stellar-halo mass relation in the epoch of reionization and substantially clarify how this relation evolves at z>4
+  * We also find that ∼1000 individual satellites will be identifiable at z∼4−8 with JWST, enabling strong tests of satellite quenching evolution beyond currently available data (z􏰄<2).
 
 * [Spectral Energy Distributions of Companion Galaxies to z∼6 Quasars](https://arxiv.org/abs/1907.02607)
+  * 对ALMA探测到的z>6的QSO的富尘埃的伴星系进行各种follow-up观测。
+  * Three companion galaxies do not show significant emission in the observed optical/IR wavelength range. The photometric limits suggest that these galaxies are highly dust–enshrouded
+  * However, the companion to PJ167-13 shows bright rest–frame UV emission (F140W AB = 25.48). 质量不低，恒星形成率在50 Msun/yr左右。
 
 * [Are Narrow Line Seyfert 1 Galaxies powered by low mass black holes?](https://arxiv.org/abs/1907.02683)
+  * The broad band spectral energy distribution of the γ-ray emitting NLS1s are found to be similar to flat spectrum radio quasars. 也许说明有些NLS1的黑洞质量不高
+  * 对不同的NLS1的SED进行标准吸积盘的拟合，估计黑洞质量：NLS1s the derived MAD values are about an order of BH magnitude larger than their virial estimates. 和宽线Type 1黑洞质量类似。
 
 * [A luminous molecular gas pair beyond redshift 7](https://arxiv.org/abs/1907.02721)
+  * 第一次在z>7发现分子气体：属于一个高红移QSO host和其伴星系
+  * The molecular gas of both companions is detected in two rotational transition lines of carbon monoxide, CO(6–5) and CO(7–6) 总分子气体质量可能在10^10 Msun左右
+  * The detected CO and Lyα emission likely originate from a system of interacting star-forming galaxies that might host a quasar(s).
 
 * [UV regulated star formation in high-redshift galaxies](https://arxiv.org/abs/1907.02958)
+  * We aim to systematically study the role of UV radiation in suppressing star formation in primordial galaxies by means of destroying molecular hydrogen
+  * To accomplish this goal, we perform three dimensional cosmological simulations of minihalos in different environments forming at z ∼ 25 immersed in a background radiation field with varying strength of UV flux below the Lyman limit between 0.01-1000 in units of J21 = 10^−21 erg/cm2/s/Hz/sr.
+  * Our results show that H2 formation is suppressed, delaying gravitational collapse until halos reach the atomic cooling limit.
+  * 冷致密分子气体的形成被延迟了100-230 Myr.
 
 * [A SHARP view of H0LiCOW: H0 from three time-delay gravitational lens systems with adaptive optics imaging](https://arxiv.org/abs/1907.02533)
+  * **Important**
+  * Present the measurement of the Hubble Constant, H0, with three strong gravitational lens systems.
+  * we combine new adaptive optics (AO) imaging from the Keck Telescope, obtained as part of the SHARP AO effort, with Hubble Space Telescope (HST ) imaging, velocity dispersion measurements, and a description of the line-of-sight mass distribution to build an accurate and precise lens mass model.
+  * The joint AO only result for the three lenses is H = 75.6+3.2 kms−1 Mpc−1.
