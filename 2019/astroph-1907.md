@@ -289,3 +289,75 @@
   * Present the measurement of the Hubble Constant, H0, with three strong gravitational lens systems.
   * we combine new adaptive optics (AO) imaging from the Keck Telescope, obtained as part of the SHARP AO effort, with Hubble Space Telescope (HST ) imaging, velocity dispersion measurements, and a description of the line-of-sight mass distribution to build an accurate and precise lens mass model.
   * The joint AO only result for the three lenses is H = 75.6+3.2 kms−1 Mpc−1.
+
+----
+
+### July 8
+
+* [Beyond UVJ: More Efficient Selection of Quiescent Galaxies With UV / Mid-IR Fluxes](https://arxiv.org/abs/1907.02970)
+  * **Useful, Interesting**
+  * 用Bayesian方法，prospector，研究UVJ和full SED的区别: Notably this model uses both nonparametric SFHs and a flexible dust attenuation curve, both of which have the potential to `break' the typical correlations observed in UVJ color-color space
+  * These fits confirm observed trends between UVJ colors and observed galaxy properties, including specific star formation rate (sSFR), dust attenuation, stellar age, and stellar metallicity. They also demonstrate that UVJ colors do not, on their own, constrain stellar age or metallicity
+  * UVJ plane随着红移演化，而且在非常低的sSFR上饱和。
+  * We show that far-UV and/or MIR fluxes continue to correlate with sSFR down to low sSFRs and can be used in color-color diagrams to efficiently target galaxies with much lower levels of ongoing star formation
+
+* [Dark and luminous satellites of LMC-mass galaxies in the FIRE simulations](https://arxiv.org/abs/1907.02979)
+  * CDM下面，LMC这样的矮星系也应该有很多subhalo，也应该有自己的矮星系：像LMC和Carina, Fornax, Car2/3, Hor1, Hyd1那样。
+  * FIRE模拟：we find that, within 0.2 r200, LMC-mass hosts deplete ~30% of their substructure, significantly lower than the ~70% of substructure depleted by Milky Way (MW) mass hosts.
+  * satellite数量和LMC基本符合，但是LF过陡
+  * We predict that tidal stripping within the LMC potential lowers the inner dark matter density of ultra faint companions of the LMC.
+
+* [The Evolution of O I over 3.2 < z < 6.5: Reionization of the Circumgalactic Medium](https://arxiv.org/abs/1907.02983)
+  * Keck+VLT观测，用中性氧示踪高红移金属演化：detect 74 O I absorbers, of which 57 are separated from the background QSO by more than 5000 km/s.
+  * 数密度不是简单单调随着红移降低而升高：在高红移OI吸收系统更多；说明高红移处于低电离态的金属更多。
+  * Absorption from highly ionized metals traced by C IV is also weaker in higher-redshift O I systems, supporting this picture.
+
+* [Extragalactic thick disc properties recovered from ultra-deep Stripe82 imaging](https://arxiv.org/abs/1907.02995)
+  * **Interesting, Relevant**
+  * IAC-S82 gri合并图像，深度达到了 r~29 mag/arcsec^2. 5个侧向星系
+  * The galaxy disc components are fitted considering that the thin and thick discs are two stellar fluids that are gravitationally coupled in hydrostatic equilibrium
+  * We find that effects due to the PSF are significant when low surface brightness is reached, especially in the vertical profiles, but it can be accounted for by careful modelling.
+  * 如果不考虑PSF，面亮度会被高估很多。
+  * The thick disc component is required to reach satisfactory fit results in the more complex galaxies in our sample, although it is not required for all galaxies.
+
+* [NGC 326: X-shaped no more](https://arxiv.org/abs/1907.03274)
+  * LOFAR观测典型的X-shape射电星系，show that the formerly known wings of the radio lobes extend smoothly into a large-scale
+  * 认为这个结构更可能是halo并和导致，而不是jet的重定向
+  * Some X-shaped sources may be signposts of cluster merger activity, and it would be useful to investigate the environments of these objects more generally.
+
+* [3C 294 revisited: Deep Large Binocular Telescope AO NIR images and optical spectroscopy](https://arxiv.org/abs/1907.03293)
+  * We resolve the 3C~294 system into three distinct components separated by a few tenths of an arcsecond on our images. One is compact, the other two are extended, and all appear to be non-stellar. 但这些成分的具体性质并不清楚，可能是merger
+  * We can now uniquely associate the radio source of 3C~294 with one of the extended components. Based on our spectroscopy, we determined a redshift of z = 1.784+-0.001
+
+* [Simulations Find Our Accounting of Dust-Obscured Star Formation May Be Incomplete](https://arxiv.org/abs/1907.03354)
+  * 用Hydro模拟看探测尘埃遮挡的SF的bias：We find that for IR luminous galaxies that are in rapidly quenching systems (e.g. post-coalescence) standard luminosity-to-SFR relations can strongly overestimate the true SFRs.
+  * 用IR/1.6 micron的颜色可以更好的找到这些系统。UVJ plane会误认一些dusty SB系统，可能是因为消光率的问题
+  * Our results support the view that we need a panchromatic approach from the rest-frame UV through the IR and SED modeling that includes realistic SFHs and allows for variable attenuation curves
+
+* [Star formation in low-redshift cluster dwarf galaxies](https://arxiv.org/abs/1907.03400)
+  * CFHT观测的15个星系团的LF：Marginal evidence was found for an increase in the faint-end slope of the u-band LF relative to the r-band with increasing cluster-centric radius.
+  * The dwarf-to-giant ratio (DGR) was found to increase toward the cluster outskirts, with the u-band DGR increasing faster with cluster-centric radius compared to the r-band.
+  * 试图用concentration来区分有nuclei和没有的dwarf：The ratio of high-C to low-C dwarf galaxies was found to be ~2 times greater in the inner cluster region compared to the cluster outskirts (2.8sigma level).
+  * The faint-end slope of the r- and u-band LF for the cluster outskirts (0.6 < r/r_200 < 1.0) is steeper than the SDSS field LF.
+
+* [Isolated dark matter deprived galaxies in hydrodynamical simulations: real objects or artefacts?](https://arxiv.org/abs/1907.03542)
+  * **Interesting**
+  * 在hydro模拟里面找孤立的，DM被耗尽的系统：found a handful of promising objects in all except Horizon-AGN.
+  * All of them were located at the edge of their respective simulation boxes. 
+  * We provide strong evidence that these oddballs were created from regular galaxies that get torn apart due to unphysical processes when crossing the edge of the simulation box
+
+* [Revisiting the Fanaroff-Riley dichotomy and radio-galaxy morphology with the LOFAR Two-Metre Sky Survey (LoTSS)](https://arxiv.org/abs/1907.03726)
+  * We revisit this canonical relationship with a sample of 5805 extended radio-loud AGN from the LOFAR Two-Metre Sky Survey (LoTSS)
+  * 在LOFAR数据下，射电光度不能简单预测FR I/II的形态类型: 有很多FR II是低光度的：extending three orders of magnitude below the traditional FR break, and demonstrate that their host galaxies are on average systematically fainter than those of high-luminosity FRIIs and of FRIs matched in luminosity. 
+  * low-power jets may remain undisrupted and form hotspots in lower mass hosts.
+  * 还有很多不能简单分类的hybrid类型：we identify 459 bent-tailed sources, which we find to have a significantly higher SDSS cluster association fraction (at z<0.4) than the general radio-galaxy population
+
+* [Inferring high redshift large-scale structure dynamics from the Lyman-alpha forest](https://arxiv.org/abs/1907.02973)
+  * We present a fully Bayesian approach to infer the three-dimensional cosmic matter distribution and its dynamics at z>2 from observations of the Lyman-α forest.
+  * 方法能unbiased的给出质量分布和各个尺度上的功率谱。
+  * 但其实还是要在LOS观测中间进行差值的。。。
+
+* [The impact of baryonic physics and massive neutrinos on weak lensing peak statistics](https://arxiv.org/abs/1907.03161)
+  * BAHAMAS模拟：We present the first study of weak lensing peaks in simulations that include both baryonic physics and massive neutrinos
+  * As higher neutrino mass tends to suppress the formation of massive structures in the Universe, the halo mass function and lensing peak counts are therefore modified as a function of Mν
+  * Over most of the S/N range, the impact of fiducial baryonic physics is greater (less) than neutrinos for 0.06 and 0.12 (0.24 and 0.48) eV models. 
