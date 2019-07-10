@@ -361,3 +361,30 @@
   * BAHAMAS模拟：We present the first study of weak lensing peaks in simulations that include both baryonic physics and massive neutrinos
   * As higher neutrino mass tends to suppress the formation of massive structures in the Universe, the halo mass function and lensing peak counts are therefore modified as a function of Mν
   * Over most of the S/N range, the impact of fiducial baryonic physics is greater (less) than neutrinos for 0.06 and 0.12 (0.24 and 0.48) eV models. 
+
+----
+
+### July 9
+
+* [Discovery of a close-separation binary quasar at the heart of a z~0.2 merging galaxy and its implications for low-frequency gravitational waves](https://arxiv.org/abs/1907.03757)
+
+* [NGC 7457: Evidence for merger-driven cylindrical rotation in disc galaxies](https://arxiv.org/abs/1907.03770)
+
+* [Time-average properties of z∼0.6 major mergers: mergers significantly scatter high-z scaling relations](https://arxiv.org/abs/1907.03785)
+
+* [CHANG-ES XVI: An in-depth view of the cosmic-ray transport in the edge-on spiral galaxies NGC 891 and NGC 4565](https://arxiv.org/abs/1907.03789)
+
+* [The multiphase gas structure and kinematics in the circumnuclear region of NGC 5728](https://arxiv.org/abs/1907.03801)
+
+* [Molecular gas and dust properties of galaxies from the Great Observatories All-sky LIRG Survey](https://arxiv.org/abs/1907.03854)
+
+* [Space Telescope and Optical Reverberation Mapping Project. VIII. Time Variability of Emission and Absorption in NGC 5548 Based on Modeling the Ultraviolet Spectrum](https://arxiv.org/abs/1907.03874)
+
+* [Evolution of star formation rate-density relation over cosmic time in a simulated universe: the observed reversal reproduced](https://arxiv.org/abs/1907.03895)
+
+* [Self-supervised Learning with Physics-aware Neural Networks I: Galaxy Model Fitting](https://arxiv.org/abs/1907.03957)
+  * **Interesting**
+
+* [Measuring Supermassive Black Hole Masses: Correlation between the Redshifts of the Fe III UV Lines and the Widths of Broad Emission Lines](https://arxiv.org/abs/1907.04026)
+
+* [Towards a characterization of X-ray galaxy clusters for cosmology](https://arxiv.org/abs/1907.03806)
