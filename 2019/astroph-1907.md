@@ -388,3 +388,23 @@
 * [Measuring Supermassive Black Hole Masses: Correlation between the Redshifts of the Fe III UV Lines and the Widths of Broad Emission Lines](https://arxiv.org/abs/1907.04026)
 
 * [Towards a characterization of X-ray galaxy clusters for cosmology](https://arxiv.org/abs/1907.03806)
+
+----
+
+### July 10
+
+* [Stellar Metallicities and Elemental Abundance Ratios of z~1.4 Massive Quiescent Galaxies](https://arxiv.org/abs/1907.04327)
+
+* [Baryons in the CosmicWeb of IllustrisTNG -- II: the Connection among Galaxies, Halos, their Formation Time and their Location in the Cosmic Web](https://arxiv.org/abs/1907.04333)
+
+* [The diversity of the circumgalactic medium around z = 0 Milky Way-mass galaxies from the Auriga simulations](https://arxiv.org/abs/1907.04336)
+
+* [Stellar Mass Growth of Brightest Cluster Galaxy Progenitors in COSMOS Since z ~ 3](https://arxiv.org/abs/1907.04337)
+
+* [SDSS-IV MaNGA: Effects of Morphology in the global and local Star Formation Main Sequences](https://arxiv.org/abs/1907.04386)
+
+* [SDSS-IV MaNGA: Spatial Evolution of Star Formation Triggered by Galaxy Interactions](https://arxiv.org/abs/1907.04491)
+
+* [How cold gas continuously entrains mass and momentum from a hot wind](https://arxiv.org/abs/1907.04771)
+
+* [Shear measurement bias due to spatially varying spectral energy distributions in galaxies](https://arxiv.org/abs/1907.04459)
