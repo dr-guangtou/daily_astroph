@@ -408,3 +408,25 @@
 * [How cold gas continuously entrains mass and momentum from a hot wind](https://arxiv.org/abs/1907.04771)
 
 * [Shear measurement bias due to spatially varying spectral energy distributions in galaxies](https://arxiv.org/abs/1907.04459)
+
+----   
+
+### July 11
+
+* [Impact of Galaxy Mergers on the Colours of Cluster Galaxies](https://arxiv.org/abs/1907.04858)
+
+* [Neutral carbon and highly excited CO in a massive star-forming main sequence galaxy at z=2.2](https://arxiv.org/abs/1907.04936)
+
+* [Metallicity gradients in small and nearby spiral galaxies](https://arxiv.org/abs/1907.05071)
+
+* [Gravitational Waves from Black Holes in Merging Ultra-Dwarf Galaxies](https://arxiv.org/abs/1907.05361)
+
+* [Imprints of temperature fluctuations on the z∼5 Lyman-α forest: a view from radiation-hydrodynamic simulations of reionization](https://arxiv.org/abs/1907.04860)
+
+* [H0LiCOW XIII. A 2.4% measurement of H0 from lensed quasars: 5.3σ tension between early and late-Universe probes](https://arxiv.org/abs/1907.04869)
+
+* [GalWeight Application: A publicly-available catalog of dynamical parameters of 1,870 galaxy clusters from SDSS-DR13](https://arxiv.org/abs/1907.05061)
+
+* [Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending](https://arxiv.org/abs/1907.04929)
+
+* [Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending](https://arxiv.org/abs/1907.04929)
