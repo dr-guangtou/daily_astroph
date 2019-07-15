@@ -430,3 +430,51 @@
 * [Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending](https://arxiv.org/abs/1907.04929)
 
 * [Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending](https://arxiv.org/abs/1907.04929)
+
+----   
+### July 14
+
+* [On the prospect of using the maximum circular velocity of halos to encapsulate assembly bias in the galaxy-halo connection](https://arxiv.org/abs/1907.05424)
+  * **Relevant, Important**
+  * 基本就是把HOD模型里面的质量换成了Vmax：探索 the extent that switching to vmax as the primary halo property incorporates the effects of assembly bias into the formalism
+  * 用Vmax代替质量后，中心星系halo occupancy对于halo concentration的变化明显减少。但卫星星系的occupancy的变化却变大。
+  * 对Assembly bias的影响不大：Most crucially, we calculate the impact of assembly bias on galaxy clustering by comparing the amplitude of clustering to that of a shuffled galaxy sample, finding that the level of galaxy assembly bias remains largely unchanged. 
+  * vpeak might be better (?)
+
+* [The Kennicutt-Schmidt Law and Gas Scale Height in Luminous and Ultra-Luminous Infrared Galaxies](https://arxiv.org/abs/1907.05432)
+  * ALMA观测5个ULIRG，给出对KS关系的slope的限制
+  * 用分子气体的速度弥散度和面密度的关系可以推测出，气体的标高基本是恒定的:This constancy of H implies that the average midplane density, which is presumably dominated by CO-emitting gas for these extreme star-forming galaxies, scales linearly with the gas surface density, which, in turn, implies that the gas dynamical rate (the inverse of the free-fall time) varies with Σ1/2mol, thereby explaining most of the super-linear slope in the KS relation
+  * Mean efficiency of star formation per free-fall time is roughly constant, 5%-7%
+  * 在高气体面密度下，气体的消耗时标下降
+  * These results are consistent with simulations in which large-scale gravity drives turbulence through a feedback process that maintains an approximately constant Toomre Q instability parameter.
+
+* [The Super Eight Galaxies: Properties of a Sample of Very Bright Galaxies at 7<z<8](https://arxiv.org/abs/1907.05512)
+  * Super Eight galaxies - a set of very luminous, high-redshift (7.1 < z < 8.0) galaxy candidates found in Brightest of Reionizing Galaxies (BoRG) Survey fields. 质量可能都在10^10 Msun左右
+  * We calculate the half-light radii of the Super Eight galaxies using the HST F160W filter and find that the Super Eight sizes are in line with typical evolution of size with redshift
+  * Finally, we place our sample on the UV z∼8 luminosity function and find that the Super Eight number density is consistent with other surveys in this magnitude and redshift range.
+
+* [Relationship between the Metallicity of the Circumgalactic Medium and Galaxy Orientation](https://arxiv.org/abs/1907.05557)
+  * 研究 z < 0.7的IGM中气体金属丰度的几何分布
+  * 用Cloudy模型加上MCMC测量冷CGM气体中的金属丰度；考虑到星系盘相对于QSO的倾角和方位角等
+  * While the metallicity distribution appears bimodal, a Hartigan dip test cannot rule out a unimodal distribution 
+  * CGM metallicities are independent of halo mass, spanning three orders of magnitude at fixed halo mass.
+  * The CGM metallicity does not depend on the galaxy azimuthal and inclination angles regardless of HI column density, impact parameter and galaxy color.
+  * Ionization parameter does not depend on azimuthal angle.
+  * 之前看到的LLS中的金属丰度双态分布不能简单的用空间方位角的分布来解释。
+  * The presence of low metallicity gas at all orientations suggests that cold streams of accreting filaments are not necessarily aligned with the galaxy plane at low redshifts or intergalactic transfer may dominate
+  * 强的CGM金属吸收线可能会挡住视线方向低金属丰度气体的证据
+
+* [On the Origin of Dust in Galaxy Clusters at low to intermediate redshift](https://arxiv.org/abs/1907.05735)
+  * We implement comprehensive dust evolution models that predict the total amount of dust produced and ejected into the intracluster medium by galaxies. 区分椭圆，旋涡，以及矮星系。积分光度函数得到总的尘埃贡献。
+  * 考虑了恒星演化产生尘埃，在SN的shock中的摧毁，以及thermal sputtering效应
+  * 早型星系的尘埃贡献可以忽略不计 (即便假设SNIa也可以产生dust)：We predict that dust masses - both the bulk of spatially-unresolved dust and of the dust ejected into the intracluster medium -- originate from late-type galaxies.
+
+* [Concordance Cosmology?](https://arxiv.org/abs/1907.05798)
+  * **Interesting**
+  * Propose a new intuitive metric for evaluating the tension between two experiments 
+  * We find that there is a modest 2.2σ tension between the DES Year 1 results and the Planck measurements of the Cosmic Microwave Background (CMB) 驱动这个差异的是低红移处观测到的结构的数量, 和H0的tension关系不大。
+  * In particular, combining DES, Baryon Acoustic Oscillations (BAO), Big-Bang Nucleosynthesis (BBN), and supernovae (SNe) measurements recovers a Hubble constant and sound horizon consistent with Planck, and in tension with local distance-ladder measurements.
+
+* [Measuring the Obscuring Column of a Disk Megamaser AGN in a Nearby Merger](https://arxiv.org/abs/1907.05426)
+  * We present a broadband X-ray spectral analysis of a water megamaser AGN in an early merger (NGC 5765B), combining Chandra and NuSTAR data. 
+  * Combining the exquisite black hole mass from masers with our X-ray spectroscopy, the Eddington ratio of the megamaser is estimated to be in the 2−14% range, and its robustness is confirmed through SED fitting.
