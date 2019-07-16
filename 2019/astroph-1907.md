@@ -500,3 +500,31 @@
 * [Measuring the Obscuring Column of a Disk Megamaser AGN in a Nearby Merger](https://arxiv.org/abs/1907.05426)
   * We present a broadband X-ray spectral analysis of a water megamaser AGN in an early merger (NGC 5765B), combining Chandra and NuSTAR data.
   * Combining the exquisite black hole mass from masers with our X-ray spectroscopy, the Eddington ratio of the megamaser is estimated to be in the 2−14% range, and its robustness is confirmed through SED fitting.
+
+----
+### July 15
+
+* [The Carnegie Chicago Hubble Program VI: Tip of the Red Giant Branch Distances to M66 and M96 of the Leo I Group](https://arxiv.org/abs/1907.05424)
+
+* [The Carnegie-Chicago Hubble Program. VIII. An Independent Determination of the Hubble Constant Based on the Tip of the Red Giant Branch](https://arxiv.org/abs/1907.05922)
+
+* [The CGM-GRB Study. I. Uncovering The CircumGalactic Medium around GRB hosts at redshifts 2-6](https://arxiv.org/abs/1907.05903)
+
+* [Ghostly Damped Lyα Systems: Tracers of Gas Flows in the Close Vicinity of Quasars ?](https://arxiv.org/abs/1907.06056)
+
+* [Shock fronts in the long GRB031203 host galaxy](https://arxiv.org/abs/1907.06175)
+
+* [Assessing the photometric redshift precision of the S-PLUS survey: the Stripe-82 as a test-case](https://arxiv.org/abs/1907.06315)
+
+* [Can Assembly Bias Explain the Lensing Amplitude of the BOSS CMASS Sample in a Planck Cosmology?](https://arxiv.org/abs/1907.05909)
+  * **Relevant, Important**
+
+* [Cosmology with galaxy-galaxy lensing on non-perturbative scales: Emulation method and application to BOSS LOWZ](https://arxiv.org/abs/1907.06293)
+
+* [Validating Planck SZ2 Clusters with Optical Counterparts](https://arxiv.org/abs/1907.06363)
+
+* [CosmoDC2: A Synthetic Sky Catalog for Dark Energy Science with LSST](https://arxiv.org/abs/1907.06530)
+
+* [Weighing neutrinos with the halo environment](https://arxiv.org/abs/1907.06598)
+
+* [Covariance matrices for galaxy cluster weak lensing: from virial regime to uncorrelated large-scale structure](https://arxiv.org/abs/1907.06611)
