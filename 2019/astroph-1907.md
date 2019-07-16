@@ -420,7 +420,7 @@
 * [Neutral carbon and highly excited CO in a massive star-forming main sequence galaxy at z=2.2](https://arxiv.org/abs/1907.04936)
   * PdBI观测BX610：reveals a galaxy that is vigorously forming stars 比ULIRG和Submm星系要弱
   * BX610 shows evidence for a significant second gas component responsible for the strong high-J CO emission.
-  * might either be a high-density molecular gas component heated by star formation in a typical photodissociation region, or could be molecular gas excited by low-velocity C shocks. 
+  * might either be a high-density molecular gas component heated by star formation in a typical photodissociation region, or could be molecular gas excited by low-velocity C shocks.
 
 * [Metallicity gradients in small and nearby spiral galaxies](https://arxiv.org/abs/1907.05071)
   * 4个小质量旋涡星系的GMOS观测：no evidence for a dependence of the disk scale length-normalized metallicity gradients with stellar mass is found. 气体丰度梯度不依赖于质量，但是比模拟预测得要陡
@@ -505,26 +505,81 @@
 ### July 15
 
 * [The Carnegie Chicago Hubble Program VI: Tip of the Red Giant Branch Distances to M66 and M96 of the Leo I Group](https://arxiv.org/abs/1907.05424)
+  * We determine the distances to the Type Ia Supernova host galaxies M66 (NGC 3627) and M96 (NGC 3368) of the Leo I Group using the Tip of the Red Giant Branch (TRGB) method
+  * We sample RGB stars predominantly of Population II, minimize host-galaxy reddening, and significantly reduce the effects of source crowding. Our absolute calibration of the I-band TRGB is based on a recent detached eclipsing binary distance to the Large Magellanic Cloud.
 
 * [The Carnegie-Chicago Hubble Program. VIII. An Independent Determination of the Hubble Constant Based on the Tip of the Red Giant Branch](https://arxiv.org/abs/1907.05922)
+  * A new and independent determination of the local value of the Hubble constant based on a calibration of the Tip of the Red Giant Branch (TRGB) applied to Type Ia supernovae (SNeIa)
+  * We find a value of Ho = 69.8 +/- 0.8 (+/-1.1\% stat) +/- 1.7 (+/-2.4\% sys) km/sec/Mpc.
+  * The TRGB distances have been measured using deep Hubble Space Telescope (HST) Advanced Camera for Surveys (ACS) imaging of galaxy halos. The zero point of the TRGB calibration is set with a distance modulus to the Large Magellanic Cloud of 18.477 +/- 0.004 (stat) +/-0.020 (sys) mag, based on measurement of 20 late-type detached eclipsing binary (DEB) stars, combined with an HST parallax calibration of a 3.6 micron Cepheid Leavitt law based on Spitzer observations.
+  * TRGB的优势：There are several advantages of halo TRGB distance measurements relative to Cepheid variables: these include low halo reddening, minimal effects of crowding or blending of the photometry, only a shallow (calibrated) sensitivity to metallicity in the I-band, and no need for multiple epochs of observations or concerns of different slopes with period.
 
 * [The CGM-GRB Study. I. Uncovering The CircumGalactic Medium around GRB hosts at redshifts 2-6](https://arxiv.org/abs/1907.05903)
+  * We investigate the CGM at high redshifts (z ≳ 2) by using bright afterglows of gamma-ray bursts (GRB) as background sources.
+  * 叠加光谱，高电离吸收线特征在蓝端有明显的过吸收; significant absorption excess; 示踪了GRB host中的warm外流
+  * We used simple toy models to kinematically distinguish the CGM and ISM absorption and estimate the CGM mass and outflow velocity.
 
 * [Ghostly Damped Lyα Systems: Tracers of Gas Flows in the Close Vicinity of Quasars ?](https://arxiv.org/abs/1907.06056)
+  * Ghostly DLA: located at the redshift of the quasars, show strong absorption from low-ionization atomic species but reveal no HI Lyα absorption. 可能就是密度更高，以及离中心AGN更近
+  * 有些G-DLA有其他HI Lyman线系的吸收线
+  * We discover an apparent sequence in the observed properties of these DLAs with ghostly DLAs showing wider HI kinematics, stronger absorptions from high-ionization species, CII and SiII excited states, and higher level of dust extinction.
 
 * [Shock fronts in the long GRB031203 host galaxy](https://arxiv.org/abs/1907.06175)
+  * 在2003-2009年间观测GRB host光谱：A broad line profile with FWHM < 400 km s−1appears in the line sockets from the 2009 observations. 宽线来自SB恒星。
+  * The spectra are emitted from the gas downstream of different shock fronts which are at work on the edges of the emitting clouds
+  * A head-on shock is created by collision of the debris with the ISM clouds.
 
 * [Assessing the photometric redshift precision of the S-PLUS survey: the Stripe-82 as a test-case](https://arxiv.org/abs/1907.06315)
+  * **Relevant**
+  * This survey combines a 7 narrow + 5 broad passband filter system, with a typical photometric-depth of r∼21 AB.
+  * We rely on the BPZ2 code to compute our estimates, using a new library of SED models
+  * We identify a redshift window (i.e., 0.26 < z < 0.32) where our estimates double their precision, due to the simultaneous detection of two emission-lines in two distinct narrow-bands
+  * We also derive redshift Probability Density Functions, proving their reliability encoding redshift uncertainties and their potential recovering the n(z) of galaxies at z<0.4, with an unprecedented precision for a photometric survey in the southern hemisphere.
 
 * [Can Assembly Bias Explain the Lensing Amplitude of the BOSS CMASS Sample in a Planck Cosmology?](https://arxiv.org/abs/1907.05909)
   * **Relevant, Important**
+  * We use the suite of AbacusCosmos Lamda-CDM simulations at Planck best-fit cosmology and two flexible implementations of extended halo occupation distribution (HOD) models that incorporate galaxy assembly bias to build forward models and produce joint fits of the observed galaxy clustering signal and the galaxy-galaxy lensing signal.
+  * We find that our implementations of galaxy assembly bias do not reconcile the two measurements at Planck best-fit cosmology. In fact, despite incorporating galaxy assembly bias, the satellite distribution parameter, and the satellite velocity bias parameter into our extended HOD model, our fits still strongly suggest a 31-34% discrepancy between the observed projected clustering and galaxy-galaxy lensing measurements
 
 * [Cosmology with galaxy-galaxy lensing on non-perturbative scales: Emulation method and application to BOSS LOWZ](https://arxiv.org/abs/1907.06293)
+  * **Relevant**
+  * Nonlinear emulation (i.e., interpolation) framework that combines the halo occupation distribution (HOD) galaxy bias model with N-body simulations of nonlinear structure formation, designed to accurately predict the projected clustering and galaxy-galaxy lensing signals from luminous red galaxies (LRGs)
+  * 在DM halo和SHAM星系catalog上测试，对于LOWZ BOSS星系：We obtain a 4.4 per cent measurement of S8=0.847±0.037, in 3.5σ tension with the Planck cosmological results of 1.00±0.02
 
 * [Validating Planck SZ2 Clusters with Optical Counterparts](https://arxiv.org/abs/1907.06363)
+  * Analyze the Planck Cosmology sample and comment on redshift determination and potential mass mis-determinations due to alignment issues
+  * AMF DR9 main (extended) finds 485 (511) optical matches, with 45 (55) previously unmatched PSZ2 clusters, to be compared with the 374 optical matches already present in PSZ2
+  * We find good agreement between the redMaPPer and AMF DR9 redshift determinations
+  * We provide a list of 229 optical clusters not included in the Planck PSZ2 catalog but showing a prominent y signal
+
+* [The gas depletion factor in galaxy clusters: implication from Atacama Cosmology Telescope Polarization experiment measurements](https://arxiv.org/abs/1907.06509)
+  * The gas depletion factor γ(z), i.e., the average ratio of the gas mass fraction to the cosmic mean baryon fraction of galaxy clusters
+  * 用ACT的182个cluster研究depletion factor的红移演化：The method is based on non-parametric reconstruction using the measurements of Hubble parameters from cosmic chronometers
+    * 似乎用到了Gaussian process
+  * Our results reveal the trend of γ(z) decreasing with redshift.
 
 * [CosmoDC2: A Synthetic Sky Catalog for Dark Energy Science with LSST](https://arxiv.org/abs/1907.06530)
+  * **Useful, Important**
+  * CosmoDC2 is the starting point for the second data challenge (DC2) carried out by the LSST Dark Energy Science Collaboration (LSST DESC)
+  * The catalog is based on a trillion-particle, 4.225 Gpc^3 box cosmological N-body simulation, the `Outer Rim' run. It covers 440 deg^2 of sky area to a redshift of z=3 and is complete to a magnitude depth of 28 in the r-band.
+  * The size and complexity of cosmoDC2 requires an efficient catalog generation methodology; our approach is based on a new hybrid technique that combines data-driven empirical approaches with semi-analytic galaxy modeling
 
 * [Weighing neutrinos with the halo environment](https://arxiv.org/abs/1907.06598)
+  * Nonlinear objects like halos and voids exhibit a scale-dependent bias on linear scales in massive neutrino cosmologies. The shape of this scale-dependent bias is a unique signature of the neutrino masses 但是amplitude非常小
+  * We demonstrate for the first time how the strength of this signal can be substantially enhanced by using information about the halo environment at a range of scales.
+  * This enhancement is achieved by using certain combinations of the large scale Cold Dark Matter and total matter environments of halos
 
 * [Covariance matrices for galaxy cluster weak lensing: from virial regime to uncorrelated large-scale structure](https://arxiv.org/abs/1907.06611)
+  * **Relevant, Important**
+  * In these experiments, accurate modelling of covariance matrices of cluster weak lensing plays the key role in obtaining robust measurements of the mean mass of clusters and cosmological parameters.
+  * For a weak lensing source density 10 per square arcmin, shape noise typically dominates the variance on comoving scales less than 5 Mpc/h. However, for 60 per square arcmin, potentially achievable with future weak lensing experiments, density fluctuations typically dominate the variance at scales greater than 1 Mpc/h and remain comparable to shape noise on smaller scales.
+
+* [Stellar atmospheric parameters for 754 spectra from the X-shooter Spectral Library](https://arxiv.org/abs/1907.06391)
+  * **Useful**
+  * In this work, we present a uniform set of stellar atmospheric parameters, effective temperatures, surface gravities, and iron abundances for 754 spectra of 616 XSL stars. We used the full-spectrum fitting package ULySS with the empirical MILES library as reference
+  * The stars cover a range of effective temperature 2900 < Teff < 38 000 K, surface gravity 0 < log g < 5.7, and iron abundance -2.5 < [Fe/H] < +1.0, with a couple of stars extending down to [Fe/H] = -3.9. The precisions of the measurements for the G- and K-type stars are 0.9%, 0.14, and 0.06 in Teff, log g, and [Fe/H]
+
+* [StePar: an automatic code to infer stellar atmospheric parameters](https://arxiv.org/abs/1907.06512)
+  * **Useful**
+  * StePar is an automatic code used to infer stellar atmospheric parameters using the EW method.
+  * StePar implements a grid of MARCS model atmospheres and the MOOG radiative transfer code to compute stellar atmospheric parameters by means of a Downhill Simplex minimisation algorithm
