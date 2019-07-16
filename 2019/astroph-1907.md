@@ -198,7 +198,7 @@
   * **Interesting**
   * We exploit an alternative definition of the GV using the 4,000A break strength, an indicator that is more resilient than colour to dust attenuation.
   * By use of high SNR stacked spectra of the quiescent GV subsample, we derive the simple stellar population (SSP) age difference across the GV, a rough proxy of the quenching timescale (∆t).
-  * We obtain an increasing trend with velocity dispersion (σ), from ∆t∼1.5Gyr at σ=100kms−1, up to 3.5 Gyr at σ=200 km s−1, followed by a rapid decrease in the most massive GV galaxies 
+  * We obtain an increasing trend with velocity dispersion (σ), from ∆t∼1.5Gyr at σ=100kms−1, up to 3.5 Gyr at σ=200 km s−1, followed by a rapid decrease in the most massive GV galaxies
 
 * [Early-type galaxies in low-density environments: NGC 6876 explored through its globular cluster system](https://arxiv.org/abs/1907.02108)
   * **Relevant**
@@ -239,7 +239,7 @@
   * X-Shooter spectra of three background quasar triplets probing transverse separations of 0.5-1.6 pMpc.
   * 2P和3P相关分析：statistics based on transmitted flux and clouds identified using Voigt profile fitting. Q: reduced 3-p correlation
   * Our simulations suggest an increase in correlation amplitudes and Q with increasing N_HI
-  * Additionally, we conclude a positive Civ-Lyα correlations for higher NHI thresholds up to a scale of ∼ 1000 kms−1both in transverse and longitudinal directions. 
+  * Additionally, we conclude a positive Civ-Lyα correlations for higher NHI thresholds up to a scale of ∼ 1000 kms−1both in transverse and longitudinal directions.
 
 * [Detection of anti-correlation of hot and cold baryons in galaxy clusters](https://arxiv.org/abs/1907.02502)
   * **Relevant, Interesting**
@@ -343,12 +343,12 @@
 * [Isolated dark matter deprived galaxies in hydrodynamical simulations: real objects or artefacts?](https://arxiv.org/abs/1907.03542)
   * **Interesting**
   * 在hydro模拟里面找孤立的，DM被耗尽的系统：found a handful of promising objects in all except Horizon-AGN.
-  * All of them were located at the edge of their respective simulation boxes. 
+  * All of them were located at the edge of their respective simulation boxes.
   * We provide strong evidence that these oddballs were created from regular galaxies that get torn apart due to unphysical processes when crossing the edge of the simulation box
 
 * [Revisiting the Fanaroff-Riley dichotomy and radio-galaxy morphology with the LOFAR Two-Metre Sky Survey (LoTSS)](https://arxiv.org/abs/1907.03726)
   * We revisit this canonical relationship with a sample of 5805 extended radio-loud AGN from the LOFAR Two-Metre Sky Survey (LoTSS)
-  * 在LOFAR数据下，射电光度不能简单预测FR I/II的形态类型: 有很多FR II是低光度的：extending three orders of magnitude below the traditional FR break, and demonstrate that their host galaxies are on average systematically fainter than those of high-luminosity FRIIs and of FRIs matched in luminosity. 
+  * 在LOFAR数据下，射电光度不能简单预测FR I/II的形态类型: 有很多FR II是低光度的：extending three orders of magnitude below the traditional FR break, and demonstrate that their host galaxies are on average systematically fainter than those of high-luminosity FRIIs and of FRIs matched in luminosity.
   * low-power jets may remain undisrupted and form hotspots in lower mass hosts.
   * 还有很多不能简单分类的hybrid类型：we identify 459 bent-tailed sources, which we find to have a significantly higher SDSS cluster association fraction (at z<0.4) than the general radio-galaxy population
 
@@ -360,7 +360,7 @@
 * [The impact of baryonic physics and massive neutrinos on weak lensing peak statistics](https://arxiv.org/abs/1907.03161)
   * BAHAMAS模拟：We present the first study of weak lensing peaks in simulations that include both baryonic physics and massive neutrinos
   * As higher neutrino mass tends to suppress the formation of massive structures in the Universe, the halo mass function and lensing peak counts are therefore modified as a function of Mν
-  * Over most of the S/N range, the impact of fiducial baryonic physics is greater (less) than neutrinos for 0.06 and 0.12 (0.24 and 0.48) eV models. 
+  * Over most of the S/N range, the impact of fiducial baryonic physics is greater (less) than neutrinos for 0.06 and 0.12 (0.24 and 0.48) eV models.
 
 ----
 
@@ -409,36 +409,58 @@
 
 * [Shear measurement bias due to spatially varying spectral energy distributions in galaxies](https://arxiv.org/abs/1907.04459)
 
-----   
+----
 
 ### July 11
 
 * [Impact of Galaxy Mergers on the Colours of Cluster Galaxies](https://arxiv.org/abs/1907.04858)
+  * 906 cluster galaxies from the KASI-Yonsei Deep Imaging Survey of Clusters (KYDISC)
+  * We find that galaxies with signatures of recent mergers show significantly bluer colours than undisturbed galaxies. 形态扰动的星系躲在cluster外围。
 
 * [Neutral carbon and highly excited CO in a massive star-forming main sequence galaxy at z=2.2](https://arxiv.org/abs/1907.04936)
+  * PdBI观测BX610：reveals a galaxy that is vigorously forming stars 比ULIRG和Submm星系要弱
+  * BX610 shows evidence for a significant second gas component responsible for the strong high-J CO emission.
+  * might either be a high-density molecular gas component heated by star formation in a typical photodissociation region, or could be molecular gas excited by low-velocity C shocks. 
 
 * [Metallicity gradients in small and nearby spiral galaxies](https://arxiv.org/abs/1907.05071)
+  * 4个小质量旋涡星系的GMOS观测：no evidence for a dependence of the disk scale length-normalized metallicity gradients with stellar mass is found. 气体丰度梯度不依赖于质量，但是比模拟预测得要陡
+  * The mean steepening of the abundance gradients (in dexkpc−1) with decreasing disk scale length is in qualitative agreement with predictions from the inside-out model of Boissier & Prantzos
 
 * [Gravitational Waves from Black Holes in Merging Ultra-Dwarf Galaxies](https://arxiv.org/abs/1907.05361)
+  * We investigate the idea that some of these black holes originate from the centers of extremely low-mass ultra-dwarf galaxies that have merged together in the distant past at z > 1.
+  * 近邻宇宙的dwarf中的并和率太低，不能解释现有的GW rate
+  * Dwarf中双黑洞的并和时标还很不确定
 
 * [Imprints of temperature fluctuations on the z∼5 Lyman-α forest: a view from radiation-hydrodynamic simulations of reionization](https://arxiv.org/abs/1907.04860)
+  * 模拟里面z=5的QSO中的Lya森林功率谱看大尺度温度起伏的影响：We find that large-scale coherent temperature fluctuations bring ∼ 20 − 60% extra power at k ∼ 0.002 s/km, with the largest enhancements in the models where reionization is extended or ends the latest.
+  * On smaller scales (k>0.1 s/km), we find that temperature fluctuations suppress power by 􏰑 10%.
+  * 功率谱的形状对再电离的中点红移最敏感，
+  * Finding that none of our models with reionization midpoints of z < 8 is strongly preferred over another and that all of our models with midpoints of z ≥ 8 are excluded at 2.5σ.
 
 * [H0LiCOW XIII. A 2.4% measurement of H0 from lensed quasars: 5.3σ tension between early and late-Universe probes](https://arxiv.org/abs/1907.04869)
+  * **Important, Interesting**
+  * Joint analysis of six gravitationally lensed quasars with measured time delays.
+  * H0 = 73.3+1.7 km s−1 Mpc−1; 3.1sigma tension between Planck.
+  * A combination of time-delay cosmography and the distance ladder results is in 5.3σ tension with Planck CMB determinations of H0 in flat ΛCDM.
 
 * [GalWeight Application: A publicly-available catalog of dynamical parameters of 1,870 galaxy clusters from SDSS-DR13](https://arxiv.org/abs/1907.05061)
+  * The 1,870 GalWCat19 clusters range in redshift between 0.01 − 0.2 and in mass between (0.4 − 14) × 10^14h−1M⊙.
+  * The cluster catalog provides a large number of cluster parameters including sky position, redshift, membership, velocity dispersion, and mass at overdensities ∆ = 500, 200, 100, 5.5.
+  * The cluster velocity dispersion scales with mass as log(σ200) = log(933 ± 29 km s−1) + (0.35 ± 0.04) log 􏰀h(z) M200/10^15M⊙􏰁 with scatter of δ = 0.06. M200和速度弥散度的关系很好。
 
 * [Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending](https://arxiv.org/abs/1907.04929)
+  * **Useful, Relevant**
+  * PCAT: We extend our work to multiple bands, achieving greater sensitivity (∼ 0.4 mag) and greater speed (500x) compared to previous single-band results.
+  * 用HST观测的M2作为例子：Compared to DAOPHOT, the two-band SDSS catalog fit goes nearly 1.5 magnitudes deeper using the same data, and maintains a lower false discovery rate down to F606W∼ 20.5.
 
-* [Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending](https://arxiv.org/abs/1907.04929)
-
-----   
+----
 ### July 14
 
 * [On the prospect of using the maximum circular velocity of halos to encapsulate assembly bias in the galaxy-halo connection](https://arxiv.org/abs/1907.05424)
   * **Relevant, Important**
   * 基本就是把HOD模型里面的质量换成了Vmax：探索 the extent that switching to vmax as the primary halo property incorporates the effects of assembly bias into the formalism
   * 用Vmax代替质量后，中心星系halo occupancy对于halo concentration的变化明显减少。但卫星星系的occupancy的变化却变大。
-  * 对Assembly bias的影响不大：Most crucially, we calculate the impact of assembly bias on galaxy clustering by comparing the amplitude of clustering to that of a shuffled galaxy sample, finding that the level of galaxy assembly bias remains largely unchanged. 
+  * 对Assembly bias的影响不大：Most crucially, we calculate the impact of assembly bias on galaxy clustering by comparing the amplitude of clustering to that of a shuffled galaxy sample, finding that the level of galaxy assembly bias remains largely unchanged.
   * vpeak might be better (?)
 
 * [The Kennicutt-Schmidt Law and Gas Scale Height in Luminous and Ultra-Luminous Infrared Galaxies](https://arxiv.org/abs/1907.05432)
@@ -456,7 +478,7 @@
 * [Relationship between the Metallicity of the Circumgalactic Medium and Galaxy Orientation](https://arxiv.org/abs/1907.05557)
   * 研究 z < 0.7的IGM中气体金属丰度的几何分布
   * 用Cloudy模型加上MCMC测量冷CGM气体中的金属丰度；考虑到星系盘相对于QSO的倾角和方位角等
-  * While the metallicity distribution appears bimodal, a Hartigan dip test cannot rule out a unimodal distribution 
+  * While the metallicity distribution appears bimodal, a Hartigan dip test cannot rule out a unimodal distribution
   * CGM metallicities are independent of halo mass, spanning three orders of magnitude at fixed halo mass.
   * The CGM metallicity does not depend on the galaxy azimuthal and inclination angles regardless of HI column density, impact parameter and galaxy color.
   * Ionization parameter does not depend on azimuthal angle.
@@ -471,10 +493,10 @@
 
 * [Concordance Cosmology?](https://arxiv.org/abs/1907.05798)
   * **Interesting**
-  * Propose a new intuitive metric for evaluating the tension between two experiments 
+  * Propose a new intuitive metric for evaluating the tension between two experiments
   * We find that there is a modest 2.2σ tension between the DES Year 1 results and the Planck measurements of the Cosmic Microwave Background (CMB) 驱动这个差异的是低红移处观测到的结构的数量, 和H0的tension关系不大。
   * In particular, combining DES, Baryon Acoustic Oscillations (BAO), Big-Bang Nucleosynthesis (BBN), and supernovae (SNe) measurements recovers a Hubble constant and sound horizon consistent with Planck, and in tension with local distance-ladder measurements.
 
 * [Measuring the Obscuring Column of a Disk Megamaser AGN in a Nearby Merger](https://arxiv.org/abs/1907.05426)
-  * We present a broadband X-ray spectral analysis of a water megamaser AGN in an early merger (NGC 5765B), combining Chandra and NuSTAR data. 
+  * We present a broadband X-ray spectral analysis of a water megamaser AGN in an early merger (NGC 5765B), combining Chandra and NuSTAR data.
   * Combining the exquisite black hole mass from masers with our X-ray spectroscopy, the Eddington ratio of the megamaser is estimated to be in the 2−14% range, and its robustness is confirmed through SED fitting.
