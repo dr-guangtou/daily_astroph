@@ -583,3 +583,53 @@
   * **Useful**
   * StePar is an automatic code used to infer stellar atmospheric parameters using the EW method.
   * StePar implements a grid of MARCS model atmospheres and the MOOG radiative transfer code to compute stellar atmospheric parameters by means of a Downhill Simplex minimisation algorithm
+
+----
+### July 16
+
+* [Environment from cross-correlations: connecting hot gas and the quenching of galaxies](https://arxiv.org/abs/1907.06645)
+
+* [SOFIA/HAWC+ traces the magnetic fields in NGC 1068](https://arxiv.org/abs/1907.06648)
+  * First detection of galactic spiral structure by means of thermal emission from magnetically aligned dust grains
+  * SOFIA 89micron观测棒和AGN附近的磁场结构：We find correlations between the 89 μm magnetic field vectors and other tracers of spiral arms, and a symmetric polarization pattern as a function of the azimuthal angle
+  * We infer that the bulk of the interstellar medium from which the polarized dust emission originates is threaded by a magnetic field that closely follows the spiral arms.
+
+* [Scaling relations and baryonic cycling in local star-forming galaxies](https://arxiv.org/abs/1907.06654)
+  * Metallicity And Gas for Mass Assembly样本：450个近邻星系的Mstar，SFR, Mgas, Z数据，进行PCA分析
+  * We find that even with the vast parameter space covered by MAGMA, the relations between Mstar, SFR, Z and Mgas (MHI+MH2) require only two dimensions to describe the hypersurface
+  * Present a new relation to express Mgas as a linear combination of Mstar and SFR
+  * By inferring the metallicity-loading and mass-loading factors for the outflows produced by the MAGMA galaxies, we find that the metal-retention efficiency is not constant with Mstar; metals are expelled more efficiently from low-mass galaxies than from massive ones
+
+* [Understanding Broad Mg II Variability in Quasars with Photoionization](https://arxiv.org/abs/1907.06669)
+  * MgII和其他宽线在QSO中的光变特征不同：it is less variable, and usually does not display a "breathing" mode, the increase in the average cloud distance when luminosity increases.
+  * 用Locally Optimally Emitting Cloud (LOC) photoionization models解释：发射MgII的气体云团比发射Halpha的离中心更远，所以对连续谱光变的响应更低
+  * If the broad-line region (BLR) is truncated at a physical radius of ∼0.1 pc 大部分的MgII发射气体都来自BLR边缘，所以没有明显的breathing mode
+  * It is possible that Mg II does not have a well defined intrinsic BLR size-luminosity relation for individual quasars, even though a global one for the general population may still exist
+
+* [Spectral Energy Distributions of Candidate Periodically-Variable Quasars: Testing the Binary Black Hole Hypothesis](https://arxiv.org/abs/1907.06676)
+  * 在可能的双黑洞候选中：search for evidence of truncated or gapped circumbinary accretion disks (CBDs) in their spectral energy distributions (SEDs).
+  * We find that candidate periodic quasars show SEDs similar to those of control quasars matched in redshift and luminosity.
+  * The fraction of extremely radio-loud quasars, i.e., blazars (with R>100), is tentatively higher than that in control quasars (at 2.5σ)
+
+* [Clumpy galaxies in cosmological simulations: The effect of ISM model](https://arxiv.org/abs/1907.06822)
+  * Using zoom-in simulations, we demonstrate that switching the ISM models can control formation of giant clumps in massive discs at redshifts z∼1--2 while their initial conditions and the other settings such as stellar feedback are unchanged.
+  * 致密气体的状态方程对于clump的形成也有影响，但是对于星系整体性质影响不大
+
+* [Significance of bar quenching in the global quenching of star formation](https://arxiv.org/abs/1907.06910)
+  * Measuring the offset of quenched barred galaxies from star-forming main sequence galaxies in the star formation rate-stellar mass plane and comparing it with the length of the bar
+  * We found that the offset of the quenched barred galaxies from the main sequence relation is not dependent on the length of the stellar bar.
+  * 棒的宏观quenching作用并不显著
+
+* [Investigating the physical properties of galaxies in the Epoch of Reionization with MIRI/JWST spectroscopy](https://arxiv.org/abs/1907.06962)
+  * JWST的MIRI和MRS可以 observe the brighest optical emission lines Hα and [OIII]0.5007μm at redshifts above 7 and 9; 用FIRSTLIGHT模拟去预测
+  * Deep (40 ks) spectroscopic integrations with MRS will be able to detect (S/N > 5) EoR sources at redshifts above 7 with intrinsic star formation rates of more than 2 M⊙ yr−1
+
+* [Warped diffusive radio halo around the quiescent spiral edge-on galaxy NGC 4565](https://arxiv.org/abs/1907.07076)
+  * LOFAR 144 MHz对NGC4565的很深的观测：obtain a clean estimate of the emission originating from old cosmic-ray electrons (CRe), which is almost free from contamination by thermal emission 
+  * We detect a warp in the radio continuum that is reminiscent of the previously known HI warp.
+  * 在高频率上看不到Warp的存在，所以应该年龄大于100 Myr
+  * 弥散的低频射电晕以及离盘的X-ray辐射可能反应了之前星系SF活跃，有显著星风的阶段
+
+* [The lensing properties of subhaloes in massive elliptical galaxies in sterile neutrino cosmologies](https://arxiv.org/abs/1907.06649)
+  * 用EAGLE模拟看CDM和Sterile中微子暗物质模型下，z=0.2的大质量椭圆星系的subhalo的lensing信号的变化
+  * We find that subhalo convergence is well described by a log-normal distribution and that signal of subhaloes in the power spectrum is lower in SN models with respect to CDM, at a level of 10 to 80 per cent, depending on the scale. 
