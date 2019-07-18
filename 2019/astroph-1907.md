@@ -625,11 +625,46 @@
   * Deep (40 ks) spectroscopic integrations with MRS will be able to detect (S/N > 5) EoR sources at redshifts above 7 with intrinsic star formation rates of more than 2 M⊙ yr−1
 
 * [Warped diffusive radio halo around the quiescent spiral edge-on galaxy NGC 4565](https://arxiv.org/abs/1907.07076)
-  * LOFAR 144 MHz对NGC4565的很深的观测：obtain a clean estimate of the emission originating from old cosmic-ray electrons (CRe), which is almost free from contamination by thermal emission 
+  * LOFAR 144 MHz对NGC4565的很深的观测：obtain a clean estimate of the emission originating from old cosmic-ray electrons (CRe), which is almost free from contamination by thermal emission
   * We detect a warp in the radio continuum that is reminiscent of the previously known HI warp.
   * 在高频率上看不到Warp的存在，所以应该年龄大于100 Myr
   * 弥散的低频射电晕以及离盘的X-ray辐射可能反应了之前星系SF活跃，有显著星风的阶段
 
 * [The lensing properties of subhaloes in massive elliptical galaxies in sterile neutrino cosmologies](https://arxiv.org/abs/1907.06649)
   * 用EAGLE模拟看CDM和Sterile中微子暗物质模型下，z=0.2的大质量椭圆星系的subhalo的lensing信号的变化
-  * We find that subhalo convergence is well described by a log-normal distribution and that signal of subhaloes in the power spectrum is lower in SN models with respect to CDM, at a level of 10 to 80 per cent, depending on the scale. 
+  * We find that subhalo convergence is well described by a log-normal distribution and that signal of subhaloes in the power spectrum is lower in SN models with respect to CDM, at a level of 10 to 80 per cent, depending on the scale.
+
+----
+### July 17
+
+* [Hubble Space Telescope Imaging of Antlia B: Star Formation History and a New Tip of the Red Giant Branch Distance](https://arxiv.org/abs/1907.07185)
+  * Antlia B矮星系的HST观测：derive a new tip of the red giant branch (TRGB) distance of D=1.35±0.06 Mpc (m−M=25.65±0.10)
+  * The color-magnitude diagram shows both a prominent old, metal-poor stellar component and confirms a small population of young, blue stars with ages ≲1 Gyr.
+  * Despite being gas-rich, Antlia B shows no evidence of active star formation (i.e., no Hα emission) and should therefore be classified as a dTrans dwarf
+
+* [The MOSDEF Survey: Sulfur Emission-line Ratios Provide New Insights into Evolving ISM Conditions at High Redshift](https://arxiv.org/abs/1907.07189)
+  * 1.3<=z<=2.7的星系的发射线性质。High-redshift MOSDEF galaxies are offset towards lower [SII]6717,6731/Ha at fixed [OIII]5007/Hb; 固定气态金属丰度上，高红移的辐射场强度更高
+  * 低红移星系的SFR面密度越高，[SII]6717,6731/Ha越低；可能是因为DIG贡献逐渐减少
+  * 高红移恒星形成星系的DIG比例可能要比低红移的低; DIG的重要性可能随着红移增加
+
+* [The Widefield Arecibo Virgo Extragalactic Survey I: New structures in the Kent cloud complex and an extended tail on NGC 4522](https://arxiv.org/abs/1907.07217)
+  * Blind Arecibo Virgo巡天，发现了NGC4522 striped tail附近的一堆cloud
+  * We also identify a new component to the gas tail of NGC 4522 extending to ~200 km/s below the velocity range of the gas in the galaxy, pointing towards the eastern end of the complex. 
+
+* [Signatures of Tidal Disruption in Ultra-Faint Dwarf Galaxies: A Combined HST, Gaia, and MMT/Hectochelle Study of Leo V](https://arxiv.org/abs/1907.07233)
+  * 看Leo V周围一个stream-like overdensity区域，发现并不是真的stream；前景恒星和背景星系聚集产生的假象
+  * We also find evidence that the proposed kinematic gradient across Leo V might be due to small number statistics. 基本上认为过去觉得Leo V正在瓦解的证据都不可靠
+
+* [The gas kinematics, excitation, and chemistry, in connection with star formation, in lenticular galaxies](https://arxiv.org/abs/1907.07261)
+  * 有些S0中的气体运动学上脱藕，来自外部吸积：at least 5 galaxies demonstrate strongly inclined large-scale ionized-gas disks smoothly coupled with their outer HI disks
+  * 7 galaxies reveal circumnuclear polar ionized-gas disks, and in NGC 2551 the ionized gas though confined to the main galactic plane however counterrotates the stellar component
+  * We have found that current star formation proceeds usually just where the gas lies strictly in the stellar disk planes and rotates there circularly
+  * Our data imply crucial difference of the external-gas accretion regime in S0s with respect to spiral galaxies: the geometry of the gas accretion in S0s is typically off-plane. (谁是因果还不好说吧？)
+
+* [Rapidly accreting black hole of the Lyα-luminous quasar PSO J006.1240+39.2219](https://arxiv.org/abs/1907.07458)
+  * Near-infrared 1.1-1.3 and 1.3-1.6 μm spectra of the Lyα-luminous quasar PSO J006.1240+39.2219 at z=6.617 
+  * The inferred accretion rate of Lbol/Ledd≳2 indicates that PSO J006.1240+39.2219 is in the phase of the rapid growth of its supermassive black hole characterized by the high NV/CIV line ratio N丰度较高，可能来自于post starburst population
+
+* [Rapidly accreting black hole of the Lyα-luminous quasar PSO J006.1240+39.2219](https://arxiv.org/abs/1907.07458)
+  * 用a single star-forming knot of the bright lensed galaxy RCSGA 032727-132609看UV星云发射线的诊断能力。
+  * Using UV lines alone we can reliably estimate log(q), but the same is difficult for log(O/H). UV lines yield a higher (~1.5 dex) log(P/k) than the optical lines
