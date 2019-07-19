@@ -649,7 +649,7 @@
 
 * [The Widefield Arecibo Virgo Extragalactic Survey I: New structures in the Kent cloud complex and an extended tail on NGC 4522](https://arxiv.org/abs/1907.07217)
   * Blind Arecibo Virgo巡天，发现了NGC4522 striped tail附近的一堆cloud
-  * We also identify a new component to the gas tail of NGC 4522 extending to ~200 km/s below the velocity range of the gas in the galaxy, pointing towards the eastern end of the complex. 
+  * We also identify a new component to the gas tail of NGC 4522 extending to ~200 km/s below the velocity range of the gas in the galaxy, pointing towards the eastern end of the complex.
 
 * [Signatures of Tidal Disruption in Ultra-Faint Dwarf Galaxies: A Combined HST, Gaia, and MMT/Hectochelle Study of Leo V](https://arxiv.org/abs/1907.07233)
   * 看Leo V周围一个stream-like overdensity区域，发现并不是真的stream；前景恒星和背景星系聚集产生的假象
@@ -662,9 +662,61 @@
   * Our data imply crucial difference of the external-gas accretion regime in S0s with respect to spiral galaxies: the geometry of the gas accretion in S0s is typically off-plane. (谁是因果还不好说吧？)
 
 * [Rapidly accreting black hole of the Lyα-luminous quasar PSO J006.1240+39.2219](https://arxiv.org/abs/1907.07458)
-  * Near-infrared 1.1-1.3 and 1.3-1.6 μm spectra of the Lyα-luminous quasar PSO J006.1240+39.2219 at z=6.617 
+  * Near-infrared 1.1-1.3 and 1.3-1.6 μm spectra of the Lyα-luminous quasar PSO J006.1240+39.2219 at z=6.617
   * The inferred accretion rate of Lbol/Ledd≳2 indicates that PSO J006.1240+39.2219 is in the phase of the rapid growth of its supermassive black hole characterized by the high NV/CIV line ratio N丰度较高，可能来自于post starburst population
 
 * [Rapidly accreting black hole of the Lyα-luminous quasar PSO J006.1240+39.2219](https://arxiv.org/abs/1907.07458)
-  * 用a single star-forming knot of the bright lensed galaxy RCSGA 032727-132609看UV星云发射线的诊断能力。
+  * 用a single star-forming knot of the bright lensed galaxy RCSGA 032727-132609看UV星云发射线的诊断能力
   * Using UV lines alone we can reliably estimate log(q), but the same is difficult for log(O/H). UV lines yield a higher (~1.5 dex) log(P/k) than the optical lines
+
+----
+### July 18
+
+* [Mapping the Stellar Halo with the H3 Spectroscopic Survey](https://arxiv.org/abs/1907.07684)
+  * Identifying accreted systems throughout the stellar halo therefore requires a large ground-based spectroscopic survey to complement Gaia.
+  * H3巡天，到 r=18的2万恒星的光谱。R~23000; |b|>30 deg, 主要关注halo的科学，cover >15000 deg^2
+
+* [Large Molecular Gas Reservoirs in Star Forming Cluster Galaxies](https://arxiv.org/abs/1907.07691)
+  * APEX观测 CO(2-1) observations of 72 galaxies in the nearby, disturbed Antlia galaxy cluster
+  * we report a total CO detection rate of 37.5% and a CO detection rate of 86% for sources within 1 dex of the main sequence
+  * 在相同的质量和SFR上，团里的SF星系的气体含量和field里差不多，但很多都有非Gaussian的CO轮廓，以及below SF main sequence的迹象。
+
+* [Sub-damped Lyman alpha systems in the XQ-100 survey I -- Identification and contribution to the cosmological HI budget](https://arxiv.org/abs/1907.07703)
+  * subDLA对宇宙中HI的总贡献可能不低
+  * XQ-100巡天：a blindly selected sample of 155 subDLAs found along 100 quasar sightlines
+  * Using a bootstrap-Monte Carlo simulation, we computed the column density distribution function (f(N, X)) and the cosmological Hi mass density (ΩHi) of subDLAs
+  * We do not find any significant redshift evolution in f(N, X) or ΩHi for subDLAs.
+  * 在 2 < z < 5, subDLA贡献占20%左右
+
+* [Recalibration of [O II] λ3727 as a Star Formation Rate Estimator for Active and Inactive Galaxies](https://arxiv.org/abs/1907.07933)
+  * [OII]/Halpla明显依赖于气体丰度：we refine a metallicity-dependent SFR estimator based on [O II] that is calibrated within a scatter of 0.056 dex against the more commonly used SFR indicator based on Hα emission
+  * The scatter increases to only 0.12 dex if the metallicity is estimated using the stellar mass-metallicity relation
+  * 主要是为了可以估计活动星系中的SFR
+
+* [Peculiar motions of the gas at the centre of the barred galaxy UGC 4056](https://arxiv.org/abs/1907.07998)
+  * The rotation velocity of the gaseous disc shows a bump within around three kiloparsecs while the rotation velocity of the stellar disc falls smoothly to zero with decreasing galactocentric distance.
+  * The peculiar radial velocities in the central part of the galaxy may be caused by the inflow of the gas towards the nucleus of the galaxy.
+
+* [A scenario for ultra-diffuse satellite galaxies with low velocity dispersions](https://arxiv.org/abs/1907.08035)
+  * 导致DF2的低速度弥散度的可能情景：一个小质量的halo落入银河系，undergoes tidal stripping and additional episodes of star formation, possibly enhanced by the action of the tidal gravitational field.
+  * Gas removal by supernova feedback, assisted by tidal stripping, leads to a substantial reduction of the velocity dispersion of stars within one effective radius
+
+* [Stellar and Dust Properties of a Complete Sample of Massive Dusty Galaxies at 1≤z≤4 from MAGPHYS Modeling of UltraVISTA DR3 and Herschel Photometry](https://arxiv.org/abs/1907.08152)
+  * UltraVISTA DR3 + Herschel PACS-SPIRE MAGPHY拟合
+  * ∼15-20% of the sample surprisingly resides in the quiescent region of the UVJ diagram
+  * The median SED of massive dusty galaxies exhibits weaker MIR and UV emission, and redder UV slopes with increasing cosmic time.
+  * SED拟合显示超过20%的IR辐射来自演化星族的加热贡献。
+  * The local relation between dust mass and SFR is followed only by a sub-sample with cooler dust temperatures, while warmer objects have reduced dust masses at a given SFR
+
+* [An ALMA+ACA measurement of the shock in the Bullet Cluster](https://arxiv.org/abs/1907.07680)
+  * We aim to reconstruct a parametric model for the shock SZ signal by directly and jointly fitting deep, high-resolution interferometric data from the Atacama Large Millimeter/submillimeter Array (ALMA) and Atacama Compact Array (ACA) in Fourier space.
+  * ALMA+ACS数据主要反映了shock front前后电子压力的变化
+  * The combination of X-ray and SZ data yields a powerful probe of the shock properties, capable of measuring M and addressing the question of electron-ion equilibration in cluster shocks.
+
+* [Constraining the astrophysics and cosmology from 21cm tomography using deep learning with the SKA](https://arxiv.org/abs/1907.07787)
+  * We successfully design two CNN architectures (VGGNet-like and ResNet-like) that are both efficiently able to extract simultaneously three astrophysical parameters and three cosmology parameters.
+
+* [New constraints on the mass bias of galaxy clusters from the power spectra of the thermal Sunyaev-Zeldovich effect and cosmic shear](https://arxiv.org/abs/1907.07970)
+  * **Relevant**
+  * Since the power spectrum of the cosmic weak lensing shear is also sensitive to the amplitude of matter density fluctuations via S8≡σ8Ωαm with α∼0.5, we can break the degeneracy between the mass bias and the cosmological parameters by combining the tSZ and cosmic shear power spectra
+  * We obtain a new constraint on the mass bias as B=1.37±0.20, or (1−b)=B−1=0.73±0.11 (68% C.L.), for σ8<0.9.
