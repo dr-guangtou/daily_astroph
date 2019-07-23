@@ -720,3 +720,40 @@
   * **Relevant**
   * Since the power spectrum of the cosmic weak lensing shear is also sensitive to the amplitude of matter density fluctuations via S8≡σ8Ωαm with α∼0.5, we can break the degeneracy between the mass bias and the cosmological parameters by combining the tSZ and cosmic shear power spectra
   * We obtain a new constraint on the mass bias as B=1.37±0.20, or (1−b)=B−1=0.73±0.11 (68% C.L.), for σ8<0.9.
+
+----
+### July 21
+
+* [A Catalog of Hyper-luminous X-ray Sources and Intermediate-Mass Black Hole Candidates out to High Redshifts](https://arxiv.org/abs/1907.08213)
+
+* [Neutral hydrogen gas within and around NGC 1316](https://arxiv.org/abs/1907.08265)
+
+* [Changes: The Past, Present, and Future of the Nearby Dwarf Galaxy NGC 55](https://arxiv.org/abs/1907.08296)
+
+* [Discovery of a giant and luminous Lya+CIV+HeII nebula at z=3.326 with extreme emission line ratios](https://arxiv.org/abs/1907.08486)
+
+* [Cosmological information content in redshift-space power spectrum of SDSS-like galaxies in the quasi-nonlinear regime up to k=0.3hMpc−1](https://arxiv.org/abs/1907.08515)
+
+* [A Detection of CMB-Cluster Lensing using Polarization Data from SPTpol](https://arxiv.org/abs/1907.08605)
+
+----
+### July 22
+
+* [BAT AGN Spectroscopic Survey -- XVII: The Parsec-scale Jet Properties of the Ultra Hard X-ray Selected Local AGN](https://arxiv.org/abs/1907.08632)
+
+* [CO and Fine-Structure Lines Reveal Low Metallicity in a Stellar-Mass-Rich Galaxy at z ~ 1?](https://arxiv.org/abs/1907.08633)
+
+* [Diffuse ionized gas and its effects on nebular metallicity estimates of star-forming galaxies](https://arxiv.org/abs/1907.08635)
+
+* [LOFAR first look at the giant radio galaxy 3C 236](https://arxiv.org/abs/1907.09060)
+
+* [Compton-thick AGNs in the NuSTAR era. V: Joint NuSTAR and XMM-Newton spectral analysis of three "soft-Gamma" candidate CT-AGNs in the Swift-BAT 100-month catalog](https://arxiv.org/abs/1907.09193)
+
+* [Orbital and escape dynamics in barred galaxies -- IV. Heteroclinic connections](https://arxiv.org/abs/1907.09202)
+  * The heteroclinic trajectories and the nearby periodic orbits of similar shape populate the bar region of the galaxy and a neighbourhood of its nucleus. Thereby we see a direct relation between the important structures of the interior region of the galaxy and the projection of the heteroclinic tangle into the position space.
+
+* [Water masers in Compton-thick AGN II. The high detection rate and EVN observations of IRAS 15480-0344](https://arxiv.org/abs/1907.09246)
+
+* [Investigating the Origins of Spiral Structure in Disk Galaxies through a Multiwavelength Study](https://arxiv.org/abs/1907.093900)
+  * We measure the pitch angle of a large sample of galaxies at several wavelengths associated with star formation or very young stars (8.0 μm, H-α line and 151 nm in the far-UV) and show that they all have the same pitch angle, which is larger than the pitch angle measured for the same galaxies at optical and near-infrared wavelengths.
+  * Our results are consistent with a region of enhanced stellar light situated downstream of a starforming region.
