@@ -757,3 +757,24 @@
 * [Investigating the Origins of Spiral Structure in Disk Galaxies through a Multiwavelength Study](https://arxiv.org/abs/1907.093900)
   * We measure the pitch angle of a large sample of galaxies at several wavelengths associated with star formation or very young stars (8.0 μm, H-α line and 151 nm in the far-UV) and show that they all have the same pitch angle, which is larger than the pitch angle measured for the same galaxies at optical and near-infrared wavelengths.
   * Our results are consistent with a region of enhanced stellar light situated downstream of a starforming region.
+
+----
+### July 23
+
+* [Fossil group origins X. Velocity segregation in fossil systems](https://arxiv.org/abs/1907.09483)
+
+* [Pseudo-Evolution of Galaxies in LCDM Cosmology](https://arxiv.org/abs/1907.09486)
+
+* [Prediction of Hα and [OIII] Emission Line Galaxy Number Counts for Future Galaxy Redshift Surveys](https://arxiv.org/abs/1907.09680)
+
+* [A galaxy classification grid that better recognises early-type galaxy morphology](https://arxiv.org/abs/1907.09791)
+
+* [Efficient solution of the anisotropic spherically-aligned axisymmetric Jeans equations of stellar hydrodynamics for galactic dynamics](https://arxiv.org/abs/1907.09877)
+
+* [MusE GAs FLOw and Wind (MEGAFLOW) III: galactic wind properties using background quasars](https://arxiv.org/abs/1907.09967)
+
+* [The BAHAMAS project: Effects of a running scalar spectral index on large-scale structure](https://arxiv.org/abs/1907.09497)
+
+* [Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in the SPTpol 100-Square-Degree Survey](https://arxiv.org/abs/1907.09621)
+
+* [deepCR: Cosmic Ray Rejection with Deep Learning](https://arxiv.org/abs/1907.09500)
