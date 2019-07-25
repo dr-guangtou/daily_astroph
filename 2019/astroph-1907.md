@@ -778,3 +778,38 @@
 * [Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in the SPTpol 100-Square-Degree Survey](https://arxiv.org/abs/1907.09621)
 
 * [deepCR: Cosmic Ray Rejection with Deep Learning](https://arxiv.org/abs/1907.09500)
+
+----
+### July 24
+
+* [VIS3COS: III. nature and nurture in galaxy structure and morphology](https://arxiv.org/abs/1907.10062)
+
+* [Intrinsic Morphology Evolution of Ultra-diffuse Galaxies](https://arxiv.org/abs/1907.10079)
+
+* [Young star cluster populations in the E-MOSAICS simulations](https://arxiv.org/abs/1907.10118)
+
+* [Dual black hole associated with obscured and unobscured AGN: CXO J101527.2+625911](https://arxiv.org/abs/1907.10161)
+
+* [Galaxy Structural Analysis with the Curvature of the Brightness Profile](https://arxiv.org/abs/1907.10188)
+
+* [Dark Matter and HI in Ultra-Diffuse Galaxy UGC 2162](https://arxiv.org/abs/1907.10240)
+
+* [LOFAR discovery of a radio halo in the high-redshift galaxy cluster PSZ2 G099.86+58.45](https://arxiv.org/abs/1907.10304)
+
+* [An accurate low-redshift measurement of the cosmic neutral hydrogen density](https://arxiv.org/abs/1907.10375)
+
+* [Measuring the HI mass function below the detection threshold](https://arxiv.org/abs/1907.10404)
+
+* [An Hα Imaging Survey of the Low Surface Brightness Galaxies Selected from the Spring Sky Region of the 40% ALFALFA HI Survey](https://arxiv.org/abs/1907.10423)
+
+* [Edge-on HI-bearing ultra diffuse galaxy candidates in the 40% ALFALFA catalog](https://arxiv.org/abs/1907.10438)
+
+* [Forming one of the most massive objects in the Universe: The quadruple merger in Abell 1758](https://arxiv.org/abs/1907.10581)
+  * We present detailed temperature and abundance maps based on Chandra ACIS data, and identify several candidates for shocks and cold fronts from a smoothed gradient map of the surface brightness.
+  * Non-thermal radio emission observed with the GMRT confirms the presence of radio halos in the northern and southern clusters, and shows evidence for a relic in the periphery of the southern cluster.
+
+* [Forming one of the most massive objects in the Universe: The quadruple merger in Abell 1758](https://arxiv.org/abs/1907.10581)
+
+* [Gaussian Mixture Models for Blended Photometric Redshifts](https://arxiv.org/abs/1907.10572)
+
+* [Next-generation telescopes with curved focal surface for ultra-low surface brightness surveys](https://arxiv.org/abs/1907.10311)
