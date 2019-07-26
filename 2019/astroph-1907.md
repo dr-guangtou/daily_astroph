@@ -813,3 +813,28 @@
 * [Gaussian Mixture Models for Blended Photometric Redshifts](https://arxiv.org/abs/1907.10572)
 
 * [Next-generation telescopes with curved focal surface for ultra-low surface brightness surveys](https://arxiv.org/abs/1907.10311)
+
+----
+### July 25
+
+* [A 40-billion solar mass black hole in the extreme core of Holm 15A, the central galaxy of Abell 85](https://arxiv.org/abs/1907.10608)
+
+* [Chemical evolution of elliptical galaxies with a variable IMF -- A publicly available code](https://arxiv.org/abs/1907.10614)
+
+* [Host galaxies of high-redshift extremely red and obscured quasars](https://arxiv.org/abs/1907.10617)
+
+* [A Trio of Massive Black Holes Caught in the Act of Merging](https://arxiv.org/abs/1907.10639)
+
+* [The Halos and Environments of Nearby Galaxies (HERON) I: Imaging, Sample Characteristics, and Envelope Diameters](https://arxiv.org/abs/1907.10706)
+
+* [Relativistic redshift of the star S0-2 orbiting the Galactic center supermassive black hole](https://arxiv.org/abs/1907.10731)
+
+* [Detection of Metal-Rich, Cool-Warm Gas in the Outskirts of Galaxy Clusters](https://arxiv.org/abs/1907.10733)
+
+* [The Complete Local Volume Groups Sample -- III. Characteristics of group central radio galaxies in the Local Universe](https://arxiv.org/abs/1907.10768)
+
+* [Drivers of disc tilting I: Correlations and possible drivers for Milky Way analogues](https://arxiv.org/abs/1907.10769)
+
+* [Subaru narrow-band imaging search for Lyman continuum from galaxies at z>3 in the GOODS-N field](https://arxiv.org/abs/1907.11113)
+
+* [Sunyaev-Zel'dovich detection of the galaxy cluster Cl J1449+0856 at z = 1.99: the pressure profile in uv space](https://arxiv.org/abs/1907.10985)
