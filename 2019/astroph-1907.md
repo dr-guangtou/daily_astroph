@@ -838,3 +838,42 @@
 * [Subaru narrow-band imaging search for Lyman continuum from galaxies at z>3 in the GOODS-N field](https://arxiv.org/abs/1907.11113)
 
 * [Sunyaev-Zel'dovich detection of the galaxy cluster Cl J1449+0856 at z = 1.99: the pressure profile in uv space](https://arxiv.org/abs/1907.10985)
+
+----
+### July 28
+
+* [Resolved scaling relations and metallicity gradients on sub-kiloparsec scales at z=1](https://arxiv.org/abs/1907.11586)
+
+* [Gas Inflow and Star Formation near Supermassive Black Holes: The Role of Nuclear Activity](https://arxiv.org/abs/1907.11534)
+
+* [Rest-frame FUV-to-FIR view of Lyman break galaxies at z∼3: dust attenuation](https://arxiv.org/abs/1907.11463)
+
+* [J-PLUS: the impact of bars on quenching time-scales in nearby green valley disc galaxies](https://arxiv.org/abs/1907.11244)
+
+* [Metallicity of stars formed throughout the cosmic history based on the observational properties of star forming galaxies](https://arxiv.org/abs/1907.11243)
+
+* [Improving Galaxy Clustering Measurements with Deep Learning: analysis of the DECaLS DR7 data](https://arxiv.org/abs/1907.11355)
+
+* [Model-independent constraints on the hydrogen-ionizing emissivity at z>6](https://arxiv.org/abs/1907.11332)
+
+* [Model-independent constraints on the hydrogen-ionizing emissivity at z>6](https://arxiv.org/abs/1907.11332)
+
+
+----
+### July 29
+
+* [Fragmentation in Population III Galaxies formed through Ionizing Radiation](https://arxiv.org/abs/1907.11724)
+
+* [A model for core formation in dark matter haloes and ultra diffuse galaxies by outflow episodes](https://arxiv.org/abs/1907.11726)
+
+* [On the origin of magnetic driven winds and the structure of the galactic dynamo in isolated galaxies](https://arxiv.org/abs/1907.11727)
+
+* [Quantifying the Thermal Sunyaev-Zel'dovich Effect and Excess Millimeter Emission in Quasar Environments](https://arxiv.org/abs/1907.11731)
+
+* [Sub-kiloparsec Imaging of Lyman-alpha Emission in a Low Mass, Highly Ionized, Gravitationally Lensed Galaxy at z = 1.84](https://arxiv.org/abs/1907.11733)
+
+* [A contribution of star-forming clumps and accreting satellites to the mass assembly of z ~ 2 galaxies](https://arxiv.org/abs/1907.11736)
+
+* [WALLABY Early Science -- IV. ASKAP HI imaging of the nearby galaxy IC 5201](https://arxiv.org/abs/1907.12556)
+
+* [WALLABY Early Science -- IV. ASKAP HI imaging of the nearby galaxy IC 5201](https://arxiv.org/abs/1907.12556)
