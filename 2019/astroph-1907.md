@@ -876,4 +876,24 @@
 
 * [WALLABY Early Science -- IV. ASKAP HI imaging of the nearby galaxy IC 5201](https://arxiv.org/abs/1907.12556)
 
-* [WALLABY Early Science -- IV. ASKAP HI imaging of the nearby galaxy IC 5201](https://arxiv.org/abs/1907.12556)
+
+----
+### July 30
+
+* [An X-ray + Radio Search for Massive Black Holes in Blue Compact Dwarf Galaxies](https://arxiv.org/abs/1907.12585)
+
+* [The Next Generation Fornax Survey (NGFS): VI. The Alignment of Dwarf Galaxies in The Fornax Cluster](https://arxiv.org/abs/1907.12593)
+
+* [Mergers, Starbursts, and Quenching in the Simba Simulation](https://arxiv.org/abs/1907.12680)
+
+* [An Unusual Mid-Infrared Flare in a Type 2 AGN: An Obscured Turning-on AGN or Tidal Disruption Event?](https://arxiv.org/abs/1907.12721)
+
+* [A Maximum Parsimony analysis of the effect of the environment on the evolution of galaxies](https://arxiv.org/abs/1907.12753)
+
+* [The filamentary radio lobes of the Seyfert-Starburst composite galaxy NGC3079](https://arxiv.org/abs/1907.12765)
+
+* [Jellyfish: Ram-pressure stripping as a diagnostic tool in studies of cluster collisions](https://arxiv.org/abs/1907.12781)
+
+* [J-PLUS: photometric calibration of large area multi-filter surveys with stellar and white dwarf loci](https://arxiv.org/abs/1907.12939)
+
+* [J-PLUS: photometric calibration of large area multi-filter surveys with stellar and white dwarf loci](https://arxiv.org/abs/1907.12939)
