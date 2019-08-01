@@ -896,4 +896,25 @@
 
 * [J-PLUS: photometric calibration of large area multi-filter surveys with stellar and white dwarf loci](https://arxiv.org/abs/1907.12939)
 
-* [J-PLUS: photometric calibration of large area multi-filter surveys with stellar and white dwarf loci](https://arxiv.org/abs/1907.12939)
+
+----
+### July 31
+
+* [Rapid Reionization by the Oligarchs: The Case for Massive, UV-Bright, Star-Forming Galaxies with High Escape Fractions](https://arxiv.org/abs/1907.13130)
+
+* [Modelling the Effects of Dark Matter Substructure on Globular Cluster Evolution with the Tidal Approximation](https://arxiv.org/abs/1907.13132)
+  * We find that only sub-halos with masses greater than 106M⊙ will cause cluster dissolution times to decrease. These interactions can also decrease the size of a cluster while increasing the velocity dispersion and tangential anisotropy in the outer regions via tidal heating.
+  * We further conclude that the tidal approximation can be used to model cluster evolution in the tidal fields of cosmological simulations with a minimum cold dark matter sub-halo mass of 106M⊙, as the effect of lower-mass sub-halos on star clusters is negligible.
+
+* [Survival of molecular gas in a stellar feedback-driven outflow witnessed with the MUSE TIMER project and ALMA](https://arxiv.org/abs/1907.13142)
+
+* [QSO redshift estimates from optical, near-infrared and ultraviolet colours](https://arxiv.org/abs/1907.13240)
+  * We find the K-z relation to break down for samples dominated by quasi-stellar objects (QSOs). We hypothesise that this is due to the additional contribution to the near-infrared flux by the active galactic nucleus (AGN)
+  * From a large optical dataset, we find a tight relationship between the rest-frame (U-K)/(W2-FUV) colour ratio and spectroscopic redshift over a sample of 17,000 sources, spanning z ~ 0.1 - 5
+  * We suggest that the rest-frame U-K colour traces the excess flux from the AGN over this wide range of redshifts, although the W2-FUV colour is required to break the degeneracy.
+
+* [Constraining cold accretion onto supermassive black holes: molecular gas in the cores of eight brightest cluster galaxies revealed by joint CO and CN absorption](https://arxiv.org/abs/1907.13526)
+
+* [The Aemulus Project IV: Emulating Halo Bias](https://arxiv.org/abs/1907.13167)
+
+* [X-ray spectral and eclipsing model of the clumpy obscurer in active galactic nuclei](https://arxiv.org/abs/1907.13137)
