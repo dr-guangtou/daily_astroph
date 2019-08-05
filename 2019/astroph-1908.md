@@ -35,3 +35,24 @@
   * 看能不能通过 massive neutrinos and a simple modified gravity model via a non-standard growth index γ 让LCDM预测的SZ Cluster数量符合观测
   * massive neutrinos do not alleviate the cluster-CMB tension
   * When both massive neutrinos and modified gravity are allowed, preferred values remain centred on standard ΛCDM values but (1−b)∼0.8 is allowed (though only at the 2σ level) provided mν∼0.34 eV and γ∼0.8.
+
+----
+
+### Aug 4
+
+* [The buildup of strongly-barred galaxies in the TNG100 simulation](https://arxiv.org/abs/1907.00547)
+
+* [Is There a Fundamental Upper Limit to the Mass of a Star Cluster?](https://arxiv.org/abs/1907.00550)
+  * We compile a comprehensive catalog of compact stellar systems, and reinforce the evidence that the true ancient star cluster population has a maximum mass of M⋆ ~ 5×10^7 M⊙, corresponding to a stellar mass at birth of close to 10^8 M⊙.
+
+* [How feedback shapes galaxies: an analytic model](https://arxiv.org/abs/1907.00552)
+
+* [HST Imaging of the Ionizing Radiation from a Star-forming Galaxy at z = 3.794](https://arxiv.org/abs/1907.00556)
+
+* [The CANDELS/SHARDS multi-wavelength catalog in GOODS-N: Photometry, Photometric Redshifts, Stellar Masses, Emission line fluxes and Star Formation Rates](https://arxiv.org/abs/1907.00569)
+
+* [The Contribution of Galaxies to the 3.4μm Cosmic Infrared Background as Measured Using WISE](https://arxiv.org/abs/1907.00731)
+
+* [MAGPHYS+photo-z: Constraining the Physical Properties of Galaxies with Unknown Redshifts](https://arxiv.org/abs/1907.00771)
+
+* [Deep learning dark matter map reconstructions from DES SV weak lensing data](https://arxiv.org/abs/1907.00543)
