@@ -183,3 +183,19 @@
 * [Modelling the AGN broad line region using single-epoch spectra I. The test case of Arp 151](https://arxiv.org/abs/1907.03230)
 
 * [CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources](https://arxiv.org/abs/1907.03507)
+
+----
+
+### Aug 12
+
+* [Optimising Automatic Morphological Classification of Galaxies with Machine Learning and Deep Learning using Dark Energy Survey Imaging](https://arxiv.org/abs/1907.03610)
+
+* [The Spectral Energy Distributions of Active Galactic Nuclei](https://arxiv.org/abs/1907.03720)
+
+* [The Greenhouse Effect in Buried Galactic Nuclei and the Resonant HCN Vibrational Emission](https://arxiv.org/abs/1907.04058)
+
+* [Constraining the geometry and kinematics of the quasar broad emission line region using gravitational microlensing. II. Comparing models with observations in the lensed quasar HE0435-1223](https://arxiv.org/abs/1907.04178)
+
+* [The shapes of spiral arms in the S4G survey and their connection with stellar bars](https://arxiv.org/abs/1907.04246)
+
+* [A Flaring AGN In a ULIRG candidate in Stripe 82](https://arxiv.org/abs/1907.04280)
