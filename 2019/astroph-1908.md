@@ -278,4 +278,16 @@
 
 * [Bayesian automated posterior repartitioning for nested sampling](https://arxiv.org/abs/1908.04655)
 
+----
 
+### Aug 13-21
+
+* [Machine Learning Classifiers for Intermediate Redshift Emission Line Galaxies](https://arxiv.org/abs/1908.07046)
+
+* [A Tale of Two Clusters: An Analysis of Gas-Phase Metallicity and Nebular Gas Conditions in Proto-cluster Galaxies at z~2](https://arxiv.org/abs/1908.07057)
+
+* [Warm dark matter chills out: constraints on the halo mass function and the free-streaming length of dark matter with 8 quadruple-image strong gravitational lenses](https://arxiv.org/abs/1908.06983)
+
+* [Optimizing galaxy samples for clustering measurements in photometric surveys](https://arxiv.org/abs/1908.07150)
+
+* [Optical follow-up of the tidal disruption event iPTF16fnl: new insights from X-shooter observations](https://arxiv.org/abs/1908.07438)
