@@ -280,7 +280,7 @@
 
 ----
 
-### Aug 13-21
+### Aug 21
 
 * [Machine Learning Classifiers for Intermediate Redshift Emission Line Galaxies](https://arxiv.org/abs/1908.07046)
 
@@ -291,3 +291,34 @@
 * [Optimizing galaxy samples for clustering measurements in photometric surveys](https://arxiv.org/abs/1908.07150)
 
 * [Optical follow-up of the tidal disruption event iPTF16fnl: new insights from X-shooter observations](https://arxiv.org/abs/1908.07438)
+
+----
+
+### Aug 21
+
+* [A physical model for [CII] line emission from galaxies](https://arxiv.org/abs/1908.07536)
+
+* [The intrinsic reddening of the Magellanic Clouds as traced by background galaxies -- I. The bar and outskirts of the Small Magellanic Cloud](https://arxiv.org/abs/1908.07538)
+
+* [Metal Abundances and Star-Formation Rates of Emission-Line Galaxies in and around the Bootes Void](https://arxiv.org/abs/1908.07539)
+
+* [BAT AGN Spectroscopic Survey -- XIII. The nature of the most luminous obscured AGN in the low-redshift universe](https://arxiv.org/abs/1908.07546)
+
+* [Siblings, friends and acquaintances: Testing galaxy association methods](https://arxiv.org/abs/1908.07593)
+
+* [The COS Absorption Survey of Baryon Harbors: The Galaxy Database and Cross-Correlation Analysis of OVI Systems](https://arxiv.org/abs/1908.07675)
+
+* [A wind-based unification model for NGC 5548: spectral holidays, non-disk emission, and implications for changing-look quasars](https://arxiv.org/abs/1908.07686)
+
+* [The ALPINE-ALMA [CII] Survey: A Triple Merger at z~4.56](https://arxiv.org/abs/1908.07777)
+
+* [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). X. Discovery of 35 Quasars and Luminous Galaxies at 5.7 ≤ z ≤ 7.0](https://arxiv.org/abs/1908.07910)
+
+* [Counter-Rotation and High Velocity Outflow in the Parsec-Scale Molecular Torus of NGC 1068](https://arxiv.org/abs/1908.07981)
+
+* [Particle acceleration in a nearby galaxy cluster pair: the role of cluster dynamics](https://arxiv.org/abs/1908.07527)
+
+* [BASILISK: Bayesian Hierarchical Inference of the Galaxy-Halo Connection using Satellite Kinematics--I. Method and Validation](https://arxiv.org/abs/1908.07547)
+  * **Relevant, Interesting**
+
+* [How to Find Variable Active Galactic Nuclei with Machine Learning](https://arxiv.org/abs/1908.07542)
