@@ -294,7 +294,7 @@
 
 ----
 
-### Aug 21
+### Aug 22
 
 * [A physical model for [CII] line emission from galaxies](https://arxiv.org/abs/1908.07536)
 
@@ -322,3 +322,15 @@
   * **Relevant, Interesting**
 
 * [How to Find Variable Active Galactic Nuclei with Machine Learning](https://arxiv.org/abs/1908.07542)
+
+---
+
+### Aug 23
+
+* [Spitzer catalog of Herschel-selected ultrared dusty, star-forming galaxies](https://arxiv.org/abs/1908.08043)
+
+* [X-ray properties of z>4 blazars](https://arxiv.org/abs/1908.08084)
+
+* [HII versus HI in the `green valley' galaxies: direct comparison](https://arxiv.org/abs/1908.08115)
+
+* [What Determines the Sizes of Bars in Spiral Galaxies?](https://arxiv.org/abs/1908.08423)
