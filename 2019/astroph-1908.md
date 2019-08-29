@@ -27,8 +27,8 @@
 * [Five Gas-rich Ultra-faint Dwarf Galaxy Candidates Discovered in WIYN Imaging of ALFALFA Sources](https://arxiv.org/abs/1908.00438)
 
 * [Searching for HI imprints in cosmic web filaments with 21-cm intensity mapping](https://arxiv.org/abs/1908.00028)
-  * Investigate the possible presence of neutral hydrogen (HI) in intergalactic filaments at very low redshift (z∼0.08), by stacking a set of 274,712 2dFGRS galaxy pairs over 21-cm maps 
-  * Our study does not reveal any clear HI excess in the considered filaments in either case; we determine upper limits on the total filament HI brightness temperature at Tb≲10.3μK for the 10-mode and at Tb≲4.8μK for the 20-mode removed maps at the 95% confidence level. 
+  * Investigate the possible presence of neutral hydrogen (HI) in intergalactic filaments at very low redshift (z∼0.08), by stacking a set of 274,712 2dFGRS galaxy pairs over 21-cm maps
+  * Our study does not reveal any clear HI excess in the considered filaments in either case; we determine upper limits on the total filament HI brightness temperature at Tb≲10.3μK for the 10-mode and at Tb≲4.8μK for the 20-mode removed maps at the 95% confidence level.
   * Column density constraints are consistent with previous detections of HI in the warm-hot intergalactic medium obtained observing broad Ly α absorption systems
 
 * [Cluster counts : Tensions, massive neutrinos, and modified gravity. III](https://arxiv.org/abs/1908.00163)
@@ -76,7 +76,7 @@
 
 * [Photometric and Kinematic Misalignments and Their Evolution Among Fast and Slow Rotators in the Illustris Simulation](https://arxiv.org/abs/1908.01102)
   * **Interesting**
-  * 还是Illustris: Our results for the projections of galaxies display clear trends of an overall increase of kinematic misalignment and a slight decrease of ellipticity for fast rotators with increasing masses 
+  * 还是Illustris: Our results for the projections of galaxies display clear trends of an overall increase of kinematic misalignment and a slight decrease of ellipticity for fast rotators with increasing masses
   * It is also found that the number of very slow rotators with large ellipticities is much larger than found in observations.
   * triaxiality and intrinsic flatness in general decrease with time, however, sometimes increases occur that are clearly seen to correlate with major merger events.
 
@@ -334,3 +334,79 @@
 * [HII versus HI in the `green valley' galaxies: direct comparison](https://arxiv.org/abs/1908.08115)
 
 * [What Determines the Sizes of Bars in Spiral Galaxies?](https://arxiv.org/abs/1908.08423)
+
+---
+
+### Aug 26
+
+* [A Spectral Analysis of the Centimeter Regime of Nearby Galaxies: RRLs, Excited OH, and NH3](https://arxiv.org/abs/1908.08839)
+
+* [The parallelism between galaxy clusters and early-type galaxies: III. The Mass-Radius Relationship](https://arxiv.org/abs/1908.08808)
+  **Relevant**
+
+* [A new sample of southern radio galaxies: Host galaxy masses and star-formation rates](https://arxiv.org/abs/1908.08761)
+
+* [An extremely X--ray weak blazar at z=5](https://arxiv.org/abs/1908.08552)
+
+* [Structure of Brightest Cluster Galaxies and Intracluster Light](https://arxiv.org/abs/1908.08544)
+
+* [The tidal evolution of dark matter substructure -- I. Subhalo density profiles](https://arxiv.org/abs/1908.08537)
+
+* [Evolution of Neutral Oxygen During the Epoch of Reionization and its Use in Estimating the Neutral Hydrogen Fraction](https://arxiv.org/abs/1908.08549)
+
+---
+
+### Aug 27
+
+* [Cosmic Rays and Magnetic Fields in the Core and Halo of the Starburst M82: Implications for Galactic Wind Physics](https://arxiv.org/abs/1908.09824)
+
+* [The WISSH quasars project VI. Fraction and properties of BAL quasars in the hyper-luminosity regime](https://arxiv.org/abs/1908.09673)
+
+* [The Hot Gas Exhaust of Starburst Engines in Mergers: Testing Models of Stellar Feedback and Star Formation Regulation](https://arxiv.org/abs/1908.09402)
+
+* [The AGN fuelling/feedback cycle in nearby radio galaxies II. Kinematics of the molecular gas](https://arxiv.org/abs/1908.09229)
+
+* [Fade to grey: systematic variation of the galaxy attenuation curves with galaxy properties in EAGLE](https://arxiv.org/abs/1908.08956)
+
+* [SIGNALS: I. Survey Description](https://arxiv.org/abs/1908.09017)
+
+* [Pressure profiles and mass estimates using high-resolution Sunyaev-Zel'dovich effect observations of Zwicky 3146 with MUSTANG-2](https://arxiv.org/abs/1908.09200)
+
+---
+
+### Aug 28
+
+* [An Hα kinematic survey of the Herschel Reference Survey -- I. Fabry-Perot observations with the 1.93m telescope at OHP](https://arxiv.org/abs/1908.10295)
+
+* [Effect of galaxy mergers on star formation rates](https://arxiv.org/abs/1908.10115)
+
+* [The X-ray properties of z>6 quasars: no evident evolution of accretion physics in the first Gyr of the Universe](https://arxiv.org/abs/1908.09849)
+
+* [A search for cosmological anisotropy using the Lyman alpha forest from SDSS quasar spectra](https://arxiv.org/abs/1908.10301)
+
+---
+
+### Aug 29
+
+* [Thermal Instability of Halo Gas Heated by Streaming Cosmic Rays](https://arxiv.org/abs/1908.10367)
+  * 看streaming CR对加热halo里的气体的重要性: Halo gas in photoionization equilibrium is thermally stable independent of CR pressure, while gas in collisional ionization equilbrium is unstable for physically realistic parameters
+  * CR被禁锢在星系halo里的时标长于其传播速度所能达到的。这是因为小尺度上的电磁场扰动造成的散射。这种扰动可能是外部的，也可能是CR自激发的Alfen波导致的。
+  * CR的streaming不稳定性可以产生Alfen波
+
+* [Testing the Tremaine-Weinberg Method Applied to Integral-field Spectroscopic Data Using a Simulated Barred Galaxy](https://arxiv.org/abs/1908.10524)
+  * 能不能用长缝光谱测bar的图样速度：用模拟测试，需要长缝位于bar区域，且盘的方位角是重要的系统误差来源
+
+* [2D-Galactic chemical evolution: the role of the spiral density wave](https://arxiv.org/abs/1908.10571)
+  * 看密度波对银河系类盘星系上的角向元素丰度分布的影响。在早期对SF面密度影响大，对元素丰度影响小。晚期模型之间的差别逐渐消失。
+
+* [Neutron-capture elements in dwarf galaxies I: Chemical clocks & the short timescale of the r-process](https://arxiv.org/abs/1908.10729)
+  * Sculptor中的Y, Ba, La, Nd, and Eu测量；r过程元素增丰贯彻整个化学演化历史，且相对于核坍缩超新星没有明显的时间延迟--说明中子星并和可能不是主要来源？
+  * s过程增丰只在[Fe/H] ~ -2后变得显著。
+
+* [Dark matter and no dark matter: On the halo mass of NGC 1052](https://arxiv.org/abs/1908.10858)
+  * **Relevant**
+  * 用77个球状星团来定Halo的动力学质量，得到的和SHMR预期相符。
+
+* [Detailed study of ELAIS N1 field with the uGMRT -- II. Source Properties and Spectral Variation Of Foreground Power Spectrum from 300-500 MHz Observations](https://arxiv.org/abs/1908.10380)
+  * 对低频射电波段的射电源的了解有助于在21cm宇宙学观测中移除前景信号。
+  * 主要看Euclidian-normalized differential source counts；还有银河系弥散同步加速辐射的角功率谱分布
