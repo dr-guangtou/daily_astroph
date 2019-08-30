@@ -410,3 +410,39 @@
 * [Detailed study of ELAIS N1 field with the uGMRT -- II. Source Properties and Spectral Variation Of Foreground Power Spectrum from 300-500 MHz Observations](https://arxiv.org/abs/1908.10380)
   * 对低频射电波段的射电源的了解有助于在21cm宇宙学观测中移除前景信号。
   * 主要看Euclidian-normalized differential source counts；还有银河系弥散同步加速辐射的角功率谱分布
+
+---
+
+### Aug 30
+
+* [The first astrophysical result of HISAKI: a search for the EUV He I lines a massive cool core cluster at z=0.7](https://arxiv.org/abs/1908.10891)
+  * Hisaki的UV光谱仪看z=0.7的cool core cluster，发现10^4-5 K的冷气体量比预期的要少，说明已经有物理过程开始减慢cooling process
+
+* [Non-parametric Morphologies of Galaxies in the EAGLE Simulation](https://arxiv.org/abs/1908.10936)
+  * We find that the morphologies of EAGLE galaxies reproduce observations, except for asymmetry values which are larger.
+  * 模拟的分辨率对于非参数形态测量也很重要
+  * The correlation between optical and kinematic morphologies is stronger in central galaxies than in satellites, indicating differences in morphological evolution.
+
+* [Mysterious Coherence in Several-Megaparsec Scales Between Galaxy Rotation and Neighbor Motion](https://arxiv.org/abs/1908.10972)
+  * **Interesting**
+  * 看CALIFA星系周围15Mpc的SDSS星系的平均运动：The correlation between optical and kinematic morphologies is stronger in central galaxies than in satellites, indicating differences in morphological evolution.
+  * 对red星系更明显
+
+* [Redistribution of Stars and Gas in the Star Formation Deserts of Barred Galaxies](https://arxiv.org/abs/1908.11119)
+  * 棒两侧倾向有缺少年轻星族的区域，称为Star formation desert; 也许可以通过SFD区域的恒星年龄分布推测bar的年龄。
+  * However, the overall age distribution of stars in the SFD does not show a sharp truncation after bar formation but rather a gradual downturn in comparison to that of the bar
+  * SFD内年龄的缓慢变化是径向迁移过程造成的：The SFD is thus one of the only regions where an uncontaminated sample of stars only affected by radial migration can be studied.
+
+* [Origin of the galaxy HI size-mass relation](https://arxiv.org/abs/1908.11149)
+  * **Interesting**
+  * 基于对HI盘的简单结构假设推导HI气体的质量-半径关系
+  * Using an analytical argument, we explain why processes that cause gas disc truncation – such as ram-pressure stripping – scarcely affect the H i size–mass relation
+
+* [The Case for Strangulation in Low-Mass Hosts: DDO 113](https://arxiv.org/abs/1908.11367)
+  * DDO 113是LMC的一个完全quenched，且没有气体的satellite; deep image没有看到任何形态扰动的迹象
+  * 通过和模拟比较，认为infalling time应该是在2-6 Gyr以前
+  * Strangulation是最可能的quenching机制，所需的SF outflow mass loading factor和预期相符
+
+* [NuSTAR Discovery of Dead Quasar Engine in Arp 187](https://arxiv.org/abs/1908.10864)
+  * Here we present the most drastic AGN luminosity decline by a factor of ≳103 constrained by a NuSTAR X-ray observation of the nearby galaxy Arp 187
+  * 光变的时标在10^4 yrs左右，之前的光度是通过窄线区的[OIII]光度来推算的
