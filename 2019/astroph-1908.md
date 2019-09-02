@@ -446,3 +446,60 @@
 * [NuSTAR Discovery of Dead Quasar Engine in Arp 187](https://arxiv.org/abs/1908.10864)
   * Here we present the most drastic AGN luminosity decline by a factor of ≳103 constrained by a NuSTAR X-ray observation of the nearby galaxy Arp 187
   * 光变的时标在10^4 yrs左右，之前的光度是通过窄线区的[OIII]光度来推算的
+
+---
+
+### Aug 31
+
+* [The quenching and morphological evolution of central galaxies is facilitated by the feedback-driven expulsion of circumgalactic gas](https://arxiv.org/abs/1908.11380)
+  * TNG和EAGLES得到的CGM比例与Halo质量的关系很不一样
+  * 但f_CGM在固定M200上的scatter和sSFR和中心星系的运动学特性有相关。在L*以上的星系中，AGN feedback开始变得重要，CGM冷却时标变长；quenched星系生活的halo中CGM比例低
+  * CGM比例和Halo的concentration反相关，也和形成红移反相关，形成越早，黑洞形成越早，fCGM越低
+
+* [Exploring the mid-infrared SEDs of six AGN dusty torus models I: synthetic spectra](https://arxiv.org/abs/1908.11381)
+  * 比较6个dusty torus模型：在现有和未来JWST数据下， 大部分模型可以用中红外光谱的slope以及Si特征被区分开
+  * 但需要比较高的空间分辨率，如果有中心circumnuclear的贡献就不再准确了
+
+* [UGC 1378 -- a Milky Way-sized galaxy embedded in a giant low-surface brightness disc](https://arxiv.org/abs/1908.11383)
+  * 速度弥散度特征不符合major merger形成
+  * SFR面密度和其气体密度比比较低，可能是近期吸积的结果
+
+* [Balmer breaks in simulated galaxies at z>6](https://arxiv.org/abs/1908.11393)
+  * z=9的一个星系里看到明显的Balmer break，可能意味着SFH比较大的起伏
+  * 目前的模拟很难重现这一特征，或者说明这个星系很稀有，或者说明模拟有问题
+
+* [A spectral stacking analysis to search for faint outflow signatures in z~6 quasars](https://arxiv.org/abs/1908.11395)
+  * 26个有[CII]线的QSO的叠加：单个星系光谱中看不到外流迹象; 叠加光谱中的宽发射线迹象也很微弱
+
+* [Galactic chimney sweeping: the effect of 'gradual' stellar feedback mechanisms on the evolution of dwarf galaxies](https://arxiv.org/abs/1908.11562)
+  * 高分辨矮星系模拟，考虑“gradual” feedback，即单个恒星feedback的影响：We find the mass of gas unbound across a 1 Gyr starburst is uniformly lowered if gradual feedback mechanisms are included
+  * 这种feedback不会直接把全部气体都吹散，而是会形成像“烟囱”一样的结构
+
+* [Proper motion in lensed radio jets at redshift 3: a possible dual super-massive black hole system in the early Universe](https://arxiv.org/abs/1908.11756)
+  * VLBI观测一个被引力透镜放大了的射电源喷流的引力透镜效应来看proper motion: 没有探测到
+  * MG B2016+112 would represent the highest redshift dual radio-loud AGN system discovered thus far, and would support the merger interpretation for such systems. 
+
+* [Testing the Accuracy of Halo Occupation Distribution Modelling using Hydrodynamic Simulations](https://arxiv.org/abs/1908.11448)
+  * **Relevant** 有助于理解HOD模型
+  * 在Illustris和EAGLE里检验5参数HOD模型的精确程度; 和DM only模拟比，hydro模拟里，HMF向低质量端位移
+  * 不同模拟里，重子过程改变HMF的方式不同: After applying a correction to the halo mass function in each simulation, the HOD is able to accurately reproduce all clustering statistics for the high luminosity sample of galaxies
+
+* [Cosmological studies from tomographic weak lensing peak abundances and impacts of photo-z errors](https://arxiv.org/abs/1908.11493)
+  * **Relevant**
+  * 在未来的WL巡天中，如果在WL peak统计中加入不同红移bin的tomography分析，可以提供更好的宇宙学限制
+  * 并讨论了测光红移的bias和scatter的影响，以及能否在分析同同时估计这两个参数
+  * 有关于CSST的讨论
+
+* [The impact of AGN feedback on galaxy intrinsic alignments in the Horizon simulations](https://arxiv.org/abs/1908.11665)
+  * **Relevant**
+  * 加入和不加入AGN feedback，Horizon模拟里在z=1到0之间的三维IA都比较接近
+  * The relative alignment of galaxy shapes around galaxy positions is however significantly impacted, especially when considering high-mass ellipsoids
+  * AGN feedback产生更多的大质量椭圆星系，这些星系可以导致更强的IA信号
+
+* [Particle re-acceleration and Faraday-complex structures in the RXC J1314.4-2515 galaxy cluster](https://arxiv.org/abs/1908.11868)
+  * XMM+VLA观测，Our observations reveal low levels of fractional polarization and Faraday-complex structures in the southern region of the relic, which point to the presence of thermal gas and filamentary magnetic field morphology inside the radio emitting volume
+
+* [Conditional Density Estimation Tools in Python and R with Applications to Photometric Redshifts and Likelihood-Free Cosmological Inference](https://arxiv.org/abs/1908.11523)
+  * **Useful**
+  * Photo-z误差常常是非高斯的，如何在宇宙学分析中考虑进来是重要问题; 现在流行的Likelihood free推断也需要完整的误差信息；而现有的机器学习工具往往不具有应对复杂误差的能力
+  * We provide nonparametric conditional density estimation (CDE) tools for approximating and validating the entire probability density p(y | x) given training data for x and y.
