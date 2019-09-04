@@ -10,7 +10,7 @@
 
 * [Properties of the Circumgalactic Medium in Cosmic Ray-Dominated Galaxy Halos](https://arxiv.org/abs/1908.00003)
   * FIRE中看CR对CGM的影响，从UFD到银河系质量星系：Halo质量越大，红移越低，CR越重要；在z<1的银河系质量星系的halo里，对CGM的压力起主导作用
-  * CR and thermal gas pressure are locally anti-correlated, maintaining total pressure balance, and the CGM gas density profile is determined by the balance of CR pressure gradients and gravity 
+  * CR and thermal gas pressure are locally anti-correlated, maintaining total pressure balance, and the CGM gas density profile is determined by the balance of CR pressure gradients and gravity
 
 * [HETDEX Pilot Survey. VI. [OIII] Emitters and Expectations for a Local Sample of Star Forming Galaxies in HETDEX](https://arxiv.org/abs/1908.00011)
   * HPS找到的29个低红移发射线星系，用LRS2后续观测定O丰度 (HET上有第二代的LRS)
@@ -34,9 +34,9 @@
 
 * [Interstellar dust along the line of sight of GX 3+1](https://arxiv.org/abs/1908.00652)
   * 从Chandra X-ray观测中看到的硅吸收能够推断尘埃大小分布，组成，以及ISM中Si的结构，可以了解ISM密度最高的地方的尘埃性质
-  
+
 * [ALMA images the many faces of the NGC1068 torus and its surroundings](https://arxiv.org/abs/1908.00675)
-  * The torus is connected to the CND through a network of gas streamers. The kinematics of molecular gas show strong departures from circular motions in the torus, the gas streamers, and the CND. 
+  * The torus is connected to the CND through a network of gas streamers. The kinematics of molecular gas show strong departures from circular motions in the torus, the gas streamers, and the CND.
   * We conclude that a wide-angle AGN wind launched from the accretion disk is impacting a sizeable fraction of the gas inside the torus (~0.4-0.6 x M_torus). 但仍有大量气体贮藏未收到AGN影响
 
 * [The space densities and emissivities of AGNs at z>4](https://arxiv.org/abs/1908.00702)
@@ -89,7 +89,7 @@
 
 * [Dense gas formation and destruction in a simulated Perseus-like galaxy cluster with spin-driven black hole feedback](https://arxiv.org/abs/1908.01329)
   * We show that the formation and destruction of dense gas is closely linked to the SMBH's feedback cycle, and that its morphology is highly variable throughout the simulation
-  * While extended filamentary structures readily condense from the hot intra-cluster medium, they are easily shattered into an overly clumpy distribution of gas during their interaction with the jet driven outflows. 
+  * While extended filamentary structures readily condense from the hot intra-cluster medium, they are easily shattered into an overly clumpy distribution of gas during their interaction with the jet driven outflows.
 
 * [Constraining the properties of gaseous halos via cross-correlations of upcoming galaxy surveys and thermal Sunyaev-Zel'dovich maps](https://arxiv.org/abs/1908.00405)
   * **Relevant**

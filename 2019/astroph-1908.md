@@ -9,6 +9,8 @@
 ### Aug 1
 
 * [The Black Hole -- Bulge Mass Relation Including Dwarf Galaxies Hosting Active Galactic Nuclei](https://arxiv.org/abs/1908.00020)
+  * **Interesting**
+  * 12个10^9 dwarf的黑洞和恒星质量测量，看Mbulge-SMBH关系
 
 * [Properties of the Simulated Circumgalactic Medium](https://arxiv.org/abs/1908.00021)
 
@@ -23,6 +25,9 @@
 * [Feedback from low-luminosity radio galaxies: B2 0258+35](https://arxiv.org/abs/1908.00374)
 
 * [The mass-size plane of EAGLE galaxies](https://arxiv.org/abs/1908.00416)
+  * **Relevant, Important**
+  * 对于sigma* < 150 km/s的星系，mass-size plane上的iso-sigma* curve反映了年龄的变化
+  * EAGLE中的大盘星系往往又negative age gradient
 
 * [Five Gas-rich Ultra-faint Dwarf Galaxy Candidates Discovered in WIYN Imaging of ALFALFA Sources](https://arxiv.org/abs/1908.00438)
 
@@ -32,8 +37,9 @@
   * Column density constraints are consistent with previous detections of HI in the warm-hot intergalactic medium obtained observing broad Ly α absorption systems
 
 * [Cluster counts : Tensions, massive neutrinos, and modified gravity. III](https://arxiv.org/abs/1908.00163)
+  * **Relevant**
   * 看能不能通过 massive neutrinos and a simple modified gravity model via a non-standard growth index γ 让LCDM预测的SZ Cluster数量符合观测
-  * massive neutrinos do not alleviate the cluster-CMB tension
+  * Massive neutrinos do not alleviate the cluster-CMB tension
   * When both massive neutrinos and modified gravity are allowed, preferred values remain centred on standard ΛCDM values but (1−b)∼0.8 is allowed (though only at the 2σ level) provided mν∼0.34 eV and γ∼0.8.
 
 ----
@@ -41,21 +47,37 @@
 ### Aug 4
 
 * [The buildup of strongly-barred galaxies in the TNG100 simulation](https://arxiv.org/abs/1908.00547)
+  * >50%的TNG中等质量盘星系在z=0是有棒的，半数是strong bar星系
+  * Strong bar的气体/恒星质量比偏低; 大部分都已经quenched了; 其disc形成的早
+  * Strong bar星系的中心部分在bar形成后不久就quenched
 
 * [Is There a Fundamental Upper Limit to the Mass of a Star Cluster?](https://arxiv.org/abs/1908.00550)
   * We compile a comprehensive catalog of compact stellar systems, and reinforce the evidence that the true ancient star cluster population has a maximum mass of M⋆ ~ 5×10^7 M⊙, corresponding to a stellar mass at birth of close to 10^8 M⊙.
 
 * [How feedback shapes galaxies: an analytic model](https://arxiv.org/abs/1908.00552)
+  * **Important, Interesting**
 
 * [HST Imaging of the Ionizing Radiation from a Star-forming Galaxy at z = 3.794](https://arxiv.org/abs/1908.00556)
 
 * [The CANDELS/SHARDS multi-wavelength catalog in GOODS-N: Photometry, Photometric Redshifts, Stellar Masses, Emission line fluxes and Star Formation Rates](https://arxiv.org/abs/1908.00569)
+  * **Useful**
+  * The 5σ detection limits (within an aperture of radius 0.17") of the mosaic range between H = 27.8, 28.2 and 28.7 in the wide, intermediate and deep regions
+  * We release added-value catalogs with emission line fluxes, stellar masses, dust attenuations, UV- and IR- based star formation rates and rest-frame colors.
 
 * [The Contribution of Galaxies to the 3.4μm Cosmic Infrared Background as Measured Using WISE](https://arxiv.org/abs/1908.00731)
+  * Present a measurement of the contribution of galaxies to the EBL at 3.4 μm that is based on the measurement of the luminosity function (LF) in Lake et al. (2018) and the mean spectral energy distribution of galaxies in Lake & Wright (2016).
+  * 3.4micron的星系贡献还很不确定，本文的结果比之前的大多都要高
 
 * [MAGPHYS+photo-z: Constraining the Physical Properties of Galaxies with Unknown Redshifts](https://arxiv.org/abs/1908.00771)
+  * **Interesting, Useful**
+  * SED拟合中同时考虑photo-z: The all-in-one treatment of uncertainties afforded with this code is beneficial for accurately interpreting physical properties of galaxies in large photometric datasets
 
 * [Deep learning dark matter map reconstructions from DES SV weak lensing data](https://arxiv.org/abs/1908.00543)
+  * **Interesting**
+  * DeepMass CNN model; interpret our newly created DES SV map as an approximation of the posterior mean P(κ|γ) of the convergence given observed shear
+  * 比现在的Wiener filter技术改进了很多: the improvement is driven by the non-linear structures in the convergence.
+  * Architecture is based on the Unet (Ronneberger et al. 2015), which has a so-called expanding path and contracting path.
+  * 没有考虑second order效应：reduced shear, flexion, IA
 
 ----
 
@@ -81,17 +103,27 @@
   * triaxiality and intrinsic flatness in general decrease with time, however, sometimes increases occur that are clearly seen to correlate with major merger events.
 
 * [A multi-wavelength study of a massive, active galaxy at z∼2: coupling the kinematics of the ionized and molecular gas](https://arxiv.org/abs/1908.01358)
+  * 10^11 Msun at z=2, 有obscrued AGN和电离气体外流，有延展且高速旋转的电离气体盘
+  * ISM盘是multiphase的，CO的旋转速度在中心最高，且比电离气体快
 
 * [SDSS IV MaNGA -- Star-Formation Driven Biconical Outflows in the Local Univers](https://arxiv.org/abs/1908.01409)
 
 * [Stellar mass -- halo mass relation for the brightest central galaxies of X-ray clusters since z~0.65](https://arxiv.org/abs/1908.01559)
   * **Relevant**
+  * SPIDER DR14中416个BCG；光谱来自SDSS；用SIGMA进行多波段Sersic fitting
+  * SHMR一直到z=0.65都没有演化的迹象; scatter of stellar mass at fixed halo mass在0.2 dex左右
+  * BCG stellar mass, richness, X-ray halo mass之间有复杂相关
 
 * [The first spectroscopic dust reverberation programme on active galactic nuclei: the torus in NGC 5548](https://arxiv.org/abs/1908.01627)
 
 * [A young galaxy cluster in the old Universe](https://arxiv.org/abs/1908.01666)
+  * **Interesting, Relevant**
+  * Report a discovery of a “blue cluster”, that is a local galaxy cluster with an unprecedentedly high fraction of blue star-forming galaxies yet hosted by a massive dark matter halo.
+  * z=0.061, Halo mass在2x10^14 Msun; 60%的星系是blue的
 
 * [A Triple AGN in a Mid-Infrared Selected Late Stage Galaxy Merger](https://arxiv.org/abs/1908.01732)
+  * Report here a compelling case of an AGN triplet with mutual separations <10 kpc in the advanced merger SDSS J084905.51+111447.2 at z = 0.077
+  * Hard X-ray spectral fitting reveals a high column density along the line of sight, consistent with the picture of late-stage mergers hosting heavily absorbed AGNs
 
 * [XMMSL2 J144605.0+685735 : a slow tidal disruption event](https://arxiv.org/abs/1908.01065)
 
@@ -106,6 +138,9 @@
 * [MOS spectroscopy of protocluster candidate galaxies at z=6.5](https://arxiv.org/abs/1908.01827)
 
 * [Scaling relations for globular cluster systems in early-type galaxies](https://arxiv.org/abs/1908.01807)
+  * **Relevant, Important**
+  * HST图像研究低环境密度里大的中等光度星系的GC: the effective radius, extension and concentration of the GCS radial profiles correlate with the stellar mass, effective radius and number of globular clusters
+  * 有些相关可能是bi-linear的, 转折质量在10^10.5 Msun
 
 * [Plateau de Bure High-z Blue-Sequence Survey 2 (PHIBSS2): Search for Secondary Sources, CO Luminosity Functions in the Field, and the Evolution of Molecular Gas Density through Cosmic Time](https://arxiv.org/abs/1908.01791)
 
@@ -477,7 +512,7 @@
 
 * [Proper motion in lensed radio jets at redshift 3: a possible dual super-massive black hole system in the early Universe](https://arxiv.org/abs/1908.11756)
   * VLBI观测一个被引力透镜放大了的射电源喷流的引力透镜效应来看proper motion: 没有探测到
-  * MG B2016+112 would represent the highest redshift dual radio-loud AGN system discovered thus far, and would support the merger interpretation for such systems. 
+  * MG B2016+112 would represent the highest redshift dual radio-loud AGN system discovered thus far, and would support the merger interpretation for such systems.
 
 * [Testing the Accuracy of Halo Occupation Distribution Modelling using Hydrodynamic Simulations](https://arxiv.org/abs/1908.11448)
   * **Relevant** 有助于理解HOD模型
