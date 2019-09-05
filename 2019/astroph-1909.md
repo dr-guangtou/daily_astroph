@@ -99,3 +99,70 @@
 
 * [Photometric redshifts for X-ray-selected active galactic nuclei in the eROSITA era](https://arxiv.org/abs/1908.00606)
   * eRosita会观测到3M个AGN，测光数据异质性很强，photo-z比较挑战
+
+
+### Sep 4
+
+* [Galaxy disc scaling relations: A tight linear galaxy -- halo connection challenges abundance matching](https://arxiv.org/abs/1908.01344)
+  * **Interesting**
+  * 利用观测的stellar mass-velocity (Tully-Fisher), size-mass, and mass-angular momentum (Fall)来限制盘星系里有多少质量和角动量留在和重子物质和恒星里。
+  * V_flat和恒星成分中的角动量比例，SF效率等有很好的log线性关系：the fundamental galaxy formation parameters are small-scatter single-slope monotonic functions of mass, instead of being complicated non-monotonic functions
+
+* [Model-independent and model-based local lensing properties of B0128+437 from resolved quasar images](https://arxiv.org/abs/1908.01349)
+  * PixeLens看一个4重现透镜类星体中有没有sub-structure，因为VLBI观测看到了子结构，但模型重现不出来
+
+* [Secularly powered outflows from AGN: the dominance of non-merger driven supermassive black hole growth](https://arxiv.org/abs/1908.01355)
+  * 12个盘星系中AGN的外流的窄带观测：10个能定出外流速率，比吸积率要高；要支持这样的黑洞吸积，可以通过bar，spiral arm这样的久期过程实现
+  * 和一些在merger中的AGN外流比，这些盘星系的黑洞吸积率更高，外流率更低
+
+* [The hidden satellites of massive galaxies and quasars at high-redshift](https://arxiv.org/abs/1908.01360)
+  * **Interesting**
+  * 模拟中看一个高红移罕见的大质量Halo中卫星的性质：对Feedback和Tidal forces敏感
+  * 在有超新星爆发前Radiative feedback就可以起作用，降低星系的束缚程度：让卫星更容易被瓦解，能更快地被吸积进main progenitor; 卫星数量也会随之降低
+
+* [Off the baryonic Tully-Fisher relation: a population of baryon-dominated ultra-diffuse galaxies](https://arxiv.org/abs/1908.01363)
+  * **Relevant**
+  * 用3D kinematic modelling code 3DBarolo看一族富HI的UDG：这些星系偏离TF关系，似乎完全被Baryon主导
+
+* [A new technique for finding galaxies leaking Lyman-continuum radiation: [SII]-deficiency](https://arxiv.org/abs/1908.01368)
+  * **Interesting**
+  * 用星系ISM中较弱的[SII]线发射作为ISM对Lya发射光学薄的证据，来间接地找LyC星系
+  * 找到的星系和Green Pea很不一样：more massive, more metal-rich, and less extreme in terms of their stellar population and the ionization state of the interstellar medium; 但同样有着很高的SFR面密度
+
+* [IMF radial gradients in most massive early-type galaxies](https://arxiv.org/abs/1908.01382)
+  * X-shooter观测z=0.05的7个超大质量星系中心到4kpc处的星族，用index看IMF梯度
+  * ETGs in our sample show a significant correlation of IMF slope and surface mass density；只有在中心恒星密度高的大质量星系里才看到bottom-heavy IMF的证据
+
+* [Modelling the AGN broad line region using single-epoch spectra II. Nearby AGN](https://arxiv.org/abs/1908.01395)
+  * 基于Bayesian的single-epoch模型来推断BLR参数
+
+* [Chemical evolution along the circumnuclear ring of M83](https://arxiv.org/abs/1908.01565)
+  * ALMA观测能示踪Shock的分子 (SiO, CH3OH)，指示dense core的 (N2H+)，以及光致离解区域的 (CN, CCH)
+  * We propose that the observed chemical variation or lack of it is due to the presence or absence of collision-induced evolution of molecular clouds and induced star formation
+
+* [Global Attenuation in Spiral Galaxies in Optical and Infrared Band](https://arxiv.org/abs/1908.01572)
+  * 看盘星系消光和星系什么性质有关：消光在质量较大，金属丰度高，且仍有显著金属贮藏的星系里最高
+  * We determine both a parametric model for dust obscuration and a non-parametric model based on the Gaussian process formalism
+
+* [From the Outside Looking in: What can Milky Way Analogues Tell us About the Star Formation Rate of Our Own Galaxy?](https://arxiv.org/abs/1908.01654)
+  * We infer that the Milky Way, while being a galaxy with a somewhat low SFR, is not unusual when compared to similar galaxies.
+
+* [Post-Starburst Galaxies in SDSS-IV MaNGA](https://arxiv.org/abs/1908.01658)
+  * MaNGA中不同类型的PSB：31 galaxies with central post-starburst regions (CPSB), 37 galaxies with off-center ring-like post-starburst regions (RPSB) and 292 galaxies with irregular post-starburst regions (IPSB)
+  * The radial profiles in mass-weighted age and stellar v/σ indicate that CPSBs and RPSBs are not simply different evolutionary stages of the same event, rather that CPSB galaxies are caused by a significant disruptive event
+
+* [Spectral variations of Lyman-alpha emission within strongly lensed sources observed with MUSE](https://arxiv.org/abs/1908.01692)
+  * 高红移lensed的星系的Lya延展发射的观测，通过多重象，可以看到Halo内复杂的Lya线变化
+  * Observe a global trend for the line peak shift to become redder at large radii, together with a strong correlation between the peak wavelength and line width
+
+* [A panchromatic spatially resolved study of the inner 500pc of NGC1052 -- II: Gas excitation and ](https://arxiv.org/abs/1908.01829)
+  * The ionization within the observed field of view cannot be explained by a single mechanism, with photoionization being the dominant mechanism in the nucleus with a combination of shocks and photoionization responsible for the extended ionization
+
+* [The Formation of Ultra-Diffuse Galaxies in Clusters](https://arxiv.org/abs/1908.01347)
+  * **Relevant**
+  * IllustrisTNG模拟：The model assumes "cuspy" NFW halos and, contrary to recent claims, has no difficulty reproducing the observed number of UDGs in clusters.
+  * UDG包含了在field里面形成的正常的LSB星系，以及一部分在cluster里面受到潮汐作用影响的；后者的分布更集中在cluster中心；在相同质量上，后者比前者的速度弥散度更低，金属丰度更高，DM比例更低
+
+* [Dark Energy Survey Year 1 results: The relationship between mass and light around cosmic voids](https://arxiv.org/abs/1908.01386)
+  * 用DES里面的RedMagic星系的分布找void，用WL定三维密度轮廓：void radii in the range 15-85 Mpc
+  * 再和星系分布轮廓比较，We find very similar shapes for the two profiles, consistent with a linear relationship between mass and light
