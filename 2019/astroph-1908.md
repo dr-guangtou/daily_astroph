@@ -13,14 +13,24 @@
   * 12个10^9 dwarf的黑洞和恒星质量测量，看Mbulge-SMBH关系
 
 * [Properties of the Simulated Circumgalactic Medium](https://arxiv.org/abs/1908.00021)
+  * 10^11-12 Msun的halo里CGM的理想化模拟：低质量halo里的CGM很难达到流体静力学平衡，而且性质依赖于stellar wind
 
 * [Detection of a slow HI bar in the dwarf irregular galaxy DDO 168](https://arxiv.org/abs/1908.00023)
+  * **Study** 有助于复习一些关于bar的动力学基础知识
+  * 第三个发现的HI bar；weak bar
+  * DDO 168 which has a dense and compact dark matter halo that dominates at all radii
 
 * [The Sloan Digital Sky Survey Reverberation Mapping Project: Improving Lag Detection with an Extended Multi-Year Baseline](https://arxiv.org/abs/1908.00027)
+  * 展示了为什么长时间的RM检测对于高红移QSO观测很重要
+  * 长时标检测有助于提高信号质量；可以认证更长的time lag；可以对应不同宽线的时延
 
 * [A population of dwarf galaxies deficient in dark matter](https://arxiv.org/abs/1908.00046)
+  * **Interesting**
+  * ALFALFA+SDSS+GALEX, 19个到Re (1kpc)都被baryon主导的矮星系；大部分是孤立的
 
 * [Discovery of A Mg II Changing-look AGN and Its Implications for A Unification Sequence of Changing-look AGNs](https://arxiv.org/abs/1908.00072)
+  * 之前发现的Balmer线CL AGN中MgII都没有什么变化，宽线一直都在
+  * 这里发现了第一个确认的MgII CL AGN：The dramatic diminishment of Mgii equivalent width (from 110 ± 26  ̊A to being consistent with zero), together with little optical continuum variation (∆Vmax−min = 0.17 ± 0.05 mag) coevally over ∼ 10 years
 
 * [Feedback from low-luminosity radio galaxies: B2 0258+35](https://arxiv.org/abs/1908.00374)
 

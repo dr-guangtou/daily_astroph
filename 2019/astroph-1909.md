@@ -170,7 +170,7 @@
 
 ----
 
-### Sep 4
+### Sep 5
 
 * [Influence of Wolf-Rayet stars on surrounding star-forming molecular clouds](https://arxiv.org/abs/1909.01996)
   * WR能在周围产生CO气体缺乏的空腔，以及外流的分子气体壳层，尺度在几pc左右
@@ -222,3 +222,47 @@
 * [Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning](https://arxiv.org/abs/1909.02005)
   * We apply recently-developed simulation-based inference techniques to the problem of substructure inference in galaxy-galaxy strong lenses
   * 基于Neural Network的从SL arcs里面推断subtracture特征的方法
+
+----
+
+### Sep 8
+
+* [Stellar Bars in Counter-Rotating Dark Matter Halos: The Role of Halo Orbit Reversals](https://arxiv.org/abs/1909.02570)
+  * 和prograde以及rigid halo中的演化都不一样；棒不稳定性出现被延迟
+  * 会有轨道反转现象：orbit reversal - when retrograde DM orbits interact with the stellar bar, reverse their streaming and precession, and become prograde.
+
+* [Compact Star-Forming Galaxies as Old Starbursts Becoming Quiescent](https://arxiv.org/abs/1909.02572)
+  * 致密和延展的SFG的恒星形成效率差别不大；从射电波段看，有些compact SFG是比较晚期的星暴星系
+  * ISM性质上看，致密SFG和“主序”上沿的星系类似；从各种relation来看，是一种从SF到quiescent的连续变化。
+
+* [Emission from the circumgalactic medium: from cosmological zoom-in simulations to multiwavelength observables](https://arxiv.org/abs/1909.02575)
+  * RAMSES+CLOUDY预测CGM的辐射面亮度；结合FIREBALL-2和HARMONI预测观测
+  * FIREBall-2能看z=0.7的紫外亮星系的Lya；HARMONI要更适合研究不同红移的星系的CGM
+
+* [A Fresh Look at Narrow-Angle Tail Radio Galaxy Dynamics, Evolution and Emissions](https://arxiv.org/abs/1909.02595)
+  * **Study** 复习一下不同射电形态背后的物理过程
+  * MHD模拟: Analysis of synthetic radio observations reveals an extended time period once the NAT has developed in which it displays a nearly steady-state morphology with integrated fluxes that are roughly constant
+
+* [The globular cluster system of the Auriga simulations](https://arxiv.org/abs/1909.02630)
+  * Auriga simulations produce GC candidates with higher metallicities than the MW and M31 GCS and they are found at larger radii than observed
+  * The scatter in the metallicity as well as in the radial distribution between different Auriga runs is considerably smaller than the differences between that of the MW and M31 GCSs.
+
+* [On the Survival of Cool Clouds in the Circum-Galactic Medium](https://arxiv.org/abs/1909.02632)
+  * Magnetic fields and turbulence have relatively weak effects on cloud survival; 辐射冷却和传导更重要
+  * Magnetized cloud的演化很复杂，要分成至少四中情况讨论
+
+* [Modelling the evolution of PAH abundance in galaxies](https://arxiv.org/abs/1909.02725)
+  * **Study** 复习一下PAH演化
+  * 对模拟进行后期处理，追踪尘埃颗粒大小的演化：能解释近邻星系中PAH性质随金属丰度变化的趋势：driven particularly by the interplay between shattering and accretion
+  * The fast aromatization guarantees that the small carbonaceous grains trace PAHs very well
+  * 随着金属丰度增加，PAH/Dust的丰度比会升高；和观测基本一致
+
+* [Ram pressure stripping: An analytical approach](https://arxiv.org/abs/1909.02744)
+  * 红移演化非常小；盘星系spin越高，越容易被strip; 模型不是特别的好
+
+* [Constraints on the mass-concentration relation of cold dark matter halos with 11 strong gravitational lenses](https://arxiv.org/abs/1909.02573)
+  * **Interesting**
+  * 全都是4重像QSO的SL系统，考虑了subhalo和LOS上面的halo，限制10^7-8 Msun的Halo的concentration
+
+* [Non-thermal emission in radio galaxy lobes: II. Centaurus A, Centaurus B, and NGC 6251](https://arxiv.org/abs/1909.02819)
+  * The measured γ-ray emission from these lobes can be accounted for by Compton scattering of the radio-emitting electrons off the superposed radiation fields in the lobes
