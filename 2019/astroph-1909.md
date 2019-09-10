@@ -266,3 +266,62 @@
 
 * [Non-thermal emission in radio galaxy lobes: II. Centaurus A, Centaurus B, and NGC 6251](https://arxiv.org/abs/1909.02819)
   * The measured γ-ray emission from these lobes can be accounted for by Compton scattering of the radio-emitting electrons off the superposed radiation fields in the lobes
+
+----
+
+### Sep 9
+
+* [Cosmological Evidence Modelling: a new simulation-based approach to constrain cosmology on non-linear scales](https://arxiv.org/abs/1909.03107)
+  * **Relevant**
+  * 1. we calculate the Bayesian evidence marginalised over the galaxy-halo connection by repeatedly populating the simulation with galaxies 利用Bayesian evidence和宇宙学参数posterior之间的联系
+  * 2. we build a physically motivated model for how the evidence depends on cosmological parameters as sampled by the simulations
+  * 和Emulator比，需要更少的模拟：the ability to easily marginalise over highly complex models of the galaxy-halo connection and greater accuracy
+
+* [On Reverberation Mapping Lag Uncertainties](https://arxiv.org/abs/1909.03072)
+  * 用真实光变曲线采样得到的模拟曲线检验Javelin和ICCF；光变曲线的误差估计不好对ICCF小
+
+* [The Recent Burstiness of Star Formation in Galaxies at z~4.5 from Hα Measurements](https://arxiv.org/abs/1909.03076)
+  * 从[3.6μm]-[4.5μm]中提取Halpha信息；发现很多星系的Halpha比SFR预测得要强，说明SFH有起伏，50Myr内有星暴
+  * Halpha等值宽度和恒星质量反相关
+
+* [The Sloan Digital Sky Survey Reverberation Mapping Project: Comparison of Lag Measurement Methods with Simulated Observations](https://arxiv.org/abs/1909.03092)
+  * 也是说Javelin和ICCF比较好，而其中Javelin的表现更好
+
+* [The Impact of Type Ia Supernovae in Quiescent Galaxies: I. Formation of the Multiphase Interstellar medium](https://arxiv.org/abs/1909.03138)
+  * **Intersting**
+  * 在模拟中用SNIa的随机加热过程和辐射冷却来解释观测到的椭圆星系中的冷ISM：没有被ISM加热到的气体能够冷却
+  * 即便SNIa加热率比冷却率高也可以形成冷气体；这样形成的冷气体金属丰度比高温气体低
+
+* [Multi-wavelength structure analysis of local cluster galaxies. The WINGS project](https://arxiv.org/abs/1909.03256)
+  * **Relevant**
+  * Sersic index of all galaxies inside clusters remains nearly constant with wavelength while Re decreases as wavelength increases for all morphological types
+  * Bright cluster galaxies are more concentrated (display high n values) and are more compact (low Re) **Hmmm!**
+
+* [The Net Radial Flow Velocity of the Neutral Hydrogen in the Oval Distortion of NGC 4736](https://arxiv.org/abs/1909.03364)
+  * 学习一下什么是oval distortion:  Oval distortions, like bars, are well-known engines for secular evolution owing to their ability to torque the gas and drive it radially inward
+  * 恒星结构，可能是bar瓦解之后的残留
+
+* [New criteria for the selection of galaxy close pairs from cosmological simulations: evolution of the major and minor merger fraction in MUSE deep fields](https://arxiv.org/abs/1909.03706)
+  * 基于Illustris给出的未来会并和的galaxy pair的方法
+  * The major merger fraction increases up to z≈2−3 reaching 25% for pairs with the most massive galaxy with a stellar mass 10^9.5 Msun
+
+* [Comparing Galaxy Clustering in Horizon-AGN Simulated Lightcone Mocks and VIDEO Observations](https://arxiv.org/abs/1909.03843)
+  * **Relevant**
+  * The propagation of redshift and mass statistical and systematic uncertainties in the clustering measurements causes us to underestimate the clustering amplitude.
+  * At low stellar masses Horizon-AGN underestimates the observed clustering by up to a factor of ~3 在低质量halo里需要更有效地约束SF的机制
+
+* [The Young Stellar Population of the metal-poor galaxy NGC 6822](https://arxiv.org/abs/1909.03884)
+  * IRAC/MIPS, 500个新发现的YSO；用Kroupa IMF拟合YSO的MF，得到的SFR比UV流量给出的要高
+
+* [The morphological classification of distant radio galaxies explored with three-dimensional simulations](https://arxiv.org/abs/1909.03905)
+  * The morphological classification of a simulated radio galaxy depends significantly on several factors with increasing distance (i.e. decreasing observed resolution) and decreasing orientation
+  * We introduce the Lobe or Limb Brightening Index (LBI) to measure the radio lobe type more precisely
+  * We conclude that distant radio galaxies could appear systematically more limb-darkened due to merger-related re-direction and precession as well as due to the resolution limitation.
+
+* [Power-law Sersic profiles in hydrostatic stellar galaxy discs](https://arxiv.org/abs/1909.03954)
+  * **Relevant**
+  * Surface density profiles of the form of a power-law times a Sersic function satisfy the hydrostatic Jeans equations
+
+* [HELP: A catalogue of 170 million objects, selected at 0.36-4.5 μm, from 1270 deg.2 of prime extragalactic fields](https://arxiv.org/abs/1909.04003)
+ * 把23个有名的河外巡天区域的表格联合起来: Our catalogue of 170 million objects is constructed by a positional cross match of 51 public surveys.
+ * grizy  fluxes are available on all fields with g band data reaching 5σ point-source depths in a 2 arcsec aperture of 23.5, 24.4, and 24.6 (AB) mag at the 25th, 50th, and 75th percentiles
