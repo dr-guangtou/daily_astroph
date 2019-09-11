@@ -325,3 +325,53 @@
 * [HELP: A catalogue of 170 million objects, selected at 0.36-4.5 μm, from 1270 deg.2 of prime extragalactic fields](https://arxiv.org/abs/1909.04003)
  * 把23个有名的河外巡天区域的表格联合起来: Our catalogue of 170 million objects is constructed by a positional cross match of 51 public surveys.
  * grizy  fluxes are available on all fields with g band data reaching 5σ point-source depths in a 2 arcsec aperture of 23.5, 24.4, and 24.6 (AB) mag at the 25th, 50th, and 75th percentiles
+
+----
+
+### Sep 9
+
+* [Constraints on the growth of structure around cosmic voids in eBOSS DR14](https://arxiv.org/abs/1909.04394)
+  * We analyse the multipoles of the void-galaxy cross-correlation function in these catalogues to obtain constraints on the growth rate of structure around voids
+
+* [Untangling Optical Emissions of the Jet and Accretion Disk in the Flat-Spectrum Radio Quasar 3C 273 with Reverberation Mapping Data](https://arxiv.org/abs/1909.04511)
+  * 连续谱光变里面有部分和Hbeta不相关，辐射可以分成来自吸积盘和来自jet的两部分
+  * 使用的DNest，Diffusive nested sampling
+
+* [Gas accretion and galactic fountain flows in the Auriga cosmological simulations: angular momentum and metal re-distribution](https://arxiv.org/abs/1909.04038)
+  * MHD模拟：形成银河系当前恒星的重子物质中90%都至少经历过了“喷泉”一次：被抛射到20kpc外，500Myr左右
+  * “喷泉”物质和CGM交换角动量，可以提升角动量，使得星系沿着质量-角动量平面上的盘序列演化
+
+* [The little things matter: relating the abundance of ultrafaint satellites to the hosts' assembly history](https://arxiv.org/abs/1909.04039)
+  * 模拟+SAM：相同halo质量上，形成越早，halo里的UFD越多，UDF的分布越向中心聚集
+  * 模拟里能track orphan halo对研究这些UDF很重要
+
+* [Star formation at the edge of the Local Group: a rising star formation history in the isolated galaxy WLM](https://arxiv.org/abs/1909.04040)
+  * There is evidence of a strong age gradient: the mean age of the outer field is 5 Gyr older than the inner field despite being only 0.4 kpc apart
+
+* [Massive spheroids can form in single minor mergers](https://arxiv.org/abs/1909.04043)
+  * **Relevant, Interesting**
+  * Horizon-AGN里有一批大质量星系有很低的ex-situ fraction！
+  * 一次轨道性质独特的minor meger可以触发显著的in-situ恒星形成，并完成形态转化
+
+* [SDSS-IV MaNGA: Environmental dependence of gas metallicity gradients in local star-forming galaxies](https://arxiv.org/abs/1909.04045)
+  * 气体金属丰度和SFR面密度都对环境没有明显依赖；但低质量卫星星系是例外: 其中气体丰度随环境密度增加而升高
+  * gas metallicity gradients of low-mass satellites flatten and their {\Sigma}SFR gradients steepen with increasing environmental density
+
+* [HALOGAS: the properties of extraplanar HI in disc galaxies](https://arxiv.org/abs/1909.04048)
+  * 看盘外的HI气体，进行Bayesian模型拟合，发现extraplanar HI气体广泛存在
+  * 这些气体的厚度在几kpc左右，HI质量比例在15%左右，和流体静力学平衡模型不符：恒星反馈功能的“喷泉”气体可以解释
+
+* [The HST/ACS star formation history of the Tucana dwarf spheroidal galaxy: clues from the horizontal branch](https://arxiv.org/abs/1909.04052)
+  * MSTO+HB: experienced three major phases of star formation, two very close together at ancient times and the last one ending between 6 and 8 Gyr ago
+  * The spatial distribution of the clumps reveals that each generation of stars presents a higher concentration than the previous one.
+
+* [The Impact of Type Ia Supernovae in Quiescent Galaxies: II. Energetics and Turbulence](https://arxiv.org/abs/1909.04204)
+  * **Interesting**
+  * 能分解SNIa+SNR加热的模拟现实，和没有空间分辨的体积加热模型比，SNIa能把很多气体push到低密度区域，使其冷却效率降低，起到了减缓cooling的作用
+  * localized heating of SNe Ia creates a large density contrast
+
+* [A spectroscopic census of the Fornax cluster and beyond: preparing for next generation surveys](https://arxiv.org/abs/1909.04379)
+  * We present a compilation of all available major spectroscopic campaigns undertaken within the Fornax region, including new and previously unpublished spectroscopy.
+
+* [A LOFAR-IRAS cross-match study: the far-infrared radio correlation and the 150-MHz luminosity as a star-formation rate](https://arxiv.org/abs/1909.04489)
+  * 150MHz 射电光度和FIR总光度相关不错，可以作为SFR指示
