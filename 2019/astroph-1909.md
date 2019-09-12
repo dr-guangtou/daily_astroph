@@ -375,3 +375,57 @@
 
 * [A LOFAR-IRAS cross-match study: the far-infrared radio correlation and the 150-MHz luminosity as a star-formation rate](https://arxiv.org/abs/1909.04489)
   * 150MHz 射电光度和FIR总光度相关不错，可以作为SFR指示
+
+----
+
+### Sep 10
+
+* [The Arepo public code release](https://arxiv.org/abs/1909.04667)
+  * Finite-volume magnetohydrodynamics algorithm on an unstructured, dynamic Voronoi tessellation coupled to a tree-particle-mesh algorithm for the Poisson equation either on a Newtonian or cosmologically expanding spacetime
+
+* [The ultra-diffuse dwarf galaxies NGC 1052-DF2 and 1052-DF4 are in conflict with standard cosmology](https://arxiv.org/abs/1909.04663)
+  * Kroupa组：基本就是说在TNG里找不到类似的系统，但是在MOND宇宙下可以自然存在。特意argue说DF2的球状星团很特殊
+
+* [EDGE: The origin of scatter in ultra-faint dwarf stellar masses and surface brightnesses](https://arxiv.org/abs/1909.04664)
+  * Zoom-in模拟：形成得早的UFD质量高，因为在被再电离quench之前能形成恒星的时间长
+  * 在相同的动力学质量下，UFD的恒星/DM质量比可以有很大的弥散：可以形成非常Diffuse的LSB星系
+
+* [A New Sample of (Wandering) Massive Black Holes in Dwarf Galaxies from High Resolution Radio Observations](https://arxiv.org/abs/1909.04670)
+  * VLA在z<0.05的SDSS矮星系中找到一批射电SMBH，很多都不在星系核心，只有一颗之前被认证为光学AGN
+  * Searches attempting to constrain BH seed formation using observations of dwarf galaxies need to account for such a population of "wandering" BHs.
+
+* [The MUSE Ultra Deep Field (MUDF). II. Survey design and the gaseous properties of galaxy groups at 0.5 < z < 1.5](https://arxiv.org/abs/1909.04672)
+  * 150hrs, 1.2x1.2 arcmin^2; 用两个高红移的背景星系研究前景group里的气体，能够看到示踪冷气体的MgII吸收体；不是非常的widespread，可能和星系群中的星系相互作用与气体剥离有关
+
+* [Probing gaseous galactic halos through the rotational kSZ effect](https://arxiv.org/abs/1909.04690)
+  * 在Placnk CMB数据质量下，即便以最理想的假设，也需要百万个以上的星系来探测到3sigma以上的信号；未来CMB-S4会好一些
+  * 还需要考虑和电离气体有运动学耦合的尘埃产生的Doppler-shifted辐射
+
+* [Simulating Metal Mixing of Both Common and Rare Enrichment Sources in a Low Mass Dwarf Galaxy](https://arxiv.org/abs/1909.04695)
+  * 孤立矮星系中不同能量的物理过程产生的增丰过程是如何在多态ISM中混合的：能量范围从AGB星风(10^46 erg)到Hypernova (10^52 erg); 混合时标普遍比较长，能量越高混合越均匀。
+
+* [SDSS-IV MaNGA: Evidence for enriched accretion onto satellite galaxies in dense environments](https://arxiv.org/abs/1909.04738)
+  * At fixed total stellar mass, the satellites of high mass (M∗>10^10.5M⊙) centrals are ∼0.1dex more metal rich than satellites of low-mass (M∗<10^10M⊙) centrals, controlling for local stellar mass surface density and gas fraction.
+  * This is interpreted as evidence for the exchange of enriched gas between galaxies in dense environments that is predicted by recent simulations
+
+* [Re . I. Understanding galaxy sizes, associated luminosity densities, and the artificial division of the early-type galaxy population](https://arxiv.org/abs/1909.04867)
+  * **Hmmm...**
+  * Re的使用产生了dwarf和giant ETG二分的错误印象；对于一系列基于Re的物理量也有影响
+
+* [Heterogeneity of Inverted Calcium II H:K Ratio Cluster Galaxies](https://arxiv.org/abs/1909.04956)
+  * **Interesting**
+  * The ratio of calcium II H plus Hϵ to calcium II K inverts as a galaxy stellar population moves from being dominated by older stars to possessing more A and B class stars
+  * 在Cluster星系里，H:K比值和Hdelta等值宽度等没有简单的关系；H:K>1.1的inverted星系在星系团中的位置也没有明显的特殊性
+  * 可以作为一种更好的挑选出真正的passive星系的方式
+
+* [SMA Observations of Haro 2: Molecular Gas around a Hot Superbubble](https://arxiv.org/abs/1909.04971)
+  * 分子气体可以分成clumpy分子云以及弥散的两个成分；弥散成分可能来自星暴星风驱动的X-ray bubble里带入的分子气体
+
+* [The VIMOS Public Extragalactic Redshift Survey (VIPERS) -- Environment-size relation of massive passive galaxies at 0.5 < z < 0.8](https://arxiv.org/abs/1909.05094)
+  * **Relevant** 0.5< z < 0.5
+  * In galaxies with Mstar<2*10^11 Msun, no correlation between Sigma and delta is observed.
+  * In galaxies with Mstar>2*10^11 Msun, we find an excess of MPGs with low Sigma and a deficit of high-Sigma MPGs in the densest region
+  * MSFGs at z>0.8 migrate to the MPG population.
+
+* [Tracing the AGN/X-ray Binary Analogy with Light Curves of Individual Changing-Look AGN](https://arxiv.org/abs/1909.04676)
+  * 产生CL-AGN的物理机制和X-ray双星的爆发有相似性：尤其是看UV-to-Xray谱指数如何随Eddington吸积率变化
