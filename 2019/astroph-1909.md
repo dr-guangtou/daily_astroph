@@ -429,3 +429,54 @@
 
 * [Tracing the AGN/X-ray Binary Analogy with Light Curves of Individual Changing-Look AGN](https://arxiv.org/abs/1909.04676)
   * 产生CL-AGN的物理机制和X-ray双星的爆发有相似性：尤其是看UV-to-Xray谱指数如何随Eddington吸积率变化
+
+----
+
+### Sep 11
+
+* [Extreme ionised outflows are more common when the radio emission is compact in AGN host galaxies](https://arxiv.org/abs/1909.05260)
+  * 看射电大小和[OIII]示踪的外流的关系：radio compact的往往有着比较极端的[OIII]性质
+  * Compact jets might be responsible for the enhanced outflows in the wider sample
+
+* [JINGLE V: Dust properties of nearby galaxies derived from hierarchical Bayesian SED fitting](https://arxiv.org/abs/1909.05266)
+  * We apply a hierarchical Bayesian approach that reduces the known degeneracy between T and beta
+  * Single modified black-body模型和双成分的比，拟合结果一样好，但是自由参数更少
+  * emissivity index和质量面密度正相关，和HI质量与恒星质量的比例反相关
+
+* [First Gaia dynamical model of the Milky Way disc with six phase space coordinates: a test for galaxy dynamics](https://arxiv.org/abs/1909.05269)
+  * **Interesting**
+  * 基于Gaia数据，Full 6-D相空间上用JAM拟合银河系运动学：We tightly constrain the average total density logarithmic slope, in the radial range 3.6--12 kpc, to be αtot=−2.149±0.055 and find that the dark halo slope must be significantly steeper than αDM=−1 (NFW). 
+
+* [Tentative Detection of the Circumgalactic Medium of the Isolated Low-Mass Dwarf Galaxy WLM](https://arxiv.org/abs/1909.05407)
+  * WLM附近45kpc方向的视向上的QSO HST/COS观测：two ion absorbers are detected in Si II, Si III, Si IV, C II, and C IV at velocities of ∼-220 km s−1 and ∼-150 km s−1
+  * 前者可能来自Magellan stream，后者可能是WLM的
+
+* [Evidence for ram pressure stripping in a cluster of galaxies at z=0.7](https://arxiv.org/abs/1909.05491)
+  * 大质量星系团中的SF星系有100kpc长的[OII]弥散电离气体尾迹。
+
+* [The Mass Inflow and Outflow Rates of the Milky Way](https://arxiv.org/abs/1909.05561)
+  * 利用HVC的UV金属线中的不同速度成分估计银河系的内流和外流速率；移除了MS和Fermi bubble的影响
+  * 银河系的低温电离气体的内流率比外流率要高，内流主导阶段
+  * The measured sky covering fractions for inflowing HVCs are 39±3% (106/270) in the full sample and 36±3% (75/211) in the cleaned sample
+
+* [The SLUGGS Survey: Measuring globular cluster ages using both photometry and spectroscopy](https://arxiv.org/abs/1909.05753)
+  * **Relevant**
+  * NGC 1407 and the Milky Way showing mostly old globular clusters while NGC 3115 and NGC 3377 show a range of globular ages
+  * Find a correlation between the median age of the metal rich globular cluster populations and the age of the field star populations
+
+* [Searching for intergalactic star forming regions in Stephan's Quintet with SITELLE. I. Ionised gas structures and kinematics](https://arxiv.org/abs/1909.05797)
+  * The observations have revealed complex 3D strands in SQ seen for the first time, as well as the spatially resolved velocity field for a new SQ dwarf galaxy (M82-like) and the detailed spectral map of NGC7320c, confirming its AGN nature
+  * A clear gaseous bridge has been confirmed both spatially and kinematically between the large-scale shock region and the NGC7319 AGN
+
+* [The Diffuse Ultraviolet and Optical Background: Status and Future Prospects](https://arxiv.org/abs/1909.05325)
+  * **Study**
+  * It includes emission lines and scattered light from the atmosphere; resonant scattering from the Lyman lines of interplanetary hydrogen and the scattering of sunlight from Solar System dust (zodiacal light); scattering of starlight from interstellar dust (DGL) with emission from molecular hydrogen fluorescence or from line emission in selected areas; and an extragalactic component seen most easily at high Galactic latitudes.
+
+* [The Quijote simulations](https://arxiv.org/abs/1909.05273)
+  * **Useful**
+  * A set of 43100 full N-body simulations spanning more than 7000 cosmological models in the {Ωm,Ωb,h,ns,σ8,Mν,w} hyperplane 为了探索机器学习在宇宙学中的应用
+
+* [A gravitational lensing detection of filamentary structures connecting luminous red galaxies](https://arxiv.org/abs/1909.05852)
+  * **Interesting**
+  * KiDS+RCSLS+CFHTLS: The line connecting luminous red galaxies with a separation of 3−5h−1Mpc is chosen as a proxy for the location of filaments. 
+  * After nulling the shear induced by the dark matter haloes around each galaxy, we report a 3.3σ detection of an anisotropic shear signal from the matter that connects them
