@@ -480,3 +480,55 @@
   * **Interesting**
   * KiDS+RCSLS+CFHTLS: The line connecting luminous red galaxies with a separation of 3−5h−1Mpc is chosen as a proxy for the location of filaments. 
   * After nulling the shear induced by the dark matter haloes around each galaxy, we report a 3.3σ detection of an anisotropic shear signal from the matter that connects them
+
+----
+
+### Sep 15
+
+* [NIHAO-UHD: The properties of MW-like stellar disks in high resolution cosmological simulations](https://arxiv.org/abs/1909.05864)
+  * The simulations reproduce the age-velocity dispersion relation and a multi-component stellar disk as observed for the Milky Way
+  * 垂直于盘方向，半数是double-exp，半数是single-exp；和盘的并合历史有关
+  * The scale length decreases with stellar age while the scale height increases
+
+* [WISDOM project -- V. Resolving molecular gas in Keplerian rotation around the supermassive black hole in NGC 0383](https://arxiv.org/abs/1909.05884)
+  * NGC 0383 has a kinematically-relaxed, smooth nuclear molecular gas disc with weak ring/spiral features.
+  * MCMC forward modeling ALMA数据：measure a SMBH mass of (4.2+/-0.7)x10^9 Msun
+
+* [The CFHT Large Area U-band Deep Survey (CLAUDS)](https://arxiv.org/abs/1909.05898)
+  * **Useful**
+  * 18.60 deg2 with median seeing of FWHM=0.92 arcsec and to a median depth of U = 27.1 AB (5 sigma in 2 arcsec apertures) with selected areas that total 1.36 deg2 reaching a median depth of U=27.7 AB
+
+* [Atomic hydrogen in star-forming galaxies at intermediate redshifts](https://arxiv.org/abs/1909.05905)
+  * GMRT stacking探测到了z=0.34的SF星系中的HI，给出平均HI质量；同样Stacking 1.4GHz估计SFR
+  * This indicates that the star-formation efficiency does not change significantly over the redshift range 0−0.4
+  * Assuming the local relation between HI mass and absolute B-magnitude, we obtain ρHI/ρc,0=(4.81±0.75)×10−4, implying no significant evolution in ρHI/ρc,0 from z≈0.4 to the present epoch.
+
+* [Star clusters in the dwarf irregular galaxy Leo A](https://arxiv.org/abs/1909.05934)
+  * 在小质量，富气体dIrr LeoA中找到4个新的星团：一个年轻，三个中等年龄
+
+* [Identifying kinematic structures in simulated galaxies using unsupervised machine learning](https://arxiv.org/abs/1909.06063)
+  * **Interesting**
+  * We present an unsupervised machine learning algorithm, named auto-GMM, based on Gaussian mixture models, to isolate intrinsic structures in simulated galaxies based on their kinematic phase space.
+  * We successfully identify four kinds of intrinsic structures: cold disks, warm disks, bulges, and halos. Our method fails for barred galaxies because of the complex kinematics of particles moving on bar orbits.
+
+* [The relationship between the radio core-dominance parameter and spectral index in different classes of extragalactic radio sources (III)](https://arxiv.org/abs/1909.06177)
+  * Core-dominance参数和谱指数在不同类型的射电AGN中有区别
+
+* [Optical validation and characterization of Planck PSZ2 sources at the Canary Islands observatories. II. Second year of LP15 observations](https://arxiv.org/abs/1909.06235)
+  * We adopt a robust confirmation criteria based on velocity dispersion and richness estimations in order to carry out the final classification of the new galaxy clusters as the optical counterparts of the PSZ2 detections
+  * After the LP15 programme, we find that the purity of the PSZ2 has increased from 76.7% originally to 86.2%.
+  * 银河系尘埃辐射是Planck错误认证星系团的主要原因
+
+* [Search for RR Lyrae stars in DES ultra-faint systems: Grus I, Kim 2, Phoenix II, and Grus II](https://arxiv.org/abs/1909.06308)
+  * We have detected two RRLs in the field of Grus I, none in Kim 2, one in Phoenix II, and four in Grus II. 并给出距离模数的估计
+
+* [Data compression in cosmology: A compressed likelihood for Planck data](https://arxiv.org/abs/1909.05869)
+  * Massively optimized parameter estimation and data compression technique (MOPED)
+
+* [How to measure galaxy-galaxy-galaxy-lensing with higher precision and accuracy](https://arxiv.org/abs/1909.06190)
+  * **Study** about G3L
+  * We propose three improvements to current measurements of G3L, designed to improve the precision and the accuracy by using the galaxies' redshifts and removing biases of the estimator. We further show how to account for lens galaxy magnification by the cosmic large-scale structure and how to convert the G3L signal from angular to physical scales.
+
+* [Broad Band X-ray Constraints on the Accreting Black Hole in Quasar 4C 74.26](https://arxiv.org/abs/1909.05861)
+  * We conclude that the X-ray emission in these 4C 74.26 data is unlikely to originate in the inner accretion disk region and thus cannot be used to measure SMBH spin.
+  * A narrow Fe Kα emission line originating in an X-ray reprocessor with solar Fe abundance far from the central SMBH is sufficient to produce excellent fits for all spectra.
