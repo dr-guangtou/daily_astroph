@@ -445,7 +445,7 @@
 
 * [First Gaia dynamical model of the Milky Way disc with six phase space coordinates: a test for galaxy dynamics](https://arxiv.org/abs/1909.05269)
   * **Interesting**
-  * 基于Gaia数据，Full 6-D相空间上用JAM拟合银河系运动学：We tightly constrain the average total density logarithmic slope, in the radial range 3.6--12 kpc, to be αtot=−2.149±0.055 and find that the dark halo slope must be significantly steeper than αDM=−1 (NFW). 
+  * 基于Gaia数据，Full 6-D相空间上用JAM拟合银河系运动学：We tightly constrain the average total density logarithmic slope, in the radial range 3.6--12 kpc, to be αtot=−2.149±0.055 and find that the dark halo slope must be significantly steeper than αDM=−1 (NFW).
 
 * [Tentative Detection of the Circumgalactic Medium of the Isolated Low-Mass Dwarf Galaxy WLM](https://arxiv.org/abs/1909.05407)
   * WLM附近45kpc方向的视向上的QSO HST/COS观测：two ion absorbers are detected in Si II, Si III, Si IV, C II, and C IV at velocities of ∼-220 km s−1 and ∼-150 km s−1
@@ -478,7 +478,7 @@
 
 * [A gravitational lensing detection of filamentary structures connecting luminous red galaxies](https://arxiv.org/abs/1909.05852)
   * **Interesting**
-  * KiDS+RCSLS+CFHTLS: The line connecting luminous red galaxies with a separation of 3−5h−1Mpc is chosen as a proxy for the location of filaments. 
+  * KiDS+RCSLS+CFHTLS: The line connecting luminous red galaxies with a separation of 3−5h−1Mpc is chosen as a proxy for the location of filaments.
   * After nulling the shear induced by the dark matter haloes around each galaxy, we report a 3.3σ detection of an anisotropic shear signal from the matter that connects them
 
 ----
@@ -532,3 +532,66 @@
 * [Broad Band X-ray Constraints on the Accreting Black Hole in Quasar 4C 74.26](https://arxiv.org/abs/1909.05861)
   * We conclude that the X-ray emission in these 4C 74.26 data is unlikely to originate in the inner accretion disk region and thus cannot be used to measure SMBH spin.
   * A narrow Fe Kα emission line originating in an X-ray reprocessor with solar Fe abundance far from the central SMBH is sufficient to produce excellent fits for all spectra.
+
+----
+
+### Sep 16
+
+* [A forward modelling approach to AGN variability -- Method description and early applications](https://arxiv.org/abs/1909.06374)
+  * **Study** Method is interesting
+  * Present a numerical framework for the variability of active galactic nuclei (AGN), which links the variability of AGN over a broad range of timescales and luminosities to the observed properties of the AGN population as a whole, and particularly the Eddington ratio distribution function (ERDF)
+
+* [Resolved Lyman-α properties of a luminous Lyman-break galaxy in a large ionised bubble at z = 6.53](https://arxiv.org/abs/1909.06376)
+  * Lyα spectroscopy with VLT/MUSE targeting VR7; 也有UV连续谱探测；Halpha和[CII]线发射区域比UV区域延展
+  * Overall, we find little indications of a more neutral vicinity at higher redshift. This means that the local (∼10 kpc) neutral gas conditions that determine the observed Lyα properties in VR7 resemble the conditions in post-re-ionisation galaxies.
+
+* [Does black-hole growth depend fundamentally on host-galaxy compactness?](https://arxiv.org/abs/1909.06382)
+  * **Relevant**
+  * We utilize 8842 galaxies with H < 24.5 in the five CANDELS fields at z = 0.5-3. We find that BHAR  does not significantly depend on compactness when controlling for SFR or M★ among bulge-dominated galaxies and galaxies that are not dominated by bulges
+  * 但是在SF星系里，Sigma1kpc可能确实和BHAR有相关
+
+* [The Radius-Luminosity Relationship Depends on Optical Spectra in Active Galactic Nuclei](https://arxiv.org/abs/1909.06735)
+  * 最新的RM观测：AGNs with high accretion rates show shorter time lags by factors of a few comparing with the predictions from the R-L relationship.
+  * FeII/Hbeta比值和变短的time lag有相关，说明吸积率是主因
+
+* [X-ray spectral variations of synchrotron peak in BL Lacs](https://arxiv.org/abs/1909.06801)
+  * The spectral energy distribution of blazars around the synchrotron peak can be well described by the log-parabolic model that has three parameters: peak energy (Ep), peak luminosity (Lp) and the curvature parameter (b).
+  * 很多源里，Ep和Lp有相关，也许反映了Jet发射区的物理过程
+
+* [The mass dependence of structure, star formation rate, and mass assembly mode at 0.5<z< 2.5](https://arxiv.org/abs/1909.07103)
+  * The similar sizes and compactness for the blue and green galaxies at high-mass end implies that these galaxies will not appear to be significantly shrunk until they are completely quenched into red QGs.
+
+* [The Inside-out Growth of the Galactic Disk](https://arxiv.org/abs/1909.07118)
+  * **Important**
+  * 利用APOGEE在6<R<13 kpc内观测的RC星建立模型看银河系的inside-out成长
+  * The best fit model implies that the half-mass radius of the Milky Way disk has grown by 43\% over the last 7 Gyr: 最终的age gradient还是很小。模型可以给出高红移处银河系半径的估计
+  * Radial orbit migration can reconcile the distinct disk-size evolution with redshif
+
+* [He II Emission from Wolf-Rayet Stars as a Tool for Measuring Dust Reddening](https://arxiv.org/abs/1909.07246)
+  * **Interesting**
+  * 利用WR的星风发射线 He II 1640 and 4686来定尘埃发射
+  * 测量的是恒星周围的尘埃吸收
+
+* [Surprisingly Strong K-band Emission Found in Low Luminosity Active Galactic Nuclei](https://arxiv.org/abs/1909.07323)
+  * 15个有X_ray探测和黑洞质量估计的低光度AGN的NIFGS观测，发现了中心恒星和热尘埃连续辐射成分：This emission causes weaker CO absorption lines and redder continuum (2.05−2.28μm) in our K-band data, as expected from hot dust around an AGN.
+  * K-波段尘埃连续辐射和X-ray 2-10 KeV光度有相关，说明是AGN起源的
+  * We find that the ratio of NIR to X-ray emission increases towards lower Eddington ratios.
+
+* [A measurement of the Hubble constant from angular diameter distances to two gravitational lenses](https://arxiv.org/abs/1909.06712)
+  * **Important**
+  * We determine the angular diameter distances to two gravitational lenses, 810+160−130 and 1230+180−150~Mpc, at redshifts of z=0.295 and 0.6304.
+  * Using these absolute distances to calibrate 740 previously-measured relative distances to SNe, we measure the Hubble constant to be H0=82.4+8.4−8.3 kms−1Mpc−1.
+
+* [X-ray monitoring of gravitationally lensed radio-loud quasars with Chandra](https://arxiv.org/abs/1909.06741)
+  * 用X-ray图像和光谱观测估计被引力透镜放大的QSO中未分辨开的X-ray发射区大小; 利用micro-lensing light curve
+  * X-ray发射区大小可能与黑洞质量有简单相关关系; Radio loud的QSO的X-ray发射区大小比radio quiet的更大
+
+* [Generating Synthetic Cosmological Data with GalSampler](https://arxiv.org/abs/1909.07340)
+  * **Important, Useful**
+  * The key idea behind GalSampler is to recast hydrodynamical simulations and semi-analytic models as physically-motivated galaxy libraries.
+  * by using weighted sampling guided by empirical modeling techniques, GalSampler inherits statistical accuracy from the empirical model and physically-motivated complexity from the baseline library
+
+* [Finding the brightest cosmic beacons in the Southern Hemisphere](https://arxiv.org/abs/1909.06391)
+  * we present a new method based on Canonical Correlation Analysis to identify 南天的高红移QSO，基于现有的多波段巡天数据
+  * Our QSO candidate sample lists 1476 sources with i<18 over 12,400 square degrees in the southern hemisphere. 现有的后续观测估计的成功率在80%左右
+
