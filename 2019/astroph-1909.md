@@ -595,3 +595,83 @@
   * we present a new method based on Canonical Correlation Analysis to identify 南天的高红移QSO，基于现有的多波段巡天数据
   * Our QSO candidate sample lists 1476 sources with i<18 over 12,400 square degrees in the southern hemisphere. 现有的后续观测估计的成功率在80%左右
 
+----
+
+### Sep 17
+
+* [Constraints on the production and escape of ionizing radiation from the emission-line spectra of metal-poor star-forming galaxies](https://arxiv.org/abs/1909.07386)
+  * Current single- and binary-star population synthesis models do not produce hard-enough radiation to account for the high-ionization emission of the most metal-poor galaxies 需要AGN或者Shock
+  * Model including X-ray binaries is an attractive alternative to reproduce the observed rise in He iiλ4686/Hβ ratio with decreasing oxygen abundance in metal-poor star-forming galaxies
+
+* [The assembly of dusty galaxies at z≥4: statistical properties](https://arxiv.org/abs/1909.07388)
+  * dustyGadget模拟：We find that the cosmic dust density parameter (Ωd) is mainly driven by stellar dust at z > 10
+  * At z < 9 the growth of grains in the ISM of evolved systems (Log(M⋆/M⊙) > 8.5) significantly increases their dust mass
+  * 在z~4的大质量Halo中，尘埃的分布是不均匀的：dust is found from the central galaxy up to the closest satellites along polluted filaments
+
+* [Wide-Field Survey of Dwarf Satellite Systems Around 10 Hosts in the Local Volume](https://arxiv.org/abs/1909.07389)
+  * **Important**
+  * 在local volume的10个星系里面找卫星星系： Depending on the host, our completeness limit is Mg∼ − 8 to −10 (assuming the distance of the host). 在<150 Kpc范围内找
+  * The number of detected candidates range from 1 around M64 to 33 around NGC 4258
+  * Fig7：dE星系的有nuclei的比例<20%
+
+* [The Lyman Continuum Escape Survey -- II: Ionizing Radiation as a Function of the [OIII]/[OII] Line Ratio](https://arxiv.org/abs/1909.07396)
+  * Reliable Lyman continuum escape fractions have now been determined for a large sample of such LAEs from the Lyman Continuum Escape Survey (LACES)
+  * [OIII]/[OII]比值很高是有逃逸LyC的必要条件，这是根据density-bound HII区来推测的
+  * 但也有很多比值很高的LAE没有逃逸的LyC，leaking radiation is modulated by an additional property, most likely the viewing angle for porous Hii regions
+
+* [Towards sub-kpc scale kinematics of molecular and ionized gas of star-forming galaxies at z∼1](https://arxiv.org/abs/1909.0700)
+  * 被透镜放大了，可以得到CO和[OII]的旋转曲线，发现一个星系的分子气体和电离气体的旋转曲线不一样: 分子气体的更陡；另一个的两种旋转曲线则一直
+  * The rotation curves of the Cosmic Snake with a molecular gas disk that is more massive and more radially and vertically concentrated than the ionized gas disk
+
+* [The maximum accretion rate of hot gas in dark matter halos](https://arxiv.org/abs/1909.07402)
+  * Hot mode吸积的存在更多依赖星系的物理性质而不是halo的：t for the hot accretion mode to exist, the cooling time is required to be longer than the free-fall time near the radius where the gas is rotationally-supported
+  * 在10^12 Msun一下也可以存在hot accretion：the SFR of galaxies could be primarily sustained by the hot mode in halo masses well below the classic threshold
+
+* [Embedding globular clusters in dark matter minihalos solves the cusp-core and timing problems in the Fornax dwarf galaxy](https://arxiv.org/abs/1909.07404)
+  * Crossings of globular clusters with a DM minihalo near the Fornax centre induce a cusp-to-core transition of the dark matter halo and hence resolve the cusp-core problem
+
+* [The frequency of dust lanes in edge-on spiral galaxies identified by Galaxy Zoo in KiDS imaging of GAMA targets](https://arxiv.org/abs/1909.07461)
+  * **Interesting**
+  * 用dust lane来反映盘星系内部的引力稳定性：尘埃带的频率和质量有关，在10^9 Msun以上才会出现
+  * 需要最少10^5的尘埃质量才会出现尘埃带。但是和尘埃总质量，以及SFR无关
+  * A round bulge favors dust lane votes
+
+* [Probing the merger history of red early-type galaxies with their faint stellar substructures](https://arxiv.org/abs/1909.07500)
+  * **Relevant, Interesting**
+  * 用模拟来试图理解ETG周围看到的低面亮度结构：We find that most of fine structures are associated with major and intermediate mass merger events.
+  * 结构的存在时间在0.7到4 Gyr: Shells and streams remain visible for a longer time, while tidal tails have a shorter life time
+
+* [Age Dating the Galactic Bar with the Nuclear Stellar Disc](https://arxiv.org/abs/1909.07548)
+
+* [Fast Inflow Directly Feeding Black Hole Accretion Disk in Quasars](https://arxiv.org/abs/1909.07582)
+  * We report the discovery of highly redshifted broad absorption lines arising from neutral hydrogen and helium atoms in a small sample of quasars
+  * 吸收气体的Doppler速度和向黑洞的自由下落速度类似
+  * The inflowing gas to be dense, thick and moderately ionized, with a characteristic distance to the SMBH of ∼ 1000 gravitational radii, possibly overlapping or close to the outer accretion disk
+
+* [The orientation of planes of dwarf galaxies in the quasi-linear Universe](https://arxiv.org/abs/1909.07720)
+  * 试图把dwarf galaxies plane和大尺度结构的形成联系起来
+  * The normal of a number of these dwarf galaxy planes are very closely aligned with the eigenvector of the shear tensor corresponding to the direction of greatest collapse obtained by reconstructing the full velocity field in the linear regime
+
+* [On Alignment of Galaxies in Clusters](https://arxiv.org/abs/1909.07757)
+  * We found that the alignment of galaxies is more often observed in poor clusters.
+
+* [The main sequence of star forming galaxies II. A non evolving slope at the high mass end](https://arxiv.org/abs/1909.07760)
+  * 0 < z < 2.5, >10^10 Msun的SF星系的“Main sequence” slope没有明显演化；选择效应可以导致演化假想
+  * The relation exhibits a bending at the high mass end and a slightly increasing scatter as a function of the stellar mass.
+
+* [The most massive, passive, and oldest galaxies at 0.5 < z < 2.1: Downsizing signature from galaxies selected from MgUV index](https://arxiv.org/abs/1909.07888)
+  * **Relevant**
+  * VVDS+VUDS里面用Mg_UV index来找老年早型大质量星系：We find that the MgUV index is a suitable tracer of early-type galaxies at an advanced stage of evolution
+
+* [unWISE tomography of Planck CMB lensing](https://arxiv.org/abs/1909.07412)
+  * **Interesting**
+  * We use the unWISE galaxy catalog to provide three samples at median redshifts z∼0.6,1.1 and 1.5, fully spanning the Dark Energy dominated era, together with the most recent Planck CMB lensing maps.
+  * 用COSMOS和BOSS星系得到unWISE星系的红移分布: We also show that magnification bias must be included in our analysis and perform a number of null tests.
+
+* [The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 LRG sample: structure growth rate measurement from the anisotropic LRG correlation function in the redshift range 0.6 < z < 1.0](https://arxiv.org/abs/1909.07742)
+  * Analyze the anisotropic clustering of the Sloan Digital Sky Survey-IV Extended Baryon Oscillation Spectroscopic Survey (eBOSS) Luminous Red Galaxy Data Release 14 (DR14) sample combined with Baryon Oscillation Spectroscopic Survey (BOSS) CMASS sample of galaxies in the redshift range 0.6 < z < 1.0
+
+* [Impact of magnetic field on the gas mass fraction of galaxy clusters](https://arxiv.org/abs/1909.07847)
+  * 磁场提供了非热压力，影响星系团的气体质量估计
+  * we have considered magnetic field strength of ∼10μG for 20 unrelaxed clusters and a field strength of ∼10μG as well as ∼20μG for the 13 relaxed ones.
+  * We have found that the resultant gas mass fraction is smaller with magnetic field as compared to without. 但总体的影响是比较小的，5%左右
