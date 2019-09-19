@@ -2,14 +2,14 @@
 * Raveri & Hu 2018: What is tension? or consistency
     - Concordance and Discordance in Cosmology
 * The Universe is much different at the last scattering
-    - Unusual dark energy properties / modified gravity / early Universe physics 
+    - Unusual dark energy properties / modified gravity / early Universe physics
 * New data could sharpen or resolve the tension
     - 2PCF from larger area / better modeling / beyond 2PCF
 * Shear 2PCF --> S/N approaching 100
-* Tomography: the evolution of S8: Chang + 2018 (DES) 
-* Combined approach: 
+* Tomography: the evolution of S8: Chang + 2018 (DES)
+* Combined approach:
     - galaxy positions; galaxy shear; CMB lensing --> 6 different 2PCF
-    - 5 x 2pt 
+    - 5 x 2pt
     - SZ contamination of CMB lensing map / small scale issues / cosmic infrared map
 * DES Y1: combined with CMB lensing, able to test the calibration and improved parameter constraints
 
@@ -21,7 +21,7 @@
 * DES Y1, marginalization over 20 parameters
     - linear bias of lens galaxies; photo-z of lens and source; IA
     - "stress-test" parameters; test of prior choices
-* Blinding analysis: 
+* Blinding analysis:
     - Two stages; only blind to cosmology parameters
     - Null tests are essential
     - Shear catalogs scaled by unknown factor
@@ -37,7 +37,7 @@
 
 
 * Galaxy-Lensing Cross-Correlation: Sukhdeep Singh
-    - Robust to additive lensing bias 
+    - Robust to additive lensing bias
     - Galaxy lensing --> difficult to model, including small scale physics
     - Using ADSD estimator: remove information from scale < r0
     - Lower impact of non-linear bias, baryon effects, RSD, galaxy-matter correlation
