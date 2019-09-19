@@ -1,8 +1,8 @@
 # Weak Lensing Measurements of Cluster Mass and Related Topics
 
-* 2019-09-18
+## Observational
 
-## Mass-richness calibration
+### Mass-richness calibration
 
 #### Murata et al. 2019: The mass–richness relation of optically selected clusters from weak gravitational lensing and abundance with Subaru HSC first-year data
 
@@ -23,3 +23,25 @@
 * We find that a large scatter in halo masses is required at the lowest-richness bins in order to reproduce the measurements
 * 在$3 \times 10^{14} h^{-1} M_{\odot}$处，$\ln \lambda$的scatter是0.46 dex.
 * 如果不考虑很高的scatter，模型会高估DSigma profile
+
+### Off-center Effect
+
+#### Zhang et al. 2019: Dark Energy Surveyed Year 1 results: calibration of cluster mis-centring in the redMaPPer catalogues
+
+
+### Weak Lensing Mass of X-ray or S-Z Clusters
+
+#### Stern et al. 2019: Weak-lensing analysis of SPT-selected galaxy clusters using Dark Energy Survey Science Verification data
+
+#### [Weak lensing measurements of the APEX-SZ galaxy cluster sample](https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.1704K/abstract)
+
+
+### Source Galaxies and Photo-z
+
+#### Varga et al. 2019: Dark Energy Survey Year 1 results: validation of weak lensing cluster member contamination estimates from P(z) decomposition
+
+
+
+-----
+
+## Theoretical
