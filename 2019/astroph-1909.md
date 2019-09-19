@@ -675,3 +675,52 @@
   * 磁场提供了非热压力，影响星系团的气体质量估计
   * we have considered magnetic field strength of ∼10μG for 20 unrelaxed clusters and a field strength of ∼10μG as well as ∼20μG for the 13 relaxed ones.
   * We have found that the resultant gas mass fraction is smaller with magnetic field as compared to without. 但总体的影响是比较小的，5%左右
+
+----
+
+### Sep 18
+
+* [The Star Formation History and Dynamics of the Ultra-diffuse Galaxy Dragonfly 44 in MOND and MOG](https://arxiv.org/abs/1909.07978)
+  * MOND with the canonical a0 can explain DF44 at the 2.40σ confidence level (1.66\%) if considering both its observed kinematics and typical star formation histories in an IGIMF context.
+
+* [CLASH-VLT: Enhancement of (O/H) in z=0.35 RXJ 2248-4431 cluster galaxies](https://arxiv.org/abs/1909.07988)
+  * Cluster和Field星系都follow一样的SFMS；M-Z关系上，在大质量端和低质量端也都差不多
+  * 中等质量的cluster星系有比field中同样星系更高的气态金属丰度，可能是因为RPS移除了hot halo气体导致的
+
+* [Red & Dead CANDELS: massive passive galaxies at the dawn of the Universe](https://arxiv.org/abs/1909.07996)
+  * **Relevant**
+  * 使用了更新的GOODS-S数据；Tophat-SFH拟合fast-quenching星系
+  * 在z>3找到了102个没有发射线，40个有发射线的 Red & Dead星系候选；数密度上在z>4和数值模拟有偏差
+  * 这些高红移的quenched的星系对3< z < 8的SF贡献在10%左右
+
+* [Molecular clouds in the Cosmic Snake normal star-forming galaxy 8 billion years ago](https://arxiv.org/abs/1909.08010)
+  * 30pc分辨率的ALMA观测：17个GMC的探测，质量，面密度，turbulence程度都比近邻的高得多；可能是分子云从环境ISM中“继承”了很多性质
+  * 分子云的冷气体质量和stellar clump的质量类似：This corroborates the formation of molecular clouds by fragmentation of distant turbulent galactic gas disks, which then turn into stellar clumps ubiquitously observed in galaxies at cosmic noon.
+
+* [The Pristine Survey -- VI. The first three years of medium-resolution follow-up spectroscopy of Pristine EMP star candidates](https://arxiv.org/abs/1909.08138)
+  * We find an average carbon enhancement fraction ([C/Fe] >= +0.7) of 41 +- 4% for stars with -3 < [Fe/H] < -2 and 58 +- 14% for stars with [Fe/H] < -3
+
+* [Chandra survey of nearby highly inclined disk galaxies -- V: emission structure and origin of galactic coronae](https://arxiv.org/abs/1909.08204)
+  * We define model-independent parameters H50, H75, and H95 - vertical scales that enclose 50%, 75%, and 95% of the total flux of the emission 从X-ray flux垂直于盘方向的形态来研究气体的起源
+  * Vertical 方向的concentration：H50/H95 or H75/H95 和 SFR面密度有相关
+  * 两成分：延展的弱辐射成分可能来自SF外流中带出的热气体；靠盘近的辐射可能来自冷-热气体的交汇的相互作用
+
+* [Expected dust grain size distributions in galaxies detected by ALMA at z>7](https://arxiv.org/abs/1909.08264)
+  * 有两种可能可以解释ALMA在z>7看到的尘埃辐射：high dust condensation efficiency in stellar ejecta, and (ii) efficient accretion (dust growth by accreting the gas-phase metals in the interstellar medium
+  * 这两种可能给出的尘埃颗粒大小分布不同，导致第一种可能会被大尘埃主导，尘埃消光曲线也会比第二种情形更陡
+
+* [Direct n-body simulations of tidal disruption rate evolution in unequal-mass galaxy mergers](https://arxiv.org/abs/1909.08280)
+  * When two SMBHs are far away from each other, the TDE rate of each host galaxy is similar as in an isolated galaxy. As the two galaxies and their SMBHs separation shrinks, the TDE rate is increasing gradually until it reaches a maximum shortly after the two SMBHs become bound
+
+* [GHASP: an Hα kinematical survey of spiral galaxies -- XIII. Distribution of luminous and dark matter in spiral and irregular nearby galaxies using Hα and HI rotation curves and WISE photometry](https://arxiv.org/abs/1909.08408)
+  * 31个Spiral和Irr的电离及HI气体旋转曲线: The correlations between DM halo and baryon parameters do not strongly depend on the RC. Clearly
+  * ISO density profiles better fit the RCs than the NFW ones, especially when using Hα or hybrid RCs.
+
+* [Keck/OSIRIS IFU Detection of a z ∼ 3 Damped Lyman Alpha Host Galaxy](https://arxiv.org/abs/1909.08523)
+  * Marginally resolve extended, foreground DLA emission. 用[OIII]和Hbeta得到运动学和SFR
+
+* [Evolution of 3-dimensional Shape of Passively Evolving and Star-forming Galaxies at z<1](https://arxiv.org/abs/1909.08550)
+  * **Relevant**
+  * COSMOS中的星系三维形状研究：We found that the transition from thin disk to thick spheroid occurs at ΔMS ∼−1 dex, i.e., 10 times lower sSFR than that of the main sequence for galaxies
+  * 10^10-10^11 Msun的passive星系的C/A随着红移有明显的下降
+  * More massive star-forming galaxies tend to have lower C/A (thinner shape) than low-mass ones
