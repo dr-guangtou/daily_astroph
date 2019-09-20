@@ -724,3 +724,58 @@
   * COSMOS中的星系三维形状研究：We found that the transition from thin disk to thick spheroid occurs at ΔMS ∼−1 dex, i.e., 10 times lower sSFR than that of the main sequence for galaxies
   * 10^10-10^11 Msun的passive星系的C/A随着红移有明显的下降
   * More massive star-forming galaxies tend to have lower C/A (thinner shape) than low-mass ones
+
+----
+
+### Sep 19
+
+* [Two X-ray Sources in a z~6.2 Quasar/Galaxy Merger](https://arxiv.org/abs/1909.08619)
+  * **Nice figure**
+  * Chandra观测，发现高X-ray光度和软X-ray spectrum
+  * Companian也有微弱的X-ray探测，而且可能是highly obscured的
+
+* [ALMACAL VI: Molecular gas mass density across cosmic time via a blind search for intervening molecular absorbers](https://arxiv.org/abs/1909.08624)
+  * ALMA观测CO分子气体吸收线：report multiple Galactic absorption lines and one intrinsic absorber, no extragalactic intervening molecular absorbers are detected. 能给出z>0的分子气体柱密度分布的估计
+  * The combined constraints indicate that the present decrease of the cosmic star-formation rate history is consistent with an increasing depletion of molecular gas in galaxies compared to z∼2.
+
+* [The S-PLUS: a star/galaxy classification based on a Machine Learning approach](https://arxiv.org/abs/1909.08626)
+  * 基于Random forest，能到r=21 mag; 加入了形态考虑能提高一点精度
+
+* [Twisted quasar light curves: implications for continuum reverberation mapping of accretion disks](https://arxiv.org/abs/1909.08638)
+  * 多波段和高时间分辨下的QSO light curve: light curves at different wavelengths are not only shifted in time but also distorted: in the context of the lamp-post model and thin-disk geometry, the multi-band light curves are in fact convolved by a transfer function whose size and skewness increase with wavelength
+  * 如果不考虑transfer function分布的skewness，吸积盘大小的估计会偏低
+
+* [Redefining the torus: A unifying view of AGN in the infrared and sub-mm](https://arxiv.org/abs/1909.08639)
+  * **Nice figure**
+  * Dusty molecular gas flows in from galactic scales of ~100 pc to the sub-parsec environment via a disk with small to moderate scale height.
+  * The hot, inner part of the disk puffs up due to IR radiation pressure and unbinds a large amount of the inflowing gas from the black hole's gravitational potential, providing the conditions to launch a wind driven by the radiation pressure from the AGN
+
+* ["Observing" Unrelaxed Clusters in Dark Matter Simulations](https://arxiv.org/abs/1909.08645)
+  * We show that non-Gaussian clusters have had recent major mergers and enhanced rates of galaxy infall relative to systems with Gaussian velocity profiles. 质量越大，non-Gaussian cluster越多
+
+* [SCUBA-2 observations of candidate starbursting protoclusters selected by Planck and Herschel-SPIRE](https://arxiv.org/abs/1909.08977)
+  * **Interesting**
+  * Cumulative number counts of the 850-μm sources in 9/13 of these candidate protoclusters show significant overdensities compared to the field 这些cluster大部分位于z > 2
+  * We infer that cross-matching Planck and Herschel data is a robust method for selecting candidate protoclusters with overdensities of 850-μm sources.
+
+* [Evidence for a highly opaque large-scale galaxy void at the end of reionization](https://arxiv.org/abs/1909.09077)
+  * **Interesting**
+  * HSC对一个z=6的QSO周围的LBG观测，发现一个z=5.7的Lya光学厚度很高的区域，可能对应于再电离末尾的一个underdense region
+  * The region within 8′ (or, ≈19cMpc) of the quasar position is the most underdense of the whole field. 与之前LAE的观测相符
+  * These observations are consistent with scenarios in which large optical depth fluctuations arise due to fluctuations in the galaxy-dominant UV background or due to residual neutral islands that are expected from reionization that is completed at redshifts as low as z≲5.5.
+
+* [A Break in Spiral Galaxy Scaling Relations at the Upper Limit of Galaxy Mass](https://arxiv.org/abs/1909.09080)
+  * Super spirals with mass in stars log Mstars / Msun > 11.5 break from the baryonic Tully-Fisher relation (BTFR) established for lower mass galaxies
+  * These results indicate that super spirals are under-massive for their dark matter halos, limited to a mass in stars of log Mstars / Msun < 11.8
+  * 这个大质量旋涡星系样本可能有点意思，虽然其中有些估计不是真的盘星系
+
+* [Tomographic measurement of the intergalactic gas pressure through galaxy-tSZ cross-correlations](https://arxiv.org/abs/1909.09102)
+  * **Relevant**
+  * Planck tSZ y-map和z<0.4的2MASS+WISE星系的交叉相关，限制了mass-observable关系的红移演化，用hydrostatic mass bias来表示
+  * We measure 1−bH with ∼13% precision in 6 equispaced redshift bins, and find no evidence for a redshift-dependent mass bias parameter
+  * Our mean value of 1−bH=0.59±0.03 is also in good agreement with the one estimated by the joint analysis of Planck cluster counts and CMB anisotropies.
+
+* [The MOSDEF Survey: The Metallicity Dependence of X-ray Binary Populations at z∼2](https://arxiv.org/abs/1909.08635)
+  * **Interesting**
+  * 低金属丰度上产生的HMXB的X-ray光度更高：这可能解释了高红移星系的单位SFR的X-ray光度更高
+  * 79 z∼2 star-forming galaxies的stacking analysis: the average LX/SFR of our z∼2 galaxy sample is enhanced by ≈0.4−0.8 dex relative to local HMXB LX-SFR scaling relations
