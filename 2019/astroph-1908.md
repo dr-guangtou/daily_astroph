@@ -271,6 +271,10 @@
 
 * [Numerical convergence of hydrodynamical simulations of galaxy formation: the abundance and internal structure of galaxies and their cold dark matter haloes](https://arxiv.org/abs/1908.05019)
   * **Interesting**
+  * Unlike dark matter-only simulations, hydrodynamical simulations exhibit a strong sensitivity to gravitational softening, and care must be taken when selecting numerical parameters
+  * First, softening imposes a minimum resolved escape speed, vε, due to the binding energy between gas particles.
+  * Second, feedback from stars or active galactic nuclei may suffer from numerical over-cooling if the gravitational softening length is chosen below a critical value, εeFB
+  * Third, we note that small soft- ening lengths exacerbate the segregation of stars and dark matter particles in halo centres, often leading to the counter-intuitive result that galaxy sizes increase as soft- ening is reduced.
 
 * [Emission line properties of the most luminous AGN in massive galaxies at intermediate redshifts](https://arxiv.org/abs/1908.05078)
 
@@ -279,6 +283,7 @@
 * [Metallicity has followed local gravitational potential of galaxies since z=3](https://arxiv.org/abs/1908.05362)
 
 * [An Improved Distance to NGC 4258 and its Implications for the Hubble Constant](https://arxiv.org/abs/1908.05625)
+  * We find the distance to NGC 4258 to be 7.58±0.08 (stat.)±0.08 (sys.) Mpc.
 
 * [Theoretical ISM pressure and electron density diagnostics for local and high-redshift galaxies](https://arxiv.org/abs/1908.05504)
 
@@ -286,15 +291,25 @@
 
 * [The Hubble Legacy Field GOODS-S Photometric Catalog](https://arxiv.org/abs/1908.05682)
   * **Useful**
+  * The analysis is based on the version 2.0 HLF data release that now includes all ultraviolet (UV) imaging, combining three major UV surveys
+  * We describe a photometric analysis of 186,474 objects in the HST imaging at wavelengths 0.2–1.6μm.
+  * PSF-homogenized and noise-equalized F850LP, F125W, F140W and F160W images, including Gaia astrometric corrections; 就是和Gaia catalog比较，然后给一个平均offset的改正
+  * We create a detection image that is a noise-equalized version of the mosaics combining one ACS (F850LP) with three WFC3 bands (F125W, F140W, F160W) by multiplying the PSF-matched science images (see details in Section 2.3) by the square root of the inverse vari- ance map.
 
 * [The Formation of Ultra-Diffuse Galaxies from Passive Evolution in the RomulusC Galaxy Cluster Simulation](https://arxiv.org/abs/1908.05684)
   * **Relevant**
+  * RomulusC模拟：UDG的形成主要是因为RPS导致的quenching以随后的passive evolution
+  * UDG和non-UDG的DM质量以及spin没有太大差别; 光学颜色也不应该有太大差别; UDG只是进入cluster更早
+  * Cluster UDG的size比isolated的应该更大，因为形成于cluster附近角动量比较高的气体
 
 * [EZOA -- A catalogue of EBHIS HI detected galaxies in the northern Zone of Avoidance](https://arxiv.org/abs/1908.05910)
 
 * [A young and obscured AGN embedded in the giant radio galaxy Mrk 1498](https://arxiv.org/abs/1908.06080)
 
 * [The Carnegie-Chicago Hubble Program. VII. The Distance to M101 via the Optical Tip of the Red Giant Branch Method](https://arxiv.org/abs/1908.06120)
+  * We present the distance to M 101, the host to SN 2011fe, using the I -band tip of the red giant branch (TRGB) based on observations from the ACS/WFC
+  * D = 6.52 ± 0.12stat ± 0.15sys: This result is consistent with several recent Cepheid- based determinations, suggesting agreement between Population I and II distance scales for this nearby SN Ia-host galaxy.
+  * Targeting in the stellar halo provides much more reliable distance measurements from the TRGB method due to the combination of multiple structural components and heavily population contamination
 
 * [Double dark matter vision: twice the number of compact-source lenses with narrow-line lensing and the WFC3 Grism](https://arxiv.org/abs/1908.06344)
 
@@ -303,10 +318,16 @@
 * [UV bright red-sequence galaxies: how do UV upturn systems evolve in redshift and stellar mass?](https://arxiv.org/abs/1908.06775)
 
 * [Smaller stellar disc scale lengths in rich environments](https://arxiv.org/abs/1908.06810)
+  * At low bulge mass, stellar disc scale lengths in X-ray rich groups are smaller compared to discs in both X-ray poor groups and in isolated field environments.
+  * Our results show that stellar disc scale lengths depend on X-ray brightness, a tracer of IGM density, suggesting a role for hydrodynamic processes such as ram-pressure stripping and/or starvation.
+  * Simard+Mendel catalog.
 
 * [The role of a top-heavy integrated galactic IMF on the chemical evolution of high-redshift starbursts](https://arxiv.org/abs/1908.06832)
 
 * [The probability distribution of 3-D shapes of galaxy clusters from 2-D X-ray images](https://arxiv.org/abs/1908.04454)
+  * **Relevant**
+  * Determine the probability distribution of the 3-D shapes of galaxy clusters from the 2-D images using stereology 给出3-D shape的统计分布
+  * Assuming ellipsoidal shapes, we find that our sample of galaxy clusters is a mixture of prolate and oblate shapes, with a preference for oblateness with the most probable ratio of principle axes 1.4 : 1.3 : 1.
 
 * [A model-independent determination of the Hubble constant from lensed quasars and supernovae using Gaussian process](https://arxiv.org/abs/1908.04967)
   * We use four well-analyzed lensing systems from the state-of-art lensing program H0LiCOW and the Pantheon supernova compilation in our analysis. Assuming the Universe is flat, we derive the constraint H0 = 72.2 ± 2.1 km/s/Mpc, a precision of 2.9%.
@@ -315,13 +336,21 @@
 
 * [A gravitational-wave measurement of the Hubble constant following the second observing run of Advanced LIGO and Virgo](https://arxiv.org/abs/1908.06060)
   * **Interesting**
+  * Here we additionally use binary black hole detections in conjunction with galaxy catalogs and report a joint measurement.
+  * 比只用有电磁对应体的精度提高了7%; 很大一部分贡献来自GW170814
 
 * [The impact of the observed baryon distribution in haloes on the total matter power spectrum](https://arxiv.org/abs/1908.05765)
-  * **Interesting**
+  * **Interesting, Study**
+  * The baryonic components are constrained empirically: the hot gas using fits to X-ray observations of groups and clusters of galaxies, and the stellar component using a halo occupation distribution.
+  * We find a total power suppression of 1 % (5 %) on scales 0.2 − 1 h Mpc−1 (0.5 − 2 h Mpc−1), where lower baryon fractions result in stronger suppression.
+  * 能精确地测量halo mass很重要，不然会导致power spectrum进一步被suppress
 
 * [Cosmological Inference using Gravitational Wave Standard Sirens: A Mock Data Challenge](https://arxiv.org/abs/1908.06050)
 
 * [Bayesian automated posterior repartitioning for nested sampling](https://arxiv.org/abs/1908.04655)
+  * **Useful**
+  * 不具备代表性的prior有害Nested Sampling: posterior repartitioning (PR), redefines the prior and likelihood while keeping their product fixed, so that the posterior inferences and evidence estimates remain unchanged, but the efficiency of the NS process is significantly increased.
+  * PR方法里一般是把prior改变一个power beta，本文的方法是把beta作为一个hyper parameter处理
 
 ----
 

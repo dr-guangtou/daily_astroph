@@ -779,3 +779,34 @@
   * **Interesting**
   * 低金属丰度上产生的HMXB的X-ray光度更高：这可能解释了高红移星系的单位SFR的X-ray光度更高
   * 79 z∼2 star-forming galaxies的stacking analysis: the average LX/SFR of our z∼2 galaxy sample is enhanced by ≈0.4−0.8 dex relative to local HMXB LX-SFR scaling relations
+
+----
+
+### Sep 22
+
+* [On the origin of the chemical bimodality of disk stars: A tale of merger and migration](https://arxiv.org/abs/1909.09162)
+  * NIHAO-UHD模拟：盘星系里形成高alpha和低alpha两个序列是富气体并合的产物；低alpha恒星是在并合过程中形成的，并合引入的低丰度气体稀释了之前的金属丰度
+
+* [Enrichment of Strontium in Dwarf Galaxies](https://arxiv.org/abs/1909.09163)
+  * Binary neutron star mergers (NSMs) and asymptotic giant branch (AGB) stars contribute to the enrichment of Sr in the metallicity ranges [Fe/H] ≳ −3 and [Fe/H] ≳ −1 
+  * We find that the models including electron-capture supernovae (ECSNe) and rotating massive stars (RMSs), in addition to NSMs and AGBs, reasonably reproduce the enrichment histories of Sr in dwarf galaxies.
+
+* [Massive Warm/Hot Galaxy Coronae: II -- Isentropic Model](https://arxiv.org/abs/1909.09169)
+  * 现象学解析模型，描述银河系光度星系的CGM：解释OVI/OVII/OVIII的吸收观测
+  * The gas densities in the CGM are low (nH=10−5−3×10−4 cm−3) and its collisional ionization state is modified by the metagalactic radiation field (MGRF)
+
+* [RELICS: Spectroscopy of gravitationally-lensed z≃2 reionization-era analogs and implications for CIII detections at z>6](https://arxiv.org/abs/1909.09212)
+  * Four galaxies selected to have low stellar masses (2-8×107 M⊙) and J125-band flux excesses indicative of intense [OIII]+Hβ emission 三个中看到了CIII]
+  * 气体高度电离，且金属丰度低
+
+* [Star-Forming, Rotating Spheroidal Galaxies in the GAMA and SAMI Surveys](https://arxiv.org/abs/1909.09306)
+  * **Relevant**
+  * Little Blue Spheroid: typically occupy environments of even lower density than those of Sd-Irr galaxies, where ~65% of LBS galaxies live in isolation
+  * 结构性质和矮椭圆星系类似: We then examine SAMI Galaxy survey integral field emission line kinematics for a subset of 62 LBSs and find that the majority (42) of these galaxies display ordered rotation with the remainder displaying disturbed/non-ordered dynamics. 
+
+* [Investigating early-type galaxy evolution with a multi-wavelength approach. III. Insights from SPH simulations with chemo-photometric implementation](https://arxiv.org/abs/1909.09456)
+  * 模拟有UV feature的ETG，基本都能用并合解释；且SFR在Gyr时标上会被quenched
+
+* [Photometric Redshift Calibration with Self Organising Maps](https://arxiv.org/abs/1909.09632)
+  * Using self-organising maps (SOMs) we demonstrate that this spectroscopic compilation is sufficiently complete for KiDS, representing 99% of the effective 2D cosmic shear sample
+  * Photometric noise, sample variance, and spectroscopic selection effects induce a combined maximal scatter of σΔ⟨z⟩<0.007 in all tomographic bins
