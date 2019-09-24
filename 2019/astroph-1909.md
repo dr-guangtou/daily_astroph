@@ -788,7 +788,7 @@
   * NIHAO-UHD模拟：盘星系里形成高alpha和低alpha两个序列是富气体并合的产物；低alpha恒星是在并合过程中形成的，并合引入的低丰度气体稀释了之前的金属丰度
 
 * [Enrichment of Strontium in Dwarf Galaxies](https://arxiv.org/abs/1909.09163)
-  * Binary neutron star mergers (NSMs) and asymptotic giant branch (AGB) stars contribute to the enrichment of Sr in the metallicity ranges [Fe/H] ≳ −3 and [Fe/H] ≳ −1 
+  * Binary neutron star mergers (NSMs) and asymptotic giant branch (AGB) stars contribute to the enrichment of Sr in the metallicity ranges [Fe/H] ≳ −3 and [Fe/H] ≳ −1
   * We find that the models including electron-capture supernovae (ECSNe) and rotating massive stars (RMSs), in addition to NSMs and AGBs, reasonably reproduce the enrichment histories of Sr in dwarf galaxies.
 
 * [Massive Warm/Hot Galaxy Coronae: II -- Isentropic Model](https://arxiv.org/abs/1909.09169)
@@ -802,7 +802,7 @@
 * [Star-Forming, Rotating Spheroidal Galaxies in the GAMA and SAMI Surveys](https://arxiv.org/abs/1909.09306)
   * **Relevant**
   * Little Blue Spheroid: typically occupy environments of even lower density than those of Sd-Irr galaxies, where ~65% of LBS galaxies live in isolation
-  * 结构性质和矮椭圆星系类似: We then examine SAMI Galaxy survey integral field emission line kinematics for a subset of 62 LBSs and find that the majority (42) of these galaxies display ordered rotation with the remainder displaying disturbed/non-ordered dynamics. 
+  * 结构性质和矮椭圆星系类似: We then examine SAMI Galaxy survey integral field emission line kinematics for a subset of 62 LBSs and find that the majority (42) of these galaxies display ordered rotation with the remainder displaying disturbed/non-ordered dynamics.
 
 * [Investigating early-type galaxy evolution with a multi-wavelength approach. III. Insights from SPH simulations with chemo-photometric implementation](https://arxiv.org/abs/1909.09456)
   * 模拟有UV feature的ETG，基本都能用并合解释；且SFR在Gyr时标上会被quenched
@@ -810,3 +810,51 @@
 * [Photometric Redshift Calibration with Self Organising Maps](https://arxiv.org/abs/1909.09632)
   * Using self-organising maps (SOMs) we demonstrate that this spectroscopic compilation is sufficiently complete for KiDS, representing 99% of the effective 2D cosmic shear sample
   * Photometric noise, sample variance, and spectroscopic selection effects induce a combined maximal scatter of σΔ⟨z⟩<0.007 in all tomographic bins
+
+----
+
+### Sep 23
+
+* [A new class of galaxy models with a central BH -- I. The spherical case](https://arxiv.org/abs/1909.09639)
+  * The dynamical properties of spherically symmetric galaxy models, where a Jaffe (1983) stellar density profile is embedded in a total mass density decreasing as r−3 at large radii, are presented
+
+* [Small-Scale HI Channel Map Structure is Cold: Evidence from Na I Absorption at High Galactic Latitudes](https://arxiv.org/abs/1909.09647)
+  * **Interesting**
+  * 用QSO吸收线中的NaI D吸收线看小尺度上银河系HI气体的结构：depend more strongly on the column density of small-scale structure in H I than on either the large-scale H I structure or the total H I column.
+  * HI channel map中的小尺度结构不是velocity crowding导致的，而是来自clumpy cold neutral medium
+
+* [WARPFIELD-EMP: The Self-Consistent Prediction of Emission Lines from Evolving HII Regions in Dense Molecular Clouds](https://arxiv.org/abs/1909.09651)
+  * warpfield 1-D恒星反馈模型，结合Cloudy模拟近邻星系的HII区观测，比如NGC628; 可以估计cloud的质量和年龄等
+
+* [A Dwarf Disrupting -- Andromeda XXVII and the North West Stream](https://arxiv.org/abs/1909.09661)
+  * And XXVII中38个红巨星的光谱观测：As the properties of the upper segment of the North West Stream and Andromeda XXVII are consistent within ~90\% confidence limits, it is likely that the two are related and plausible that Andromeda XXVII is the progenitor of this stream.
+
+* [The survey of Planetary Nebulae in Andromeda (M31) II. Age-velocity dispersion relation in the disc from Planetary Nebulae](https://arxiv.org/abs/1909.09724)
+  * For the high- (大质量前身星) and low-extinction PNe, we find ages of ∼2.5 Gyr and ∼4.5 Gyr respectively, with distinct kinematics beyond a deprojected radius RGC=14 kpc.
+  * The high- and low-extinction PNe are associated with the young thin and old thicker disc of M31 respectively, whose velocity dispersion values increase with age.
+
+* [Torus Constraints in ANEPD-CXO245: A Compton-thick AGN with Double-Peaked Narrow Lines](https://arxiv.org/abs/1909.09762)
+  * XCLUMPY模型拟合AKARI IR + X-ray SED
+  * X-rary中散射成分少，说明torus的张角不大；双窄线可能来自双极外流
+
+* [The Effect of Warm Dark Matter on Early Star Formation Histories of Massive Galaxies: Predictions from the CROC Simulations](https://arxiv.org/abs/1909.10025)
+  * z>8处10^8 Msun质量以上的星系的发现意味着恒星形成可能从z=15就开始了，可以限制宇宙学模型
+  * LCDM和WDM预测了不同的早期星系星族年龄，但是还不足以被当前观测所区分
+
+* [xGASS: The Impact of Photometric Bulges on the Scatter of HI Scaling Relations](https://arxiv.org/abs/1909.10202)
+  * **Relevant**
+  * ProFit 1-Sersic和2-Sersic模拟xGASS星系，看bulge对HI的影响：at both fixed total and disc stellar mass, more bulge-dominated galaxies have systematically lower HI masses
+  * 但按照B/T区分星系，并不能看到他们在HI相关的scaling relation上有任何不同
+
+* [Dust formation in AGN winds](https://arxiv.org/abs/1909.10426)
+  * 在AGN吸积盘引起的MHD风的范围内可以形成大量的尘埃，尤其是那些吸积率接近爱丁顿极限的；AGN可能对宇宙尘埃budget提供显著的贡献。
+  * The dust production rate scales linearly with the mass of the central BH and varies as a power law of index between 2 to 2.5 with the dimensionless mass accretion rate.
+
+* [Clocking the formation of today's largest galaxies: Wide field integral spectroscopy of Brightest Cluster Galaxies and their surroundings](https://arxiv.org/abs/1909.10434)
+  * **Relevant**
+  * 23 BCGs observed out to 4 r_e; WIYN IFU; Starlight
+  * The average BCG core age of the sample is 13.3 ± 2.8 Gyr and the average metallicity is [Fe/H] = 0.30 ± 0.09, whereas for the ICL the average age is 9.2 ± 3.5 Gyr and the average metallicity is [Fe/H] = 0.18 ± 0.16.
+  * 大多数的速度弥散度profile都随半径上升：. The most extended BCGs are closest to the peak of the cluster’s X-ray luminosity
+
+* [Detecting the neutral IGM in filaments with the SKA](https://arxiv.org/abs/1909.09648)
+  * 用EAGLE模拟未来21cm巡天能看到的IGM filament结构信号强弱
