@@ -858,3 +858,79 @@
 
 * [Detecting the neutral IGM in filaments with the SKA](https://arxiv.org/abs/1909.09648)
   * 用EAGLE模拟未来21cm巡天能看到的IGM filament结构信号强弱
+
+----
+
+### Sep 23
+
+* [COS Observations of the Cosmic Web: A Search for the Cooler Components of a Hot, X-ray Identified Filament](https://arxiv.org/abs/1909.10518)
+  * X-ray观测到的大尺度filament的QSO吸收线观测，看cold, cool, warm气体 -- 并没有找到
+  * 或者是气体温度很高，或者是因为气体比想象的更clumpy
+
+* [Simulations of the star-forming molecular gas in an interacting M51-like galaxy](https://arxiv.org/abs/1909.10520)
+  * AREPO模拟M51：a non-equilibrium, time-dependent, chemical network that follows the evolution of atomic and molecular hydrogen as well as carbon and oxygen self-consistently.
+  * 即便相互作用可以驱动大尺度的内流，产生旋臂，SF主要还是被ISM自己的regulate的，feedback也很重要
+
+* [A deep view into the nucleus of the Sagittarius Dwarf Spheroidal Galaxy with MUSE. I. Data and stellar population characterization](https://arxiv.org/abs/1909.10529)
+  * **Awesome**
+  * MUSE观测M54中的6000多颗恒星：The stellar populations show a well defined age-metallicity relation, implying an extended formation history for the central region of Sgr dSph.
+  * The YMR and OMP populations are more centrally concentrated than the IMR population, which are likely stars of the Sgr dSph.
+  * Old, Metal-poor可能来自两个年老的球状星团的并合
+
+* [Quiescent galaxies 1.5 billion years after the Big Bang and their progenitors](https://arxiv.org/abs/1909.10540)
+  * **Interesting**
+  * 三个z~4.0的大质量quiescent星系的光谱确认；10^11，且没有FIR探测；可能是z>4的SMG演化来，数密度相当
+
+* [AGN radiative feedback in the early growth of massive black holes](https://arxiv.org/abs/1909.10546)
+  * 高红移有高吸积率，且含有很多尘埃的QSO：Such a combination of high luminosities and large dust content should form favourable physical conditions for radiative dusty feedback
+  * AGN radiative dusty feedback may thus play an important role in powering galactic outflows in the first quasars in the early Universe.
+
+* [An Improved Test of the Binary Black Hole Hypothesis for Quasars with Double-peaked Broad Balmer Lines](https://arxiv.org/abs/1909.10560)
+  * we test the SBHB hypothesis for 14 quasars with double-peaked broad emission lines using their long-term (14--41 years) radial velocity curves
+  * 如何考虑速度测量中的jitter很重要；大部分都应该不是双黑洞
+
+* [High-mass X-ray binaries in nearby metal-poor galaxies: on the contribution to nebular HeII emission](https://arxiv.org/abs/1909.10574)
+  * 解释HeII发射线：Accretion-powered radiation from high-mass X-ray binaries (HMXBs) is still one of the leading proposed explanations for the missing He+-ionizing photons
+  * 但HMXB可能不是很高效的HeII电离源，只能在HMXB数量够多的星系里起作用；不能解释低红移贫金属SF星系中的HeII线
+
+* [Stellar Velocity Dispersion of a Massive Quenching Galaxy at z=4.01](https://arxiv.org/abs/1909.10721)
+  * **Relevant**
+  * z=4的大质量星系的Balmer线速度弥散度测量：sigma=268+/-59 km/s；基本不太需要sigma的演化
+  * dynamical mass is consistent with the stellar mass inferred from photometry 且位于mass FP上
+
+* [Quenching as a Contest between Galaxy Halos and their Central Black Holes](https://arxiv.org/abs/1909.10817)
+  * The key idea is that larger star-forming galaxies (at fixed stellar mass) have lower black-hole masses owing to their lower central densities
+  * Galaxies quench when the total effective energy radiated by their black holes equals an empirical function of their halo mass, and this function proves to be closely equal to a multiple of halo-gas binding energy.
+  * Most BH mass growth takes place in the green valley; galaxies enter the GV when their cumulative BH energy equals roughly 4× their halo-gas binding energy
+
+* [Identifying galaxies, quasars and stars with machine learning: a new catalogue of classifications for 111 million SDSS sources without spectra](https://arxiv.org/abs/1909.10963)
+  * **Interesting**
+  * 用SDSS光谱去训练模型通过SED区分星系，类星体，和恒星：Our new catalogue contains 49.7 million galaxies, 2.4 million quasars, and 59.2 million stars.
+  * 还使用了UMAP做低维数据展示
+
+* [Unveiling the weak radio quasar population at z ≥ 4](https://arxiv.org/abs/1909.11012)
+  * 在z>4的光学AGN位置上叠加FIRST图像，看到一个S/N的点源；并假设全部来自SF，给出了一个SFR的上线的限制
+
+* [Comparing the Quenching Times of Faint M31 and Milky Way Satellite Galaxies](https://arxiv.org/abs/1909.11036)
+  * 20 faint M31 satellites的CMD分析：发现都是在3-9 Gyr前quenched，大部分在3-6 Gyr前；比MW的卫星quenched得早
+  * We identify two distinct groups based on their SFHs: one with exponentially declining SFHs (τ∼2 Gyr) and one with rising SFHs with abrupt quenching 可能和M33的major merger历史有关
+
+* [X-shooter observations of strong H2-bearing DLAs at high redshift](https://arxiv.org/abs/1909.11064)
+  * 有H2吸收线的DLA的探测：We find that the H2-bearing medium revealed by the studied DLAs has typical values for the kinetic temperature, hydrogen density, and UV radiation field of, respectively, T∼100K, nH∼100 cm−3, and IUV about twice the intensity of the Draine field.
+
+* [Weak lensing Analysis of X-ray-selected XXL Galaxy Groups and Clusters with Subaru HSC Data](https://arxiv.org/abs/1909.11524)
+  * **Relevant**
+  * 136 spectroscopically confirmed X-ray-selected systems at 0.031 < z < 1.033 detected in the 25sqdeg XXL-N region.
+  * We determine the temperature-mass (Tx-M500) relation for a subset of 105 XXL clusters that have both measured HSC lensing masses and X-ray temperature
+
+* [A Hybrid Deep Learning Approach to Cosmological Constraints From Galaxy Redshift Surveys](https://arxiv.org/abs/1909.11527)
+  * **Interesting**
+  * AbacusCosmos做mocks去模拟光谱巡天，基于HOD模型去填星系；用3D-CNN等方法去训练
+  * The CNN and hybrid CNN can constrain σ8 and Ωm to ∼3% and ∼4%
+
+* [Towards a 1% Measurement of the Hubble Constant: Accounting for Time Dilation in Variable Star Light Curves](https://arxiv.org/abs/1909.11847)
+  * We investigate the previously overlooked distance scale bias resulting from the interplay between redshift and Leavitt laws in an expanding Universe: Redshift-Leavitt bias (RLB). Redshift dilates oscillation periods of pulsating stars residing in supernova-host galaxies relative to periods of identical stars residing in nearby (anchor) galaxies.
+
+* [Galaxy morphological classification in deep-wide surveys via unsupervised machine learning](https://arxiv.org/abs/1909.10537)
+  * Growing neural gas方法
+  * We implement the algorithm on the Hyper-Suprime-Cam Subaru-Strategic-Program Ultra-Deep survey, to autonomously reduce the galaxy population to a small number (160) of 'morphological clusters', populated by galaxies with similar morphologies
