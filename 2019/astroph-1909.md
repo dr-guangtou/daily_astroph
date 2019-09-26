@@ -861,7 +861,7 @@
 
 ----
 
-### Sep 23
+### Sep 24
 
 * [COS Observations of the Cosmic Web: A Search for the Cooler Components of a Hot, X-ray Identified Filament](https://arxiv.org/abs/1909.10518)
   * X-ray观测到的大尺度filament的QSO吸收线观测，看cold, cool, warm气体 -- 并没有找到
@@ -934,3 +934,68 @@
 * [Galaxy morphological classification in deep-wide surveys via unsupervised machine learning](https://arxiv.org/abs/1909.10537)
   * Growing neural gas方法
   * We implement the algorithm on the Hyper-Suprime-Cam Subaru-Strategic-Program Ultra-Deep survey, to autonomously reduce the galaxy population to a small number (160) of 'morphological clusters', populated by galaxies with similar morphologies
+
+----
+
+### Sep 24
+
+* [The KMOS^3D Survey: data release and final survey paper](https://arxiv.org/abs/1909.11096)
+  * IFU survey of 739, log(M⋆/M⊙)>9, galaxies at 0.6 < z < 2.7: We detect Hα emission for 91% of galaxies on the main sequence of star-formation and 79% overall.
+  * Comparison of Hα and UV+IR star formation rates (SFRs) reveal that dust attenuation corrections may be underestimated by 0.5 dex at the highest masse
+  * The rotation-dominated fraction is a function of both stellar mass and redshift with the strongest evolution measured over the redshift range of the survey for galaxies with log(M⋆/M⊙)<10.5.
+
+* [Evolution of the Cool Gas in the Circumgalactic Medium (CGM) of Massive Halos -- A Keck Cosmic Web Imager (KCWI) Survey of Lyα Emission around QSOs at z≈2](https://arxiv.org/abs/1909.11098)
+  * KCWI观测16个超高光度的z~2 QSO: 14个有Lya nebula: with projected linear-sizes larger than 50 physical kpc (pkpc).
+  * Most z≈2 QSO nebulae have a more irregular morphology compared to those at z≳3.
+  * 也比z=3的更暗：the circularly-averaged surface brightness (SB) at z≈2 is 0.4 dex fainter than the redshift-corrected, median SB at z≳3
+
+* [Mid-IR Variability and Dust Reverberation Mapping of Low-z Quasars. I. Data, Methods and Basic Results](https://arxiv.org/abs/1909.11101)
+  * Mid-IR dust reverberation mapping (RM) study of 87 archetypal Palomar-Green quasars at z≲0.5
+  * Inferred dust emission size ratios are RK:RW1:RW2=0.6:1:1.2
+  * 24 micron的光变程度要低很多，dust reverberation dump out
+
+* [Three-dimensional structure of the Sagittarius dSph core from RR Lyrae](https://arxiv.org/abs/1909.11103)
+  * A prolate spheroid model is ruled out at high statistical significance relative to the triaxial model
+
+* [The ALMaQUEST Survey: The molecular gas main sequence and the origin of the star forming main sequence](https://arxiv.org/abs/1909.11243)
+  * ALMA-MaNGA QUEnching and STar formation (ALMaQUEST)
+  * SFMS上星系有空间分辨的观测：各spaxel的恒星形成面密度，恒星质量面密度，H2气体质量面密度构成一个3-D关系
+  * H2分子气体质量面密度和恒星质量面密度也有相关，可能说明分子气体trace local potential
+
+* [Dwarf Galaxy Discoveries from the KMTNet Supernova Program II. The NGC 3585 Group and Its Dynamical State](https://arxiv.org/abs/1909.11260)
+  * **Relevant**
+  * 在NGC3585 group里面找到的矮星系：46个，很多是低面亮度的; 20%有nuclei
+  * Unusually, there is no indication of a change of color or brightness in the dwarf galaxy candidates with projected distance from the group center.
+  * The galaxy luminosity function of the NGC 3585 group has a faint-end slope of α≈−1.39, which is roughly consistent with the slopes found for other nearby groups
+
+* [The dust mass function from z~0 to z~2](https://arxiv.org/abs/1909.11333)
+  * z=2.5的typical dust mass质量比z=0的高 1 dex.
+  * Integrating our DMFs we estimate the dust mass density (DMD), finding a broad peak at z~1, with a decrease by a factor of ~3 towards z~0 and z~2.5.
+
+* [Super Hot Cores in NGC 253: Witnessing the formation and early evolution of Super Star Clusters](https://arxiv.org/abs/1909.11385)
+  * HC3N观测：reveal the presence of 8 unresolved Super Hot Cores (SHCs) in the inner 160 pc of NGC253
+  * As expected from their short lived phase (∼104 yr), all SHCs are associated with young Super Star Clusters (SSCs).
+  * HNCO/CS ratio 只是了UV radiation feedback
+
+* [[CII] Intensity Mapping of High-Redshift Galaxies](https://arxiv.org/abs/1909.11656)
+  * The detection depth of an IM experiment crucially depends on the (poorly constrained) LCII−SFR relation in the EoR.
+
+* [Cross-correlating Planck with VST ATLAS LRGs: a new test for the ISW effect in the Southern Hemisphere](https://arxiv.org/abs/1909.11095)
+  * Measurements of the ISW signal at redshifts of z¯=0.35, 0.55 and 0.68, using the cross-correlation of the Planck CMB temperature map with ∼0.5 million Luminous Red Galaxies (LRGs) selected from the VST ATLAS survey.
+  * We do not detect the ISW signal at z¯=0.68 when combining the ATLAS and SDSS results
+
+* [Cross-correlating 21 cm and galaxy surveys: implications for cosmology and astrophysics](https://arxiv.org/abs/1909.11104)
+  * Fisher matrix forecast astrophysical and cosmological parameter constraints from synergies between 21 cm intensity mapping and wide field optical galaxy surveys
+
+* [Constraining Mν with the Bispectrum I: Breaking Parameter Degeneracies](https://arxiv.org/abs/1909.11107)
+  * Massive neutrinos suppress the growth of structure below their free-streaming scale and leave an imprint on large-scale structure. 但是中微子质量和sigma8有简并
+  * Investigate whether we can break these degeneracies and constrain Mν with the next higher-order correlation function - the bispectrum
+
+* [Polarisation of Radio Relics in Galaxy Clusters](https://arxiv.org/abs/1909.11329)
+  * 关于Radio relic：observational feature of these objects is their high degree of polarisation which provides information on the magnetic fields at the relics' positions
+  * 通过模拟看能否重现这些结构：due to the effect of Faraday rotation, it is extremely difficult to relate the morphology of the polarised emission for observing frequencies below 1.4 GHz to the real magnetic field structure in relics.
+
+* [Why are some galaxy clusters underluminous? The very low concentration of the CL2015 mass profile](https://arxiv.org/abs/1909.11491)
+  * **Interesting**
+  * 主要是由低concentration导致的，星系的SMF是正常的
+  * The pressure and the electron density profiles of CL2015 are systematically outside the +/- 2 sigma range of the universal profiles; in particular the electron density profile is even lower than the one derived from Planck-selected clusters
