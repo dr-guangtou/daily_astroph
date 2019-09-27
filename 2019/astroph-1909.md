@@ -999,3 +999,38 @@
   * **Interesting**
   * 主要是由低concentration导致的，星系的SMF是正常的
   * The pressure and the electron density profiles of CL2015 are systematically outside the +/- 2 sigma range of the universal profiles; in particular the electron density profile is even lower than the one derived from Planck-selected clusters
+
+----
+
+### Sep 26
+
+* [The Physical Origins of the Identified and Still Missing Components of the Warm-Hot Intergalactic Medium: Insights from Deep Surveys in the Field of Blazar 1ES1553+113](https://arxiv.org/abs/1909.11667)
+  * 关于之前在一个Blazar光谱中看到的两个OVII吸收体，认为找到了WHIM，且可以解决缺失重子物质的问题。这篇文章做了光谱巡天，认为z=0.4的来自一个星系群，是CGM；z=0.35可能来自一个周围630kpc的小质量星系
+  * These observations suggest that gravitational collapse heats portions of the IGM to form the WHIM but with feedback that does not enrich the IGM far beyond galaxy/group halos to levels currently observable in UV/X-ray metal lines.
+
+* [The X-ray and radio activity of typical and luminous Lya emitters from z~2 to z~6: evidence for a diverse, evolving population](https://arxiv.org/abs/1909.11672)
+  * COSMOS field中4000个z>2.2的LAE的X-ray观测，254个单独的探测，黑洞吸积率比较高
+  * 120个有Radio探测；整体AGN比例~10%左右，且随Lya光度升高而升高
+
+* [A Dynamical Study of Extraplanar Diffuse Ionized Gas in NGC 5775](https://arxiv.org/abs/1909.11679)
+  * 研究：thermal, turbulent, magnetic field, and cosmic-ray pressure gradients can stably support the eDIG layer in dynamical equilibrium
+  * 离盘高度越高，气体速度弥散度越高
+  * Blueshifted gas along the minor axis at large distances from the midplane hints at a disk-halo circulation and/or ram pressure effects caused by the ongoing interaction with NGC 5774
+
+* [Evolution of the Stellar Mass-Metallicity Relation. II. Constraints on Galactic Outflows from the Mg Abundances of Quiescent Galaxies](https://arxiv.org/abs/1909.11680)
+  * **Relevant**
+  * 观测z=0.4, 0.5两个星系团里的星系，做全谱拟合
+  * The mass-[Fe/H] relation at higher redshift has lower normalization and possibly steeper slope. 
+  * 但质量和[Mg/H]的观测则无显著演化; 用来限制SF引起的外流的mass-loading factor
+
+* [The low density and magnetization of a massive galaxy halo exposed by a fast radio burst](https://arxiv.org/abs/1909.11681)
+  * **Interesting**
+  * We report the detection of a fast radio burst (FRB 181112) with arcsecond precision, which passes through the halo of a foreground galaxy. Analysis of the burst shows the halo gas has low net magnetization and turbulence.
+  * Our results imply predominantly diffuse gas in massive galactic halos, even those hosting active supermassive black holes, contrary to some previous results.
+
+* [Globular Cluster Intrinsic Iron Abundance Spreads: I. Catalog](https://arxiv.org/abs/1909.11731)
+  * The median intrinsic iron spread is found to be 0.045 dex 虽然小，但可以很确定的说是nonzero的
+
+* [Active Galactic Nuclei Winds as the Origin of the H2 Emission Excess in Nearby Galaxies](https://arxiv.org/abs/1909.11742)
+  * 近邻星系的Spitzer观测中看到的[OI]6300 emission-line flux and kinematics and the H2 S(3)9.665um/PAH11.3um的相关；AGN中的[OI]可能需要用AGN的外流来解释
+  * The excess of H2 emission seen in AGN is produced by shocks due to AGN driven outflows and in the same clouds that produce the [OI] emission
