@@ -1020,7 +1020,7 @@
 * [Evolution of the Stellar Mass-Metallicity Relation. II. Constraints on Galactic Outflows from the Mg Abundances of Quiescent Galaxies](https://arxiv.org/abs/1909.11680)
   * **Relevant**
   * 观测z=0.4, 0.5两个星系团里的星系，做全谱拟合
-  * The mass-[Fe/H] relation at higher redshift has lower normalization and possibly steeper slope. 
+  * The mass-[Fe/H] relation at higher redshift has lower normalization and possibly steeper slope.
   * 但质量和[Mg/H]的观测则无显著演化; 用来限制SF引起的外流的mass-loading factor
 
 * [The low density and magnetization of a massive galaxy halo exposed by a fast radio burst](https://arxiv.org/abs/1909.11681)
@@ -1034,3 +1034,40 @@
 * [Active Galactic Nuclei Winds as the Origin of the H2 Emission Excess in Nearby Galaxies](https://arxiv.org/abs/1909.11742)
   * 近邻星系的Spitzer观测中看到的[OI]6300 emission-line flux and kinematics and the H2 S(3)9.665um/PAH11.3um的相关；AGN中的[OI]可能需要用AGN的外流来解释
   * The excess of H2 emission seen in AGN is produced by shocks due to AGN driven outflows and in the same clouds that produce the [OI] emission
+
+----
+
+### Sep 29
+
+* [Thermal Regulation and the Star-Forming Main Sequence](https://arxiv.org/abs/1909.12303)
+  * 模型：star formation is regulated by a combination of a temperature-dependent initial mass function and heating due to starlight, cosmic rays and, at very high redshift, the cosmic microwave background.
+  * 认为有可能高红移星系的M/L和质量被高估了
+
+* [Quasars as standard candles II: The non linear relation between UV and X-ray emission at high redshifts](https://arxiv.org/abs/1909.12309)
+  * 4< z <7 QSO里的X-ray和UV光度关系：We find that the relation shows no evidence for evolution with redshift
+
+* [The SAMI Galaxy Survey: First detection of a transition in spin orientation with respect to cosmic filaments in the stellar kinematics of galaxies](https://arxiv.org/abs/1909.12371)
+  * 在GAMA field里确认了一个三维的大尺度filament，看附近的星系的spin与filament是否align
+  * Low-mass galaxies align their spin with their nearest filament while higher mass counterparts are more likely to display an orthogonal orientation. 和Horizon模拟预测得一致
+
+* [Color dependence of clustering of massive galaxies at 0.5≤z≤2.5: similar spatial distributions between green valley galaxies and AGN](https://arxiv.org/abs/1909.12463)
+  * COSMOS/UltraVISTA星系：UV red星系成团度更高
+
+* [The Two-sided Jet Structures of NGC 1052 at Scales from 300 to 4×107 Schwarzschild Radii](https://arxiv.org/abs/1909.12510)
+  * The jet-width profile of receding jets are apparently consistent with that of approaching jets throughout the measuring distance ranges
+  * Jet的结构在10000 Rs的地方有从cylindrical到conical的转变
+
+* [A dense, solar metallicity ISM in the z=4.2 dusty star-forming galaxy SPT0418-47](https://arxiv.org/abs/1909.12554)
+  * [OI]和[CII]线的观测：ISM is dominated by photo-dissociation regions with high gas densities 因为 [OI]/[CII]线比值很高
+  * [OIII]和[NII]线的观测说明ISM丰度已经不低了
+
+* [An insight into the extragalactic transient and variable microJy radio sky across multiple decades](https://arxiv.org/abs/1909.12588)
+  * mJy光度上，射电星系光变很少，只有3%有显著光变，大部分都是AGN
+  * 但是在< mJy流量上，开始变成恒星形成和radui quiet AGN主导；VLA监测GOODS-N里面480个射电源22年，10个有显著的光变，也应该是AGN相关
+
+* [Dust emissivity and absorption cross section in DustPedia late-type galaxies](https://arxiv.org/abs/1909.12692)
+  * 看high Galactic latitude cirrus的FIR和Submm性质和近邻晚型星系的尘埃性质是否类似。能否用银河系的尘埃作为模板去得到河外星系的尘埃质量; 主要看250微米的尘埃emissivity，以及推导出的单位H原子和单位尘埃质量的吸收截面
+  * When the standard emission properties of Galactic cirrus are used for these galaxies, their dust masses might be underestimated by up to a factor of two 
+
+* [Do bulges stop stars forming?](https://arxiv.org/abs/1909.12715)
+  * bulges may reduce the star-formation efficiency in galaxies but there must also be some other process at work
