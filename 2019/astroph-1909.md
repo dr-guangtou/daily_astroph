@@ -1067,7 +1067,42 @@
 
 * [Dust emissivity and absorption cross section in DustPedia late-type galaxies](https://arxiv.org/abs/1909.12692)
   * 看high Galactic latitude cirrus的FIR和Submm性质和近邻晚型星系的尘埃性质是否类似。能否用银河系的尘埃作为模板去得到河外星系的尘埃质量; 主要看250微米的尘埃emissivity，以及推导出的单位H原子和单位尘埃质量的吸收截面
-  * When the standard emission properties of Galactic cirrus are used for these galaxies, their dust masses might be underestimated by up to a factor of two 
+  * When the standard emission properties of Galactic cirrus are used for these galaxies, their dust masses might be underestimated by up to a factor of two
 
 * [Do bulges stop stars forming?](https://arxiv.org/abs/1909.12715)
   * bulges may reduce the star-formation efficiency in galaxies but there must also be some other process at work
+
+----
+
+### Sep 29
+
+* [Quantifying the effect of black hole feedback from the central galaxy on the satellite populations of groups and clusters](https://arxiv.org/abs/1909.12841)
+  * At fixed halo mass, we find an enhanced fraction of quiescent satellite galaxies and a hotter X-ray intragroup and intracluster medium in those groups and clusters hosting more massive black holes in their centers: 仍然有同样的scatter的问题
+
+* [Cool-Core Cycles and Phoenix](https://arxiv.org/abs/1909.12841)
+  * **Relevant, Interesting**
+  * Phoenix的SFR很高，500Msun/yr，对于一个2x10^15 Msun的cluster有些过高了；也许是因为AGN能量不够，或者也许黑洞质量还小
+  * 本文指出，也有可能是这种超强的cooling和SF是AGN feedback loop的一部分; 目前只是AGN还没有来得及停止cooling而已
+
+* [Stellar population and structural properties of dwarf galaxies and young stellar systems in the M81 group](https://arxiv.org/abs/1909.12997)
+  * HSC观测M81群，resolved stellar population到TRGB 2 mag以下
+  * The luminosity functions of young stellar systems in the outlying tidal HI debris imply continuous star formation in the recent past and the existence of populations as young as 30 Myr old.
+
+* [A correlation between [O III] line property and X-ray spectral complexity in narrow-line Seyfert 1 galaxies?](https://arxiv.org/abs/1909.13242)
+  * We propose a possible correlation between [O III] line asymmetry and X-ray complexity
+  * Furthermore, this outflow scenario seems to be an inclination effect. Since the speed of the wind is higher in a small inclination while lower in a large inclination, S-NLS1s might be sources viewed at small angles while C-NLS1s might be sources viewed at large angles.
+
+* [Understanding the Discrepancy between IRX and Balmer Decrement in Tracing Galaxy Dust Attenuation](https://arxiv.org/abs/1909.13505)
+  * While at fixed Hα/Hβ, IRX turns out to be independent on galaxy stellar mass, the Balmer decrement does show a strong mass dependence at fixed IRX.
+  * 这两种方法得到的尘埃消光的比值和sSFR以及星系大小有相关: an enhanced fraction of intermediate-age stellar populations that are less attenuated by dust than the HII region-traced young population, in conjunction with a decreasing dust opacity of the diffuse ISM when spreading over a larger spatial extent
+
+* [Truth or delusion? A possible gravitational lensing interpretation of the ultra-luminous quasar SDSS J010013.02+280225.8 at z=6.30](https://arxiv.org/abs/1909.13512)
+  * z=6.3的超级QSO：We find that the continuum emission of J0100+2802 is resolved into a quadruple system 可能是merger或者是强引力透镜成像，而具体是那种可以对黑洞质量有显著影响
+
+* [Hawaii Two-0: High-redshift galaxy clustering and bias](https://arxiv.org/abs/1909.13854)
+  * HSC+COSMOS数据：We measure the angular auto-power spectra of the galaxy overdensity in three redshift bins, defined by dropouts from the g-, r- and i-bands, and compare them to the theoretical expectation from concordance cosmology with linear galaxy bias.
+
+* [HIKER: a halo-finding method based on kernel-shift algorithm](https://arxiv.org/abs/1909.133301)
+  * **Interesting**
+  * 借鉴了一些机器学习的技术：the mean-shift algorithm combined with the Plummer kernel function, to effectively locate density peaks corresponding to halos/subhalos in density field
+  * HIKER has higher accuracy in locating halo/subhalo centres than most halo finders.
