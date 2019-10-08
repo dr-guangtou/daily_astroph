@@ -130,3 +130,81 @@
 
 * [Astroinformatics based search for globular clusters in the Fornax Deep Survey](https://arxiv.org/abs/1909.01884)
   * We use a Neural-Gas model, a pure clustering machine learning methodology, to approach the GC detection, while a novel feature selection method (ΦLAB) is exploited to perform the parameter space analysis and optimization.
+
+----
+
+### Oct 7
+
+* [Detecting the halo heating from AGN feedback with ALMA](https://arxiv.org/abs/1909.02088)
+  * 用ALMA观测SZ效应来研究AGN对CGM的加热: We obtain a marginal S-Z detection (~3.3σ) on scales of about 300 kpc (30-40 arcsec), at the 0.2 mJy level
+  * We emphasise that detecting an SZ signal is more easily achieved in the visibility plane than in the (inferred) images
+
+* [Nearly all Massive Quiescent Disk Galaxies have a Surprisingly Large Atomic Gas Reservoir](https://arxiv.org/abs/1909.02093)
+  * **Interesting**
+  * The vast majority of the massive, quiescent, central disk galaxies in the nearby Universe have a remarkably large amount of cold atomic hydrogen gas, surprisingly similar to star-forming galaxies
+  * Both star-forming and quiescent disk galaxies show identical symmetric double-horn HI spectra, indicating similar regularly rotating HI disks.
+
+* [A DECam View of the Diffuse Dwarf Galaxy Crater II: The Colour-Magnitude Diagram](https://arxiv.org/abs/1909.02143)
+  * The CMD shows only old stars with a clearly bifurcated subgiant branch (SGB) that feeds a narrow red giant branch.
+  * A mean age of 12.5 Gyr for the main event and a mean age of 10.5 Gyr for the brighter SGB
+
+* [HSC-XD 52: An X-ray detected AGN in a low-mass galaxy at z∼0.56](https://arxiv.org/abs/1909.02173)
+  * We present HSC-XD 52, a spectroscopically confirmed low-mass active galactic nucleus (AGN) at an intermediate redshift of z∼0.56; 作为明亮的X-ray源被探测到，恒星质量和LMC类似，黑洞质量在10^6 Msun量级
+  * HSC-XD 52 is among the most luminous X-ray selected AGN in dwarf galaxies
+
+* [The large-scale ionization cones in the Galaxy](https://arxiv.org/abs/1909.02225)
+  * 认为Magellanic stream的一部分的Halpha电离气体也是几百万年前银心Seyfert暴发的证据
+  * UV absorption line ratios (in particular CIV/CII, SiIV/SiII) observed by the Hubble Space Telescope reveal that some Stream clouds towards both galactic poles are highly ionized by a source capable of producing ionization energies up to at least 50 eV.
+  * We show how these are clouds caught in a beam of bipolar, radiative "ionization cones" from a Seyfert nucleus associated with Sgr A*
+  * For the Stream at such large Galactic distances (D >∼ 75 kpc), nuclear activity is a plausible explanation for all of the observed signatures: elevated Hα emission and H ionization fraction (xe >∼ 0.5), enhanced CIV/CII and Si IV/Si II ratios, and high CIV and Si IV column densities
+
+* [Two New "Turn-off" Changing-look Active Galactic nuclei and Implication on "Partially Obscured" AGNs](https://arxiv.org/abs/1909.02392)
+  * A spectroscopic identification of two new changing-look AGNs (CL-AGNs): SDSS\,J104705.16+544405.8 and SDSS\,J120447.91+170256.8 both with a "turn-off" type transition from type 1 to type 1.8/1.9.
+  * CL-AGNs tend to be biased against low Eddington ratio, and identify an overlap between the CL-AGNs at their dim state and the so-called intermediate-type AGNs
+
+* [The Seoul National University AGN monitoring project. II. BLR size and black hole mass of two AGNs](https://arxiv.org/abs/1909.02412)
+  * SAMP主要关注高光度AGN；~1000 days的light curves
+
+* [Highly Embedded 8 micron Cores of Star Formation in the Spiral Arms and Filaments of 15 Nearby Disk Galaxies](https://arxiv.org/abs/1909.02535)
+  * Spitzer观测近邻15个盘星系，通过unsharped mask技术可以找到很多8micron的dense core
+  * The larger galaxies, which tend to have longer and more regular spiral arms, often have their infrared cores aligned along these arms, with additional cores in spiral arm spurs
+  * The identified cores are the earliest phase for most star formation
+
+* [A Framework for Measuring Weak-Lensing Magnification Using the Fundamental Plane](https://arxiv.org/abs/1909.02906)
+  * **Interesting**
+  * Using the fundamental plane (FP) of elliptical galaxies to anchor the size distribution of a background population is one method that has been proposed for performing a magnification measurement. We present a formalism for using the FP residuals of elliptical galaxies to jointly estimate the foreground mass and background redshift errors for a stacked lens scenario.
+  * 放大效应只影响星系size，不影响其他参数；结合背景星系counts的测量可以得到更准确的前景质量的估计
+
+* [The Lyman continuum escape fraction and the Mean Free Path of hydrogen ionizing photons for bright z~4 QSOs from SDSS DR14](https://arxiv.org/abs/1909.02775)
+  * We calculate the Lyman Continuum (LyC) escape fraction as the flux ratio blue-ward (~900 A rest-frame) and red-ward (~930 A rest-frame) of the Lyman limit.
+  * We find a lower limit to the mean LyC escape fraction of 0.49, in agreement with the values obtained for both brighter and fainter sources at the same redshift.
+  * We show that the free paths of ionizing photons are characterized by a skewed distribution function peaked at low values, with an average of ~49-59 proper Mpc at z~4
+
+* [The Globular Cluster Population of NGC 1052-DF2: Evidence for Rotation](https://arxiv.org/abs/1909.02778)
+  * **Interesting**
+  * Here we present the discovery of such a signature of rotation in the kinematics of NGC 1052-DF2's globular clusters, with a velocity amplitude of ∼12.44+4.40−5.16 km/s
+  * This rotation is distinct from, and approximately perpendicular to, the recently identified rotation of the stellar component of NGC 1052-DF2
+
+* [Rotation Measure synthesis applied on synthetic SKA images of galaxy clusters](https://arxiv.org/abs/1909.02084)
+  * 看SKA1的RM测量能不能用来研究cluster中的磁场
+
+* [How to measure CMB spectral distortions with an imaging telescope](https://arxiv.org/abs/1909.02084)
+  * We propose the implementation of an imaging telescope in combination with an inter-frequency calibrator to measure the spectral shape of the microwave sky by exploiting the differences in the sky intensity between multiple pairs of frequency channels.
+  * PICO可以进行这样的测量，FIRAS可以得到10-sigma的测量
+
+* [Void Formation: Does the Void-in-Cloud Process Matter?](https://arxiv.org/abs/1909.02197)
+  * 在N-body模拟的LCDM宇宙里做Void统计：The number density of voids is found to be larger than the prediction of the analytical model up to 2 orders of magnitude below 1 Mpc/h scales
+  * The Press-Schechter model with the linear critical threshold of void {\delta}_v = -2.71, or a naive power law, is found to provide an excellent agreement with the void size function, suggesting that the void-in-cloud effect does not suppress as much voids as predicted
+  * We then measured the density and velocity profiles of small voids, and find that they are mostly partially collapsing underdensities, instead of being completely crushed in the standard void-in-cloud scenario
+
+* [Detectability of 21cm signal during the Epoch of Reionization with 21cm-Lyman-α emitter cross-correlation. III. Model dependence](https://arxiv.org/abs/1909.02361)
+  * Cross-correlation between the 21cm line and Lyman-α emitter (LAE) galaxies is a powerful tool to identify the 21cm signal since the 21cm line emission has correlation with LAEs while the LAEs are statistically independent of the foregrounds.
+  * 考虑了最新的HSC观测的LAE的光度函数和角相关
+
+* [A Measurement of the Degree Scale CMB B-mode Angular Power Spectrum with POLARBEAR](https://arxiv.org/abs/1909.02608)
+  * **Important**
+  * POLARBEAR, 670 degree; 150 GHz: We achieve 32μK-arcmin effective polarization map noise with a knee in sensitivity of ℓ=90, where the inflationary gravitational wave signal is expected to peak.
+  * We cross-correlate our data with Planck high frequency maps and find the low-ℓ B-mode power in the combined dataset to be consistent with thermal dust emission 
+
+* [The PAU Survey: Background light estimation with deep learning techniques](https://arxiv.org/abs/1909.02075)
+  * 主要是为了改正PAUCam的scatter light效应：This paper introduces BKGnet, a deep neural network to predict the background and its associated error
