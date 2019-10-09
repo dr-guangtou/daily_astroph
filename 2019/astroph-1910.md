@@ -204,7 +204,89 @@
 * [A Measurement of the Degree Scale CMB B-mode Angular Power Spectrum with POLARBEAR](https://arxiv.org/abs/1909.02608)
   * **Important**
   * POLARBEAR, 670 degree; 150 GHz: We achieve 32μK-arcmin effective polarization map noise with a knee in sensitivity of ℓ=90, where the inflationary gravitational wave signal is expected to peak.
-  * We cross-correlate our data with Planck high frequency maps and find the low-ℓ B-mode power in the combined dataset to be consistent with thermal dust emission 
+  * We cross-correlate our data with Planck high frequency maps and find the low-ℓ B-mode power in the combined dataset to be consistent with thermal dust emission
 
 * [The PAU Survey: Background light estimation with deep learning techniques](https://arxiv.org/abs/1909.02075)
   * 主要是为了改正PAUCam的scatter light效应：This paper introduces BKGnet, a deep neural network to predict the background and its associated error
+
+----
+
+### Oct 8
+
+* [The evolution of rest-frame UV properties, Lya EWs and the SFR-Stellar mass relation at z~2-6 for SC4K LAEs](https://arxiv.org/abs/1909.02959)
+  * LAE是UV挑选的高红移星系里最年轻和最缺乏尘埃的那部分
+  * EW_Lya>240 AA的星系很少； Overall, we measure little to no evolution of the Lya EW0 and scale length parameter (w0) which are consistently high from z=6 to z=2
+  * LAE的Lya逃逸比例都很高，和红移无关；但是低光度的低质量的LAE逃逸比例更高
+
+* [3D Distribution Map of HI Gas and Galaxies Around an Enormous Lyα Nebula and Three QSOs at z=2.3 Revealed by the HI Tomographic Mapping Technique](https://arxiv.org/abs/1909.02962)
+  * MAMMOTH1周围的IGM tomography: HI tomography map is reconstructed with HI Lyα forest absorption of bright background objects at z=2.4−2.9
+  * MAMMOTH1-QSO resides in a volume with significantly weak HI absorption
+  * MAMMOTH1-QSO has a proximity zone where quasar illuminates and photo-ionizes the surrounding HI gas and suppresses HI absorption, and that the ELAN is probably a photo-ionized cloud embedded in the cosmic web
+
+* [Understanding Lyman-alpha Nebulae at Low Redshift I: The Sizes, Powering, and Kinematics of "Green Bean" Galaxies](https://arxiv.org/abs/1909.02964)
+  * Our spectroscopic data show that low-z Lya nebulae have AGN-like emission line ratios, relatively narrow line widths (FWHM<1000 km s^{-1}) 发射线运动学和同红移的Type-2 AGN类似
+  * Low-z Lya nebulae appear to be a subset of Type 2 AGN with bluer optical continua and high [OIII] equivalent widths but with comparable sizes and similar [OIII] kinematics.
+
+* [Varstrometry for Off-nucleus and Dual sub-Kpc AGN (VODKA): How Well-centered Are Low-z AGN?](https://arxiv.org/abs/1909.02969)
+  * 用精确的天体测量学和AGN光变信息来找off-nucleus AGN: We find that Gaia DR2 already provides strong constraints on the projected off-nucleus distance in the sub-kpc regime at these redshifts: 99%, 90% and 40% of AGN must be well-centered to <1 kpc, <500 pc and <100 pc
+
+* [Hα Morphologies of Star Clusters: A LEGUS study of HII region evolution timescales and stochasticity in low mass clusters](https://arxiv.org/abs/1909.02983)
+  * 用年轻星团周围HII区的形态来反映产生星团的气体的性质
+  * 近邻3个旋涡星系中的700多个<10 Myr的年轻星团：Clusters are classified by their Hα morphology (concentrated, partially exposed, no-emission) and whether they have neighboring clusters (which could affect the clearing timescales).
+  * The median ages indicate a progression from concentrated (~3 Myr), to partially exposed (~4 Myr), to no Hα emission (>5Myr)
+  * Similarities in the age distributions for clusters with concentrated and partially exposed Hα morphologies imply a short timescale for gas clearing (<1Myr). 
+
+* [On the environment of Low Surface Brightness galaxies at different scales](https://arxiv.org/abs/1909.03078)
+  * **Relevant**
+  * We find a slight preference for LSB galaxies to be found in filaments instead of clusters, with their mean distance to the nearest filament typically larger than for high surface brightness (HSB) galaxies
+  * LSB central galaxies present more recent assembly times when compared with their HSB counterparts.
+  * LSB central的spin parameter也偏高
+
+* [Silicon and iron dust in gamma-ray burst host galaxy absorbers](https://arxiv.org/abs/1909.03207)
+  * The majority of our sample (87%) show featureless extinction curves and only vary in shape.
+  * However, we find no trend between the far-UV parameter of the extinction curve, c_4, and the abundance of Si and Fe in the dust phase. We, therefore, propose that the far-UV extinction could be a combined effect of small (probably nanoparticles) dust grains from various species.
+
+* [The evolution of baryonic mass function of galaxies to z=3](https://arxiv.org/abs/1909.03216)
+  * We find evidence that at log(Mbaryon/M⨀)>11.3, the BMF evolves little since z∼2.2
+  * The ratio between these two quanties, ρ˙baryon/ρ˙star, decreases from ρ˙baryon/ρ˙star∼2 at z∼2.5 to ρ˙baryon/ρ˙star<0.5 at z∼0.5, suggesting that massive galaxies are transforming from the "accretion dominated" phase to the "depletion dominated" phase from high−z to low−z
+
+* [Properties of LBGs with [OIII] detection at z ∼ 3.5: The importance of including nebular emission data in SED fitting](https://arxiv.org/abs/1909.03235)
+  * 利用CIGALE测试3.0< z < 3.8的LBG SED拟合：We find that without the nebular model, the fitting overestimates the stellar mass due to the strong [OIII] lines that are redshifted to the Ks-band, consistent with previous results.
+
+* [Evolution of compact groups from intermediate to final stages: A case study of the HI content of HCG 16](https://arxiv.org/abs/1909.03420)
+  * Despite the clear disruption of the HI component of HCG 16 we find that it is not globally HI deficient, even though HCG 16a and b have lost the majority of their HI and almost 50% of the group's HI is in the IGM
+  * This is expected to result in a collection of gas-poor galaxies embedded in a diffuse HI structure, which will gradually be evaporated by the UV background, resembling the final stage of the evolutionary model of compact groups
+
+* [Origin of Giant Stellar Clumps in High-Redshift Galaxies](https://arxiv.org/abs/1909.03443)
+  * **Interesting**
+  * 因为分辨率和投影效应，高红移SF clump的质量可能被高估了一个量级，大小也可以被高估几倍
+  * We find that most clumps of young stars present in a simulation at one time dissolve on a timescale shorter than ∼150 Myr. 大部分clump都不是bounded structure
+  * The observed clumps represent random projections of multiple smaller star-forming regions
+
+* [The Rotational Profiles of Cluster Galaxies](https://arxiv.org/abs/1909.03453)
+  * SDSS BAX的merger和non-merger cluster，以及部分有dumbbell形状的星系团的分析
+  * Merging stacks possess stronger core rotation at ≲0.5r200 primarily contributed by a red galaxy sub-population from relaxing core mergers, this is alongside high rotational velocities from blue galaxy sub-populations, until, they mix and homogenise with the red sub-populations at ∼r200, indicative of an infalling blue galaxy sub-population with interactive mixing between both sub-populations at ≳r200.
+
+* [A SCUBA-2 Selected Herschel-SPIRE Dropout and the Nature of this Population](https://arxiv.org/abs/1909.03512)
+  * **Interesting**
+  * NGP6_D1 is a bright 850 μm source (12.3 ± 2.5 mJy) with no counterparts at shorter wavelengths (a SPIRE dropout).
+  * 红移还是不知道：Template fitting suggests that NGP6_D1 is most likely between z=5.8 and 8.3.
+  * We discuss the nature of NGP6_D1 in the context of the broader submm population, and find that comparable SPIRE dropouts account for ∼ 20% of all SCUBA-2 detected sources,
+
+* [Azimuthal variations of oxygen abundance profiles in star-forming regions of of disc galaxies in the EAGLE simulations](https://arxiv.org/abs/1909.03540)
+  * The mean azimuthal variation in the EAGLE discs are ∼0.12±0.03 dex R−1eff for slopes and ∼0.12±0.03 dex for the zero points
+  * We find a slight trend for higher azimuthal variations in the disc components of low star-forming and bulge-dominated galaxies
+
+* [Investigating the Hubble Constant Tension -- Two Numbers in the Standard Cosmological Model](https://arxiv.org/abs/1909.03540)
+  * **Interesting**
+  * 强调了不应该单独看H0，而应该看H0-Om平面：Constraints along different degeneracy directions consistently overlap in one region of the space, with the exception of the local measurement from Cepheid variable-calibrated supernovae.
+  * The local measurement is the most outlying and therefore drives the bulk of the tension.
+
+* [Euclid: Reconstruction of Weak Lensing mass maps for non-Gaussianity studies](https://arxiv.org/abs/1909.03106)
+  * 为什么convergence map重要：While carrying the same information, the lensing signal is more compressed in the convergence maps than in the shear field, simplifying otherwise computationally expensive analyses, for instance non-Gaussianity studies.
+  * 改进了KS inversion method：a new mass inversion method (KS+) that aims to reduce the information loss during the mass inversion
+
+* [LEO-Py: Estimating likelihoods for correlated, censored, and uncertain data with given marginal distributions](https://arxiv.org/abs/1909.02958)
+  * **Useful**
+  * Data with uncertain, missing, censored, and correlated values are commonplace in many research fields including astronomy: I present a novel approach to compute the likelihood function for such data sets.
+  * This approach employs Gaussian copulas to decouple the correlation structure of variables and their marginal distributions resulting in a flexible method to compute likelihood functions of data in the presence of measurement uncertainty, censoring, and missing data.
