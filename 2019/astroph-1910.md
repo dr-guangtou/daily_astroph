@@ -290,3 +290,76 @@
   * **Useful**
   * Data with uncertain, missing, censored, and correlated values are commonplace in many research fields including astronomy: I present a novel approach to compute the likelihood function for such data sets.
   * This approach employs Gaussian copulas to decouple the correlation structure of variables and their marginal distributions resulting in a flexible method to compute likelihood functions of data in the presence of measurement uncertainty, censoring, and missing data.
+
+----
+
+### Oct 9
+
+* [MUSEQuBES: Calibrating the redshifts of Lyman-α emitters using stacked circumgalactic medium absorption profiles](https://arxiv.org/abs/1909.03593)
+  * Here we measure the average velocity offset for a sample of 96 z ~ 3.3 Ly\alpha emitters
+  * 利用附近QSO探测到的吸收线系统的平均速度来定LAE的真正红移，平均速度偏差在170km/s左右
+  * Voffset is correlated with the full width at half-maximum of the red peak of the Lya line, and anti-correlated with the rest-frame equivalent width. 和SFR也有关系
+
+* [Multi-wavelength properties of radio and machine-learning identified counterparts to submillimeter sources in S2COSMOS](https://arxiv.org/abs/1909.03596)
+  * We identify 1,222 optical/near-infrared(NIR)/radio counterparts to the 897 S2COSMOS submillimeter sources with S850>1.6mJy
+  * 多重matched更可能是物理相关的星系，而不是因为视线方向重合
+  * 用机器学习从射电数据里挑SMG：radio+machine-learning identified counterparts of SMGs have the highest star-formation rates and stellar masses. 从COSMOS field里面挑选大量SMG候选，这些都是小于ALMA现在的diffusion limit的。用这些SMG研究成团性，认为halo质量在10^13 Msun左右，意味着是现在大质量椭圆星系的前身。
+
+* [Constraining the scatter in the galaxy-halo connection at Milky Way masses](https://arxiv.org/abs/1909.03605)
+  * **Relevant, Interesting**
+  * Our first technique uses the small-scale cross-correlation of central galaxies with all lower mass galaxies. 这个测量对小质量星系中的卫星比例敏感
+  * The second technique uses the kurtosis of the distribution of line-of-sight velocities between central galaxies and neighboring galaxies 对固定恒星质量上，halo质量的分布敏感
+  * 对10^12 Msun的halo，固定halo质量上，stellar mass的scatter在0.4 dex左右
+  * This increase is only partly due to the scatter between Vpeak and Mh, and it represents an increase of nearly a factor of two relative to the values inferred from clustering and group studies at high masses.
+
+* [Chaotic cold accretion in giant elliptical galaxies heated by AGN cosmic rays](https://arxiv.org/abs/1909.03605)
+  * **Relevant**
+  * 3-D模拟AGN jet与考虑了磁场和宇宙线的CGM的相互作用: AGN在大尺度的feedback左右对小尺度上的等离子体物理很敏感
+  * 磁场可以阻止黑洞周围的cold gas disk的形成：local B-field amplification in the precipitating cold gas leads to strong magnetic breaking, which quickly extracts angular momentum from the accreting clouds; 原来的盘会变成纤维状气体，不会自由下落
+  * 引入宇宙线也很重要，可以阻止气体灾难性地冷却
+
+* [Leavers and remainers: Galaxies split by group-exit](https://arxiv.org/abs/1909.03618)
+  * 看掉进cluster里的group是如何演化的：tidal forces during their first pericentric passage are very efficient at breaking up groups, preferentially removing satellites at larger distances from their hosts
+  * We find satellites leave with high velocities, and quickly separate to large distances from their hosts, making their identification within the cluster population challenging
+  * 我们能在cluster里看到的sub-structure大部分都是第一次下落的
+
+* [Narrowband Hα imaging of nearby Wolf-Rayet galaxies](https://arxiv.org/abs/1909.03815)
+  * Sample galaxies have probably gone through a continuous star formation at least for 1 Gyr over which the recent (< 10 Myr) star formation has taken place in WR phase.
+
+* [CO Multi-line Imaging of Nearby Galaxies (COMING) IV. Overview of the Project](https://arxiv.org/abs/1909.03863)
+  * Nobeyama 45-m对147个星系的多条CO同位素 J=1=0线的巡天
+  * The fraction of the total molecular gas mass to the total stellar mass in galaxies does not depend on their Hubble types nor the existence of a galactic bar,
+
+* [The Effect of Bulge Mass on Bar Pattern Speed in Disk Galaxies](https://arxiv.org/abs/1909.03967)
+  * N-body模拟看孤立的盘星系中，核球质量如何影响棒的图样速度
+  * The rapid slowdown of Ωp is due to the larger angular momentum transfer from the disk to the bulge, and is due to interactions between stars at the inner resonances and those in the bar 质量越大的核球会导致棒的速度降低得越快
+
+* [Dark matter halo shapes in the Auriga simulations](https://arxiv.org/abs/1909.04045)
+  * **Relevant, Interesting**
+  * Hydro-sims让银河系量级的DM halo变得更圆了: At distances . 30 kpc, rounder dark matter distributions correlate with extended massive stellar discs and low core gas densities.
+  * In some cases the alignment significantly changes as a function of radius implying that the halo shape twists; this effect correlates with recently formed bulges and is almost absent in the dark matter only simulations.
+
+* [Simple interpolation functions for the galaxy-wide stellar initial mass function and its effects in early-type galaxies](https://arxiv.org/abs/1909.04119)
+  * **Relevant**
+  * 关于IGIMF的：the dependencies of the IGIMF on the SFR are translated into dependencies on more intuitive parameters like present-day luminosities in different passbands.
+  * The actual mass of the stellar populations of the most luminous ETGs may be up to two times higher than expected from an SSP-model with the canonical IMF
+
+* [X-ray properties of z>6.5 quasars](https://arxiv.org/abs/1909.04122)
+  * 2/9个z>6的QSO看到的X-ray探测。Photon-index和一般的QSO类似
+  * The X-ray-to-optical power-law slopes of the nine quasars are consistent with the previously observed anti-correlation of αox with UV luminosity L 2500A
+  * optical-xray slope没有看到红移演化
+
+* [The SPTpol Extended Cluster Survey](https://arxiv.org/abs/1909.04121)
+  * **Relevant**
+  * 2770 deg2 SPTpol Extended Cluster Survey (SPT-ECS)
+  * We have confirmed as clusters 244 of 266 candidates at a detection significance ξ≥5 and an additional 204 systems at 4<ξ<5.
+  * Median mass of M500c∼4.4×10^14M⊙, a median redshift of z=0.49
+  * 和redMaPPer比较，发现有不少cluster的central星系和SZ中心不一样
+  * We measure the optical richness-to-SZ-mass (λ−M) relation and find it to be 28% shallower than that from a weak-lensing analysis of the DES data---a difference significant at the 4 σ level---with the relations intersecting at λ=60
+
+* [Investigating the multiwavelength behaviour of the flat spectrum radio quasar CTA 102 during 2013-2017](https://arxiv.org/abs/1909.03609)
+  * Unprecedented γ-ray flaring activity was observed during 2016 November-2017 February, with four major outbursts
+  * These four γ-ray outbursts have corresponding events in the near-infrared, optical and UV bands, with the peaks observed at the same time.
+
+* [Growth of massive black holes at high-z via accretion predominantly driven by magnetic outflows](https://arxiv.org/abs/1909.03744)
+  * 高红移SMBH如何能持续增长：Most angular momentum and the released gravitational energy in the disk can be removed by magnetic outflows, and therefore the mass accretion rate of the black hole (BH) can be high even if the disk is radiating at sub-Eddington luminosity
