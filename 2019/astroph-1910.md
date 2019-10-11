@@ -234,7 +234,7 @@
   * 用年轻星团周围HII区的形态来反映产生星团的气体的性质
   * 近邻3个旋涡星系中的700多个<10 Myr的年轻星团：Clusters are classified by their Hα morphology (concentrated, partially exposed, no-emission) and whether they have neighboring clusters (which could affect the clearing timescales).
   * The median ages indicate a progression from concentrated (~3 Myr), to partially exposed (~4 Myr), to no Hα emission (>5Myr)
-  * Similarities in the age distributions for clusters with concentrated and partially exposed Hα morphologies imply a short timescale for gas clearing (<1Myr). 
+  * Similarities in the age distributions for clusters with concentrated and partially exposed Hα morphologies imply a short timescale for gas clearing (<1Myr).
 
 * [On the environment of Low Surface Brightness galaxies at different scales](https://arxiv.org/abs/1909.03078)
   * **Relevant**
@@ -363,3 +363,54 @@
 
 * [Growth of massive black holes at high-z via accretion predominantly driven by magnetic outflows](https://arxiv.org/abs/1909.03744)
   * 高红移SMBH如何能持续增长：Most angular momentum and the released gravitational energy in the disk can be removed by magnetic outflows, and therefore the mass accretion rate of the black hole (BH) can be high even if the disk is radiating at sub-Eddington luminosity
+
+----
+
+### Oct 10
+
+* [Galactic Winds in Low-Mass Galaxies](https://arxiv.org/abs/1909.04167)
+  * 用Halpha窄带在dwarf里找wind的证据：Winds are found preferentially in galaxies with centrally concentrated star formation, while fountains are found in galaxies with spatially distributed star formation
+  * 这些气体都不太会离开halo: Derived mass-loading factors range from 0.2-7 (with only a weak dependency on circular velocity or stellar mass)
+  * The sample is part of the panchromatic STARBurst IRegular Dwarf Survey - STARBIRDS - designed to characterize the starburst phenomenon in dwarf galaxies.
+
+* [A New Census of the 0.2 < z < 3.0 Universe, Part I: The Stellar Mass Function](https://arxiv.org/abs/1909.04168)
+  * **Important, Useful**
+  * 用Prospector SED拟合解决z=2以后SFR密度和恒星质量累积的差异问题
+  * We present the evolution of the galaxy stellar mass function using new mass measurements of ∼10^5 galaxies in the 3D-HST and COSMOS-2015 surveys.
+  * We construct a continuity model that directly fits for the redshift evolution of the mass function.
+  * The stellar mass density is ∼50% higher than previous measurements, with the offset peaking at z∼1.
+
+* [The Redshift Evolution of Rest-UV Spectroscopic Properties to z~5](https://arxiv.org/abs/1909.04179)
+  * We measure the equivalent widths of interstellar absorption features using stacked spectra in bins of Lyα equivalent width, and perform corrections to the strength of Lyα based on a model for the transmission of the intergalactic medium
+  * At the highest Lyα equivalent widths, we see evolution with increasing redshift towards greater Lyα emission strength at fixed low-ionization absorption strength. This evolution suggests a higher intrinsic production rate of Lyα photons at z ∼ 5 than at lower redshift.
+
+* [The Relationship Between Galaxy ISM and Circumgalactic Gas Metallicities](https://arxiv.org/abs/1909.04310)
+  * **Interesting**
+  * ISM and CGM metallicities for 25 absorption systems associated with isolated star-forming galaxies (hzi = 0.28) with 9.4≤log(M∗/M⊙)≤10.9 and with absorption detected within 200 kpc
+  * ISM丰度符合SF星系的质量-丰度关系；CGM metallicity shows no dependence with stellar mass and exhibits a scatter of ∼2 dex
+  * CGM和ISM比永远是更贫金属，平均差1.2 dex左右；CGM中也没有看到明显的金属丰度梯度；在和星系的指向上也没有明显关系
+  * We conclude that CGM is not well mixed, given the range of galaxy-CGM metallicities, and that metallicity at low redshift might not be a good tracer of CGM processes
+
+* [Serendipitous discovery of a physical binary quasar at z=1.76](https://arxiv.org/abs/1909.04502)
+  * The serendipitous discovery of a physical pair of quasars with an angular separation of ∆θ = (8.76±0.11) arcsec
+  * However, the two quasars show significantly different optical colours, one being among the most reddened quasars at z > 1.5 and the other with colours consistent with typical quasar colours at the same redshift
+
+* [The unusual ISM in Blue and Dusty Gas Rich Galaxies (BADGRS)](https://arxiv.org/abs/1909.04596)
+  * **Interesting**
+  * Herschel-ATLAS巡天发现了一群近邻的富尘埃的蓝星系；尘埃质量和恒星质量比在local Universe里是最高的
+  * We find very low CO brightnesses (Tp = 5−30 mK), despite the bright far-infrared emission and metallicities in the range 0.5 < Z/Z < 1.0.
+  * The BADGRS have lower molecular gas depletion timescales (τd ∼ 0.5 Gyr) than other local spirals, lying offset from the Kennicutt-Schmidt relation by a similar factor to Blue Compact Dwarf galaxies.
+  * 可能是尘埃的结构比较clumpy或者是尘埃不透明度不同，导致了富尘埃而缺乏CO气体
+
+* [The most luminous blue quasars at 3.0<z<3.3. I. A tale of two X-ray populations](https://arxiv.org/abs/1909.04604)
+  * 在X-ray和UV光度的关系上比较: About two thirds of the sources are clustered around the relation with a minimal scatter of 0.1 dex, while the remaining one third appear to be X-ray underluminous by factors of > 3–10.
+  * 可能导致比较高的弱X-ray的可能有：variability, mild X-ray obscuration, contamination from weak-line quasars and missed BALs
+
+* [Deficit of Luminous and Normal Red Galaxies in Cosmic Voids](https://arxiv.org/abs/1909.04750)
+  * 比较CMASS里的red星系和WiggleZ里的blue星系在大尺度结构wall和void里的分布
+  * We find that the number ratio of red-to-blue galaxies increases with distances from the void centers
+  * Void和Wall里的red以及blue population的平均颜色相似；两个环境的星系颜色差异是red星系的比例造成的
+
+* [Weak Lensing Minima and Peaks: Cosmological Constraints and the Impact of Baryons](https://arxiv.org/abs/1909.04171)
+  * Using the MassiveNuS simulations, we find that lensing minima are sensitive to non-Gaussian cosmological information and are complementary to the lensing power spectrum and peak counts.
+  * We explore the effect of baryonic processes on lensing minima and peaks using the hydrodynamical simulations BAHAMAS: ignoring baryonic effects would lead to strong (≈4σ) biases in inferences from peak counts, but negligible (≈0.5σ) for minimum counts
