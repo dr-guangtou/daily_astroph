@@ -414,3 +414,106 @@
 * [Weak Lensing Minima and Peaks: Cosmological Constraints and the Impact of Baryons](https://arxiv.org/abs/1909.04171)
   * Using the MassiveNuS simulations, we find that lensing minima are sensitive to non-Gaussian cosmological information and are complementary to the lensing power spectrum and peak counts.
   * We explore the effect of baryonic processes on lensing minima and peaks using the hydrodynamical simulations BAHAMAS: ignoring baryonic effects would lead to strong (≈4σ) biases in inferences from peak counts, but negligible (≈0.5σ) for minimum counts
+
+----
+
+### Oct 13
+
+* [Revealing the cosmic evolution of boxy/peanut-shaped bulges from HST COSMOS and SDSS](https://arxiv.org/abs/1909.04768)
+  * 看boxy/peanut核球的比例如何从z=1到0演化: 比例随时间显著增加，在z=1几乎没有
+  * we estimate that the true fraction of barred galaxies with B/P bulges increases from ∼10% at z≈1 to ∼70% at z=0
+  * B/P比例对质量依赖很强，
+
+* [The ALPINE-ALMA [C II] Survey: Star formation-driven outflows and circumgalactic enrichment in the early Universe](https://arxiv.org/abs/1909.04770)
+  * 4< z< 6的正常恒星形成星系的[CII]叠加，看feedback；通过叠加谱线的轮廓的high-velocity tail
+  * 叠加的线较宽，非Gauss；且在SFR高的group里面更明显
+  * 外流速率和SFR相近，mass loading factor高: star formation-driven feedback does not play a dominant role in quenching galaxies at z > 4
+  * [CII]气体延伸到30kpc，延展的富金属气体分布
+
+* [Bright Lyman~α emitters among {\it Spitzer} SMUVS galaxies in the MUSE/COSMOS field](https://arxiv.org/abs/1909.04771)
+  * 用MUSE在Spitzer SMUVS galaxies at z>2.9里面找LAE：14% 的z>3星系是LAE
+  * 47\% show a single line profile, 19\% present a double peak or a blue bump and 31\% show a red tail
+  * MUSE detected galaxies have generally lower extinction than SMUVS-only objects
+
+* [Improved constraints from ultra-faint dwarf galaxies on primordial black holes as dark matter](https://arxiv.org/abs/1909.04793)
+  * 在UFD里，如果有显著的<10Msun的PBH存在，会因为二体弛豫过程“加热”恒星成为，可以在系统速度弥散度和有效半径的关系上看出来：for a majority of UFDGs, dynamical heating by PBHs would be too efficient to match the observed stellar half-light radii
+
+* [Mass and star formation rate of the host galaxies of compact binary mergers across cosmic time](https://arxiv.org/abs/1909.04890)
+  * 利用population合成和EAGLE模拟看星系里各种compact object的binary merger rate：并合率在任何红移上都随质量升高，对双中子星并合尤其是
+
+* [Physical parameters of the torus for the type 2 Seyfert IC 5063 from mid-IR and X-ray simultaneous spectral fitting](https://arxiv.org/abs/1909.04912)
+  * The combination of the smooth torus models at mid-IR by Fritz et al. (2006) and at X-rays by Balokovi\'c et al. (2018), with the viewing and half-opening angles linked to the same value, is the best choice to fit the spectra at both wavelengths
+  * 同时拟合AGN的中红外连续谱以及X-ray的发射成分
+
+* [Multi-wavelength observations of the triple-peaked AGN Mrk 622](https://arxiv.org/abs/1909.04916)
+  * In the optical, the WHAN diagnostic diagrams show that the three nuclear peaks are strong active galactic nuclei 且有13年尺度上的光变探测
+
+* [Searching for Super-Eddington Quasars using a Photon Trapping Accretion Disc Model](https://arxiv.org/abs/1909.04916)
+  * 目前还不知道超爱丁顿吸积有多常见，是不是所有的QSO都经历
+  * 本文给出一个简单模型：a simplistic model for super-Eddington accretion flows -- an optically thick, geometrically thin accretion disc (AD) where the inner-most parts experience severe photon-trapping, which is enhanced with increased accretion rate 这个模型显著抑制了紫外和光学光子的数量: 光学巡天会缺失这些高光度类星体
+  * 可以用NIR，MIR颜色挑选
+
+* [Discovery of Metastable He I* λ10830 Mini-broad Absorption Lines and Very Narrow Paschen α Emission Lines in the ULIRG Quasar IRAS F11119+3257](https://arxiv.org/abs/1909.05068)
+  * 发现了和BAL伴随的unusual Paschen emission lines, and metastable He I* λ10830 absorption
+  * kpc尺度上的外流，伴随着一些高电离的发射线；质量外流速率在 300Msun/yr左右
+  * Pa_alpha线很特殊，只有窄线成分，可能来自高度尘埃遮蔽的SF, SFR>130Msun/yr
+
+* [A group finder algorithm optimised for the study of local galaxy environment](https://arxiv.org/abs/1909.05135)
+  * **Useful**
+  * FoF的缺点：clusters of point can be link with thin bridges which may not be desirable.
+  * 新的，针对小尺度结构的算法：TD-ENCLOSER is based on the kernel density estimation method which treats each galaxy, represented by a zero-dimensional particle, as a two-dimensional circular Gaussian.
+  * Outliers in under-dense regions are prevented from joining groups by a specified hard threshold, while outliers at the group edges are clipped below a soft (blurred) interior density level.
+
+* [SDSS-IV MaNGA: Complete census of massive slow-rotator early-type galaxy candidates and their environment in a volume-limited sample](https://arxiv.org/abs/1909.05136)
+  * **Relevant**
+  * 结合MaNGA运动学和SDSS形态研究kinematic morphology-density (kT-Σ) 
+  * 形态分类，half of all slow rotator candidates will be confirmed as fast rotators if stellar kinematics become available
+
+* [SDSS-IV MaNGA: New benchmark for the connection between stellar angular momentum and environment: a study of about 900 groups/clusters](https://arxiv.org/abs/1909.05139)
+  * **Relevant**
+  * We observe the kinematic morphology-density (kT-Σ) relation for each group and find an increasing fraction of massive slow rotators with increasing number density.
+  * We conclude that the (projected) number density relative to the cluster peak is more fundamental than the absolute number density in influencing the abundance of slow rotators.
+  * We find that the kT-Σ relation does exist at fixed stellar mass, and we rule out the hypothesis that the kT-Σ relation is a result of dynamical friction alone, instead arguing that massive slow rotators grow hierarchically in tandem with their host clusters.
+
+* [Recalibrating the Cosmic Star Formation History](https://arxiv.org/abs/1909.05220)
+  * 用BPASS模型去calibrate UV和IR的SFR indicator：These ultraviolet and thermal infrared coefficients are 0.15-0.2 dex higher than those widely utilised in the literature while the Hα coefficient is ∼0.35 dex larger
+  * 这些UV SFR improved agreement between the integrated cosmic star formation history and the in-situ measured stellar mass density as a function of redshift. 但和Halpha以及IR的有冲突
+
+* [Quasar and galaxy classification in Gaia Data Release 2](https://arxiv.org/abs/1909.05255)
+  * **Relevant, Interesting**
+  * 利用测光数据和Gaia天测数据，和一个GMM模型将Gaia G<14.5 objects分成恒星，QSO，和星系
+  * 需要考虑QSO和星系的相对稀少，最终的准确度一般 Not accounting for this expected low frequency of extragalactic objects (the class prior) would give both erroneously optimistic performance predictions and severely impure samples.
+  * Better classifications should be possible with the low resolution spectroscopy (BP/RP) planned for GDR3.
+
+* [Estimating Covariance Matrices for Two- and Three-Point Correlation Function Moments in Arbitrary Survey Geometries](https://arxiv.org/abs/1909.04764)
+  * **Study**
+  * We present configuration-space estimators for the auto- and cross-covariance of two- and three-point correlation functions (2PCF and 3PCF) in general survey geometries
+  * http://github.com/oliverphilcox/RascalC
+
+* [Mass Calibration of the CODEX Cluster Sample using SPIDERS Spectroscopy -- II. The X-ray Luminosity-Mass Relation](https://arxiv.org/abs/1909.04773)
+  * **Relevant**
+  * 基于member运动学的：X-ray luminosity--mass scaling relation on a sample of 344 CODEX clusters with z<0.66
+
+* [Precise Mass Determination of SPT-CL J2106-5844, the Most Massive Cluster at z>1](https://arxiv.org/abs/1909.04775)
+  * **Relevant**
+  * 基于ACS和WFC3的WL分析，星系团分成两个clump: The northwestern substructure coincides with the BCG and X-ray peak while the southeastern one agrees with the location of the number density peak.
+  * 一个并合星系团，总质量在10^15 Msun左右
+
+* [Multi-tracer extension of the halo model: probing quenching and conformity in eBOSS](https://arxiv.org/abs/1909.05095)
+  * **Study**
+  * Multi-Tracer Halo Occupation Distribution: https://www.roe.ac.uk/~salam/MTHOD/
+  * 同时拟合LRG，ELG，和QSO的halo性质: We detect \textsl{1-halo} conformity at more than 3σ statistical significance, while obtaining upper limit on \textsl{2-halo} conformity.
+  * Halo mass driven quenching successfully explains the behaviour in high density regions, but it fails to describe the quenching efficiency in low density regions
+
+* [KiDS+VIKING-450 and DES-Y1 combined: Mitigating baryon feedback uncertainty with COSEBIs](https://arxiv.org/abs/1909.05336)
+  * **Study, Interesting**
+  * Complete Orthogonal Sets of E/B-Integrals (COSEBIs) 联合对KiDS和DES-Y1进行shear分析
+  * With COSEBIs we isolate any B-modes which have a non-cosmic shear origin and demonstrate the robustness of our cosmological E-mode analysis as no significant B-modes are detected. 
+  * COSEBIs对小尺度上的非线性功率谱部分不敏感，所以也对重子物理过程的影响不敏感
+  * Adopting a flat ΛCDM model we find S8=0.755+0.019−0.021, which is in 3.2σ tension with the Planck Legacy analysis of the cosmic microwave background.
+
+* [The Impact of Light Polarization Effects on Weak Lensing Systematics](https://arxiv.org/abs/1909.05063)
+  * **Study**
+  * A fraction of the light observed from edge-on disk galaxies is polarized due to two physical effects: selective extinction by dust grains aligned with the magnetic field, and scattering of the anisotropic starlight field.
+  * This optical polarization produces both (a) a selection bias in favor of galaxies with specific orientations and (b) a polarization-dependent PSF.
+  * 针对WFIRST：we build toy models to obtain for the first time an estimate for the impact of polarization on PSF shapes and the impact of the selection bias due to the polarization effect on the measurement of the ellipticity used in shear measurements: We show that the systematic uncertainties in the ellipticity components are 7×10−5 and 1.1×10−4 due to the selection bias and PSF errors respectively
