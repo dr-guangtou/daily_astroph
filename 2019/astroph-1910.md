@@ -517,3 +517,80 @@
   * A fraction of the light observed from edge-on disk galaxies is polarized due to two physical effects: selective extinction by dust grains aligned with the magnetic field, and scattering of the anisotropic starlight field.
   * This optical polarization produces both (a) a selection bias in favor of galaxies with specific orientations and (b) a polarization-dependent PSF.
   * 针对WFIRST：we build toy models to obtain for the first time an estimate for the impact of polarization on PSF shapes and the impact of the selection bias due to the polarization effect on the measurement of the ellipticity used in shear measurements: We show that the systematic uncertainties in the ellipticity components are 7×10−5 and 1.1×10−4 due to the selection bias and PSF errors respectively
+
+----
+
+### Oct 14
+
+* [Instability of Supersonic Cold Streams Feeding Galaxies IV: Survival of Radiatively Cooling Streams](https://arxiv.org/abs/1909.05344)
+  * A key parameter in determining the fate of the streams is the ratio of the cooling time in the turbulent mixing layer which forms between the stream and the background following the onset of the instability, tcool, mix, to the time in which the mixing layer expands to the width of the stream in the non-radiative case, tshear.
+
+* [Massive Low Surface Brightness Galaxies in the EAGLE Simulation](https://arxiv.org/abs/1909.05345)
+  * **Relevant**
+  * Low surface brightness is strongly correlated with both galaxy angular momentum (low surface density) and low specific star formation rate (high M/L). 
+  * 大质量LSB星系更倾向于低密度环境，主要是因为LSB星系几乎不会是卫星星系
+  * Galaxies with the highest angular momentum are those that formed most of their stars recently from a gas reservoir corotating with a high-spin dark matter halo.
+  * 但EAGLE里最延展的LSB星系来自于merger
+
+* [First results from the Dragonfly Edge-on Galaxies Survey: Shaping the outer disc of NGC 4565 via accretion](https://arxiv.org/abs/1909.05358)
+  * **Relevant**
+  * Needle星系，面亮度能低到~32 mag/arcsec^2: We confirm the previously observed asymmetric disc truncation. 
+  * In addition, the sharp northwest truncation turns over to a shallower component that coincides with a fan-like feature seen to wrap around the northwest disc limb.
+  * Evidence for accretion-based outer disk growth in NGC 4565
+
+* [A BCG with offset cooling: is the AGN feedback cycle broken in A2495?](https://arxiv.org/abs/1909.05363)
+  * **Relevant**
+  * We find an offset of ∼ 6 kpc between the cluster BCG (MCG+02-58-021) and the peak of the X-ray emission, suggesting that the cooling process is not taking place on the central galaxy nucleus. 来自于ICM的“晃荡”
+  * 星系中心的dust mass在1.7x10^5 Msun左右; 根据尘埃-气体质量关系，可能有10^9的分子气体存在 
+  * X-ray图像上有两组ICM cavities, 其寿命差别符合中心cooling气体的自由下落时标: the AGN energy injection is able to sustain the feedback cycle, despite cooling being offset from the BCG nucleus.
+
+* [The effect of gas accretion on the radial gas metallicity profile of simulated galaxies](https://arxiv.org/abs/1909.05377)
+  * 基于EAGLE模拟: 气体吸积速率对于金属丰度梯度最为重要，吸积率越高，negative梯度越陡；比对恒星质量和SFR的依赖都高
+  * At fixed stellar mass, galaxies with more negative RMP slopes tend to have higher gas fractions and SFRs, while galaxies with lower gas fractions and SFRs tend to have flatter metallicity profiles within an effective radius.
+
+* [Using [CII] 158 micron Emission From Isolated ISM Phases as a Star-Formation Rate Indicator](https://arxiv.org/abs/1909.05416)
+  * We find that the [CII] emission originating in the neutral phase of the ISM does not exhibit a deficit with respect to the infrared luminosity and is therefore preferred over the [CII] emission originating in the ionized phase of the ISM as a star formation rate indicator for the normal star-forming galaxies included in this sample.
+
+* [The Arecibo L-band Feed Array Zone of Avoidance (ALFAZOA) Shallow Survey](https://arxiv.org/abs/1909.05431)
+  * 银河系“后面”的射点观测：detected 403 galaxies out to a recessional velocity of 12,000 km s−1, with an angular resolution of 3.4’
+  * 43% of the ALFAZOA Hi detections have at least one possible optical/NIR counterpart in the literature,
+
+* [Discovery of an Edge-on Galaxy with X-shaped Bi-cone --- SDSS J171359.00+333625.5](https://arxiv.org/abs/1909.05464)
+  * 有X-ray bi-cone外流的edgeo-on Sy2星系里看到了counter rotating的gas：可能是内部和外来气体的碰撞导致了显著的角动量损失，使得黑洞吸积加快
+  * We are probably witnessing the case where a great amount of gas in the disk is being efficiently accreted into the central black hole, and the AGN-driven galactic winds are blown out along the bi-cone
+  * O元素的运动学，包括旋转速度和速度弥散都和其他元素不一样
+
+* [Ultra-luminous quasars at redshift z>4.5 from SkyMapper](https://arxiv.org/abs/1909.05856)
+  * We find 92 candidates brighter than Rp = 18.2. Spectroscopic follow-up has revealed 21 quasars at z > 4 (16 of which are within z = [4.5, 5]), as well as several red quasars, BAL quasars and objects with unusual spectra
+
+* [The CALIFA view on stellar angular momentum across the Hubble sequence](https://arxiv.org/abs/1909.06236)
+  * 把slow-fast rotater的lambda参数用到所有CALIFA星系里：最fast rotater的大多数是大质量旋涡星系，Sb；多数在SFMS上
+  * 从Sc到Sd，lambda反而有下降，有些甚至还是slow rotater; irregular morphologies and/or face-on configurations
+  * 旋涡星系和S0的比较显示，fading不能简单的把旋涡星系变成S0
+
+* [Measurements of B-mode Polarization of the Cosmic Microwave Background from 500 Square Degrees of SPTpol Data](https://arxiv.org/abs/1909.05748)
+  * 比之前的面积大五倍，bandpower不确定下降了一倍：Data from both 95 and 150 GHz are used, allowing for three cross-spectra: 95 GHz x 95 GHz, 95 GHz x 150 GHz, and 150 GHz x 150 GHz
+  * B-mode power is detected at very high significance; An upper limit is set on the tensor-to-scalar ratio, r < 0.44
+  * We find the measured B-mode power is consistent with the Planck best-fit ΛCDM model predictions.
+
+* [Realistic systematic biases induced by residual intrinsic alignments in cosmic shear surveys](https://arxiv.org/abs/1909.05994)
+  * 为了Euclid考虑：模型里考虑了IA信号，但是Likelihood里只有cosmic shear
+  * Our results show that intrinsic alignments can cause substantial biases in cosmological parameters even if the coupling of galaxies to the ambient large is small
+  * We also correct the analytic expression for the Gaussian bias model and find that the biases induced by intrinsic alignments are not accurately recovered by the simple analytic model.
+
+* [Differentiable Strong Lensing: Uniting Gravity and Neural Nets through Differentiable Probabilistic Programming](https://arxiv.org/abs/1909.06157)
+  * **Study**
+  * 三种技术的综合使用，CNN + Automatic differentiation + Deep probabilistic programming languages; 也是用了VAE技术 
+  * It is possible to combine a deconvolutional deep neural network trained on galaxy images as source model with a fully-differentiable and exact implementation of the gravitational lensing physics in a single probabilistic model.
+  * 可以使用gradient based Hamiltonian MCMC sampling
+
+* [STRIDES: A 3.9 per cent measurement of the Hubble constant from the strongly lensed system DES J0408-5354](https://arxiv.org/abs/1909.06306)
+  * **Study**
+  * 系统里有两组不同红移的多重象：We combine the measured time delays, line-of-sight central velocity dispersion of the deflector, and statistically constrained external convergence with our lens models to estimate two cosmological distances.
+  * 得到了目前最为精确的single-lens H0测量，在74左右
+
+* [Spikey: A Search for Lensing Flares from SMBH Binaries](https://arxiv.org/abs/1909.05348)
+  * **Interesting**
+  * A supermassive black hole binary (SMBHB) can exhibit sharp lensing spikes 
+  * 对AGN的长期光变时标进行模拟，考虑两种相对论效应：the orbital relativistic Doppler boost and gravitational binary self-lensing
+  * 在Spikey，一个Kepler发现的AGN中，找到了可能的binary SMBH的证据：we find a model, consisting of a combination of Doppler modulation and a narrow symmetric lensing spike, consistent with an eccentric SMBH binary
