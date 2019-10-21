@@ -466,7 +466,7 @@
 
 * [SDSS-IV MaNGA: Complete census of massive slow-rotator early-type galaxy candidates and their environment in a volume-limited sample](https://arxiv.org/abs/1909.05136)
   * **Relevant**
-  * 结合MaNGA运动学和SDSS形态研究kinematic morphology-density (kT-Σ) 
+  * 结合MaNGA运动学和SDSS形态研究kinematic morphology-density (kT-Σ)
   * 形态分类，half of all slow rotator candidates will be confirmed as fast rotators if stellar kinematics become available
 
 * [SDSS-IV MaNGA: New benchmark for the connection between stellar angular momentum and environment: a study of about 900 groups/clusters](https://arxiv.org/abs/1909.05139)
@@ -508,7 +508,7 @@
 * [KiDS+VIKING-450 and DES-Y1 combined: Mitigating baryon feedback uncertainty with COSEBIs](https://arxiv.org/abs/1909.05336)
   * **Study, Interesting**
   * Complete Orthogonal Sets of E/B-Integrals (COSEBIs) 联合对KiDS和DES-Y1进行shear分析
-  * With COSEBIs we isolate any B-modes which have a non-cosmic shear origin and demonstrate the robustness of our cosmological E-mode analysis as no significant B-modes are detected. 
+  * With COSEBIs we isolate any B-modes which have a non-cosmic shear origin and demonstrate the robustness of our cosmological E-mode analysis as no significant B-modes are detected.
   * COSEBIs对小尺度上的非线性功率谱部分不敏感，所以也对重子物理过程的影响不敏感
   * Adopting a flat ΛCDM model we find S8=0.755+0.019−0.021, which is in 3.2σ tension with the Planck Legacy analysis of the cosmic microwave background.
 
@@ -527,21 +527,21 @@
 
 * [Massive Low Surface Brightness Galaxies in the EAGLE Simulation](https://arxiv.org/abs/1909.05345)
   * **Relevant**
-  * Low surface brightness is strongly correlated with both galaxy angular momentum (low surface density) and low specific star formation rate (high M/L). 
+  * Low surface brightness is strongly correlated with both galaxy angular momentum (low surface density) and low specific star formation rate (high M/L).
   * 大质量LSB星系更倾向于低密度环境，主要是因为LSB星系几乎不会是卫星星系
   * Galaxies with the highest angular momentum are those that formed most of their stars recently from a gas reservoir corotating with a high-spin dark matter halo.
   * 但EAGLE里最延展的LSB星系来自于merger
 
 * [First results from the Dragonfly Edge-on Galaxies Survey: Shaping the outer disc of NGC 4565 via accretion](https://arxiv.org/abs/1909.05358)
   * **Relevant**
-  * Needle星系，面亮度能低到~32 mag/arcsec^2: We confirm the previously observed asymmetric disc truncation. 
+  * Needle星系，面亮度能低到~32 mag/arcsec^2: We confirm the previously observed asymmetric disc truncation.
   * In addition, the sharp northwest truncation turns over to a shallower component that coincides with a fan-like feature seen to wrap around the northwest disc limb.
   * Evidence for accretion-based outer disk growth in NGC 4565
 
 * [A BCG with offset cooling: is the AGN feedback cycle broken in A2495?](https://arxiv.org/abs/1909.05363)
   * **Relevant**
   * We find an offset of ∼ 6 kpc between the cluster BCG (MCG+02-58-021) and the peak of the X-ray emission, suggesting that the cooling process is not taking place on the central galaxy nucleus. 来自于ICM的“晃荡”
-  * 星系中心的dust mass在1.7x10^5 Msun左右; 根据尘埃-气体质量关系，可能有10^9的分子气体存在 
+  * 星系中心的dust mass在1.7x10^5 Msun左右; 根据尘埃-气体质量关系，可能有10^9的分子气体存在
   * X-ray图像上有两组ICM cavities, 其寿命差别符合中心cooling气体的自由下落时标: the AGN energy injection is able to sustain the feedback cycle, despite cooling being offset from the BCG nucleus.
 
 * [The effect of gas accretion on the radial gas metallicity profile of simulated galaxies](https://arxiv.org/abs/1909.05377)
@@ -580,7 +580,7 @@
 
 * [Differentiable Strong Lensing: Uniting Gravity and Neural Nets through Differentiable Probabilistic Programming](https://arxiv.org/abs/1909.06157)
   * **Study**
-  * 三种技术的综合使用，CNN + Automatic differentiation + Deep probabilistic programming languages; 也是用了VAE技术 
+  * 三种技术的综合使用，CNN + Automatic differentiation + Deep probabilistic programming languages; 也是用了VAE技术
   * It is possible to combine a deconvolutional deep neural network trained on galaxy images as source model with a fully-differentiable and exact implementation of the gravitational lensing physics in a single probabilistic model.
   * 可以使用gradient based Hamiltonian MCMC sampling
 
@@ -591,6 +591,152 @@
 
 * [Spikey: A Search for Lensing Flares from SMBH Binaries](https://arxiv.org/abs/1909.05348)
   * **Interesting**
-  * A supermassive black hole binary (SMBHB) can exhibit sharp lensing spikes 
+  * A supermassive black hole binary (SMBHB) can exhibit sharp lensing spikes
   * 对AGN的长期光变时标进行模拟，考虑两种相对论效应：the orbital relativistic Doppler boost and gravitational binary self-lensing
   * 在Spikey，一个Kepler发现的AGN中，找到了可能的binary SMBH的证据：we find a model, consisting of a combination of Doppler modulation and a narrow symmetric lensing spike, consistent with an eccentric SMBH binary
+
+----
+
+### Oct 15
+
+* [The fate of the interstellar medium in early-type galaxies. I. First direct measurement of the timescale of dust removal](https://arxiv.org/abs/1909.06327)
+  * Select galaxies that demonstrate detectable amounts of dust and cold ISM coupled with a low current dust production rate. 然后看气体和尘埃如何随时间下降
+  * We discovered an exponential decline of the dust-to-stellar mass ratio with age, which we interpret as an evolutionary trend for the dust removal of these galaxies
+  * Dust removal timescale for such galaxies, with a result of τ = (2.5 ± 0.4) Gyr (the corresponding half-life time is (1.75 ± 0.25) Gyr). 和quenching的时标类似
+
+* [Predicting the global far-infrared SED of galaxies via machine learning techniques](https://arxiv.org/abs/1909.06330)
+  * 基于DustPedia和H-ATLAS数据：We propose a machine learning framework to predict the FIR fluxes from 14 UV–MIR broadband fluxes
+  * The galaxies for which we have UV–FIR observations can be used as a blueprint for galaxies that lack FIR data. This results in a ‘virtual FIR telescope’, which can be applied to large optical-MIR galaxy samples
+
+* [Stellar feedback sets the universal acceleration scale in galaxies](https://arxiv.org/abs/1909.06345)
+  * We show that the star formation efficiency, more correctly, scales with the gravitational acceleration
+  * It follows that the characteristic galactic acceleration g† corresponds to the acceleration scale above which SF is 'efficient' (and outflows `inefficient'), and so baryons inevitably dominate the mass.
+
+* [Multifrequency JVLA observations of the X-shaped radio galaxy in Abell 3670](https://arxiv.org/abs/1909.06568)
+  * We find that the wings are 20 Myr older than the lobes. We verified that the lobes and wings are aligned with the major and minor axes of the optical galaxy, respectively
+  * 黑洞质量可能在10^9 Msun量级; the jet-shell interaction model may best reproduce the observed properties of A3670：The gas of a stellar shell is responsible for the deflection of the jets, thus forming the wings
+
+* [The low-frequency properties of FR0 radio galaxies](https://arxiv.org/abs/1909.06618)
+  * FR0CAT, a sample formed by 104 FR0s at z<0.05: all but one of them are covered by the TGSS, and 43 of them are detected above a 5 sigma limit of 17.5 mJy.
+  * 没有延展发射的探测；All but eight FR0s have a flat or inverted spectral shape (alpha < 0.5) between 150 MHz and 1.4 GHz: this spectral behavior confirms the general paucity of optically thin extended emission
+  * ~75% of them have a convex spectrum, but with a smaller curvature than the more powerful gigahertz peaked-spectrum sources (GPS).
+
+* [Effects of Metallicity on High Mass X-ray Binary Formation](https://arxiv.org/abs/1909.06925)
+  * Our results suggest that HMXB production is enhanced at low metallicity, and consequently that HMXBs may have contributed significantly to the reheating of the early Universe
+
+* [The importance of magnification effects in galaxy-galaxy lensing](https://arxiv.org/abs/1909.06400)
+  * We find the magnification effect is strongest for steep galaxy luminosity functions and high redshifts.
+  * For a lens redshift of zd=0.83, a limiting magnitude of 22mag in the r-band and a source redshift of zs=0.99, we find that a magnification correction changes the shear profile up to 45% and the mass is biased by up to 55%.
+  * For medium-redshift galaxies the relative change in shear and mass is typically a few percent.
+
+* [A search for optical AGN variability in 35,000 low-mass galaxies with the Palomar Transient Factory](https://arxiv.org/abs/1909.06342)
+  * **Important**
+  * Palomar Transient Factory (PTF) R-band在35000个z<0.055的SDSS星系里找AGN引起的光变
+  * 找到了424个候选：we find no dependence of variability properties with black hole mass.
+
+----
+
+### Oct 16
+
+* [The nuclear disc of the Milky Way: Early formation, long quiescence, and starburst activity one billion years ago](https://arxiv.org/abs/1909.06968)
+  * 中心150pc的侧向盘：The bulk of its stars formed at least eight billion years ago
+  * 但后来quiescent了将近8Gyr，知道1Gyr之前开始SF，形成了约5%的质量，是非常剧烈的SF活动
+  * Our findings contradict the previously accepted paradigm of quasi-continuous star formation at the centre of the Milky Way. 可能银河系的bar直到最近才出现
+
+* [High-z dusty star-forming galaxies: a top-heavy initial mass function?](https://arxiv.org/abs/1909.06970)
+  * **Relevant**
+  * Exploiting the physical model by Cai et al. (2013) we argue that some excess can be understood in terms of a somewhat top-heavier IMF for proto-spheroidal galaxies compared to late-type galaxies.
+  * The IMF impact on the star formation history of galaxies is far less dramatic than suggested by these authors and extreme top-heavy IMFs are inconsistent with the data.
+
+* [The mass fraction of halo stars contributed by the disruption of globular clusters in the E-MOSAICS simulations](https://arxiv.org/abs/1909.06973)
+  * E-MOSAICS模拟银河系质量的星系：We find that a median of 2.3 and 0.3 per cent of the mass in halo field stars formed in clusters and GCs GC对halo的build up贡献不大
+  * We also determine the contributed halo mass fraction that would present signatures of light-element abundance variations considered to be unique to GCs, and find that clusters and GCs would contribute a median of 1.1 and 0.2 per cent
+
+* [The Stellar Population of Metal-Poor Galaxies at z ≈ 0.8 and the Evolution of the Mass-Metallicity Relation](https://arxiv.org/abs/1909.06975)
+  * 28个MP星系的IRAC观测：Combined with the Balmer-derived star formation rates (SFRs), these galaxies have average inverse SFR/M⋆ of ≈100 Myr
+  * Our mass-metallicity relation is lower at a given stellar mass than at z=0.1 by 0.27 dex. This demonstrates a strong evolution in the mass-metallicity relation
+  * 从z=0.8到z=0.1，小质量星系的金属丰度演化更快
+  * We examine whether the mass-metallicity relation has a secondary dependence on SFR, and statistically concluded that there is no strong secondary dependence for z≈0.8 low-mass galaxies.
+
+* [Half-mass radii of quiescent and star-forming galaxies evolve slowly from 0 < z < 2.5: implications for galaxy assembly histories](https://arxiv.org/abs/1909.06984)
+  * **Relevant**
+  * Galaxy color gradients at fixed mass evolve rapidly between z~2.5 and z~1, but remain roughly constant below z~1. 星系size evolution的程度比之前想象得更慢
+  * The half-mass radius evolution of quiescent galaxies is fully consistent with a model which uses observed minor merger rates to predict the increase in sizes due to the accretion of small galaxies. 但progenitor bias还可能有贡献，取决于minor merger的时标
+
+* [The cosmic evolution of the stellar mass-velocity dispersion relation of early-type galaxies](https://arxiv.org/abs/1909.06987)
+  * **Relevant**
+  * 用Hierarchical Bayesian拟合z<1.2的质量-速度弥散度关系; 和F-J关系类似
+  * Slope有轻微的红移演化; The intrinsic scatter in σ0 at given M∗ is ≃0.07 dex for the fiducial sample at z≲1.2
+  * The velocity dispersion of individual massive (M∗≳5×10^11M⊙) ETGs decreases with time while they evolve from z≈1 to z≈0.
+
+* [Deep learning predictions of galaxy merger stage and the importance of observational realism](https://arxiv.org/abs/1909.07031)
+  * Specifically, we compare the performance of CNNs trained with two types of galaxy images, stellar maps and dust-inclusive radiatively transferred image: 用基于模拟的mass map训练的模型在仿真图像上表现不好
+  * This result demonstrates that while colour can be exploited by colour-sensitive networks, it is not necessary to achieve high accuracy and so can be avoided if desired
+
+* [A new fitting concept for the robust determination of Sérsic model parameters](https://arxiv.org/abs/1909.07043)
+  * We present a fitting concept (iFIT) that permits a robust determination of the equivalent SL model for the general case of galaxies with imperfect SL profiles
+
+* [Mapping metallicity variations across nearby galaxy disks](https://arxiv.org/abs/1909.07190)
+  * PHANGS-MUSE, 看盘上角向的金属丰度分布变化: Across each galaxy, we find low (sigma=0.03-0.05 dex) scatter at any given radius, indicative of efficient mixing
+  * Regions with enhanced abundances have high ionization parameter, higher Halpha luminosity, lower Halpha velocity dispersion, younger star clusters and associated molecular gas clouds show higher molecular gas densities. 证明是被最新的SF增丰的
+  * Regions with reduced abundances show increased Halpha velocity dispersions, suggestive of mixing introducing more pristine material.
+
+* [Redshift inference from the combination of galaxy colors and clustering in a hierarchical Bayesian model − Application to realistic N-body simulations](https://arxiv.org/abs/1909.07127)
+  * **Study, Interesting**
+  * We find the incorporation of clustering information with photo-z’s to tighten the redshift posteriors, and to overcome biases in the prior that mimic those happening in spectroscopic samples
+
+* [Constraints on Cosmological Parameters from the 500 deg2 SPTpol Lensing Power Spectrum](https://arxiv.org/abs/1909.07157)
+  * Cosmological constraints based on the cosmic microwave background (CMB) lensing potential power spectrum measurement from the recent 500 deg2 SPTpol survey
+  * The cosmological constraints based on SPTpol and Planck lensing band powers are in good agreement when analysed alone and in combination with Planck full-sky primary CMB data.
+
+----
+
+### Oct 17
+
+* [The impact of the connectivity of the cosmic web on the physical properties of galaxies at its nodes](https://arxiv.org/abs/1909.08066)
+
+* [Forward modeling of galaxy kinematics in slitless spectroscopy](https://arxiv.org/abs/1909.07803)
+
+* [CHANG-ES XIV: Cosmic-ray propagation and magnetic field strengths in the radio halo of NGC 4631](https://arxiv.org/abs/1909.07588)
+
+* [Impact of X-rays on CO emission from high-z galaxies](https://arxiv.org/abs/1909.07550)
+
+* [Massive and old quiescent galaxies at high redshift](https://arxiv.org/abs/1909.07544)
+
+* [Testing Galaxy Formation Simulations with Damped Lyman-α Abundance and Metallicity Evolution](https://arxiv.org/abs/1909.07541)
+
+* [A Tip of the Red Giant Branch Distance to the Dark Matter Deficient Galaxy NGC 1052-DF4 from Deep Hubble Space Telescope Data](https://arxiv.org/abs/1909.07529)
+
+* [An ALMA survey of the SCUBA-2 CLS UDS field: Physical properties of 707 Sub-millimetre Galaxies](https://arxiv.org/abs/1909.07524)
+
+* [Large-scale structures in the ΛCDM Universe: network analysis and machine learning](https://arxiv.org/abs/1909.07868)
+
+* [Quantifying Suspiciousness Within Correlated Data Sets](https://arxiv.org/abs/1909.07820)
+
+* [Ellipticity of Brightest Cluster Galaxies as tracer of halo orientation and weak-lensing mass bias](https://arxiv.org/abs/1909.07664)
+
+* [Cross-correlation of the thermal Sunyaev-Zel'dovich effect and weak gravitational lensing: Planck and Subaru Hyper Suprime-Cam first-year data](https://arxiv.org/abs/1909.07526)
+
+----
+
+### Oct 20
+
+* [The Chandra COSMOS Legacy Survey: clustering dependence of Type 2 AGN on host galaxy properties](https://arxiv.org/abs/1909.08084)
+
+* [The galaxy's gas content regulated by the dark matter halo mass results in a super-linear MBH-M⋆ relation](https://arxiv.org/abs/1909.08114)
+
+* [An accurate strong lensing model of the Abell 2163 core](https://arxiv.org/abs/1909.08117)
+
+* [Dark-ages reionization and galaxy formation simulation -- XVIII. The high-redshift evolution of black holes and their host galaxies](https://arxiv.org/abs/1909.08124)
+
+* [The Impact of Wind Scalings on Stellar Growth and the Baryon Cycle in Cosmological Simulations](https://arxiv.org/abs/1909.08199)
+
+* [Shocked Narrow-Angle Tail Radio Galaxies: Simulations and Emissions](https://arxiv.org/abs/1909.08231)
+
+* [The WiggleZ Dark Energy Survey: Final Data Release and the Metallicity of UV-Luminous Galaxies](https://arxiv.org/abs/1909.08284)
+
+* [Deep GMRT 610 MHz Observations of the ELAIS N1 Field : Catalogue and Source Counts](https://arxiv.org/abs/1909.08355)
+
+* [Predicting fully self-consistent satellite richness, galaxy growth and starformation rates from the STastical sEmi-Empirical modeL STEEL](https://arxiv.org/abs/1909.08417)
+
+* [A Novel CMB Component Separation Method: Hierarchical Generalized Morphological Component Analysis](https://arxiv.org/abs/1909.08077)
