@@ -740,3 +740,57 @@
 * [Predicting fully self-consistent satellite richness, galaxy growth and starformation rates from the STastical sEmi-Empirical modeL STEEL](https://arxiv.org/abs/1909.08417)
 
 * [A Novel CMB Component Separation Method: Hierarchical Generalized Morphological Component Analysis](https://arxiv.org/abs/1909.08077)
+
+----
+
+### Oct 21
+
+* [Early-type galaxy density profiles from IllustrisTNG: II. Evolutionary trend of the total density profile](https://arxiv.org/abs/1909.08552)
+  * **Relevant**
+  * 总物质密度轮廓：We find that their γ steepen on average during z∼4−2, then becoming shallower until z=1, after which they remain almost constant
+  * Luminosity或者mass selected sample的轮廓基本是随着时间变平缓的
+  * Galaxies that transitioned to ETGs more recently have steeper mean slopes as they tend to be smaller and more compact at any given redshift
+  * Dissipation associated with rapid wet mergers tends to steepen γ′ from z=4 to z=2, whereas subsequent AGN feedback (especially in the kinetic mode) makes γ′ shallower again from z=2 to z=1.
+
+* [Subaru/HSC Machine Learning Survey for Extremely Metal-Poor Galaxies. I. A New Successful Approach for Identifying a Galaxy with M*<10^6 M_sun and 0.021 Z_sun](https://arxiv.org/abs/1909.08559)
+  * **Relevant**
+  * ML search of z<0.1 EMPGs: 找到一批candidates做follow up: find that the 10 EMPG candidates are star-forming galaxies at z=0.007-0.03 with large H_beta equivalent widths of 104-265 A
+  * Our metal-poor galaxies have small velocity dispersions of nebular gas (27.8-32.5 km/s) and are significantly located in the relatively isolated environment
+  * We spectroscopically confirm that 3 out of 10 candidates are truly EMPGs with Z/Z_sun<0.1
+
+* [Improved photometric redshifts with color-constrained galaxy templates for future wide-area surveys](https://arxiv.org/abs/1909.08588)
+  * color-cube-based template library
+
+* [The Mass-Metallicity Relation at z∼0.8: Redshift Evolution and Parameter Dependency](https://arxiv.org/abs/1909.08689)
+  * eBOSS的ELG研究质量-丰度关系：180,000 massive star-forming galaxies with 0.6< z <1.05 and 9 < log(M⋆/M⊙) <12.
+  * 叠加的光谱，发现比local的关系低：At a specified stellar mass, galaxies with higher SFR/sSFR and larger half-light radius have systematically lower metallicity.
+
+* [Kinematic signatures of reverberation mapping of close binaries of supermassive black holes in active galactic nuclei III. The case of elliptical orbits](https://arxiv.org/abs/1909.08709)
+  * Two-dimensional transfer functions (2DTF) 研究椭圆轨道上的SMBH binary: our results imply that using our 2DTF, we can detect and quantify kinematic signatures of elliptical SMBBH
+  * 光用line profile不行，需要2DTF：the calculated expected line profiles share some intriguing similarities with observed profiles, but also with some profiles that are synthesised in disc-wind models.
+
+* [Reverberation Measurements of the Inner Radii of the Dust Tori in Quasars](https://arxiv.org/abs/1909.08722)
+
+* [Cold dust and stellar emissions in dust-rich galaxies observed with ALMA: a challenge for SED-fitting techniques](https://arxiv.org/abs/1909.08722)
+  *
+
+* [Discovery of a large HI ring around the quiescent galaxy AGC 203001](https://arxiv.org/abs/1909.08794)
+  * **Interesting**
+  * GMRT发现的偏心，没有光学对应体的HI ring；和Leo ring很像: off-centered rings have been explained by a collision with an "intruder" galaxy leading to expanding density waves of gas and stars in the form of a ring
+
+* [An Analysis of the Shapes of Interstellar Extinction Curves. VII. Milky Way Spectrophotometric Optical-through-Ultraviolet Extinction and Its R-Dependence](https://arxiv.org/abs/1909.08852)
+  * **Important**
+
+* [A Kinematic Shift of C IV Broad Absorption Line in Quasar SDSS J120819.29+035559.4](https://arxiv.org/abs/1909.09411)
+  * The most likely cause for the equivalent width variations of the absorption lines (at least for sysetm B) in J1208+0355 is ionization change scenario as response to the changes in the ionization continuum
+
+* [The ALPINE-ALMA [CII] survey: Survey strategy, observations and sample properties of 118 star-forming galaxies at 4<z<6](https://arxiv.org/abs/1909.09517)
+
+* [Radio VLBA polarization and multi-band monitoring of the high-redshift quasar S5 0836+710 during a high activity period](https://arxiv.org/abs/1909.08568)
+  * Two major flares were detected, in 2015 August and November. In both episodes, the apparent isotropic gamma-ray luminosity exceeds 10^50 erg/s, with a doubling time scale of about 3 hours 可能与jet上向下游运动的一个superluminal knot有关
+  * The low variability observed in X-rays may indicate that X-ray emission is produced by the low-energy tail of the same electron population that produces the gamma-ray emission
+
+* [Numerical modelling of the lobes of radio galaxies in cluster environments -- IV. Remnant radio galaxies](https://arxiv.org/abs/1909.08928)
+  * By switching the jets off once the lobes have reached a certain length we can study how the energy distribution between the lobes and shocked intra-cluster medium compares to that of an active source
+  * We see that as a result of disturbed cluster gas beginning to settle back into the initial cluster potential, streams of dense gas are pushed along the jet axis behind the remnant lobes, causing them to rise out of the cluster faster than they would due to buoyancy.
+  * 也许可以解释为什么观测到的remnant radio星系很少
