@@ -794,3 +794,44 @@
   * By switching the jets off once the lobes have reached a certain length we can study how the energy distribution between the lobes and shocked intra-cluster medium compares to that of an active source
   * We see that as a result of disturbed cluster gas beginning to settle back into the initial cluster potential, streams of dense gas are pushed along the jet axis behind the remnant lobes, causing them to rise out of the cluster faster than they would due to buoyancy.
   * 也许可以解释为什么观测到的remnant radio星系很少
+
+----
+
+### Oct 22
+
+* [Early-type galaxy density profiles from IllustrisTNG: II. Evolutionary trend of the total density profile](https://arxiv.org/abs/1909.09552)
+  * **Important, Relevant**
+  * Emerge专门拟合ETG的演化：at fixed stellar mass ETGs populate more massive halos in agreement with lensing results
+  * The ETG stellar mass assembly is dominated by 'in-situ' star formation below a stellar mass of 3×10^11M⊙
+  * Lower mass ETGs show extended star formation towards low redshift in agreement with recent estimates from IFU surveys.
+  * More than 90 per cent of z≈2 'main sequence' galaxies with m∗>1010M⊙ evolve into present-day ETGs.
+
+* [Simple Yet Powerful: Hot Galactic Outflows Driven by Supernovae](https://arxiv.org/abs/1909.09554)
+  * 描述SN外流的重要参数：wind loading factors of energy \etaE, mass \etam, and metals \etaZ
+  * 高分辨的SNe模拟：hot outflows are much more powerful than the cool outflow; the properties of hot outflows are remarkably simple
+  * Hot outflows cannot escape dark matter halos with log Mhalo [M⊙]≳12. 在这个halo质量以上，质量-丰度关系变平，也许也反应了hot wind的作用
+
+* [Galactic outflow rates in the EAGLE simulations](https://arxiv.org/abs/1909.09566)
+  * 在SN反馈主导的低质量端：gas is removed from the interstellar medium (ISM) of central galaxies with a dimensionless mass loading factor that scales approximately with circular velocity
+  * 10^12 Msun以上的halo里，AGN反馈让mass loading factor出现了upturn
+  * 在低红移，被移除halo virial半径之外的气体比被从ISM中移除的多，说明有很多气体进入CGM
+  * EAGLE favours a scenario for stellar feedback where agreement with the galaxy stellar mass function is achieved by removing smaller amounts of gas from the ISM, but with galactic winds that then propagate and entrain ambient gas out to larger radii.
+
+* [Multiple populations in globular clusters and their parent galaxies](https://arxiv.org/abs/1909.09683)
+  * The 'chromosome map' diagram (ChM) proved a successful tool to identify and characterize multiple populations
+  * The ChM is a pseudo-color diagram used to identify and characterize stellar populations along the MS, RGB, or asymptotic giant branch (AGB) of GC: by using the mF275W − mF814W color, which is mostly sensitive to stellar populations with different helium abundance, and the CF275W,F336W,F438W=(mF275W − mF336W)−(mF336W − mF438W) pseudo color, which maximizes the separation among stellar populations with different nitrogen content
+
+* [Mapping electron temperature variations across a spiral arm in NGC 1672](https://arxiv.org/abs/1909.09815)
+  * MUSE观测：we measure the [N II]5755 auroral line in a sample of 80 HII region
+  * Discover systematic temperature variations as a function of distance perpendicular to the spiral arm: electron temperature is lowest on the spiral arm itself and highest on the downstream side. 最有可能的原因是金属丰度的角向变化
+
+* [The First Billion Years Project: Finding Infant Globular Clusters at z=6](https://arxiv.org/abs/1909.09815)
+  * 模拟在高红移发现两类substructure，重子比例高的可能是GC前身；第二类中恒星质量比例更高，可能是UFD
+  * Such infant GCs appear to be more massive and more abundant in massive host galaxies, indicating that the assembly of galaxies via mergers may play an important role in shaping up several GC-host scaling relations.
+
+* [Random fragmentation of turbulent molecular clouds lying in the central region of giant galaxies](https://arxiv.org/abs/1909.10010)
+  * 分子气体的turbulent的速度模式影响其碎裂：Gaussian distribution of the turbulent velocity, the IMFs are shallower in general compared to Salpeter mass function. On the contrary, a skewed distribution for turbulent velocity leads to an IMF which is much closer to Salpeter mass function.
+
+* [Metal-enriched Galaxies in the First ~1 Billion Years: Evidence of a Smooth Metallicity Evolution at z ~ 5](https://arxiv.org/abs/1909.10023)
+  * 基于DLA和sub-DLA测量的z>4.5的O, C, Si丰度测量：the metallicity evolution is smooth at z ~ 5, rather than showing a sudden decline at z > 4.7
+  * We also find that the [C/O] ratios for z ~ 5 DLAs are consistent with those of the very metal-poor DLAs. Additionally, using [C/O] and [Si/O] to constrain the nucleosynthesis models, we estimate that the probability distributions of the progenitor star masses for three relatively metal-poor DLAs are centered around 12 M_{\odot} to 17 M_{\odot}.
