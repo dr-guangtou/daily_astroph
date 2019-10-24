@@ -770,9 +770,14 @@
   * 光用line profile不行，需要2DTF：the calculated expected line profiles share some intriguing similarities with observed profiles, but also with some profiles that are synthesised in disc-wind models.
 
 * [Reverberation Measurements of the Inner Radii of the Dust Tori in Quasars](https://arxiv.org/abs/1909.08722)
+  * We found a delayed response of the K-band flux variation after the optical flux variation in 25 out of 31 targets,
+  * We found a strong correlation between the reverberation radius for the innermost dust torus and the optical luminosity over a range of approximately four orders of magnitude in luminosity
+  * 甚至可以用来做宇宙学距离测量？
 
 * [Cold dust and stellar emissions in dust-rich galaxies observed with ALMA: a challenge for SED-fitting techniques](https://arxiv.org/abs/1909.08722)
-  *
+  * The fit of the stellar continuum alone with the starburst attenuation law can only reproduce up to 50% of the total dust luminosity observed by Herschel and ALMA
+  * Shallow attenuation curves are needed for the galaxies whose cold dust distribution is very compact compared to starlight
+  * 只要能估计尘埃光度，SFR就比较靠谱；恒星质量估计深受消光率影响
 
 * [Discovery of a large HI ring around the quiescent galaxy AGC 203001](https://arxiv.org/abs/1909.08794)
   * **Interesting**
@@ -780,11 +785,16 @@
 
 * [An Analysis of the Shapes of Interstellar Extinction Curves. VII. Milky Way Spectrophotometric Optical-through-Ultraviolet Extinction and Its R-Dependence](https://arxiv.org/abs/1909.08852)
   * **Important**
+  * These curves are used to determine a new, internally consistent, NIR through UV Milky Way Mean Curve and to characterize how the shapes of the extinction curves depend on R(V )
+  * 尽管R(V)可以解释大部分消光曲线的变化，但仍有一些variance需要别的要素来解释
 
 * [A Kinematic Shift of C IV Broad Absorption Line in Quasar SDSS J120819.29+035559.4](https://arxiv.org/abs/1909.09411)
   * The most likely cause for the equivalent width variations of the absorption lines (at least for sysetm B) in J1208+0355 is ionization change scenario as response to the changes in the ionization continuum
 
 * [The ALPINE-ALMA [CII] survey: Survey strategy, observations and sample properties of 118 star-forming galaxies at 4<z<6](https://arxiv.org/abs/1909.09517)
+  * 观测高红移的“正常”SF星系：118 galaxies observed in the [CII]-158µm line and far Infrared (FIR) continuum emission in the period of rapid mass assembly, right after HI reionization ended, at redshifts 4 < z<6
+  * The overall detection rate in [CII] is 64%.
+  * 根据[CII]形态：40% mergers, 20% extended and dispersion dominated, 13% compact and 11% rotating discs, the remaining 16% being too faint to be classified
 
 * [Radio VLBA polarization and multi-band monitoring of the high-redshift quasar S5 0836+710 during a high activity period](https://arxiv.org/abs/1909.08568)
   * Two major flares were detected, in 2015 August and November. In both episodes, the apparent isotropic gamma-ray luminosity exceeds 10^50 erg/s, with a doubling time scale of about 3 hours 可能与jet上向下游运动的一个superluminal knot有关
@@ -835,3 +845,78 @@
 * [Metal-enriched Galaxies in the First ~1 Billion Years: Evidence of a Smooth Metallicity Evolution at z ~ 5](https://arxiv.org/abs/1909.10023)
   * 基于DLA和sub-DLA测量的z>4.5的O, C, Si丰度测量：the metallicity evolution is smooth at z ~ 5, rather than showing a sudden decline at z > 4.7
   * We also find that the [C/O] ratios for z ~ 5 DLAs are consistent with those of the very metal-poor DLAs. Additionally, using [C/O] and [Si/O] to constrain the nucleosynthesis models, we estimate that the probability distributions of the progenitor star masses for three relatively metal-poor DLAs are centered around 12 M_{\odot} to 17 M_{\odot}.
+
+----
+
+### Oct 24
+
+* [Alma Reveals A Gas-rich, Maximum-starburst In The Hyperluminous, Dust-obscured Quasar W0533-3401 AT z∼2.9](https://arxiv.org/abs/1909.10155)
+
+* [Reality or Mirage? Observational Test and Implications for the Claimed Extremely Magnified Quasar at z=6.3](https://arxiv.org/abs/1909.10155)
+  * 目前已知的最亮的z>6的Lensed QSO要求一个和观测不一致的LF
+  * If the claim is confirmed, it is very unlikely that all the remaining 51 sources in the SDSS sample are not magnified.
+  * The presence of additional extremely magnified sources in the sample would lower the requirement to ∼ 4%.
+
+* [Lessons from a blind study of simulated lenses: image reconstructions do not always reproduce true convergence](https://arxiv.org/abs/1909.10157)
+  * A systematic blind study of a sample of 15 simulated strong gravitational lenses from the EAGLE suite of hydrodynamic simulations. 用Free-form模拟
+  * Einstein radii are on average well recovered with a relative error of ∼5% for quads and ∼25% for doubles
+  * 但重构的质量分布总是too round and too shallow
+
+* [An Extremely Massive Quiescent Galaxy at z=3.493: Evidence of Insufficiently Rapid Quenching Mechanisms in Theoretical Models](https://arxiv.org/abs/1909.10158)
+  * **Relevant**
+  * 已知最大质量的z>3 quiescent星系：spectroscopically confirmed via the detection of Balmer absorption features in the H− and K−bands of Keck/MOSFIRE
+  * The star-formation history of this quiescent galaxy implies that it formed >1000 M⊙/yr for almost 0.5 Gyr beginning at z∼7.2
+  * 【现在没有恒星形成，不意味着就是quenched了】
+
+* [PS1-STRM: Neural network source classification and photometric redshift catalogue for PS1 3π DR1](https://arxiv.org/abs/1909.10167)
+  * **Useful**
+  * We quantify the parameter space coverage of our training data set, and flag extrapolation using self-organizing maps. 
+  * The final catalogue contains 2,902,054,648 objects. On our validation data set, for non-extrapolated sources, we achieve an overall classification accuracy of 98.1% for galaxies, 97.8% for stars, and 96.6% for quasars.
+
+* [Constraining black hole-galaxy scaling relations from the large-scale clustering of Active Galactic Nuclei and implied mean radiative efficiency](https://arxiv.org/abs/1909.10175)
+
+* [The most massive galaxies with large depleted cores: structural parameter relations and black hole masses](https://arxiv.org/abs/1909.10240)
+  * **Relevant**
+  * 从过往图像中找到12个large core星系：Using 28 “normal-core” (i.e., Rb < 0.5 kpc) galaxies and 1 “large-core” (i.e., Rb > 0.5 kpc) galaxy from the literature, we constructed a final sample of 41 core-Sersic galaxies 
+  * Our findings suggest that large-core galaxies harbour overmassive SMBHs (MBH & 10^10M⊙), considerably (∼ 3.7 − 15.6σ and ∼ 0.6 − 1.7σ) larger than expectations from the spheroid σ and L
+
+* [Resolving the Interstellar Medium in Ultraluminous Infrared QSO Hosts with ALMA](https://arxiv.org/abs/1909.10360)
+  * 8个z=0.06-0.19的IR QSO：All eight IR QSO hosts are clearly resolved in their CO molecular gas emission with a median source size of 3.2 kpc 
+  * 7个有3mm连续探测，结构比分子气体更加concentrated
+  * 大致可以分成三类：rotating gas disk with ordered velocity gradient, compact CO peak with disturbed velocity, and multiple CO distinct sources undergoing a merger
+  * We find an increasing trend between BH mass accretion rate and star formation rate (SFR) over three orders of magnitude in far-IR luminosity/SFR
+
+* [Spectral properties of quasars from Sloan Digital Sky Survey data release 14: The catalog](https://arxiv.org/abs/1909.10395)
+  * We noticed that strong Fe \textsc{ii} sources with large Balmer line width, and highly accreting sources with large MBH are rare in our sample
+
+* [Disk Growth and Quenching](https://arxiv.org/abs/1909.10446)
+  * The implied growth by a large factor of their angular momentum requires that the angular momentum of the inflowing gas fuelling star formation and disk growth must also secularly increase.
+  * We then propose that star formation in disks can cease (quench) once the accreted material (mainly atomic hydrogen) comes in with excessive angular momentum for sustaining an adequate radial flow
+
+* [Learning mid-IR emission spectra of polycyclic aromatic hydrocarbon populations from observations](https://arxiv.org/abs/1909.10450)
+  * **Useful**
+  * unsupervised learning技术：a method based on linear fitting and blind signal separation (BSS) for extracting representative spectra for a spectral data set
+  * 从ISO-SWS数据出提取出四组成分，可能和不同的PAH对应：Their main characteristics appear consistent with previous studies with populations dominated by cationic PAHs, neutral PAHs, evaporating VSGs, and large ionized PAHs, known as the PAHx population
+
+* [The Initial Mass Function of Lens Galaxies from Quasar Microlensing](https://arxiv.org/abs/1909.10509)
+  * **Interesting, Relevant**
+  * 通过QSO为引力透镜放大得到一个平均的恒星质量，不提前假设IMF
+  * 用这个估计来限制low-mass end slope以及low-mass cut-off
+  * We estimate values for the low-mass end slope of the IMF hα2i = −2.6 ± 0.9 (heavier than that of the Milky Way) and for the low-mass cutoff hMlowi = 0.13 ± 0.07
+
+* [The Gas-Star Formation Cycle in Nearby Star-Forming Galaxies I. Assessment of Multi-scale Variations](https://arxiv.org/abs/1909.10520)
+  * 
+
+* [Image Flux Ratios of Gravitationally Lensed HS 0810+2554 with High Resolution Infrared Imaging](https://arxiv.org/abs/1909.10561)
+  * Near simultaneous imaging using LMIRCam on the LBTI of the quadruply imaged lensed quasar HS 0810+2554 at wavelengths of 2.16, 3.7 and 4.78 μm with a Full Width Half Max (FWHM) spatial resolution of 0′′.13, 0′′.12 and 0′′.15
+  * 把最亮的两个相分解开了：The flux ratio of these two images (A/B) trends from 1.79 to 1.23 from 2.16 to 4.78 μm.
+  * The trend in flux ratio is consistent with the 2.16 μm flux originating from a small sized accretion disk in the quasar that experiences only microlensing. The excess flux above the contribution from the accretion disk at the two longer wavelengths originates from a larger sized region that experiences no microlensing.
+
+* [Hydrostatic mass estimates of massive galaxy clusters: a study with varying hydrodynamics flavours and non-thermal pressure support](https://arxiv.org/abs/1909.10217)
+  * 
+
+* [Euclid preparation: VI. Verifying the Performance of Cosmic Shear Experiments](https://arxiv.org/abs/1909.10521)
+  * **Study** 适合了解Euclid
+  * We quantify the impact of an imperfect correction for charge transfer inefficiency (CTI) and modelling uncertainties of the point spread function (PSF) for Euclid, and find that the biases introduced can be corrected to acceptable levels. 
+
+* [The Accuracy of Weak Lensing Simulations](https://arxiv.org/abs/1909.10625)
