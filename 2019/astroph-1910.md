@@ -1004,3 +1004,48 @@
 
 * [the dynamics of the analyzed NGC 300 HII regions are dominated by a combination of the pressure of the ionized gas and stellar winds](https://arxiv.org/abs/1910.11270)
   * MUSE+HST，识别单独的O-type star以及WR星，看恒星feedback对HII region的作用：The dynamics of the analyzed NGC 300 HII regions are dominated by a combination of the pressure of the ionized gas and stellar winds
+
+----
+
+### Oct 25
+
+* [Semi-analytic forecasts for JWST -- III. Intrinsic production efficiency of Lyman-continuum radiation](https://arxiv.org/abs/1910.11345)
+  * Lyman-continuum production efficiency, ξion, defined as the rate of production of ionizing photons divided by the intrinsic UV luminosity
+  * 看production rate of ionizing photons对什么SPS参数敏感: 双星模型产生的电离光子多一倍
+  * We find that UV-faint, low-mass galaxies have values of ξion about 0.25 dex higher than those of more massive galaxies, but find weak evolution with cosmic time
+
+* [Behaviour of the MgII 2798AA Line Over the Full Range of AGN Variability](https://arxiv.org/abs/1910.11364)
+  * MgII clearly does respond to the continuum. 但个体差异极大
+  * In 72% of the highly variable sample the behaviour of MgII corresponds with that of Hβ, with 26% of the objects showing large variations in both lines.
+  * 光变高的AGN的Eddington ratio低；MgII线轮廓不对称，而且有red和blue skewed的
+
+* [Galaxy And Mass Assembly (GAMA): Properties and evolution of red spiral galaxies](https://arxiv.org/abs/1910.11539)
+  * red-spiral和缓慢的，能移除气体和尘埃的环境效应有关
+  * Red spirals are on average 0.9 dex more massive, and reside in environments 2.6 times denser than their blue counterparts.
+  * For a small subsample of our spiral galaxies which are detected in HI, we find that the SFR of gas-rich red spiral galaxies is lower by ~1 dex than their blue counterparts.
+
+* [Dirt-cheap Gas Scaling Relations: Using Dust Absorption, Metallicity and Galaxy Size to Predict Gas Masses for Large Samples of Galaxies](https://arxiv.org/abs/1910.11542)
+  * **Useful**
+  * We find that dust attenuation, AV, of both the continuum and nebular emission, shows significant partial correlations with MH2, after controlling for the effect of star formation rate (SFR). 但和HI的相关要弱
+  * R50, shows significant partial correlations with both MH2 and MHI.
+  * A linear combination of {\AV} and metallicity (inferred from stellar mass) or {\AV} and R50, can estimate molecular gas masses within ∼2.5−3 times the observed masses 如果有SFR测量则会更好
+
+* [GASP XXIII: A jellyfish galaxy as an astrophysical laboratory of the baryonic cycle](https://arxiv.org/abs/1910.11622)
+  * 利用水母星系的多波段观测研究各种介质之间的相互作用：We show the similarities and differences of the spatial distributions of ionized gas, molecular gas and UV light, and argue that the mismatch on small scales (1kpc) is due to different stages of the star formation process.
+  * We propose that ISM heating due to interaction with the intracluster medium (either for mixing, thermal conduction or shocks) is responsible for the X-ray tail, the observed [OI]-excess and the lack of star formation in the northern part of the tail. 
+
+* [Weak Evolution of the Mass-metallicity Relation at Cosmic Dawn in the FirstLight Simulations](https://arxiv.org/abs/1910.11729)
+  * FirstLight database of cosmological simulations看z=5-8的质量-丰度关系演化
+  * 固定恒星质量上的丰度演化很弱，主要是因为气体比例没有变化；[OIII]/Hb是可以接受的丰度标识。
+
+* [The WISE Extended Source Catalogue (WXSC) I: The 100 Largest Galaxies](https://arxiv.org/abs/1910.11793)
+  * **Useful**
+  * 100 largest galaxies in the sky, including the Magellanic Clouds, Local Group galaxies M31 and M33, the Fornax and Virgo Galaxy Cluster giants
+  * The colors reveal a tight "sequence" that spans 5 magnitudes in W2-W3 color, ranging from early to late-types, and low to high star-forming activity. Departures from this sequence may reveal nuclear, starburst, and merging events.
+  * We introduce the 'pinwheel' diagram which depicts physical properties with respect to the median value observed for WISE galaxies in the local universe.
+
+* [Baryonic effects for weak lensing: I. Power spectrum and covariance matrix](https://arxiv.org/abs/1910.11357)
+  * **Important**
+  * Baryonic feedback effects lead to a suppression of the weak-lensing angular power spectrum on small scale
+  * 构建了针对Euclid的emulator：ignoring baryonic effects leads to a greater than 5σ bias on the cosmological parameters Ωm and σ8; 不考虑小尺度的影响会消除bias，但是会导致对参数的限制变差
+  * Ignoring baryonic effects on the covariance matrix does not significantly affect cosmological parameter estimates
