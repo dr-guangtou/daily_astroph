@@ -1007,7 +1007,7 @@
 
 ----
 
-### Oct 25
+### Oct 27
 
 * [Semi-analytic forecasts for JWST -- III. Intrinsic production efficiency of Lyman-continuum radiation](https://arxiv.org/abs/1910.11345)
   * Lyman-continuum production efficiency, ξion, defined as the rate of production of ionizing photons divided by the intrinsic UV luminosity
@@ -1049,3 +1049,40 @@
   * Baryonic feedback effects lead to a suppression of the weak-lensing angular power spectrum on small scale
   * 构建了针对Euclid的emulator：ignoring baryonic effects leads to a greater than 5σ bias on the cosmological parameters Ωm and σ8; 不考虑小尺度的影响会消除bias，但是会导致对参数的限制变差
   * Ignoring baryonic effects on the covariance matrix does not significantly affect cosmological parameter estimates
+
+----
+
+### Oct 28
+
+* [The mass relations between supermassive black holes and their host galaxies at 1<z<2 with HST-WFC3](https://arxiv.org/abs/1910.11875)
+
+* [Searching for z > 6.5 Analogs Near the Peak of Cosmic Star Formation](https://arxiv.org/abs/1910.11877)
+
+* [Surrogate modelling the Baryonic Universe I: The colour of star formation](https://arxiv.org/abs/1910.11883)
+  * **Interesting, Useful**
+  * Galaxpy, a new stellar population synthesis model
+  * 使用UM或者TNG的SFH：we show that physically-motivated SFH variations modify broad-band colours along a single direction in colour space: the SFH-direction.
+  * 星系当前的颜色在SFH方向上的投影主要是由过去1Gyr内形成的恒星主导的。
+  * 金属丰度，尘埃消光，星云发射线引起的变化是在另外的方向上
+
+* [The High-Redshift Clusters Occupied by Bent Radio AGN (COBRA) Survey: Follow-Up Optical Imaging](https://arxiv.org/abs/1910.11884)
+
+* [Cusp or core? Revisiting the globular cluster timing problem in Fornax](https://arxiv.org/abs/1910.11887)
+
+* [Jellyfish: Resolving the kinematics of extreme ram-pressure stripping at z∼0.3](https://arxiv.org/abs/1910.11898)
+
+* [To use or not to use synthetic stellar spectra in population synthesis models?](https://arxiv.org/abs/1910.11902)
+
+* [Secondary Infall in the Seyfert's Sextet: A Plausible Way Out of the Short Crossing Time Paradox](https://arxiv.org/abs/1910.12533)
+
+* [Diverse properties of Ly-alpha emission in low-redshift compact star-forming galaxies with extremely high [OIII]/[OII] ratios](https://arxiv.org/abs/1910.12773)
+
+* [NGC6240: A triple nucleus system in the advanced/final state of merging](https://arxiv.org/abs/1910.12813)
+
+* [Unveiling the cause of hybrid morphology radio sources (HyMoRS)](https://arxiv.org/abs/1910.12857)
+
+* [Like a spider in its web: a study of the Large Scale Structure around the Coma cluster](https://arxiv.org/abs/1910.11879)
+
+* [Caltech-NRAO Stripe 82 Survey (CNSS) Paper III: The First Radio-Discovered Tidal Disruption Event, CNSS J0019+00](https://arxiv.org/abs/1910.11912)
+
+* [Caltech-NRAO Stripe 82 Survey (CNSS) Paper III: The First Radio-Discovered Tidal Disruption Event, CNSS J0019+00](https://arxiv.org/abs/1910.11912)
