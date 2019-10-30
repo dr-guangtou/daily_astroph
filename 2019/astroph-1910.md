@@ -1055,8 +1055,15 @@
 ### Oct 28
 
 * [The mass relations between supermassive black holes and their host galaxies at 1<z<2 with HST-WFC3](https://arxiv.org/abs/1910.11875)
+  * 32 X-ray-selected broad-line (type-1) AGN at 1.2 < z < 1.7的HST图像做分解；Halpha宽线估计SMBH质量
+  * We find that the observed ratio of MBH to total M∗ is 2.7× larger at z ∼ 1.5 than in the local universe；但关系的scatter基本和当前一样
+  * Based on a statistical estimate of the bulge-to-total mass fraction, the ratio MBH/M∗,bulge is offset from the local value by a factor of ∼ 7
 
 * [Searching for z > 6.5 Analogs Near the Peak of Cosmic Star Formation](https://arxiv.org/abs/1910.11877)
+  * First statistical sample of restUV line measurements in z ∼ 2: [OIII]线宽度或者U-B颜色选的样本
+  * Lya和CIII]半禁线线宽比UV连续谱选的样本要宽。CIII]和[OIII]有很好的相关
+  * 在低金属丰度星系里，Lya和CIII]都有增强
+  * 有些源和z>6.5的一样，出现了很多紫外金属发射线：CIV, HeII, OIII等
 
 * [Surrogate modelling the Baryonic Universe I: The colour of star formation](https://arxiv.org/abs/1910.11883)
   * **Interesting, Useful**
@@ -1066,23 +1073,105 @@
   * 金属丰度，尘埃消光，星云发射线引起的变化是在另外的方向上
 
 * [The High-Redshift Clusters Occupied by Bent Radio AGN (COBRA) Survey: Follow-Up Optical Imaging](https://arxiv.org/abs/1910.11884)
+  * 高红移有bend-radio AGN的星系团的red-sequence确认: we identify 39 red sequence cluster
 
 * [Cusp or core? Revisiting the globular cluster timing problem in Fornax](https://arxiv.org/abs/1910.11887)
+  * **Interesting** 【能不能用dwarf有没有nuclei看DM inner profile？】
+  * GCs sink to the center of dark matter halos with a cuspy inner density profile but “stall” at roughly 1/3 of the core radius (rcore) in halos with constant-density cores: 动力学摩擦的作用
+  * GC是下沉到中心还是停在半路取决于GC的质量和轨道: are essentially the same for either cuspy (NFW) or cored halos normalized to have the same total mass within rcore
+  * GCs do not truly “stall” at ∼ 0.3rcore, but rather continue decaying toward the center, albeit at reduced rates.
 
 * [Jellyfish: Resolving the kinematics of extreme ram-pressure stripping at z∼0.3](https://arxiv.org/abs/1910.11898)
+  * Fast-moving member of the equal-mass merger A1758N (z = 0.28) 恒星形成率很高
+  * 没发现AGN活动，不排除AGN还深埋尘埃之中
 
 * [To use or not to use synthetic stellar spectra in population synthesis models?](https://arxiv.org/abs/1910.11902)
+  * **Relevant, Interesting**
+  * Empirical libraries suffer from limited coverage of parameter space, while synthetic libraries suffer from modelling inaccuracies.
+  * Predicted colours are more affected by the coverage effect than the choice of a synthetic vs. empirical library;
+  * The effects on predicted spectral indices are multiple and defy simple conclusions
+  * Metallicities are robust against limited HRD coverage, but are underestimated when using synthetic libraries.
 
 * [Secondary Infall in the Seyfert's Sextet: A Plausible Way Out of the Short Crossing Time Paradox](https://arxiv.org/abs/1910.12533)
+  * CALIFA的研究：We suggest that after the first turn-around, initially gas-rich galaxies crossed for the first time, consuming most of their gas 第二次turn around以后，大部分参与并合的星系都缺乏气体了，只有那些第一次进入的还富气体
+  * Strong Balmer absorption lines and the presence of counter-rotating disks provide independent bounds to the second and first crossing
 
 * [Diverse properties of Ly-alpha emission in low-redshift compact star-forming galaxies with extremely high [OIII]/[OII] ratios](https://arxiv.org/abs/1910.12773)
+  * 低红移，低O/H星系， O32 = [O iii]λ5007/[O ii]λ3727 ∼ 22 – 39
+  * Lya发射线性质多样：5个有很宽的Lya线；剩下的3个Lya弱，且发射线叠加在吸收上，说明HI柱密度很高
+  * O32比值和Lya逃逸没有关系；Lya peak separation和Lya逃逸有关系，但不紧致。
 
 * [NGC6240: A triple nucleus system in the advanced/final state of merging](https://arxiv.org/abs/1910.12813)
+  * MUSE Narrow-Field+AO, 0.49" seeing: We report the discovery of three nuclei in the final state of merging within a region of only 1 kpc in the NGC 6240 system
+  *  Triple massive black hole systems might be of fundamental importance for the coalescence of massive black hole binaries in less than a Hubble time leading to the loudest sources of gravitational waves in the mHz regime.
 
 * [Unveiling the cause of hybrid morphology radio sources (HyMoRS)](https://arxiv.org/abs/1910.12857)
 
 * [Like a spider in its web: a study of the Large Scale Structure around the Coma cluster](https://arxiv.org/abs/1910.11879)
+  * **Relevant**
+  * DisPerSE分析Coma附近75Mpc的SDSS主样本: We find that the Coma cluster has a median connectivity of 2.5, in agreement with measurements from clusters of similar mass in the literature
+  * The location of these filaments in the vicinity of Coma is consistent with features detected in the X-ray, as well as the likely direction of infall of galaxies 
+  * **Connectivity**: It is a measurement of the number of filaments connected to galaxy clusters and it is known to scale with cluster/group mass (Sarron et al. 2019; Darragh-Ford et al. 2019)
 
 * [Caltech-NRAO Stripe 82 Survey (CNSS) Paper III: The First Radio-Discovered Tidal Disruption Event, CNSS J0019+00](https://arxiv.org/abs/1910.11912)
+  * VLA进行的CNSS中发现的一个radio transient，turn-on time < 1 yr, 在一个S0星系中心，应该是TDE
+  * 有超过15000km/s速度的外流; 没有明显的X-ray发射或者光学辐射，可能是因为follow up的晚了
+  * 给出了一个radio TDE rate的限制：10个每Gpc^3每年
 
-* [Caltech-NRAO Stripe 82 Survey (CNSS) Paper III: The First Radio-Discovered Tidal Disruption Event, CNSS J0019+00](https://arxiv.org/abs/1910.11912)
+----
+
+### Oct 29
+
+* [On the Mass Assembly History of the Local Group](https://arxiv.org/abs/1910.12865)
+  * 对LG类似的group的模拟，并合LCDM宇宙学模拟比较：the median constrained merging histories for M31 and MW live above the standard ones at the 1-σ level
+  * These results suggest that the particular environment in which the Milky Way and Andromeda form plays a role in shaping their properties, and favours earlier formation and last major merger time values
+
+* [Multi-resolution filtering: an empirical method for isolating faint, extended emission in Dragonfly data and other low resolution images](https://arxiv.org/abs/1910.12867)
+  * **Useful**
+  * Multi-resolution filtering (MRF) uses independent data of superior spatial resolution to create a model for all compact and high surface brightness objects in the field.
+  * The halos of bright stars are removed in a separate step and artifacts are masked.
+  * We also discuss variations of the technique for cases when no low resolution data are available (self-MRF and cross-MRF), and introduce a new method for robustly measuring the surface brightness depth of images
+
+* [Black hole feedback and the evolution of massive early-type galaxies](https://arxiv.org/abs/1910.12870)
+  * At fixed stellar velocity dispersion, the temperature of the hot gas is higher for those galaxies hosting more massive black holes in their centers
+
+* [Automated Mining of the ALMA Archive in the COSMOS Field (A3COSMOS): I. Robust ALMA Continuum Photometry Catalogs and Stellar Mass and Star Formation Properties for ~700 Galaxies at z=0.5-6](https://arxiv.org/abs/1910.12872)
+  * **Interesting**
+  * 对COSMOS场中ALMA观测的挖掘：photometry catalogs with ~1000 (sub)millimeter detections (spurious fraction ~8%-12%) from over 1500 individual ALMA continuum images
+  * we provide robust information on redshift, stellar mass, and star formation rate for ~700 galaxies at redshifts 0.5-6 in the COSMOS field
+
+* [Automated Mining of the ALMA Archive in the COSMOS Field (A3COSMOS): II. Cold Molecular Gas Evolution out to Redshift 6](https://arxiv.org/abs/1910.12883)
+  * A3COSMOS的700个星系研究分子气体演化：Combining our A3COSMOS sample with ~1,000 CO-observed galaxies at 0 < z < 4 (75% at z < 0.1), we parameterize galaxies' molecular gas depletion time and molecular gas to stellar mass ratio (gas fraction) each as a function of the stellar mass, offset from the star-forming main sequence (Delta MS) and cosmic age (or redshift).
+  * 分子气体演化有downsizing和 "mass-quenching" (gas consumption slows down with cosmic time for massive galaxies but speeds up for low-mass ones) 的趋势
+
+* [A3COSMOS: The Dust Attenuation of Star-Forming Galaxies at z=2.5−4.0 from the COSMOS-ALMA Archive](https://arxiv.org/abs/1910.12885)
+  * An analysis of the dust attenuation of star forming galaxies at z=2.5−4.0 through the relationship between the UV spectral slope (β), stellar mass (M∗) and the infrared excess (IRX=LIR/LUV)
+  * The detected galaxies show that the IRX-β relationship of massive (logM∗/M⊙>10) main sequence galaxies at z=2.5−4.0 is consistent with that of local galaxies, while starbursts are generally offset by ∼0.5dex to larger IRX values
+
+* [A detailed study of Andromeda XIX, an extreme local analogue of ultra diffuse galaxies](https://arxiv.org/abs/1910.12879)
+  * **Interesting**
+  * And XIX: 中心面亮度29.3mag；R50~3kpc，很像UDG
+  * We present spectra for ∼100 red giant branch stars in this galaxy, plus 16 stars in a nearby stellar stream. 速度弥散度再7.8km/s左右，有速度梯度的微弱探测
+  * M/L比相似质量的星系高, 但动力学质量不特殊，可能是一个puff-up的矮星系
+  * Its complex dynamics suggest that the masses of distant UDGs measured from velocity dispersions alone should be carefully interpreted
+
+* [Catastrophic Cooling in Superwinds: Line Emission and Non-equilibrium Ionization](https://arxiv.org/abs/1910.12882)
+  * Observations are now starting to confirm that outflows can undergo catastrophic cooling, suppressing adiabatic superwinds 用一维模拟研究外流气体中的电离结构，看冷却气体产生的发射线
+  * 需要用非平衡态化学演化MAIHEM，加上FLASH模拟：catastrophically cooling models produce strong nebular line emission compared to adiabatic outflows
+  * 非平衡态产生比equivalent equilibrium下更多的高电离态
+  * 给出一批可能用来诊断catastrophic cooling的发射线，比如HeII 4686等
+
+* [Testing the paradigm: First spectroscopic evidence of a quasar-galaxy Mpc-scale association at cosmic dawn](https://arxiv.org/abs/1910.12887)
+  * present Keck / DEIMOS optical and IRAM / NOEMA millimeter spectroscopy of a z ∼ 6 Lyman-break galaxy candidate originally discovered via broadband selection, at a projected separation of 4.65 physical Mpc (13.94 arcmin) from the luminous z=6.308 quasar J1030+0524
+
+* [High-redshift Galaxy Formation with Self-consistently Modeled Stars and Massive Black Holes: Stellar Feedback and Quasar Growth](https://arxiv.org/abs/1910.12888)
+
+* [Milky Way Analogues in MaNGA: Multi-Parameter Homogeneity and Comparison to the Milky Way](https://arxiv.org/abs/1910.12896)
+
+* [How to Fuel an AGN: Mapping Circumnuclear Gas in NGC 6240 with ALMA](https://arxiv.org/abs/1910.12967)
+
+* [Obscuration properties of mid-IR selected AGN](https://arxiv.org/abs/1910.13298)
+
+* [Physical Characterization of an Unlensed Dusty Star-Forming Galaxy at z=5.85](https://arxiv.org/abs/1910.13331)
+
+* [The Zwicky Transient Facility Bright Transient Survey I: Spectroscopic Classification and the Redshift Completeness of Local Galaxy Catalogs](https://arxiv.org/abs/1910.12973)
