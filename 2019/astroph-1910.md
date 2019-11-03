@@ -1175,3 +1175,63 @@
 * [Physical Characterization of an Unlensed Dusty Star-Forming Galaxy at z=5.85](https://arxiv.org/abs/1910.13331)
 
 * [The Zwicky Transient Facility Bright Transient Survey I: Spectroscopic Classification and the Redshift Completeness of Local Galaxy Catalogs](https://arxiv.org/abs/1910.12973)
+
+----
+
+### Oct 30
+
+* [Evidence for Non-smooth Quenching in Massive Galaxies at z∼1](https://arxiv.org/abs/1910.14017)
+
+* [Strong Lensing Model of SPT-CLJ0356-5337, a Major Merger Candidate at Redshift 1.0359](https://arxiv.org/abs/1910.14006)
+
+* [Reviving old controversies: is the early Galaxy flat or round? Investigations into the early phases of the Milky Way formation through stellar kinematics and chemical abundances](https://arxiv.org/abs/1910.13769)
+
+* [Determining Quasar Orientation](https://arxiv.org/abs/1910.13597)
+
+* [The MOSDEF Survey: [SIII] as a New Probe of Evolving ISM Conditions](https://arxiv.org/abs/1910.13594)
+
+* [A 100-kiloparsec wind feeding the circumgalactic medium of a massive compact galaxy](https://arxiv.org/abs/1910.13507)
+
+* [A z=0 Multi-wavelength Galaxy Synthesis I: A WISE and GALEX Atlas of Local Galaxies](https://arxiv.org/abs/1910.13470)
+
+* [Angular momentum and morphological sequence of massive galaxies through Dark Sage](https://arxiv.org/abs/1910.13467)
+
+* [Newly discovered dwarf galaxies in the MATLAS low density fields](https://arxiv.org/abs/1910.13462)
+
+* [MUSE Analysis of Gas around Galaxies (MAGG) -- I: Survey design and the environment of a near pristine gas cloud at z~3.5](https://arxiv.org/abs/1910.13458)
+
+* [On the Gas Content, Star Formation Efficiency, and Environmental Quenching of Massive Galaxies in Proto-Clusters at z~2.0-2.5](https://arxiv.org/abs/1910.13457)
+
+* [The KLEVER Survey: Spatially resolved metallicity maps and gradients in a sample of 1.2 < z < 2.5 lensed galaxies](https://arxiv.org/abs/1910.13451)
+
+* [Improved Cosmological Constraints from SDSS redMaPPer Clusters via X-ray Follow-up of a Complete Subsample of Systems](https://arxiv.org/abs/1910.13548)
+
+* [Large-scale dynamics of winds originated from black hole accretion flows: (I) Hydrodynamics](https://arxiv.org/abs/1910.13838)
+
+* [Large-scale dynamics of winds originated from black hole accretion flows: (II) Magnetohydrodynamics](https://arxiv.org/abs/1910.13779)
+
+----
+
+### Oct 31
+
+* [Simulating the interstellar medium of galaxies with radiative transfer, non-equilibrium thermochemistry, and dust](https://arxiv.org/abs/1910.14041)
+
+* [The Dragonfly Wide Field Survey. I. Telescope, Survey Design and Data Characterization](https://arxiv.org/abs/1910.14045)
+
+* [uGMRT search for cold gas at z~1-1.4 towards red quasars](https://arxiv.org/abs/1910.14054)
+
+* [ALMA evidence for the direct ram pressure compression and stripping of molecular gas in the Virgo cluster galaxy NGC 4402](https://arxiv.org/abs/1910.14082)
+
+* [How Do Supernovae Impact the Circumgalactic Medium? I. Large-Scale Fountains in a Milky Way-Like Galaxy](https://arxiv.org/abs/1910.14235)
+
+* [Where do quasar hosts lie with respect to the size-mass relation of galaxies?](https://arxiv.org/abs/1910.14242)
+
+* [The headlight cloud in NGC 628: An extreme giant molecular cloud in a typical galaxy disk](https://arxiv.org/abs/1910.14311)
+
+* [The Megamaser Cosmology Project. XII. VLBI Imaging of H2O Maser Emission in Three Active Galaxies and the Effect of AGN Winds on Disk Dynamics](https://arxiv.org/abs/1910.14314)
+
+* [Discovery of an X-ray Quasar Wind Driving the Cold Gas Outflow in the Ultraluminous Infrared Galaxy IRAS F05189-2524](https://arxiv.org/abs/1910.14583)
+
+* [The Saga of M81: Global View of a Massive Stellar Halo in Formation](https://arxiv.org/abs/1910.14672)
+
+* [The Saga of M81: Global View of a Massive Stellar Halo in Formation](https://arxiv.org/abs/1910.14672)
