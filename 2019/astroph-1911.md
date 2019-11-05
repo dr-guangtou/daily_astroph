@@ -41,3 +41,29 @@
 * [Using machine learning to study the kinematics of cold gas in galaxies](https://arxiv.org/abs/1910.00291)
 
 * [Deep Learning for space-variant deconvolution in galaxy surveys](https://arxiv.org/abs/1910.00443)
+
+----
+
+### Nov 4
+
+* [The halo mass function of late-type galaxies from HI kinematics](https://arxiv.org/abs/1910.00517)
+
+* [Radio-relic and the diffuse emission trail discovered in a low mass galaxy cluster Abell 1697](https://arxiv.org/abs/1910.00531)
+
+* [The contribution from stars stripped in binaries to cosmic reionization of hydrogen and helium](https://arxiv.org/abs/1910.00543)
+
+* [SDSS-IV MaNGA: Variations in the N/O -- O/H relation bias metallicity gradient measurements](https://arxiv.org/abs/1910.00581)
+
+* [SDSS-IV MaNGA: Internal mass distributions and orbital structures of early-type galaxies and their dependence on environment](https://arxiv.org/abs/1910.00777)
+
+* [A Catalog of Galaxies in the Direction of the Perseus Cluster](https://arxiv.org/abs/1910.00951)
+
+* [Box/peanut-shaped bulges in action space](https://arxiv.org/abs/1910.01084)
+
+* [GALEX colours of quasars and intergalactic medium opacity at low redshift](https://arxiv.org/abs/1910.01105)
+
+* [The Co-Evolution of Galaxies and the Cool Circumgalactic Medium Probed with the SDSS and DESI Legacy Imaging Surveys](https://arxiv.org/abs/1910.01271)
+
+* [Bursting and quenching in satellite galaxies](https://arxiv.org/abs/1910.01395)
+
+* [Unveiling the merger dynamics of the most massive MaDCoWS cluster at z=1.2 from a multi-wavelength mapping of its intracluster medium properties](https://arxiv.org/abs/1910.00560)
