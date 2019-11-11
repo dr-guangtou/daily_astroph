@@ -125,13 +125,57 @@
   * 无论是否加入AGN feedback：Simba yields green valley galaxies with strongly dropping SFR profiles beyond ≳ R50
 
 * [Deciphering the radio-star formation correlation on kpc-scales I. Adaptive kernel smoothing experiments](https://arxiv.org/abs/1911.02253)
+  * Within nearby galaxies, variations in the radio-FIR correlation have been observed, mainly because the cosmic ray electrons migrate before they lose their energy via synchrotron emission or escape 通过diffusion和streaming过程
 
 * [Submillimeter signatures from growing supermassive black holes before reionization](https://arxiv.org/abs/1911.02413)
+  * Within this model we show that for a sufficiently high mass of gas in a host galaxy – not smaller than the mass of a growing black hole, the cumulative spectrum in the far-infrared reveals a sharp transition from a quasi-blackbody Rayleigh-Jeans spectrum of the black hole ∝ λ−2 to a flat free-free nebular continuum λ 0.118 on longer wavelength limit.
 
 * [Modelling the quenching of star formation activity from the evolution of the colour-magnitude relation in VIPERS](https://arxiv.org/abs/1911.02445)
+  * 引入了"bright edge"概念： bright-edge of the colour-magnitude diagram evolves with little dependence on galaxy colour
+  * 在Exponential SFH背景下讨论： Among the quenching scenarios explored, the one that best matches the observations assumes that galaxies stop their star formation at a randomly selected time with a uniform distribution up to 2.5 Gyr
 
 * [Revived Fossil Plasma Sources in Galaxy Clusters](https://arxiv.org/abs/1911.02034)
+  * 关于之前被射电活动抛如halo中的 fossil relativistic electrons的作用: their radiative life time is only tens of Myrs at GHz frequencies
+  * When a pocket of fossil radio plasma is compressed, it boosts the visibility at sub-GHz frequencies, creating so-called radio phoenices 来自于星系团并合或者其他bulk movement的挤压
 
 * [Exploring Effects on Magnifications due to Line-of-Sight Galaxies in the Hubble Frontier Fields](https://arxiv.org/abs/1911.02101)
+  * We present the first full set of three-dimensional mass models of the six Hubble Frontier Fields and use them to test for systematic biases in magnifications due to using the traditional 2D approach
+  * We find that omitting foreground or background galaxies causes image position offsets between 0.1-0.4”, a non-negligible fraction of the typical 0.3-0.7” residuals
 
 * [Observation and Confirmation of Nine Strong Lensing Systems in Dark Energy Survey Year 1 Data](https://arxiv.org/abs/1911.02162)
+  * The sources that we targeted have an i-band surface brightness range of iSB ∼ 22−24 mag/arcsec2 and a spectroscopic redshift range of zspec ∼ 0.8 − 2.6.
+  * Lens红移在0.3 < z < 0.7
+
+----
+
+### Nov 11
+
+* [The star formation timescale of elliptical galaxies -- Fitting [Mg/Fe] and total metallicity simultaneously](https://arxiv.org/abs/1911.02568)
+
+* [Impact of AGN feedback on galaxies and their multiphase ISM across cosmic time](https://arxiv.org/abs/1911.02572)
+
+* [Systematic errors in strong gravitational lensing reconstructions, a numerical simulation perspective](https://arxiv.org/abs/1911.02581)
+
+* [Following the crumbs: Statistical effects of Ram Pressure in Galaxies](https://arxiv.org/abs/1911.02583)
+
+* [Spatially resolved properties of galaxies from CANDELS+MUSE: Radial extinction profile and insights on quenching](https://arxiv.org/abs/1911.02585)
+
+* [Survey of Gravitationally-lensed Objects in HSC Imaging (SuGOHI). IV. Lensed quasar search in the HSC survey](https://arxiv.org/abs/1911.02587)
+
+* [Unbiased Differential Size Evolution and the Inside-Out Growth of Galaxies in the Deep CANDELS GOODS Fields at 1≤z≤7](https://arxiv.org/abs/1911.02589)
+
+* [The Impact of Starbursts on Element Abundance Ratios](https://arxiv.org/abs/1911.02598)
+
+* [Evidence of a population of dark subhalos from Gaia and Pan-STARRS observations of the GD-1 stream](https://arxiv.org/abs/1911.02662)
+
+* [Novel constraints on the particle nature of dark matter from stellar streams](https://arxiv.org/abs/1911.02663)
+
+* [Estimating the molecular gas mass of low-redshift galaxies from a combination of mid-infrared luminosity and optical properties](https://arxiv.org/abs/1911.02795)
+
+* [The 2MASS Redshift Survey in the Zone of Avoidance](https://arxiv.org/abs/1911.02944)
+
+* [The impact of the dynamical state of galaxy groups on the stellar populations of central galaxies](https://arxiv.org/abs/1911.02976)
+
+* [Limitations to the "basic" HOD model and beyond](https://arxiv.org/abs/1911.02610)
+
+* [Dark Energy Survey Year 1 Results: the lensing imprint of cosmic voids on the Cosmic Microwave Background](https://arxiv.org/abs/1911.02951)
