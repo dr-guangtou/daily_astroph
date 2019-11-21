@@ -369,6 +369,34 @@
   * We find that the azimuthal scatter measured in 12 sectors of the X-ray flux maps is a statistically significant indication of the presence of an intrinsic (i.e. 3D) clumpy gas distribution
   * 在观测上改正需要：gas inhomogeneity from X-ray maps (such as the azimuthal scatter or the gas ellipticity) are combined with the asymptotic external slope of the gas density or pressure profiles
 
+* [The Growth of Brightest Cluster Galaxies and Intracluster Light Over the Past Ten Billion Years](https://arxiv.org/abs/1911.07911)
+  * **Relevant, Important**
+  * 42个红移跨度很大的Cluster的BCG+ICL研究：We find no change in the relation from intermediate (z=0.4) to low redshift (z=0.10) 
+  * 10-100 kpc之间的质量在z=1.55到z=0.4有显著演化，之后质量增长不显著
+  * Furthermore, the concentration of the BCG+ICL stellar mass, defined by the ratio of stellar mass within 10 kpc to the total stellar mass within 100 kpc, decreases with increasing M500,c at all z.
+
+* [VLT/SINFONI study of black hole growth in high redshift radio-loud quasars from the CARLA survey](https://arxiv.org/abs/1911.08273)
+  * VLT/SINFONI observations of 35 quasars at 2.1 < z < 3.2 都是射电星系中的>10^9 Msun的黑洞
+  * We do find a strong inverse correlation between CIV blueshift and radio power linked to higher Eddington ratios and L(5100A)
+
+* [Chemical evolution of ultra-faint dwarf galaxies: testing the IGIMF](https://arxiv.org/abs/1911.084509)
+  * We consider three observational constraints: the present-day stellar mass, the [α/Fe] vs. [Fe/H] relation and the stellar metallicity distribution function
+  * IGIMF理论，结合这些低质量矮星系很低的SF效率，不能解释观测到的化学性质，主要因为IGIMF下，还是会有一定数量的CC-SNe甚至SNIa产生污染
+  * 但经典的Salpeter IMF似乎可以解释
+
+* [A Catalog of AGN Host Galaxies Observed with HST/ACS: Correlations between Star Formation and AGN Activity](https://arxiv.org/abs/1911.07864)
+  * A catalog of 2585 active galactic nucleus (AGN) host galaxies that are at redshifts 0.2 < z < 2.5 
+  * AGN host galaxies tend to lie below the star-forming main sequence, with X-ray-selected AGN host galaxies being more offset than IR-selected AGN host galaxies 
+  * There is a positive trend between star formation rate and AGN luminosity in AGN host galaxies
+
+* [Unveiling Sizes of Compact AGN Hosts with ALMA](https://arxiv.org/abs/1911.07858)
+  * Our sample includes 27 galaxies at z<2.5 in COSMOS
+  * Obscured AGN host galaxies are more compact than non-AGN star-forming galaxies at similar redshift and stellar mass.
+  * Most of the detected and stacked rest-frame FIR sizes of AGNs in our sample are similar or more compact than their rest-frame optical sizes, which is consistent with recent results of ALMA detected sources.
+
+* [The Star-Forming Interstellar Medium of Lyman Break Galaxy Analogs](https://arxiv.org/abs/1911.07854)
+  * 6个z=0.2的LBA的SINFONI观测： the properties of at least one LBA are consistent with extra heating from an active galactic nucleus (AGN) and/or an overabundance of massive stars
+  * Spatially resolved NIR line ratios favor excitation by massive, young stars, rather than supernovae or AGN feedback. Our results suggest that the local analogs of Lyman break galaxies are primarily subject to strong feedback from recent star formation
 
 ----
 
@@ -411,3 +439,13 @@
   * Global parameters (pertaining to the galaxy as a whole) perform collectively the best at predicting when spaxels will be quenched, and are substantially superior to local/ spatially resolved and environmental parameters.
   * Central velocity dispersion is the best single parameter for predicting quenching in central galaxies. 象征了与中心黑洞能释放的全部能量的联系
   * Thus, quenching is fundamentally a global process but star formation is governed locally by processes within each spaxel.
+
+* [Star Formation in Accretion Disks and SMBH Growth](https://arxiv.org/abs/1911.08685)
+  * **Interesting**
+  * We calculate the accretion rate onto the central supermassive black hole in both gas and compact objects
+  * 吸积恒星：no radiative feedback and therefore the accretion rate is not limited by radiation forces；可以大大缩短SMBH质量加倍的时标
+
+* [New mysteries and challenges from the Toothbrush relic: wideband observations from 550 MHz to 8 GHz](https://arxiv.org/abs/1911.08904)
+  * uGMRT and VLA观测1RXS J0603.3+4214: The integrated spectrum of the Toothbrush follows closely a power law over close to 2 decades in frequency, with a spectral index of −1.16±0.02; 在8GHz一下并没有变陡
+  * Radio spectrum is dominated by the average over the inhomogeneities within the shock, with most of the emission coming from the tail of the Mach number distribution
+  * The integrated spectrum of the halo follows a power law from 150 MHz to 3 GHz with a spectral index of −1.16±0.04. We do not find any evidence for spectral curvature, not even in subareas of the halo. This suggest a homogeneous acceleration throughout the cluster volume.
