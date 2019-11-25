@@ -449,3 +449,126 @@
   * uGMRT and VLA观测1RXS J0603.3+4214: The integrated spectrum of the Toothbrush follows closely a power law over close to 2 decades in frequency, with a spectral index of −1.16±0.02; 在8GHz一下并没有变陡
   * Radio spectrum is dominated by the average over the inhomogeneities within the shock, with most of the emission coming from the tail of the Mach number distribution
   * The integrated spectrum of the halo follows a power law from 150 MHz to 3 GHz with a spectral index of −1.16±0.04. We do not find any evidence for spectral curvature, not even in subareas of the halo. This suggest a homogeneous acceleration throughout the cluster volume.
+
+----
+
+### Nov 22
+
+* [Active gas features in three HSC-SSP CAMIRA clusters revealed by high angular resolution analysis of MUSTANG-2 SZE and XXL X-ray observations](https://arxiv.org/abs/1911.09235)
+
+* [The Role of Quasar Radiative Feedback on Galaxy Formation during Cosmic Reionization](https://arxiv.org/abs/1911.09113)
+  * 为什么高红移QSO周围可见星系不多：quasar radiation suppresses star formation in low mass galaxies, mainly by photo-dissociating their molecular hydrogen
+  * Quasar radiative feedback suppresses the faint end of the galaxy luminosity function (LF) within 1 pMpc, but to a far lesser degree than the field-to-field variation of the LF.
+
+* [Baryonic clues to the puzzling diversity of dwarf galaxy rotation curves](https://arxiv.org/abs/1911.09116)
+  * The shape of the rotation curve correlates with baryonic surface density
+  * The correlation, however, seems too weak in the dwarf galaxy regime to be the main driver of the diversity.
+  * MDAR does not hold in the inner regions of dwarf galaxies and thus cannot explain the diversity.
+
+* [To beta or not to beta: can higher-order Jeans analysis break the mass-anisotropy degeneracy in simulated dwarfs?](https://arxiv.org/abs/1911.09124)
+  * A non-parametric higher-order Jeans analysis method, GravSphere
+  * APOSTLE模拟中CDM和SIDM下的矮星系检验这个方法
+  * We find that GravSphere recovers the density profiles of simulated dwarfs below the half-light radius and down to the resolution limit of our simulations with better than 10+-30 per cent accuracy
+
+* [The ISM scaling relations in DustPedia late-type galaxies: a benchmark study for the Local Universe](https://arxiv.org/abs/1911.09187)
+  * DustPedia中LTG的scaling relations: The analysis has been performed by means of the survival analysis technique.
+  * 尘埃质量和总气体质量相关很好；尘埃质量和HI气体质量的相关比和分子气体的更好
+  * Only the assumption of a metallicity-dependent XCO reproduces the expected decrease of the DGR with increasing morphological stage and decreasing gas-phase metallicity
+  * The molecular-to-atomic gas mass ratio and the DGR show a positive correlation for low molecular gas fractions, but for molecular gas rich galaxies this trend breaks down.
+
+* [MusE GAs FLOw and Wind (MEGAFLOW) IV: A two sightline tomography of a galactic wind](https://arxiv.org/abs/1911.09342)
+  * A detailed analysis of an outflow from a z = 0.7 "green-valley" galaxy (log(M∗/M⊙) = 9.9; SFR = 0.5 M⊙yr−1) probed by two background sources
+  * probe both the receding and approaching components of a putative galactic outflow around a distant galaxy: We measure a significant velocity shift between the MgII absorption from the two sightlines (84±17kms−1), which is consistent with the expectation from our simple fiducial wind mode
+
+* [Star-forming Clumps in Local Luminous Infrared Galaxies](https://arxiv.org/abs/1911.09367)
+  * Measure the properties of 810 spatially resolved star-forming regions (59 nuclei and 751 extra-nuclear clumps)
+  * 平均很年轻，~9 Myr old；质量在5x10^5Msun左右
+  * The luminosity function of the LIRG clumps has a flatter slope than found in lower-luminosity, star-forming galaxies, indicating a relative excess of luminous star-forming clumps
+
+* [Planck far-infrared detection of Hyper Suprime-Cam protoclusters at z∼4: hidden AGN and star formation activity](https://arxiv.org/abs/1911.09368)
+  * Stacking the images of the 179 candidate protoclusters, the combined infrared (IR) emission of the protocluster galaxies in the observed 12−850 μm wavelength range is successfully detected with >5σ significance 看z=4 proto-cluster的平均红外SED
+  * 和SF星系比，这些proto-cluster有明显的MIR excess：Our results suggest that the z∼4 protoclusters trace dense, intensely star-forming environments that may also host obscured AGNs missed by the selection in the optical.
+
+* [The flickering nuclear activity of Fornax A](https://arxiv.org/abs/1911.09424)
+  * 1 GHz with the MeerKAT telescope and at 6 GHz with the Sardinia Radio Telescope (SRT)
+  * The lobes of Fornax A have a double-shell morphology, where dense filaments are embedded in a diffuse and extended cocoon
+  * 必须要用多次nuclear活动来解释；上一次活动可能是在24Myr之前
+  * It appears that Fornax A is rapidly flickering. The dense environment in which Fornax A lives has lead to a complex recent merger history for this galaxy, including mergers spanning a range of gas contents and mass ratios
+
+* [Correlations between mass, stellar kinematics and gas metallicity in Eagle galaxies](https://arxiv.org/abs/1911.09571)
+  * 看恒星质量和气态丰度关系的scatter和星系形态有无相关：At redshift z=0, galaxies with more rotational support have lower metallicities on average when the stellar mass is below M⋆≈1010 M⊙.
+  * This trend inverts at higher values of M⋆, when prolate galaxies show typically lower metallicity.
+  * At increasing redshifts, the trend between rotational support and metallicity becomes weaker at low stellar mass but more pronounced at high stellar mass.
+
+* [The EDGE-CALIFA Survey: Using Optical Extinction to Probe the Spatially-Resolved Distribution of Gas in Nearby Galaxies](https://arxiv.org/abs/1911.09677)
+  * CARMA CO观测103个CALIFA星系；看Balmer线得到的消光和气体面密度的关系；随着分析的尺度变小，关系的scatter增加
+
+* [Core-collapse, superluminous, and gamma-ray burst supernova host galaxy populations at low redshift: the importance of dwarf and starbursting galaxies](https://arxiv.org/abs/1911.09112)
+  * Study of an unbiased sample of 84 nearby (<z> = 0.018) core-collapse supernova (CCSN) host galaxies
+  * CCSNe populate galaxies across a wide range of stellar masses, from blue and compact dwarf galaxies to large spiral galaxies. 40%的CCSN在dwarf星系里
+  * We find that the relative SLSN to CCSN supernova rate is increased in low-mass galaxies and at high specific star-formation rates
+
+----
+
+### Nov 25
+
+* [Luminosity Models and Density Profiles for Nuclear Star Clusters for a Nearby Volume-Limited Sample of 29 Galaxies](https://arxiv.org/abs/1911.09686)
+  * **Useful**
+  * HST图像的Sersic和MGE拟合，得到三维density：We find that these densities correlate with galaxy mass, with galaxies most NSCs being denser than typical globular clusters
+  * 建立了三维NSC密度模型，以及其与星系质量的关系，可以用来估计TDE频率 
+
+* [Neutral Hydrogen Observations of Low Surface Brightness Galaxies around M101 and NGC 5485](https://arxiv.org/abs/1911.09694)
+  * We detect HI reservoirs in 5 targets and place stringent upper limits on the remaining 22
+  * 这些LSB星系是贫气体的：We find that the gas richnesses of confirmed M101 satellites are broadly consistent with those of the Milky Way satellites, as well as with those of satellites around other hosts of comparable mass
+  * This suggests that satellite quenching and gas stripping proceeds similarly around halos of similar mass, in line with theoretical expectations.
+
+* [The Massive and Distant Clusters of WISE Survey VII: The Environments and Properties of Radio Galaxies in Clusters at z~1](https://arxiv.org/abs/1911.09695)
+  * **Relevant**
+  * VLA观测高红移星系团的射点形态，大部分都是FR-II的
+  * ~40% of the host galaxies are the candidate brightest cluster galaxy (BCG) and ~83% are consistent with being one of the top six most massive galaxies
+  * Highest stellar mass hosts (M∗≳ 4×10^11M⊙) are confined to the cluster center and host compact jets
+  * 距离星系团中心越远，jet的尺度可以越大，可能和ICM压力下降有关
+  * Cluster environment fosters radio activity but does not solely drive the evolution of these sources at this redshift.
+
+* [Spectral Classification and Ionized Gas Outflows in z∼2 WISE-Selected Hot Dust-Obscured Galaxies](https://arxiv.org/abs/1911.09828)
+  * Almost all (8/9) sources show evidence for ionized gas outflows in the form of broad and blueshifted [O III] profiles, and some sources have such profiles in Hα (5/7) or [O II] (3/6).
+  * 大部分的Hot-DOGS都是窄线dominated的AGN，且需要除了torus以外的尘埃遮挡来源
+  * [OIII]外流率比黑洞吸积率和SFR都要高
+  * 黑洞质量估计需要格外小心
+
+* [First Census of Sub-kiloparsec Resolution Metallicity Gradients in Star-forming Galaxies at Cosmic Noon from HST Slitless Spectroscopy](https://arxiv.org/abs/1911.09841)
+  * 79个高红移星系：At 2-σ confidence level, 14/79 galaxies in our sample show negative radial gradients, whereas 7/79 show inverted gradients.
+  * 气体丰度梯度和质量有负相关：Our result is consistent with strong feedback, not secular processes
+  * The intrinsic scatter of metallicity gradients increases with decreasing stellar mass and increasing specific star-formation rate.
+
+* [The radial distribution of supernovae compared to star formation tracers](https://arxiv.org/abs/1911.09842)
+  * The strong correlation of Type Ia SNe with R-band light is consistent with models containing only low mass progenitors
+  * The radial distribution of Type II SNe best traces far ultraviolet (FUV) emission, consistent with recent direct detections indicating Type II SNe have moderately massive red supergiant progenitors. 
+  * Stripped Envelope (SE) SNe have the strongest correlation with Halpha fluxes, indicative of very massive progenitors
+
+* [Detection of a high-redshift molecular outflow in a primeval hyperstarburst galaxy](https://arxiv.org/abs/1911.09967)
+  * Massive molecular outflow in the starburst galaxy SPT0346-52 (z=5.656) via the detected absorption of high-excitation water transitions (H2O 42,3−41,4 and H2O 33,0−32,1) with ALMA
+  * SFR极高，而且compact；外流率比SFR低很多
+  * The coincidence of the hyper-compact starburst and high-excitation water absorption indicates that this is a single starburst galaxy surrounded by a disc. 
+
+* [The properties of He II 1640 emitters at z ~ 2.5-5 from the VANDELS survey](https://arxiv.org/abs/1911.09999)
+  * We identify a total of 33 Bright He II emitters (SNR>2.5) and 17 Faint emitters (SNR<2.5); 7个更可能来自AGN
+  * We do not see a significant difference between the stellar masses, star-formation rates and rest-frame UV magnitudes of galaxies with He II and no He II emission.
+  * 星族模型预测的HeII光子不足，可能需要X-ray binary或者stripped star这样的额外来源
+  * We argue that galaxies with He II emission may have undergone a recent star-formation event, or may be powered by additional sources of He II ionisation.
+
+* [Modelling the Canes Venatici I dwarf spheroidal galaxy](https://arxiv.org/abs/1911.10185)
+  * 为CVn I找前身：it is a dark matter free object that is undergoing tidal disruption
+
+* [Universality in the structure of dark matter haloes over twenty orders of magnitude in halo mass](https://arxiv.org/abs/1911.09720)
+  * We use a novel, multi-zoom technique to create the first consistent simulation of the formation of present-day haloes over the full mass range populated when dark matter is a Weakly Interacting Massive Particle (WIMP) of mass ∼100 GeV.
+  * Remarkably, halo density profiles are universal over the entire mass range and are well described by simple two-parameter fitting formulae.
+  * Halo mass and concentration are tightly related in a way which depends on cosmology and on the nature of the dark matter.
+
+* [How do atomic code uncertainties affect abundance measurements in the intracluster medium?](https://arxiv.org/abs/1911.09684)
+  * Comprehensive comparison between the codes SPEXACT v3.0.5 (cie model) and AtomDB v3.0.9 (vapec model)
+  * In cool plasmas (kT≲2 keV), systematic differences up to ∼20% for the Fe abundance and ∼45% for the O/Fe, Mg/Fe, Si/Fe, and S/Fe ratios may still occur. 
+
+* [Cosmic ray transport in starburst galaxies](https://arxiv.org/abs/1911.09774)
+  * Starburst galaxies are efficient γ-ray producers, because their high supernova rates generate copious cosmic ray (CR) protons, and their high gas densities act as thick targets off which these protons can produce neutral pions and thence γ-rays.
+  * CRs stream along field lines at a rate determined by the competition between streaming instability and ion-neutral damping, leading to transport via a process of field line random walk.
