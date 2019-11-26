@@ -455,6 +455,10 @@
 ### Nov 22
 
 * [Active gas features in three HSC-SSP CAMIRA clusters revealed by high angular resolution analysis of MUSTANG-2 SZE and XXL X-ray observations](https://arxiv.org/abs/1911.09235)
+  * **Relevant, Interesting**
+  * GBT SZE观测和XMM X-ray观测HSC CAMIRA大质量星系团的联合建模
+  * 星系团richness类似，但动力学状态不一样：a single-peaked cluster, a double-peaked cluster, and a cluster belonging to a supercluster.
+  * We find that an integrated Compton y parameter and a temperature for the major merger are significantly boosted from those expected by the weak-lensing mass
 
 * [The Role of Quasar Radiative Feedback on Galaxy Formation during Cosmic Reionization](https://arxiv.org/abs/1911.09113)
   * 为什么高红移QSO周围可见星系不多：quasar radiation suppresses star formation in low mass galaxies, mainly by photo-dissociating their molecular hydrogen
@@ -572,3 +576,35 @@
 * [Cosmic ray transport in starburst galaxies](https://arxiv.org/abs/1911.09774)
   * Starburst galaxies are efficient γ-ray producers, because their high supernova rates generate copious cosmic ray (CR) protons, and their high gas densities act as thick targets off which these protons can produce neutral pions and thence γ-rays.
   * CRs stream along field lines at a rate determined by the competition between streaming instability and ion-neutral damping, leading to transport via a process of field line random walk.
+
+----
+
+### Nov 26
+
+* [Observing the redshifted 21 cm signal around a bright QSO at z∼10](https://arxiv.org/abs/1911.10880)
+  * 模拟研究：a longer QSO lifetime, tQSO, results in a 21~cm signal in emission located at increasingly larger angular radii, θ, and covering a wider range of θ.
+  * From an observational point of view, we find that the 21 cm signal around a QSO at various tQSO could be detected by SKA1-low with a high signal-noise ratio (S/N).
+
+* [Accretion History of AGN II: Constraints on AGN Spectral Parameters using the Cosmic X-ray Background](https://arxiv.org/abs/1911.10706)
+  * 用CXB谱型来研究AGN整体：we rule out regions of X-ray spectral parameter space that do not reproduce the CXB in the energy range 1-100 keV
+  * The distributions observed in many AGN samples can be ruled out by our analysis, meaning these samples can not be representative of the full AGN population 
+
+* [Astronomy and the new SI](https://arxiv.org/abs/1911.10204)
+  * **Interesting, Useful**
+  * The classical astronomical units have exact and rather convenient equivalents in the new SI: zero AB magnitude amounts to ~5 × 10^10 photons m−2 s−1 per logarithmic frequency or wavelength interval, 1 au~ 500 lightseconds, 1 pc ~10^8 light-seconds, while a solar mass ~5 gravity-seconds.
+
+* [The effect of diffuse background on the spatially-resolved Schmidt relation in nearby spiral galaxies](https://arxiv.org/abs/1911.10211)
+  * The removal of a diffuse background from SFR tracers, such as Hα, far-ultraviolet (FUV), infrared, leads to an increase in the slope of the sub-galactic Schmidt relation.
+  * 
+
+* [Ionised gas outflow signatures in SDSS-IV MaNGA active galactic nuclei](https://arxiv.org/abs/1911.10212)
+
+* [The effect of diffuse background on the spatially-resolved Schmidt relation in nearby spiral galaxies](https://arxiv.org/abs/1911.10281)
+
+* [A More Efficient Search for H2O Megamaser Galaxies : The Power of the X-ray and Mid-infrared Photometry](https://arxiv.org/abs/1911.10721)
+
+* [The FLASHES Survey I: Integral Field Spectroscopy of the CGM around 48 z=2.3−3.1 QSOs](https://arxiv.org/abs/1911.10740)
+
+* [An extended size-luminosity relation for the reverberation-mapped AGNs: the role of the accretion rate](https://arxiv.org/abs/1911.10802)
+
+* [Mapping the dark matter halo of early-type galaxy NGC 2974 through orbit-based models with combined stellar and cold gas kinematics](https://arxiv.org/abs/1911.11058)
