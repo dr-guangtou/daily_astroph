@@ -371,7 +371,7 @@
 
 * [The Growth of Brightest Cluster Galaxies and Intracluster Light Over the Past Ten Billion Years](https://arxiv.org/abs/1911.07911)
   * **Relevant, Important**
-  * 42个红移跨度很大的Cluster的BCG+ICL研究：We find no change in the relation from intermediate (z=0.4) to low redshift (z=0.10) 
+  * 42个红移跨度很大的Cluster的BCG+ICL研究：We find no change in the relation from intermediate (z=0.4) to low redshift (z=0.10)
   * 10-100 kpc之间的质量在z=1.55到z=0.4有显著演化，之后质量增长不显著
   * Furthermore, the concentration of the BCG+ICL stellar mass, defined by the ratio of stellar mass within 10 kpc to the total stellar mass within 100 kpc, decreases with increasing M500,c at all z.
 
@@ -385,8 +385,8 @@
   * 但经典的Salpeter IMF似乎可以解释
 
 * [A Catalog of AGN Host Galaxies Observed with HST/ACS: Correlations between Star Formation and AGN Activity](https://arxiv.org/abs/1911.07864)
-  * A catalog of 2585 active galactic nucleus (AGN) host galaxies that are at redshifts 0.2 < z < 2.5 
-  * AGN host galaxies tend to lie below the star-forming main sequence, with X-ray-selected AGN host galaxies being more offset than IR-selected AGN host galaxies 
+  * A catalog of 2585 active galactic nucleus (AGN) host galaxies that are at redshifts 0.2 < z < 2.5
+  * AGN host galaxies tend to lie below the star-forming main sequence, with X-ray-selected AGN host galaxies being more offset than IR-selected AGN host galaxies
   * There is a positive trend between star formation rate and AGN luminosity in AGN host galaxies
 
 * [Unveiling Sizes of Compact AGN Hosts with ALMA](https://arxiv.org/abs/1911.07858)
@@ -519,7 +519,7 @@
 * [Luminosity Models and Density Profiles for Nuclear Star Clusters for a Nearby Volume-Limited Sample of 29 Galaxies](https://arxiv.org/abs/1911.09686)
   * **Useful**
   * HST图像的Sersic和MGE拟合，得到三维density：We find that these densities correlate with galaxy mass, with galaxies most NSCs being denser than typical globular clusters
-  * 建立了三维NSC密度模型，以及其与星系质量的关系，可以用来估计TDE频率 
+  * 建立了三维NSC密度模型，以及其与星系质量的关系，可以用来估计TDE频率
 
 * [Neutral Hydrogen Observations of Low Surface Brightness Galaxies around M101 and NGC 5485](https://arxiv.org/abs/1911.09694)
   * We detect HI reservoirs in 5 targets and place stringent upper limits on the remaining 22
@@ -547,13 +547,13 @@
 
 * [The radial distribution of supernovae compared to star formation tracers](https://arxiv.org/abs/1911.09842)
   * The strong correlation of Type Ia SNe with R-band light is consistent with models containing only low mass progenitors
-  * The radial distribution of Type II SNe best traces far ultraviolet (FUV) emission, consistent with recent direct detections indicating Type II SNe have moderately massive red supergiant progenitors. 
+  * The radial distribution of Type II SNe best traces far ultraviolet (FUV) emission, consistent with recent direct detections indicating Type II SNe have moderately massive red supergiant progenitors.
   * Stripped Envelope (SE) SNe have the strongest correlation with Halpha fluxes, indicative of very massive progenitors
 
 * [Detection of a high-redshift molecular outflow in a primeval hyperstarburst galaxy](https://arxiv.org/abs/1911.09967)
   * Massive molecular outflow in the starburst galaxy SPT0346-52 (z=5.656) via the detected absorption of high-excitation water transitions (H2O 42,3−41,4 and H2O 33,0−32,1) with ALMA
   * SFR极高，而且compact；外流率比SFR低很多
-  * The coincidence of the hyper-compact starburst and high-excitation water absorption indicates that this is a single starburst galaxy surrounded by a disc. 
+  * The coincidence of the hyper-compact starburst and high-excitation water absorption indicates that this is a single starburst galaxy surrounded by a disc.
 
 * [The properties of He II 1640 emitters at z ~ 2.5-5 from the VANDELS survey](https://arxiv.org/abs/1911.09999)
   * We identify a total of 33 Bright He II emitters (SNR>2.5) and 17 Faint emitters (SNR<2.5); 7个更可能来自AGN
@@ -571,7 +571,7 @@
 
 * [How do atomic code uncertainties affect abundance measurements in the intracluster medium?](https://arxiv.org/abs/1911.09684)
   * Comprehensive comparison between the codes SPEXACT v3.0.5 (cie model) and AtomDB v3.0.9 (vapec model)
-  * In cool plasmas (kT≲2 keV), systematic differences up to ∼20% for the Fe abundance and ∼45% for the O/Fe, Mg/Fe, Si/Fe, and S/Fe ratios may still occur. 
+  * In cool plasmas (kT≲2 keV), systematic differences up to ∼20% for the Fe abundance and ∼45% for the O/Fe, Mg/Fe, Si/Fe, and S/Fe ratios may still occur.
 
 * [Cosmic ray transport in starburst galaxies](https://arxiv.org/abs/1911.09774)
   * Starburst galaxies are efficient γ-ray producers, because their high supernova rates generate copious cosmic ray (CR) protons, and their high gas densities act as thick targets off which these protons can produce neutral pions and thence γ-rays.
@@ -587,7 +587,7 @@
 
 * [Accretion History of AGN II: Constraints on AGN Spectral Parameters using the Cosmic X-ray Background](https://arxiv.org/abs/1911.10706)
   * 用CXB谱型来研究AGN整体：we rule out regions of X-ray spectral parameter space that do not reproduce the CXB in the energy range 1-100 keV
-  * The distributions observed in many AGN samples can be ruled out by our analysis, meaning these samples can not be representative of the full AGN population 
+  * The distributions observed in many AGN samples can be ruled out by our analysis, meaning these samples can not be representative of the full AGN population
 
 * [Astronomy and the new SI](https://arxiv.org/abs/1911.10204)
   * **Interesting, Useful**
@@ -595,16 +595,129 @@
 
 * [The effect of diffuse background on the spatially-resolved Schmidt relation in nearby spiral galaxies](https://arxiv.org/abs/1911.10211)
   * The removal of a diffuse background from SFR tracers, such as Hα, far-ultraviolet (FUV), infrared, leads to an increase in the slope of the sub-galactic Schmidt relation.
-  * 
+  * The fraction of diffuse background varies from galaxy to galaxy and accounts to ∼34 % in Hα, ∼43 % in FUV, ∼37 % in 24 μm, and ∼75\% in H I on average.
+  * The removal of diffuse background in SFR tracers leads to a super-linear molecular gas Schmidt relation.
 
 * [Ionised gas outflow signatures in SDSS-IV MaNGA active galactic nuclei](https://arxiv.org/abs/1911.10212)
+  * We find that while 25% of MaNGA-selected AGN show [OIII] components with emission line widths of > 500 km/s in more than 10% of their spaxels, only 7% of MaNGA non-AGN show a similar signature.
+  * 有些AGN中心已经没有活动了，但是外流迹象仍在
+  * 对星系的feedback作用不是很显著: the kinetic coupling efficiencies are < 1% and suggest that the feedback signatures probed in this paper are unlikely to have a significant impact on the AGN host galaxies.
 
-* [The effect of diffuse background on the spatially-resolved Schmidt relation in nearby spiral galaxies](https://arxiv.org/abs/1911.10281)
+* [Extracting galaxy merger timescales I: Tracking haloes with WhereWolf and spinning orbits with OrbWeaver](https://arxiv.org/abs/1911.10281)
+  * **Intersting, Useful**
+  * `WhereWolf`, which uses halo group catalogues and merger trees to ensure that haloes are tracked accurately in dense environments
+  * `OrbWeaver`, which quantifies each halo's orbital parameters.
+  * In the limit of small substructure-to-host mass ratio, we find that the prescriptions can overestimate the merger timescales substantially, such that haloes are predicted to survive well beyond the end of the simulation.
 
 * [A More Efficient Search for H2O Megamaser Galaxies : The Power of the X-ray and Mid-infrared Photometry](https://arxiv.org/abs/1911.10721)
+  * 中红外SED分解成SF和AGN成分：we show that the megamaser (disk maser) detection rate increases sharply for galaxies with 12 micron AGN luminosity L^{AGN}_{12 micron} greater than 10^42 erg/s
+  * 用X-ray和中红外AGN部分的光度的比值可以估计中性气体柱密度；密度高的星系中disk maser的探测率也高
 
 * [The FLASHES Survey I: Integral Field Spectroscopy of the CGM around 48 z=2.3−3.1 QSOs](https://arxiv.org/abs/1911.10740)
+  * 48个z=2.3-3.1的QSO的PCWI观测：Extended HI Lyman-α emission is discovered around 42/48 of the observed quasars, ranging in projected, flux-weighted radius from 21-71 proper kiloparsecs (pkpc), with 26 nebulae exceeding 100 pkpc in effective diameter.
+  * The emission appears to have a highly eccentric morphology and a maximum covering factor of 50% (60% for giant nebulae).
+  * 发射星云的速度相对系统和QSO Lya peak有平均的红移: the root-mean-square velocities of the nebulae are found to be consistent with (i.e., not exceeding) gravitational motions expected in host dark matter halos of QSOs at this redshift.
 
 * [An extended size-luminosity relation for the reverberation-mapped AGNs: the role of the accretion rate](https://arxiv.org/abs/1911.10802)
+  * Our measured accretion rate dependence is not consistent with the simple model of the accretion disk instability leading the BLRs formation. The BLR may instead form from the inner edge of the torus, or from some other means in which BLR size is positively correlated with accretion rate and the SMBH mass.
 
 * [Mapping the dark matter halo of early-type galaxy NGC 2974 through orbit-based models with combined stellar and cold gas kinematics](https://arxiv.org/abs/1911.11058)
+  * **Relevant**
+  * Pan-STARRS图像和SAURON运动学：The introduction of the cold gas kinematics shows a significant effect on the confidence limits of especially the dark halo properties
+  * Adopting a generalized-NFW dark matter profile, we measure a shallow cuspy inner slope of 0.6 只用恒星运动学无法限制inner slope
+
+----
+
+### Nov 27
+
+* [An accurate analytic model for the lensing mass of galaxies](https://arxiv.org/abs/1911.11761)
+  * We develop an analytic model for the lensing mass of galaxies, based on a broken power-law (BPL) density profile, which is a power-law profile with a mass deficit or surplus in the central region.
+
+* [Direct effects of the environment on AGN triggering in SDSS spiral galaxies: merger-AGN connection](https://arxiv.org/abs/1911.11683)
+  * In the outskirts of rich clusters, red spiral galaxies show a significant excess of the AGN fraction despite the lack of central gas. We argue that they have been pre-processed before entering the rich clusters
+  * We investigate an environment in which many star-forming galaxies coexist with a few starburst-AGN composite hosts having the highest [OIII] luminosity 
+
+* [The Diffuse Ionized Gas Halo of the Small Magellanic Cloud](https://arxiv.org/abs/1911.11588)
+  * The ionized gas emission extends far beyond the central stellar component of the galaxy, reaching similar distances to that of the diffuse neutral halo traced by 21 cm observations
+  * We find ratios of the total ionized gas mass divided by the total neutral plus ionized gas mass in three distinct subregions to be: (1) 46%-54% throughout the SMC and its extended halo, (2) 12%-32% in the SMC Tail that extends toward the Magellanic Bridge, and (3) 65%-79% in a filament that extends away from the SMC toward the Magellanic Stream.
+
+* [Accelerated orbital decay of supermassive black hole binaries in merging nuclear star clusters](https://arxiv.org/abs/1911.11526)
+  * We find that the presence of distinct star clusters around each SMBH has important consequences for the dynamical evolution of the SMBH binary 能加快SMBH对距离减小的速度
+  * The subsequent binary hardening is driven by the gravitational slingshots between the SMBH binary and stars, and also depends on the mass ratio between the SMBHs. Thus, with this additional drag force, we find that all SMBHs in our suite coalesce within a Hubble time
+
+* [Mass Bias of Weak Lensing Shear-selected Galaxy Cluster Samples](https://arxiv.org/abs/1911.11480)
+  * **Relevant**
+  * The mass bias is expected to be significant because constructions of cluster samples from peaks in weak lensing mass maps and measurements of cluster masses from their tangential shear profiles share the same noise
+  * We find that, even for peaks with signal-to-noise ratio larger than 4.0 in weak lensing mass maps constructed in a deep survey with a high source galaxy number density of 30 arcmin−2, derived weak lensing masses for these shear-selected clusters are still biased high by ∼55% on average.
+
+* [Enhanced UV radiation and dense clumps in Mrk231's molecular outflow](https://arxiv.org/abs/1911.11243)
+  * We find a strong boost of the CN/CO(1-0) line luminosity ratio in the outflow, which is unprecedented compared to any other known Galactic or extragalactic source.
+  * For the first time, we resolve narrow spectral features in the HCN(1-0) and HCO+(1-0) high-velocity line wings tracing the dense phase of the outflow
+  * Our results suggest that massive, denser molecular gas complexes survive embedded into the more diffuse H2 phase of the outflow, and that the chemistry of such outflowing dense clouds is affected by enhanced UV radiation.
+
+* [X-ray Signatures of Black Hole Feedback: Hot Galactic Atmospheres in IllustrisTNG and X-ray Observations](https://arxiv.org/abs/1911.11165)
+  * The simulations reproduce the observed X-ray luminosities (LX) and temperature (TX) at small (<Re) and intermediate (<5Re) radii reasonably well.
+  * We find that the X-ray properties of lower mass galaxies depend on their star formation rates. In particular, in the magnitude range where the star-forming and quenched populations overlap
+  * 在固定的质量上，SF星系的X-ray光度比Quenched的要高。这是模拟里面Quenching机制造成的，但也是重要的观测预言
+
+* [Magnetising the circumgalactic medium of disk galaxies](https://arxiv.org/abs/1911.11163)
+  * Auriga模拟：We show that at high redshift the CGM becomes magnetised via galactic outflows that transport magnetised gas from the disk into the halo. “磁化”过程和金属增丰过程同步
+  * 在低红移：an in-situ turbulent dynamo that operates on a timescale of Gigayears further amplifies the magnetic field
+  * Only strong coherent outflows at low redshift are able to order the magnetic field in parts of the CGM that are directly displaced by these outflows.
+
+* [The Metallicity Gradient and Complex Formation History of the Outermost Halo of the Milky Way](https://arxiv.org/abs/1911.11163)
+  * We detect a negative metallicity gradient in the outermost halo (r > 35 kpc from the Galactic center)
+  * The retrograde stars in the outermost halo exhibit a roughly constant metallicity, which may be linked to the accretion of the Sequoia progenitor.
+  * In contrast, prograde stars in the outermost halo exhibit a strong metallicity-distance dependence, indicating that they likely originated from the accretion of galaxies less massive than the Sequoia progenitor galaxy.
+
+* [Measuring lensing ratios with future cosmological surveys](https://arxiv.org/abs/1911.11766)
+  * **Study**
+  * The ratio between the CMB lensing/galaxy counts and the galaxy shear/galaxy counts cross-correlations combines the information from different cosmological probes to infer cosmographic measurements that are less dependent on astrophysical uncertainties and can constrain the geometry of the Universe.
+    * Being a ratio between two cross-correlation terms with the same lens, this estimator is largely independent on the clustering bias of the lens and weak lensing systematics, but depends on most of the background cosmological parameters
+
+* [Fisher for complements: Extracting cosmology and neutrino mass from the counts-in-cells PDF](https://arxiv.org/abs/1911.11158)
+  * **Study**
+  * The total matter PDF is highly sensitive to the total neutrino mass Mν and can disentangle it from the clustering amplitude σ8.
+  * We establish that the matter PDF and the matter power spectrum are highly complementary at mildly nonlinear scales. The matter PDF is particularly powerful for constraining the matter density Ωm, clustering amplitude σ8 and the total neutrino mass Mν.
+  * 有关于Fisher matrix做预测的教程
+
+----
+
+### Nov 28
+
+* [Living with Neighbors. II. Statistical Analysis of Flybys and Mergers of Dark Matter Halos in Cosmological Simulations](https://arxiv.org/abs/1911.10782)
+  * The flyby fraction increases by up to a factor of 50 with decreasing halo mass and by up to a factor of 400 with increasing large-scale density, while the merger fraction does not show any significant dependencies on these two parameters
+  * The redshift evolution of the flyby fraction is twofold, increasing with redshift at 0<z<1 and remaining constant at z>1, while the merger fraction increases monotonically with redshift at z=0∼4
+
+* [Point Source Detection with Fully-Convolutional Networks: Performance in Realistic Simulations](https://arxiv.org/abs/1911.10826)
+  * Point Source Image Detection Network (PoSeIDoN) 在CMB图像中找点源
+
+* [Charge exchange emission and cold clumps in multi-phase galactic outflows](https://arxiv.org/abs/1911.10860)
+  * The observed filamentary Hα features are therefore not prime charge-exchange line emitters. They are stripped material torn from the slow moving dense clumps by the faster moving ionised fluid which are subsequently warmed and stretched into elongated shapes.
+  * We have shown that some clumps could survive their passage along a galactic outflow. These are advected into the circumgalactic environment, where their remnants would seed condensation of the circumgalactic medium to form new clumps.
+
+* [The ALMaQUEST Survey: III. Scatter in the resolved star forming main sequence is primarily due to variations in star formation efficiency](https://arxiv.org/abs/1911.11887)
+  * ALMA+MaNGA: Sigma_SFR is primarily regulated by molecular gas surface density (Sigma_H2) with a secondary dependence on stellar mass surface density (Sigma_*), as expected from an `extended Kennicutt-Schmidt relation'
+  * Whilst the absolute rate of star formation is primarily set by the amount of molecular gas, the variation of star formation rate above and below the resolved star forming main sequence (on kpc scales) is primarily due to changes in SFE.
+
+* [Characterising the Structure of Halo Merger Trees Using a Single Parameter: The Tree Entropy](https://arxiv.org/abs/1911.11959)
+  * **Interesting, Useful**
+  * 用一个参数描述星系的并合树：the "tree entropy", to parametrise the geometry of a halo's entire mass assembly hierarchy, building on a generalisation of Shannon's information entropy.
+  * s=0意味着平滑吸积主导，s=1意味着binary并合主导; s的分布：a skewed bell curve peaking near s=0.3 for first generation haloes.
+  * We find that s contains a significant amount of information on the morphology of galaxies − in fact more information than the spin, concentration and assembly time of the halo.
+
+* [Gravitational Lens System PS J0147+4630 (Andromeda's Parachute): Main Lensing Galaxy and Optical Variability of the Quasar Images](https://arxiv.org/abs/1911.12123)
+  * We report the detection of microlensing variations in C and D as large as ∼0.1 mag on timescales of a few hundred days
+
+* [Beyond Limber: Efficient computation of angular power spectra for galaxy clustering and weak lensing](https://arxiv.org/abs/1911.11947)
+  * We present a new method based on our generalized FFTLog algorithm for the efficient computation of angular power spectra beyond the Limber approximation.
+  * We find that using the Limber approximation for galaxy clustering in future analyses like LSST Year 1 and DES Year 6 may cause significant biases in cosmological parameters, indicating that going beyond the Limber approximation is necessary for these analyses.
+
+* [SPECULATOR: Emulating stellar population synthesis for fast and accurate galaxy spectra and photometry](https://arxiv.org/abs/1911.11778)
+  * **Relevant, Useful**
+  * A fast, accurate, and flexible framework for emulating stellar population synthesis (SPS) models for predicting galaxy spectra and photometry
+  * For emulating spectra, we use principal component analysis to construct a set of basis functions, and neural networks to learn the basis coefficients as a function of the SPS model parameters. For photometry, we parameterize the magnitudes (for the filters of interest) as a function of SPS parameters by a neural network.
+
+* [Constraints on Neutrino Emission from Nearby Galaxies Using the 2MASS Redshift Survey and IceCube](https://arxiv.org/abs/1911.11809)
+  * The distribution of galaxies within the local universe is characterized by anisotropic features. Observatories searching for the production sites of astrophysical neutrinos can take advantage of these features to establish directional correlations between a neutrino dataset and overdensities in the galaxy distribution in the sky.
+  * No significant correlations were observed
