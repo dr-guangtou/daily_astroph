@@ -721,3 +721,35 @@
 * [Constraints on Neutrino Emission from Nearby Galaxies Using the 2MASS Redshift Survey and IceCube](https://arxiv.org/abs/1911.11809)
   * The distribution of galaxies within the local universe is characterized by anisotropic features. Observatories searching for the production sites of astrophysical neutrinos can take advantage of these features to establish directional correlations between a neutrino dataset and overdensities in the galaxy distribution in the sky.
   * No significant correlations were observed
+
+----
+
+### Dec 01
+
+* [The Intergalactic medium transmission towards z>4 galaxies with VANDELS and the impact of dust attenuation](https://arxiv.org/abs/1911.12532)
+
+* [Decoding Cosmological Information in Weak-Lensing Mass Maps with Generative Adversarial Networks](https://arxiv.org/abs/1911.12890)
+
+* [Measuring bulk flows of the intracluster medium in the Perseus and Coma galaxy clusters using XMM-Newton](https://arxiv.org/abs/1911.13108)
+
+* [The baryon content of groups and clusters of galaxies in the FABLE simulations](https://arxiv.org/abs/1911.12367)
+
+* [From Peculiar Morphologies to Hubble-type Spirals: The relation between galaxy dynamics and morphology in star-forming galaxies at z~1.5](https://arxiv.org/abs/1911.12375)
+
+* [BAT AGN Spectroscopic Survey -- XIX: Type 1 versus Type 2 AGN dichotomy from the point of view of ionized outflows](https://arxiv.org/abs/1911.12395)
+
+* [Structural analysis of massive galaxies using HST deep imaging at z < 0.5](https://arxiv.org/abs/1911.12455)
+
+* [Hunting ghosts: the iconic stellar stream(s) around NG5907 under scrutiny](https://arxiv.org/abs/1911.12577)
+
+* [Multifrequency study of GHz-peaked spectrum sources](https://arxiv.org/abs/1911.12769)
+
+* [Discovery of a Powerful >10^61 erg AGN Outburst in Distant Galaxy Cluster SPT-CLJ0528-5300](https://arxiv.org/abs/1911.12828)
+
+* [A lack of evolution in the very bright-end of the galaxy luminosity function from z = 8-10](https://arxiv.org/abs/1911.12832)
+
+* [Compact groups from semi-analytical models of galaxy formation -- I: a comparative study of frequency and nature](https://arxiv.org/abs/1911.12888)
+
+* [The ATLAS 9.0 GHz Survey of the Extended Chandra Deep Field South: The Faint 9.0 GHz Radio Population](https://arxiv.org/abs/1911.12967)
+
+* [Kinematic and metallicity properties od the Aquarius dwarf galaxy from FORS2 MXU spectroscopy](https://arxiv.org/abs/1911.13081)
