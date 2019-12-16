@@ -457,3 +457,112 @@
     * Derive the dynamical mass of face-on galaxy disks using their neutral hydrogen (HI) velocity dispersion
     * We find that for the large galaxies the disk dynamical and Hi gas mass surface densities are comparable in the outer disks. 
     * But in the smaller dwarf galaxies, for which the total HI gas mass dominates the baryonic mass i.e. M(HI)>M(stars), the disk dynamical mass is much larger than the baryonic mass --> there must either be a very low luminosity stellar disk which provides the vertical support for the HI gas disk or there is halo dark matter associated with their disks
+
+----
+
+### Dec 13
+
+* [Constraining the second half of reionization with the Lyman-β forest](https://arxiv.org/abs/1912.05582)
+    * We consider the evolution of the Lyman-series forest out to higher redshifts, and show that future observations of the Lyman-β forest at z>6 will discriminate between different reionization histories.
+
+* [Toward accurate measurement of property-dependent galaxy clustering I. Comparison of the Vmax method and the "shuffled" method](https://arxiv.org/abs/1912.05976)
+    * The redshift assignment for the random sample is one of the key steps to measure the galaxy clustering accurately
+    * We found that the shuffled method significantly underestimates both of the projected 2PCFs and the two-dimensional 2PCFs in redshift space.
+    * Vmax方法对于volume限制的样本没有bias，对于flux限制的样本，bias也相对较小
+
+* [Molecular Gas Inflows and Outflows in Ultraluminous Infrared Galaxies at z∼0.2 and one QSO at z=6.1](https://arxiv.org/abs/1912.05548)
+    * We use Herschel PACS and ALMA Band 7 observations of the hydroxyl molecule (OH) line at rest-frame wavelength 119 μm which in absorption can provide unambiguous evidence for inflows or outflows of molecular gas in nuclear regions of galaxies.
+    * We detect OH high-velocity absorption wings in three of the four ULIRGs.
+    * Consistent with an inside-out quenching scenario, these outflows are depleting the central reservoir of molecular gas at a similar rate than the intense star formation activity.
+
+* [HST/WFC3 grism observations of z∼1 clusters: evidence for evolution in the mass-size relation of quiescent galaxies from poststarburst galaxies](https://arxiv.org/abs/1912.05551)
+    * **Relevant**
+    * 看z=1 cluster里23个PSB星系的结构，讨论progenitor bias的重要性
+    * Despite clear PSB spectral signatures implying rapid and violent quenching, 87% of these galaxies have symmetric, undisturbed morphologies in the stellar continuum.
+    * They follow a mass-size relation lying midway between the star-forming and quiescent field relations. This implies a rapid change in the light profile without directly effecting the stellar distribution, suggesting changes in the mass-to-light ratio gradients across the galaxy are responsible.
+    * Modelling a galaxy with a bulge+disc, and fading the disc from the "outside-in", can lead to the contraction in size and increase in bulge-dominance observed between star-forming and PSB cluster galaxies.
+
+* [The Subaru HSC Galaxy Clustering with Photometric Redshift I: Dark Halo Masses Versus Baryonic Properties of Galaxies at 0.3<z<1.4](https://arxiv.org/abs/1912.05668)
+    * **Relevant**
+    * The fraction of less-massive satellite galaxies at z≲1 is found to be almost constant at ∼20%, but it gradually decreases beyond M*~10^10.4.
+    * The abundance of satellite galaxies at z>1 is quite small even for less-massive galaxies due to the rarity of massive centrals at high-z.
+    * The stellar-to-halo mass ratios at 0.3≤z≤1.4 are almost consistent with the predictions obtained using the latest empirical model; however, we identify small excesses from the theoretical model at the massive end.
+    * We systematically show that 10^{12}h−1M⊙ is a universal pivot halo mass up to z∼5 that is derived using only the clustering/HOD analyses.
+
+* [SOFIA/HAWC+ View of an Extremely Luminous Infrared Galaxy, WISE1013+6112](https://arxiv.org/abs/1912.05813)
+    * 一个z=3.7的DOG红外星系：We successfully pin down FIR SED of WISE1013+6112 and its IR luminosity is estimated to be LIR = (1.62 ± 0.08) ×10^14 L⊙, making it one of the most luminous IR galaxies in the universe.
+    * We determine the dust temperature of WISE1013+6112 is Tdust = 89 ± 3 K, which is significantly higher than that of other populations such as SMGs and FIR-selected galaxies at similar IR luminosities.
+    * This indicates that WISE1013+6112 has a significant active galactic nucleus (AGN) and star-forming activity behind a large amount of dust.
+
+----
+
+### Dec 16
+
+* [Infra-Red Emission from Cold Gas Dusty Disks in Massive Ellipticals](https://arxiv.org/abs/1912.06147)
+    * 改进了模型之后的模拟研究：the circumnuclear disk (of a size . 1 kpc) is dusty in its outer region where most of the metals are in dust grains, while in the inner disk most of the dust grains are destroyed by the AGN irradiation
+    * the dusty disk is optically thick to both the starlight within the disk and the radiation from the central AGN. Thus the AGN will be obscured behind the disk
+    * 模型里需要考虑：被动星族演化中形成的尘埃；通过碰撞和粘滞进行的尘埃成长；thermal sputtering导致的尘埃摧毁；热气体中的非弹性碰撞冷却产生的尘埃；以及辐射压对尘埃的影响。
+
+* [The Performance of Photometric Reverberation Mapping at High Redshift and the Reliability of Damped Random Walk Models](https://arxi.org/abs/1912.06149)
+    * We can recover the input lag to within 6 per cent on average given our target's observed signal-to-noise of > 20 and an average cadence of 14 days (even when DRW is not applicable).
+    * We exceed the signal-to-noise of the Sloan Digital Sky Survey Reverberation Mapping Project (SDSS-RM) campaign with a quarter of the observing time per object, resulting in a ∼200 per cent increase in SNR efficiency over SDSS-RM.
+
+* [The Ionizing Photon Production Efficiency (ξion) Of Lensed Dwarf Galaxies At z∼2](https://arxiv.org/abs/1912.06152)
+    * MOSFIRE观测被星系团引力透镜放大的1.4< z< 2.7的矮星系的光致电离光子产生效率
+    * We do not find any strong dependence between log(ξion) and stellar mass, MUV or UV spectral slope (β) 
+    * We also find a correlation between log(ξion) and the equivalent widths of Hα and [OIII]λ5007 fluxes, confirming that these equivalent widths can be used to estimate ξion.
+
+* [Probing black hole accretion tracks, scaling relations and radiative efficiencies from stacked X-ray active galactic nuclei](https://arxiv.org/abs/1912.06153)
+    * We combine X-ray measurements of the mean black hole accretion luminosity as a function of stellar mass and redshift with empirical models of galaxy stellar mass growth, integrating over time to predict the evolving Mbh-Mstar relation
+    * The implied relation is nearly independent of redshift, indicating that stellar and black hole masses grow, on average, at similar rates.
+    * This result provides independent evidence for selection bias in dynamically estimated black hole masses
+
+* [Structural analysis of disk super star clusters of M82: size and profile shape at intermediate ages](https://arxiv.org/abs/1912.06164)
+    * ACS多波段模型拟合研究盘上的99个Super Star Cluster; Moffat-EFF模型拟合得最好; 和LMC的SCC接近
+    *  M82 is well-known for the absence of current star formation in its disk, with all disk SSCs older than 50 Myr and hardly any cluster older than ∼300 My
+
+* [The 1.28 GHz MeerKAT DEEP2 Image](https://arxiv.org/abs/1912.06212)
+    * 1.28 GHz MeerKAT DEEP2 image covering one ≈68′ FWHM primary beam area with 7.6″ FWHM resolution
+    * Most sources fainter than S∼100 μJy are distant star-forming galaxies obeying the FIR/radio correlation, and sources stronger than 0.25 μJy account for ∼93% of the radio background produced by star-forming galaxies
+    * T1he DEEP2 source count has reached the depth needed to reveal the majority of the star formation history of the universe
+
+* [Ionized gas kinematics of massive elliptical galaxies in CALIFA and in cosmological zoom-in simulations](https://arxiv.org/abs/1912.06451)
+    * Analysis of Halpha velocity fields in 123 local ETGs from the CALIFA integral field spectroscopy survey with 20 simulated galaxies from high-resolution hydrodynamic cosmological SPHgal simulations.
+    * Observed local massive galaxies show a broad range of irregularities, indicating disturbed warm gas motions, irrespective of being classified via diagnostic lines as AGN or not.
+    * Simulations of massive galaxies with AGN feedback generally exhibit higher irregularity parameters than without AGN feedback, more consistent with observations.
+    * More specifically, k3,5/k1 is most sensitive to AGN feedback, whereas Delta Phi is most strongly affected by gas infall.
+
+* [The frequency of very young galaxies in the local Universe: II. The view from SDSS spectra](https://arxiv.org/abs/1912.06522)
+    * Very young galaxies (VYGs), defined as those with more than half their stellar masses formed within the last Gyr.
+    * The VYG fractions decrease with increasing galaxy stellar mass
+    * But old stellar populations may hide in our VYGs despite our conservative VYG sample built with galaxies that are globally bluer than within the region viewed by the SDSS fibre
+
+* [The Variability of the Star Formation Rate in Galaxies: I. Star Formation Histories Traced by EW(Hα) and EW(HδA)](https://arxiv.org/abs/1912.06523)
+    * Define a star formation change parameter, SFR5Myr/SFR800Myr
+    * 在MaNGA里面测试：galaxies with a recent temporal enhancement in overall SFR have enhanced star formation at all galactic radii.
+    * Locations with short gas depletion time appear to undergo bigger variations in their star-formation rates on Gyr or less timescales
+    * The dispersion in star-formation rate surface densities ΣSFR in the galaxy population appears to be inversely correlated with the inferred gas depletion timescale and interpreted this in terms of the dynamical response of a gas-regulator system to changes in the gas inflow rate
+
+* [GASP. XXII The molecular gas content of the JW100 jellyfish galaxy at z~0.05: does ram pressure promote molecular gas formation?](https://arxiv.org/abs/1912.06565)
+    * ALMA在一个水母星系里找到了大量分子气体 (2.5x10^10 Msun), 30%位于被剥离的tail里面
+    * The overall kinematics of molecular gas is similar to the one shown by the ionized gas, but for clear signatures of double components along the stripping direction
+    * Molecular gas in the tail is newly born from stripped HI gas or newly condensed from stripped diffuse molecular gas.
+    * A significant fraction (∼40%) of the molecular gas is extended over large scales (≥8 kpc) in the disk
+
+* [Cosmological constraints from galaxy multi-tracers in the nearby Universe](https://arxiv.org/abs/1912.06155)
+    * We measure the BAO scale in the two-point auto- and cross-correlation functions of three independent populations of multi-tracers extracted from the SDSS DR7 Main galaxy sample at redshift 0.02< z < 0.22.
+
+* [Filament profiles from WISExSCOS galaxies as probes of the impact of environmental effects](https://arxiv.org/abs/1912.06559)
+    * We investigate properties of galaxy in the range 0.1< z< 0.3 from a value-added version of the WISExSCOS catalogue around cosmic filaments detected with DisPerSE.
+    * We have measured an excess of passive galaxies near the filament's spine, higher than the excess of transitioning and active galaxies. 
+    * We have also detected SFR and Mstar gradients pointing towards the filament's spine.
+
+* [Mitigating the impact of fiber assignment on clustering measurements from deep galaxy redshift surveys](https://arxiv.org/abs/1912.06583)
+    * Tomoni的工作；围绕着PFS的光纤分配冲突展开: Such surveys will have more target galaxies than we can place fibers on. 
+    * First, it eliminates fluctuations with wavelengths longer than the size of the field of view, as the number of observed galaxies per field is nearly fixed to the number of available fibers.
+    * Second, it makes the preferential selection of galaxies in under-dense regions. We mitigate this effect by weighting galaxies using the so-called individual inverse probability.
+
+* [Lensing-like tensions in the Planck legacy release](https://arxiv.org/abs/1912.06601)
+    * The amount of lensing determined from the smoothing of the acoustic peaks in the temperature and polarization power spectra is 2σ too high when compared with the measurements using the lensing reconstruction and 2.8σ too high when compared with ΛCDM expectation based on the "unlensed" portion of the temperature and polarization power spectra.
+    * 最大的变化：driven by improved constraints to the optical depth to reionization
+    * Within the context of ΛCDM, improvements in its parameter constraints from lensing reconstruction brings this tension to 2.1σ and from further adding baryon acoustic oscillation and Pantheon supernova data to a marginally higher 2.2σ

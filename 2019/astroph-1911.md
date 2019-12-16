@@ -18,7 +18,10 @@
 
 * [The Distribution of Ultra-Diffuse and Ultra-Compact Galaxies in the Frontier Fields](https://arxiv.org/abs/1911.00011)
   * **Interesting, Relevant**
-  *
+  * We estimate the clusters host of order ∼200–1400 UDGs inside the virial radius (R200), consistent with the UDG abundance halo-mass relation found in the local universe
+  * UDG的分布是lopsided的，整体上避开高density的区域
+  * We also investigate the ultra-compact dwarfs (UCDs) residing in the clusters, and find the spatial distributions of UDGs and UCDs appear anticorrelated.
+  * Around 15% of UDGs exhibit either compact nuclei or nearby point sources.
 
 * [A CO molecular gas wind 340 pc away from the Seyfert 2 nucleus in ESO 420-G13 probes an elusive radio jet](https://arxiv.org/abs/1911.00015)
 
