@@ -30,26 +30,42 @@
 * [The effects of cosmic rays on the formation of Milky Way-like galaxies in a cosmological context](https://arxiv.org/abs/1911.00019)
 
 * [Swirls of FIRE: Spatially Resolved Gas Velocity Dispersions and Star Formation Rates in FIRE-2 Disk Environments](https://arxiv.org/abs/1911.00020)
+  * **Relevant**
+  * 看银河系质量星系里局部气体速度弥散度和SFR的关系：we find a relatively flat relationship, with σ ≈ 15 − 30 km/s in neutral gas across 3 dex in SFRs.
+  * We show that higher dense gas fractions (ra- tios of dense gas to neutral gas) and SFRs are correlated at constant σ
+  * We see evidence of “on-off” cycles of star formation in the simulations, corresponding to feedback injection timescales of 10-100 Myr, where SFRs oscillate about equilibrium SFR predictions.
+  * 盘上的气体速度弥散度主要是有stellar feedback cycle调控的
 
 * [Simulating MOS science on the ELT: Lyα forest tomography](https://arxiv.org/abs/1911.00021)
+  * The quality of the reconstruction of the original density field is studied for different spectral resolutions (R “ 1000 and R “ 2000, corresponding to the transverse typical scales of 2.5 and 4 Mpc)
+  * We demonstrate that the minimum S {N (per resolution element) of the faintest galaxies that such survey has to reach is S/N ~ 4.
 
 * [The Properties of Radio and Mid-infrared Detected Galaxies and the Effect of Environment on the Co-evolution of AGN and Star Formation at z∼1](https://arxiv.org/abs/1911.00024)
 
 * [The ALMA Spectroscopic Survey in the HUDF: Constraining cumulative CO emission at 1≲z≲4 with power spectrum analysis of ASPECS LP data from 84 to 115 GHz](https://arxiv.org/abs/1911.00028)
 
 * [SDSS-IV MaNGA: Bar pattern speed estimates with the Tremaine-Weinberg method and their error sources](https://arxiv.org/abs/1911.00090)
+  * We studied the errors related with (i) galaxy centre determination, (ii) disc position angle (PA) emphasising the difficulties triggered by outer non-axisymmetric structures besides the bar, (iii) the slits length and (iv) the spatial resolution. 
+  * PA error最重要：Reducing the spatial resolution increases the sensitivity to the PA error.
 
 * [Photometric Redshift Estimation with Galaxy Morphology using Self-Organizing Maps](https://arxiv.org/abs/1911.00210)
+  * We use Self Organizing Maps (SOMs) to map the multi dimensional photometric and galaxy size observations while taking advantage of exist- ing spectroscopic redshifts at 0 < z < 2 for independent training and testing sets.
 
 * [Using machine learning to study the kinematics of cold gas in galaxies](https://arxiv.org/abs/1911.00291)
 
 * [Deep Learning for space-variant deconvolution in galaxy surveys](https://arxiv.org/abs/1911.00443)
+  * We employ a U-NET Deep Neural Network (DNN) architecture to learn in a supervised setting parameters adapted for galaxy image processing and study two strategies for deconvolution
+  * The first approach is a post-processing of a mere Tikhonov deconvolution with closed form solution and the second one is an iterative deconvolution framework based on the Alternating Direction Method of Multipliers (ADMM).
+  * The approach based on Tikhonov deconvolution leads to the most accurate results except for ellipticity errors at high signal to noise ratio where the ADMM approach performs slightly better, is also more computation-time efficient to process a large number of galaxies
 
 ----
 
 ### Nov 4
 
 * [The halo mass function of late-type galaxies from HI kinematics](https://arxiv.org/abs/1911.00517)
+  * **Important**
+  * 对SPARCS样本，将单镜HI线宽和旋转曲线得到的M200联系起来；再用到HIPASS样本上去
+  * 得到的HMF和LCDM在10^10.5-10^12.0 Msun之间的预测符合
 
 * [Radio-relic and the diffuse emission trail discovered in a low mass galaxy cluster Abell 1697](https://arxiv.org/abs/1911.00531)
 
@@ -58,28 +74,51 @@
 * [SDSS-IV MaNGA: Variations in the N/O -- O/H relation bias metallicity gradient measurements](https://arxiv.org/abs/1911.00581)
 
 * [SDSS-IV MaNGA: Internal mass distributions and orbital structures of early-type galaxies and their dependence on environment](https://arxiv.org/abs/1911.00777)
+  * **Relevant**
+  * Schwarzschild’s orbit-superposition方法：find that low-mass ETGs with log(M∗/M⊙) < 11.1 have an average dark matter fraction of ∼ 0.2 within one effective radius Re；tend to be oblate
+  * High-mass ETGs with log(M∗/M⊙) > 11.1 have an average dark mat- ter fraction of ∼ 0.4 within one effective radius Re, tend to be prolate-like, and are dominated by rotation about their major axis and by centrophilic orbits.
+  * Central和Satellite在相同质量上没有什么差别
 
 * [A Catalog of Galaxies in the Direction of the Perseus Cluster](https://arxiv.org/abs/1911.00951)
+  * **Useful, Relevant**
+  * Present a catalog of 5437 morphologically classified sources in the direction of the Perseus galaxy cluster core, among them 496 early-type low-mass galaxy candidates. 
+  * We extracted a sample of early-type low-mass galaxy candidates with absolute V -band magnitudes in the range of −10 to −20 mag
+  * For the faint candidates, we found a trend of increasing nucle- ation fraction toward brighter luminosity or higher surface brightness
 
 * [Box/peanut-shaped bulges in action space](https://arxiv.org/abs/1911.01084)
 
 * [GALEX colours of quasars and intergalactic medium opacity at low redshift](https://arxiv.org/abs/1911.01105)
 
 * [The Co-Evolution of Galaxies and the Cool Circumgalactic Medium Probed with the SDSS and DESI Legacy Imaging Surveys](https://arxiv.org/abs/1911.01271)
+  * **Interesting, Relevant**
+  * SDSS QSO探测到的60000个MgII吸收系统的Legacy survey图像对应研究，0.4< z<1.3
+  * We find that the gas covering fraction increases with stellar mass of galaxies by ∼ M^0.4.
+  * 如果把impact factor对Rvir进行归一，则在很宽的恒星质量范围内，气体覆盖比例随半径的变化都很一致
+  * The covering fraction within 0.3 rvir around star-forming galaxies is 2-4 times higher than that around passive galaxies at all redshifts.
+  * Strong absorber的红移演化很明显，和SFR的类似；但弱absorber的演化则不明显
 
 * [Bursting and quenching in satellite galaxies](https://arxiv.org/abs/1911.01395)
+  * We find that GalICS 2.0 can reproduce the observed metallicity difference only if quenching is preceded by a burst of star formation, which contributes to the chemical enrichment of the stellar population
 
 * [Unveiling the merger dynamics of the most massive MaDCoWS cluster at z=1.2 from a multi-wavelength mapping of its intracluster medium properties](https://arxiv.org/abs/1911.00560)
+  * X-ray+NIKA SZ测量，obtained with unprecedented precision at this redshift and up to 0.7R500
+  * Spitzer星系分布和ICM分布-->星系团正在经历并合
 
 * [Integrated Spectra of Milky Way Globular Cluster](https://arxiv.org/abs/1911.01224)
+  * **Useful**
+  * Our aim is to further study the oldest GC located in the Galactic bulge, with a metallicity in the range −1.6<[Fe/H]<−0.7.
+  * We reproduce the full spectra in the range 4500-9000  ̊A available in these observed spectra, as well as individual lines of Na, Mg, Al, Si, Ca, Ti, Ba, and Eu.
 
 ----
 
 ### Nov 4
 
 * [The Sloan Digital Sky Survey extended Point Spread Functions](https://arxiv.org/abs/1911.01430)
+  * **Useful, Relevant**
 
 * [The SAMI Galaxy Survey: The contribution of different kinematic classes to the stellar mass function of nearby galaxies](https://arxiv.org/abs/1911.01433)
+  * **Relevant**
+  * 
 
 * [Have we seen all the galaxies that comprise the cosmic infrared background at 250\,μm ≤λ≤ 500\,μm?](https://arxiv.org/abs/1911.01437)
 

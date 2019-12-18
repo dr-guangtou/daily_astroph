@@ -566,3 +566,91 @@
     * The amount of lensing determined from the smoothing of the acoustic peaks in the temperature and polarization power spectra is 2σ too high when compared with the measurements using the lensing reconstruction and 2.8σ too high when compared with ΛCDM expectation based on the "unlensed" portion of the temperature and polarization power spectra.
     * 最大的变化：driven by improved constraints to the optical depth to reionization
     * Within the context of ΛCDM, improvements in its parameter constraints from lensing reconstruction brings this tension to 2.1σ and from further adding baryon acoustic oscillation and Pantheon supernova data to a marginally higher 2.2σ
+
+----
+
+### Dec 17
+
+* [An analysis of galaxy cluster mis-centring using cosmological hydrodynamic simulations](https://arxiv.org/abs/1912.06663)
+    * **Relevant**
+    * `true' centre of the cluster, which is taken to be the most gravitationally bound particle measured in the simulation
+    * The galaxy-based centres can be seen to be divided into a mis-centred group and a well-centred group, with the well-centred group making up about 60% of all the clusters.
+    * Gas-based centres are not as clearly divided into two groups, but are overall less scattered than galaxy-based centres.
+    * Off-center距离和质量有关。Halo质量越小，越容易有比较大的offset
+    * For the galaxy-based centres, this can lead to cluster masses being underestimated by up to 10 per cent.
+
+* [Cosmicflows-3: Two Distance−Velocity Calculators](https://arxiv.org/abs/1912.07214)
+    * Tools are provided at the Extragalactic Distance Database website that provide relationships between the distances and velocities of galaxies based on smoothed versions of the velocity fields derived by the Cosmicflows program.
+
+* [Gas Density Perturbations in Cool Cores of CLASH Galaxy Clusters](https://arxiv.org/abs/1912.07300)
+    * We focus on the X-ray residual image characteristics after subtracting their global profile of the X-ray surface brightness
+    * The ICM temperature in the positive excess region is lower than that in the negative excess region, whereas the ICM in both regions is in pressure equilibrium in a systematic manner
+    * Gas sloshing in cool cores takes place in more than 80% of relaxed clusters (95% CL).
+    * Our findings support the picture that the gas density perturbations are induced by gas sloshing, and a large fraction of cool-core clusters have undergone gas sloshing, indicating that gas sloshing is capable of suppressing runaway cooling of the ICM.
+
+* [Hot WHIM counterparts of FUV OVI absorbers: Evidence in the line-of-sight towards quasar 3C 273](https://arxiv.org/abs/1912.06659)
+    * At FUV redshift z=0.09017, we measured signals of two hot ion species, OVIII and NeIX, with a 3.9σ combined significance level. 
+    * Thermal analysis indicates that FUV and X-ray absorption relate to different phases
+    * We detected a large scale galactic filament crossing the sightline at the redshift of the absorption, linking the absorption to this structure.
+
+* [Properties of galaxies and supermassive black holes in cosmic voids](https://arxiv.org/abs/1912.06662)
+    * Low-mass galaxies are more common than their massive counterparts at small void-centric distances. At fixed dark matter halo mass, they also have smaller stellar masses than in denser regions.
+    * As a consequence of the presence of low-mass galaxies in voids, the inner regions of voids also predominantly host low-mass BHs. 但黑洞质量和星系恒星质量比例与正常环境很接近
+    * While a large fraction of the BHs have low Eddington ratios, we find that 20% could be observed as AGN
+
+* [Neutron-capture elements in dwarf galaxies II: Challenges for the s- and i-processes at low metallicity](https://arxiv.org/abs/1912.06671)
+    * 
+
+* [Sub one percent mass fractions of young stars in red massive galaxies](https://arxiv.org/abs/1912.06700)
+    * **Relevant**
+    * We report a detailed study of these young stellar populations, from high-quality stacked spectra of 28,663 galaxies from the BOSS survey, analysing optical and ultraviolet absorption lines simultaneously.
+    * We find that residual star formation is ubiquitous in massive early-type galaxies, measuring average mass fractions of ~0.5% in young stars in the last 2 Gyr of their evolution. 
+    * We also find that synthetic galaxies from state-of-the-art cosmological numerical simulations significantly overproduce both intermediate and young stellar populations
+
+* [XMP gas-rich dwarfs in Nearby Voids: candidate selection](https://arxiv.org/abs/1912.06740)
+    * eXtremely Metal-Poor (XMP) very gas-rich blue dwarfs in voids in Lynx-Cancer void
+    * These very rare and unusual galaxies appear to be the best proxies for the so-called Very Young Galaxies (VYGs)
+    * We find that this study results in the discovery of many new XMP dwarfs with 12+log(O/H) ~ 7.0-7.3 dex.
+
+* [XMP gas-rich dwarfs in Nearby Voids: results of SALT spectroscopy](https://arxiv.org/abs/1912.06857)
+    * SALT follow-up of 26 XMP galaxies
+    * For ten of them, the oxygen abundance is found to be very low, in the range of 12+log(O/H)=6.95-7.30 dex. Of those, four void dwarfs have 12+log(O/H) < 7.19
+
+* [VEGAS: VST Early-type GAlaxy Survey. V. IC 1459 group: Mass assembly history in low density environments](https://arxiv.org/abs/1912.07452)
+    * The wide field of view, long integration time, high angular resolution, and arcsec-level seeing of OmegaCAM@VST allow us to map the light distribution of IC1459 down to a surface brightness level of 29.26 mag arcsec^{-2} in g band and 28.85 mag arcsec^{-2} in r band, and out to 7-10 Re, and to detect the optical counterpart of HI gas around IC1459.
+    * There is a good agreement of our results with predictions of numerical simulations regarding the structural properties of the brightest galaxies of the groups. 
+
+----
+
+### Dec 18
+
+* [Relativistic SZ temperature scaling relations of groups and clusters derived from the BAHAMAS and MACSIS simulations](https://arxiv.org/abs/1912.07924)
+    * Using the BAHAMAS and MACSIS simulations to obtain >10,000 simulated galaxy groups and clusters, we compute three temperature measures and quantify the differences between them.
+    * The third measure determines the lowest order relativistic correction to the tSZ signal, which is seeing increased observational relevance
+
+* [TDCOSMO. I. An exploration of systematic uncertainties in the inference of H0 from time-delay cosmography](https://arxiv.org/abs/1912.08027)
+    * We investigate three potential sources: 1- stellar kinematics, 2- line-of-sight effects, 3- deflector mass model.
+    * Stellar kinematics cannot be a dominant source of error or bias given current uncertainties.
+    * We find no bias arising from incorrect estimation of the line-of-sight effects
+    * The TDCOSMO procedures to model the data with both composite and power-law mass profiles are informative.
+
+* [Probing the origin of diffuse radio emission in the cool-core of the Phoenix galaxy cluster](https://arxiv.org/abs/1912.07853)
+    * We detect spiraling cool gas around the cluster core as well as discover two cold fronts near the core.
+
+* [First detection of the [OI] 63-um emission from a redshift 6 dusty galaxy](https://arxiv.org/abs/1912.07652)
+    * **Interesting**
+    * APEX SEPIA: ground-based detection of the [OI] 63-um line in a z=6.027 gravitationally lensed dusty star-forming galaxy
+    * With the [OI]63/[CII] luminosity ratio of 4, the [OI]63 line is the main coolant of the neutral gas in this galaxy, in agreement with model predictions.
+    * The high [OI]63 luminosity compensates for the pronounced [CII] deficit
+    * If G09.83808 represents a typical high-redshift DSFG, the [OI]63 line from z=6 non-lensed DSFGs should be routinely detectable in ALMA Band 9 observations with ∼15 min on-source
+    * In a dense, warm ISM - such as that in DSFGs or present-day (ultra)luminous infrared galaxies (ULIRGs) - the [O I] 63-µm line ([O I]63) overtakes [C II] as the main gas cooling channel
+
+* [LLAMA: The MBH - σ⋆ Relation of the most luminous local AGNs](https://arxiv.org/abs/1912.07734)
+    * Super-massive black hole masses (MBH) were derived from the broad-line based relations for Hα, Hβ and Paβ emission line profiles for the Type 1 AGNs
+    * We compare the bulge stellar velocity dispersion (σ⋆) as determined from the Ca II triplet (CaT) with the dispersion measured from the near-infrared CO (2-0) absorption features for each AGN and find them to be consistent with each other.
+    * We find that our sample of local luminous AGNs is consistent with the MBH - σ⋆ relation of lower luminosity AGNs and inactive galaxies, after correcting for dust extinction and the rotational contribution to the stellar velocity dispersion.
+
+* [Stellar populations and physical properties of starbursts in the Antennae galaxy from self-consistent modelling of MUSE spectra](https://arxiv.org/abs/1912.08151)
+    * SB99+Cloudy using Geneva & PARSEC: Using a spectrum-fitting methodology that allows the spectral features in the stellar and nebular continua (e.g. Wolf-Rayet features, Paschen jump), and emission-line diagnostics to constrain the models, we apply the libraries to the high-resolution MUSE spectra of the starbursting regions in the Antennae galaxy.
+    * The starbursts in the Antennae galaxy are characterised by stellar and gas metallicities of around solar
+    * The youngest starbursts are found across the overlap region and over parts of the western-loop, though in comparison, the regions in the western-loop appear to be at a slightly later stage in star-formation than the overlap region
