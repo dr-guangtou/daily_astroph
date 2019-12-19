@@ -654,3 +654,57 @@
     * SB99+Cloudy using Geneva & PARSEC: Using a spectrum-fitting methodology that allows the spectral features in the stellar and nebular continua (e.g. Wolf-Rayet features, Paschen jump), and emission-line diagnostics to constrain the models, we apply the libraries to the high-resolution MUSE spectra of the starbursting regions in the Antennae galaxy.
     * The starbursts in the Antennae galaxy are characterised by stellar and gas metallicities of around solar
     * The youngest starbursts are found across the overlap region and over parts of the western-loop, though in comparison, the regions in the western-loop appear to be at a slightly later stage in star-formation than the overlap region
+
+----
+
+### Dec 19
+
+* [A mass threshold for galactic gas discs by spin flips](https://arxiv.org/abs/1912.08213)
+    * We predict, analytically and by simulations, that gas discs tend to survive only in haloes above a threshold mass 2x10^11 Msun
+    * At lower masses, the disc spins typically flip in less than an orbital time due to mergers associated with a change in the pattern of the feeding cosmic-web streams.
+    * Above the threshold, wet compactions lead to massive central nuggets that allow the longevity of extended clumpy gas rings. Supernova feedback has a major role in disrupting discs below the critical mass, by driving the stellar-to-halo mass ratio that affects the merger rate
+
+* [Spatial segregation of massive clusters in dwarf galaxies](https://arxiv.org/abs/1912.08293)
+    * LEGUS survey: Class 2 and 3 LEGUS clusters, which have a more irregular internal structure than the compact and symmetric class 1 clusters, are found to be mass segregated in low mass galaxies, which means that the more massive clusters are systematically bunched together compared to the lower mass clusters.
+
+* [A consistency-test for determining whether ultra-compact dwarf galaxies could be the remnant nuclei of threshed galaxies](https://arxiv.org/abs/1912.08346)
+    * If the mass of the central black hole in UCD galaxies, relative to the mass of the UCD galaxies' inner stellar component, i.e. the suspected nuclear star cluster, matches with the (black hole mass)-(nuclear star cluster mass) relation observed in other galaxies, then it would provide quantitative support for the stripped galaxy scenario.
+
+* [The Nuker model for galactic nuclei](https://arxiv.org/abs/1912.08488)
+    * **Useful**
+    * A disadvantage of this model for dynamical studies is that the spatial density distribution that corresponds to this surface brightness profile cannot be written in terms of elementary or regular special functions.
+    * We derive a compact and elegant analytical expression for the density of the Nuker model, based the Mellin integral transform method.
+    * We extend and refine the classification of spherical isotropic galactic nuclei introduced by Tremaine et al. (1994).
+
+* [Gamma-Ray Burst Host Galaxies: Specific Star Formation Rate vs. Metallicity](https://arxiv.org/abs/1912.08511)
+    * The observed properties of long gamma-ray burst (GRB) host galaxies show them to often be of a rather low metallicity and/or of high specific star formation rate (SFR).
+    * We consider GRB production models dependent on both quantities and show that when compared to the best available data, the respective star formation fractions appear indistinguishable out to redshift of z∼4.
+
+* [Spatially-resolved analysis of neutral winds, stars and ionized gas kinematics with MEGARA/GTC: new insights on the nearby galaxy UGC 10205](https://arxiv.org/abs/1912.08556)
+    * The high-resolution data show the complexity of the Hα emission line profile revealing the detection of up to three kinematically distinct gaseous components. Despite of this fact, a thin disk model is able to reproduce the bulk of the ionized gas motions in the central regions of UGC 10205.
+    * We also report the detection of outflowing neutral gas material blueshifted by ∼ 87 km s−1
+
+* [MUSE-ALMA Halos V: Physical properties and environment of z < 1.4 HI quasar absorbers](https://arxiv.org/abs/1912.08699)
+    * An ongoing study of the Circum-Galactic Medium (CGM) of low redshift galaxies (z < 1.4), currently comprising 14 strong HI absorbers in five quasar fields.
+    * We detect 43 galaxies associated with absorbers down to star formation rate (SFR) limits of 0.01-0.1 solar masses/yr, found within impact parameters (b) of 250 kpc from the quasar sightline.
+    * We report a high detection rate of 89 per cent and find that most absorption systems are associated with pairs or groups of galaxies (three to eleven members).
+    * We find that groups of associated galaxies follow the canonical relations of N(HI) -- b and W_r(2796) -- b
+    * The metallicity of the ISM of associated galaxies, when measured, is higher than the metallicity limits of the absorber. 
+
+* [Tomographic galaxy clustering with the Subaru Hyper Suprime-Cam first year public data release](https://arxiv.org/abs/1912.08209)
+    * **Important**
+    * We select a magnitude limited sample with i<24.5 and analyze it in four redshift bins covering 0.15≲z≲1.5. We carry out a Fourier-space analysis of the two-point clustering of this sample, including all auto- and cross-correlations.
+    * Through an HOD analysis, we place constraints on the characteristic halo masses of this sample, finding a good fit up to scales kmax=1Mpc−1
+    * We are able to make a ∼3σ detection of lensing magnification in the HSC data. 
+
+* [Turnaround radius of galaxy clusters in N-body simulations](https://arxiv.org/abs/1912.08216)
+    * **Relevant**
+    * 在模拟里描述turn-around radius: Indeed, a single turnaround scale can meaningfully describe strongly non-spherical structures.
+    * 对10^13 Msun以上的Halo：the turnaround radius Rta scales with the enclosed mass Mta as M^1/3, as predicted by the spherical collapse model.
+    * Halos exhibit a characteristic average density within the turnaround scale. This characteristic density is dependent on cosmology and redshift.
+
+* [Morphological Star-Galaxy Separation](https://arxiv.org/abs/1912.08210)
+    * **Relevant**
+    * We construct a model of the performance of a star-galaxy separator in a realistic survey to understand the impact of observational signal-to-noise ratio (or equivalently, 5-sigma limiting depth) and seeing on classification performance.
+    * The model quantitatively demonstrates that, assuming realistic densities and angular sizes of stars and galaxies, 10% worse seeing can be compensated for by approximately 0.4 magnitudes deeper data to achieve the same star-galaxy classification performance.
+    * Because of the significant role that the signal-to-noise ratio plays in resolving small galaxies, surveys with large-aperture telescopes, such as LSST, will continue to see improving star-galaxy separation as they push to these fainter magnitudes.
