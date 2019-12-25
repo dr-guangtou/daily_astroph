@@ -708,3 +708,116 @@
     * We construct a model of the performance of a star-galaxy separator in a realistic survey to understand the impact of observational signal-to-noise ratio (or equivalently, 5-sigma limiting depth) and seeing on classification performance.
     * The model quantitatively demonstrates that, assuming realistic densities and angular sizes of stars and galaxies, 10% worse seeing can be compensated for by approximately 0.4 magnitudes deeper data to achieve the same star-galaxy classification performance.
     * Because of the significant role that the signal-to-noise ratio plays in resolving small galaxies, surveys with large-aperture telescopes, such as LSST, will continue to see improving star-galaxy separation as they push to these fainter magnitudes.
+
+----
+
+### Dec 20
+
+* [Cosmic flows in the nearby Universe: new peculiar velocities from SNe and cosmological constraints](https://arxiv.org/abs/1912.09383)
+    * We have compiled a new sample of 465 peculiar velocities from low redshift (z<0.067) Type Ia supernovae.
+    * Comparison of the reconstructed peculiar velocity fields to observations allows us to infer the cosmological parameter combination fσ8, and the bulk flow velocity arising from outside the survey volume.
+
+* [Formation of S0s in extreme environments I: clues from kinematics and stellar populations](https://arxiv.org/abs/1912.08845)
+    * A pilot study of 21 S0 galaxies in extreme environments (field and cluster), and compare their spatially-resolved kinematics and global stellar populations.
+    * Kinematics of S0 galaxies in field and cluster are, indeed, different
+    * Lenticulars in the cluster are more rotationally supported, suggesting that they are formed through processes that involve the rapid consumption or removal of gas (e.g. starvation, ram pressure stripping). In contrast, S0s in the field are more pressure supported, suggesting that minor mergers served mostly to shape their kinematic properties.
+
+* [The STRong lensing Insights into the Dark Energy Survey (STRIDES) 2017/2018 follow-up campaign: Discovery of 10 lensed quasars and 10 quasar pairs](https://arxiv.org/abs/1912.09133)
+    * We obtained spectra of 65 lensed quasar candidates either with EFOSC2 on the NTT or ESI on Keck, which confirm 10 new gravitationally lensed quasars and 10 quasar pairs with similar spectra, but which do not show a lensing galaxy in DES images.
+    * We find a simple cut on the less variable component that retains all confirmed lensed quasars, while removing 94 per cent of contaminant systems with stellar components.
+
+* [Spatial Power Spectra of Dust across the Local Group: No Constraint on Disc Scale Height](https://arxiv.org/abs/1912.09459)
+    * 1D spatial power spectra of dust surface density and mid to far-infrared emission at 24−500μm in the LMC, SMC, M31, and M33.
+    * By forward-modelling the point-spread-function (PSF) on the power spectrum, we find that nearly all power spectra have a single power-law and point source component.w
+    * A broken power-law model is only favoured for the LMC 24 μm MIPS power spectrum and is due to intense dust heating in 30 Doradus.
+
+----
+
+### Dec 23
+
+* [A Synthetic WFIRST High-Latitude Imaging Survey: Simulation Suite and the Impact of Wavefront Errors on Weak Gravitational Lensing](https://arxiv.org/abs/1912.09481)
+    * We present a suite of image simulations based on GalSim that are used to construct a complex, synthetic WFIRST weak lensing survey that incorporates realistic input galaxies and stars, relevant detector non-idealities, and the current reference five-year WFIRST survey strategy. 
+    * We present a first study to empirically validate the existing WFIRST weak lensing requirements flowdown using a suite of 12 matched image simulations, each representing a different perturbation to the wavefront or image motion model. These are chosen to induce a range of potential static and low- and high-frequency time-dependent PSF model errors.
+
+* [GriSPy: A Python package for Fixed-Radius Nearest Neighbors Search](https://arxiv.org/abs/1912.09585)
+    * **Useful** For 2PCF
+    * We present a new regular grid search algorithm for quick fixed-radius nearest-neighbor lookup developed in Python.
+    * In this first installment we provide three types of queries: bubble, shell and the nth−nearest; as well as three different metrics of interest in astronomy: the euclidean and two distance functions in spherical coordinates of varying precision, haversine and Vincenty
+
+* [Evidence that Emission and Absorption Outflows in Quasars Are Related](https://arxiv.org/abs/1912.09865)
+    * 1) the luminosity of the [OIII] λ5007 emission profile decreases with increasing electron number density (ne) derived from the BAL outflow in the same quasar 
+    * 2) the measured velocity widths from the [OIII] emission features and CIV absorption troughs in the same object are similar 
+    * 3) the mean radial velocity derived from the BAL outflow is moderately larger than the one from the [OIII] emission outflow.
+    * This might imply that BAL quasars and ERQs have the same geometry of outflows or are at a similar evolutionary stage
+
+* [Radio sources associated with Optical Galaxies and having Unresolved or Extended morphologies (ROGUE). I. A catalog of SDSS galaxies with FIRST core identifications](https://arxiv.org/abs/1912.09959)
+    * The catalog of Radio sources associated with Optical Galaxies and having Unresolved or Extended morphologies I (ROGUE~I)
+    * The results of our search are: (i) single-component unresolved and elongated, radio sources constitute the major group in the ROGUE I catalog (∼90%), and ∼8% exhibiting {\it extended} morphologies, (ii) samples of 269, 730, and 115 Fanaroff-Riley (FR) type I, II, and hybrid galaxies
+    * We report 55 newly discovered giant/possible giant, 16 double-double, 9 X-shaped, and 25 Z-shaped radio sources
+
+----
+
+### Dec 24
+
+* [Can UVB variations reconcile simulated quasar absorption lines at high redshift?](https://arxiv.org/abs/1912.10151)
+    * We introduce variations at z∼ 6 to the UVB and HI self--shielding and explore the sensitivity of the absorption features to modifications of the hardness of the UVB.
+    * Observed SiIV and low ionization states (e.g. CII, SiII, OI) are well represented by a soft UV ionizing field at z= 6 but, this same prescription, fails to reproduce the statistical properties of the observed ion CIV absorber population.
+    * On the other hand, variations in the HI self--shielding (SSh) prescription leave a non--negligible imprint in the calculated HI column density distribution function (CDDF) at z=4
+    * We conclude that small variations in the UVB and HI SSh at z∼ 6 play an important role in improving the estimation of metal ions and HI statistics at this redshift.
+
+* [Detection of missing baryons in galaxy groups with kinetic Sunyaev-Zel'dovich effect](https://arxiv.org/abs/1912.10152)
+    * **Interesting**
+    * 40000 galaxy group: the detection of the kinetic Sunyaev-Zel'dovich effect (kSZE) signals from groups of galaxies as a function of halo mass down to log(M500/M⊙)∼12.3
+    * The total kSZE flux within halos estimated implies that the gas fraction in halos is about the universal baryon fraction, even in low-mass halos, indicating that the `missing baryons' are found
+    * Combined with the thermal Sunyaev-Zel'dovich effect, our results indicate that the `missing baryons' associated with galaxy groups are contained in warm-hot media with temperatures between 10^5 and 10^6K. 
+
+* [The MOSDEF-LRIS Survey: The Interplay Between Massive Stars and Ionized Gas in High-Redshift Star-Forming Galaxies](https://arxiv.org/abs/1912.10243)
+    * z=2.3的SF星系按照BPT图上的位置分成两组看rest-UV和rest-optical光谱，拟合BPASS模型，考虑连续发射
+    * we find that high-redshift galaxies offset towards higher [OIII]/Hb and [NII]/Ha have younger ages and lower metallicity
+    * The stellar and nebular metallicities derived for our sample imply that the galaxies offset from the local BPT relation are more alpha-enhanced
+    * Even galaxies that are entirely consistent with the local nebular excitation sequence appear to be alpha-enhanced - in contrast with typical local systems
+    * 在高红移根据强线估计金属丰度的时候需要考虑alpha/Fe的变化
+
+* [Optical continuum photometric reverberation mapping of the Seyfert-1 galaxy Mrk509](https://arxiv.org/abs/1912.10319)
+    * Specially designed narrow-band filters were used in order to mitigate the line and pseudo-continuum contamination of the signal from the broad line region, while allowing for high-accuracy flux-calibration over a large field of view.
+    * The size of the disk is, however, a factor of 1.8 larger than predictions based on the standard thin-disk theory.
+
+* [Lower AGN Abundance in Galaxy Clusters at z < 0.5](https://arxiv.org/abs/1912.10342)
+    * We investigated AGN fraction in one of the largest samples of X-ray selected clusters from the ROSAT and their immediate surrounding field regions below z <0.5. We found lower average AGN fraction in clusters(2.37+-0.39)% than for the fields (5.12+-0.16)%.
+    * We found an increase in the fraction for both cluster and field galaxies with redshift below z < 0.5, which clearly indicates an environment and redshift dependence 
+    * We also measured increasing AGN fractions with clustercentric distance for all redshift bins, further confirming the environmental dependence of AGN activities. 
+
+* [NOEMA redshift measurements of bright Herschel galaxies](https://arxiv.org/abs/1912.10416)
+    * We conducted a program to measure redshifts for 13 bright galaxies detected in the Herschel Astrophysical Large Area Survey (H-ATLAS) with S500μm≥80 mJy.
+    * 红移在2< z< 4；The linewidths of the sources are large, with a mean value for the full width at half maximum of 700±300 km/s and a median of 800 km/s.
+
+* [Mass accretion toward black holes in the final phase of galaxy mergers](https://arxiv.org/abs/1912.10621)
+    * The mass accretion rate to one SMBH exceeds the Eddington accretion rate when the distance between two black holes (BHs) rapidly decreases. 但只能持续千万年量级，然后就掉到0.1倍爱丁顿吸积率左右
+    * The rapid accretion is caused by the angular momentum transfer from the gas to the stellar component, and the moderate accretion in the quasi-steady phase is caused by turbulent viscosity and gravitational torque in the disk.
+    * The AGN feedback and the mass accretion to BHs can coexist in the central region of merged galaxies
+
+* [Gaia-assisted discovery of a detached low-ionisation BAL quasar with very large ejection velocities](https://arxiv.org/abs/1912.10649)
+    * The discovery of a peculiar Broad Absorption Line (BAL) quasar identified in our Gaia-assisted survey of red quasars.
+    * However, we observe a weak and spatially-extended emission line at 4450 AA most likely due to Lyman-alpha emission, which implies a systemic redshift of z=2.66 if correctly identified.
+    * If this redshift is correct, the quasar is an extreme example of a detached low-ionisation BAL quasar. The BAL lines must originate from material moving with very large velocities ranging from 22000 to 40000 km/s. 
+    * To our knowledge, this is the first case of a systemic-redshift measurement based on extended Lyman-α emission for a BAL quasar
+
+* [Molecular gas in distant brightest cluster galaxies](https://arxiv.org/abs/1912.10716)
+    * **Relevant**
+    * We have observed in CO with the IRAM-30m two star forming BCGs belonging to SpARCS clusters, 3C 244.1 (z=0.4) and SDSS J161112.65+550823.5 (z=0.9) 只有上限估计
+    * The majority, 64%±15% and 73%±18%, of the 11 BCGs with observations in CO have lower M(H2)/M⋆ and τdep, respectively, than those estimated for main sequence galaxies.
+    * A morphological analysis for a subsample of seven BCGs with archival HST observations reveals that 71%±17% of the BCGs are compact or show star-forming substructures/components.
+    * Our results suggest a scenario where distant star forming BCGs assemble a significant fraction ∼16% of their stellar mass in the relatively short timescale τdep, while environmental mechanisms might prevent the replenishment of gas feeding the star formation
+
+* [Balmer Break Galaxy Candidates at z∼6: a Potential View on the Star-Formation Activity at z≳14](https://arxiv.org/abs/1912.10954)
+    * 通过K-[3.6]颜色找z=6星系中的强Balmer break；as well as by non-detection in X-ray, optical, far-infrared (FIR), and radio bands
+    * 3个候选：the BBG candidates at z∼6 have stellar masses of ≈5×10^10M⊙ dominated by old stellar populations with ages of ≳700 Myr.
+    * The onset of star formation in the three BBG candidates is expected to be several hundred million years before the observed epoch of z∼6.
+    * Our result suggests a smooth evolution of the SFRD beyond z=8.
+
+* [Lyman Continuum Emission Escaping from Green Pea Galaxies at z=0.5](https://arxiv.org/abs/1912.10970)
+    * We therefore used the HST/COS spectrograph to observe two of the newly discovered i-band excess galaxies around their Lyman limits. One has very strongly detected continuum below its Lyman limit, corresponding to an escape fraction of ionizing photons of 20+/-2%. The other, which is less compact in UV imaging, has a 3-sigma upper limit to its Lyman escape fraction of <5%.
+
+* [A unified framework for X-shaped radio galaxies](https://arxiv.org/abs/1912.10494)
+    * We propose a radically different picture for X-shaped radio galaxies compared to existing models as transition objects between cold mode accreting low spinning retrograde black holes and low spinning prograde black holes
+    * The model explains their smaller average black hole masses, their general aversion for cluster compared to isolated environments, the negligible difference in spectral index between primary and secondary jets despite a time difference in their formation, their absence among the most powerful radio quasars and radio galaxies, and their connection to the elusive FRI quasar class, among others.
