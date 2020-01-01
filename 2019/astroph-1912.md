@@ -821,3 +821,28 @@
 * [A unified framework for X-shaped radio galaxies](https://arxiv.org/abs/1912.10494)
     * We propose a radically different picture for X-shaped radio galaxies compared to existing models as transition objects between cold mode accreting low spinning retrograde black holes and low spinning prograde black holes
     * The model explains their smaller average black hole masses, their general aversion for cluster compared to isolated environments, the negligible difference in spectral index between primary and secondary jets despite a time difference in their formation, their absence among the most powerful radio quasars and radio galaxies, and their connection to the elusive FRI quasar class, among others.
+
+----
+
+### Dec 30
+
+* [Three Lyman-alpha emitting galaxies within a quasar proximity zone at z=5.8](https://arxiv.org/abs/1912.11486)
+    * We demonstrate the utility of this quasar-galaxy synergy by reporting the discovery of the first three `proximate Lyman-α emitters' (LAEs) within the proximity zone of quasar J0836 at z=5.802
+    * Aerith A, located behind the quasar with an impact parameter D⊥=278 pkpc, provides the first detection of a Lyman-α transverse proximity effect.
+    * Aerith B at a distance D=750 pkpc from the quasar, displays a bright, broad double-peaked Lya emission line.
+    * Based on relations calibrated at z≤3, the peak separation implies a low ionizing fesc≲1%, the most direct such constraint on a reionization-era galaxy.
+
+* [The impact of filamentary accretion of subhaloes on the shape and orientation of haloes](https://arxiv.org/abs/1912.11647)
+    * we quantified the strength of filamentary subhalo accretion for galaxy- and group-sized host haloes by regarding the entry points of subhaloes as filaments and present statistical studies that how the shape and orientation of host haloes at redshift zero correlate with the strength of filamentary subhalo accretion.
+    * We confirm previous studies that found the host halo mass dependence of the alignment between orientations of haloes and filaments. We also show that, for the first time, the shape and orientation of haloes weakly correlate with the strength of filamentary subhalo accretion even if the halo masses are the same.
+    * Minor-to-major axis ratios of haloes tend to decrease as their filamentary accretion gets stronger.
+    * Haloes with highly anisotropic accretion become more spherical or oblate, while haloes with isotropic accretion become more prolate or triaxial.
+
+* [Semi-analytic modeling of AGNs: auto-correlation function and halo occupation](https://arxiv.org/abs/1912.11772)
+    * The model prediction indicates that this timescale plays a significant role in allowing massive halos to host relatively faint population of AGNs, leading to a higher bias factor for those AGNs.
+    * We find that not only the effective halo mass corresponding to the overall bias factor, but the extended shape of the predicted AGN correlation function shows remarkable agreement with those from observations. 
+    * Further observational efforts in the near future towards the low luminosity end at redshift ∼1 would give us stronger constraints on the triggering mechanisms of AGN activities through the clustering properties.
+
+* [Repeating fast radio bursts with WSRT/Apertif](https://arxiv.org/abs/1912.12217)
+    * We aim to detect the first two repeating FRBs: FRB 121102 (R1) and FRB 180814.J0422+73 (R2), and characterise their repeat statistics.
+    * We detected 30 bursts from R1. When combined with previous reports, our measurements indicate an increase of 2.7(2) pc cm−3 yr−1 in the dispersion measure along the line of sight. We did not detect any bursts from R2.
