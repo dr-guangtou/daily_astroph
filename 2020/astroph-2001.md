@@ -207,3 +207,71 @@
   - Technicolor Dawn simulations: 仍然不能很好的复原z<5的CIV吸收体的柱密度分布
   - 可能的解释：density-bounded escape scenario, 让星系更有效地电离；可以通过absorber的环境来限制
   - Galaxies correlate with CIV absorbers out to 300 proper kpc (pkpc)
+
+- [Nine New Repeating Fast Radio Burst Sources from CHIME/FRB](https://arxiv.org/abs/2001.03595)
+  - These sources span a dispersion measure (DM) range of 195 to 1380 pc cm−3; 很多都是有多次探测的
+  - 定位在10‘左右; 和non-repeating比，有重现的FRB的DM测量基本一致，但burst width明显要宽: further supporting the notion of inherently different emission mechanisms and/or local environments
+
+- [Tidal Disruptions of Main Sequence Stars -- I. Observable Quantities and their Dependence on Stellar and Black Hole Mass](https://arxiv.org/abs/2001.03501)
+- [Tidal disruptions of main sequence stars -- II. Simulation methodology and stellar mass dependence of the character of full tidal disruptions](https://arxiv.org/abs/2001.03502)
+- [Tidal disruptions of main sequence stars -- III. Stellar mass dependence of the character of partial disruptions](https://arxiv.org/abs/2001.03503)
+- [Tidal disruptions of main sequence stars -- IV. Relativistic effects and dependence on black hole mass](https://arxiv.org/abs/2001.03504)
+- [Tidal Disruptions of Main Sequence Stars -- V. The Varieties of Disruptions](https://arxiv.org/abs/2001.03234)
+  - Using fully general relativistic hydrodynamics simulations and MESA-model initial conditions
+
+----
+
+### Jan 13
+
+- [Evaluation of probabilistic photometric redshift estimation approaches for LSST](https://arxiv.org/abs/2001.03621)
+  - **Relevant** 可以看一下是怎么得到这些SED的
+  - 在完美prior，就是完整templates library的前提下，讨论一批Photo-z算法对PDF的估计
+  - We report systematic biases and overall over/under-breadth of the photo-z PDFs of many popular codes, which may indicate avenues for improvement in the algorithms or implementations.
+
+- [First demonstration of OH suppression in a high efficiency near-infrared spectrograph](https://arxiv.org/abs/2001.04046)
+  - Here we report on PRAXIS, a unique near-infrared spectrograph that is optimised for OH suppression with fibre Bragg gratings. We show for the first time that OH suppression (of any kind) is possible with high overall throughput (18 per cent end-to-end)
+
+- [Candidate Population III stellar complex at z=6.629 in the MUSE Deep Lensed Field](https://arxiv.org/abs/2001.03619)
+  - A strongly lensed (\mu >40) Lya emission at z=6.629 (S/N~18); 光度较低，但Lya发射线宽很宽，可能和PopIII一致
+
+- [Stratified disc wind models for the AGN broad-line region: ultraviolet, optical and X-ray properties](https://arxiv.org/abs/2001.03625)
+  - Clumpy biconical disc winds illuminated by an AGN continuum can produce BLR-like spectra  
+  - Disc wind: are self-shielded flows and can cover a large portion of the ionizing flux-density (ϕH-nH) plane
+  - The line emission arises almost exclusively from plasma travelling below the escape velocity, implying that `failed winds' are important BLR candidates.
+
+- [Nuclear Star Clusters](https://arxiv.org/abs/2001.03626)
+  - **Review**
+  - NSC性质在10^9质量的星系上下有改变，低质量的更符合来自GC的inspiral，高质量的可能是in situ的恒星形成
+  - The extreme densities of NSCs and their interaction with massive black holes lead to a wide range of unique phenomena including tidal disruption and gravitational wave events
+
+- [A hyper luminous starburst at z=4.72 magnified by a lensing galaxy pair at z=1.48](https://arxiv.org/abs/2001.03641)
+  - Discovered in the Herschel Reference Survey an extremely bright IR at z=4.7
+  - Lens的红移非常高：These two sources are placed at z=1.48 with XSHOOTER spectra, suggesting that they could be merging and gravitationally lensing the emission of RV4
+  - We discuss that the short tdepl of RV4 can be explained by either a very high SFE, which is difficult to reconcile with major mergers simulations of high-z galaxies, or a rapid decrease of SF, which would bias the estimate of tdepl toward low value.
+
+- [Deciphering Lyman α blob 1 with deep MUSE observations](https://arxiv.org/abs/2001.03699)
+  - Various gas excitation mechanisms are at play in LAB 1: Ionising radiation and feedback effects dominate near the embedded galaxies, while Lyα scattering is contributing at larger distances.
+  - The HeII/Lyα ratios combined with the upper limits on CIV/Lyα ratios favour shock models over photo-ionisation.
+  - LAB1 resides at a node of multiple intersecting filaments of the cosmic web
+
+- [xGASS: Robust quantification of asymmetries in global HI spectra and their relationship to environmental processes](https://arxiv.org/abs/2001.04037)
+  - We demonstrate that the asymmetry in a HI spectrum is strongly linked to its signal-to-noise 不同样本不能简单比较
+  - Find that the typical galaxy detected by xGASS exhibits higher asymmetry than what can be attributed to noise alone
+  - Asymmetric galaxies contain, on average, 29% less HI mass compared to their symmetric counterparts matched in both stellar mass and signal-to-noise. 卫星星系可能也比central更容易有不对称的HI谱线；环境过程可能很重要
+
+- [The Formation History of Subhalos and the Evolution of Satellite Galaxies](https://arxiv.org/abs/2001.04090)
+  - **Relevant**
+  - 用subhalo被并合之前的formation history来描述其形成历史：年轻subhalo中的卫星星系质量偏低，更富气体，SF更强，同时ex-situ恒星比例更高
+  - 这些年轻subhalo中的星系也需要更长的时间被quenched
+  - Fast accretion halo中的卫星和slow accretion中的比，并合更频繁，并合时对星暴的抬升更明显；Slow accretion的并合过程更平滑
+
+- [The AGORA high-resolution galaxy simulations comparison project: Public data release](https://arxiv.org/abs/2001.04354)
+  - Generated a suite of isolated Milky Way-mass galaxy simulations using 9 state-of-the-art gravito-hydrodynamics codes
+  - 完全相同的初始条件，并将某些物理过程标准化
+
+- [A hydrodynamical study of outflows in starburst galaxies with different driving mechanisms](https://arxiv.org/abs/2001.04384)
+  - 看thermal pressure, radiation and cosmic rays在驱动外流上的影响
+  - Radiation-driven winds in typical starburst-galaxy configurations are unable to attain the higher flow velocities and temperatures associated with thermal and cosmic ray-driven systems, leading to higher wind densities which would be more susceptible to cooling and fragmentation at lower altitudes.
+
+- [Faint LAEs near z>4.7 CIV absorbers revealed by MUSE](https://arxiv.org/abs/2001.04453)
+  - 在11 CIV absorption systems at z>4.7周围找LAE:The impact parameter of LAE-CIV systems with equivalent widths W0(CIV)>0.5 {\AA} is in the range 11 <ρ< 200 proper kpc (pkpc) 大多数都是faint LAE
