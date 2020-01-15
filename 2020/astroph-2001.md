@@ -275,3 +275,57 @@
 
 - [Faint LAEs near z>4.7 CIV absorbers revealed by MUSE](https://arxiv.org/abs/2001.04453)
   - 在11 CIV absorption systems at z>4.7周围找LAE:The impact parameter of LAE-CIV systems with equivalent widths W0(CIV)>0.5 {\AA} is in the range 11 <ρ< 200 proper kpc (pkpc) 大多数都是faint LAE
+
+----
+
+### Jan 14
+
+- [High-redshift cosmology with oxygen lines from Hα surveys](https://arxiv.org/abs/2001.04473)
+  - 面向Halpha的巡天里可以提取OII数据：We present a strong science case for extracting the OIII+Hβ sample, which we consider as an independent probe of the Universe in the redshift range 2 to 3.
+
+- [A spectroscopic survey of Abell 1703: is it a rare relaxed cluster hosting a radio halo or a usual merging system?](https://arxiv.org/abs/2001.04707)
+  - The results of our study disagree with the picture of an unimodal, relaxed cluster as suggested by previous studies based on the gravitational lensing analysis and support the view of a perturbed dynamics
+
+- [Qwind code release. A non-hydrodynamical approach to modelling line-driven winds in active galactic nuclei](https://arxiv.org/abs/2001.04720)
+  - UV line driven winds may be an important part of the AGN feedback process, but understanding their impact is hindered by the complex nature of the radiation hydrodynamics
+
+- [The discovery of radio halos in the Frontier Fields clusters Abell S1063 and Abell 370](https://arxiv.org/abs/2001.04725)
+  - GMRT在两个FF星系团中都看到了radio halo： This spectral steepening provides support for the turbulent re-acceleration model for radio halo formation
+  - Both radio halos follow the known scaling relation between the cluster mass proxy Y500 and radio power, consistent with the idea that they are related to ongoing cluster merger events.
+
+- [Nonstationarity of AGN variability: The only way to go is down!](https://arxiv.org/abs/2001.04471)
+  - SDSS-HSC AGN亮度比较，发现平均亮度降低，且有红移依赖: At a given redshift, the mean decrease in brightness is stronger for more luminous AGN and for objects with longer time separation between measurements.
+  - The mean decrease in brightness with time violates the stationarity assumption often invoked in AGN variability studies 
+
+- [Interacting galaxies in the IllustrisTNG simulations -- II: Star formation in the post-merger stage](https://arxiv.org/abs/2001.04472)
+  - We present a sample of 27,691 post-merger (PM) galaxies (0≤z≤1) identified from IllustrisTNG
+  - We demonstrate that star forming (SF) PMs exhibit enhanced star formation rates (SFRs) on average by a factor of ∼2, while the passive PMs show no statistical enhancement 质量越小，气体含量越高，SF增强越显著，和红移没有明显关系
+
+- [LoCuSS: exploring the connection between local environment, star formation and dust mass in Abell 1758](https://arxiv.org/abs/2001.04478)
+  - We observe that the main subclusters (A1758N and A1758S) belong to two separate large-scale structures, with no overlapping galaxy members SF星系分布在cluster外部
+  - 从dust-to-stellar mass ratio看环境影响，团里的SF星系的DTS比团外的要低
+
+- [A panchromatic spatially-resolved analysis of nearby galaxies: sub-kpc scale Main Sequence in grand-design spirals](https://arxiv.org/abs/2001.04479)
+  - With more than 30 thousands physical cells, we have derived a conservative definition of the local spatially resolved MS per unit area for disks, log(ΣSFR)=0.82log(Σ∗)-8.69.
+  - Our work extends the analysis at lower sensitivities in both M⋆ and SFR surface densities, up to a factor ∼ 10.
+
+- [Cradles of the first stars: self-shielding, halo masses, and multiplicity](https://arxiv.org/abs/2001.04480)
+  - Self-shielding can alleviate the effect the LW background has on the H2 within haloes.
+  - Haloes form Pop III stars at much lower masses, up to a factor of a few, due to the inclusion of H2 self-shielding.
+  - Most haloes form multiple Pop III stars, with a median number of four, up to a maximum of 16, at the instance of Pop III formation.
+
+- [The Megamaser Cosmology Project. XI. A geometric distance to CGCG 074-064](https://arxiv.org/abs/2001.04581)
+  - 在CGCG074-064中找到了一个disk megamaser系统：the masers reside in a thin, edge-on disk with a diameter of ~1.5 mas (0.6 pc).
+  - 得到了黑洞质量和几何距离；给出H0限制：H0=81.0+7.4−6.9  (stat.) ±1.4 (sys.) km s−1 Mpc−1.
+
+- [A non-corotating gas component in an extreme starburst at z=4.3](https://arxiv.org/abs/2001.04638)
+  - Detection of a non-corotating gas component in a bright unlensed submillimeter galaxy at z=4.3
+  - Gas kinematics is characterized by an ordered rotation; subtract之后可以看到两个气体运动成分，来自气体吸积
+
+- [Interpreting Observations of Absorption Lines in the Circumgalactic Medium with a Turbulent Medium](https://arxiv.org/abs/2001.04965)
+  - 比single-phase photoionization假设更进一步：we use the MAIHEM code to model an isotropic turbulent medium exposed to a redshift zero metagalactic UV background, while tracking the ionizations, recombinations, and species-by-species radiative cooling for a wide range of ions.
+  - By including multiple phases, MAIHEM models favor a higher metallicity (Z/Z⊙≈40%) for the circumgalactic medium compared to PIE models.
+
+- [Central molecular zones in galaxies: 12CO-to-13CO ratios, carbon budget, and X factors](https://arxiv.org/abs/2001.04975)
+  - Ground-based 12CO and 13CO measurements of 126 nearby galaxy centers in various J transitions
+  - CO-to-H2 conversion factors are typically ten times lower than the `standard' Milky Way disk value
