@@ -218,7 +218,7 @@
 
 - [Arm-interarm gas abundance variations explored with MUSE: the role of spiral structure in the chemical enrichment of galaxies](https://arxiv.org/abs/2001.03450)
   - 大部分旋涡星系的旋臂上的HII区比臂间的要更富金属；少量有相反的趋势
-  - 质量越大的星系，以及grand design，和有bar的旋涡星系有更明显的旋臂-臂间差异 
+  - 质量越大的星系，以及grand design，和有bar的旋涡星系有更明显的旋臂-臂间差异
 
 - [The Faint Host Galaxies of C IV Absorbers at z > 5](https://arxiv.org/abs/2001.03498)
   - Technicolor Dawn simulations: 仍然不能很好的复原z<5的CIV吸收体的柱密度分布
@@ -252,7 +252,7 @@
   - A strongly lensed (\mu >40) Lya emission at z=6.629 (S/N~18); 光度较低，但Lya发射线宽很宽，可能和PopIII一致
 
 - [Stratified disc wind models for the AGN broad-line region: ultraviolet, optical and X-ray properties](https://arxiv.org/abs/2001.03625)
-  - Clumpy biconical disc winds illuminated by an AGN continuum can produce BLR-like spectra  
+  - Clumpy biconical disc winds illuminated by an AGN continuum can produce BLR-like spectra
   - Disc wind: are self-shielded flows and can cover a large portion of the ionizing flux-density (ϕH-nH) plane
   - The line emission arises almost exclusively from plasma travelling below the escape velocity, implying that `failed winds' are important BLR candidates.
 
@@ -312,7 +312,7 @@
 
 - [Nonstationarity of AGN variability: The only way to go is down!](https://arxiv.org/abs/2001.04471)
   - SDSS-HSC AGN亮度比较，发现平均亮度降低，且有红移依赖: At a given redshift, the mean decrease in brightness is stronger for more luminous AGN and for objects with longer time separation between measurements.
-  - The mean decrease in brightness with time violates the stationarity assumption often invoked in AGN variability studies 
+  - The mean decrease in brightness with time violates the stationarity assumption often invoked in AGN variability studies
 
 - [Interacting galaxies in the IllustrisTNG simulations -- II: Star formation in the post-merger stage](https://arxiv.org/abs/2001.04472)
   - We present a sample of 27,691 post-merger (PM) galaxies (0≤z≤1) identified from IllustrisTNG
@@ -385,7 +385,7 @@
   - By computing offsets from the resolved Kennicutt-Schmidt relation (Sigma_H2 vs. Sigma_SFR) and the molecular gas main sequence (Sigma_* vs. Sigma_H2), we conclude that the primary driver of the central starburst is an elevated SFE.
 
 - [[CI](1-0) and [CI](2-1) in resolved local galaxies](https://arxiv.org/abs/2001.05047)
-  - Resolved [CI] line intensities of 18 nearby galaxies observed with the SPIRE FTS spectrometer  
+  - Resolved [CI] line intensities of 18 nearby galaxies observed with the SPIRE FTS spectrometer
   - A tight, linear relation is found between the intensities of the CO(4-3) and [CI](2-1) lines; we hypothesize this is due to the similar upper level temperature of these two lines.
 
 - [Metal enrichment in the circumgalactic medium and Lyα haloes around quasars at z ∼3](https://arxiv.org/abs/2001.05473)
@@ -412,7 +412,7 @@
 - [SDSS-IV MaNGA: global and local stellar population properties of elliptical galaxies and their assembly histories](https://arxiv.org/abs/2001.05499)
   - **Relevant**
   - 在“经典”的quenched的ETG中：mass- and light-weighted age gradients of CLEs are nearly flat or mildly negative
-  - the massive RQEs show an outside-in quenching, and positive gradients in the light-weighted age and stellar metallicities. 
+  - the massive RQEs show an outside-in quenching, and positive gradients in the light-weighted age and stellar metallicities.
 
 - [A SCUBA-2 850μm Survey of Heavily Reddened Quasars at z~2](https://arxiv.org/abs/2001.05507)
   - 19个消光非常高的z=2 QSO的观测
@@ -450,3 +450,328 @@
 - [Environmental processing in cluster core galaxies at z=1.7](https://arxiv.org/abs/2001.05776)
   - CO(4→3) and continuum map observations of the SpARCS1049+56 BCG at z=1.709
   - probes the presence of rare gas-rich systems in the very central region of a distant cluster core 发现至少两个富CO气体的星系，一个可能是merger，一个是jellyfish；BCG的H2质量小于10^10 Msun
+
+----
+
+### Jan 19
+
+- [A Submillimeter Perspective on the GOODS Fields (SUPER GOODS). IV. The Submillimeter Properties of X-ray Sources in the CDF-S](https://arxiv.org/abs/2001.06011)
+
+- [On the Absence of High-Redshift AGNs: Little Growth in the Supermassive Black Hole Population at High Redshifts](https://arxiv.org/abs/2001.06015)
+
+- [The significant effects of stellar mass estimation on galaxy pair fractions](https://arxiv.org/abs/2001.06017)
+
+- [Reionization with galaxies and active galactic nuclei](https://arxiv.org/abs/2001.06021)
+
+- [The high redshift SFR-M* relation is sensitive to the employed star formation rate and stellar mass indicators: Towards addressing the tension between observations and simulations](https://arxiv.org/abs/2001.06025)
+
+- [The Quest for Dual and Binary Supermassive Black Holes: A Multi-Messenger View](https://arxiv.org/abs/2001.06293)
+
+- [A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE).VI. Environmental quenching on HII region scales](https://arxiv.org/abs/2001.06379)
+
+- [The PIPER Survey: I. An Initial Look at the Intergalactic Globular Cluster Population in the Perseus Cluster](https://arxiv.org/abs/2001.06391)
+
+- [The Clustering of DESI-like Luminous Red Galaxies Using Photometric Redshifts](https://arxiv.org/abs/2001.06018)
+
+----
+
+### Jan 22
+
+- [Fundamental Plane of BOSS galaxies: Correlations with galaxy properties, density field and impact on RSD measurements](https://arxiv.org/abs/2001.07700)
+
+- [Kinematic unrest of low mass galaxy groups](https://arxiv.org/abs/2001.07367)
+
+- [Close galaxy pairs with accurate photometric redshifts](https://arxiv.org/abs/2001.07217)
+
+- [Fountains and storms: The role of AGN and mergers in disrupting the cool-core in the RomulusC simulation](https://arxiv.org/abs/2001.06532)
+
+- [QSO photometric redshifts from SDSS, WISE and GALEX colours](https://arxiv.org/abs/2001.06514)
+
+- [Stellar metallicities from SkyMapper photometry I: A study of the Tucana II ultra-faint dwarf galaxy](https://arxiv.org/abs/2001.07684)
+
+- [The H IX galaxy survey III: The gas-phase metallicity in HI eXtreme galaxies](https://arxiv.org/abs/2001.07516)
+
+- [Discovery of a Remarkably Powerful Broad Absorption Line Quasar Outflow in SDSS J135246.37+423923.5](https://arxiv.org/abs/2001.07347)
+
+- [The nuclear region of NGC 613. I -- Multiwavelength analysis](https://arxiv.org/abs/2001.07328)
+
+- [The WISSH quasars project VII. Outflows and metals in the circumgalactic medium around the hyper-luminous z~3.6 quasar J1538+08](https://arxiv.org/abs/2001.07218)
+
+- [High-resolution spectroscopy of the GD-1 stellar stream localizes the perturber near the orbital plane of Sagittarius](https://arxiv.org/abs/2001.07215)
+  - **Interesting**
+  - A spur of GD-1-like stars outside of the main stream are kinematically and chemically consistent with the main stream.
+  - A flyby of a massive, compact object can change orbits of stars in a stellar stream and produce features like the spur observed in GD-1
+  - The family of acceptable perturber orbits overlaps the stellar and dark-matter debris of the Sagittarius dwarf galaxy
+
+- [The redshift and star formation mode of AzTEC2: a pair of massive galaxies at z=4.63](https://arxiv.org/abs/2001.06997)
+  - NOEMA+ALMA: AzTEC2是一对星系，主星系气体质量2x10^11 Msun左右
+  - We find evidence of a rotation-dominated [C II] disk in AzTEC2-A
+  - The population of single-dish selected SMGs is rather heterogeneous, including a population of pairs of massive, highly-active galaxies in a pre-coalescence phase.
+
+- [UV & U-band luminosity functions from CLAUDS and HSC-SSP -- I. Using four million galaxies to simultaneously constrain the very faint and bright regimes to z∼3](https://arxiv.org/abs/2001.06904)
+
+- [xGASS: Cold gas content and quenching in galaxies below the star forming main sequence](https://arxiv.org/abs/2001.06614)
+  - **Interesting**
+  - xGASS+COLD GASS: We show that the population of galaxies below the SFMS is not a 1:1 match with the population of galaxies below the Hi and H2 gas fraction scaling relations.
+  - 有些在SFMS的过渡区域的其实还富有HI气体
+  - Some of these so-called “quenched” galaxies may still have significant gas reservoirs and be unlikely to deplete them any time soon.
+  - 不能只看SFR和SFH就得到正确的quenching模型
+  - We also find that internal structure (particularly, the spatial distribution of old and young stellar populations) plays a significant role in regulating the star formation
+
+- [First detection of the 448 GHz ortho-H2O line at high redshift: probing the structure of a starburst nucleus at z = 3.63](https://arxiv.org/abs/2001.06589)
+
+- [Do model emission line galaxies live in filaments at z~1?](https://arxiv.org/abs/2001.06560)
+
+- [The better half -- Asymmetric star-formation due to ram pressure in the EAGLE simulations](https://arxiv.org/abs/2001.06501)
+
+- [Dynamical self-friction: how mass loss slows you down](https://arxiv.org/abs/2001.06489)
+  - **Interesting**
+  - Dynamical self-friction, the process by which material that is stripped from a subhalo torques its remaining bound remnant, which causes it to lose orbital angular momentum.  
+  - 剥离物质在特定轨道阶段有可能增加星系的角动量，但长期看还是会降低角动量, orbital decay
+  - We find that the time-scale for self-friction, defined as the exponential decay time of the subhalo’s orbital angular momentum, scales with mass ratio and orbital circularity similar to standard dynamical friction 但时标更长，大概长一个量级
+
+- [Extreme variability in an active galactic nucleus: Gaia16aax](https://arxiv.org/abs/2001.07446)
+
+----
+
+### Jan 23
+
+- [SZ Scaling Relations of Galaxy Groups and Clusters Near the North Ecliptic Pole](https://arxiv.org/abs/2001.07802)
+
+- [A versatile tool for cluster lensing source reconstruction. I. methodology and illustration on sources in the Hubble Frontier Field Cluster MACS J0717.5+3745](https://arxiv.org/abs/2001.07719)
+
+- [SZ Scaling Relations of Galaxy Groups and Clusters Near the North Ecliptic Pole](https://arxiv.org/abs/2001.07802)
+
+- [Reproducing the CO-to-H2 conversion factor in cosmological simulations of Milky Way-mass galaxies](https://arxiv.org/abs/2001.08197)
+
+- [Cold gas and dust: Hunting spiral-like structures in early-type galaxies](https://arxiv.org/abs/2001.08087)
+  - **Relevant**
+  - We analyse deep optical g − r images of 21 H I-rich and 41 H I-poor early-type galaxies
+  - In 57 per cent of these H I-rich galaxies, the dust is distributed in a large-scale spiral pattern
+  - We measured the dust content of the galaxies from the optical colour excess and find that H I-rich galaxies contain six times more dust (in mass) than H I-poor ones.
+  - Indicate an essential relation between the presence of cold gas and dust in early-type galaxies
+
+- [Galactic ionising photon budget during the Epoch of Reionisation in the Cosmic Dawn II simulation](https://arxiv.org/abs/2001.07785)
+
+- [Figuring Out Gas & Galaxies in Enzo (FOGGIE). III. The Mocky Way: Investigating Biases in Observing the Milky Way's Circumgalactic Medium](https://arxiv.org/abs/2001.07736)
+  - **Interesting**
+  - 在数值模拟中看从地球上观测银河系CGM的问题：
+  - High-velocity-based studies could miss ∼2/3 of the Milky Way’s CGM mass
+  - Once we correct velocities from the local standard of rest to the galaxy’s rest frame, gas infall rate 下降
+  - O vi and N v are likely to be good UV tracers of the Milky Way’s outer CGM (r 􏰀15 kpc), whereas C iv maybe less sensitive
+  - Because of the clumpiness and radial distribution of CGM gas, the scatter in ionic column densities is a factor of 2 higher when the CGM is observed from the inside-out versus from external views. 
+
+- [The Clustering of X-ray Luminous Quasars](https://arxiv.org/abs/2001.07730)
+
+- [Measurement of the B-band Galaxy Luminosity Function with Approximate Bayesian Computation](https://arxiv.org/abs/2001.07727)
+  - **Useful**
+  - We use Approximate Bayesian Computation (ABC) to constrain the galaxy population model parameters of the simulations and match data
+  - We define a number of distance metrics between the simulated and the survey data. By exploring the parameter space of the galaxy population model through ABC to find the set of parameters that minimize these distance metrics
+  - 用来比较分布的Metrics：absolute, histogram, Maximum Mean Discrepancy, random forest distance
+
+- [Searching for Ultra-fast Outflows in AGN using Variability Spectra](https://arxiv.org/abs/2001.08208)
+
+----
+
+### Jan 24
+
+- [The Radial Acceleration Relation in CLASH Galaxy Clusters](https://arxiv.org/abs/2001.08340)
+
+- [X-CIGALE: fitting AGN/galaxy SEDs from X-ray to infrared](https://arxiv.org/abs/2001.08263)
+
+- [λ = 2 mm spectroscopy observations toward the circumnuclear disk of NGC 1068](https://arxiv.org/abs/2001.08697)
+
+- [Modelling the M*-SFR relation at high redshift: untangling factors driving biases in the intrinsic scatter measurement](https://arxiv.org/abs/2001.08560)
+
+- [KMTNet Nearby Galaxy Survey II. Searching for Dwarf Galaxies in Deep and Wide-field Images of the NGC 1291 system](https://arxiv.org/abs/2001.08342)
+  - **Relevant**
+  - NGC 1291周围15个 dwarf candidates的发现：分布向主星系集中，且越接近中心星系越红
+  - The dwarf candidates presented in this paper appear to be bluer than those in denser environments
+
+- [A population of dust-enshrouded objects orbiting the Galactic black hole](https://arxiv.org/abs/2001.08325)
+
+- [A Recent Starbust in the Low Surface Brightness Galaxy UGC 628](https://arxiv.org/abs/2001.08280)
+
+- [Lyman Continuum Escape Fraction in Lyα Emitters at z≃3.1](https://arxiv.org/abs/2001.08241)
+
+- [Discovering novae in early-type galaxies with MUSE: A chance find in NGC 1404, and twelve more candidates from an archival search](https://arxiv.org/abs/2001.08221)
+  - **Interesting**
+  - NGC1404中的Halpha发射线暂现源偶然发现，应该是Nova
+  - 之前有X-ray对应体：the source may be a short-timescale recurrent nova with a massive white dwarf accretor
+  - Selecting broad-Hα point sources in MUSE archival observations for a set of nearby early-type galaxies, I discovered twelve more nova candidates with similar properties to the NGC1404 sourc
+
+- [An Extreme X-ray Variability Event of a Weak-Line Quasar](https://arxiv.org/abs/2001.08216)
+
+- [MEGARA-GTC Stellar Spectral Library (I)](https://arxiv.org/abs/2001.08466)
+  - **Useful**
+  - Optical (3650 – 9750Å), fibre-fed, medium-high spectral resolution (R = 6000, 12000, 20000) instrument
+  - We present the spectra of 97 stars (21 individual stars and 56 members of the glob- ular cluster M15 ; The spectra have R = 20000 in the HR-R and HR-I setups, centred at 6563 and 8633 Å
+
+- [Peak-Luminosity/Decline-Rate Relationship for Tidal Disruption Events](https://arxiv.org/abs/2001.08215)
+  - **Interesting**
+  - We find that the blackbody radii generally increase prior to peak and slowly decline at late times.
+  - We find an apparent correlation between the peak luminosity and the decline-rate of TDEs. 
+  - 峰值光度越高，光度下降越快；光度下降用40天后的光度和峰值光度的差描述
+  - The UV/optical spectral energy distributions of TDEs are well-fit as blackbodies
+    - Generally, the effective radii increase until peak before declining monotonically.
+    - 光度变化一般比较平滑，偶尔有spike和再次增亮现象
+    - TDE频率很低，每1万-10万个星系中心
+
+----
+
+### Jan 27
+
+- [The cosmic atomic hydrogen mass density as a function of mass and galaxy hierarchy from spectral stacking](https://arxiv.org/abs/2001.09073)
+
+- [Semi-analytic forecasts for JWST -- IV. Implications for cosmic reionization and LyC escape fraction](https://arxiv.org/abs/2001.08751)
+
+- [A multi-wavelength study of spiral structure in galaxies. I. General characteristics in the optical](https://arxiv.org/abs/2001.09110)
+
+- [Into the Lyα jungle: exploring the circumgalactic medium of galaxies at z ~ 4-5 with MUSE](https://arxiv.org/abs/2001.09058)
+
+- [The relationship between X-ray and optical absorbers in active galactic nuclei](https://arxiv.org/abs/2001.08900)
+
+- [PKS 2250−351: A Giant Radio Galaxy in Abell 3936](https://arxiv.org/abs/2001.08772)
+
+- [Selection of highly-accreting quasars: Spectral properties of FeII emitters not belonging to extreme Population A](https://arxiv.org/abs/2001.08765)
+
+- [The MASSIVE Survey -- XV. A Stellar Dynamical Mass Measurement of the Supermassive Black Hole in Massive Elliptical Galaxy NGC 1453](https://arxiv.org/abs/2001.08753)
+  - NGC 1453, a fast-rotating massive elliptical galaxy
+  - The best-fit black hole mass is MBH = (2.9 ± 0.4) × 10^9M⊙
+  - 高信噪比数据允许进行高阶Gauss-Hermite展开；以往只到h4会影响对黑洞质量的限制
+
+- [Chandra Observations of Candidate Sub-Parsec Binary Supermassive Black Holes](https://arxiv.org/abs/2001.08870)
+
+----
+
+### Jan 28
+
+- [The Atacama Cosmology Telescope: SZ-based masses and dust emission from IR-selected cluster candidates in the SHELA survey](https://arxiv.org/abs/2001.09587)
+  - **Relevant**
+  - Spitzer-HETDEX, 光学+红外的redMaPPer cluster finder; 最rich的cluster有一个stacked SZ探测
+  - 用Herschel Stripe 82 data来改正尘埃发射
+  - We compare our corrected SZ masses to two redMaPPer mass–richness scaling relations and find that the SZ mass is lower than predicted by the richness.
+
+- [The Megamaser Cosmology Project. XIII. Combined Hubble constant constraints](https://arxiv.org/abs/2001.09213)
+
+- [Universal bolometric corrections for AGN over 7 luminosity decades](https://arxiv.org/abs/2001.09984)
+
+- [Local Group Analogs in ΛCDM cosmological simulations](https://arxiv.org/abs/2001.09589)
+
+- [A random-walk model for dark matter halo spins](https://arxiv.org/abs/2001.09208)
+
+- [Mass-to-Light Ratios of Spatially Resolved Stellar Populations in M31](https://arxiv.org/abs/2001.09157)
+
+- [The star formation histories of z~1 post-starburst galaxies](https://arxiv.org/abs/2001.09154)
+
+- [The star formation histories of z~1 post-starburst galaxies](https://arxiv.org/abs/2001.09154)
+
+----
+
+### Jan 29
+
+- [Probing the thermal state of the intergalactic medium at z>5 with the transmission spikes in high-resolution Lyα forest spectra](https://arxiv.org/abs/2001.10018)
+
+- [Globular Clusters in Coma Cluster Ultra Diffuse Galaxies (UDGs): Evidence for Two Types of UDG?](https://arxiv.org/abs/2001.10031)
+  - **Relevant**
+  - 85 globular cluster (GC) systems around UDGs in the Coma cluster: UDG中的GC平均来看似乎比普通dwarf中的多
+  - In some exceptional cases, the mass in the GC system is a significant fraction of the stellar content of the host galaxy.
+  - 低光度，小半径，低面亮度的UDG更容易有比较高的GC丰度
+  - GC-rich UDGs are assumed to be ‘failed’ galaxies within massive halos that have largely old, metal-poor, alpha-element enhanced stellar populations.
+
+- [The BUFFALO HST Survey](https://arxiv.org/abs/2001.09999)
+
+- [Candidate LBV stars in galaxy NGC 7793 found via HST photometry + MUSE spectroscopy](https://arxiv.org/abs/2001.10113)
+
+- [Candidate LBV stars in galaxy NGC 7793 found via HST photometry + MUSE spectroscopy](https://arxiv.org/abs/2001.10113)
+
+----
+
+### Jan 30
+
+- [Using the Marked Power Spectrum to Detect the Signature of Neutrinos in Large-Scale Structure](https://arxiv.org/abs/2001.11024)
+
+- [Constraining neutrino masses with weak-lensing starlet peak counts](https://arxiv.org/abs/2001.10993)
+
+- [How dark are filaments in the cosmic web?](https://arxiv.org/abs/2001.10943)
+
+- [Cosmological constraints from line intensity mapping with interlopers](https://arxiv.org/abs/2001.10792)
+
+- [The Weak Lensing Peak Statistics in the Mocks by the inverse-Gaussianization Method](https://arxiv.org/abs/2001.10765)
+
+- [Outflows and extended [CII] halos in high redshift galaxies](https://arxiv.org/abs/2001.10547)
+
+- [A comprehensive catalog of dark matter halo models for SPARC galaxies](https://arxiv.org/abs/2001.10538)
+
+- [Faint Standards for ZYJHK from the UKIDSS and VISTA Surveys](https://arxiv.org/abs/2001.10660)
+  - **Useful**
+
+- [Unveiling Kinematic Structure in the Starburst Heart of NGC 253](https://arxiv.org/abs/2001.11002)
+
+- [The faint radio source population at 15.7 GHz -- IV. The dominance of core emission in faint radio galaxies](https://arxiv.org/abs/2001.10961)
+
+- [On the Cooling Flow Problem in the Gaseous Halo of the Milky Way](https://arxiv.org/abs/2001.10836)
+
+- [Evolution of dwarf galaxy observable parameters](https://arxiv.org/abs/2001.10776)
+
+- [A Chandra X-ray Survey of Optically Selected AGN Pairs](https://arxiv.org/abs/2001.10686)
+
+- [Solar Metallicity Gas in the Extended Halo of a Galaxy at z∼0.12](https://arxiv.org/abs/2001.10558)
+  - **Interesting**
+  - STIS探测到的 weak low-ionization absorber: MgII, 高密度，高金属丰度，pc尺度的cloud
+  - The absorber resides in a galaxy over-dense region
+
+- [From galactic nuclei to the halo outskirts: tracing supermassive black holes across cosmic history and environments](https://arxiv.org/abs/2001.10548)
+
+- [A comprehensive study of Hα emitters at z∼ 0.62 in the DAWN survey: the need for deep and wide regions](https://arxiv.org/abs/2001.10544)
+
+- [A comprehensive study of Hα emitters at z∼ 0.62 in the DAWN survey: the need for deep and wide regions](https://arxiv.org/abs/2001.10544)
+
+----
+
+### Jan 31
+
+- [First Cosmology Results using Type Ia Supernovae from the Dark Energy Survey: The Effect of Host Galaxy Properties on Supernova Luminosity](https://arxiv.org/abs/2001.11294)
+
+- [Deeply cooled core of the Phoenix galaxy cluster imaged by ALMA with the Sunyaev-Zel'dovich effect](https://arxiv.org/abs/2001.11239)
+  - ALMA Band3 SZ观测这个 z~0.6的星系团; 5"分辨率，和X-ray数据一起模拟，做deprojection，并移除AGN的影响
+  - We find no significant asymmetry or disturbance in the SZE image within the current measurement errors.
+  - Unlike typical clusters at any redshift, gas temperature drops by at least a factor of 5 toward the center. 有6x10^11 Msun的3keV冷气体
+
+- [Self-consistent Semi-analytic Modeling of Feedback During Primordial Star Formation and Reionization](https://arxiv.org/abs/2001.11118)
+
+- [Encounters of Merger and Accretion Shocks in Galaxy Clusters and their Effects on Intracluster Medium](https://arxiv.org/abs/2001.10959)
+
+- [Hoki: Making BPASS accessible through Python](https://arxiv.org/abs/2001.11069)
+  - **Useful**
+  - https://github.com/HeloiseS/hoki
+
+- [Systematic Variations of CO J=2-1/1-0 Ratio in The Barred Spiral Galaxy M83](https://arxiv.org/abs/2001.11043)
+
+- [The MASSIVE Survey XIV -- Stellar Velocity Profiles and Kinematic Misalignments from 200 pc to 20 kpc in Massive Early-type Galaxies](https://arxiv.org/abs/2001.11043)
+  - **Relevant**
+  - While 80% of the galaxies have low spins (λ < 0.1) and low rotational velocities (< 50 km s−1) in both the central region and the main body, we find a diverse range of velocity features and misalignment angles.
+  - 10/18中心运动学有misalignment，角度在15-90度之间
+  - The central and main-body kinematic axes within a galaxy are not always aligned. When the two kinematic axes are aligned (∼ 60% of the cases), they are either also aligned with the photometric major axis or orthogonal to it.
+  - A diverse assembly history consisting of multiple gas-poor mergers of a variety of progenitor mass ratios and orbits is likely to be needed to account for the predominance of low spins and the wide range of central and main-body velocity features
+
+- [The VANDELS survey: A strong correlation between Lyα equivalent width and stellar metallicity at 3≤z≤5](https://arxiv.org/abs/2001.11063)
+
+- [Physics of Prodigious Lyman Continuum Leakers](https://arxiv.org/abs/2001.11083)
+
+- [Exploring the dispersion measure of the Milky Way halo](https://arxiv.org/abs/2001.11105)
+
+- [ART2: A 3D Parallel Multi-wavelength Radiative Transfer Code for Continuum and Atomic and Molecular Lines](https://arxiv.org/abs/2001.11146)
+
+- [RASCAS: RAdiation SCattering in Astrophysical Simulations](https://arxiv.org/abs/2001.11252)
+
+- [Formation channels of slowly rotating early-type galaxies](https://arxiv.org/abs/2001.11277)
+  - **Relevant**
+  - HST+Atlas3D: 12个slow rotater, 基本上没有core，<10 pc 
+  - More than half of the slow rotators have core-less light profiles 都是质量小于10^11 Msun的
+  - 和有core的slow rotator比，coreless的常有反向旋转特征，金属丰度和速度弥散度梯度更陡
+  - Coreless的slow rotator的形成渠道：accretion of counter-rotating gas or gas-rich mergers of special orbital configurations
+
+- [The Tucana dwarf spheroidal galaxy: not such a massive failure after all](https://arxiv.org/abs/2001.11410)
+
+- [The Nature of the Double Nuclei in the Barred S0 Galaxy IC676](https://arxiv.org/abs/2001.11418)
