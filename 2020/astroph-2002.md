@@ -226,3 +226,47 @@
   - The Hα luminosity function at z∼0.40 is obtained, which extends the current faint end by almost 1 dex
   - We find that no AGN should be expected below a luminosity of log10L=38.6 erg s
   - From the sample of non-AGN (presumably, pure SFG) at z∼0.40 we estimated a star formation rate density of ρSFR=0.012±0.005 M⊙ yr−1 Mpc−3.
+
+----
+
+### Feb 9
+
+- [The Structure of Tidal Disruption Event Host Galaxies on Scales of Tens to Thousands of Parsecs](https://arxiv.org/abs/2001.02498)
+  - The TDE hosts do not show the large, kpc-scale tidal disruptions seen in some post-starburst galaxies; the hosts have low morphological asymmetries similar to those of early type galaxies.
+  - The TDE hosts have low central (<140 pc) ellipticities compared to early type galaxies.
+  - The high central stellar densities are a more important driver than SMBHBs or radial anisotropies in increasing the TDE rate in galaxies with recent starbursts.
+
+- [Spatially-resolved UV diagnostics of AGN feedback: radiation pressure dominates in a prototypical quasar-driven superwind](https://arxiv.org/abs/2001.02454)
+  - 紫外高电离发射线可以帮助诊断Feedback的具体机制，区分radiation pressure加速的冷气体或者是有ISM渗入的热外流；sensitive to expected compression of the ISM clouds by the hot wind
+  - First spatially resolved UV emission spectroscopy of a prototypical (radio-quiet) quasar-driven superwind around the obscured quasar SDSSJ1356+1026
+  - 从100pc到10 kpc，OVI/CIV, NV/CIV, and CIV/HeII都很类似：Such similarity is expected for clouds with AGN radiation pressure dominated dynamics
+  - AGN superwind is driven by radiation pressure or was driven by a hot wind that has since dissipated despite on-going AGN activity.
+
+- [Cosmic-Ray Driven Outflows to Mpc Scales from L∗ Galaxies](https://arxiv.org/abs/2001.02462)
+  - **Interesting**
+  - We showed previously that massive (Mhalo≳10^11M⊙), low-redshift (z≲1−2) halos can have CR pressure dominate over thermal CGM pressure and balance gravity, giving rise to a cooler CGM with an equilibrium density profile.
+  - Absent CRs, high gas thermal pressure in massive halos "traps" galactic outflows near the disk, so they recycle. With CRs injected in supernovae as modeled here, the low-pressure halo allows "escape" and CR pressure gradients continuously accelerate this material well into the IGM in "fast" outflows, while lower-density gas at large radii is accelerated in-situ into "slow" outflows that extend to >Mpc scales.
+  - 在低halo质量和高红移处，CR的重要性下降
+
+- [Long-term NIR Variability in the UKIDSS Ultra Deep Survey: a new probe of AGN activity at high redshift](https://arxiv.org/abs/2001.02468)
+  - 用IR长期光变来挑选AGN：only half of the variable sources are also selected using either deep Chandra X-ray imaging or IRAC colour selection
+  - Long-term NIR variability identifies AGN at low luminosities and in host galaxies with low stellar masses, many of which appear relatively X-ray quiet.
+
+- [Calibration of a star formation and feedback model for cosmological simulations with Enzo](https://arxiv.org/abs/2001.02670)
+  - The model MW galaxy is calibrated using three parameters: the star formation efficiency (f∗), the efficiency of thermal energy from stellar feedback (ϵ) and the region into which feedback is injected (r and s).
+  - We find that changing the amount of feedback energy affects the baryon content most significantly.
+  - To match the same baryonic properties, with a relatively higher gas to stars conversion efficiency, the feedback strength required is lower, and vice versa.
+
+- [Field/Isolated lenticular galaxies with high SN values: the case of NGC 4546 and its globular cluster system](https://arxiv.org/abs/2001.02765)
+  - **Relevant**
+  - We estimate a total GC population for NGC 4546 of 390±60 members and specific frequency SN=3.3±0.7, which is relatively high compared to the typical value for galaxies of similar masses and environment.
+  - We suggest that the unusual GC population substructures were possibly formed during the interaction that led to the formation of the young ultra-compact dwarf (NGC 4546-UCD1)
+
+- [The impact of AGN feedback on the 1D power spectra from the Lyα forest using the Horizon-AGN suite of simulations](https://arxiv.org/abs/2001.02822)
+  - 基于Horizon-AGN的模拟：AGNs globally suppress the Lyman-α power at all scales.
+  - On large scales, the energy injection and ionization dominate over the supply of gas mass from AGN-driven galactic winds, thus suppressing power. On small scales, faster cooling of denser gas mitigates the suppression.
+  - 红移越低越显著：Ignoring AGN feedback in cosmological inference analyses leads to strong biases with 2\% shift on σ8 and 1\% shift on ns
+
+- [The VIRUS-P Exploration of Nearby Galaxies (VENGA): The stellar populations and assembly of NGC 2903's bulge, bar, and outer disc](https://arxiv.org/abs/2001.02858)
+  - Its stellar bar has 65% of its mass in ages 1-5 Gyr and has metallicities similar to the outer disc, suggestive of the evolutionary picture where the bar forms from disc material.
+  - We find enhanced metallicity in the spiral arms and central region, tracing areas of high star formation as seen in the Halpha map.
