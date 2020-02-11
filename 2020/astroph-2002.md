@@ -229,9 +229,9 @@
 
 ----
 
-### Feb 9
+### feb 9
 
-- [The Structure of Tidal Disruption Event Host Galaxies on Scales of Tens to Thousands of Parsecs](https://arxiv.org/abs/2001.02498)
+- [the structure of tidal disruption event host galaxies on scales of tens to thousands of parsecs](https://arxiv.org/abs/2001.02498)
   - The TDE hosts do not show the large, kpc-scale tidal disruptions seen in some post-starburst galaxies; the hosts have low morphological asymmetries similar to those of early type galaxies.
   - The TDE hosts have low central (<140 pc) ellipticities compared to early type galaxies.
   - The high central stellar densities are a more important driver than SMBHBs or radial anisotropies in increasing the TDE rate in galaxies with recent starbursts.
@@ -270,3 +270,83 @@
 - [The VIRUS-P Exploration of Nearby Galaxies (VENGA): The stellar populations and assembly of NGC 2903's bulge, bar, and outer disc](https://arxiv.org/abs/2001.02858)
   - Its stellar bar has 65% of its mass in ages 1-5 Gyr and has metallicities similar to the outer disc, suggestive of the evolutionary picture where the bar forms from disc material.
   - We find enhanced metallicity in the spiral arms and central region, tracing areas of high star formation as seen in the Halpha map.
+
+----
+
+### Feb 10
+
+- [The impact of projection effects on cluster observables: stacked lensing and projected clustering](https://arxiv.org/abs/2001.03867)
+  - **Relevant, Important**
+  - 用N-body模拟和halo模型来估计投影效应对类似redMaPPer这样cluster finder的影响
+  - Mock observed clusters exhibit lensing and clustering signals that deviate from expectations based on a statistically isotropic halo model -- while both signals agree with halo model expectations on small scales, they show unexpected boosts on large scales, by up to a factor of 1.2 or 1.4 respectively.
+  - 主要来自小部分(~30%) embedded within filaments aligned with the line-of-sight 的星系团
+
+- [The X-Ray Cavity Around Hotspot E in Cygnus A: Tunneled by a Deflected Jet](https://arxiv.org/abs/2001.02978)
+  - The powerful FR II radio galaxy Cygnus A exhibits primary and secondary hotspots in each lobe. 并且有一个 approximately circular hole, with a radius of 3.9 kpc, centered on the primary hotspot in the eastern radio lob
+  - We argue that the jet encounters the shock compressed intracluster medium at hotspot E, passing through one or more shocks as it is deflected back into the radio lobe.
+  - These results favor models for multiple hotspots in which an FR II jet is deflected at a primary hotspot, then travels onward to deposit the bulk of its power at a secondary hotspot
+
+- [Analytical model for cluster radio relics](https://arxiv.org/abs/2001.02986)
+  - 对Radio relic的形成进行建模：Press-Schechter formalism to simulate merger rates, analytical models for the intracluster medium and the shock dynamics, as well as a simple model for the cosmic-ray electrons at the merger shocks
+  - It turns out that the flux distribution as well as the power-mass relation can constrain key parameters of the intracluster medium. 对如 acceleration efficiency, the magnetic field strength at the relic, the geometry of the relic and the duration of the electron acceleration at merger shocks 这些参数敏感
+
+- [Structural diversity of disc galaxies originating in the cold gas inflow from cosmic webs](https://arxiv.org/abs/2001.02965)
+  - 假设
+    - Thin discs form as the shock-heated hot gas in high-mass halos gradually accretes to the central part,
+    - Thick discs grow by the direct accretion of cold gas from cosmic webs when the halo mass is low,- Bulges form by the inflow of cold gas through the shock-heated gas in high-redshift massive halos
+  - 可以重现出盘星系结构的多样性；This scenario also predicts that thick discs are older and poorer in metals than thin discs
+  - 和Brooks+2009类似
+
+- [Interpreting the Spitzer/IRAC Colours of 7<z<9 Galaxies: Distinguishing Between Line Emission and Starlight Using ALMA](https://arxiv.org/abs/2001.02968)
+  - 用IRAC研究z>7星系：Many such high redshift galaxies display a red [3.6] - [4.5] micron colour, often referred to as the “IRAC excess” 可能来自[OIII]+Hbeta发射线
+  - Given the photometric uncertainties, established stellar populations with Balmer (4000 A, rest-frame) breaks, such as those inferred at z>9 where line emission does not contaminate the IRAC bands, can equally well explain the redshift-dependent behaviour of the IRAC colours in 7 < z <9 galaxies.
+  - 可以用ALMA [OIII] 88 micron和尘埃连续谱观测区分
+
+- [Deceptively cold dust in the massive starburst galaxy GN20 at z∼4](https://arxiv.org/abs/2001.02974)
+  - NOEMA观测[CI]不同激发看中性气体，激发温度比基于光学薄假设得到的尘埃温度高，但和general opacity model得到的尘埃温度一致
+  - 同时也意味着尘埃质量更低；固定气尘比下的分子气体质量更低
+  - The derived properties of GN20 thus provide an appealing solution to the puzzling discovery of starbursts appearing colder than main-sequence galaxies above z > 2.5
+
+- [What Drives the Redshift Evolution of Strong Emission Line Ratios?](https://arxiv.org/abs/2001.02976)
+  - 通过local analog研究为什么低红移和高红移星系在BPT图上有系统性地偏移
+  - The higher ionisation parameter in the high-redshift analogues is the dominant physical mechanism
+  - The N/O ratio enhancement also plays a minor role to cause the BPT offset
+  - This hard radiation field cannot be produced by the current standard stellar synthesis models. The stellar rotation and binarity may help solve the discrepancy.
+
+- [The role of galaxy mass on AGN emission: a view from the VANDELS survey](https://arxiv.org/abs/2001.02980)
+  - The mass of the host galaxy is a fundamental quantity which determines the level of AGN activity at the various wavelengths.
+  - Large stellar masses are found to be connected with AGN radio emission, as virtually all radio-active AGN reside within galaxies of M*>10^{10} Msun.
+  - Large stellar masses also seem to favour AGN activity in the X-ray
+  - 质量越大的星系，越有可能同时拥有X-ray和射电辐射
+
+- [Identification of filamentary structures in the environment of superclusters of galaxies in the Local Universe](https://arxiv.org/abs/2001.03446)
+  - Our methodology implements different classical pattern recognition and machine learning techniques pipelined in the Galaxy Systems-Finding algorithm and the Galaxy Filaments-Finding algorithm.
+  - We detected in total 2,705 galaxy systems (clusters and groups, of which 159 are new) and 144 galaxy filaments in the 46 superclusters of galaxies.
+  - galaxies closer to the skeleton of the filaments are more massive by up to 25% compared to those in the dispersed component; 70 % of the galaxies in the filament region present early type morphologies and the fractions of active galaxies (both AGN and SF) seem to decrease as galaxies approach the filament.
+
+- [Extended Hα over compact far-infrared continuum in dusty submillimeter galaxies -- Insights into dust distributions and star-formation rates at z∼2](https://arxiv.org/abs/2001.03545)
+  - **Interesting**
+  - We find that the half-light radius of Hα is significantly larger than that of the FIR continuum in half of the sample, and on average Hα is a median factor of 2.0±0.4 larger.
+  - 消光改正后的Halpha SFR依然显著比FIR得到的要低
+  - 从尘埃消光角度考虑问题：we postulate that the dust distributions in SMGs, and possibly also in less IR luminous z∼2 massive star-forming galaxies, can be decomposed into three main components; the diffuse dust heated by older stellar populations, the more obscured and extended young star-forming HII regions, and the heavily obscured central regions that have a low filling factor but dominate the infrared luminosity in which the majority of attenuation cannot be probed via UV-to-NIR emissions. 
+
+- [Growth of Supermassive Black Hole Seeds in ETG Star-Forming Progenitors: Multiple Merging of Stellar Compact Remnants via Gaseous Dynamical Friction and Gravitational Wave Emission](https://arxiv.org/abs/2001.03645)
+  - ETG前身compact SF星系中黑洞成长的新渠道：This envisages the migration and merging of stellar compact remnants (neutron stars and stellar-mass BHs) via gaseous dynamical friction toward the central high-density regions of such galaxies；
+  - 可以在千万年时标上提供10^4-6Msun的增长: 为标准盘吸积成为主导提供了seed;
+  - 也许也不需要超Eddington吸积来解释高红移超大质量黑洞： in more common ETG progenitors at redshift z ∼ 2−6 it can concur with disk accretion to build such large BH masses even at moderate Eddington ratios . 0.3 within the short star-formation duration < 1Gyr of these systems
+
+- [A 5∘×5∘ deep HI survey of the M81 group: II. HI distribution and kinematics of IC 2574 and HIJASS J1021+68](https://arxiv.org/abs/2001.03813)
+  - IC 2574 has an extended HI envelope that connects to HIJASS J1021+68 in the form of a collection of small clouds, but no evident connection has been found between IC 2574 and the central members of the M81 group.
+  - The complex is not a dark galaxy as previously suggested, but is instead a complex of clouds either stripped from, or falling onto the primordial HI envelope of IC 2574.
+  - 用大半径处的HI观测得到了Halo参数
+
+- [Molecular gas and star formation activity in LIRGs in intermediate redshift clusters](https://arxiv.org/abs/2001.03818)
+  - **Interesting**
+  - Far infrared to ultraviolet spectral energy distribution modeling of the LIRGs, which span cluster-centric distances within r/r200≃0.2−1.6. 并有NOEMA分子气体观测
+  - The targeted LIRGs have SFR, M(H2)/M⋆, and τdep that are consistent with those of both main sequence (MS) field galaxies and star forming galaxies from the comparison sample. 基本性质并不突出
+  - 但看到了对MS归一的depletion time随着r/r200增大而变长：星系团中心区域缺少LIRG
+  - We suggest that a rapid exhaustion of the molecular gas reservoirs occurs in the cluster LIRGs and is effective in suppressing their star formation.
+
+- [NGC 7469 as seen by MEGARA: new results from high-resolution IFU spectroscopy](https://arxiv.org/abs/2001.04031)
+  - R ∼ 20 000的活动星系中心IFU观测：MEGARA observations reveal, for the first time for NGC7469, the presence of a very thin (20 pc) ionised gas disc supported by rotation (V/σ = 4.3), embedded in a thicker (222 pc), dynamically hotter (V/σ = 1.3) one.
+  - We interpret the morphology and the kinematics of a third (broader) component (σ > 250 km/s) as suggestive of the presence of non-rotational turbulent motions possibly associated either to an outflow or to the lense.
