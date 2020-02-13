@@ -350,3 +350,80 @@
 - [NGC 7469 as seen by MEGARA: new results from high-resolution IFU spectroscopy](https://arxiv.org/abs/2001.04031)
   - R ∼ 20 000的活动星系中心IFU观测：MEGARA observations reveal, for the first time for NGC7469, the presence of a very thin (20 pc) ionised gas disc supported by rotation (V/σ = 4.3), embedded in a thicker (222 pc), dynamically hotter (V/σ = 1.3) one.
   - We interpret the morphology and the kinematics of a third (broader) component (σ > 250 km/s) as suggestive of the presence of non-rotational turbulent motions possibly associated either to an outflow or to the lense.
+
+----
+
+### Feb 11
+
+- [The impact of projection effects on cluster observables: stacked lensing and projected clustering](https://arxiv.org/abs/2001.04035)
+  - Geometric constraints are obtained from the positions of BAO peaks in reconstructed spectra, which are analyzed in combination with the unreconstructed spectra in a full-shape (FS) likelihood using a joint covariance matrix
+  - This gives H0=68.6±1.1kms−1Mpc−1, with the inclusion of BAO data sharpening the measurement by 40%, representing one of the strongest current constraints on H0 independent of cosmic microwave background data.
+
+- [Spectro-Imaging Forward Model of Red and Blue Galaxies](https://arxiv.org/abs/2001.04039)
+  - **Useful; SSST**
+  - USPEC+UFIG模拟光谱巡天的选择函数：red星系比有发射线的blue星系更容易模拟
+  - 还可以用这个方法去从光谱中提取星族等信息
+
+- [ALMA reveals the molecular gas properties of 5 star-forming galaxies across the main sequence at 3 < z < 3.5](https://arxiv.org/abs/2001.04040)
+  - CO(5-4)可以用来估计obscured SFR：We find a good correlation between the total far-infrared luminosity LF IR and the luminosity of the CO(5-4)
+  - 离SFMS近的星系的CO SLED与local SMG和普通一点的SF星系类似；sSFR高的星系的CO SLED更陡
+  - 这些星系的气体比例很高，分子气体比例达到60-80%; depletion time比较长，到Gyr尺度 
+
+- [The Obelisk simulation: galaxies contribute more than AGN to HI reionization of protoclusters](https://arxiv.org/abs/2001.04045)
+  - A cosmological radiation-hydrodynamics simulation following the assembly and reionization of a protocluster progenitor during the first two billions of years
+  - We find that hydrogen reionization happens inside-out and is completed by z ∼ 6 in our overdensity, and is predominantly driven by galaxies, while accreting black holes only play a role at z ∼ 4.
+  - 基于Horizon-AGN，用RAMSES-RT
+
+- [Subaru Infrared Adaptive Optics-assisted High-spatial-resolution Imaging Search for Luminous Dual Active Galactic Nuclei in Nearby Ultraluminous Infrared Galaxies](https://arxiv.org/abs/2001.04046)
+  - We search for compact red K′ − L color emission as the indicator of luminous active galactic nuclei (AGNs) due to AGN-heated hot dust emission
+  - 即便在红外波段，近邻ULIRG中dual-AGN的比例依然不高 <20%
+
+- [Kinematic decomposition of IllustrisTNG disk galaxies: morphology and relation with morphological structures](https://arxiv.org/abs/2001.04182)
+  - **Interesting**
+  - 用GMM方法无监督从TNG模拟z=0的3931个盘星系中提取运动学成分
+  - Structures having strong to moderate rotation are defined as cold and warm disks, respectively. Spheroidal structures dominated by random motions are classified as bulges or stellar halos, depending on how tightly bound they are. 还有Disky bulge
+  - (1) the morphologically decomposed bulges are composite structures comprised of a slowly rotating bulge, an inner halo, and a disky bulge
+  - (2) kinematically disky bulges, akin to what are commonly called pseudo bulges in observations, are compact disk-like components that have rotation similar to warm disk
+  - (3) halos contribute almost 30% of the surface density of the outer part of morphological disks when viewed face-on
+
+- [Joint XMM-Newton and NuSTAR observations of the reflection spectrum of III Zw 2](https://arxiv.org/abs/2001.04454)
+  - The X-ray spectra exhibit a soft-excess below 1 keV and a prominent excess at the location of the broad Fe K{\alpha} line at 6.4 keV.
+  - Assuming the reflection scenario, the resulting model fits support a rapidly spinning black hole (a > 0.98) in this radio-intermediate source.
+
+----
+
+### Feb 12
+
+- [hybrid-Lenstool: A self-consistent algorithm to model galaxy clusters with strong- and weak-lensing simultaneously](https://arxiv.org/abs/2001.04635)
+  - **Useful**
+  - Combines a parametric approach to model the core of the cluster, and a non-parametric (free-form) approach to model the outskirts.
+  - Finally we found that the Joint-Fit approach yields shallower slope of the inner density profile than the Sequential-Fit approach, thus revealing possible biases in previous lensing studies.
+
+- [Multiwavelength Follow-up of the Hyperluminous Intermediate-mass Black Hole Candidate 3XMM J215022.4-055108](https://arxiv.org/abs/2001.04618)
+  - **Interesting**
+  - XMM J215022.4-055108有X-ray和Optical的爆发：一个有棒的透镜状星系的外围大质量星团内的中等质量黑洞的TDE事件
+  - The new XMM-Newton observation indicates that the luminosity was decaying as expected for a tidal disruption event and that the disk was still in the thermal state with a super-soft X-ray spectrum.
+
+- [YZiCS: Unveiling Quenching History of Cluster Galaxies Using Phase-space Analysis](https://arxiv.org/abs/2001.04645)
+  - **Relevant**
+  - Yonsei Zoom-in Cluster Simulation: 看Time since infall (TSI)和SFR以及quenching的关系
+  - Part of the quenching takes place outside clusters through mass quenching and pre-processing. The e-folding timescale of this "ex-situ quenching phase" is roughly 3 Gyr with a strong inverse mass dependence.
+  - The pace of quenching is maintained roughly for 2 Gyr ("delay time") during the first crossing time into the cluster
+  - Quenching becomes more dramatic (e-folding timescale of roughly 1 Gyr) after delay time, probably because ram pressure stripping is strongest near the cluster center.
+  - 更大质量的星系的quenching时标更短，因为在cluster、外就已经经历了相当的ex-situ quenching过程
+
+- [ALMA Imaging of the CO(7-6) Line Emission in the Submillimeter Galaxy LESS 073 at redshift 4.755⋆](https://arxiv.org/abs/2001.04816)
+  - The CO(7-6) emission is largely unresolved, and the continuum emission is totally unresolved.
+  - The SED-fit-based f60/f100 is consistent with those estimated from various line ratios as advocated by our earlier work, indicating that those proposed line-ratio-based method can be used to practically derive f60/f100 for high-z sources.
+
+- [J -factor estimation of Draco, Sculptor and Ursa Minor dwarf spheroidal galaxies with the member/foreground mixture model](https://arxiv.org/abs/2001.04866)
+  - **Useful** Modeling part
+  - We estimate those of Draco, Sculptor, and Ursa Minor dSphs by an improved statistical method in which both foreground stars and dSph member stars are simultaneously taken into account.
+
+- [Supernova feedback and the energy deposition in molecular clouds](https://arxiv.org/abs/2001.04868)
+  - The supernova is able to find weak points in the cloud and create channels through which it can escape, leaving much of the well shielded cloud largely unaffected.
+  - The expanding supernova deposits its energy in the gas that is in these exposed channels, and hence sweeps up less mass when feedback has already occurred, resulting in faster outflows with less radiative losses
+
+- [The cosmic abundance of cold gas in the local Universe](https://arxiv.org/abs/2001.04959)
+  - 用COLD GASS数据估计H2丰度；用xGASS估计HI丰度和HI+H2丰度
+  - Omega_H2=(5.34+/-0.47)x10^-5 h^-1. Molecular gas accounts for 19.6 +/- 3.9% of the total abundance of cold gas, Omega_HI+H2=(4.66+/-0.70)x10^-4 h^-1. 
