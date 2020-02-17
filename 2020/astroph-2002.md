@@ -427,3 +427,69 @@
 - [The cosmic abundance of cold gas in the local Universe](https://arxiv.org/abs/2001.04959)
   - 用COLD GASS数据估计H2丰度；用xGASS估计HI丰度和HI+H2丰度
   - Omega_H2=(5.34+/-0.47)x10^-5 h^-1. Molecular gas accounts for 19.6 +/- 3.9% of the total abundance of cold gas, Omega_HI+H2=(4.66+/-0.70)x10^-4 h^-1. 
+
+----
+
+### Feb 13
+
+- [The first blazar observed at z>6](https://arxiv.org/abs/2001.05178)
+  - PSO J030947.49+271757.31, the radio brightest (23.7 mJy at 1.4 GHz) active galactic nucleus (AGN) at z>6.0. 
+  - VLA+PanSTARRS+Swift筛选确认：this object is the X-ray brightest AGN ever observed at z>6.0. 
+  - 射电谱指数很平，非常射电噪
+
+- [One hundred SMUDGes in S-PLUS: ultra-diffuse galaxies flourish in the field](https://arxiv.org/abs/2001.05171)
+  - **Relevant**
+  - S82区域的S-PLUS 12波段观测：Based on Bayesian modeling of the optical colors of UDGs, we determine the ages, metallicities and stellar masses of 100 UDGs
+  - We find that the stellar masses and metallicities of field UDGs are similar to those observed in clusters and follow the trends previously defined in studies of dwarf and giant galaxies. 但平均比cluster里的UDG年轻，SFH更extened
+
+- [Deep Hubble Space Telescope Imaging on the Extended Lyα Emission of a QSO at z=2.19 with Damped Lyman Alpha System as a Natural Coronagraph](https://arxiv.org/abs/2001.05179)
+  - Proximate damped Lyα (PDLA) systems can be used to study the host galaxies of Quasi-stellar objects (QSOs) 因为挡住了QSO的光
+  - WFC3窄带观测Halpha：These observational results favor that the star formation from the host galaxy could be the main mechanism to power the Lyα emission.
+
+- [The origin of dust in galaxies across cosmic time](https://arxiv.org/abs/2001.05343)
+  - Dusty SAGE半解析模型：考虑了SNII超新星和AGB星，尘埃在ISM中的成长，被SN摧毁，以及SF，不同加热机制，内流，外流等对尘埃的影响。
+  - Dust mass content in the present Universe is mainly produced via grain growth in the interstellar medium (ISM) 在高红移则主要来自恒星抛射物种的凝聚
+  - 气尘比和气体-金属比例的关系可以反映不同的形成机制：如果主要在ISM中成长，这两者应该有正相关
+  - In agreement with observation showing that the circumgalactic medium (CGM) contains more dust than the ISM, our model also shows the same trend for z < 4.
+
+----
+
+### Feb 16
+
+- [COSMOGRAIL XIX: Time delays in 18 strongly lensed quasars from 15 years of optical monitoring](https://arxiv.org/abs/2001.05736)
+  - The decade-long light curves of 23 lensed QSOs
+  - We develop an automated version of the curve-shifting toolbox PyCS to ensure robust estimation of the time delay in the presence of microlensing 
+  - This is to date the largest sample of decade-long lens monitoring data, useful to measure H0, to measure the size of quasar accretion disks with microlensing, and to study quasar variability.
+
+- [Observing Strategy for the Legacy Surveys](https://arxiv.org/abs/2001.05828)
+  - **Useful**
+  - Have mapped 16,000 deg2 in three optical bands (g, r, and z) to a depth 1--2~mag deeper than the Sloan Digital Sky Survey (SDSS)
+  - We demonstrate that the tiling and dynamic observing strategies jointly result in a more uniform-depth survey that has higher efficiency
+
+- [Outflows in Star-forming Galaxies: Stacking Analyses of Resolved Winds and the Relation to Their Hosts' Properties](https://arxiv.org/abs/2001.05724)
+  - MaNGA对近邻大质量正向SF星系的叠加，看NaD吸收揭示的外流证据
+  - We detect outflows in the central regions of 78/405 galaxies 可以延伸到1 Re
+  - 外流能量和SFR面密度有相关；但有外流和无中心外流的星系的Hdelta和Dn4000基本一致
+  - 用HI stacking：we find outflow galaxies show reduced HI gas fractions at central velocities compared to their non-detection control counterparts, suggestive of some removal of HI gas
+
+- [A Method to Distinguish Quiescent and Dusty Star-forming Galaxies with Machine Learning](https://arxiv.org/abs/2001.05729)
+  - **Useful**
+  - 用t-SNE算法代替UVJ plane
+  - Due to the similarity between the colors of high- and low-redshift quiescent galaxies, under our assumptions t-SNE outperforms template fitting in 63% of trials at redshifts where a large training sample already exists. 
+
+- [The MUSE Hubble Ultra Deep Field Survey XIII. Spatially resolved spectral properties of Lyman alpha haloes around star-forming galaxies at z > 3](https://arxiv.org/abs/2001.05731)
+  - 6个Lya halo：Our resolved spectroscopic analysis of the LAHs reveals significant intrahalo variations of the Lya line profile.
+  - The Lya line shape is statistically different in the halo compared to the core for ~40% of our galaxies.
+  - We find a correlation between the peak velocity shift and the width of the Lya line both at the interstellar and circum-galactic scales
+  - We find a correlation between the width of the line in the LAH and the halo flux fraction
+  - 颜色更红的星系的Lya线更宽
+  - The generally broad and red line shapes found in the halo component suggests that the Lya haloes are powered either by scattering processes through an outflowing medium,
+
+- [The OTELO survey. III. Demography, morphology, IR luminosity and environment of AGN hosts](https://arxiv.org/abs/2001.05751)
+  - 
+
+- [xGASS: passive disks do not host unexpectedly large reservoirs of cold atomic hydrogen](https://arxiv.org/abs/2001.05824)
+  - **Interesting**
+  - xGASS: Across the stellar mass range 10^9<M∗/M⊙<10^11, we practically find no passive (≳2σ below the star-forming main sequence) disk galaxies with HI reservoirs comparable to those typical of star-forming systems.
+  - Passive disks typically have ≥0.5 dex less HI than their active counterparts.
+  - 之前的问题是使用了基于aperture的SFR估计
