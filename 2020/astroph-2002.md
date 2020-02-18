@@ -486,10 +486,62 @@
   - The generally broad and red line shapes found in the halo component suggests that the Lya haloes are powered either by scattering processes through an outflowing medium,
 
 - [The OTELO survey. III. Demography, morphology, IR luminosity and environment of AGN hosts](https://arxiv.org/abs/2001.05751)
-  - 
+  - We obtained a sample of 72 AGNs in the field of OTELO, selected with four different methods in the optical, X-rays, and mid-infrared bands. We find that using X-rays is the most efficient way to select AGNs.
+  - At z∼0.4, we find that up to 26\% of our Hα emitters are AGNs. At that redshift, AGNs are found in identical environments to non-AGNs, although they represent the most clustered group when compared to passive and star-forming galaxies.
 
 - [xGASS: passive disks do not host unexpectedly large reservoirs of cold atomic hydrogen](https://arxiv.org/abs/2001.05824)
   - **Interesting**
   - xGASS: Across the stellar mass range 10^9<M∗/M⊙<10^11, we practically find no passive (≳2σ below the star-forming main sequence) disk galaxies with HI reservoirs comparable to those typical of star-forming systems.
   - Passive disks typically have ≥0.5 dex less HI than their active counterparts.
   - 之前的问题是使用了基于aperture的SFR估计
+  - These also imply that the reduction of star formation, even in central disk galaxies, has to be accompanied by a reduction in their HI reservoir.
+
+----
+
+### Feb 17
+
+- [The evidence for a spatially flat Universe](https://arxiv.org/abs/2001.06892)
+  - We use a new and statistically powerful Planck likelihood to show that the Planck temperature and polarization spectra are consistent with a spatially flat Universe 但CMB功率谱对Omega_K参数的限制能力不强
+  - When combined with other astrophysical data, particularly geometrical measurements of baryon acoustic oscillations, the Universe is constrained to be spatially flat to extremely high precision, with Omega_ K = 0.0004 +/-0.0018
+
+- [Testing Physical Models for Cosmic Ray Transport Coefficients on Galactic Scales: Self-Confinement and Extrinsic Turbulence at GeV Energies](https://arxiv.org/abs/2001.06211)
+  - We explore different physically-motivated, anisotropic, dynamical CR transport scalings in high-resolution cosmological FIRE simulations of dwarf and ~L∗ galaxies where scattering rates vary with local plasma properties motivated by extrinsic turbulence (ET) or self-confinement (SC) scenarios, with varying assumptions about e.g. turbulent power spectra on un-resolved scales, Alfven-wave damping, etc.
+  - We demonstrate many non-linear dynamical effects (not captured in simpler models) tend to enhance confinement.
+
+- [Spectroscopic Confirmation of a Coma Cluster Progenitor at z ~ 2.2](https://arxiv.org/abs/2001.06207)
+  - **Interesting**
+  - 光谱确认了一个z~2.2的原星系团：we confirm 35 unique protocluster members with at least two emission lines detected with S/N > 3.
+  - 如果位力化，这个系统的动力学质量很大；但这个系统应该还没有位力化，只是有可能演化成一个10^15 Msun的类似Coma的星系团
+
+- [Spectroscopic Confirmation of a Coma Cluster Progenitor at z ~ 2.2](https://arxiv.org/abs/2001.06207)
+  - BoRG数据：reliable selection of galaxies at z>8 using the photometric redshift technique.
+  - We use these galaxy candidates to constrain the bright end of the rest-frame ultraviolet luminosity function in this epoch.
+
+- [The optical luminosity function of LOFAR radio-selected quasars at 1.4≤z≤5.0 in the NDWFS-Boötes field](https://arxiv.org/abs/2001.06414)
+  - **CSST**
+  - LOFAR radio-selected quasars (RSQs)的光学LF，在NDWFS中；The depth of our LOFAR observations allowed us to detect the radio-emission of quasars that would be otherwise classified as radio-quiet：Around 65% of the quasars in the sample are fainter than M1450<−24.0
+  - It has been demonstrated that in cases where mid-ir wedge-based AGN selection is not possible due to a lack of appropriate data, the selection of quasars using ML algorithms trained with optical/mid-ir photometry in combination with LOFAR data provides an excellent approach for obtaining samples of quasars.
+
+- [Orbital ingredients for cooking X-structures in edge-on galaxies](https://arxiv.org/abs/2001.06627)
+  - The X-structure in our models is gradually assembled from the center to the periphery from orbits with less than 2:1 frequency ratio
+  - The most number of such orbits is enclosed in a 'farfalle'-shape (Italian pasta) form and turns out to be non-periodic
+  - We conclude that the X-structure is only the envelope of regions of high density caused by the crossing or folding of different types of orbits at their highest points
+
+- [Galaxy kinematics across different environments in the RXJ1347-1145 cluster complex](https://arxiv.org/abs/2001.06881)
+  - We examine the physical properties of cluster galaxies at z=0.45 attending to the degree of distortion of their rotation curves. 
+  - We report a higher fraction of galaxies with irregular gas kinematics in the cluster environment than in the field.
+
+- [SMM J04135+10277: A distant QSO-starburst system caught by ALMA](https://arxiv.org/abs/2001.06925)
+  - Our CO observations revealed that the host galaxy of the quasar is also gas-rich, with an estimated molecular gas mass of 10^10 Msun.
+  - We resolve the continuum emission and detect both sources, with the companion galaxy dominating the dust continuum and the quasar having a ∼25% contribution to the total dust emission.
+  - Our results demonstrate that non-detection of low-J CO transition lines in similar sources does not necessarily imply the absence of massive molecular gas reservoir but that the excitation conditions favour the excitation of high-J transitions.
+
+- [ProSpect: Generating Rapid Spectral Energy Distributions with Complex Star Formation and Metallicity Histories](https://arxiv.org/abs/2001.06980)
+  - **Useful**
+  - ProSpect, a generative galaxy spectral energy distribution code that can also be used for parameter inference.
+  - As part of the testing of ProSpect, we also produce a range of simple photometric stellar mass approximations covering a range of filters for both observed frame and rest frame photometry.
+
+- [Tidally induced warps of spiral galaxies in IllustrisTNG](https://arxiv.org/abs/2001.07022)
+  - We find that in the sample of well-resolved gas-rich spiral galaxies about 16% possess the characteristic S-shaped warp
+  - Around one third of these objects have their vertical morphology induced by interactions with other galaxies. Half of these interactions end with the perturber absorbed by the host.
+  - Warps formed in interactions are more asymmetrical than the remaining sample, however after the interaction the asymmetry decreases with time.
