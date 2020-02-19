@@ -545,3 +545,84 @@
   - We find that in the sample of well-resolved gas-rich spiral galaxies about 16% possess the characteristic S-shaped warp
   - Around one third of these objects have their vertical morphology induced by interactions with other galaxies. Half of these interactions end with the perturber absorbed by the host.
   - Warps formed in interactions are more asymmetrical than the remaining sample, however after the interaction the asymmetry decreases with time.
+
+----
+
+### Feb 18
+
+- [ScamPy -- A sub-halo clustering & abundance matching based Python interface for painting galaxies on the dark matter halo/sub-halo hierarchy](https://arxiv.org/abs/2001.07179)
+  - **Useful**
+  - The method we use is based on the sub-halo clustering and abundance matching (SCAM) scheme which requires observations of the 1- and 2-point statistics of the target (observed) population we want to reproduce 主要面向高红移研究
+
+- [Constraining the intergalactic medium at z≈ 9.1 using LOFAR Epoch of Reionization observations](https://arxiv.org/abs/2001.07195)
+  - 21-cm power spectrum measured by the LOFAR 只有上限
+  - We have used results from the reionization simulation code GRIZZLY and a Bayesian inference framework to constrain the parameters which describe the physical state of the IGM.
+
+- [Improved upper limits on the 21-cm signal power spectrum of neutral hydrogen at z≈9.1 from LOFAR](https://arxiv.org/abs/2001.07196)
+  - LOFAR 141 hrs观测，给出21-cm功率谱的上限
+  - Gaussian Process Regression (GPR) foreground mitigation and optimally-weighted power spectrum inference.
+  - Previously seen `excess power' due to spectral structure in the gain solutions has markedly reduced
+
+- [Reliable Photometric Membership (RPM) of Galaxies in Clusters. I. A Machine Learning Method and its Performance in the Local Universe](https://arxiv.org/abs/2001.07263)
+  - **Useful**
+  - 测试了几种不同的机器学习分类算法，利用SDSS的低红移样本测试
+
+- [Hyper-Eddington accretion flows onto black holes accompanied by powerful outflows](https://arxiv.org/abs/2001.07187)
+  - 模拟研究：We find that when the BH is embedded in a dense gas core, ionizing radiation attenuated by inefficient BH feeding owing to mechanical feedback hardly affects the gas dynamics at the BH gravitational sphere of influence, from which intense inflows of neutral gas occur at rates substantially exceeding the Eddington limit without impeded by photoionization and heating.
+  - Since mechanical power of outflows driven by the rapidly accreting BH is sufficiently strong, bipolar outflows completely evacuate the surrounding gas in the polar region but mass inflows through the equatorial region maintain the BH accretion rate as high as ∼300−10^3 Eddington accretion rate
+  - Contrary to naive expectation, the existence of stronger outflow leads to the transition to rapid accretion phases more efficiently. 
+
+- [The ALMA Spectroscopic Survey in the HUDF: A model to explain observed 1.1 and 0.85 millimeter dust continuum number counts](https://arxiv.org/abs/2001.07180)
+  - ALMA观测HUDF的850 micron和1.1mm的source count的SAM建模，并且不在IMF上作弊
+  - The galaxies that dominate the number counts at flux densities below 1 mJy (3 mJy) at 1.1 millimeter (850 μm) have redshifts between z=1 and z=2 恒星质量在5x10^10 Msun左右
+  - The flattening in the observed 1.1 millimeter number counts corresponds to the knee of the 1.1 millimeter luminosity function.
+  - To efficiently detect large numbers of galaxies through their dust continuum, future surveys should scan large areas once reaching a 1.1 millimeter flux density of 0.1 mJy rather than integrating to fainter fluxes.
+
+- [On the (Lack of) Evolution of the Stellar Mass Function of Massive Galaxies from z=1.5 to 0.4](https://arxiv.org/abs/2001.07189)
+  - **CSST, SSST, Interesting**
+  - Spitzer/HETDEX Exploratory Large-Area (SHELA) Survey: From z=0.4 to 1.5 the massive end of the SMF shows minimal evolution in its shape: the characteristic mass (M∗) evolves by less than 0.1 dex (±0.05 dex)
+  - The number density of galaxies with log(M∗/M⊙)>11 stays roughly constant at log(n/Mpc−3) ≃ −3.4 (±0.05), then declines to log(n/Mpc−3)=−3.7 (±0.05) at z=1.5.
+  - For quiescent galaxies, the data are consistent with no (or slight) evolution (≲0.1 dex) in the characteristic mass nor number density from z∼1.5 to the present. 可能意味着并合质量增长与恒星演化的质量损失相平衡
+
+- [MNELLS: The MUSE Nearby Early-Type Galaxy Lens Locator Survey](https://arxiv.org/abs/2001.07191)
+  - **Interesting, Relevant**
+  - We report the first results from a blind search for gravitationally-lensed emission line sources behind 52 massive z < 0.07 ETGs with MUSE integral field spectroscopy.
+  - For nine further galaxies, we detect a singly-imaged but closely-projected source within 6 arcsec 可以用来对IMF上限给出估计
+  - Combining the new lens and new upper limits, with the previously-discovered systems, we infer an average ⟨α⟩ = 1.06 ± 0.08 (marginalised over the intrinsic scatter), which is inconsistent with a Salpeter-like IMF (α = 1.55) at the 6σ level.
+
+- [The ALMA Spectroscopic Survey in the HUDF: Deep 1.2 mm continuum number counts](https://arxiv.org/abs/2001.07199)
+  - ASPECS: ALMA Spectroscopic Survey in the Hubble Ultra Deep Field
+  - We estimate the 1.2 mm number counts to flux levels of <30μJy in two different ways: we first use the detected sources to constrain the number counts and find a significant flattening of the counts below Sν∼0.1 mJy. 然后还使用了 a probability of deflection statistics (P(D)) analysis 确认了源计数变平现象的真实存在。
+
+- [Galaxy Cold Gas Contents in Modern Cosmological Hydrodynamic Simulations](https://arxiv.org/abs/2001.07199)
+  - **Interesting**
+  - Simba, EAGLE, TNG中中性和分子气体的比较：Simba and TNG show significantly more cold gas than EAGLE, particularly in massive systems.
+  - Out to z∼2, EAGLE's and Simba's HIMF and COLF strongly increase, while TNG's HIMF declines and COLF evolves slowly.
+  - EAGLE and Simba reproduce high LCO1−0 galaxies at z∼1−2 as observed, owing partly to a median αCO(z=2)∼1 versus αCO(z=0)∼3
+  - EAGLE tends to produce somewhat too little HI, TNG overproduces cold gas in massive galaxies, and Simba overproduces molecular gas.
+
+- [Paβ, Hα, and Attenuation in NGC 5194 and NGC 6946](https://arxiv.org/abs/2001.07245)
+  - In both galaxies, A(Hα) drops with radius, with a bright, high attenuation inner region
+  - IR-to-Hα color does a good job of predicting A(Hα); The local atomic plus molecular gas column density, N(H), also predicts A(Hα) well
+
+- [WALLABY -- An SKA Pathfinder HI Survey](https://arxiv.org/abs/2001.07311)
+  - **Important**
+  - ASKAP: 36x12-m dishes PAFs. WALLABY aims to survey three-quarters of the sky (-90 degr < Dec < +30 degr) to a redshift of z < 0.26 generate spectral line image cubes at ~30 arcsec resolution and ~1.6 mJy/beam per 4 km/s channel sensitivity.
+  - WALLABY is expected to detect over half a million galaxies with a mean redshift of z ~ 0.05 (~200 Mpc).
+
+- [Environmental dependence of galactic properties traced by Lyα forest absorption (I): variation according to galaxy stellar mass and star-formation activity](https://arxiv.org/abs/2001.07334)
+  - 模拟研究：(I) cross-correlation analysis between galaxies and the fluctuation of Lyα forest transmission (δF); and (II) comparing the overdensity of neutral hydrogen (HI) and galaxies
+  - 随着Halo质量，或者恒星质量，或者SFR增加，星系和Lya的CCF增强
+  - Our analyses confirm the spatial correlation between galaxies and IGM HI, with more massive galaxies being clustered in higher-density regions as expected from the ΛCDM paradigm.
+
+- [Environmental dependence of galactic properties traced by Lyα forest absorption (II): diversity among galaxy populations](https://arxiv.org/abs/2001.07335)
+  - 观测研究: CLAMATO数据和COSMOS中星系：measure the cross-correlation function (CCF) for 570 galaxies with spec-z measurements, and detect a correlation with the IGM up to 50 h−1 comoving Mpc.
+  - 相关信号主要来自10^9-10 Msun星系的贡献；Highest signal in AGNs and SMGs at large scales (r≥5 h−1 Mpc), but in LAEs at small scales
+
+- [WISE Mid-Infrared Properties of compact Active Galactic Nuclei selected from the high-radio-frequency AT20G Survey](https://arxiv.org/abs/2001.07429)
+  - We improve upon this by selecting 3610 compact AGNs using their angular size information (∼0.15 arcsec scale) from the Australia Telescope 20 GHz (AT20G) high-angular-resolution catalogue. 用谱指数挑选AGN会带来Bias
+  - This shows that mid-infrared SED of high frequency selected compact radio AGN is comparatively less red, possibly due to contributions from their hosts.
+
+- [The apparent anti-correlation between the mass opacity of interstellar dust and the surface-density of interstellar gas](https://arxiv.org/abs/2001.07485)
+  - Herschel观测发现，近邻盘星系中500微米处尘埃的质量不透明度随ISM面密度升高而下降，与常见尘埃模型预期不符。
+  - We show, using a toy model, that the presence of a range of dust temperatures along the line of sight can lead to spuriously low estimated values of κ500.
