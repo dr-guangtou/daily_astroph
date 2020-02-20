@@ -626,3 +626,78 @@
 - [The apparent anti-correlation between the mass opacity of interstellar dust and the surface-density of interstellar gas](https://arxiv.org/abs/2001.07485)
   - Herschel观测发现，近邻盘星系中500微米处尘埃的质量不透明度随ISM面密度升高而下降，与常见尘埃模型预期不符。
   - We show, using a toy model, that the presence of a range of dust temperatures along the line of sight can lead to spuriously low estimated values of κ500.
+
+----
+
+### Feb 19
+
+- [Let us bury the prehistoric h: arguments against using h−1Mpc units in observational cosmology](https://arxiv.org/abs/2001.07829)
+  - **Interesting**
+  - 使用h^-1 Mpc在归一化功率谱的时候会产生问题，sigma_8是8h^-1 Mpc.
+  - This parameter does not correctly capture the impact of h on the amplitude of density fluctuations.
+  - We propose to abandon the use of h−1Mpc units in cosmology and to characterize the amplitude of the matter power spectrum in terms of σ12, defined as the mass fluctuation in spheres of radius 12Mpc
+
+- [Detecting Pair-Instability Supernovae at z<5 with the James Webb Space Telescope](https://arxiv.org/abs/2001.07854)
+  - The light curves of such transients can be considerably dimmer in the near infrared (NIR) today than those of primordial PISNe of equal energy and progenitor mass.
+  - We find that JWST may be able to detect only Pop II (metal-poor) PISNe over the redshift range of z<4, but not their Pop III (metal-free) counterparts.
+
+- [Testing the fidelity of simulations of black hole -- galaxy co-evolution at z ~ 1.5 with observations](https://arxiv.org/abs/2001.07812)
+  - MBII能比较好的重现32个X-ray挑选的AGN的黑洞质量和星系性质的相关；SAM则高估了黑洞质量和星系质量相关的scatter
+  - The mass relations in the MBII are highly dependent on AGN feedback while the relations in the SAM are more sensitive to galaxy merger events triggering nuclear activity.
+  - 不认为这些关系的出现可以简单的用中心极限定理解释
+
+- [A deep view into the nucleus of the Sagittarius Dwarf Spheroidal Galaxy with MUSE. II. Kinematic characterization of the stellar populations](https://arxiv.org/abs/2001.07814)
+  - We present a detailed kinematic characterization of the three stellar populations present in M54: young metal-rich (YMR); intermediate-age metal-rich (IMR); and old metal-poor (OMP), based on the spectra of ∼6500 individual M54 member stars extracted from a large MUSE/VLT dataset
+
+- [Constraining the recent star formation history of galaxies : an Approximate Bayesian Computation approach](https://arxiv.org/abs/2001.07815)
+  - **Useful**
+  - The proposed method will determine whether a variation in the last few hundreds of Myr of the SFH is needed to properly model the SED rather than a smooth normal SFH.
+  - We argue that flexible SFHs are needed to be able to cover that largest SFR-M* parameter space possible. 
+
+- [Project AMIGA: The Circumgalactic Medium of Andromeda](https://arxiv.org/abs/2001.07818)
+  - 43 QSOs that pierce the circumgalactic medium (CGM) of Andromeda (M31) from R=25 to 569 kpc 
+  - We find that Si III and O VI have near unity covering factor maintained all the way out to 1.2Rvir and 1.9Rvir. We show that Si III is the dominant ion over Si II and Si IV at any R. 
+  - The inner regions of the CGM of M31 are more dynamic and have more complicated multi-phase gas-structures than at R>0.5Rvir.
+
+- [The radio properties of HERGs with intermediate radio powers](https://arxiv.org/abs/2001.07820)
+  - Only 19 per cent of the sample therefore exhibit the double-lobed/edge-brightened structures often associated with their counterparts at high and low radio powers: radio-powerful HERGs and Seyfert galaxies 
+
+- [Towards Studying Hierarchical Assembly in Real Time: A Milky Way Progenitor Galaxy at z = 2.36 under the Microscope](https://arxiv.org/abs/2001.07822)
+  - HST + MOSFIRE: 讨论一个可能的与银河系前身星系相近的星系上的UV明亮的clump
+  - We conclude that the clump is likely a single entity as opposed to a aggregation of smaller star clusters, making it one of the most dense star clusters
+  - If it formed \emph{ex-situ}, then we are witnessing an accretion event with a 1:40 stellar mass ratio. 但不能排除in situ来源。
+
+- [Anisotropic infall in the outskirts of OmegaWINGS galaxy clusters](https://arxiv.org/abs/2001.07825)
+  - **Relevant**
+  - We find evidence of a more effective quenching in the direction of the filaments.
+  - We find that up to ∼70% of post-starburst galaxies in the direction of filaments are likely backsplash, while this number drops to ∼40% in the isotropic infall region.
+  - The presence of this small fraction of galaxies in filaments that are falling into clusters for the first time and have been recently quenched, supports a scenario in which a significant number of filament galaxies have been quenched long time ago.
+
+- [The Environment of Lyman Break Analogues (ELBA) survey: Star-forming galaxies in small groups](https://arxiv.org/abs/2001.07828)
+  - DES观测z~0.2的LBAs，看local density
+  - LBAs, on average, populate denser regions at small scales (∼ 1.5Mpc), but are located in similar environment to other star-forming galaxies at larger scales. 可能更容易受到并合的影响
+
+- [Newly Improved Ionization Corrections for the Neutral Interstellar Medium: Enabling Accurate Abundance Determinations in Star-forming Galaxies throughout the Universe](https://arxiv.org/abs/2001.07831)
+  - 从发射线中提取金属丰度是需要电离改正(ICFs)
+  - These new corrections include both the contaminating ionized gas along the line of sight (ICFionized) and unaccounted higher ionization stages in the neutral gas (ICFneutral).
+  - we calculate ICFs from a uniform grid of models covering a wide range of physical properties typically observed in studies of SFGs and extragalactic H II regions.
+
+- [Dust Destruction by Charging: A Possible Origin of Grey Extinction Curves of Active Galactic Nuclei](https://arxiv.org/abs/2001.08023)
+  - AGN的消光曲线和银河系的比缺少small grains
+  - We propose that dust destruction by charging, or Coulomb explosion, may be responsible for AGN extinction curves
+  - Grain fission via the Coulomb explosion occurs when the electrostatic tensile stress of a charge grain exceeds its tensile strength
+
+- [Variability and the size-luminosity relation of the intermediate mass AGN in NGC 4395](https://arxiv.org/abs/2001.08028)
+  - We monitored NGC 4395 with a ∼5 minute cadence during a period of 10 days and obtained light curves in the UV, V, J, H, and K/Ks bands as well as the Hα narrow-band.
+  - We obtained no reliable measurements for the continuum-to-continuum lag between UV and V bands and among near-IR bands, due to the large flux uncertainty of UV observations
+  - While the optical luminosity of NGC 4395 is two orders of magnitude lower than that of other reverberation-mapped AGNs, NGC 4395 follows the size-luminosity relation, albeit with an offset of 0.48 dex (≥2.5σ) from the previous best-fit relation of Bentz et al. (2013).
+
+- [Constraining stellar population parameters from narrow band photometric surveys using convolutional neural networks](https://arxiv.org/abs/2001.08028)
+  - **Relevant**
+  - J-PAS巡天，用CNN技术提取age和金属丰度
+  - It is demonstrated that the diversity of the dataset used to train the neural networks has a dramatic effect on the recovery of galactic stellar population parameters
+
+- [ZFIRE: Measuring Electron Density with [OII] as a function of environment at z = 1.62](https://arxiv.org/abs/2001.08353)
+  - 看宇宙在z~2附近有没有和SFR整体变化类似的电子密度的变化。
+  - We measure a median electron density of ne = 366+/-84 cm-3 for six galaxies (with 1-sigma scatter = 163 cm-3) in the UDS proton-cluster at z=1.62 比相近红移处场中的星系的平均密度高三倍左右。但样本尚过小
+  - We conclude that the electron density increases with redshift in both cluster and field environments up to z~2
