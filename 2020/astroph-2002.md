@@ -701,3 +701,113 @@
   - 看宇宙在z~2附近有没有和SFR整体变化类似的电子密度的变化。
   - We measure a median electron density of ne = 366+/-84 cm-3 for six galaxies (with 1-sigma scatter = 163 cm-3) in the UDS proton-cluster at z=1.62 比相近红移处场中的星系的平均密度高三倍左右。但样本尚过小
   - We conclude that the electron density increases with redshift in both cluster and field environments up to z~2
+
+----
+
+### Feb 20
+
+- [HOLISMOKES -- I. Highly Optimised Lensing Investigations of Supernovae, Microlensing Objects, and Kinematics of Ellipticals and Spirals](https://arxiv.org/abs/2001.08378)
+  - SN爆发rest-frame 10天以内，SNIa谱都不受微引力透镜影响
+  - We find that a sample of 20 lensed SNe Ia would allow a constraint on the Hubble constant (H0) with 1.3% uncertainty in the flat ΛCDM cosmology. 
+
+- [Spectroscopically Confirmed Lyman-Alpha Emitters from Redshift 5 to 7 Behind Ten Galaxy Cluster Lenses](https://arxiv.org/abs/2001.08952)
+  - 
+
+- [Measuring the Heating and Cooling of the Interstellar Medium at High redshift: PAH and [C II] Observations of the Same Star Forming Galaxies at z~2](https://arxiv.org/abs/2001.08371)
+
+- [A search for the lenses in the Herschel Bright Sources (HerBS) Sample](https://arxiv.org/abs/2001.08373)
+
+- [Exploring galaxy colour in different environments of the cosmic web with SDSS](https://arxiv.org/abs/2001.08400)
+  - The filaments host a higher fraction of red galaxies than the sheets at each luminosity.
+  - At a fixed luminosity, the fraction of red galaxies in filaments and sheets increases with the size of these structures. 
+  - The average colour of the red and blue populations are systematically higher in the environments with smaller local dimension and increases monotonically in all the environments with luminosity.
+
+- [Prescriptions for Correcting Ultraviolet-Based Redshifts for Luminous Quasars at High Redshift](https://arxiv.org/abs/2001.08472)
+
+- [The CGM at Cosmic Noon with KCWI: Outflows from a Star-forming Galaxy at z=2.071](https://arxiv.org/abs/2001.08516)
+
+- [Passive spirals and shock influenced star formation in the merging cluster A3376](https://arxiv.org/abs/2001.08610)
+
+- [The ALMA Spectroscopic Survey in the HUDF: The Cosmic Dust and Gas Mass Densities in Galaxies up to z∼3](https://arxiv.org/abs/2001.08640)
+
+----
+
+### Feb 23
+
+- [Radio morphology-accretion mode link in FRII low-excitation radio galaxies](https://arxiv.org/abs/2001.09360)
+
+- [The Importance Of Star Formation Intensity In LYα Escape From Green Pea Galaxies And Lyman Break Galaxy Analogs](https://arxiv.org/abs/2001.08961)
+
+- [Dynamical Equilibrium in the Molecular ISM in 28 Nearby Star-Forming Galaxies](https://arxiv.org/abs/2001.08964)
+
+- [The evolving AGN duty cycle in galaxies since z∼3 as encoded in the X-ray luminosity function](https://arxiv.org/abs/2001.08965)
+
+- [Studying the ISM at ~10 pc scale in NGC 7793 with MUSE -- I. Data description and properties of the ionised gas](https://arxiv.org/abs/2001.08966)
+
+- [The OTELO survey. A case study of [O III]4959,5007 emitters at <z> = 0.83](https://arxiv.org/abs/2001.08978)
+
+- [SDSS-IV MaNGA: The kinematic-morphology of galaxies on the mass vs star-formation relation in different environments](https://arxiv.org/abs/2001.09011)
+
+- [Angular momentum-related probe of cold gas deficiencies](https://arxiv.org/abs/2001.09083)
+
+- [ALMA CO Observations of the Host Galaxies of Long-duration Gamma-ray Bursts. I: Molecular Gas Scaling Relations](https://arxiv.org/abs/2001.09121)
+
+- [How "cold" are superthin discs ? An "MCMC" approach](https://arxiv.org/abs/2001.09198)
+
+- [Gas fractions and depletion times in galaxies with different degrees of interaction](https://arxiv.org/abs/2001.09257)
+
+- [The AMUSING++ Nearby Galaxy Compilation: I. Full Sample Characterization and Galactic--Scale Outflows Selection](https://arxiv.org/abs/2001.09328)
+
+- [Clusters of Galaxies Masquerading as X-Ray Quasars](https://arxiv.org/abs/2001.09431)
+
+----
+
+### Feb 24
+
+- [Understanding the large inferred Einstein radii of observed low-mass galaxy clusters](https://arxiv.org/abs/2001.09494)
+
+- [Unveiling the Intrinsic Alignment of Galaxies with Self-Calibration and DECaLS DR3 data](https://arxiv.org/abs/2001.09826)
+
+- [Baryon acoustic oscillations reconstruction using convolutional neural networks](https://arxiv.org/abs/2001.10218)
+
+- [Adversarial training applied to Convolutional Neural Network for photometric redshift predictions](https://arxiv.org/abs/2001.10154)
+
+- [Orbital evidences for dark-matter free Milky-Way dwarf-spheroidal galaxies](https://arxiv.org/abs/2001.09493)
+
+- [The Edge of the Galaxy](https://arxiv.org/abs/2001.09497)
+
+- [ALMA Observations of the Molecular Clouds in NGC 625](https://arxiv.org/abs/2001.09498)
+
+- [The regulation of galaxy growth along the size-mass relation by star-formation, as traced by Hα in KMOS3D galaxies at 0.7 < z < 2.7](https://arxiv.org/abs/2001.09499)
+
+- [Multiple Chemodynamic Stellar Populations of the Ursa Minor Dwarf Spheroidal Galaxy](https://arxiv.org/abs/2001.09503)
+
+- [The Blue Compact Dwarf Galaxy VCC848 Formed by Dwarf-Dwarf Merging](https://arxiv.org/abs/2001.09517)
+
+- [The bursty star formation history of the Fornax dwarf spheroidal galaxy revealed with the HST](https://arxiv.org/abs/2001.09714)
+
+- [MCG+07-20-052: Interacting dwarf pair in a group environment](https://arxiv.org/abs/2001.10076)
+
+- [MCG+07-20-052: Interacting dwarf pair in a group environment](https://arxiv.org/abs/2001.10076)
+
+----
+
+### Feb 25
+
+- [The Rise of Active Galactic Nuclei in the GAlaxy Evolution and Assembly semi-analytic model](https://arxiv.org/abs/2001.10576)
+
+- [LATIS: The Lyα Tomography IMACS Survey](https://arxiv.org/abs/2001.10676)
+
+- [Validation of Selection Function, Sample Contamination and Mass Calibration in Galaxy Cluster Samples](https://arxiv.org/abs/2001.10834)
+
+- [Dimensionality Reduction of SDSS Spectra with Variational Autoencoders](https://arxiv.org/abs/2001.10464)
+
+- [The Local Universe from Calar Alto (LUCA)](https://arxiv.org/abs/2001.10795)
+
+- [The Physical Nature of Starburst-Driven Galactic Outflows](https://arxiv.org/abs/2001.10468)
+
+- [High redshift JWST predictions from IllustrisTNG: II. Galaxy line and continuum spectral indices and dust attenuation curves](https://arxiv.org/abs/2001.10474)
+
+- [Hot gas in galaxy halos traced by coronal broad Lyman alpha absorbers](https://arxiv.org/abs/2001.10486)
+
+- [A Systematic Search for Galaxy Proto-Cluster Cores at z∼2](https://arxiv.org/abs/2001.10511)
