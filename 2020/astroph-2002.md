@@ -811,3 +811,22 @@
 - [Hot gas in galaxy halos traced by coronal broad Lyman alpha absorbers](https://arxiv.org/abs/2001.10486)
 
 - [A Systematic Search for Galaxy Proto-Cluster Cores at z∼2](https://arxiv.org/abs/2001.10511)
+
+----
+
+### Feb 26
+
+- [Dark Energy Survey Year 1 Results: Cosmological Constraints from Cluster Abundances and Weak Lensing](https://arxiv.org/abs/2001.11124)
+  - **Important, Relevant**
+
+- [An extended proto-cluster of galaxies surrounding SPT2349−56 at z=4.3](https://arxiv.org/abs/2001.11600)
+
+- [EUCLIA. II. On the puzzling large UV to X-ray lags in Seyfert galaxies](https://arxiv.org/abs/2001.11116)
+
+- [Elevated ionizing photon production efficiency in faint high-equivalent-width Lyman-alpha emitters](https://arxiv.org/abs/2001.11117)
+
+- [The Distinct Stellar-to-Halo Mass Relations of Satellite and Central Galaxies: Insights from the IllustrisTNG Simulations](https://arxiv.org/abs/2001.11119)
+
+- [The Satellite Luminosity Function of M101 into the Ultra-Faint Dwarf Galaxy Regime](https://arxiv.org/abs/2001.11126)
+
+- [Structures, stellar population properties, AGN fractions, and environments of massive compact galaxies at 1<z<2 in 3D--{\it HST}/CANDELS](https://arxiv.org/abs/2001.11274)
