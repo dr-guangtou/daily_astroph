@@ -6,7 +6,7 @@
 
 ----
 
-### Feb 2
+### Mar 2
 
 - [Blending and obscuration in weak lensing magnification](https://arxiv.org/abs/2003.01047)
 
@@ -30,7 +30,7 @@
 
 ----
 
-### Feb 3
+### Mar 3
 
 - [UV line driven disc wind as the origin of ultrafast outflows in AGN](https://arxiv.org/abs/2003.01137)
 
@@ -48,7 +48,7 @@
 
 ----
 
-### Feb 4
+### Mar 4
 
 - [Lyα Blobs from Cold Streams Undergoing Kelvin-Helmholtz Instabilities](https://arxiv.org/abs/2003.01724)
 
@@ -66,7 +66,7 @@
 
 ----
 
-### Feb 5
+### Mar 5
 
 - [The halo model as a versatile tool to predict intrinsic alignments](https://arxiv.org/abs/2003.02700)
   - We account for the different IA signatures at large and small scales as well for the different contribution from central/satellite and red/blue galaxies.
@@ -91,7 +91,7 @@
   - Contrary to previous works, we find that the upper-envelope of the SFMS is not dominated by objects with a significant bulge component. 近邻宇宙中恒星形成活跃的星系不经历明显的buldge growth
 
 - [SDSS-IV MaNGA: Kinematic Asymmetry as An Indicator of Galaxy Interaction in Paired Galaxies](https://arxiv.org/abs/2003.02493)
-  - We find that the star formation rate (SFR) of the paired galaxies with high kinematic asymmetry is significantly enhanced even when the projected separation between the pair members is quite large (dp~100 kpc). 
+  - We find that the star formation rate (SFR) of the paired galaxies with high kinematic asymmetry is significantly enhanced even when the projected separation between the pair members is quite large (dp~100 kpc).
   - On the contrary, no significant SFR enhancement is found for the paired galaxies with low kinematic asymmetry even when their projected separation is small (dp < 30 kpc).
   - The kinematic asymmetry is an excellent indicator of galaxy-galaxy interaction strength, which helps us better understand the merging stage of the observed galaxy pairs.
 
@@ -102,4 +102,64 @@
 
 - [On the nature of Small Galaxy Systems](https://arxiv.org/abs/2003.02784)
   - Small Galaxy Systems: pairs, triplets, and groups with four or more members.
-  - Galaxies in groups are systematically redder and with lower star formation activity indicators than galaxies in pairs which have a higher fraction of star forming galaxies. 
+  - Galaxies in groups are systematically redder and with lower star formation activity indicators than galaxies in pairs which have a higher fraction of star forming galaxies.
+
+----
+
+### Mar 8
+
+- [The first simultaneous measurement of Hubble constant and post-Newtonian parameter from Time-Delay Strong Lensing](https://arxiv.org/abs/2003.02700)
+  - **Interesting**
+  - Propose a new methodology through which the cosmological model, specifically the Hubble constant, and post-Newtonian parameter can be simultaneously constrained
+  - Our results suggests no deviation from the General Relativity, γ𝙿𝙿𝙽=0.87+0.19−0.17 with a Hubble constant favors the local universe value, H0=73.65+1.95−2.26 km s−1 Mpc−1.
+  - We find that the joint constraint from 40 lenses are able to reach the order of 7.7% for the post-Newtonian parameter and 1.4% for Hubble parameter.
+
+- [CosmoHub: Interactive exploration and distribution of astronomical data on Hadoop](https://arxiv.org/abs/2003.03217)
+
+- [Coupling local to global star formation in spiral galaxies: the effect of differential rotation](https://arxiv.org/abs/2003.02848)
+  - We show that the azimuthally averaged normalized star formation rate density in spiral galaxies on a scale of a few hundred parsecs is proportional to the kinetic energy of giant molecular cloud collisions due to differential rotation of the galactic disc.
+  - Shear does not act as a stabilizing factor for the cloud collapse thus reducing star formation but rather increases it by boosting the kinetic energy of collisions.
+
+- [A panchromatic spatially resolved analysis of nearby galaxies -- II. The main sequence - gas relation at sub-kpc scale in grand-design spirals](https://arxiv.org/abs/2003.02861)
+  - We find that the spatially resolved MS (σ=0.23 dex) is the combination of two relations: the Kennicutt-Schmidt law (σ=0.19 dex) and the molecular gas MS (MGMS, σ=0.22 dex)
+  - Σ*, ΣSFR and the surface density of the molecular gas, ΣH2, define a 3D relation
+  - We find that ΣH2 steadily increases along the MS relation, varies little towards higher ΣSFR at fixed stellar surface densities (not enough to sustain the change in SFR), and it is almost constant perpendicular to the relation
+
+- [The Grand Twirl: The Epoch of Rapid Assembly of Extended and Quiescent Discs](https://arxiv.org/abs/2003.3368)
+  - **Interesting**
+  - After the last starburst episode, both galaxies feature a dramatic gaseous disc growth from 1 kpc to 5 kpc during 1 Gyr, a decisive epoch we dub "the Grand Twirl".
+  - 随后吸积气体的角动量决定了最后星系的形态
+  - The build-up of this extended disc leads to a rapid lowering of ΣSFR by over two orders of magnitude: As a consequence, supernovae explosions are spread out and cannot launch galactic outflows anymore, allowing for the persistence of a thin, gently star forming, extended disc.
+
+----
+
+### Mar 9
+
+- [Millimeter-wave Point Sources from the 2500-square-degree SPT-SZ Survey: Catalog and Population Statistics](https://arxiv.org/abs/2003.03431)
+  - A catalog of emissive point sources detected in the SPT-SZ survey
+  - Compact, emissive sources that are bright at millimeter wavelengths: synchrotron radiation from active galactic nuclei and thermal emission from dust.
+  - The catalog splits into 3980 synchrotron-dominated and 865 dust-dominated sources and we determine a list of 506 SMGs. 高流量端的SMG大部分都是被放大的
+
+- [Cosmological insights into the assembly of the radial and compact stellar halo of the Milky Way](https://arxiv.org/abs/2003.03381)
+  - From ∼150 MW analogs, ∼80% have experienced at least one merger of similar mass and infall time as GE/GS
+  - Within this sample, 37 have debris as radial as that of the GE/GS, which we dub the Ancient Radial Mergers (ARMs). Counterrotation也不罕见
+  - 但很难重现Gaia Sausage的compactness比较困难
+  - For most MW analogs, a few mergers are required to build the inner stellar halo, and ARM debris only accounts for ∼12% of inner accreted stars.
+
+- [The Halos and Environments of Nearby Galaxies (HERON) II: The outer structure of edge-on galaxies](https://arxiv.org/abs/2003.03392)
+  - **Relevant**
+  - Detail deep imaging (down to surface brightness of ~28 mag/arcsec2 in the r band) for 35 galaxies, viewed edge-on.
+  - We classify the observed outer shapes of the galaxies into three main types (and their prototypes): disc/diamond-like (NGC891), oval (NGC4302), and boxy (NGC3628). 
+  - We propose that the observed diversity of the galaxy outer shapes is defined by the merger history and its intensity: if no recent multiple minor or single major merging took place, the outer shape is diamond-like or discy.
+
+- [The baryonic Tully-Fisher relation in the Simba simulation](https://arxiv.org/abs/2003.03402)
+  - 和SPARC比较：Simba's rotation curves are more peaked for lower mass galaxies, in contrast with observations, suggesting overly bugle-dominated dwarf galaxies in our sample.
+  - Simba's BTFR shows sub-optimal resolution convergence, with the higher-resolution run lowering V in better agreement with data. 
+
+- [Testing an indirect method for identifying galaxies with high levels of Lyman continuum leakage](https://arxiv.org/abs/2003.03905)
+  - Based on measurements of the Hβ equivalent width (EW) and the β slope of the UV continuum. 
+  - For the LCG in our sample with the most extreme \fesc, as revealed by the direct detection of LyC photons, we find that the EW(Hβ)--β method gives a broadly consistent estimate for \fesc, although the error bars remain very large.
+
+- [X-ray Emission From Hot Gas in Galaxy Groups and Clusters in Simba](https://arxiv.org/abs/2003.04115)
+  - Simba matches observations of LX versus central galaxy stellar mass M∗, predicting the additional trend that star-forming galaxies have higher LX(M∗).
+  - Simba's [Fe/H] profile matches observations in the core but over-predicts at larger radii, suggesting overly widespread metal distribution.
