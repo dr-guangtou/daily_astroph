@@ -163,3 +163,48 @@
 - [X-ray Emission From Hot Gas in Galaxy Groups and Clusters in Simba](https://arxiv.org/abs/2003.04115)
   - Simba matches observations of LX versus central galaxy stellar mass M∗, predicting the additional trend that star-forming galaxies have higher LX(M∗).
   - Simba's [Fe/H] profile matches observations in the core but over-predicts at larger radii, suggesting overly widespread metal distribution.
+
+----
+
+### Mar 10
+
+- [When do cosmic peaks, filaments or walls merge? A theory of critical events in a multi-scale landscape](https://arxiv.org/abs/2003.04413)
+  - The cosmic evolution of the destruction rate of haloes and voids as a function of mass and redshift is quantified for a ΛCDM cosmology.
+
+- [A tale of two sites -- I: Inferring the properties of minihalo-hosted galaxies from current observations](https://arxiv.org/abs/2003.04442)
+  - Molecularly-cooled galaxies (MCGs): ''minihalos'', with masses of ∼105--108M⊙, accreting their gas from the intergalactic medium through H2 cooling
+  - 太暗无法直接探测，但也许可以从21-cm信号中了解：We allow MCGs to have different properties from other galaxies, including unique scaling relations for their stellar to halo mass ratios, ionizing escape fractions, and spectral energy distributions.
+
+- [X-ray properties of X-CLASS-redMaPPer galaxy cluster sample: The luminosity-temperature relation](https://arxiv.org/abs/2003.04624)
+  - **Relevant**
+  - X-CLASS is a serendipitous search for clusters in the X-ray wavebands based on the XMM-Newton archive 
+  - We investigate the luminosity-temperature (L-T) relation of the XC1-RM sample and find a slope equals to 3.03 ± 0.26. It is steeper than predicted by self-similar assumptions, in agreement with independent studies.
+
+- [Testing The Lamp-Post and Wind Reverberation Models with XMM-Newton Observations of NGC 5506](https://arxiv.org/abs/2003.04322)
+  - The source shows an emission line feature around 6.7 keV that is delayed relative to harder and softer energy bands
+  - We find that the reflection fraction needed to explain the lags is larger than observed in the time-averaged spectrum, ruling out both a static lamp-post and simple wind reverberation models.
+
+- [Simulating JWST/NIRCam Color Selection of High-Redshift Galaxies](https://arxiv.org/abs/2003.04326)
+  - JAdes extraGalactic Ultradeep Artificial Realizations (JAGUAR) mock catalog to simulate a series of extragalactic surveys with realistic noise estimates.
+  - We find that redder selection colors reduce the number of recovered high-redshift galaxies, but the overall accuracy of the final sample is higher.
+  - We also explore the near-IR colors of brown dwarfs and demonstrate that, while they are predicted to have low on-sky densities, they are most likely to be recovered in F090W dropout selection, but there are color cuts which help to mitigate this contamination.
+
+- [The Typical Massive Quiescent Galaxy at z∼3 is a Post-starburst](https://arxiv.org/abs/2003.04342)
+  - **Relevant**
+  - Their average near-UV/optical rest-frame spectrum is characterized by low attenuation (Av∼0.6 mag) and a strong Balmer break, larger than the 4000 A break, corresponding to a fairly young age of ∼300 Myr.
+  - The rapid spectral evolution with respect to z ∼ 1.5 quiescent galaxies is not matched by an increase of residual star-formation, as judged from the weak detection of [O II]3727A emission, pointing to a flattening of the steep increase in gas fractions previously seen from z ∼ 0 to 1.8.
+  - However, radio 3GHz stacked emission implies either much stronger dust-obscured star formation or substantial further evolution in radio-mode AGN activity with respect to z ∼ 1.5.
+
+- [The XXL survey: XL. Obscuration properties of red AGN in XXL−N](https://arxiv.org/abs/2003.04346)
+  - We use IR selection criteria, specifically the W1 and W2 WISE bands (Assef et al.), to identify 4798 AGN in the XMM−XXL area 
+  - Application of optical/mid-IR colours (r−W2>6) reveals 561 red AGN (14%)
+  - Up to 76% (28/37) of the IR red AGN present signs of X-ray absorption.
+
+- [The intra-cluster light as a tracer of the total matter density distribution: a view from simulations](https://arxiv.org/abs/2003.04662)
+  - **Relevant, Interesting**
+  - Cluster-EAGLE模拟，看stellar mass density distribution在ICL里和总物质密度的关系，结果发现符合得很好 
+  - Find that the shape of the stellar mass distribution follows that of the total matter even more closely than observed, although their radial profiles differ substantially
+  - The ratio between stellar and total matter density profiles in circular apertures, shows a slope close to -1, with a small dependence on the cluster's total mass.
+
+- [A Catalogue of Locus Algorithm Pointings for Optimal Differential Photometry for 23,779 Quasars](https://arxiv.org/abs/2003.04590)
+  - This paper presents a catalogue of optimised pointings for differential photometry of 23,779 quasars extracted from the Sloan Digital Sky Survey (SDSS) Catalogue and a score for each indicating the quality of the Field of View (FoV) associated with that pointing.
