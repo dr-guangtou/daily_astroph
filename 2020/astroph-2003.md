@@ -208,3 +208,21 @@
 
 - [A Catalogue of Locus Algorithm Pointings for Optimal Differential Photometry for 23,779 Quasars](https://arxiv.org/abs/2003.04590)
   - This paper presents a catalogue of optimised pointings for differential photometry of 23,779 quasars extracted from the Sloan Digital Sky Survey (SDSS) Catalogue and a score for each indicating the quality of the Field of View (FoV) associated with that pointing.
+
+----
+
+### Mar 11
+
+- [The Chemical Nature of the Young 120-Myr-old Nearby Pisces-Eridanus Stellar Stream Flowing through the Galactic Disk](https://arxiv.org/abs/2003.04940)
+  - Pisces-Eridanus stream, was initially thought to be as old as 1 Gyr, yet its stars shared a rotation period distribution consistent with the 120-Myr-old Pleiades cluster.
+  - These results together show that the Pisces-Eridanus stream is a uniquely close, young, chemically interesting laboratory for testing our understanding of star and planet formation.
+
+- [Relating the structure of dark matter halos to their assembly and environment](https://arxiv.org/abs/2003.05137)
+  - **Relevant**
+  - We find that the complexity of halo assembly histories can be well described by a small number of principal components. 
+  - We find that the correlation between halo concentration and assembly history is tight
+  - Halo shape and spin parameters are found to depend not only on assembly history, but also on environment and initial condition, and these dependencies are not orthogonal.
+
+- [Suppressed or enhanced central star formation rates in late-type barred galaxies](https://arxiv.org/abs/2003.05190)
+  - We compare physical properties of a sample of disc-dominated barred galaxies with high central SFR (HC galaxies) with those of a sample of disc-dominated barred galaxies with low central SFR (LC galaxies).
+  - HI气体比例和Bar长度类似，但 HCs have bluer colors than LCs, and that outside the bar region they host stronger spiral arms than the LCs where closed rings are more often seen.
