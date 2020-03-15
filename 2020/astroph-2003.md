@@ -149,15 +149,15 @@
 - [The Halos and Environments of Nearby Galaxies (HERON) II: The outer structure of edge-on galaxies](https://arxiv.org/abs/2003.03392)
   - **Relevant**
   - Detail deep imaging (down to surface brightness of ~28 mag/arcsec2 in the r band) for 35 galaxies, viewed edge-on.
-  - We classify the observed outer shapes of the galaxies into three main types (and their prototypes): disc/diamond-like (NGC891), oval (NGC4302), and boxy (NGC3628). 
+  - We classify the observed outer shapes of the galaxies into three main types (and their prototypes): disc/diamond-like (NGC891), oval (NGC4302), and boxy (NGC3628).
   - We propose that the observed diversity of the galaxy outer shapes is defined by the merger history and its intensity: if no recent multiple minor or single major merging took place, the outer shape is diamond-like or discy.
 
 - [The baryonic Tully-Fisher relation in the Simba simulation](https://arxiv.org/abs/2003.03402)
   - 和SPARC比较：Simba's rotation curves are more peaked for lower mass galaxies, in contrast with observations, suggesting overly bugle-dominated dwarf galaxies in our sample.
-  - Simba's BTFR shows sub-optimal resolution convergence, with the higher-resolution run lowering V in better agreement with data. 
+  - Simba's BTFR shows sub-optimal resolution convergence, with the higher-resolution run lowering V in better agreement with data.
 
 - [Testing an indirect method for identifying galaxies with high levels of Lyman continuum leakage](https://arxiv.org/abs/2003.03905)
-  - Based on measurements of the Hβ equivalent width (EW) and the β slope of the UV continuum. 
+  - Based on measurements of the Hβ equivalent width (EW) and the β slope of the UV continuum.
   - For the LCG in our sample with the most extreme \fesc, as revealed by the direct detection of LyC photons, we find that the EW(Hβ)--β method gives a broadly consistent estimate for \fesc, although the error bars remain very large.
 
 - [X-ray Emission From Hot Gas in Galaxy Groups and Clusters in Simba](https://arxiv.org/abs/2003.04115)
@@ -177,7 +177,7 @@
 
 - [X-ray properties of X-CLASS-redMaPPer galaxy cluster sample: The luminosity-temperature relation](https://arxiv.org/abs/2003.04624)
   - **Relevant**
-  - X-CLASS is a serendipitous search for clusters in the X-ray wavebands based on the XMM-Newton archive 
+  - X-CLASS is a serendipitous search for clusters in the X-ray wavebands based on the XMM-Newton archive
   - We investigate the luminosity-temperature (L-T) relation of the XC1-RM sample and find a slope equals to 3.03 ± 0.26. It is steeper than predicted by self-similar assumptions, in agreement with independent studies.
 
 - [Testing The Lamp-Post and Wind Reverberation Models with XMM-Newton Observations of NGC 5506](https://arxiv.org/abs/2003.04322)
@@ -196,13 +196,13 @@
   - However, radio 3GHz stacked emission implies either much stronger dust-obscured star formation or substantial further evolution in radio-mode AGN activity with respect to z ∼ 1.5.
 
 - [The XXL survey: XL. Obscuration properties of red AGN in XXL−N](https://arxiv.org/abs/2003.04346)
-  - We use IR selection criteria, specifically the W1 and W2 WISE bands (Assef et al.), to identify 4798 AGN in the XMM−XXL area 
+  - We use IR selection criteria, specifically the W1 and W2 WISE bands (Assef et al.), to identify 4798 AGN in the XMM−XXL area
   - Application of optical/mid-IR colours (r−W2>6) reveals 561 red AGN (14%)
   - Up to 76% (28/37) of the IR red AGN present signs of X-ray absorption.
 
 - [The intra-cluster light as a tracer of the total matter density distribution: a view from simulations](https://arxiv.org/abs/2003.04662)
   - **Relevant, Interesting**
-  - Cluster-EAGLE模拟，看stellar mass density distribution在ICL里和总物质密度的关系，结果发现符合得很好 
+  - Cluster-EAGLE模拟，看stellar mass density distribution在ICL里和总物质密度的关系，结果发现符合得很好
   - Find that the shape of the stellar mass distribution follows that of the total matter even more closely than observed, although their radial profiles differ substantially
   - The ratio between stellar and total matter density profiles in circular apertures, shows a slope close to -1, with a small dependence on the cluster's total mass.
 
@@ -219,10 +219,53 @@
 
 - [Relating the structure of dark matter halos to their assembly and environment](https://arxiv.org/abs/2003.05137)
   - **Relevant**
-  - We find that the complexity of halo assembly histories can be well described by a small number of principal components. 
+  - We find that the complexity of halo assembly histories can be well described by a small number of principal components.
   - We find that the correlation between halo concentration and assembly history is tight
   - Halo shape and spin parameters are found to depend not only on assembly history, but also on environment and initial condition, and these dependencies are not orthogonal.
 
 - [Suppressed or enhanced central star formation rates in late-type barred galaxies](https://arxiv.org/abs/2003.05190)
   - We compare physical properties of a sample of disc-dominated barred galaxies with high central SFR (HC galaxies) with those of a sample of disc-dominated barred galaxies with low central SFR (LC galaxies).
   - HI气体比例和Bar长度类似，但 HCs have bluer colors than LCs, and that outside the bar region they host stronger spiral arms than the LCs where closed rings are more often seen.
+
+----
+
+### Mar 12
+
+- [The Tidal Disruption Event AT 2018hyz II: Light Curve Modeling of a Partially Disrupted Star](https://arxiv.org/abs/2003.05469)
+  - Tidal disruption event (TDE) located in the nucleus of a quiescent E+A galaxy at a redshift of z=0.04573
+  - The light curve shows an excess bump in the UV about 50 days after bolometric peak lasting for at least 100 days, which may be related to an outflow.
+  - We detect a constant X-ray source present for at least 86 days.
+
+- [The Tidal Disruption Event AT 2018hyz I: Double-peaked emission lines and a flat Balmer decrement](https://arxiv.org/abs/2003.05469)
+  - AT 2018hyz originated from the partial disruption of a low mass star.
+  - The Balmer lines are unlike typical AGN in that they show a flat Balmer decrement (Hα/Hβ∼1.5), suggesting the lines are collisionally excited rather than being produced via photo-ionisation.
+
+- [An ALMA survey of the brightest sub-millimetre sources in the SCUBA-2 COSMOS field](https://arxiv.org/abs/2003.05484)
+  - 182个最亮SMG的870micron maps； We detect more than one SMG counterpart in 34+/-2 per cent of sub-millimetre sources, increasing to 53+/-8 per cent for SCUBA-2 sources brighter than S_850um>12mJy. 1/3以上是真实的pair
+  - We find a median photometric redshift for the S_870um>6.2mJy AS2COSMOS sample of z=2.87+/-0.08, and clear evidence for an increase in the median redshift with 870-um flux density suggesting strong evolution in the bright-end of the 870um luminosity function.
+
+- [The γ-ray Emission of Star-Forming Galaxies](https://arxiv.org/abs/2003.05493)
+   - Star-forming galaxies are expected to contribute to both the extragalactic γ-ray background and the IceCube astrophysical neutrino flux.
+   - 利用Fermi 10年数据：We report the detection of 11 bona-fide γ-ray emitting galaxies and 2 candidates
+   - The cumulative γ-ray emission of below-threshold galaxies is also significantly detected at ∼5\,σ confidence.
+   - The γ-ray luminosity of resolved and unresolved galaxies is found to correlate with the total (8-1000\,μm) infrared luminosity as previously determined.
+   - We find that star-forming galaxies account for roughly 5% and 3% of the extragalactic γ-ray background and the IceCube neutrino flux
+
+- [Host galaxy properties and environment of obscured and unobscured X-ray selected Active Galactic Nuclei in the COSMOS survey](https://arxiv.org/abs/2003.05513)
+  - We find that the UV/optical and mid-infrared colour distribution of the different AGN types differ significantly.
+  - Obscured and unobscured AGNs and QSOs reside in different local environment at small (rp < 100 kpc) scales. Our results support previous findings where AGN type correlates with environment
+
+- [Disentangling the formation history of galaxies via population-orbit superposition: method validation](https://arxiv.org/abs/2003.05561)
+  - The models fit the density distributions, as well as kinematic, age and metallicity maps from Integral Field Unit (IFU) spectroscopy observations
+  - 根据Auriga模拟mock MUSE观测：A physically motivated age-metallicity relation improves recovering the intrinsic stellar population distributions
+  - 能够得到colr, warm, hot, counter-rotating成分的速度，密度和星族信息; 在edge-on下表现尤其好
+  - These galaxies exhibit strong global age vs. σz relation, which is well recovered by our model.
+
+- [Searching for molecular gas in/outflows in the nuclear regions of five Seyfert galaxies](https://arxiv.org/abs/2003.05663)
+  - NOEMA interferometer observations of five nearby (distances between 19 and 58 Mpc) Seyfert galaxies.
+  - We have detected CO(2-1) emission in all five galaxies with disky or circumnuclear ring like morphologies.
+  - In all of our galaxies the bulk of this gas is rotating in the plane of the galaxy. However, non-circular motions are also present. In NGC 4253, NGC 4388 and NGC 7465, we can ascribe the streaming motions to the presence of a large-scale bar
+
+- [An ionised bubble powered by a proto-cluster at z = 6.5](https://arxiv.org/abs/2003.05859)
+  - We show herein that a proto-cluster of Lyα emitting galaxies, spectroscopically confirmed at redshift 6.5, produces a remarkable number of ionising continuum photons.
+  - We find that the sources in the proto-cluster are capable of ionising a large bubble, indeed larger than the volume occupied by the proto-cluster.
