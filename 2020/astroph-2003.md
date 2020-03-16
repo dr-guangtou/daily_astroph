@@ -269,3 +269,67 @@
 - [An ionised bubble powered by a proto-cluster at z = 6.5](https://arxiv.org/abs/2003.05859)
   - We show herein that a proto-cluster of Lyα emitting galaxies, spectroscopically confirmed at redshift 6.5, produces a remarkable number of ionising continuum photons.
   - We find that the sources in the proto-cluster are capable of ionising a large bubble, indeed larger than the volume occupied by the proto-cluster.
+
+----
+
+### Mar 15
+
+- [Brighter-fatter effect in near-infrared detectors -- III. Fourier-domain treatment of flat field correlations and application to WFIRST](https://arxiv.org/abs/2003.05978)
+  - Previous work has shown that correlation functions of flat field images are effective tools for disentangling linear and non-linear inter-pixel capacitance (IPC) and the brighter-fatter effect (BFE).
+  - we present a Fourier-domain treatment of the flat field correlations, which allows us to expand the previous formalism to all orders in IPC, BFE, and classical non-linearity.
+  - We find that the BFE is present in all three detectors, and that its contribution to the flat field correlations dominates over the non-linear IPC. 
+
+- [Dynamical mass inference of galaxy clusters with neural flows](https://arxiv.org/abs/2003.05951)
+  - **Relevant**
+  - 训练机器学习模型看视向速度分布估计星系团质量：neural flows, a deep neural network capable of learning arbitrary high-dimensional probability distributions, and inherently accounts, to an adequate extent, for the presence of interloper galaxies which are not bounded to a given cluster 能够给出动力学质量的PDF
+
+- [Mass Estimation of Galaxy Clusters with Deep Learning I: Sunyaev-Zel'dovich Effect](https://arxiv.org/abs/2003.06135)
+  - **Relevant**
+  - 直接从毫米波观测图像上推断星系团质量
+  - The deep learning algorithm used is mResUNet, which is a modified feed-forward deep learning algorithm that broadly combines residual learning, convolution layers with different dilation rates, image regression activation and a U-Net framework
+
+- [How galaxies populate haloes in very low-density environments? An analysis of the Halo Occupation Distribution in cosmic voids](https://arxiv.org/abs/2003.06255)
+  - 利用MDPL2-SAG和TNG300：we identify cosmic voids and we measure the halo occupation distribution inside these regions for different absolute magnitude thresholds. 和一般环境显著不同
+  - 相同halo质量下的星系恒星质量性质也不同： host haloes with less massive central galaxies (∼ 10%) as well as satellites with significantly lower stellar mass content (∼ 30%).
+
+- [The Synthetic Emission Line COSMOS catalog: Hα and [OII] galaxy luminosity functions and counts at 0.3<z<2.5](https://arxiv.org/abs/2003.06394)
+  - **ssst, useful**
+  - We adopt an empirical but physically-motivated model that uses information from the best-fitting spectral energy distribution of stellar continuum to each galaxy
+  - We take a particular care in modelling dust attenuation such that our model can explain both Hα and [OII] observed fluxes at different redshifts. We find that a simple solution to this is to introduce a redshift evolution in the dust attenuation fraction parameter
+
+- [Statistical deprojection of intervelocities, interdistances and masses in the Isolated Galaxy Pair Catalog](https://arxiv.org/abs/2003.05940)
+  - 如何从观测星系对的投影分布推测出真实的3D速度分布和距离分布：statistical deprojection
+  - The PDF of deprojected pair orbital velocities is characterized by the existence of a main probability peak around ≈150 km.s−1 for all subsamples of the IGPC as well as for the UGC pair catalog
+  - The interdistance PDFs of both the projected and deprojected data are described at large distances by the same power law with exponent ≈−2
+
+- [L-GALAXIES 2020: Spatially resolved cold gas phases, star formation and chemical enrichment in galactic discs](https://arxiv.org/abs/2003.05944)
+  - 改进后的L-Galaxies SAM: 能描述恒星，中性气体，和分子气体的径向分布： Information about the star formation, feedback and chemical-enrichment histories of discs is stored in 12 concentric rings.
+  - An examination of metallicity and surface-density gradients in the stars and gas indicates that our new model, with star formation, chemical enrichment and feedback calculated self-consistently on local disc scales, reproduces some but not all of the trends seen in recent many-galaxy IFU surveys.
+
+- [No missing photons for reionization: moderate ionizing photon escape fractions from the FIRE-2 simulations](https://arxiv.org/abs/2003.05945)
+  - FIRE2模拟8500个z=5-12的halos：f_esc随halo质量先升高，在10^9.5-11Msun区间变平，随后下降；对恒星质量也类似
+  - Nearly half of the escaped ionizing photons come from stars 1–3 Myr old and the rest from stars 3–10 Myr old. Binaries only have a modest effect, boosting hfesci by ∼25–35% and the number of escaped photons by 60–80%.
+  - Most leaked ionizing photons都来自强SF区feedback产生的superbubble
+  - The decrease of hfesci at the high-mass end is due to dust attenuation, while at the low-mass end, hfesci decreases owing to inefficient star formation (and hence feedback)
+  - Our simulations produce sufficient ionizing photons for cosmic reionization.
+
+- [A Link Between Ram Pressure Stripping and Active Galactic Nuclei](https://arxiv.org/abs/2003.05950)
+  - RomulusC simulation: For lower mass galaxies (with stellar masses < 10^9.5 solar masses) both star formation and black hole accretion are suppressed by ram pressure before they reach pericenter, whereas for more massive galaxies accretion onto the black hole is enhanced during pericentric passage.
+  - Our analysis also indicates that as long as the galaxy retains gas, AGN with higher Eddington ratios are more likely to be the found in galaxies experiencing higher ram pressure.
+  - 过程中产生的AGN可以进一步加速星系的quenching
+
+- [Local AGN Survey (LASr): I. Galaxy sample, infrared colour selection and predictions for AGN within 100 Mpc](https://arxiv.org/abs/2003.05959)
+  - We construct the most complete all-sky sample of galaxies within 100 Mpc from astronomical databases (90% completeness for log M_star/M_sun ~9.4), four times deeper than the current local galaxy reference
+  - It contains 4.3k already known AGN, >=82% of these are estimated to have L(12um) < 10^42.3 erg/s, i.e., are low-luminosity AGN
+  - X-ray brightness estimates indicate the CT fraction to be 40-55% to explain the Swift non-detections of the infrared selected objects. One third of the AGN within 100 Mpc remain to be identified and we discuss the prospects for the eROSITA all-sky survey.
+
+- [Evidence for Infalling Gas in a Lyman-α Blob](https://arxiv.org/abs/2003.06099)
+  - Here we analyze the gas kinematics within a LAB providing rare observational evidence for infalling gas. This is consistent with the release of gravitational accretion energy as cold streams radiate Lyα photons.
+  - The infalling gas is not important by mass but hints at more than one mechanism to explain the origin of the extended Lyα emission around young galaxies.
+
+- [Ionized outflows in local luminous AGN: what are the real densities and outflow rates?](https://arxiv.org/abs/2003.06153)
+  - 
+
+- [Confirmed short periodic variability of subparsec supermassive binary black hole candidate Mrk 231](https://arxiv.org/abs/2003.06359)
+  - CRTS和ASAS-SN测光数据里找到的周期变化证据： Using the Lomb-Scargle periodogram and 2DHybrid method, we detected the significant periodicity of ~ 1.1 yr beyond a damped random walk model 
+  - Hence, our result further supports, even though not prove, the intriguing hypothesis that SMBBHs with low mass ratios may be more common than close-equal mass SMBBHs.
