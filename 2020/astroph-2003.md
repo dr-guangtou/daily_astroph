@@ -333,3 +333,36 @@
 - [Confirmed short periodic variability of subparsec supermassive binary black hole candidate Mrk 231](https://arxiv.org/abs/2003.06359)
   - CRTS和ASAS-SN测光数据里找到的周期变化证据： Using the Lomb-Scargle periodogram and 2DHybrid method, we detected the significant periodicity of ~ 1.1 yr beyond a damped random walk model 
   - Hence, our result further supports, even though not prove, the intriguing hypothesis that SMBBHs with low mass ratios may be more common than close-equal mass SMBBHs.
+
+----
+
+### Mar 16
+
+- [Absorption line abundances in the SMC-like galaxy UGC 5282: evidence for ISM dilution from inflows on kpc scales](https://arxiv.org/abs/2003.06429)
+  - 一个SMC-like dwarf中心HII区周围1.2kpc处利用背景QSO的COS光谱探测到了DLA
+  - The ionized gas near star forming regions show systematically higher metallicities than exist in the rest of a galaxy’s neutral interstellar medium (ISM). 中性气体的丰度和发射线气体的很不一样，可能需要在模型里考虑
+  - This model is also consistent with broad Lyα emission detected at the bottom of the DLA absorption, offset by ∼125 km s−1 from the absorption velocity.
+
+- [Star formation law in the EoR from CII and CIII lines](https://arxiv.org/abs/2003.06443)
+  - We present a novel method to simultaneously characterise the star formation law and the interstellar medium properties of galaxies in the Epoch of Reionization (EoR) through the combination of [CII] 158μm (and its known relation with star formation rate) and CIII]λ1909{\AA} emission line data. 
+
+- [The MALATANG Survey: Dense Gas and Star Formation from High Transition HCN and HCO+ maps of NGC253](https://arxiv.org/abs/2003.06595)
+  - HCN and HCO+ 4-3 emission features tend to be centrally concentrated, which is in contrast to the shallower distribution of CO 1-0 and the stellar component.
+  - We also find that SFEdense seems to be decreasing with higher fdense, which is consistent with previous works, and it suggests that the ability of the dense gas to form stars diminishes when the average density of the gas increases.
+
+- [A comparison of UV and optical metallicities in star-forming galaxies](https://arxiv.org/abs/2003.06925)
+  - **Important**
+  - we identify metallicity-sensitive diagnostics using UV emission lines. We compare UV-derived metallicities with standard, well-established optical metallicities using a sample of galaxies with rest-frame UV and optical spectroscopy.
+  - He2-O3C3 diagnostic (He II 1640 / C III 1906,1909 vs. O III 1666 / C III 1906,1909) is a reliable metallicity tracer, particularly at low metallicity (12+log(O/H) < 8)
+  - Si3-O3C3 diagnostic (Si III 1883 / C III 1906,1909 vs. O III 1666 / C III 1906,1909) is a reliable metallicity tracer, though with large scatter (0.2-0.3 dex)
+  - We provide two new UV oxygen abundance diagnostics, calculated from polynomial fits to the model grid surface in the He2-O3C3 and Si3-O3C3 diagrams.
+
+- [The OTELO survey: Nature and mass-metallicity relation for Hα emitters at z∼0.4](https://arxiv.org/abs/2003.07154)
+  - **Relevant**
+  - Our sample reaches stellar masses (M∗) as low as 10^6.8M⊙, where 63\% of the sample have M∗<10^9M⊙.
+
+- [Chemodynamics of Green Pea galaxies -- I. Outflows and turbulence driving the escape of ionising photons and chemical enrichment](https://arxiv.org/abs/2003.07187)
+  - J142947, a Green Pea galaxy at z∼0.17 with strong, double-peak Lyα emission and indirect evidence of Lyman continuum (LyC) escape.
+  - A highly ionised ([OIII]/[OII] ∼10), metal-poor, young and compact starburst dominates narrow emission, showing evidence of hard radiation fields and elevated N/O.
+  - The blue-shifted broader components are consistent with highly turbulent, possibly clumpy ionised gas at the base of a strong photoionised outflow, which accounts for ≳ 50% of the integrated emission-line fluxes.
+  - We propose that ionising LyC photons are able to escape into the halo through low HI density channels or filaments in the ISM approaching density-bounded conditions, traced by outflowing gas.
