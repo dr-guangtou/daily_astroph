@@ -366,3 +366,31 @@
   - A highly ionised ([OIII]/[OII] ∼10), metal-poor, young and compact starburst dominates narrow emission, showing evidence of hard radiation fields and elevated N/O.
   - The blue-shifted broader components are consistent with highly turbulent, possibly clumpy ionised gas at the base of a strong photoionised outflow, which accounts for ≳ 50% of the integrated emission-line fluxes.
   - We propose that ionising LyC photons are able to escape into the halo through low HI density channels or filaments in the ISM approaching density-bounded conditions, traced by outflowing gas.
+
+----
+
+### Mar 17
+
+- [Setting the Stage for Cosmic Chronometers. II. Impact of Stellar Population Synthesis Models Systematics and Full Covariance Matrix](https://arxiv.org/abs/2003.07362)
+  - we compute the contribution to the full covariance matrix of systematic uncertainties due to the choice of initial mass function, stellar library, and metallicity
+  - 实验不同的SPS模型，考虑residual年轻成分和SFH的影响
+  - The choice of the stellar population synthesis model dominates the total error budget on H(z), with contributions at ~4.5% level 
+  - The contribution due to the choice of initial mass function is <0.5%, while that due to the stellar library is ~6.6% on average.
+  - An error of ~10% (5%) on the stellar metallicity propagates to a 9% (4%) error on H(z). 
+
+- [Changing look quasars from tidal disruption flares](https://arxiv.org/abs/2003.07365)
+  - At low redshifts (z<1), a few percent of all AGN with bolometric luminosities LBol≲1044 erg s−1 may be attributable to TDE triggers.
+  - This fraction can significantly increase at earlier cosmic times, reaching several tens of percent at z>2, including about 20-50% of the observed population of Changing Look Quasars (CLQs).
+
+- [Euclid: The selection of quiescent and star-forming galaxies using observed colours](https://arxiv.org/abs/2003.07367)
+  - **CSST**
+  - The most efficient colour combination, among the ones tested in this work, consists of the (u-VIS) and (VIS-J) colours. We find that this combination allows users to select a sample of quiescent galaxies complete to above ∼70% and with less than 15% contamination at redshifts in the range 0.75< z< 1.
+  - For galaxies at high-z or without the u-band complementary observations, the (VIS-Y) and (J-H) colours represent a valid alternative, with >65% completeness level and contamination below 20% at 1< z <2 for finding quiescent galaxies
+
+- [A first meta-analysis of barred galaxies with direct bar pattern speed measurements](https://arxiv.org/abs/2003.07455)
+  - We confirmed earlier observational findings that longer bars rotate with lower bar pattern speeds, shorter bars are weaker, fast bars rotate with higher bar pattern speeds and have smaller corotation radii, and disc-dominated galaxies host weaker bars.
+  - We report that brighter galaxies host longer bars, which rotate with lower bar pattern speeds and have larger corotation radii.
+
+- [SimSpin - Constructing mock IFS kinematic data cubes](https://arxiv.org/abs/2003.07641)
+  - **Useful**
+  - SimSpin, a new, public, software framework for generating integral field spectroscopy (IFS) data cubes from N-body/hydrodynamical simulations of galaxies 
