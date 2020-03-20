@@ -394,3 +394,99 @@
 - [SimSpin - Constructing mock IFS kinematic data cubes](https://arxiv.org/abs/2003.07641)
   - **Useful**
   - SimSpin, a new, public, software framework for generating integral field spectroscopy (IFS) data cubes from N-body/hydrodynamical simulations of galaxies 
+
+----
+
+### Mar 18
+
+- [HII regions in the CALIFA survey: I. Catalog presentation](https://arxiv.org/abs/2003.07865)
+  - 利用CALIFA IFU数据选HII区：a clumpy structure with high contrast of Hα emission and an underlying stellar population comprising young stars 
+  - We explore a new approach to decontaminate the emission lines from diffuse ionized gas contribution
+  - 
+
+- [Enhancement of the tidal disruption event rate in galaxies with a nuclear star cluster: from dwarfs to ellipticals](https://arxiv.org/abs/2003.08133)
+  - NSC对TDE频率有影响，For the Milky Way, we find a total TDE rate of ∼ 10−4 yr−1 when taking the NSC in account, and ∼ 10−7 yr−1 otherwise
+  - TDEs are mainly sourced from the NSC for light (< 3 × 10^10 M) galaxies
+
+- [Detecting outliers in astronomical images with deepgenerative networks](https://arxiv.org/abs/2003.08263)
+  - **Interesting**
+  - we explore the ability of deep generative networks for detecting outliers in astronomical imaging datasets
+  - 基于：WassersteinGAN (WGAN)
+  - 和基于形态参数的分类比：they are able to learn complex representations directly from the pixel space.
+  - We first show that from a set of simulated galaxies, we are able to detect ∼ 90% of merging galaxies if we train our network only with a sample of isolated ones
+  - We then explore how the presented approach can be used to compare observations and hydrodynamic simulations by identifying observed galaxies not well represented in the models.
+
+- [The LBT Satellites of Nearby Galaxies Survey (LBT-SONG): The Satellite Population of NGC 628](https://arxiv.org/abs/2003.08352)
+  - NGC 628, an isolated galaxy with 1/4 the stellar mass of the Milky Way. 
+  - We present two new dwarf satellite galaxy candidates: NGC 628 dwA, and dwB with MV = −12.2 and −7.7 
+  - The satellite colors indicate that the galaxies are neither actively star-forming nor do they have the purely ancient stellar populations characteristic of ultrafaint dwarfs. I
+
+----
+
+### Mar 19
+
+- [Over-constrained Models of Time Delay Lenses Redux: How the Angular Tail Wags the Radial Dog](https://arxiv.org/abs/2003.08395)
+  - 利用Einstein环可以限制两个强引力透镜的径向质量分布的性质，Einstein radius和ξ2
+  - 对于一个ellipsoid质量分布模型：an Einstein ring can appear to strongly distinguish radial mass distributions with the same ξ2
+  - When using Einstein rings to constrain the radial mass distribution, the angular structure of the models must contain all the degrees of freedom expected in nature (e.g., external shear, different ellipticities for the stars and the dark matter, modest deviations from elliptical structure, modest twists of the axes, modest ellipticity gradients, etc.) that work to decouple the radial and angular structure of the gravity. 不然得到的likelihood可能是biased
+  - 指出了H0LiCOW模型里面缺少自由度
+
+- [CLASH-VLT: a full dynamical reconstruction of the mass profile of Abell S1063 from 1 kpc out to the virial radius](https://arxiv.org/abs/2003.08475)
+  - MUSE观测：This new data set provides an unprecedented sample of 1234 spectroscopic members, 104 of which are located in the cluster core (R < 200 kpc)
+  - We used an upgraded version of the MAMPOSSt technique to perform a joint maximum likelihood fit to the velocity dispersion profile of the BCG and to the velocity distribution of cluster member galaxies 
+  - We find a value of γDM=0.99±0.04 for the inner logarithmic slope of the DM density profile
+  - Our value of \gamma_{DM} is in very good agreement with predictions from cosmological CDM simulations
+
+- [Subaru medium-resolution spectra of a QSO at z=6.62: Three reionization tests](https://arxiv.org/abs/2003.08848)
+  - We calculate the Lyα transmission in different redshift bins to determine the near zone radius and the optical depth at 5.6 < z < 6.5. We find a sudden change in the Lyα transmission at 5.75< z<5.86.
+  - The near zone radius of the QSO is 5.79±0.09 pMpc, within the scatter of the near zone radii of other QSOs measured in previous studies.
+  - We also analyze the dark gap distribution to probe the neutral hydrogen fractions beyond the saturation limit of the Gunn-Peterson trough. 红移越高，宇宙越中性，gap越大
+
+- [Cosmic Evolution of Stellar-mass Black Hole Merger Rate in Active Galactic Nuclei](https://arxiv.org/abs/2003.08564)
+  - we compute the cosmic evolution of the merger rate for stellar-mass binaries in the disks of Active Galactic Nuclei (AGNs).
+  - We find that the AGN-assisted merger rate does not meaningfully evolve with redshift, differentiating this channel from field binaries and some other dynamical formation scenarios.
+
+- [Observing the Effects of Galaxy Interactions on the Circumgalactic Medium](https://arxiv.org/abs/2003.08393)
+  - We present results obtained for a sample of galaxy pairs with a range of projected separations, {\bf 10<Sp/kpc<200}, and mass ratios < 1:5, intersected by 5,443 SDSS lines of sight at projected radii of 10 to 50 kpc from either or both of the two galaxies.
+  - We find significant enhancement in Hα emission and a moderate enhancement in [N {\small II}]6583 emission for low mass pairs
+  - We find no enhancement in Hα emission, but significant enhancement in [N {\small II}]6583 emission for high mass (M∗>10^10.4M⊙) pairs.
+  - In all cases, departures from the control sample are only detected for close pairs (Sp< 100 kpc).
+  - Attributing an elevated [N {\small II}]6583/Hα ratio to shocks, we infer that shocks play a role in determining the CGM properties for close pairs
+
+- [GLaD: Gravitational Lensing and Dynamics, combined analysis to unveil properties of high-redshift galaxies](https://arxiv.org/abs/2003.08404)
+  - We present a new approach which unifies dynamical modelling of galaxies with the magnification power of strong gravitational lensing, to reconstruct the structural and dynamical properties of high-redshift galaxies. 基于JAM
+
+- [LARgE Survey -- III. Environments of Ultra-Massive Passive Galaxies at Cosmic Noon: BCG progenitors growing through mergers](https://arxiv.org/abs/2003.08464)
+  - **Relevant**
+  - We find that UMPEGs on average have fewer than one satellite galaxy with mass ratio M_sat : M_UMPEG >~ 1:5
+  - The large mass gap that we observe between the typical UMPEG and its most massive satellite implies that the z~1.6 UMPEGs assembled through major mergers.
+  - We estimate the growth rate due to mergers with mass ratio of >~ 1:4 to be ~13% Gyr^-1 (with a ~2x systematic uncertainty). 比较低，对SMF的slope影响可能不大
+  - However, this growth rate is high enough that, if sustained to z~0, the typical z~1.6 M_UMPEG=10^11.6 M_sun UMPEG can grow into a M_stars~10^12 M_sun brightest cluster galaxy (BCG) of a present-day massive galaxy cluster.
+
+- [SDSS-IV MaNGA: Bayesian analysis of the star formation history of low-mass galaxies in the local Universe](https://arxiv.org/abs/2003.08578)
+  - **Relevant**
+  - Our analysis based on Bayesian evidence ratio indicates a strong preference for a model that allows the presence of an old stellar population, and that an improper model for the SFH can significantly underestimate the old population in these galaxies.
+  - The addition of NIR photometry to the constraining data can further distinguish between different SFH model families and significantly tighten the constraints on the mass fraction in the old population.
+  - On average more than half of the stellar mass in present-day low-mass galaxies formed 8 Gyrs ago, while about 30\% within the past 4 Gyrs 
+
+- [Dust and gas content of high-redshift galaxies hosting obscured AGN in the CDF-S](https://arxiv.org/abs/2003.08631)
+  - ALMA观测X-ray挑选的，有FIR探测的高红移AGN：We conclude that the ISM of high redshift galaxies can substantially contribute to nuclear obscuration up to the Compton-thick (> 10^24 cm−2) regime
+  - we found that all the detected sources show a velocity gradient reminding one rotating system, even though two of them show peculiar features in their morphology that can be associated with a chaotic, possibly merging, structure.
+
+- [Tracking the state transitions in changing-look active galactic nuclei through their polarized-light echoes](https://arxiv.org/abs/2003.08641)
+  - We aim to complement the analysis and interpretation of changing-look AGNs by modeling the polarization variations that can be observed, in particular, polarized-light echoes
+  - We demonstrate that polarization monitoring campaigns that cover the transitions that are observed in changing-look AGNs might bring crucial information on the geometry and composition of all the reprocessing regions within the nucleus.
+
+- [HST/COS Observations of Quasar Outflows in the 500-1050 Å Rest Frame: I. The Most Energetic Outflows in the Universe and Other Discoveries](https://arxiv.org/abs/2003.08688)
+  - COS provides high-quality far-ultraviolet (FUV) spectra covering the diagnostic-rich 500-1050 Angstrom rest frame (hereafter, EUV500) of medium redshift objects. The quality and quantity of EUV500 diagnostic troughs allow us to probe the very high-ionization phase, which carries 90% or more of the outflowing material, as well as to determine the distance of most outflows from the central source (R).
+
+- [HST/COS Observations of Quasar Outflows in the 500 -- 1050 Å Rest Frame: II The Most Energetic Quasar Outflow Measured to Date](https://arxiv.org/abs/2003.08689)
+  - We present a study of the BAL outflows seen in quasar SDSS J1042+1646 (z = 0.978) 
+  - Five outflow systems are identified, where in total they include ∼70 outflow troughs from ionic transitions. These include the first non-solar detections from transitions of O V*, Ne V*, Ar VI, Ca VI, Ca VII, and Ca VIII.
+  - Two of the outflows are at R ≃ 800 pc and one is at R ≃ 15 pc. One of the outflows has the highest kinetic luminosity on record (Ek=5×10^46 erg s−1), which is 20% of its Eddington luminosity.
+
+- [HST/COS Observations of Quasar Outflows in the 500-1050 Å Rest Frame: III. Four Similar Outflows in 2MASS J1051+1247 with Enough Energy to be Major Contributors to AGN Feedback](https://arxiv.org/abs/2003.08690)
+
+- [HST/COS Observations of Quasar Outflows in the 500 -- 1050 Å Rest Frame: IV. The Largest Broad Absorption Line Acceleration](https://arxiv.org/abs/2003.08691)
+
+- [HST/COS Observations of Quasar Outflows in the 500-1050 Å Rest Frame: V. Richness of Physical Diagnostics and Ionization Potential-dependent Velocity Shift in PKS J0352-0711](https://arxiv.org/abs/2003.08692)
