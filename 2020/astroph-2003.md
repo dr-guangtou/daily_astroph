@@ -490,3 +490,55 @@
 - [HST/COS Observations of Quasar Outflows in the 500 -- 1050 Å Rest Frame: IV. The Largest Broad Absorption Line Acceleration](https://arxiv.org/abs/2003.08691)
 
 - [HST/COS Observations of Quasar Outflows in the 500-1050 Å Rest Frame: V. Richness of Physical Diagnostics and Ionization Potential-dependent Velocity Shift in PKS J0352-0711](https://arxiv.org/abs/2003.08692)
+
+----
+
+### Mar 22
+
+- [Studying the Lyman-α optical depth fluctuations at z∼5.5 using fast semi-numerical methods](https://arxiv.org/abs/2003.08958)
+  - SAM: (i) a semi-numerical photon-conserving model of ionized regions during reionization (named SCRIPT) and (ii) the fluctuating Gunn-Peterson approximation to model the Lyα absorption.
+  - We confirm that reionization is not complete before z∼5.6 and the completion can be as late as z∼5.2 (both within 2−σ), the exact limits depending on how the non-detections of the flux in the data are treated. 
+
+- [Forecasts for Next Generation tSZ Surveys: the Impact of a Cosmology-Dependent Selection Function](https://arxiv.org/abs/2003.09069)
+  - **Relevant; SSST**
+  - We present cosmological forecasts for a 'straw man' tSZ survey that will observe a sky area between 200 and 104 deg2 to an rms noise level between 2.8 and 20.2 μK-arcmin.
+  - The probes we consider are the cluster number counts (as a function of the integrated Compton-Y parameter and redshift) and their angular clustering (as a function of redshift)
+  - 宽场巡天比深场对宇宙学的限制更好一点；有计数基本就够了 adding the clustering information does not practically improve the constraints derived from the number counts
+  - We compare forecasts obtained by sampling the posterior distribution with the Markov-chain-Monte-Carlo method against those derived using the Fisher-matrix formalism. 后者对误差的估计过于乐观
+  - 选择函数也非常重要：we use an analytic method to estimate the selection function of the survey and account for its response to variations of the cosmological parameters in the likelihood function.
+
+- [Multiwavelength Study of an X-ray Tidal Disruption Event Candidate in NGC 5092](https://arxiv.org/abs/2003.09066)
+  - XMMSL1 J131952.3+225958, associated with the galaxy NGC 5092 at z=0.023; brightened in the 0.2--2 keV band by a factor of >20 in 2005
+  - A UV flare and optical flare were also detected with the Galaxy Evolution Explorer and the Sloan Digital Sky Survey, respectively, within several months of the X-ray flare; UV-optical SED可以用1-2x10^4 K的黑体谱描述
+  - TDE candidate belongs to a rare sample with contemporaneous bright emission detected in the X-ray, UV, and optical, which are later echoed by dust-reprocessed light in the mid-infrared.
+  - The black hole has a mass of ∼ 5×107M⊙, residing in a galaxy that is dominated by a middle-aged stellar population of 2.5 Gyr.
+
+- [Stellar populations across galaxy bars in the MUSE TIMER project](https://arxiv.org/abs/2003.08946)
+  - **Relevant**
+  - We find a characteristic V-shaped signature in the SFH perpendicular to the bar major axis which supports the scenario where intermediate age stars (∼2-6 Gyr) are trapped on more elongated orbits shaping a thinner part of the bar, while older stars (>8 Gyr) are trapped on less elongated orbits shaping a rounder and thicker part of the bar.
+  - 和模拟比较：such V-shaped SFHs arise naturally due to the dynamical influence of the bar on stellar populations with different ages and kinematic properties.
+  - We find an excess of very young stars (<2 Gyr) on the edges of the bars, predominantly on the leading side, confirming typical star formation patterns in bars.
+  - We find that bars are mostly more metal-rich and less [Mg/Fe]-enhanced than the surrounding discs
+
+- [Origin of Star-Forming Rings around Massive Centres in Massive Galaxies at z<4](https://arxiv.org/abs/2003.08984)
+  - Rings form by high-angular-momentum streams and may survive in galaxies of Mstar>10^9.5M⊙ where merger-driven spin flips and supernova feedback are ineffective.
+  - 关于这个“ring”为什么能长期存在：by evaluating the torques from a tightly wound spiral structure, we find that the timescale for transport per orbital time is ∝δd^−3, with δd the cold-to-total mass ratio interior to the ring.
+  - The central mass that lowers δd and maintains the ring is made of compaction-driven bulge and/or dark-matter, aided by the lower gas fraction at lower z.
+
+- [Hard X-ray selected giant radio galaxies -- II. Morphological evidence of restarted radio activity](https://arxiv.org/abs/2003.08984)
+  - GRG: linear size of radio structure > 0.7 Mpc; 占射电星系的6%; 为什么能形成尚不清楚
+  - GRG can be up to four times more abundant in hard X-ray selected RG sample
+  - A high fraction of young radio sources found in their cores suggests a recently restarted activity, as suggested from the discrepancy between the measured jet and lobes power
+  - At least 13 over 15 of these hard X-ray selected GRG show features which are consistent with the possibility of restarted radio activity.
+
+- [The HI mass function of group galaxies in the ALFALFA survey](https://arxiv.org/abs/2003.09302)
+  - In general we find that the low-mass slope is flat, in agreement with studies based on small samples of individual groups
+  - The 'knee' mass is slightly higher than that of the global HIMF of the full ALFALFA sample.
+  - 有~22%的ALFALFA星系在group里：group galaxies make only a small contribution to the global HIMF as most ALFALFA galaxies are in the field, but beyond the HIMF 'knee' group galaxies dominate
+
+- [Intermediate-mass Early-type Disk Galaxies in the Virgo Cluster. II. Near-Infrared Spectra and Evidence for Differences in Evolution](https://arxiv.org/abs/2003.09357)
+  - **Relevant**
+  - While the depth of the CO(2,0) band is consistent with the centers of these galaxies having solar or slightly sub-solar luminosity-weighted metallicities, galaxy-to-galaxy variations in the depth of the NaI 2.21um doublet are found, with NaI2.21um lines in three galaxies (NGC 4491, NGC 4584, and NGC 4620) that are deeper than those predicted for a solar chemical mixture and a solar-neighborhood mass function. 作者认为和bottom-heavy IMF有关
+  - Two of the three galaxies with deep NaI2.21µm (NGC 4584 and NGC 4620) have Sersic exponents that are consistent with a classical bulge
+
+- [Intermediate-mass Early-type Disk Galaxies in the Virgo Cluster. II. Near-Infrared Spectra and Evidence for Differences in Evolution](https://arxiv.org/abs/2003.09357)
