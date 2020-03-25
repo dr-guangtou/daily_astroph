@@ -622,3 +622,23 @@
   - We find that the mean redshift of the DES Y1 weak lensing sample is typically biased at the Δ z=0.005−0.05 level after the weighting is applied. The bias we uncover can have either sign, depending on the samples and redshift interval considered. For the highest redshift bin
 
 - [Fornax 3D project: automated detection of planetary nebulae in the centres of early-type galaxies and first results](https://arxiv.org/abs/2003.10456)
+  - **Interesting**
+  - By removing the stellar background components from FCC 167 and FCC 219, we aim to produce PN Luminosity Functions (PNLF) of those galaxies, and therefore also estimate the distance modulus to those two systems.
+  - Through the application of this novel detection and modelling approach to IFU observations, we report for both galaxies: distance estimates, luminosity specific PNe frequency values
+
+- [Dark Energy Survey Identification of A Low-Mass ActiveGalactic Nucleus at Redshift 0.823 from Optical Variability](https://arxiv.org/abs/2003.10457)
+  - We select DES J0218−0430 as an AGN candidate by characterizing its long-term optical variability alone based on DES optical broad-band light curves spanning ∼6 years
+  - Based on the broad Hβ from SDSS spectrum, we estimate a virial BH mass of M∙∼10^6.4±0.1M⊙
+
+- [Spinning Bar and a Star-formation Inefficient Repertoire: Turbulence in Hickson Compact Group NGC7674](https://arxiv.org/abs/2003.10458)
+  - We find a lack of universality in star formation, with two distinct sequences present in the Σgas−ΣSFR plane; one for inside and one for outside the nucleus. 
+  - SF和Virial参数有关：virial parameter αvir, the ratio of turbulent to gravitational energy.
+
+- [The clustering of X-ray AGN at 0.5 < z < 4.5: host galaxies dictate dark matter halo mass](https://arxiv.org/abs/2003.10461)
+  - **Interesting**
+  - We present evidence that AGN do not reside in "special" environments, but instead show large-scale clustering determined by the properties of their host galaxies.
+  - 基于COSMOS和UDS里的X-ray AGN：we find that AGN at all epochs are on average hosted by galaxies in dark matter halos of 10^12−10^13 M⊙, intermediate between star-forming and passive galaxies.
+  - 但如果找一些非AGN，matched到AGN host的性质上，可以重现出一样的成团信号
+  - Although AGN hosted by higher mass galaxies are more clustered than lower mass galaxies, this stellar mass dependence disappears when passive host galaxies are removed.
+
+- [Small-Scale Dynamical Coherence Accompanied with Galaxy Conformity](https://arxiv.org/abs/2003.10673)
