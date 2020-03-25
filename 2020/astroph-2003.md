@@ -541,4 +541,84 @@
   - While the depth of the CO(2,0) band is consistent with the centers of these galaxies having solar or slightly sub-solar luminosity-weighted metallicities, galaxy-to-galaxy variations in the depth of the NaI 2.21um doublet are found, with NaI2.21um lines in three galaxies (NGC 4491, NGC 4584, and NGC 4620) that are deeper than those predicted for a solar chemical mixture and a solar-neighborhood mass function. 作者认为和bottom-heavy IMF有关
   - Two of the three galaxies with deep NaI2.21µm (NGC 4584 and NGC 4620) have Sersic exponents that are consistent with a classical bulge
 
-- [Intermediate-mass Early-type Disk Galaxies in the Virgo Cluster. II. Near-Infrared Spectra and Evidence for Differences in Evolution](https://arxiv.org/abs/2003.09357)
+
+----
+
+### Mar 23
+
+- [Combining FOF and halo-based algorithms for the identification of galaxy groups](https://arxiv.org/abs/2003.09442)
+  - **Interesting**
+  - Assuming that a galaxy group is a gravitationally bounded system that has at least one bright galaxy, we begin by identifying groups with a Friends-Of-Friends algorithm adapted to fit this definition
+  - In view of the shortcomings of this method, particularly the lack of ability to identify low-number groups, and consequently the inability to study the occupation of halos throughout the mass range, we improve it by adding a halo-based procedure (Yang etal的方法)
+
+- [Populations of filaments from the distribution of galaxies in numerical simulations](https://arxiv.org/abs/2003.09697)
+  - We focus on the radial distribution of the galaxy density around filaments detected using the Discrete Persistent Structure Extractor (DisPerSE)
+  - We show that the average profile of filaments presents an excess of galaxy density (> 5σ) up to radial distances of 27 Mpc from the core
+  - 而且短于9Mpc和长于20Mpc的filaments是很不一样的
+
+- [Reconstruction of Radio Relics and X-ray Tails in an Off-axis Cluster Merger: Hydrodynamical Simulations of A115](https://arxiv.org/abs/2003.09825)
+  - **Mention to Lile**
+  - 基于RAMSES做的模拟
+  - We present such a study for the off-axis binary merger A115. 有很多有趣特征，但还不能找到一个很好的并合图像
+  - Our hydrodynamical simulation, with adaptive mesh refinement, suggests that the cometary X-ray tail of A115 might be a slingshot tail and can arise ∼0.3 Gyrs after the impact and before the two subclusters reach their apocenters. 
+
+- [Lyα forest power spectrum as an emerging window into the epoch of reionization and cosmic dawn](https://arxiv.org/abs/2003.10077)
+  - Recently, however, it was shown that the imprint of cosmic reionization can survive to lower redshifts (z ∼ 2) than previously thought. Given the high sensitivities of upcoming Lyα forest surveys, this effect will be a novel broadband systematic that must be tackled for cosmological application.
+  - By exploiting different k-dependence of power spectrum among various astrophysical scenarios, the effect of patchy reionization on the Lyα forest power spectrum can open a new window into the cosmic reionization
+
+- [Extended lens reconstructions with Grale: exploiting time domain, substructural and weak-lensing information](https://arxiv.org/abs/2003.10377)
+
+- [Mass loss in tidally stripped systems; the energy-based truncation method](https://arxiv.org/abs/2003.09452)
+  - **Relevant**
+  - we demonstrated that truncating NFW distribution functions sharply in energy results in density profiles that resemble those of tidally stripped systems, offering a path to constructing physically motivated models of tidal mass loss.
+  - We find that a combination of dependence on additional orbital parameters and variations in individual particle energies over an orbit results in a less abrupt truncation in energy space as a subhalo loses mass.
+  - This parameter can be fully determined from the initial orbital and halo properties, and does not require calibration with numerical simulations.
+
+- [First spectroscopic study of ionized gas emission lines in the extreme low surface brightness galaxy Malin 1](https://arxiv.org/abs/2003.09492)
+  - We present the inner rotation curve of Malin 1, characterized in the radial range r < 10 kpc by a steep rise in the rotational velocity up to at least 350 km/s (with a large dispersion)
+  - We show that in the inner regions dynamics may be dominated by the stars (although none of our models can explain the highest velocities measured) but that at large radii a massive dark matter halo remains necessary.
+  - We also find signs of high metallicity but low dust content for the inner regions.
+
+- [Characteristic masses in galaxy quenching: environmental versus internal effects](https://arxiv.org/abs/2003.099776)
+  - **Relevant**
+  - A clear transition of galaxy quenching is identified in the multi-parameter space of stellar mass (M∗), bulge to total mass ratio (B/Tm), halo mass (Mh) and halo-centric distance (r/r180). 
+  - 固定halo质量上, transition质量在中心星系质量的1/5左右，且与B/T无关
+  - 固定B/T上，质量小于特征质量的星系中quenched的比例随Halo质量而升高，但在halo中心区域随恒星质量而下降；在halo外部则没有对恒星质量的依赖
+  - For galaxies above M∗,c and with B/Tm fixed, the quenched fraction increases with M∗, but depends only weakly on Mh in both the inner and outer regions.
+  - Our results suggest that environmental quenching is important only for galaxies with M∗<M∗,c, while internal quenching plays the dominating role for high-mass galaxies.
+
+- [Cosmic ray feedback from supernovae in dwarf galaxies](https://arxiv.org/abs/2003.09900)
+  - 模拟研究:We investigate how CR injection by SNe impacts the star formation and the formation of large-scale winds in dwarf galaxies, and whether it can produce galaxy star formation rates (SFR) and wind properties closer to observations 
+  - The injection of CR energy into the interstellar medium smooths out the highest gas densities, which reduces the SFR by a factor of 2-3.
+  - Mass outflow rates are significantly greater with CR diffusion, by 2 orders of magnitudes for the higher diffusion coefficients.
+  - The formation of galactic winds strongly depends on the diffusion coefficient: for low coefficients, CR energy stays confined in high density regions where CR energy losses are highest, and higher coefficients, which allow for a more efficient leaking of CRs out of dense gas, produce stronger winds.
+
+- [Satellite Alignment: III. Satellite Galaxies Spatial Distribution and their Dependence on Redshift with A Novel Galaxy Finder](https://arxiv.org/abs/2003.10070)
+
+- [AGNs are not that cool: revisiting the intrinsic AGN far-infrared spectral energy distribution](https://arxiv.org/abs/2003.10078)
+  - The AGN IR SED becomes cooler with increasing bolometric luminosity, which might be due to that more luminous AGNs might have stronger radiative feedback to change torus structures and/or their tori might have higher metallicities.
+
+- [Radial Star Formation Histories in 32 Nearby Galaxies](https://arxiv.org/abs/2003.10260)
+  - **Relevant**
+  - Fits to the spectral energy distributions using a delayed star formation history model indicate a subtle but interesting average radial trend for the spiral galaxies: the inner stellar systems decrease in age with increasing radius, consistent with inside-out disk formation, but the trend reverses in the outermost regions with the stellar age nearly as old as the innermost stars.
+  - The subset of S0 galaxies studied here show the opposite trend compared to what is inferred for spirals: characteristic stellar ages that are increasingly older with radius for the inner portions of the galaxies, and increasingly younger stellar ages for the outer portions. This result suggests that either S0 galaxies are not well modeled by a delayed-τ model, and/or that S0 galaxies have a more complicated formation history than spiral galaxies.
+
+----
+
+### Mar 24
+
+- [A new calibration method of sub-halo orbital evolution for semi-analytic models](https://arxiv.org/abs/2003.10646)
+  - We present a fast Monte Carlo Markov Chain fitting approach to explore the parameter space of such a sub-halo non-linear evolution model.
+  - We find that jointly fitting for the sub-halo mass and maximum velocity functions can break the degeneracy between tidal stripping and tidal heating parameters, as well as providing better constraints on the strength of dynamical friction
+
+- [A relativistic outflow from the energetic, fast-rising blue optical transient CSS161010 in a dwarf galaxy](https://arxiv.org/abs/2003.10503)
+  - Fast Blue Optical Transient (FBOT) CRTS-CSS161010 J045834-081803; 有很强的X-ray和射电辐射; Host galaxy质量只有10^7 Msun
+  - The inferred initial kinetic energy of CSS161010 (Ek≳1051 erg) is comparable to that of long Gamma Ray Bursts (GRBs), but the ejecta mass that is coupled to the relativistic outflow is significantly larger (∼0.01−0.1M⊙). This is consistent with the lack of observed γ-rays.
+  - Our observations of CSS161010 are consistent with an engine-driven aspherical explosion from a rare evolutionary path of a H-rich stellar progenitor, but we cannot rule out a stellar tidal disruption event on a centrally-located intermediate mass black hole.
+
+- [The impact of spectroscopic incompleteness in direct calibration of redshift distributions for weak lensing surveys](https://arxiv.org/abs/2003.10454)
+  - We do so by simulating the process of assembling a spectroscopic sample (including observer-assigned confidence flags) and highlight the impacts of spectroscopic target selection and redshift failures.
+  - We find that using colour cuts that are not available to the weak lensing galaxies can introduce biases of Δ z∼0.015 in the weighted mean redshift of different redshift intervals
+  - We find that the mean redshift of the DES Y1 weak lensing sample is typically biased at the Δ z=0.005−0.05 level after the weighting is applied. The bias we uncover can have either sign, depending on the samples and redshift interval considered. For the highest redshift bin
+
+- [Fornax 3D project: automated detection of planetary nebulae in the centres of early-type galaxies and first results](https://arxiv.org/abs/2003.10456)
