@@ -642,3 +642,45 @@
   - Although AGN hosted by higher mass galaxies are more clustered than lower mass galaxies, this stellar mass dependence disappears when passive host galaxies are removed.
 
 - [Small-Scale Dynamical Coherence Accompanied with Galaxy Conformity](https://arxiv.org/abs/2003.10673)
+  - We measure the correlation coefficient of g - r colors between the CALIFA galaxies and their neighbors, as a quantitative indicator of galaxy conformity.
+  - In most cases, the CALIFA galaxies and their neighbors show positive correlation coefficients in g - r color, even for the anti-coherent neighbors. However, we find statistically significant (2.6-sigma) difference between coherent and anti-coherent neighbors, when the neighbor galaxies are bright (Delta Mr <= -1.0) and close (D <= 400 kpc).
+  - when they are bright and close to the CALIFA galaxies, the coherently moving neighbors show stronger conformity with the CALIFA galaxies than the anti-coherently moving neighbors.
+
+- [PhotoWeb redshift: boosting photometric redshift accuracy with large spectroscopic surveys](https://arxiv.org/abs/2003.10766)
+  - We apply a similar method using a new generation of photometric redshifts based on a convolution neural network (CNN). The CNN is trained on the SDSS images with the main galaxy sample (SDSS-MGS, r≤17.8) and the GAMA spectroscopic redshifts up tor ∼19.8. 
+  - Combining these PDFs with the density field distribution provides new photometric redshifts, zweb, whose accuracy is improved by a factor of two (i.e.,σ∼0.004(1+z)) for galaxies with r≤17.8.
+  - The method performs slightly better for passive galaxies than star-forming ones, and for galaxies in massive groups since these populations better trace the underlying large-scale structure
+
+----
+
+### Mar 25
+
+- [Detecting Multiple DLAs per Spectrum in SDSS DR12 with Gaussian Processes](https://arxiv.org/abs/2003.11036)
+  - Our DLA detections are regularised by an improved model for the absorption from the Lyman-α forest which improves performance at high redshift.
+  - We also introduce a model for unresolved sub-DLAs which reduces mis-classifications of absorbers without detectable damping wings. 
+
+- [A parsec-scale radio jet launched by the central intermediate-mass black hole in the dwarf galaxy SDSS J090613.77+561015.2?](https://arxiv.org/abs/2003.11412)
+  - VLBI观测：In the dwarf elliptical galaxy SDSS J090613.77+561015.2 (z=0.0465), an accreting IMBH has been revealed by optical and X-ray observations.
+  - Our imaging results show that there are two 1-mJy components with a separation of about 52 mas
+  - We argue that the radio morphology originates from the jet activity powered by the central IMBH.
+
+- [A two-sided but significantly beamed jet in the supercritical accretion quasar IRAS F11119+3257](https://arxiv.org/abs/2003.11427)
+  - VLBI观测: IRAS F11119+3257 is a supercritical accretion source because it has a bolometric luminosity above the Eddington limit and extremely powerful X-ray outflows
+  - The deep EVN image at 1.66 GHz shows a two-sided jet with a projected separation about two hundred parsec and a very high flux density ratio of about 290.
+  - We propose a scenario in which IRAS F11119+3257 is an unusual compact symmetric object with a small jet viewing angle and a radio spectrum peaking at 0.53+/-0.06 GHz mainly due to the synchrotron self-absorption.
+
+- [Decadal Variability Survey in MACSJ1149](https://arxiv.org/abs/2003.11035)
+  - Frontier Field MACSJ1149: 利用光变找AGN和其他transient
+  - We find that ∼2% of galaxies in these images are variable with 49 AGN candidates and 4 new supernovae candidates detected.
+  - About 20% of the AGN candidates have morphologies and colors consistent with quasars, though most of the variables appear to be dominated by the host galaxy light.
+
+- [Thermally Unstable Cooling Stimulated by Uplift: The Spoiler Clusters](https://arxiv.org/abs/2003.11104)
+  - **Interesting**
+  - We analyzed Chandra X-ray observations of five galaxy clusters whose atmospheric cooling times, entropy parameters, and cooling time to free-fall time ratios within the central galaxies lie below 1 Gyr, below 30 keV cm^2, and between 20 < tcool/tff < 50 
+  - None of these clusters have detectable H-alpha nor do they have significant star formation rates or detectable molecular gas.
+  - Signatures of uplifted, high metallicity atmospheric gas are absent.
+  - Cold gas is absent at appreciable levels in these systems perhaps because their radio sources have failed to lift low entropy atmospheric gas to an altitude where the ratio of the cooling time to the free-fall time falls below unity.
+
+- [From rest-frame luminosity functions to observer-frame colourdistributions: tackling the next challenge in cosmological simulations](https://arxiv.org/abs/2003.11258)
+  - We show that with Shark and ProSpect we can closely reproduce the optical colour distributions observed in the panchromatic GAMA survey.
+  - The treatment of feedback, star formation, central-satellite interactions and radiation re-processing by dust are critical for this achievement. The first three processes are responsible for the colour bimodality, while dust attenuation defines the mean and scatter of the blue and red populations.
