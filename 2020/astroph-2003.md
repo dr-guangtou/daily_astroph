@@ -684,3 +684,31 @@
 - [From rest-frame luminosity functions to observer-frame colourdistributions: tackling the next challenge in cosmological simulations](https://arxiv.org/abs/2003.11258)
   - We show that with Shark and ProSpect we can closely reproduce the optical colour distributions observed in the panchromatic GAMA survey.
   - The treatment of feedback, star formation, central-satellite interactions and radiation re-processing by dust are critical for this achievement. The first three processes are responsible for the colour bimodality, while dust attenuation defines the mean and scatter of the blue and red populations.
+
+----
+
+### Mar 26
+
+- [Clusters Have Edges: The Projected Phase SpaceStructure of SDSS redMaPPer Clusters](https://arxiv.org/abs/2003.11555)
+  - **Relevant, Important**
+  - Based on their velocities, galaxies can be split into two categories: galaxies that are dynamically associated with the cluster, and random line-of-sight projections. Both the fraction of galaxies associated with the galaxy clusters, and the velocity dispersion of the same, exhibit a sharp feature as a function of radius.
+  - The feature occurs at a radial scale Redge≈2.2Rλ, where Rλ is the cluster radius assigned by redMaPPer.
+  - The edge radius Redge constitutes a true "cluster edge", in the sense that no orbiting structures exist past this radius.
+  - This radius coincides with a suitably defined splashback radius.
+
+- [The Phase Space Structure of Dark Matter Halos](https://arxiv.org/abs/2003.11557)
+  - **Relevant, Important**
+  - We show that the phase space structure of the dark matter halo does not end at this splashback radius. Instead, there exists a region where infalling, splashback, and virialized halos are mixed spatially.
+  - We model the distribution of the three kinematically distinct populations and show that there exists an "edge radius" beyond which a dark matter halo has no orbiting substructures. This radius is a fixed multiple of the splashback radius as defined in previous works.
+
+- [Source Distributions of Cosmic Shear Surveys in Efficiency Space](https://arxiv.org/abs/2003.11558)
+  - **CSST**
+  - Using realistic simulations, we find that the true lensing efficiency of a current cosmic shear survey without disconnected outliers in the redshift distributions can be described to per cent accuracy with only two parameters, and the approach straightforwardly generalises to other parametric forms and surveys
+
+- [A Shining Death of Unequal Supermassive Black Hole Binaries](https://arxiv.org/abs/2003.11770)
+  - We show that in active galactic nulcei (AGNs) the radiation field also causes the orbits of the accreting SMBHs to shrink. The corresponding mechanism, known as the "Poynting-Robertson drag" (PR drag), takes effect on a well-defined timescale CTSal, where TSal is the Salpeter timescale of the AGN
+  - We find that when q≲a few×10^−5, the PR drag is more efficient in shrinking the binary than many other mechanisms, such as dynamical friction and type-I migration.
+
+- [Age-chemical abundance structure of the Galaxy I: Evidence for a late accretion event in the outer disc at z ~ 0.6](https://arxiv.org/abs/2003.11549)
+  - Two sequences are present in the [alpha/Fe]-[Fe/H] plane with systematically different stellar ages. Surprisingly, the young sequence is less metal-rich, suggesting a recent dilution process by additional gas accretion.
+  - As the stars with the lowest iron abundance in the younger sequence also show an enhancement in alpha-element abundance, the gas accretion event must have involved a burst of star formation.
