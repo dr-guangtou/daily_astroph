@@ -712,3 +712,37 @@
 - [Age-chemical abundance structure of the Galaxy I: Evidence for a late accretion event in the outer disc at z ~ 0.6](https://arxiv.org/abs/2003.11549)
   - Two sequences are present in the [alpha/Fe]-[Fe/H] plane with systematically different stellar ages. Surprisingly, the young sequence is less metal-rich, suggesting a recent dilution process by additional gas accretion.
   - As the stars with the lowest iron abundance in the younger sequence also show an enhancement in alpha-element abundance, the gas accretion event must have involved a burst of star formation.
+  
+----
+
+### Mar 29
+
+- [The Mira-Titan Universe. III. Emulation of the Halo Mass Function](https://arxiv.org/abs/2003.12116)
+  - **Relevant**
+  - We construct an emulator for the halo mass function over group and cluster mass scales for a range of cosmologies, including the effects of dynamical dark energy and massive neutrinos. 
+  - We obtain smooth halo mass functions by fitting piecewise second-order polynomials to the halo catalogs and employ Gaussian process regression to construct the emulator while keeping track of the statistical noise in the input halo catalogs and uncertainties in the regression process.
+
+- [Fast cloud-cloud collisions in a strongly barred galaxy: Suppression of massive star formation](https://arxiv.org/abs/2003.12074)
+  - We present a hydrodynamical simulation of a strongly barred galaxy, using a stellar potential which is taken from observational results of NGC1300, and we compare cloud properties between different galactic environments: bar, bar-end and spiral arms.
+  - We find that the mean of cloud's virial parameter is ~1 and that there is no environmental dependence
+  - We find that the collision speed in the bar is faster than those in the other regions. We examine the collision frequency using clouds' kinematics and conclude that the fast collisions in the bar could originate from random-like motion of clouds due to elliptical gas orbits shifted by the bar potential.
+
+- [The MUSE Hubble Ultra Deep Field Survey XIV. The evolution of the Lya emitter fraction from z=3 to z=6](https://arxiv.org/abs/2003.12083)
+  - Thanks to deep data obtained with MUSE, we can measure the evolution of X_LAE homogeneously over a wide redshift range of z~3-6 for UV-faint galaxies (down to M_1500~-17.75).
+  - We derive the redshift evolution of X_LAE for M_1500 in [-21.75;-17.75] for the first time with a equivalent width range EW(Lya)>=65 A and find low values of X_ LAE<~30% at z<~6
+  - We do not find a significant dependence of X_LAE on M_1500 for EW(Lya)>~50 A at z~3-4, in contrast with previous work.
+  - The differences in X_LAE mainly arise from selection biases for Lyman Break Galaxies (LBGs) in the literature: UV-faint LBGs are more easily selected if they have strong Lya emission, hence X_LAE is biased towards higher values
+
+- [STRIDES: Spectroscopic and photometric characterization of the environment and effects of mass along the line of sight to the gravitational lenses DES J0408-5354 and WGD 2038-4008](https://arxiv.org/abs/2003.12117)
+  - In time-delay cosmography, three of the key ingredients are 1) determining the velocity dispersion of the lensing galaxy, 2) identifying galaxies and groups along the line of sight with sufficient proximity and mass to be included in the mass model, and 3) estimating the external convergence κext from less massive structures that are not included in the mass model. 
+  - Using weighted galaxy counts, calibrated based on the Millennium Simulation, we find that DES J0408-5354 is located in a significantly underdense environment, leading to a tight (width ∼3%), negative-value κext distribution. On the other hand, WGD 2038-4008 is located in an environment of close to unit density
+
+- [How runaway stars boost galactic outflows](https://arxiv.org/abs/2003.12297)
+  - 大概有10%的OB星会在变成超新星之前被踢出natal clusters --> 能移动几个pc，进入ISM密度较低的区域并释放stellar feedback能量
+  - Including runaway stars leads to twice as many supernovae explosions in regions with low gas densities
+  - These outflows produce a more massive and extended multi-phase circumgalactic medium, as well as a population of dense clouds in the halo
+
+- [Chemical Evolution of Galaxy Clusters: Dissecting the Iron Mass Budget of the Intracluster Medium](https://arxiv.org/abs/2003.12426)
+  - We study the chemical evolution of galaxy clusters by measuring the iron mass in the ICM after dissecting the abundance profiles into different components.
+  - We are able to firmly identify the two components in a significant fraction of the sample, simply relying on the fit of the abundance profile. We compute the iron mass included in the iron peak and plateau, and the gas mass-weighted iron abundance out to r500.
+  - The total iron mass budget is dominated by the plateau, we find consistently that the global gas mass-weighted iron abundance does not evolve significantly.
