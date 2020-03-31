@@ -746,3 +746,58 @@
   - We study the chemical evolution of galaxy clusters by measuring the iron mass in the ICM after dissecting the abundance profiles into different components.
   - We are able to firmly identify the two components in a significant fraction of the sample, simply relying on the fit of the abundance profile. We compute the iron mass included in the iron peak and plateau, and the gas mass-weighted iron abundance out to r500.
   - The total iron mass budget is dominated by the plateau, we find consistently that the global gas mass-weighted iron abundance does not evolve significantly.
+
+----
+
+### Mar 30
+
+- [Continuum-Fitting the X-ray Spectra of Tidal Disruption Events](https://arxiv.org/abs/2003.12583)
+  - We develop a new model for X-ray emission from tidal disruption events (TDEs), applying stationary general relativistic "slim disk" accretion solutions to supermassive black holes (SMBHs) and then ray-tracing the photon trajectories from the image plane to the disk surface, including gravitational redshift, Doppler, and lensing effects self-consistently
+  - 对某些TDE中看到的X-ray增亮效应: We propose a new mechanism that better fits the data: a "Slimming Disk" scenario in which accretion onto an edge-on disk slows, reducing the disk height and exposing more X-rays from the inner disk to the sightline over time.
+
+- [Lessons learned from CHIME repeating FRBs](https://arxiv.org/abs/2003.12581)
+  - **Interesting**
+  - 根据现有再现FRBs的能量分布来建立population模型: For a power-law energy distribution dN/dE ~ E^{-gamma} for the repeating bursts, a steep energy distribution means that most repeaters should be found in the local Universe with low dispersion measure (DM), whereas a shallower distribution means some repeaters may be detected at large distances with high DM.
+  - 现在已经观测到了两个DM非常高的repeater
+  - This power-law index is consistent with the energy dependence of the non-repeating ASKAP sample, which suggests that they are drawn from the same population.
+
+- [The lowest frequency Fast Radio Bursts: Sardinia Radio Telescope detection of the periodic FRB 180916 at 328 MHz](https://arxiv.org/abs/2003.12748)
+  - We report on the lowest-frequency detection to date of three bursts from FRB 180916.J0158+65, observed at 328 MHz
+
+- [Reproducing the Universe: a comparison between the EAGLE simulations and the nearby DustPedia galaxy sample](https://arxiv.org/abs/2003.12576)
+  - SKIRT模拟，和DustPedia比较，并用CIGALE做SED拟合 
+  - The optical and far-infrared regimes, and the scaling relations based upon the global emission, diffuse dust and stellar mass, show high levels of agreement. However, the mid-infrared fluxes of the EAGLE galaxies are overestimated while the far-UV domain is not attenuated enough, compared to the observations.
+
+- [The influence of environment on satellite galaxies in the GAEA semi-analytic model](https://arxiv.org/abs/2003.12757)
+  - **Relevant**
+  - We modify the treatment of environmental effects in our state-of-the-art GAlaxy Evolution and Assembly (GAEA) semi-analytic model to improve our modelling of satellite galaxies
+  - We implement gradual stripping of hot gas, ram-pressure stripping of cold gas, and an updated algorithm to account for angular momentum exchanges between the gaseous and stellar disc components of model galaxies.
+  - We implement gradual stripping of hot gas, ram-pressure stripping of cold gas, and an updated algorithm to account for angular momentum exchanges between the gaseous and stellar disc components of model galaxies.
+
+- [Measuring the AGN sublimation radius with a new approach: reverberation mapping of the broad line polarization](https://arxiv.org/abs/2003.12809)
+  - The polarization in broad lines of Type 1 AGNs is mostly caused by equatorial scattering, where specific features allow one to separate its contribution from the total polarized flux. We propose to monitor variability in the polarized line flux and find the time lag between the nonpolarized continuum and polarized broad line variability.
+
+- [Linking Compact Dwarf Starburst Galaxies in the RESOLVE Survey to Downsized Blue Nuggets](https://arxiv.org/abs/2003.12891)
+  - **Relevant**
+  - 在local Universe里找类似blue nugget的dwarf星系：specific star formation rates above the defining threshold for high-z blue nuggets； RESOLVE巡天里有50个candidates
+  - Across redshifts, blue nuggets exhibit three defining properties: compactness relative to contemporaneous galaxies, abundant cold gas, and formation via compaction in mergers or colliding streams
+  - Analysis of archival DECaLS photometry and new 3D spectroscopic observations for CDS galaxies reveals a high rate of photometric and kinematic disturbances suggestive of dwarf mergers.
+  - We argue that CDS galaxies represent a maximally-starbursting subset of traditional compact dwarf classes such as blue compact dwarfs and blue E/S0s.
+
+- [Evidence for an accreting massive black hole in He 2-10 from adaptive optics integral field spectroscopy](https://arxiv.org/abs/2003.13375)
+  - NIFS+ALTAIR H & K-band观测: our data provide evidence of emission of gas excited by an active galactic nucleus located at the position of the radio and X-ray sources, as revealed by the analysis of the emission-line ratios. 
+
+- [Detection of deuterated molecules, but not of lithium hydride, in the z=0.89 absorber toward PKS1830-211](https://arxiv.org/abs/2003.13436)
+  - ALMA观测：we report the first detection of deuterated molecules and a search for lithium hydride, 7LiH, at redshift z=0.89 in the spiral galaxy intercepting the line of sight to the quasar PKS1830-211. ND, NH2D, and HDO, and their related isotopomers NH2, NH3, and H2^18O
+  - 有两个成分：We therefore speculate that this component is associated with the analog of a Galactic dark cloud, while the first component is likely more diffuse 
+
+- [Radio spectral properties and jet duty cycle in the restarted radio galaxy 3C388](https://arxiv.org/abs/2003.13476)
+  - LOFAR+VLA观测：a spatially resolved study of the radio spectrum of this source down to MHz-frequencies, aimed at investigating its radiative age and duty cycle.
+  - The spectral shape throughout the source is not uniform and often deviates from standard models. This suggests that mixing of different particle populations is occurring
+  - By using single-injection radiative models we compute that the total source age is ≲80 Myr and that the duty cycle is about ton/ttot∼ 60%, which is enough to prevent the intracluster medium from cooling according to X-ray estimates.
+
+- [SDSS-IV MaNGA: Stellar population correlates with stellar root-mean-square velocity Vrms gradients or total-density-profile slopes at fixed effective velocity dispersion σe](https://arxiv.org/abs/2003.13625)
+  - **Interesting**
+  - We focus on the gradients (γrms≡σ(Re/4)/σe) of the stellar root-mean-square velocity (Vrms≡sqrt(V2+σ2)), which we show traces the total mass-density gradient γtot derived from dynamical models. We confirm that γrms increases with σe, age and metallicity.
+  - We additionally find that these correlations still exist at fixed σe, where galaxies with larger γrms are found to be older and more metal-rich. 质量密度梯度对星族成分的依赖不能完全由对速度弥散度的依赖描述
+  - We compare our results with galaxies in the IllustrisTNG hydrodynamical simulations and find that, at fixed σe, similar trends exist with age, the bulge fraction, and the total mass density slope but, unlike observations, no correlation with metallicity can be detected in the simulations.
