@@ -80,3 +80,55 @@
   - We have searched for HI absorption towards 1253 radio sources in the GAMA 23 field, covering redshifts between z=0.34 and 0.79 over a sky area of approximately 50 square degrees.
   - Blind巡天中没有找到吸收体：We estimate upper limits on the HI column density frequency distribution function that are consistent with measurements from prior surveys for redshifted optical DLAs
   - 在一个z=0.36的早型星系周围17kpc处找到了3x10^9 Msun的吸收体: Such gas-rich early types are rare, but have been detected in the nearby Universe.
+
+----
+
+### Apr 5
+
+- [A tomographic map of the large-scale matter distribution using the eBOSS Stripe 82 Ly-α forest](https://arxiv.org/abs/2004.01448)
+  - We investigate the Ly-α forest available in the Stripe 82 field (220deg2), based on the quasar spectra from SDSS Data Release DR16. The density of observed quasar spectra is 37deg−2
+  - 比CLAMATO的体积大得多：We derive a 3D map of large-scale matter fluctuations from these data, using a Wiener filter technique.
+  - A stack over quasar positions provides a visualization of the Ly-α quasar cross-correlation.
+
+- [The fate of disk galaxies in IllustrisTNG clusters](https://arxiv.org/abs/2004.01191)
+  - **Relevant**
+  - The galaxies' histories are traced from the time of accretion to z=0 and compared to a control sample of central galaxies mass-matched at the time of accretion.
+  - Most cluster disks become non-disky by z=0, in stark contrast with the control disks, of which a significant fraction remains disky over the same timescales. 同时伴随着气体移除和SF停滞
+  - Cluster disks that become non-disky by z=0 have lost dark matter (DM) mass and show little growth or a loss of stellar mass, whereas the corresponding control disks show significant growth in both components.
+  - For cluster disks, the perturbation is in the form of impulsive tidal shocking at pericentres and not tidal stripping of the outer disk stellar material, whereas for control disks, a combination of mergers and AGN feedback appears to be the key driving force behind morphological transformations.
+
+- [Fundamental differences in the radio properties of red and blue quasars: Insight from the LOFAR Two-metre Sky Survey (LoTSS)](https://arxiv.org/abs/2004.01196)
+  - Red quasars: a significant (factor ∼3) enhancement in the radio-detection fraction
+  - Compared to a control sample of normal "blue" QSOs matched in redshift and accretion power, red QSOs have a higher radio detection rate and a higher incidence of compact radio morphologies.
+  - We also demonstrate that these differences arise primarily in sources of intermediate radio-loudness: radio-intermediate red QSOs are ×3 more common than typical QSOs, but the excess diminishes among the most radio-loud and the most radio-quiet systems in our study.
+
+- [Fundamental differences in the radio properties of red and blue quasars: enhanced compact AGN emission in red quasars](https://arxiv.org/abs/2004.01197)
+  - 用更深的VLA-S82数据：we perform morphological analyses at a resolution and depth three times that of the FIRST radio survey, and confirm an enhancement in radio-faint and compact red quasars over typical quasars
+  - Find tentative evidence for an enhancement in red quasars with slightly extended radio structures
+  - From our data we find that the radio enhancement from red quasars is due to AGN activity on compact scales (<43 kpc) for radio-intermediate-radio-quiet sources
+
+- [Infrared Colours and Spectral Energy Distributions of Hard X-ray Selected Obscured and Compton-thick AGN](https://arxiv.org/abs/2004.01273)
+  - 探索挑选CT-AGN的新方式：We present a new infrared selection for Compton-thick AGN based on MIR and FIR colours ([9μm - 22μm]>3.0 and [22μm - 90μm]<2.7) from WISE and AKARI.
+  - Conclude that MIR colours covering 9.7μm silicate absorption and MIR continuum can be a promising new tool to identify Compton-thick AGN.
+  - We show that the average covering factor of Compton-thick AGN is higher compared to the obscured and unobscured AGN.
+
+- [A flare in the optical spotted in the changing-look Seyfert NGC 3516](https://arxiv.org/abs/2004.01308)
+  - During the flare, we observe stronger forbidden high-ionization iron lines than reported before, as well as the complex broad H{\alpha} and H{\beta} lines. This is especially seen in H{\alpha} that appears to be double-peaked. It seems that a very broad component of ~10000 km/s width in the Balmer lines is appearing. 
+  - The increase of the continuum emission, the variability of the coronal lines, and the very broad component in the Balmer lines may indicate that AGN of NGC 3516 is finally leaving the low-activity state in which it has been in the last ~3 years.
+
+- [The Nature of Ultra-diffuse Galaxies in Distant Massive Galaxy Clusters: Abell 370 in the Hubble Frontier Fields](https://arxiv.org/abs/2004.01340)
+  - **Relevant**
+  - We find 46 UDGs in Abell 370 from the images of the Hubble Frontier Fields (HFF). 大部分都是red的
+  - We estimate the abundance of UDGs in Abell 370, N(UDG)=644±104.
+  - The number density profiles of UDGs and bright galaxies show a discrepancy in the central region of the clusters: the profile of UDGs shows a flattening as clustercentric distance decreases, while that of bright galaxies shows a continuous increase.
+  - This implies that most UDGs have a dwarf-like origin and a small number of them could be failed L∗ galaxies.
+
+- [A Tidal Disruption Event Candidate Discovered in the Active Galactic Nucleus SDSS J022700.77-042020.6](https://arxiv.org/abs/2004.01517)
+  - A sudden increase in flux of J0227-0420 during the second half of 2009 is clearly shown in the long-term optical, UV, and NIR light curves. A plateau phase, following an initial decline, is seen in the NUV and optical u, g, r, i light curves. 
+  - We find possible evidence that the plateau phase in the NUV band may lag behind the optical ones by approximately 70-80 days with also a much shorter duration
+  - The plateaus can be explained if the stellar streams collide with the pre-existing AGN disk at different radii. Though the overall fallback rate decreases, the material in the outer disk gradually drifts inward and increases the local accretion rate at the inner region, producing the optical and UV plateaus.
+  - The possible lag between the optical and NUV plateaus can then be attributed to viscosity delay.
+
+- [Molecular Gas Heating and Modified Dust Properties in Active Galaxies: Growing Black Holes or Tidal Shocks?](https://arxiv.org/abs/2004.01695)
+  - We use MIR spectroscopic measurements of emission from rotational H2 transitions, dust and PAH features, and silicate emission or absorption lines at 9.7 microns to study how gravitational interactions impact the warm ISM in AGN and non-AGN hosts.
+  - We find that in AGN-hosts, the ISM is warmer, the ratios of H2 to PAHs are larger, the PAH emission line ratios and silicate strengths have a wider range of values than in non-AGN hosts.
