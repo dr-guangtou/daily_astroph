@@ -132,3 +132,71 @@
 - [Molecular Gas Heating and Modified Dust Properties in Active Galaxies: Growing Black Holes or Tidal Shocks?](https://arxiv.org/abs/2004.01695)
   - We use MIR spectroscopic measurements of emission from rotational H2 transitions, dust and PAH features, and silicate emission or absorption lines at 9.7 microns to study how gravitational interactions impact the warm ISM in AGN and non-AGN hosts.
   - We find that in AGN-hosts, the ISM is warmer, the ratios of H2 to PAHs are larger, the PAH emission line ratios and silicate strengths have a wider range of values than in non-AGN hosts.
+
+----
+
+### Apr 6
+
+- [Free-form Grale lens inversion of galaxy clusters with up to 1000 multiple images](https://arxiv.org/abs/2004.01724)
+  - We scrutinize the performance of the free-form lens inversion method Grale in the regime of 150−1000 input images, using synthetic massive galaxy clusters.
+  - While the fidelity of the reconstruction improves with the increasing number of multiple images used as model constraints, ∼150 to ∼1000, the lens plane rms deteriorates from ∼0.11″ to ∼0.28″. Since lens plane rms is not necessarily the best indicator of the quality of the mass reconstructions, looking for an alternative indicator is warranted.
+
+- [The Effect of Massive Neutrinos on the Galaxy Spin Flip Phenomenon](https://arxiv.org/abs/2004.02638)
+  - The galaxy spin flip refers to the phenomenon that the spin axes of galaxies with masses above a certain threshold tend to be preferentially aligned perpendicular to the hosting large-scale filaments, while low mass or early type galaxies tend to have their spin axes aligned parallel to such structures.
+  - We present, for the first time, a numerical examination of this phenomenon assuming the presence of massive neutrinos, finding a clear and robust dependence of the threshold mass for the spin flip on the total neutrino mass.
+  - Our physical explanation is that the presence of more massive neutrinos retard the nonlinear evolution of the cosmic web, which in turn allows the galaxy spin vectors to better retain their memories of the initial tidal interactions even in the highly nonlinear regime.
+
+- [Optical and X-ray discovery of the changing-look AGN IRAS23226-3843 showing extremely broad and double-peaked Balmer profiles](https://arxiv.org/abs/2004.01711)
+  - We detected a very strong X-ray decline in the galaxy IRAS23226-3843 within the XMM-Newton slew survey in 2017
+  - IRAS23226-3843 decreased in X-rays by a factor of more than 30 with respect to ROSAT and Swift data taken 10 to 27 years before.
+  - The optical continuum decreased by 60 percent and the Balmer line intensities decreased by 50 percent between 1999 and 2017. The optical Seyfert spectral type changed simultaneously with the X-ray flux from a clear broad-line Seyfert 1 type in 1999 to a Seyfert 1.9 type in 2017
+  - The unusual flat Balmer decrement Ha/Hb with a value of 2 indicates a very high hydrogen density of n_(H) > 10 exp(11) cm^(-3) at the center of the accretion disk. IRAS23226-3843 shows unusually strong FeII blends with respect to the broad line widths, in contrast to what is known from Eigenvector 1 studies.
+
+- [Atacama Compact Array Measurements of the Molecular Mass in the NGC 5044 Cooling Flow Group](https://arxiv.org/abs/2004.01717)
+  - **Relevant**
+  - NGC5044,一个X-ray bright group的中心星系：using the 7m array data, that we can recover the total flux inferred from IRAM 30m single dish observations, which corresponds to a total molecular mass of about 4x10^7 Msun.
+  - We find 8 concentrations of molecular gas out to a radius of 10 arcsec (1.5 kpc), which we identify with giant molecular clouds. 
+  - We find two CO absorption features spatially located at the center of the galaxy, within 5 pc projected distance of the AGN, infalling at 255 and 265 km/s relative to the AGN. This indicates that the two giant molecular clouds seen in absorption are most likely within the sphere of influence of the supermassive black hole.
+
+- [A joint SZ-Xray-optical analysis of the dynamical state of 288 massive galaxy clusters](https://arxiv.org/abs/2004.01721)
+  - **Relevant**
+  - We examine spatial offsets between the position of the brightest cluster galaxy (BCG) and the center of the gas distribution as traced by the SPT-SZ centroid and by the X-ray centroid/peak position from Chandra and XMM data. We show that the radial distribution of offsets provides no evidence that SPT SZ-selected cluster samples include a higher fraction of mergers than X-ray-selected cluster samples.
+  - We find that Schechter function fits to the galaxy population in disturbed clusters and relaxed clusters differ at z>0.55 but not at lower redshifts.
+  - Within the same redshift range, we find that the BCGs in relaxed clusters tend to be brighter than the BCGs in disturbed samples, while in agreement in the lower redshift bin.
+
+- [Molecular gas in CLASH brightest cluster galaxies at z∼0.2−0.9](https://arxiv.org/abs/2004.01786)
+  - **Relevant**
+  - We have observed in CO(1-0), CO(2-1), CO(3-2), or CO(4-3), with the IRAM-30m, 18 BCGs at z∼0.2−0.9 that are drawn from the CLASH survey.
+  - 在恒星形成率最高的RX1532中探测到了大量分子气体；We tentatively detected CO(1-0) or CO(2-1) in four other BCGs；For the remaining 13 BCGs we set robust upper limits of MH2/M⋆≲0.1,
+  - By comparison with distant cluster galaxies observed in CO our study shows that RX1532 (MH2/M⋆=0.40±0.05) belongs to the rare population of star forming and gas-rich BCGs in the distant universe.
+
+- [The ARTEMIS simulations: stellar haloes of Milky Way-mass galaxies](https://arxiv.org/abs/2004.01914)
+  - **Relevant**
+  - A new set of 42 zoomed-in, high-resolution (baryon particle mass of ~ 2x10^4 Msun/h)
+  - The stellar density profiles are well fitted by broken power laws, with inner slopes of ~ -3, outer slopes of ~ -4 and break radii that are typically ~ 20-40 kpc. The break radii generally mark the transition between in situ formation and accretion-driven formation of the halo.
+  - Overall, the structural properties can be understood by two factors: that in situ stars dominate the inner regions and that they reside in a spatially-flattened distribution that is aligned with the disc. Observations targeting both the major and minor axes of galaxies are thus required to obtain a complete picture of stellar haloes.
+
+- [Luminosity-duration relations and luminosity functions of repeating and non-repeating fast radio bursts](https://arxiv.org/abs/2004.02079)
+  - **Interesting**
+  - Here we show the time-integrated luminosity-duration (Lν-wint,rest) relations and luminosity functions (LFs) of repeating and non-repeating FRBs in the FRB Catalogue project. 两类FRB明显不一样。
+  - Repeating FRBs have relatively fainter Lν and longer wint,rest with a much lower LF. 
+  - Repeating FRBs do not show any clear correlation between Lν and wint,rest，而非再现FRB则有此相关
+  - The faint ends of the LFs of repeating and non-repeating FRBs are higher than volumetric occurrence rates of neutron-star mergers and accretion-induced collapse (AIC) of white dwarfs, and are consistent with those of soft gamma-ray repeaters (SGRs), type Ia supernovae, magnetars, and white-dwarf mergers.
+  - The bright ends of LFs of repeating and non-repeating FRBs are lower than any candidates of progenitors, suggesting that bright FRBs are produced from a very small fraction of the progenitors regardless of the repetition. Otherwise, they might originate in unknown progenitors.
+
+- [Star Formation Enhancement in Barred Disk Galaxies in Interacting Galaxy Clusters](https://arxiv.org/abs/2004.02204)
+  - We find that fsf is moderately higher (∼20%) in interacting clusters than in non-interacting clusters and that the enhancement of star formation in interacting clusters occurs only in moderate-mass disk-dominated galaxies.
+  - We also find that the enhancement of fsf in moderate-mass disk-dominated galaxies in interacting clusters is mostly due to the increase of the number of barred galaxies. Our result suggests that the cluster-cluster interaction can simultaneously induce bars and star formation in disk galaxies. 
+
+- [Ultradense Gases beyond Dusty Torus in a Partially Obscured Quasar](https://arxiv.org/abs/2004.02436)
+  - Here we report the detection of clear and rich emission lines origin from the scale of dusty tours in an partially obscured quasar 
+  - We interpret this as the lines being excited by a shock induced by the high-density and high-temperature gases at the scale of dusty torus, rather than photo-ionized by the central accretion disk. 
+
+- [Infrared luminosity functions and dust mass functions in the EAGLE simulation](https://arxiv.org/abs/2004.02713)
+  - 利用SKIRT看EAGLE中的dust mass function和IRLF；in the high luminosity regime, where the EAGLE-SKIRT luminosity functions mildly but systematically underestimate the observed ones.
+  - The agreement between the EAGLE-SKIRT infrared luminosity functions and the observed ones gradually worsens with increasing lookback time.
+  - The mild evolution of the dust mass density is in relatively good agreement with observations, but the slow evolution of the infrared luminosity underestimates the observed luminosity evolution significantly.
+
+- [New high-quality strong lens candidates with deep learning in the Kilo Degree Survey](https://arxiv.org/abs/2004.02715)
+  - We have developed a new Convolutional Neural Network (CNN) classifier to search for gravitational arcs, following the prescription by Petrillo et al. 2019 and using only r−band images
+  - We have found 286 new high probability candidates, 133 from the LRG sample and 153 from the BG sample.
