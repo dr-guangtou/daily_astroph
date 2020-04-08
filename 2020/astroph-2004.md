@@ -200,3 +200,41 @@
 - [New high-quality strong lens candidates with deep learning in the Kilo Degree Survey](https://arxiv.org/abs/2004.02715)
   - We have developed a new Convolutional Neural Network (CNN) classifier to search for gravitational arcs, following the prescription by Petrillo et al. 2019 and using only r−band images
   - We have found 286 new high probability candidates, 133 from the LRG sample and 153 from the BG sample.
+
+----
+
+### Apr 7
+
+- [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX−T scaling relation](https://arxiv.org/abs/2004.03305)
+  - **Interesting, Important**
+  - We used 313 homogeneously selected X-ray galaxy clusters from the Meta-Catalogue of X-ray detected Clusters of galaxies (MCXC). 
+  - The behavior of the LX − T relation heavily depends on the direction of the sky, which is consistent with previous studies. Strong anisotropies are detected at a & 4σ confidence level toward the Galactic coordinates (l, b) ∼ (280◦, −20◦),
+  - 可能的systematic解释：, the X-ray absorption treatment, the effect of galaxy groups and low redshift clusters, core metallicities, and apparent correlations with other cluster properties, but none is able to explain the obtained results.
+  - The maximum variation of DL seems to be ∼ 16 ± 3% for different regions in the sky. This result demonstrates that X-ray studies that assume perfect isotropy in the properties of galaxy clusters and their scaling relations can produce strongly biased results whether the underlying reason is cosmological or related to X-rays.
+
+- [A Hard X-ray Test of HCN Enhancements as a Tracer of Embedded Black Hole Growth](https://arxiv.org/abs/2004.02884)
+  - HCN/HCO+比例可否作为AGN判据：we identified galaxies with HCN/HCO+ (1-0) intensity ratios consistent with those of many AGN but whose mid-infrared spectral diagnostics are consistent with little to no ( ≲15%) contribution of an AGN to the bolometric luminosity.
+  - We find no X-ray evidence for AGN in three of the systems and place strong upper limits on the energetic contribution of any heavily obscured AGN
+  - We find no evidence for correlations between the line ratios and the AGN fraction derived from X-rays, indicating that HCN/HCO+ intensity ratios are not driven by the energetic dominance of AGN, nor are they reliable indicators of whether SMBH accretion is ongoing.
+
+- [From Nuclear to Circumgalactic: Zooming in on AGN-Driven Outflows at z~2.2 with SINFONI](https://arxiv.org/abs/2004.02891)
+  - SINFONI on the VLT to study the spatially resolved properties of ionized gas outflows driven by active galactic nuclei (AGN) in three galaxies at z~2.2 -- K20-ID5, COS4-11337 and J0901+1814.
+  - The outflows do not appear to have any impact on the instantaneous star formation activity of the host galaxies, but they carry a significant amount of kinetic energy which could heat the halo gas and potentially lead to a reduction in the rate of cold gas accretion onto the galaxies.
+
+- [Effects of Different Cosmic Ray Transport Models on Galaxy Formation](https://arxiv.org/abs/2004.02897)
+  - 更物理的CR模型显示CR对星系演化的影响程度可能位于忽略CR的模拟以及简化模型带来的显著影响之间。
+  - Cosmic rays (CRs) with ~GeV energies can contribute significantly to the energy and pressure budget in the interstellar, circumgalactic, and intergalactic medium (ISM, CGM, IGM).
+  - Physical models of CR propagation/scattering via extrinsic turbulence and self-excited waves predict transport coefficients which are complicated functions of local plasma properties. we compare the effects of these models relative to simpler 'diffusion+streaming' models on galaxy and CGM properties at dwarf through MW mass scales.
+  - The physical models predict large local variations in CR diffusivity, with median diffusivity increasing with galacto-centric radii and decreasing with galaxy mass and redshift. These effects lead to a more rapid dropoff of CR energy density in the CGM (compared to simpler models), in turn producing weaker effects of CRs on galaxy star formation rates (SFRs), CGM absorption profiles and galactic outflows
+
+- [Discovery of a Thirty-Degree Long Ultraviolet Arc in Ursa Major](https://arxiv.org/abs/2004.03175)
+  - **Interesting**
+  - We present the discovery of a thirty-degree long arc of ultraviolet emission with a thickness of only a few arcminutes: the Ursa Major Arc.
+  - A two-degree section of the arc was first detected in the H{\alpha} optical spectral line in 1997; additional sections were seen in the optical by the team of amateur astronomers included in this work 
+  - Diffuse ultraviolet and optical interstellar emission are often attributed to scattering of light by interstellar dust. The lack of correlation between the Ursa Major Arc and thermal dust emission observed with the Planck satellite, however, suggests that other emission mechanisms must be at play.
+
+- [Collimated synchrotron threads linking the radio lobes of ESO137-006](https://arxiv.org/abs/2004.03203)
+  - **Interesting**
+  - Norma galaxy cluster中心星系的MeerKAT低频观测
+  - The MeerKAT continuum images (rms ~0.02 mJy/beam at ~10" resolution) reveal new features that have never been seen in a radio galaxy before: collimated synchrotron threads of yet unknown origin 
+  - The radio spectrum of the threads is steep, with a spectral index of up to α≃2 between 1000 MHz and 1400 MHz.
