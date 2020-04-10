@@ -271,3 +271,38 @@ populations are the dominant heating agent in the central regions and they contr
 
 - [Continuum polarization reverberation mapping of AGNs](https://arxiv.org/abs/2004.03957)
   - This validates the use of polarized radiation in the optical/UV band to estimate the geometrical properties of the broad line region in type I AGNs, in which the viewing angle is close to pole-on and the BLR is not obscured by the dust torus. 
+
+----
+
+### Apr 9
+
+- [Cosmology with the Wide-Field Infrared Survey Telescope -- Synergies with the Rubin Observatory Legacy Survey of Space and Time](https://arxiv.org/abs/2004.04702)
+  - **csst**
+  - We consider a scenario where the currently envisioned survey strategy for WFIRST's High Latitude Survey (HLS), i.e., 2000 square degrees in four narrow photometric bands is altered in favor of a strategy that combines rapid coverage of the LSST area (to full LSST depth) in one band.
+  - We explore a second, more ambitious scenario where WFIRST spends 1.5 years covering the LSST area.
+  - Assuming the 5-month WFIRST wide scenario, we find a significant increase in constraining power for the joint LSST+WFIRST wide survey compared to LSST Y10 (FoM(Wwide)= 2.4 FoM(LSST)) and compared to LSST+WFIRST HLS (FoM(Wwide})= 5.5 FoM(HLS)).
+
+- [Radio Power from a Direct-Collapse Black Hole in CR7](https://arxiv.org/abs/2004.04167)
+  - Here we estimate the radio flux from a DCBH and a young supernova remnant in CR7, the latter of which can be confused with flux from a quasar.
+  - We find that a DCBH would emit a flux of 0.75 - 8.9 μJy at 1.0 GHz, far greater than the nJy signal expected for a young supernova, so the detection of any radio emission from CR7 would confirm it to be the potential site of a DCBH. 
+
+- [Etching glass in the early Universe: Luminous HF and water emission in a QSO-SMG pair at z=4.7](https://arxiv.org/abs/2004.04176)
+  - We present ALMA observations of hydrogen fluoride, HF J=1-0, H20 (202-211), and the 1.2 THz rest-frame continuum emission from the z=4.7 system BR1202-0725. BR1202-0725 is a galaxy group consisting of a QSO, a sub-millimeter galaxy (SMG), and two Ly-alpha emitters.
+  - The QSO is the most luminous HF emitter yet found and has the same ratio of HF emission line to infrared luminosity as a sample of local AGN and the Orion Bar
+  - The HF emission in the QSO is either excited by collisions with electrons and H2 in molecular plasmas irradiated by the AGN and intense star formation or predominately by collisions with H2, with a modest contribution from electrons
+  - Although HF should be an excellent tracer of molecular outflows, we do not find strong evidence for outflows in HF in either the QSO or the SMG. From a putative absorption feature in HF in the SMG, we estimate an upper limit on the outflow rate
+  - The lack of significant molecular outflows in either source may imply that much of the energy from the intense star formation and AGN activity in this pair is being dissipated in their ISM.
+
+- [Strong chemical tagging with APOGEE: 21 candidate star clusters that have dissolved across the Milky Way disc](https://arxiv.org/abs/2004.04263)
+  - We apply a density-based clustering algorithm to the eight dimensional chemical space defined by [Mg/Fe], [Al/Fe], [Si/Fe], [K/Fe], [Ti/Fe], [Mn/Fe], [Fe/H], and [Ni/Fe]
+  - We detect twenty-one candidate clusters with more than fifteen members.
+  - Each group’s members are distributed over multiple kpc, and the spread in their radial and azimuthal actions increases with age
+
+- [The Lyman Continuum Escape Fraction of Galaxies and AGN in the GOODS Fields](https://arxiv.org/abs/2004.04360)
+  - We present our analysis of the LyC emission and escape fraction of 111 spectroscopically verified galaxies with and without AGN from 2.26 < z < 4.3.
+  - Among the 17 AGN from the 111 galaxies, one provided a LyC detection in F275W at mAB=23.19mag
+  - We find the stack of 17 AGN dominate the LyC production from ⟨z⟩≃2.3−4.3 by a factor of ∼10 compared to all 94 galaxies without AGN.  
+
+- [Volumetric Star Formation Prescriptions in Vertically Resolved Edge-on Galaxies](https://arxiv.org/abs/2004.04363)
+  - We find that the volumetric and surface SFLs in terms of the total gas have significantly different slopes, while the volumetric and surface SFLs in terms of the molecular gas do not show any noticeable difference.
+  - We show that the interstellar gas pressure is strongly correlated with the SFR but find no significant difference between the correlations based on the volume and surface densities.
