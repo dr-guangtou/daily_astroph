@@ -449,3 +449,60 @@ populations are the dominant heating agent in the central regions and they contr
   - The first galaxies are likely very rare and biased, with their abundances modulated by long wavelength modes of the density field. Moreover, the radiation fields from these galaxies interact with the IGM over a large range of scales. Therefore, the limited volume of 21-cm simulations can underestimate the amount of structure in the signal.
   - We find that simulations of box lengths 200-300 Mpc typically do not show a bias in the PS during the EoR; however, they do tend to underestimate the large-scale power during the earlier epoch of CD by ~7-9 % on average.
   - We conclude that box lengths of 250 Mpc are needed to converge at the level of <~1 sigma of the total noise.
+
+----
+
+### Apr 15
+
+- [The Massive and Distant Clusters of WISE Survey. IX. SZ effect Verification with the Atacama Compact Array: Localisation and Cluster Analysis](https://arxiv.org/abs/2004.06728)
+  - Morita ACA SZ观测高红移星系团：we obtained a significant detection of the SZ effect for seven out of the ten VACA LoCA clusters.
+
+- [On the Energy Coupling Efficiency of AGN Outbursts in Galaxy Clusters](https://arxiv.org/abs/2004.06841)
+  - 利用模型和模拟研究：energy coupling efficiency ηcp, the fraction of AGN jet energy transferred to the ICM.
+  - We find that ηcp increases from ∼0.4 for a weak isobaric injection to ≳0.8 for a powerful point injection.
+  - Jet outbursts are intrinsically different from spherical outbursts. For both powerful and weak jet outbursts, ηcp is typically around 0.7−0.9, partly due to the non-spherical nature of jet outbursts
+  - Jet中hotspot产生的backflow能显著地增强jet-IGM相互作用
+
+- [Simulations of the Milky Way's central molecular zone -- I. Gas dynamics](https://arxiv.org/abs/2004.06724)
+  - AREPO模拟
+  - The distinction between inner (R≲120 pc) and outer (120≲R≲450 pc) CMZ that is sometimes proposed in the literature is unnecessary.
+  - A tilted CMZ might provide an alternative explanation to the ∞-shaped structuere identified in Herschel data
+  - The bar in our simulation efficiently drives an inflow from the Galactic disc (R≃3 kpc) down to the CMZ: 1 Msun/yr
+  - Self-gravity and supernovae feedback can drive an inflow from the CMZ inwards towards the circumnuclear disc: 0.03 Msun/yr
+
+- [Simulations of the Milky Way's central molecular zone -- II. Star formation](https://arxiv.org/abs/2004.06731)
+  - We find that most of the star formation happens downstream of the apocentres, consistent with the "pearls-on-a-string" scenario. 
+  - Our simulations do not support the notion that an absolute evolutionary timeline of star formation triggered by pericentre passage can be identified as gas clouds orbit in the CMZ ring.
+  - 有新生的恒星结构符合Arches和Quintuplet这样的星团：these prominent clusters originate near the collision sites where the bar-driven inflow accretes onto the CMZ.
+
+- [Eigengalaxies: describing galaxy morphology using principal components in image space](https://arxiv.org/abs/2004.06734)
+  - **Relevant**
+  - How a sample of 10,243 galaxies in the Hubble Space Telescope CANDELS survey, which have visual classifications from Galaxy Zoo, can be represented by just 12 eigengalaxies whilst retaining 96% explained variance.
+  - We also describe a probabilistic extension to PCA (PPCA) which enables the eigengalaxy framework to assign probabilities to galaxies and characterise a whole population as a generative distribution
+
+- [The ram pressure stripped radio tails of galaxies in the Coma cluster](https://arxiv.org/abs/2004.06743)
+  - **Interesting**
+  - We observed 1.4 GHz continuum and HI emission with the Very Large Array in its B-configuration in two fields of the Coma cluster to study the radio properties of RPS galaxies.
+  - Radio continuum tails are found in 10 (8 are new) out of 20 RPS galaxies, unambiguously revealing the presence of relativistic electrons and magnetic fields in the stripped tails.
+  - The 1.4 GHz continuum in the tails is enhanced relative to their Hα emission by a factor of ∼7 compared to the main bodies of the RPS galaxies. The 1.4 GHz continuum of the RPS galaxies is enhanced relative to their IR emission by a factor of ∼2 compared to star-forming galaxies.
+  - No evidence of radio emission associated with ultra-diffuse galaxies is found in our data.
+
+- [H I absorption towards radio Active Galactic Nuclei of different accretion modes](https://arxiv.org/abs/2004.07074)
+  - We report H I absorption detection towards seven radio AGNs, six of which are new.
+  - Compact radio AGNs with WISE colour W2−W3 >2 have higher detection rates compared to those with W2−W3 <2.
+  - We find that while LERGs show a wide range in the shift of centroid velocities (∼ −479 to +356 km s−1) relative to the optical systemic velocity, most of the HERGs have centroid velocity shift less than 200 km s−1, possibly due to differences in jet-interstellar medium interaction.
+
+- [Orientation and accretion in a representative sample of active galactic nuclei](https://arxiv.org/abs/2004.07196)
+  - 用WNSS radio去选0.1< z<0.6的AGN:The resulting sample is complete down to the limiting luminosity and unbiased by orientation.
+  - 看Hbeta宽线速度对指向的依赖： We recover the known orientation dependence, but the sharp envelope of previous studies where only edge-on sources display the broadest lines, is absent.
+  - A physical framework for quasar beaming and a disk-like broad-line region can describe the representative sample when it is expanded to include additional parameters, in particular jet properties and the broad-line region velocity field.
+
+- [The Flux Distribution of Sgr A*](https://arxiv.org/abs/2004.07185)
+  - Sgr A*的GRAVITY NIR light curve: Our light curves are unconfused, overcoming the confusion limit of previous photometric studies
+  - We conclude that Sgr~A* has two states: the bulk of the emission is generated in a lognormal process with a well-defined median flux density and this quiescent emission is supplemented by sporadic flares that create the observed power law extension of the flux distribution.
+
+- [Detection of the Schwarzschild precession in the orbit of the star S2 near the Galactic centre massive black hole](https://arxiv.org/abs/2004.07187)
+  - **Interesting**
+  - We report the first detection of the General Relativity (GR) Schwarzschild Precession (SP) in S2's orbit.
+  - Owing to its highly elliptical orbit (e = 0.88), S2's SP is mainly a kink between the pre-and post-pericentre directions of motion ~ +- 1 year around pericentre passage, relative to the corresponding Kepler orbit.
+  - The S2 data are fully consistent with GR. Any extended mass inside S2's orbit cannot exceed ~ 0.1% of the central mass. Any compact third mass inside the central arcsecond must be less than about 1000 M_sun.
