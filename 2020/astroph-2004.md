@@ -471,7 +471,7 @@ populations are the dominant heating agent in the central regions and they contr
   - Self-gravity and supernovae feedback can drive an inflow from the CMZ inwards towards the circumnuclear disc: 0.03 Msun/yr
 
 - [Simulations of the Milky Way's central molecular zone -- II. Star formation](https://arxiv.org/abs/2004.06731)
-  - We find that most of the star formation happens downstream of the apocentres, consistent with the "pearls-on-a-string" scenario. 
+  - We find that most of the star formation happens downstream of the apocentres, consistent with the "pearls-on-a-string" scenario.
   - Our simulations do not support the notion that an absolute evolutionary timeline of star formation triggered by pericentre passage can be identified as gas clouds orbit in the CMZ ring.
   - 有新生的恒星结构符合Arches和Quintuplet这样的星团：these prominent clusters originate near the collision sites where the bar-driven inflow accretes onto the CMZ.
 
@@ -537,11 +537,11 @@ populations are the dominant heating agent in the central regions and they contr
 - [First Light And Reionisation Epoch Simulations (FLARES) I: Environmental Dependence of High-Redshift Galaxy Evolution](https://arxiv.org/abs/2004.07283)
   - **CSST** A huge high-z simulation; useful references for GSMF and SFRF
   - 用EAGLE模型re-simulate EoR时期的overdensity
-  - Both the GSMF and the SFRF exhibit a clear double-Schechter form, up to the highest redshifts (z=10). We also find no environmental dependence of the SFS normalisation. 
+  - Both the GSMF and the SFRF exhibit a clear double-Schechter form, up to the highest redshifts (z=10). We also find no environmental dependence of the SFS normalisation.
 
 - [Stochastic Processes as the Origin of the Double-Power Law Shape of the Quasar Luminosity Function](https://arxiv.org/abs/2004.07412)
   - **Relevant** QSO Mh-MUV关系中scatter的影响
-  - We employ a conditional luminosity function and construct the relation between median quasar magnitude versus halo mass MUV,c(Mh) with log-normal in luminosity scatter Σ, and duty-cycle ϵDC, and focus on high redshift z≳4. 
+  - We employ a conditional luminosity function and construct the relation between median quasar magnitude versus halo mass MUV,c(Mh) with log-normal in luminosity scatter Σ, and duty-cycle ϵDC, and focus on high redshift z≳4.
   - In order to reproduce the observed QLF, the Σ=0 abundance matching requires all of the brightest quasars to be hosted in the rarest most massive dark-matter halos (with an increasing MUV,c/Mh in halo mass)
   - Conversely, for Σ>0 the brightest quasars can be over-luminous outliers hosted in relatively common dark-matter halos.
   - We investigate the impact of ϵDC and Σ on measurements of clustering and find there is no luminosity dependence on clustering for Σ>0.3, consistent with recent observations from Subaru HSC.
@@ -556,7 +556,7 @@ populations are the dominant heating agent in the central regions and they contr
 
 - [The XMM deep survey in the CDFS XI. X-ray properties of 185 bright sources](https://arxiv.org/abs/2004.07604)
   - We present X-ray spectra of 185 bright sources detected in the XMM-Newton deep survey of the Chandra Deep Field South
-  - Obscured AGN are found to be more abundant toward higher redshifts. 
+  - Obscured AGN are found to be more abundant toward higher redshifts.
   - We found six objects exhibiting broad Fe K lines out of 21 unobscured AGN of best data quality, implying a detection rate of ~30%.
 
 ----
@@ -627,7 +627,7 @@ populations are the dominant heating agent in the central regions and they contr
   - The constraints on both fIGM and DMhost are expected to be significantly improved with the rapid progress in localizing FRBs.
 
 - [The Dekel+ profile: a mass-dependent dark-matter density profile with flexible inner slope and analytic potential, velocity dispersion, and lensing properties](https://arxiv.org/abs/2004.08395)
-  - This profile has variable inner slope and concentration parameter, and it allows analytic expressions for the gravitational potential, velocity dispersion, and lensing properties. 
+  - This profile has variable inner slope and concentration parameter, and it allows analytic expressions for the gravitational potential, velocity dispersion, and lensing properties.
   - 比gNFW和Einasto更好； in particular towards the halo centers, and that its parameters are correlated with the stellar-to-halo mass ratio Mstar/Mvir.
   - The effect of baryons manifests itself in the profile parameters by a sharp drop of the inner density slope and a 20% decrease of the concentration parameter for log(Mstar/Mvir) between -3.5 and -2
 
@@ -643,3 +643,79 @@ populations are the dominant heating agent in the central regions and they contr
   - Similarities with the Resonance-Enhanced Two Photon-Ionisation (RETPI) spectral features observed in the circum-stellar Weigelt blobs of Eta~Carinae are observed.
 
 - [Astraeus I: The interplay between galaxy formation and reionization](https://arxiv.org/abs/2004.08401)
+  - ASTRAEUS (semi-numerical rAdiative tranSfer coupling of galaxy formaTion and Reionization in N-body dArk mattEr simUlationS), which couples a state-of-the-art N-body simulation with the semi-analytical galaxy evolution DELPHI and the semi-numerical reionization scheme CIFOG.
+  - 再电离之前，辐射反馈只抑制<10^9.5 Msun的halo里的SF，对大质量的halo没有影响
+  - For this reason, the ionization topologies of different radiative feedback scenarios differ only on scales smaller than 1−2Mpc, and significant deviations are only found when physical parameters (e.g. the escape fraction of ionizing photons) are altered based on galactic properties.
+
+- [Mapping and characterisation of cosmic filaments in galaxy cluster outskirts: strategies and forecasts for observations from simulations](https://arxiv.org/abs/2004.08408)
+  - **Relevant, SSST**
+  - 利用The ThreeHundred数值模拟预测 WEAVE Wide-Field Cluster Survey等巡天对cluster外围filament的观测
+  - For different filament extraction methods we find that at R>R200, ∼15-20 of galaxies with M∗>3×10^9M⊙ are in filaments, increasing to ∼60 for galaxies more massive than the Milky-Way.
+  - 在filaments里的星系的比例和星系团质量以及动力学状态无关，但随距离团中心距离有关，increasing from ∼13% at 5R200 to ∼21% at 1.5R200.
+
+- [SCUBA-2 overdensities associated with candidate protoclusters selected from Planck data](https://arxiv.org/abs/2004.08560)
+  - Of the 46 candidate protoclusters, 25 have significant overdensities (>5 times the field counts), 11 have intermediate overdensities (3--5 times the field counts) and 10 have no overdensity (<3 times the field counts) of 850-μm sources.
+  - Compared with the number counts of another sample selected from Planck's compact source catalogues, this [PHz+PCCS]-selected sample has a higher fraction of candidate protoclusters with significant overdensities,
+
+- [Kinematic analysis of EAGLE simulations: Evolution of λRe and its connection with mergers and gas accretion](https://arxiv.org/abs/2004.08598)
+  - We investigated the evolution of their kinematic properties by means of the angular momentum proxy parameter,λRefor galaxies with M∗≥5×10^9M⊙ 尽可能接近观测；在z=0, lambda_Re-e分布与观测类似
+  - 在z=0，10^10.3 Msun是一个临界质量，区分两类星系；在z=2，星系在lambda_Re-e平面的分布基本就是均匀的了
+  - We studied the evolution of λRe with time and found that there is no connection between the angular momentum at z = 2 and z = 0. 所有系统的最大角动量都是在z=1附近达到的
+
+- [Properties of AGN Multiband Optical Variability in the HSC SSP Transient Survey](https://arxiv.org/abs/2004.08835)
+  - We identified 491 robust variable AGN candidates, down to i=25 mag and with redshift up to 4.26. 大部分都是X-ray AGN
+  - Structure function分析显示光变和光度有正相关；这个趋势和luminous quasar中的相反
+  - 看host星系的贡献：This suggests that low-luminosity AGNs at 0.8≲z≲1.8 are predominantly hosted in star-forming galaxies.
+  - The stacked samples show very large hardness ratios in their stacked X-ray spectrum, which suggests that these optically variable sources have large soft X-ray absorption by dust-free gas.
+
+- [The duty cycle of radio galaxies revealed by LOFAR: remnant and restarted radio source populations in the Lockman Hole](https://arxiv.org/abs/2004.08979)
+  - The LOw Frequency ARray (LOFAR) has uncovered large populations of active, remnant and restarted radio jet population
+  - Radio AGN in Semi-Analytic Environments (RAiSE) dynamical model模型研究Lockman Hole的LOFAR观测：our models predict that remnant radio lobes fade quickly.
+  - Any high (>10 percent) observed fraction of remnant and restarted sources therefore requires a dominant population of short-lived jets. We speculate that this could plausibly be provided by feedback-regulated accretion.
+
+- [The life cycle of radio galaxies in the LOFAR Lockman Hole field](https://arxiv.org/abs/2004.09118)
+  - **Interesting**
+  - We used deep LOFAR images at 150 MHz of the Lockman Hole extragalactic field to select a sample of 158 radio sources with sizes >60′′ in different phases of their jet life cycle.
+  - We selected a subsample of candidate restarted radio galaxies representing between 13% and 15% of the 158 sources of the main sample. 要和上面那篇连起来看，这个比例是很高的。
+  - 正在活跃的，已经是remnant的，和restarted的射点星系的光学宿主性质并无差异，应该来自同一个母样本
+  - The fraction of restarted radio galaxies is slightly higher with respect to remnants, suggesting that the restarted phase can often follow after a relatively short remnant phase
+  - **This confirms that the remnant and restarted phases are integral parts of the life cycle of massive elliptical galaxies.**
+
+- [The Lyman Alpha Reference Sample XI: Efficient Turbulence Driven Lyα Escape and the Analysis of IR, CO and [C II]158 μm](https://arxiv.org/abs/2004.09142)
+  - 14个低红移SF星系作为模板：We observed LARS galaxies with Herschel/PACS, SOFIA/FIFI-LS, the IRAM 30m telescope and APEX, targeting far-infrared (FIR) continuum and emission lines of [C II]158μm, [O I]63μm, [O III]88μm and low-J CO lines.
+  - 气体密度和SFR密度差异非常大，但是气体消耗时标都很长：relatively high gas surface densities (Σgas) and low star formation rate densities (ΣSFR), have by far the highest Lyα escape fraction.
+  - Lya逃逸比例和总气体消耗时标有明显相关：Lyα escape in those galaxies is driven by turbulence in the star-forming gas that shifts the Lyα photons out of resonance close to the places where they originate.
+  - We further report on an extreme [C II]158μm excess in LARS 5, corresponding to ∼14±3% of the FIR luminosity, i.e. the most extreme [C II]-to-FIR ratio observed in a non-AGN galaxy to date.
+
+- [Candidate fossil groups in the CFHTLS: a probabilistic approach](https://arxiv.org/abs/2004.09150)
+  - **Relevant**
+  - CFHTLS group catalog, 包含了photo-z星系，进行FG的概率研究：We find that the structures with masses lower than 2.4×10^14 M⊙ have the highest probabilities of being fossil groups (PFG).
+  - 分布靠近filaments：structures with PFG≥50% are located close to the cosmic web filaments (87% are located at less than 1 Mpc from their nearest filament). 距离node很远
+  - Being in a poor environment could therefore be the driver of FG formation, the number of nearby galaxies not being sufficient to compensate for the cannibalism of the central group galaxy.
+
+- [Searching for obscured AGN in z ∼ 2 submillimetre galaxies](https://arxiv.org/abs/2004.09356)
+  - If the local Universe is a good guide, ∼ 50% of the obscured AGN amongst the SMG population could be missed even in the deepest X-ray surveys; 用EVN和eMerlin观测确认AGN
+  - Out of the four SMGs observed, we detect one source, J123555.14, that has an integrated EVN flux density of 201 ± 15.2 μJy 辐射来自AGN
+  - We do not detect compact radio emission from a possible AGN in the remaining sources 这个源可能有延展的jet辐射，VLBI观测可能miss了这部分
+
+- [Mapping the working of environmental effects in A963](https://arxiv.org/abs/2004.09391)
+  - **Relevant**
+  - A963中的SF星系比例很高：We find an extended region dominated by passive galaxies along a north-south axis crossing the cluster centre, possibly associated with known filaments of the large-scale structure. 可能在被吸积进入星系团之前就已经quenched了
+  - We report the first tentative observations at 21cm of ongoing ram-pressure stripping at z=0.2, as well as observed inflow of low-entropy gas into the cluster along filaments of the large-scale structure.
+  - Gas rich, star forming galaxies are being accreted from the east and west of the cluster and these galaxies are being quenched at r<R200, while the bulk of the accretion, containing multiple groups, happens along the north-south axis and brings mostly passive galaxies.
+
+- [Galaxy Cluster Contribution to the Diffuse Extragalactic Ultraviolet Background](https://arxiv.org/abs/2004.09401)
+  - **Relevant, Interesting**
+  - Planck发现的SZ星系团和GALEX UV background的相关性研究。This leaves us with a sample of 142 clusters over the redshift range 0.02≤z≤0.72
+  - In analysing our stacked samples binned by redshift, we find evidence for a central excess of UV background light compared to local backgrounds for clusters with z<0.3
+  - We measure the stacked radial profile of these clusters, and find that the excess UV radiation decays to the level of the background at a radius of ∼1 Mpc
+  - Analysis of possible physical processes contributing to the excess UV brightness indicates that non-thermal emission from relativistic electrons in the intracluster medium and faint, unresolved UV emission from cluster member galaxies and intracluster light are likely the dominant contributors.
+
+- [Analysis of the galaxy size versus stellar mass relation](https://arxiv.org/abs/2004.09433)
+  - 为什么用固定面密度对应的半径可以导致Mass-Size关系的scatter减少：two galaxies with the same Mstar have at least one radius with identical surface density, where the galaxies have identical size.
+  - 在观测上还因为：the galaxy surface density profiles approximately following Sersic profiles with their Re and Sersic index (n) anti-correlated
+  - 存在一个面密度值，使得mass-size关系的scatter最小：The physical reason for the existence of optimal values is unknown but, as Trujillo+20 point out, they are close to the gas surface density threshold to form stars and thus may trace the physical end of a galaxy.
+
+- [Quantifying the effects of spatial resolution and noise on galaxy metallicity gradients](https://arxiv.org/abs/2004.09482)
+  - 用高分辨模拟仿真IFU观测，看能否重现正确的金属丰度梯度：Given appropriate propagation of uncertainties and pruning of low SNR pixels, we show that a resolution of 3-4 telescope beams per galaxy scale length is sufficient to recover the gradient to ~10-20% uncertainty.
+  - The uncertainty escalates to ~60% for lower resolution. Inclusion of the low SNR pixels causes the uncertainty in the inferred gradient to deteriorate.
