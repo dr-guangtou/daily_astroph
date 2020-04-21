@@ -506,3 +506,140 @@ populations are the dominant heating agent in the central regions and they contr
   - We report the first detection of the General Relativity (GR) Schwarzschild Precession (SP) in S2's orbit.
   - Owing to its highly elliptical orbit (e = 0.88), S2's SP is mainly a kink between the pre-and post-pericentre directions of motion ~ +- 1 year around pericentre passage, relative to the corresponding Kepler orbit.
   - The S2 data are fully consistent with GR. Any extended mass inside S2's orbit cannot exceed ~ 0.1% of the central mass. Any compact third mass inside the central arcsecond must be less than about 1000 M_sun.
+
+----
+
+### Apr 16
+
+- [Quantifying resolution in cosmological N-body simulations using self-similarity](https://arxiv.org/abs/2004.07256)
+  - Testing for self-similarity in scale-free simulations provides an excellent tool to quantify the resolution at small scales of cosmological N-body simulations.
+  - 利用ABACUS模拟：we show how observed deviations from self-similarity reveal the range of time and distance scales in which convergence is obtained.
+  - With a small force softening length, the spatial resolution is essentially determined by the mass resolution.
+
+- [Localizing Transformations of the Galaxy-Galaxy Lensing Observable](https://arxiv.org/abs/2004.07504)
+  - **Interesting**
+  - Because the predicted tangential shear signal at a given separation depends on the physical modeling on all scales internal to that separation, systematic uncertainties in the modeling of non-linear small scales are propagated outwards to larger scales.
+  - We construct a simple linear transformation of the observable that removes this non-locality, enabling more aggressive small-scale cuts for a given theoretical model. Our modified galaxy-galaxy lensing observable makes it possible to include observations on significantly smaller scales than those under the standard approach in cosmological analyses.
+
+- [Minimising the impact of scale-dependent galaxy bias on the joint cosmological analysis of large scale structures](https://arxiv.org/abs/2004.07811)
+  - We present a mitigation strategy to reduce the impact of non-linear galaxy bias on the joint `3×2pt' cosmological analysis of weak lensing and galaxy surveys.
+  - The Ψ-statistics that we adopt are based on Complete Orthogonal Sets of E/B Integrals (COSEBIs).
+  - 替代传统的2PCF和lensing统计，但同样有限制能力
+  - Given the challenges in determining accurate galaxy bias models in the highly non-linear regime, we argue that 3×2pt analyses should move towards new statistics that are less sensitive to the smallest physical scales.
+
+- [Measuring distances to low-luminosity galaxies using surface brightness fluctuations](https://arxiv.org/abs/2004.07273)
+  - **Relevant, Important**
+  - 基于MIST模型估计LSST, HST, WFIRST观测下低光度星系的SBF
+  - Single-age population models show excellent agreement with the observed SBF-color relation of low-mass galaxies with 0.5≲g−i≲0.9. 对颜色比较蓝的星系需要考虑复合星族的影响
+  - 通过图像模拟估计LSST的观测能力，对10^7Msun的矮星系能测距到25 Mpc
+  - Many systematic uncertainties remain, including an irreducible "sampling scatter" in the SBFs of ultra-faint dwarfs due to their undersampled stellar mass functions.
+
+- [First Light And Reionisation Epoch Simulations (FLARES) I: Environmental Dependence of High-Redshift Galaxy Evolution](https://arxiv.org/abs/2004.07283)
+  - **CSST** A huge high-z simulation; useful references for GSMF and SFRF
+  - 用EAGLE模型re-simulate EoR时期的overdensity
+  - Both the GSMF and the SFRF exhibit a clear double-Schechter form, up to the highest redshifts (z=10). We also find no environmental dependence of the SFS normalisation. 
+
+- [Stochastic Processes as the Origin of the Double-Power Law Shape of the Quasar Luminosity Function](https://arxiv.org/abs/2004.07412)
+  - **Relevant** QSO Mh-MUV关系中scatter的影响
+  - We employ a conditional luminosity function and construct the relation between median quasar magnitude versus halo mass MUV,c(Mh) with log-normal in luminosity scatter Σ, and duty-cycle ϵDC, and focus on high redshift z≳4. 
+  - In order to reproduce the observed QLF, the Σ=0 abundance matching requires all of the brightest quasars to be hosted in the rarest most massive dark-matter halos (with an increasing MUV,c/Mh in halo mass)
+  - Conversely, for Σ>0 the brightest quasars can be over-luminous outliers hosted in relatively common dark-matter halos.
+  - We investigate the impact of ϵDC and Σ on measurements of clustering and find there is no luminosity dependence on clustering for Σ>0.3, consistent with recent observations from Subaru HSC.
+
+- [A Precise Benchmark for Cluster Scaling Relations: Fundamental Plane, Mass Plane and IMF in the Coma Cluster from Dynamical Models](https://arxiv.org/abs/2004.07412)
+  - **Relevant**
+  - We study a sample of 148 early-type galaxies in the Coma cluster using SDSS photometry and spectra.
+  - 作为密集环境下星系动力学标度关系的模板，因为几乎没有距离引起的误差
+  - 动力学模型现实ETG 1Re以内暗物质比例低于55%; sigma_e-IMF关系很紧致
+  - We find that the coefficients of the mass plane are close to predictions from the virial theorem, and have significantly lower scatter compared to the Fundamental plane.
+  - We show that Coma galaxies occupy similar locations in the (M∗ - Re) and (M∗ - σe) relations as local field galaxies but are older.
+
+- [The XMM deep survey in the CDFS XI. X-ray properties of 185 bright sources](https://arxiv.org/abs/2004.07604)
+  - We present X-ray spectra of 185 bright sources detected in the XMM-Newton deep survey of the Chandra Deep Field South
+  - Obscured AGN are found to be more abundant toward higher redshifts. 
+  - We found six objects exhibiting broad Fe K lines out of 21 unobscured AGN of best data quality, implying a detection rate of ~30%.
+
+----
+
+### Apr 19
+
+- [The XXL Survey XLIV. Sunyaev-Zel'dovich mapping of a low-mass cluster at z~1: a multi-wavelength approach](https://arxiv.org/abs/2004.07866)
+  - **Relevant**
+  - NIKA2观测一个质量 M500~2x10^14 Msun的星系团
+  - We find significant offsets between the X-ray peak, the SZ peak, the brightest cluster galaxy, and the peak of galaxy density. Additionally, the galaxy distribution and the gas present elongated morphologies. 来自于最近的并合
+  - Finally, we derive the global properties of XLSSC102 and compare them to those of high-mass-and-low-redshift systems, finding no strong evidence for non-standard evolution.
+
+- [Optical validation and characterisation of Planck PSZ1 sources at the Canary Islands observatories. II. Second year of ITP13 observations](https://arxiv.org/abs/2004.07913)
+  - We characterise 75 SZ sources with low SZ significance, SZ S/N<5.32 by performing deep optical imaging and spectroscopy in order to associate actual galaxy clusters to the SZ Planck source.
+  - we study 256 SZ sources with Dec≥−15∘ (212 of them completely unknown), finding optical counterparts for 152 SZ sources.
+  - We find a strong correlation between the number of unconfirmed sources and the thermal emission of diffuse galactic dust at 857 GHz, thus increasing the fraction of false Planck SZ detections at low galactic latitudes.
+
+- [Photometric Redshifts with the LSST II: The Impact of Near-Infrared and Near-Ultraviolet Photometry](https://arxiv.org/abs/2004.07885)
+  - **Relevant, CSST**
+  - UV和IR数据的主要作用是减少outliers；更深的光学数据有助于降低测光红移误差
+  - For Euclid, we find that the addition of JH 5σ photometric detections can reduce the standard deviation for galaxies with z>1 (z>0.3) by ∼20% (∼10%), and the fraction of outliers by ∼40% (∼25%).
+  - For WFIRST, we show how the addition of deep YJHK photometry could reduce the standard deviation by ≳50% at z>1.5 and drastically reduce the fraction of outliers to just ∼2% overall.
+
+- [The Angular Momentum of the Circumgalactic Medium in the TNG100 Simulation](https://arxiv.org/abs/2004.07846)
+  - 主要看MW质量的halo；CGM angular momentum properties are strongly correlated with the stellar angular momentum of the corresponding galaxy
+  - 星系角动量高，CGM的角动量一般也越高，而且与星系rotation align得更好；hot/cold CGM中都有这种现象，但主要是在cold gas中
+  - 高角动量星系的CGM：a large wedge of cold gas with rotational velocities at least ∼1/2 of the halo's virial velocity extending out to ∼1/2 of the virial radius, and by biconical polar regions dominated by radial velocities suggestive of galactic fountains 低角动量星系缺少这些特征
+
+- [The Stellar Mass Fundamental Plane: The virial relation and a very thin plane for slow-rotators](https://arxiv.org/abs/2004.07847)
+  - **Relevant**
+  - The thickness of the FP depends strongly on morphology. If the sample only includes E-SRs, then the observed scatter in Re is ∼16%, of which only ∼9% is intrinsic. 只看质量>10^11 Msun的星系scatter会更小
+  - The observed scatter increases to the ∼25% usually quoted in the literature if E-FRs and S0s are added.
+  - The structure within the FP is most easily understood as arising from the fact that Ie and σe are nearly independent, whereas the Re−Ie and Re−σe correlations are nearly equal and opposite.
+  - Accounting self-consistently for M∗/L gradients will change the tilt. The tilt we currently see suggests that the efficiency of turning baryons into stars increases and/or the dark matter fraction decreases as stellar surface brightness increases.
+
+- [High-resolution VLA Imaging of Obscured Quasars: Young Radio Jets Caught in a Dense ISM](https://arxiv.org/abs/2004.07914)
+  - 超高光度，高度尘埃遮挡的QSO的10GHz观测：The sample was selected to have extremely red mid-infrared (MIR)-optical color ratios
+  - The majority of the sources in our sample (93 out of 155) are compact on angular scales <0.2" 各种性质都和年轻AGN类似 (CSS, GPS等)；
+  - 在adiabatic lobe expansion模型下：动力学年龄年轻(10^4-7 yr); 环境ISM密度更高；射电瓣膨胀速度中等
+  - Based on their radio luminosity function and dynamical ages, we estimate only ∼20% of classical large scale FRI/II radio galaxies could have evolved directly from these objects.
+
+- [The PAU Survey: Photometric redshifts using transfer learning from simulations](https://arxiv.org/abs/2004.07979)
+  - **Relevant**
+  - Deepz: including transfer learning from simulations where the training set consists of simulations as well as observations, which reduces the need for training data.
+  - The redshift probability distribution is estimated with a mixture density network (MDN)
+  - Training with randomly constructed coadded fluxes adds information about individual exposures, reducing the impact of photometric outliers.
+
+- [Stellar angular momentum distribution linked to galaxy morphology](https://arxiv.org/abs/2004.08182)
+  - **Interesting**
+  - CALIFA，空间分辨信息下的角动量研究： The shape of the spaxel-wise probability density function of normalised s=j∗/j∗mean, PDF(s), deviates significantly from the near-universal initial distribution expected of baryons in a dark matter halo
+  - 这个分布的形状和星系形态有明显的相关： late-type galaxies have PDF(s) that is similar to a normal distribution, whereas early types have a strongly-skewed PDF(s) resulting from an excess of low-angular momentum material.
+
+----
+
+### Apr 20
+
+- [Testing dark matter halo properties using self-similarity](https://arxiv.org/abs/2004.08406)
+  - 基于Abacus: The FOF mass functions show a systematic deviation from self-similarity which is explained by a resolution dependence of the FOF mass assignment
+  - The mass function of ROCKSTAR halos, on the other hand, shows good convergence from of order 50 to 100 particles per halo, with no detectable evidence at the one percent level of any systematic dependence for larger particle number.
+
+- [Lessons on early structure formation from a mature galaxy cluster observed at cosmic noon](https://arxiv.org/abs/2004.08479)
+  - With the standard Press Schechter formalism, we infer a rapid evolution of the star formation efficiency (the ratio of stellar to halo mass) from 10^-4 to 0.01 during z~20-13, based on the age distribution of stars in post-starburst galaxies of XLSSC 122
+
+- [Cosmology-insensitive estimate of IGM baryon mass fraction from five localized fast radio bursts](https://arxiv.org/abs/2004.08393)
+  - **Interesting**
+  - Using the measured dispersion measure (DM) and luminosity distance dL data (inferred from the FRB redshifts and dL of type Ia supernovae at the same redshifts) of the five FRBs, we constrain the local fIGM=0.84+0.16−0.22 with no evidence of redshift dependence.
+  - Using the three apparently non-repeating FRBs only we get a little looser but consistent result fIGM=0.74+0.24−0.18.
+  - The constraints on both fIGM and DMhost are expected to be significantly improved with the rapid progress in localizing FRBs.
+
+- [The Dekel+ profile: a mass-dependent dark-matter density profile with flexible inner slope and analytic potential, velocity dispersion, and lensing properties](https://arxiv.org/abs/2004.08395)
+  - This profile has variable inner slope and concentration parameter, and it allows analytic expressions for the gravitational potential, velocity dispersion, and lensing properties. 
+  - 比gNFW和Einasto更好； in particular towards the halo centers, and that its parameters are correlated with the stellar-to-halo mass ratio Mstar/Mvir.
+  - The effect of baryons manifests itself in the profile parameters by a sharp drop of the inner density slope and a 20% decrease of the concentration parameter for log(Mstar/Mvir) between -3.5 and -2
+
+- [The Origin and Evolution of Lyman-alpha Blobs in Cosmological Galaxy Formation Simulations](https://arxiv.org/abs/2004.08397)
+  - 数值模拟家LAB模型：massive galaxies display a range of Lya luminosities and spatial extents (which strongly depend on the limiting surface brightness used) over the course of their lives, though regularly exhibit luminosities and sizes consistent with observed LABs.
+  - 基本上星系，cooling gas，AGN都有贡献
+  - Within our modeled mass range, there are no obvious threshold physical properties that predict appearance of LABs, and only weak correlations of the luminosity with the physical properties of the host galaxy
+
+- [A transient optical laser at cosmological distance probes the circum-stellar material 2.8 Gyr after the Big Bang](https://arxiv.org/abs/2004.08400)
+  - **Interesting**
+  - We discovered Bowen emission arising from a strongly lensed (μ>20) transient stellar object hosted in the Sunburst arc at z=2.37.
+  - Unique ultraviolet lines emerge at the location of the transient. In particular, narrow (σv ~ 40 km/s) ionisation lines of several chemical species (Fe, C, Si) fluoresce after being exposed to Lyman series (e.g., Lyα, Lyβ) of H, HeI and HeII that pump selectively their atomic levels.
+  - Similarities with the Resonance-Enhanced Two Photon-Ionisation (RETPI) spectral features observed in the circum-stellar Weigelt blobs of Eta~Carinae are observed.
+
+- [Astraeus I: The interplay between galaxy formation and reionization](https://arxiv.org/abs/2004.08401)
