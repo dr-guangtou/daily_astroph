@@ -719,3 +719,68 @@ populations are the dominant heating agent in the central regions and they contr
 - [Quantifying the effects of spatial resolution and noise on galaxy metallicity gradients](https://arxiv.org/abs/2004.09482)
   - 用高分辨模拟仿真IFU观测，看能否重现正确的金属丰度梯度：Given appropriate propagation of uncertainties and pruning of low SNR pixels, we show that a resolution of 3-4 telescope beams per galaxy scale length is sufficient to recover the gradient to ~10-20% uncertainty.
   - The uncertainty escalates to ~60% for lower resolution. Inclusion of the low SNR pixels causes the uncertainty in the inferred gradient to deteriorate.
+
+----
+
+### Apr 21
+
+- [The Effective Halo Model: Creating a Physical and Accurate Model of the Matter Power Spectrum and Cluster Counts](https://arxiv.org/abs/2004.09515)
+  - **Important**
+  - A physically-motivated model of the matter power spectrum, based on the halo model and perturbation theory
+  - Our key ansatz is that the number density of halos depends on the non-linear density contrast filtered on some unknown scale R.
+  - Due to its physical motivation, the statistics can be easily extended beyond the power spectrum; we additionally derive the one-loop covariance matrices of cluster counts and their combination with the matter power spectrum. 
+
+- [Propagating sample variance uncertainties in redshift calibration: simulations, theory and application to the COSMOS2015 data](https://arxiv.org/abs/2004.09542)
+  - **SSST**
+  - 光谱红移校验样本主要受到校验样本自身红移的不确定性引入的shot noise，或者Poisson sampling noise的影响；但更主要的还受到对LSS小范围采样带来的sample variance的影响
+  - We study the effects of sample variance on small-area redshift surveys, from theory to simulations to the COSMOS2015 data set.
+  - We present a three-step Dirichlet method of resampling a given survey-based redshift calibration distribution to enable the propagation of both shot noise and sample variance uncertainties
+
+- [The Ultraluminous Lyman Alpha Luminosity Function at z=6.6](https://arxiv.org/abs/2004.09510)
+  - We define ultraluminous LAEs (ULLAEs) as galaxies with logL(Lyα) > 43.5 erg s−1
+  - HSC NEP数据里挑选的；In constructing the ULLAE LF at z = 6.6, we combine our 9 NEP ULLAEs with two previously discovered and confirmed ULLAEs in the COSMOS field: CR7 and COLA1.
+
+- [Detecting the Cosmic Web: Lyα Emission from Simulated Filaments at z=3](https://arxiv.org/abs/2004.09518)
+  - We use hydrodynamical cosmological simulations run with the AREPO code to investigate the potential detectability of large-scale filaments, excluding contributions from the halos embedded in them
+  - For a MUSE integration of 31 hours, including feedback increases the detectable area by a factor of ≃5.5 on average compared with simulations without feedback
+  - Finally, we find the majority of Lyα emission is due to electron impact collisional excitations, as opposed to radiative recombination.
+
+- [Warm dust in high-z galaxies: origin and implications](https://arxiv.org/abs/2004.09528)
+  - ALMA观测到了z>6的尘埃，但是尘埃温度不确定：we show that dust in high-z, star-forming giant molecular clouds (GMC), largely dominating the observed far-infrared luminosity, is warmer (Td>60 K) than locally.
+  - 因为高红移GMC结构更compact，气体压力和湍动都更大；The compactness also delays GMC dispersal by stellar feedback, thus ∼40% of the total UV radiation emitted by newly born stars remains obscured.
+  - 更高的尘埃温度有助于缓解IRX-beta关系在低红移和高红移的tension
+
+- [EDGE: From quiescent to gas-rich to star-forming low-mass dwarf galaxies](https://arxiv.org/abs/2004.09530)
+  - Cosmological high-resolution (3pc) hydrodynamical simulation模拟10^5-6 Msun星系
+  - Cosmic reionization quenches star formation in all our simulated dwarfs, but three galaxies with final dynamical masses of 3×10^9M⊙ are subsequently able to replenish their interstellar medium by slowly accreting gas. 有些像Leo T
+  - 改变动力学质量一点 (~0.2dex)就可能导致星系可以克服恒星反馈带来的quenching作用
+
+- [VV 655 and NGC 4418: Implications of an interaction for the evolution of a LIRG](https://arxiv.org/abs/2004.09534)
+  - NGC4418 Lenticular LIRG, 中心分子气体密度很高，有bi-polar outflow；VV655是4418的周围的dIrr星系
+  - The gas-phase metallicity in NGC 4418 significantly exceeds that in VV 655. No kinematic disturbances in the ionized gas are observed along the minor axis of NGC 4418.
+  - The simplest model suggests that the minor interaction between VV 655 and NGC 4418 produced the unusual nuclear properties of the LIRG via tidal torquing of the interstellar medium of NGC 4418 rather than through a significant gas transfer event. In addition to inducing a central concentration of gas in NGC 4418, this interaction also produced an enhanced star formation rate and an outer tidal arm in the LIRG.
+
+- [NIHAO XXIV: Rotation or pressure supported systems? Simulated Ultra Diffuse Galaxies show a broad distribution in their stellar kinematics](https://arxiv.org/abs/2004.09535)
+  - **Relevant**
+  - We construct projected line-of-sight velocity and velocity dispersion maps to compute the projected specific angular momentum, λR
+  - We found that UDGs cover a broad distribution, ranging from dispersion to rotation supported galaxies, with similar abundances in both regimes.
+  - 主要是HI气体比例更多和size更大的UDG更倾向是rotational support的；主要是和气体吸积的方向有关：pressure supported isolated UDGs form via mis-aligned gas accretion while rotation supported ones build-up their baryons in an ordered manner.
+
+- [Gemini Near-Infrared Field Spectrograph Observations of the Seyfert 2 Galaxy Mrk 3: Feeding and Feedback on Galactic and Nuclear Scales](https://arxiv.org/abs/2004.09648)
+  - The disk is fed by an H~I tidal stream from a gas-rich spiral galaxy (UGC~3422) ∼100 kpc to the NW of Mrk 3, and is ionized by the AGN to a distance of at least 5.4 kpc.
+  - There is a disk of ionized and warm molecular gas within ∼400 pc of the SMBH that has re-oriented close to the stellar major axis but is counter-rotating, consistent with claims of external fueling of AGN in S0 galaxies.
+
+- [The assembly history of the nearest S0 galaxy NGC 3115 from its kinematics out to six half-light radii](https://arxiv.org/abs/2004.09818)
+  - **Relevant, Interesting**
+  - Stellar+GC+PNe: We find evidence of three kinematic regions with an inner transition at ∼0.2 Re from a dispersion-dominated bulge (Vrot/σ<1) to a fast-rotating disk (Vrot/σ>1), and then an additional transition from the disk to a slowly rotating spheroid at ∼2−2.5Re, as traced by the red GCs and PNe (and possibly by the blue GCs beyond ∼5Re).
+  - At a later stage, dwarf galaxies, in mini mergers (mass-ratio < 1:10), were accreted building-up the outer slowly rotating spheroid, with the central disk kinematics largely unaltered.
+  - 发现有一部分UCD follow GC rotation pattern，可能是in-situ的；有一部分不是，可能是ex-situ的
+
+- [Sub-galactic scaling relations between X-ray luminosity, star-formation rate, and stellar mass](https://arxiv.org/abs/2004.09873)
+  - 在sub-galactic尺度看HMXB的L_X和星系SFR的相关：spanning ∼7 dex in SFR and ∼8 dex in specific SFR (sSFR)
+  - There is good agreement with established relations down to SFR≃10^−3M⊙yr−1, below which an excess of X-ray luminosity emerges. 超出的部分可能来自LMXB
+  - Different star formation indicators scale with LX in different ways, and we attribute the differences to the effect of star formation history.
+  - The SFR derived from Hα shows the tightest correlation with X-ray luminosity because Hα emission probes stellar populations with ages similar to HMXB formation timescales
+
+- [Spectroscopy of the first resolved strongly lensed Type Ia supernova iPTF16geu](https://arxiv.org/abs/2004.10164)
+  - We detect strong Na ID absorption in the host galaxy, indicating that iPTF16geu belongs to a subclass of SNe Ia displaying "anomalously" large Na ID column densities in comparison to the amount of dust extinction derived from their light curves
