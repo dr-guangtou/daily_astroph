@@ -784,3 +784,44 @@ populations are the dominant heating agent in the central regions and they contr
 
 - [Spectroscopy of the first resolved strongly lensed Type Ia supernova iPTF16geu](https://arxiv.org/abs/2004.10164)
   - We detect strong Na ID absorption in the host galaxy, indicating that iPTF16geu belongs to a subclass of SNe Ia displaying "anomalously" large Na ID column densities in comparison to the amount of dust extinction derived from their light curves
+
+----
+
+### Apr 22
+
+- [It's Dust: Solving the Mysteries of the Intrinsic Scatter and Host-Galaxy Dependence of Standardized Type Ia Supernova Brightnesses](https://arxiv.org/abs/2004.10206)
+  - **Important**
+  - SN Ia intrinsic scatter的大部分可以被尘埃消光所解释：We introduce a physical model of color where intrinsic SN Ia colors with a relatively weak correlation with luminosity are combined with extrinsic dust-like colors (E(B−V)) with a wide range of extinction parameter values (RV). 
+  - We also find that the recovered E(B−V) and RV distributions differ based on global host-galaxy stellar mass and this explains the observed correlation (γ) between mass and Hubble residuals seen in past analyses
+  - Finally we measure biases in the equation-of-state of dark energy (w) up to |Δw|=0.04 by replacing previous models of SN color with our dust-based model; this bias is larger than any systematic uncertainty in previous SN Ia cosmological analyses.
+
+- [Towards Universal Cosmological Emulators with Generative Adversarial Networks](https://arxiv.org/abs/2004.10223)
+  - We train a GAN to produce both weak lensing convergence maps and dark matter overdensity field data for multiple redshifts, cosmological parameters and modified gravity models.
+
+- [X-ray absorption and 9.7 um silicate feature as a probe of AGN torus structure](https://arxiv.org/abs/2004.10372)
+  - 175个有Spitzer IRS和X-ray数据的BASS AGN；the silicate strength is weakly correlated with the hydrogen column density
+  - We find that the optical type 1 AGNs with strong X-ray absorption on average show significant silicate absorption, indicating that their X-ray absorption might not be caused by dust-free gas in the broad-line region.
+
+- [COLDz: A High Space Density of Massive Dusty Starburst Galaxies ~1 Billion Years after the Big Bang](https://arxiv.org/abs/2004.10204)
+  - JVLA在z>5的大质量富尘埃星暴星系中探测到了CO(2-1)；全部都是optical dark的源
+  - Our results appear to imply a ∼6-55 times higher space density of such distant dusty systems within the first billion years after the Big Bang than previously thought
+  - At least two of these z>5 galaxies show star-formation rate surface densities consistent with so-called "maximum" starbursts, but we find significant differences in CO excitation between them.
+  - We thus find substantial variations in the conditions for star formation between z>5 dusty starbursts, which typically have dust temperatures ∼57%±25% warmer than starbursts at z=2-3
+
+- [Measuring Star Formation Histories, Distances, and Metallicities with Pixel Color-Magnitude Diagrams II: Applications to Nearby Elliptical Galaxies](https://arxiv.org/abs/2004.10213)
+  - **Relevant**
+  - We compute pCMDs from archival HST photometry of M87, M49, NGC 3377 and M31, and fit the data using the new code 𝙿𝙲𝙼𝙳𝙿𝚢. We measure distances to each system that are accurate to ∼10%. The recovered non-parametric SFHs place reasonable (±1 dex) constraints on the recent (< 2 Gyr) star formation in M31 and NGC 3377
+
+- [Size distribution of superbubbles](https://arxiv.org/abs/2004.10214)
+  - 之前的假设：bubbles stall when pressure equilibrium is reached 在现在的数值模拟看来并不成立
+  - 需要考虑环境ISM的非热压力：Assuming that bubbles stall when the outer shock speed becomes comparable to the ambient sound speed (which includes non-thermal components), we recover the size distribution with a slope of ∼−2.7 for typical values of ISM pressure in Milky Way
+  - We show that the size distribution steepens with lower pressure, to slopes intermediate between only-growing and only-stalled cases.
+
+- [The Star Formation in Radio Survey: 3 - 33 GHz Imaging of Nearby Galaxy Nuclei and Extranuclear Star-forming Regions](https://arxiv.org/abs/2004.10230)
+  - JVLA在3, 15, 33GHZ上观测近邻的星系核和SF区，观测了335个独立的区域：After removing 14 likely background galaxies, we find that the median thermal fraction at 33 GHz is 92±0.8% with a median absolute deviation of 11%, when a two-component power-law model is adopted to fit the radio spectrum.
+  - 正常恒星形成星系中的SF区一直到500pc的尺度上，射电辐射都是由free-free辐射主导的，比例>90%
+  - We additionally find a factor of ∼1.6 increase in the scatter of the measured spectral index and thermal fraction distributions as a function of decreasing galactocentric radius.
+
+- [Dust Reverberation of 3C273: torus structure and lag -- luminosity relation](https://arxiv.org/abs/2004.10244)
+  - Cross correlations between the V-band and the dust light curves yield an average rest-frame delay for the hot dust of tau_cent ~ 410 days. This is a factor 2 shorter than expected from the the dust ring radius R_x ~ 900 light days
+  - The dust covering factor (CF) is about 8%, much smaller than predicted from the half covering angle of 45 degree found for active galactic nuclei (AGN).
