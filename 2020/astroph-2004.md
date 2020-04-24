@@ -728,7 +728,7 @@ populations are the dominant heating agent in the central regions and they contr
   - **Important**
   - A physically-motivated model of the matter power spectrum, based on the halo model and perturbation theory
   - Our key ansatz is that the number density of halos depends on the non-linear density contrast filtered on some unknown scale R.
-  - Due to its physical motivation, the statistics can be easily extended beyond the power spectrum; we additionally derive the one-loop covariance matrices of cluster counts and their combination with the matter power spectrum. 
+  - Due to its physical motivation, the statistics can be easily extended beyond the power spectrum; we additionally derive the one-loop covariance matrices of cluster counts and their combination with the matter power spectrum.
 
 - [Propagating sample variance uncertainties in redshift calibration: simulations, theory and application to the COSMOS2015 data](https://arxiv.org/abs/2004.09542)
   - **SSST**
@@ -791,7 +791,7 @@ populations are the dominant heating agent in the central regions and they contr
 
 - [It's Dust: Solving the Mysteries of the Intrinsic Scatter and Host-Galaxy Dependence of Standardized Type Ia Supernova Brightnesses](https://arxiv.org/abs/2004.10206)
   - **Important**
-  - SN Ia intrinsic scatter的大部分可以被尘埃消光所解释：We introduce a physical model of color where intrinsic SN Ia colors with a relatively weak correlation with luminosity are combined with extrinsic dust-like colors (E(B−V)) with a wide range of extinction parameter values (RV). 
+  - SN Ia intrinsic scatter的大部分可以被尘埃消光所解释：We introduce a physical model of color where intrinsic SN Ia colors with a relatively weak correlation with luminosity are combined with extrinsic dust-like colors (E(B−V)) with a wide range of extinction parameter values (RV).
   - We also find that the recovered E(B−V) and RV distributions differ based on global host-galaxy stellar mass and this explains the observed correlation (γ) between mass and Hubble residuals seen in past analyses
   - Finally we measure biases in the equation-of-state of dark energy (w) up to |Δw|=0.04 by replacing previous models of SN color with our dust-based model; this bias is larger than any systematic uncertainty in previous SN Ia cosmological analyses.
 
@@ -825,3 +825,98 @@ populations are the dominant heating agent in the central regions and they contr
 - [Dust Reverberation of 3C273: torus structure and lag -- luminosity relation](https://arxiv.org/abs/2004.10244)
   - Cross correlations between the V-band and the dust light curves yield an average rest-frame delay for the hot dust of tau_cent ~ 410 days. This is a factor 2 shorter than expected from the the dust ring radius R_x ~ 900 light days
   - The dust covering factor (CF) is about 8%, much smaller than predicted from the half covering angle of 45 degree found for active galactic nuclei (AGN).
+
+----
+
+### Apr 22
+
+- [Reconstruction of Reionization History through Dispersion Measure of Fast Radio Bursts](https://arxiv.org/abs/2004.11276)
+  - Here we turn to consider the large-scale clustering information of observed DM of FRB catalog, which only needs the rough redshift distribution
+  - 10^4  FRBs with the intrinsic DM scatter of 100 pc/cm3 spanning 20\% of all sky, could significantly improve the constraint on the width Δz of the model,
+  - The large-scale clustering information of observed DM of FRB catalog is very sensitive to the ionization fraction of the end of reionization epoch.
+
+- [BIRTH of the COSMOS Field: Primordial and Evolved Density Reconstructions During Cosmic High Noon](https://arxiv.org/abs/2004.11027)
+  - 研究COSMOS场中的1.4< z < 3.6的结构形成：We apply the extended COSMIC BIRTH algorithm to account for a multi-tracer and multi-survey Bayesian analysis at Lagrangian initial cosmic times. 从多个红移巡天来infer原初密度场
+  - The inferred distant dark matter density fields concurrently with other probes like tomographic reconstructions of the intergalactic medium will explore the interplay of gas and dark matter and are ideally suited to study structure formation at high redshifts in the light of upcoming deep surveys.
+
+- [Discovering the most elusive radio relic in the sky: Diffuse Shock Acceleration caught in the act?](https://arxiv.org/abs/2004.10752)
+  - We present the discovery of a new giant radio relic around the galaxy cluster Abell 2249 (z=0.0838) using LOFAR 是发现的里面面亮度最低的
+  - 多波段射电观测：We infer for this radio relic a lower bound on the magnetisation of B≥0.4μG, a shock Mach number of M≈3.79, and a low acceleration efficiency consistent with DSA. 以后可能发现更多这类的
+
+- [Looking at Blazar Light Curve Periodicities with Gaussian Processes](https://arxiv.org/abs/2004.10763)
+  - We infer the significance of the periods proposed in the literature for two well known blazars with multiple claims of possible year-long periodicity: PG1553+113 and PKS2155-304 模型中加入周期的确能改进拟合
+
+- [The multiwavelength counterparts of fast radio bursts](https://arxiv.org/abs/2004.10787)
+  - We demonstrate a technique to estimate the ratio, η, between the energy outputs of FRB counterparts at various wavelengths and the radio-wavelength emission.
+  - In some scenarios for the FRB engine and emission mechanism, we find that FRB counterparts should have already been detected, thus demonstrating that our technique can successfully test predictions for η.
+
+- [The multiwavelength counterparts of fast radio bursts](https://arxiv.org/abs/2004.10787)
+  - We present a Bayesian method for the detection of quasar periodicity in the presence of red noise
+  - 用PG1302-102测试：there is very strong support-with a Bayes factor greater than 105-for periodicity, despite the fact that the inclusion of ASAS-SN data reduces the detection significance
+
+- [The GOGREEN Survey: A deep stellar mass function of cluster galaxies at 1.0<z<1.4 and the complex nature of satellite quenching](https://arxiv.org/abs/2004.10757)
+  - **Relevant**
+  - The quenched fraction excess (QFE) represents the fraction of galaxies that would be star-forming in the field, but are quenched due to their environment. The QFE is strongly mass dependent, and increases from ~30% at Mstar=10^9.7 Msun, to ~80% at Mstar=10^11.0 Msun.
+  - 但cluster和field里的SF和Quiescent星系的SMF的shape是一致的；Yet, along with the different quiescent fractions is the total galaxy SMF environmentally dependent, with a relative deficit of low-mass galaxies in the clusters.; 这和local universe是不一样的
+
+- [The ALPINE-ALMA [CII] Survey: Dust Attenuation Properties and Obscured Star-Formation at z~4.4-5.8](https://arxiv.org/abs/2004.10760)
+  - The individual detections and stacks show that the IRX-β relation at z~5 is consistent with a steeper dust attenuation curve than typically found at lower redshifts (z<4).
+  - The attenuation curve is similar to or even steeper than that of the extinction curve of the Small Magellanic Cloud (SMC).
+  - 尘埃性质在z>4有演化；This implies a lower obscured fraction of star-formation than at lower redshifts.
+  - 尘埃在大质量星系中build-up很快：even among this UV-selected sample, massive galaxies (logM⋆/M⊙>10) at z~5-6 already exhibit an obscured fraction of star formation of ∼45%
+
+- [CHAOS V: Recombination Line Carbon Abundances in M101](https://arxiv.org/abs/2004.10765)
+  - **Interesting**
+  - We present CHAOS LBT observations of C II λ4267 emission detected in 10 H II regions in M 101 结合电离模型改正，测量总的C丰度
+  - We measure a relatively steep gradient in log(C/H) of -0.37 +/- 0.06 dex/R_e
+  - C/N基本恒定且弥散很小；考虑到各种可以产生C和N的核合成渠道，这个比较难理解
+  - If the high surface brightness necessary for the detection of the faint recombination lines is interpreted as an indicator of H II region youth, then this may point to a lack of nitrogen pollution in the youngest H II regions.
+  - 光学波段没有够强的碰撞电离的C线，HII区里测C丰度比较难: CIII] at λλ1907, 1909; C II recombination line at λ4267
+    - C丰度在低金属丰度端来自大质量恒星，与O/H关系一致；在高金属丰度端，随丰度升高；可能是高金属丰度导致的星风增强的影响，或者是中等质量恒星的yield随丰度变化的影响；N/O有类似的趋势，C/N基本变化不大，但原因不同；N/O随丰度增加是CNO循环的直接后果
+    - Absolute ionic abundances from recombination lines should be very robust because of the negligible dependence on temperature when converting from line flux ratios to abundances.
+    - 但当必须和碰撞电离的发射线比较的时候，就需要考虑 abundance discrepancy factor的影响；碰撞电离线的相对强度对温度高度敏感，所以ADF反应了HII区内的温度起伏。
+
+- [The ALPINE-ALMA [CII] survey: Molecular gas budget in the Early Universe as traced by [CII]](https://arxiv.org/abs/2004.10771)
+  - The agreement between molecular gas masses derived from [CII] luminosity, dynamical mass, and rest-frame 850um luminosity, extrapolated from the rest-frame 158um continuum, supports [CII] as a reliable tracer of molecular gas in our sample.
+  - Our estimates show that the rise in molecular gas fraction as reported previously, flattens off above z~3.7 to achieve a mean value of 63%+/-3 over z=4.4-5.9.
+
+- [A dark matter profile to model diverse feedback-induced core sizes of ΛCDM haloes](https://arxiv.org/abs/2004.10817)
+  - 54个FIRE-2模拟；恒星质量从10^4.5-10^11 Msun；密度轮廓有cusp有core
+  - core-Einasto profile: to allow for a pronounced constant-density core in the resolved innermost radius.
+  - We find that dark matter core formation is most efficient at the characteristic stellar-mass to halo-mass ratio M⋆/Mhalo≃5×10^−3, or M⋆∼10^9M⊙, with cores that are roughly the size of the galaxy half-light radius
+  - Even at the Milky Way scale, FIRE-2 galaxy formation still produces small dark matter cores of ≃0.5−2 kpc in size.
+
+- [Ultra Diffuse Galaxies in the IC1459 Group from the VEGAS Survey](https://arxiv.org/abs/2004.10855)
+  - **Relevant**
+  - VEGAS gri图像：we identify 9 galaxies with physical sizes and surface brightnesses that match the UDG criteria
+  - They have mean colours of g--i = 0.6 and stellar masses of ∼10^8 M⊙. 有些可能有GC
+  - Two UDGs contain a central bright nucleus, with a third UDG revealing a remarkable double nucleus
+
+- [A Significantly Neutral Intergalactic Medium Around the Luminous z=7 Quasar J0252-0503](https://arxiv.org/abs/2004.10877)
+  - **Interesting**
+  - We present new high quality optical and near-infrared spectroscopy of the z=7.00 quasar DES J025216.64--050331.8 obtained with Keck/NIRES and Gemini/GMOS
+  - Furthermore, the Lyα region of the spectrum exhibits a strong damping wing absorption feature. The lack of associated metal absorption in the quasar spectrum indicates that this absorption is imprinted by a neutral IGM. 中性气体比例>70%，是目前在EoR阶段测到的最高的
+
+- [Astraeus II: Quantifying the impact of cosmic variance during the Epoch of Reionization](https://arxiv.org/abs/2004.11096)
+  - We find that different reionization scenarios play a minor role in the cosmic variance.
+  - Most of the cosmic variance is completely driven by the underlying density field and increases above 100% for MUV∼ -17.5 (-20) at z = 12 (6) for the JADES-deep survey
+  - We find that the faint-end slope of the Lyman Break Galaxies (LBGs) UV LF becomes increasingly shallower with increasing reionization feedback and show how JWST observations will be able to distinguish between different models of reionization feedback at z > 9, even accounting for cosmic variance.
+
+- [Low-frequency observations of the Giant Radio Galaxy NGC 6251](https://arxiv.org/abs/2004.11104)
+  - Borderline FRI/FRII giant radio galaxy NGC 6251: revealing for the first time a low-surface-brightness extension to the northern lobe, and a possible backflow associated with the southern lobe.
+  - We find the outer structures of NGC 6251 to be either at equipartition or slightly electron dominated, similar to those of FRII sources rather than FRIs
+
+- [Differences and similarities of stellar populations in LAEs and LBGs at z∼ 3.4 - 6.8](https://arxiv.org/abs/2004.11175)
+  - This work focuses on the differences between the three different observational subfamilies of our sample: LAE-LBGs, no-Lyα LBGs and pure LAEs. 大部分都可以用单次星暴来拟合SED
+  - LAE更像是年轻低质量星系，正在经历第一次星暴；no-Lya LBGs年龄较老，质量较大
+  - LAE-LBG往往需要两个星族来描述；可能是重新开启了SF的"老年"星系
+  - The relative number of sources found from each subfamily at each z supports an evolutionary scenario from pure LAEs and single SP LAE-LBGs to more massive LBGs.
+
+- [Multi-wavelength observations of SDSS J105621.45+313822.1, a broad-line, low-metallicity AGN](https://arxiv.org/abs/2004.11295)
+  - J105621.45+313822.1, a low-mass, low-metallicity galaxy with optical narrow line ratios consistent with star forming galaxies but a broad Hα line and mid-infrared colors consistent with an AGN.
+  - We detect the [Si VI] 1.96μm coronal line and a broad Paα line with a FWHM of 850±25~km~s−1 确认有一个2x10^6 Msun的SMBH; a highly accreting AGN
+  - X-ray比预测低：AGN is highly obscured despite showing broad lines in the optical spectrum. 
+
+- [Optical spectral characterization of the the TeV extreme blazar 2WHSP J073326.7+515354](https://arxiv.org/abs/2004.11359)
+  - The extreme blazars (EHBLs), for which the bulk of the emission of the relativistic jets is emitted at higher energies, unveiling the optical emission from the host galaxy. 
+  - We find that the mass-weighted mean stellar age is 11.72±0.06Gyr and the mean metallicity [M/H]=0.159±0.016.
