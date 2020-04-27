@@ -920,3 +920,66 @@ populations are the dominant heating agent in the central regions and they contr
 - [Optical spectral characterization of the the TeV extreme blazar 2WHSP J073326.7+515354](https://arxiv.org/abs/2004.11359)
   - The extreme blazars (EHBLs), for which the bulk of the emission of the relativistic jets is emitted at higher energies, unveiling the optical emission from the host galaxy. 
   - We find that the mass-weighted mean stellar age is 11.72±0.06Gyr and the mean metallicity [M/H]=0.159±0.016.
+
+----
+
+### Apr 25
+
+- [Optimal void finders in weak lensing maps](https://arxiv.org/abs/2004.11387)
+  - We study how the properties of weak lensing voids depend on the choice of void finder, by adapting several popular void finders.
+  - By studying the signal-to-noise ratios (SNR) for the tangential shear profile of each void finder, we find that voids identified directly in the convergence maps have the highest SNR but are also the ones most affected by galaxy shape noise. 
+  - The tunnel algorithm, which identifies voids in the distribution of weak lensing peaks, represents a good compromise between finding a large tangential shear SNR and mitigating the effect of galaxy shape noise.
+
+- [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
+  - We discuss a new way of using time delays for cosmology, taking advantage of the extreme precision expected for lensed Fast Radio Bursts, short flashes of radio emission originating at cosmological distances.
+  - It turns out that uncertainties arising from the unknown mass distribution of gravitational lenses can be eliminated by combining time delays with their time derivatives. Other effects, most importantly relative proper motion, can be measured accurately and separated from the cosmological effects.
+
+- [State-of-the-art AGN SEDs for Photoionization Models: BLR Predictions Confront the Observations](https://arxiv.org/abs/2004.11873)
+  - AGN研究的很多问题是紫外段intrinsic SED的不确定：the spectral energy distribution (SED) between the Lyman limit, where intervening absorption becomes a problem, and 0.3 keV, where soft x-ray observations become possible
+  - 本文给出理论SED模型 as a function of Eddington ratio; 能量守恒，可以和观测比较
+  - The SEDs become more far-ultraviolet bright as the Eddington ratio increases, so the equivalent widths of recombination lines should also become larger
+  - The observed lack of correlation between Eddington ratio and equivalent width shows that the cloud covering factor must decrease as Eddington ratio increases.
+
+- [Timing the Early Assembly of the Milky Way with the H3 Survey](https://arxiv.org/abs/2004.11384)
+  - **Important**
+  - We use 11,000 main-sequence turn-off stars with well-measured ages, [Fe/H], [α/Fe], and orbits from the H3 Survey and Gaia to time the major events in the early Galaxy. 
+  - 在距离银盘1-4 kpc的位置上有三组恒星：
+    1. Low-Z group: accreted stellar halo, is on eccentric orbits and its star formation truncated 10.2 Gyr ago.
+    2. High-Z, high-alpha group: 包括了盘恒星和in-situ halo; has a star-formation history independent of eccentricity that abruptly truncated 8.3±0.1 Gyr ago
+    3. High-Z, low-alpha group: is primarily on low eccentricity orbits and the bulk of its stars formed less than 8 Gyr ago.
+  - MW在10Gyr以前吸积了一个satellite星系，并在8Gyr年前并合；并合活动终止了恒星形成活动，并扰动了一部分薄盘恒星进入halo-like orbits 
+  - The merger enabled the formation of a chemically distinct, low-α disk at z≲1
+
+- [Ultra-diffuse galaxies in the Coma cluster: Probing their origin and AGN occupation fraction](https://arxiv.org/abs/2004.11388)
+  - **Relevant**
+  - To constrain the formation scenario of UDGs, we probe the X-ray emission originating from diffuse gas and from the population of unresolved low-mass X-ray binaries (LMXBs) residing in globular clusters (GCs)
+  - We do not detect statistically significant emission from the hot gas or from GC-LMXBs. 上限估计限制UDG的halo质量都比较低
+  - We identify two UDGs that have a luminous X-ray source at 3.0" and 3.2" from the center of the galaxies, which could be off-center AGN. However, Monte Carlo simulations suggest that one of these sources could be the result of spatial coincidence with a background AGN.
+
+- [A missing outskirts problem? Comparisons between stellar halos in the Dragonfly Nearby Galaxies Survey and the TNG100 simulation](https://arxiv.org/abs/2004.11402)
+  - **Relevant**
+  - We measure azimuthally averaged stellar mass density and surface brightness profiles, and find that the DNGS galaxies generally have less stellar mass (or light) at large radii (>20 kpc) compared to their mass-matched TNG100 counterparts
+  - Simulated galaxies with similar surface density profiles tend to have low accreted mass fractions for their stellar mass.
+  - We find that artificially delaying the disruption of satellite galaxies and reducing the spatial extent of in-situ stellar populations result in improved matches between the outer profile shapes and stellar halo masses
+
+- [Cosmic evolution of molecular gas mass density from an empirical relation between L1.4GHz and L′CO](https://arxiv.org/abs/2004.11442)
+  - We find a correlation between the radio continuum and the CO emission line (with a scatter of 0.36 dex), in a large sample of different kind of galaxies.
+  - The cosmic molecular gas density increases up to z=1.5.
+  - L_CO, L_IR, L_1.4GHz form a plane
+
+- [Statistics and Properties of Emission-Line Regions in the Local Volume Dwarf Galaxies](https://arxiv.org/abs/2004.11550)
+  - The sample consists of three hundred galaxies of the irregular (Irr), Magellanic irregular (Im), blue compact dwarf (BCD), and transition (Tr) types situated within a distance of 11 Mpc.
+  - The larger luminosity of a galaxy, the greater number of compact HII-sources in it.
+  - SFR和星系中的HII区数目有相关，说明了SF的周期性
+  - The dwarf galaxies with emission-line bubbles, or filaments, or signs of the global star-formation burst have approximately the same hydrogen-mass-to-luminosity ratio as that of the whole sample objects. However, their mean star-formation rate is significantly higher than that of other galaxies
+
+- [Planes of satellites around simulated disc galaxies: I.- Finding high-quality planar configurations from positional information and their comparison to MW/M31 data](https://arxiv.org/abs/2004.11585)
+  - We extend the 4-galaxy-normal density plot method (Pawlowski et al. 2013) in a way designed to efficiently identify the best quality planes
+  - At all timesteps analyzed in both simulations we find satellite planar configurations that are compatible, along given time intervals, with all the spatial characteristics of observed planes identified using the same methodology. 但co-orbiting卫星的比例偏低
+
+- [Barred galaxies in the Illustris-1 and TNG100 simulations](https://arxiv.org/abs/2004.11620)
+  - **Interesting**
+  - At z=0, 8.9\% of 1232 disc galaxies with stellar mass >1010.5M⊙ in Illustris-1 are barred, while the numbers are 55\% of 1269 in TNG100. 在TNG里和S4G巡天相符合
+  - Median formation redshift = 0.4-0.5 in TNG
+  - Bar比例在TNG中随质量升高，随气体比例下降：Barred galaxy had higher gas fraction at high redshift tend to form bar later. When the bars were formed, the disc gas fractions were mostly lower than 0.4.
+  - Barred galaxies have higher star formation rate before bar formation, and stronger AGN feedback all the time than unbarred galaxies.
