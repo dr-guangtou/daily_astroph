@@ -1029,3 +1029,95 @@ populations are the dominant heating agent in the central regions and they contr
   - We present GPS1+ the extension GPS1 catalog down to r∼22.5mag, based on Gaia DR2, PS1, SDSS and 2MASS astrometry. The GPS1+ totally provides proper motions for ∼400 million sources with a characteristic systematic error of less than 0.1 masyr.
   - The primary ∼264 million sources have either or both of the Gaia and SDSS astrometry, with a typical precision of 2.0-5.0 masyr.
   - The secondary ∼136 million sources only have PS1 astrometry, the average precision is worse than 15.0 masyr.
+
+----
+
+### Apr 28
+
+- [Combined analysis of Planck and SPTPol data favors the early dark energy models](https://arxiv.org/abs/2004.13046)
+  - Predicts consistent lensing-induced smoothing of acoustic peaks within ΛCDM cosmology and yields the robust predictions of the cosmological parameters: S8值接近lensing constraint
+  - It also raises up the Hubble constant H0=69.7±1kms−1Mpc−1 that reduces the Hubble tension to the 2.5σ level.
+  - We found that EDE completely alleviates the Hubble tension and significantly improves the goodness-of-fit by 2.9σ in comparison with the concordance ΛCDM model.
+
+- [Does jackknife scale really matter for accurate large-scale structure covariances?](https://arxiv.org/abs/2004.13436)
+  - We find that it is useful to apply the tapering scheme to estimate the precision matrix from a limited number of jackknife resamplings. 
+  - The results from CMASS and mock catalogues show that the error estimate of the baryon acoustic scale does not depend on the jackknife scale.
+  - However, when relatively few resamplings are used, the jackknife error estimate becomes unreliable.
+
+- [The GLEAM 4-Jy (G4Jy) Sample: II. Host-galaxy identification for individual sources](https://arxiv.org/abs/2004.13025)
+  - MWA南天巡天：We refer to these 1,863 sources as the GLEAM 4-Jy (G4Jy) Sample, and use radio images (of ≤ 45-arcsec resolution), and multi-wavelength information, to assess their morphology and identify the galaxy that is hosting the radio emission
+  - Whilst the vast majority of the G4Jy Sample are active galactic nuclei with powerful radio-jets, we highlight that it also contains a nebula, two nearby, star-forming galaxies, a cluster relic, and a cluster halo.
+
+- [Evolution and Role of Mergers in the BCG-Cluster Alignment. A View from Cosmological Hydro-Simulations](https://arxiv.org/abs/2004.13038)
+  - **Relevant**
+  - At redshift z=0, the major axes of the simulated BCGs and their host cluster galaxy distributions are aligned on average within 20 degree.
+  - The BCG alignment with the DM halo is even tighter. The alignment persists up to z≲2 with no evident evolution. 
+  - 但投影效应使得alignment减弱；These results taken together might imply that the BCG-Cluster alignment occurs in an outside-in fashion. Depending on their frequency and geometry, mergers can promote, destroy or weaken the alignments.
+
+- [The stellar halos of ETGs in the IllustrisTNG simulations: the photometric and kinematic diversity of galaxies at large radii](https://arxiv.org/abs/2004.13042)
+  - **Relevant**
+  - We find that the simulated galaxy sample reproduces the diversity of kinematic properties observed in ETG halos.
+  - Simulated fast rotators (FRs) divide almost evenly in one third having flat lambda profiles and high halo rotational support, a third with gently decreasing profiles, and another third with low halo rotation. Slow rotators (SRs) tend to have increased rotation in the outskirts
+  - Rotational support and shape are deeply related: the kinematic transition to lower rotational support is accompanied by a change towards rounder intrinsic shape.
+
+- [The Most Predictive Physical Properties for Stellar Population Radial Profiles of Nearby Galaxies](https://arxiv.org/abs/2004.13044)
+  - 利用MaNGA数据：We find that M⋆ is the single most predictive physical property for ∇D4000 and ∇[Z/H]L.
+  - 环境参数，central v.s. sat对星族参数梯度影响不大：∇ D4000 of star-forming satellite galaxies with M⋆≲10^10M⊙ exhibit a significant positive correlation with galaxy overdensities
+  - Galaxies with lower sSFR have on average steeper negative stellar population gradients, and this sSFR dependence is stronger for more massive star-forming galaxies.
+
+- [X-ray Binary Luminosity Function Scaling Relations in Elliptical Galaxies: Evidence for Globular Cluster Seeding of Low-Mass X-ray Binaries in Galactic Fields](https://arxiv.org/abs/2004.13045)
+  - **Relevant**
+  - D<25 Mpc的24个有GC研究的ETG的LMXB XLF研究；We find that our field LMXB XLF models require a component that scales with SN, and has a shape consistent with that found for the GC LMXB XLF. 言下之意是很多LMXB来自GC 
+  - We also find that an important LMXB XLF component is required for all galaxies that scales with stellar mass, implying that a substantial population of LMXBs are formed "in situ," which dominates the LMXB population emission for galaxies with SN < 2.
+
+- [HOLISMOKES -- II. Identifying galaxy-scale strong gravitational lenses in Pan-STARRS using convolutional neural networks](https://arxiv.org/abs/2004.13048)
+  - Pan-STARRS 3Pi巡天中找SL：Extensive tests show that CNN performances rely heavily on the design of lens simulations and choice of negative examples for training, but little on the network architecture.
+
+- [Molecular scale height in spiral galaxies](https://arxiv.org/abs/2004.13053)
+  - We find that the scale heights follow a universal exponential law with a scale length of 0.46±0.01 r25. The molecular scale heights in our sample galaxies are found to vary between 50-200 pc depending on the galaxy and radius.
+
+- [Measuring the properties of reionised bubbles with resolved Lyman alpha spectra](https://arxiv.org/abs/2004.13065)
+  - We demonstrate that spectrally resolved z≳6 Lyman-alpha (Lyα) emission can constrain properties of reionised regions. Specifically, the distant from a source to a neutral region sets the minimum observable Lyα velocity offset from systemic.
+  - 在Lya蓝端探测到流量意味着电离源处于一个已经电离程度比较高的区域，对bubble的size和中性比例都有限制。
+  - This optically thin region is typically ≲0.3 pMpc in radius
+  - We demonstrate the z≈6.6 galaxy COLA1 - with a blue Lyα peak - likely resides in an ionised region >0.7 pMpc, with residual neutral fraction < 10^-5.5.
+
+- [MOSEL: Strong [OIII]5007 Å Emitting Galaxies at (3<z<4) from the ZFOURGE Survey](https://arxiv.org/abs/2004.13079)
+  - Hb+[OIII] EW>230 AA的星系，用Keck/MOSFIRE观测; 大多是低质量SF星系, 10^8.2-9.6 Msun之间
+  - The Strong ELGs lie ~0.9 dex above the star-forming main-sequence at z~3.5 and have high inferred gas fractions of fgas~>60%
+  - Strong [OIII]5007A emission signals an early episode of intense stellar growth in low mass (Mstar<0.1M*) galaxies
+
+- [The GLEAM 4-Jy (G4Jy) Sample: I. Definition and the catalogue](https://arxiv.org/abs/2004.13125)
+  - **Taotie**
+  - 72-231 MHz: This is a complete sample of the 'brightest' radio-sources (S151MHz> 4 Jy), the majority of which are active galactic nuclei with powerful radio-jets.
+  - 高频巡天选源受到Doppler boosting的影响，低频样本没有orientation bias
+  - This results in a catalogue of 1,863 sources, making the G4Jy Sample over 10 times larger than that of the revised Third Cambridge Catalogue of Radio Sources (3CRR)
+  - https://github.com/svw26/G4Jy
+  - https://github.com/PaulHancock/Aegean
+
+- [A Quasar Microlensing Light Curve Generator for LSST](https://arxiv.org/abs/2004.13189)
+  - **Taotie**
+  - We present a tool to generate mock quasar microlensing light curves and sample them according to any observing strategy.
+  - We conclude that depending on the location on the sky, the lens and source redshift, and the caustic network density, the microlensing variability may deviate significantly than the expected ∼20-year average time scale
+  - http://gerlumph.swin.edu.au/tools/lsst_generator/
+
+- [A New Radio Catalogue for M83: Supernova Remnants and H II Regions](https://arxiv.org/abs/2004.13200)
+  - ATCA 5.5 & 9 GHz观测，找到270个射电源：The SNRs in M83 are systematically smaller in diameter and brighter than those that have been detected at radio wavelengths in M33.
+
+- [A Sample of Edge-on HI-rich low-surface-brightness Galaxy Candidates in the 40% ALFALFA Catalog](https://arxiv.org/abs/2004.13426)
+  - We present a catalog of 281 edge-on LSBG candidates, which are selected from the cross-match between SDSS DR7 and the 40% ALFALFA catalog.
+  - Our result suggests that the correction of inclination effects is very important for obtaining a complete sample of LSBGs.
+
+- [SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES) IV: Spatial clustering and halo masses of 450-μm-selected sub-millimeter galaxies](https://arxiv.org/abs/2004.13616)
+  - We select a robust (signal-to-noise ratio ⩾4) and flux-limited (⩾4\,mJy) sample of 164 450-μm-selected sub-millimeter galaxies (SMGs) that have K-band counterparts
+  - We develop a machine-learning classifier using K-band magnitude and color-color pairs based on the thirteen-band photometry available in this field
+  - We apply the trained machine-learning classifier to the wider COSMOS field (1.6 deg2) using the same COSMOS2015 catalog and identify a sample of 6182 450-μm SMG candidates with similar colors.
+  - We find that the 450-μm SMG candidates reside in halos with masses of ≃(2.0±0.5)×10^13h−1M⊙ across this redshift range.
+
+- [Simulations of gas sloshing induced by a newly discovered gas poor substructure in galaxy cluster Abell 1644](https://arxiv.org/abs/2004.13660)
+  - At this instant A1644N2 is gas poor, becoming nearly undetectable in X-ray emission.
+  - We find that the more likely scenario is a collision between A1644S and the newly discovered A1644N2, where A1644N1 may be present as long as it does not greatly interfere in the formation of the spiral feature.
+
+- [Revising the merger scenario of the galaxy cluster Abell 1644: a new gas poor structure discovered by weak gravitational lensing](https://arxiv.org/abs/2004.13662)
+  - The lensing and galaxy density maps showed a structure in the North that could not be seen on the X-ray images. We, therefore, rename the previously known northern halo as A1644N1 and the new one as A1644N2.
+  - We propose a scenario where the remarkable X-ray characteristics in the system are the result of a collision between A1644S and A1644N2 that happened ∼1.6 Gyr ago.
