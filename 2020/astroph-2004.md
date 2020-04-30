@@ -1121,3 +1121,27 @@ populations are the dominant heating agent in the central regions and they contr
 - [Revising the merger scenario of the galaxy cluster Abell 1644: a new gas poor structure discovered by weak gravitational lensing](https://arxiv.org/abs/2004.13662)
   - The lensing and galaxy density maps showed a structure in the North that could not be seen on the X-ray images. We, therefore, rename the previously known northern halo as A1644N1 and the new one as A1644N2.
   - We propose a scenario where the remarkable X-ray characteristics in the system are the result of a collision between A1644S and A1644N2 that happened ∼1.6 Gyr ago.
+
+----
+
+### Apr 29
+
+- [Concentrations of Dark Haloes Emerge from Their Merger Histories](https://arxiv.org/abs/2004.13732)
+  - **Relevant**
+  - Dark Sky, a suite of cosmological N-body simulations
+  - We show that the evolution of halo concentration has two primary modes: (1) smooth increase due to pseudo-evolution; and (2) intense responses to physical merger events
+  - We argue that merger events are a major contributor to the uncertainty in halo concentration at fixed halo mass and formation time. 即便是minor merger，也可能会引起对pseudo-evolution的偏离
+  - Hence, caution should be taken when using present-day halo concentration parameter as a proxy for the halo assembly history, especially if the recent merger history is unknown.
+
+- [The ALPINE-ALMA [CII] Survey: CGM pollution and gas mixing by tidal stripping in a merging system at z~4.57](https://arxiv.org/abs/2004.13737)
+  - We find that the system is composed of two massive (Mstar >~ 10^10 Msun) star-forming galaxies experiencing a major merger (stellar mass ratio r_mass ~ 0.9)
+  - ALMA reveals also the presence of [CII] emission arising from a circumgalactic gas structure, extending out to ~30 kpc. Our morpho-spectral decomposition analysis shows that about 50% of the total flux resides between the individual galaxy components, in a metal-enriched gaseous envelope characterized by a disturbed morphology and complex kinematics.
+  - Our findings suggest that mergers could be an efficient mechanism of gas mixing in the circumgalactic medium around high-z galaxies, and thus play a key role in the galaxy baryon cycle at early epochs.
+
+- [The bivariate gas-stellar mass distributions and the mass functions of early- and late-type galaxies at z∼0](https://arxiv.org/abs/2004.13740)
+  - **Useful**
+  - We report the bivariate HI- and H2-stellar mass distributions of local galaxies in addition of an inventory of galaxy mass functions, MFs, for HI, H2, cold gas, and baryonic mass, separately into early- and late-type galaxies.
+  - The MFs are determined using the HI and H2 conditional distributionsand the galaxy stellar mass function, GSMF.
+  - The obtained HI MFs agree with radio blind surveys. Similarly, the H2 MFs are consistent with CO follow-up optically-selected samples.
+  - Baryons locked inside galaxies represent 5.4% of the universal baryon content, while ∼96% of the HI and H2 mass inside galaxies reside in late-type morphologies.
+  - Our results imply cosmic depletion times of H2 and total neutral H in late-type galaxies of ∼1.3 and 7.2 Gyr
