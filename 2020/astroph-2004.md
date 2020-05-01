@@ -1040,7 +1040,7 @@ populations are the dominant heating agent in the central regions and they contr
   - We found that EDE completely alleviates the Hubble tension and significantly improves the goodness-of-fit by 2.9σ in comparison with the concordance ΛCDM model.
 
 - [Does jackknife scale really matter for accurate large-scale structure covariances?](https://arxiv.org/abs/2004.13436)
-  - We find that it is useful to apply the tapering scheme to estimate the precision matrix from a limited number of jackknife resamplings. 
+  - We find that it is useful to apply the tapering scheme to estimate the precision matrix from a limited number of jackknife resamplings.
   - The results from CMASS and mock catalogues show that the error estimate of the baryon acoustic scale does not depend on the jackknife scale.
   - However, when relatively few resamplings are used, the jackknife error estimate becomes unreliable.
 
@@ -1051,7 +1051,7 @@ populations are the dominant heating agent in the central regions and they contr
 - [Evolution and Role of Mergers in the BCG-Cluster Alignment. A View from Cosmological Hydro-Simulations](https://arxiv.org/abs/2004.13038)
   - **Relevant**
   - At redshift z=0, the major axes of the simulated BCGs and their host cluster galaxy distributions are aligned on average within 20 degree.
-  - The BCG alignment with the DM halo is even tighter. The alignment persists up to z≲2 with no evident evolution. 
+  - The BCG alignment with the DM halo is even tighter. The alignment persists up to z≲2 with no evident evolution.
   - 但投影效应使得alignment减弱；These results taken together might imply that the BCG-Cluster alignment occurs in an outside-in fashion. Depending on their frequency and geometry, mergers can promote, destroy or weaken the alignments.
 
 - [The stellar halos of ETGs in the IllustrisTNG simulations: the photometric and kinematic diversity of galaxies at large radii](https://arxiv.org/abs/2004.13042)
@@ -1067,7 +1067,7 @@ populations are the dominant heating agent in the central regions and they contr
 
 - [X-ray Binary Luminosity Function Scaling Relations in Elliptical Galaxies: Evidence for Globular Cluster Seeding of Low-Mass X-ray Binaries in Galactic Fields](https://arxiv.org/abs/2004.13045)
   - **Relevant**
-  - D<25 Mpc的24个有GC研究的ETG的LMXB XLF研究；We find that our field LMXB XLF models require a component that scales with SN, and has a shape consistent with that found for the GC LMXB XLF. 言下之意是很多LMXB来自GC 
+  - D<25 Mpc的24个有GC研究的ETG的LMXB XLF研究；We find that our field LMXB XLF models require a component that scales with SN, and has a shape consistent with that found for the GC LMXB XLF. 言下之意是很多LMXB来自GC
   - We also find that an important LMXB XLF component is required for all galaxies that scales with stellar mass, implying that a substantial population of LMXBs are formed "in situ," which dominates the LMXB population emission for galaxies with SN < 2.
 
 - [HOLISMOKES -- II. Identifying galaxy-scale strong gravitational lenses in Pan-STARRS using convolutional neural networks](https://arxiv.org/abs/2004.13048)
@@ -1145,3 +1145,40 @@ populations are the dominant heating agent in the central regions and they contr
   - The obtained HI MFs agree with radio blind surveys. Similarly, the H2 MFs are consistent with CO follow-up optically-selected samples.
   - Baryons locked inside galaxies represent 5.4% of the universal baryon content, while ∼96% of the HI and H2 mass inside galaxies reside in late-type morphologies.
   - Our results imply cosmic depletion times of H2 and total neutral H in late-type galaxies of ∼1.3 and 7.2 Gyr
+
+----
+
+### Apr 30
+
+- [CHANG-ES XXII: Coherent Magnetic Fields in the Halos of Spiral Galaxies](https://arxiv.org/abs/2004.14383)
+  - The magnetic field in spiral galaxies is known to have a large-scale spiral structure along the galactic disk and is observed as X-shaped in the halo of some galaxies.
+  - We detected a large-scale (coherent) halo field in all 16 galaxies that have extended polarized intensity in their halos
+
+- [Comparing galaxy formation in the L-GALAXIES semi-analytical model and the IllustrisTNG simulations](https://arxiv.org/abs/2004.14390)
+  - **Interesting**
+  - 在TNG tree上运行L-Galaxies做galaxy-to-galaxy的比较：We find that both the stellar mass functions and the stellar masses of individual galaxies agree to better than ∼0.2dex. On the other hand, specific star formation rates and gas contents can differ more substantially.
+  - TNG在高红移的quenched fraction更高 (Feedback更强？)；在z=0，SF和quiescent星系的质量差别在TNG中更低
+  - IllustrisTNG predicts lower baryon fractions in group environments
+  - The gas content and star formation rates of galaxies in and around clusters and groups differ substantially, with IllustrisTNG satellites less star-forming and less gas-rich
+
+- [Robust HI kinematics of gas-rich ultra-diffuse galaxies: hints of a weak-feedback formation scenario](https://arxiv.org/abs/2004.14392)
+  - **Relevant**
+  - We show that the HI in our UDGs is distributed in "thin" regularly rotating discs and we determine their rotation velocity and gas velocity dispersion
+  - 这些星系偏离BTFR：We find a previously unknown trend between the deviation from the BTFR and the disc scale length valid for dwarf galaxies with circular speeds < 45 km/s, with our UDGs being at the extreme end.
+  - We suggest that the high baryon fractions of our UDGs may originate due to the fact that they have experienced weak stellar feedback, likely due to their low star formation rate surface densities 
+  - We find indications that our UDGs may have higher-than-average stellar specific angular momentum, which can explain their large optical sizes.
+
+- [Figuring Out Gas & Galaxies In Enzo (FOGGIE). IV. The Stochasticity of Ram Pressure Stripping in Galactic Halos](https://arxiv.org/abs/2004.14394)
+  - The CGM of each halo spans a wide dynamic range in density and velocity over its volume---roughly 6 dex and 1000 km/s, respectively---translating into a 5 dex range in ram pressure imparted to interacting satellites.
+  - CGM中的RP分布非常随机，经常有kpc尺度的密度和温度变化产生的；RPS过程也强烈依赖于卫星的具体轨道，很难预测
+  - The cumulative impact of ram pressure on the simulated satellites is dominated by only a few short strong impulses---on average, 90% of the total surface momentum gained through ram pressure is imparted in 20% or less of the total orbital time. 不能用一个平滑的过程描述
+
+- [Lyman-alpha transmission properties of the intergalactic medium in the CoDaII simulation](https://arxiv.org/abs/2004.14496)
+  - We use the CoDaII simulation, which is a radiation hydrodynamic simulation featuring a box of ∼94 comoving Mpc side length, to compute the Lyα transmission properties of the intergalactic medium (IGM) at z∼5.8 to 7
+  - We find a declining Lyα transmission with redshift and a large sightline-to-sightline variation. 
+  - We also analyze the IGM transmission on the blue side, which shows a rapid decline at z≳6 of the blue transmission. This low transmission can be attributed not only to the presence of neutral regions but also to the residual neutral hydrogen within ionized regions
+
+- [Cosmicflows 4: The Calibration of Optical and Infrared Tully-Fisher Relations](https://arxiv.org/abs/2004.14499)
+  - ~10000个旋涡星系，到~15000km/s处；ALFALFA的HI线宽测量
+  - A preliminary determination of the Hubble Constant from the distances and velocities of the calibrator clusters is H0=76.0+-1.1(stat.)+-2.3(sys.) km/s/Mpc.
+
