@@ -1165,7 +1165,7 @@ populations are the dominant heating agent in the central regions and they contr
   - **Relevant**
   - We show that the HI in our UDGs is distributed in "thin" regularly rotating discs and we determine their rotation velocity and gas velocity dispersion
   - 这些星系偏离BTFR：We find a previously unknown trend between the deviation from the BTFR and the disc scale length valid for dwarf galaxies with circular speeds < 45 km/s, with our UDGs being at the extreme end.
-  - We suggest that the high baryon fractions of our UDGs may originate due to the fact that they have experienced weak stellar feedback, likely due to their low star formation rate surface densities 
+  - We suggest that the high baryon fractions of our UDGs may originate due to the fact that they have experienced weak stellar feedback, likely due to their low star formation rate surface densities
   - We find indications that our UDGs may have higher-than-average stellar specific angular momentum, which can explain their large optical sizes.
 
 - [Figuring Out Gas & Galaxies In Enzo (FOGGIE). IV. The Stochasticity of Ram Pressure Stripping in Galactic Halos](https://arxiv.org/abs/2004.14394)
@@ -1175,7 +1175,7 @@ populations are the dominant heating agent in the central regions and they contr
 
 - [Lyman-alpha transmission properties of the intergalactic medium in the CoDaII simulation](https://arxiv.org/abs/2004.14496)
   - We use the CoDaII simulation, which is a radiation hydrodynamic simulation featuring a box of ∼94 comoving Mpc side length, to compute the Lyα transmission properties of the intergalactic medium (IGM) at z∼5.8 to 7
-  - We find a declining Lyα transmission with redshift and a large sightline-to-sightline variation. 
+  - We find a declining Lyα transmission with redshift and a large sightline-to-sightline variation.
   - We also analyze the IGM transmission on the blue side, which shows a rapid decline at z≳6 of the blue transmission. This low transmission can be attributed not only to the presence of neutral regions but also to the residual neutral hydrogen within ionized regions
 
 - [Cosmicflows 4: The Calibration of Optical and Infrared Tully-Fisher Relations](https://arxiv.org/abs/2004.14499)
