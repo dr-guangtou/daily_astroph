@@ -91,3 +91,70 @@
   - This work presents the analysis of the NSCs in a sample of 12 dwarf galaxies in the Fornax Cluster observed with MUSE.
   - 有多星族的证据；金属丰度普遍比host星系低 which is consistent with a scenario for mass-assembly through mergers with infalling globular cluster
   - We conclude that the NSCs in these dwarf galaxies likely originated as globular clusters that migrated to the core of the galaxy which have built up their mass mainly through mergers with other infalling clusters, with gas-inflow leading to in-situ star formation playing a secondary role.
+
+----
+
+### May 5
+
+- [Orphan GRB afterglow searches with the Pan-STARRS1 COSMOS survey](https://arxiv.org/abs/2005.01730)
+  - There is extensive theoretical and observational evidence suggesting that GRBs are collimated jets; the direct observation of orphan GRB afterglows would further support this model.
+  - 目前的极限星等是R~23, 然后用HSC找host，可以做到R~26 mag
+  - 目前没有找到：The null result implies that the consideration of jet structures is essential for further orphan GRB afterglow surveys.
+
+- [High-resolution, 3D radiative transfer modelling IV. AGN-powered dust heating in NGC 1068](https://arxiv.org/abs/2005.01720)
+  - DustPedia: detailed, 3D radiative transfer simulations of face-on spiral galaxies
+  - 看AGN对尘埃的影响：We find a strong wavelength dependency of AGN contamination to the broadband fluxes. It peaks in the MIR, drops in the FIR, but rises again at submm wavelengths.
+  - The AGN contribution is measurable at the percentage level in the disc, but quickly increases in the inner few 100 pc, peaking above 90%.
+
+- [Massive disc galaxies in cosmological hydrodynamical simulations are too dark matter-dominated](https://arxiv.org/abs/2005.01724)
+  - **Relevant**
+  - 比较EAGLE和IllustrisTNG与SPARC比较：the simulated discs inhabit halos that are a factor ~4 (in EAGLE) and ~2 (in IllustrisTNG) more massive than those derived from the rotation curve analysis of the observed dataset.
+  - We also use synthetic rotation curves of the simulated discs to demonstrate that the recovery of the halo masses from rotation curves are not systematically biased
+  - 可能还是因为Feedback导致的问题，盘星系恒星形成效率太低
+
+- [Probing the AGN Unification Model at redshift z ∼ 3 with MUSE observations of giant Lyα nebulae](https://arxiv.org/abs/2005.01732)
+  - We use the morphology of giant Lyα nebulae around AGNs at redshift z∼3 to probe AGN emission and therefore the validity of the AGN unification model at this redshift.
+  - 19个Type-I AGN周围的，4个Type-II周围的Lya星云：Type-II周围的在30 pkpc之外更在不对称
+  - We discuss how the lack of asymmetry in the inner parts (r≲30 pkpc) and the associated high values of the HeII to Lyα ratios in these regions could indicate additional sources of (hard) ionizing radiation originating within or in proximity of the AGN host galaxies.
+
+- [ALMACAL VII: First Interferometric Number Counts at 650 μm](https://arxiv.org/abs/2005.01733)
+  - We present interferometric 650μm submillimetre number counts. Using the Band 8 data from the ALMACAL survey, we have analysed 81 ALMA calibrator fields together covering a total area of 5.5~arcmin2.
+  - Using a signal-to-noise threshold of 4.5σ, we find 21 dusty, star-forming galaxies with 650μm flux densities of ≥0.7mJy. At the detection limit we resolve ≃100 per cent of the CIB at 650μm
+  - We have therefore identified all the sources contributing to the EBL at 650 microns and predict that the contribution from objects with flux 0.7< mJy will be small.
+
+- [Star Formation in Massive Galaxies at Redshift z∼0.5](https://arxiv.org/abs/2005.01738)
+  - **Relevant**
+  - z=0.5的>10^11.3 Msun的星系，用u-z颜色看SF：20%有SF，其中大部分都有不对称结构，可能有并合引起; 越不对称，颜色越蓝
+  - We find two blue and symmetric galaxies, candidates for massive blue disks, in our observed sample, which indicates that about ∼10% of massive SF galaxies are forming stars in the normal mode of disk star formation
+
+- [New Methods for Identifying Lyman Continuum Leakers and Reionization-Epoch Analogues](https://arxiv.org/abs/2005.01734)
+  - 用模拟看low-z Lya Leaker是不是真的和高红移星系很像：We find that the simulated galaxies with high LyC escape fractions (fesc) often exhibit high O32 and populate the same regions of the R23-O32 plane as z∼3 LyC leakers.
+  - Viewing angle, metallicity, and ionisation parameter can all impact where a galaxy resides on the O32-fesc plane
+  - We find that identifying low-redshift galaxies based on [SII] deficiencies does not seem to produce true analogues.
+  - We show that our model using only [CII]158μm and [OIII]88μm can identify potential leakers from non-leakers from the local Dwarf Galaxy Survey.
+
+- [The MOSDEF Survey: the Variation of the Dust Attenuation Curve with Metallicity](https://arxiv.org/abs/2005.01742)
+  - We constrain the shape of the attenuation curve by comparing the average flux densities of galaxies sorted into bins of dust obscuration using Balmer decrements
+  - 大质量，高金属丰度的符合Calzetti law; 2176A bump强度是银河系的一半左右
+  - 低金属丰度星系的消光曲线中没有看到2175 bump：缺少小尘埃颗粒 (?) 和SMC类似
+  - 对低金属丰度星系，星云气体消光一般是恒星成分消光的2倍左右；高金属丰度星系中无差别
+
+- [Implications of the mild gas motion found with Hitomi in the core of the Perseus cluster](https://arxiv.org/abs/2005.01883)
+  - **Relevant, Interesting**
+  - Through (magneto)hydrodynamic and gravitational channels, the moving galaxies are expected to drag the ICM around them, and transfer to the ICM some fraction of their dynamical energies on cosmological time scales.
+  - Further assuming that the energy lost by the galaxies is first converted into ICM turbulence and then dissipated, this picture can explain the subsonic and uniform ICM turbulence
+  - The scenario may also explain several other unanswered problems regarding clusters of galaxies, including what prevents the ICM from the expected radiative cooling, how the various mass components in nearby clusters have attained different radial distributions, and how a thermal stability is realized between hot and cool ICM components that co-exist around cD galaxies.
+
+- [Examining supernova events in Type 1 active galactic nuclei](https://arxiv.org/abs/2005.02052)
+  - A statistical study of intermediate Palomar Transient Factory supernovae (SNe) in Type 1 AGN has shown a major deficit of supernovae around Type 1 AGN host galaxies, with respect to Type 2 AGN hosts. (What?)
+  - The findings are supportive of a deficiency of SNe near Type 1 AGN, although we cannot with certainty assess the overall detection fractions of SNe in Type 1 AGN relative to other SN host galaxies
+  - Type 1 AGN has equal detection fractions of thermonuclear vs core-collapse SNe. However, we note the possibility of a higher detection rate of core-collapse supernovae in Type-1 AGN with insecure AGN classifications.
+
+- [Atomic Hydrogen Clues to the Formation of Counterrotating Stellar Discs](https://arxiv.org/abs/2005.02355)
+  - Interferometric HI observations of six double-disc stellar counterrotator ("2σ") galaxies from the Atlas3D sample.
+  - This is the first direct evidence that a double-disc stellar counterrotator could be formed through the accretion of retrograde gas. However, the dominant formation pathway for the formation of 2σ galaxies is still unclear.
+
+- [An obscured AGN population hidden in the VIPERS galaxies: identification through spectral energy distribution decomposition](https://arxiv.org/abs/2005.02361)
+  - We aim to identify the obscured AGN population in the VIPERS survey in the CFHTLS W1 field through SED modelling. We construct SEDs for 6,860 sources and identify 160 AGNs at a high confidence level using a Bayesian approach.
+  - Our AGN sample is highly complete (~92%) compared to mid-IR colour selected AGNs, including a significant number of galaxy-dominated systems with lower luminosities. In addition to the lack of X-ray emission (80%), the SED fitting results suggest that the majority of the sources are obscured.
+  - Interestingly, only 35% of the most luminous mid-IR selected AGNs have X-ray counterparts suggesting strong absorption.
