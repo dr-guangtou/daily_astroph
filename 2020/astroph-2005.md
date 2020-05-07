@@ -158,3 +158,61 @@
   - We aim to identify the obscured AGN population in the VIPERS survey in the CFHTLS W1 field through SED modelling. We construct SEDs for 6,860 sources and identify 160 AGNs at a high confidence level using a Bayesian approach.
   - Our AGN sample is highly complete (~92%) compared to mid-IR colour selected AGNs, including a significant number of galaxy-dominated systems with lower luminosities. In addition to the lack of X-ray emission (80%), the SED fitting results suggest that the majority of the sources are obscured.
   - Interestingly, only 35% of the most luminous mid-IR selected AGNs have X-ray counterparts suggesting strong absorption.
+
+- [A Faster Fourier Transform? Computing Small-Scale Power Spectra and Bispectra for Cosmological Simulations in O(N2) Time](https://arxiv.org/abs/2005.01739)
+  - **Useful**
+  - https://hipster.readthedocs.io/
+  - We present O(N2) estimators for the small-scale power spectrum and bispectrum in cosmological simulations. 对小尺度不使用FFT计算功率谱，By working in configuration-space, both power spectra and bispectra can be computed via a weighted sum of particle pairs up to some radius, which can be reduced at larger k
+
+----
+
+### May 6
+
+- [KiDS+VIKING+GAMA: Testing semi-analytic models of galaxy evolution with galaxy-galaxy-galaxy-lensing](https://arxiv.org/abs/2005.02419)
+  - These SAMs can be tested by comparing their predictions for galaxy-galaxy-galaxy-lensing (G3L), which is weak gravitational lensing around galaxy pairs, with observations. 把星系分成不同的颜色和质量bin，其实就是看不同的模型能否产生符合观测的星系对
+  - Using an improved G3L estimator, we measure the three-point correlation of the matter distribution for mixed lens pairs with galaxies from different samples, and unmixed lens pairs with galaxies from the same sample.
+
+- [The Accuracy of the Hubble Constant Measurement Verified through Cepheid Amplitudes](https://arxiv.org/abs/2005.02445)
+  - We show a direct consequence of crowding by unresolved sources at Cepheid sites is a reduction in the fractional amplitudes of their light curves.
+  - We use a simple analytical expression to infer crowding directly from the light curve amplitudes of >200 Cepheids in 3 SNe~Ia hosts and NGC 4258 as observed by HST
+  - Where local crowding is minimal, we find near-infrared amplitudes match Milky Way Cepheids at the same periods. At greater stellar densities we find that the empirically measured amplitudes match the values predicted
+  - Extragalactic Cepheid amplitudes would need to be ~20% smaller than measured to indicate additional, unrecognized crowding as a primary source of the present discrepancy in H_0.
+
+- [The kinematics of globular cluster populations in the E-MOSAICS simulations and their implications for the assembly history of the Milky Way](https://arxiv.org/abs/2005.02401)
+  - Find 18 correlations describing the assembly of L∗ galaxies and their dark matter haloes based on their GC population kinematics. The correlations arise because the orbital distributions of accreted and in-situ GCs depend on the masses and accretion redshifts of accreted satellites, driven by the combined effects of dynamical fraction, tidal stripping, and dynamical heating.
+  - The MW assembled its dark matter and stellar mass rapidly through a combination of in-situ star formation, more than a dozen low-mass mergers, and 1.4±1.2 early (z=3.1±1.3) major merger. The rapid assembly period ended early, limiting the fraction of accreted stars.
+
+- [The [OIII]+Hβ Equivalent Width Distribution at z≃7: Implications for the Contribution of Galaxies to Reionization](https://arxiv.org/abs/2005.02402)
+  - Using a new colour-selection which precisely selects galaxies at z≃6.63−6.83, a redshift range where blue Spitzer/IRAC [3.6]−[4.5] colours unambiguously indicate strong [OIII]+Hβ emission.
+  - EW分布是log-normal的，中值在700AA, 明显比z=2的SF星系的高，符合高SFR和低金属丰度的预期
+  - 有些星系的EW>1200 AA: 20% of the z≃7 population has such extreme nebular emission, implying that galaxies likely undergo intense star formation episodes regularly at z>6. 可能对再电离有重要贡献。
+
+- [The e-MERLIN Galaxy Evolution Survey (e-MERGE): Overview and Survey Description](https://arxiv.org/abs/2005.02407)
+  - A large program of high-resolution 1.5 GHz radio observations of the GOODS-N field comprising ∼140 hours of observations with eMERLIN and 40 hours with VLA
+  - Produce a deep 1.5 GHz radio survey with the sensitivity (∼1.5μJy beam−1), angular resolution (0.2"--0.7") and field-of-view (∼15′×15′) to detect and spatially resolve star-forming galaxies and AGN at z≳1.
+  - We measure a mean radio-to-optical size ratio of reMERGE/rHST∼1.02±0.03, suggesting that in most high-redshift galaxies, the ∼GHz continuum emission traces the stellar light seen in optical imaging.
+
+- [The Cosmic Ultraviolet Baryon Survey (CUBS) I. Overview and the diverse environments of Lyman limit systems at z<1](https://arxiv.org/abs/2005.02408)
+  - CUBS is designed to map diffuse baryonic structures at redshift z<~1 using absorption-line spectroscopy of 15 UV-bright QSOs with matching deep galaxy survey data.
+    - 用NUV亮度选源，因为FUV-bright QSO bias against sightlines intercepting LLS at low redshift.
+  - We report five new LLSs of log N(HI)/cm^-2 >~ 17.2; All LLSs exhibit a multi-component structure and associated heavy ions from multiple ionization states such as CII, CIII, MgII, SiII, SiIII, OVI absorption.
+  - A diverse range of galaxy properties are seen around these LLSs, from a low-mass dwarf galaxy pair, a co-rotating gaseous halo/disk, a star-forming galaxy, a massive quiescent galaxy, to a galaxy group LLS可以来自各种星系环境，并指示拥有不同气体丰度的结构
+
+- [The Age-Dependence of Mid-Infrared Emission Around Young Star Clusters](https://arxiv.org/abs/2005.02446)
+  - We find a tight anti-correlation with a Pearson correlation coefficient of r=−0.84±0.05 between the mass-normalized dust-only 8 μm luminosity and the age of stellar clusters younger than 1 Gyr; the 8 μm luminosity decreases with increasing age of the stellar population.
+  - Variations in stellar metallicity have little effect on the scatter, while PAH abundance and the fraction of dust-absorbed light bracket the full range of the data
+  - We also find that the trend is better explained by continuous star formation, rather than instantaneous burst models.
+
+- [Hydrodynamical Backflow in X-shaped Radio Galaxy PKS 2014-55](https://arxiv.org/abs/2005.02723)
+  - **Interesting**
+  - MeerKAT 1.28 GHz total-intensity, polarization, and spectral-index images covering the giant (projected length l≈1.57~Mpc) X-shaped radio source PKS~2014−55
+  - They show the clear "double boomerang" morphology of hydrodynamical backflows from the straight main jets deflected by the large and oblique hot-gas halo of the host galaxy PGC~064440.
+  - The radio source is embedded in faint (Tb≈0.5K) cocoons having the uniform brightness temperature and sharp outer edges characteristic of subsonic expansion into the ambient intra-group medium.
+  - Compression and turbulence in the backflows probably produce the irregular and low polarization bright region behind the apex of each boomerang as well as several features in the flow with bright heads and dark tails.
+
+- [SDSS-IV MaNGA: spatially resolved dust attenuation in spiral galaxies](https://arxiv.org/abs/2005.02772)
+  - While both the dust attenuation in the gas and the dust attenuation affecting the stellar populations decrease with galactocentric radius, the ratio of the two quantities does not vary with radius. This ratio does, however, decrease systematically as the stellar mass of the galaxy increases.
+
+- [LEGUS and Halpha-LEGUS Observations of Star Clusters in NGC 4449: Improved Ages and the Fraction of Light in Clusters as a Function of Age](https://arxiv.org/abs/2005.02840)
+  - The inclusion of Halpha measurements, the role of stochasticity for low mass clusters, the assumptions about reddening, and the choices of SSP model and metallicity all have important impacts on the age-dating of clusters.
+  - The observed cluster age distribution is found to decline over time as dN/dt ~ t^g, with g=-0.85+/-0.15, independent of cluster mass, and is consistent with strong, early cluster disruption.
