@@ -34,11 +34,11 @@
   - **Interesting**
   - K-band Multi-Object Spectrograph (KMOS) for Redshift One Spectroscopic Survey (KROSS): 409个0.6< z <1.0的SF星系，平均恒星质量10^10Msun
   - 3DBarolo方法提取Halpha旋转曲线：考虑beam smearing effect和压力梯度效应 (ADC方法)
-  - Nearly all objects (0.1< v/σ <15) are affected by the pressure gradient, and we noticed that ADC improves the rotation velocity of these systems by ∼10−87%.  
-  - We do not see any change in the shape of RCs with respect to the local star-forming disk-type galaxies. In contrast, we do find a significant evolution in the stellar-disk length (RD) of the galaxies. 
+  - Nearly all objects (0.1< v/σ <15) are affected by the pressure gradient, and we noticed that ADC improves the rotation velocity of these systems by ∼10−87%.
+  - We do not see any change in the shape of RCs with respect to the local star-forming disk-type galaxies. In contrast, we do find a significant evolution in the stellar-disk length (RD) of the galaxies.
 
 - [Galaxy Merger Rates up to z ∼ 3 using a Bayesian Deep Learning Model − A Major-Merger classifier using IllustrisTNG Simulation data](https://arxiv.org/abs/2005.00476)
-  - We classify major mergers and measure galaxy merger rates up to z ∼ 3 in all five CANDELS fields (UDS, EGS, GOODS-S, GOODS-N, COSMOS) using deep learning convolutional neural networks (CNNs) trained with simulated galaxies from the IllustrisTNG cosmological simulation. 
+  - We classify major mergers and measure galaxy merger rates up to z ∼ 3 in all five CANDELS fields (UDS, EGS, GOODS-S, GOODS-N, COSMOS) using deep learning convolutional neural networks (CNNs) trained with simulated galaxies from the IllustrisTNG cosmological simulation.
   - We finish by demonstrating that our model is capable of measuring galaxy merger rates, that are consistent with results found for CANDELS galaxies using close pairs statistics, with R(z)=0.02±0.004×(1+z)^2.76±0.21.
 
 ----
@@ -216,3 +216,94 @@
 - [LEGUS and Halpha-LEGUS Observations of Star Clusters in NGC 4449: Improved Ages and the Fraction of Light in Clusters as a Function of Age](https://arxiv.org/abs/2005.02840)
   - The inclusion of Halpha measurements, the role of stochasticity for low mass clusters, the assumptions about reddening, and the choices of SSP model and metallicity all have important impacts on the age-dating of clusters.
   - The observed cluster age distribution is found to decline over time as dN/dt ~ t^g, with g=-0.85+/-0.15, independent of cluster mass, and is consistent with strong, early cluster disruption.
+
+----
+
+### May 7
+
+- [Nonlinear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks](https://arxiv.org/abs/2005.03050)
+  - We demonstrate that a deep-convolutional GAN can generate samples that capture both large- and small-scale features of the matter density field, as validated through a variety of n-point statistics.
+  - The use of a data scaling that preserves high-density features and a heavy-tailed latent space prior allow us to obtain state of the art results for fast 3D cosmic web generation.
+  - By modeling the latent space with a heavy-tailed prior rather than a standard Gaussian, we better capture sample variance in the high-density voxel PDF and reduce errors in power spectrum and bispectrum covariance on all scales.
+
+- [The Dynamical State of the Frontier Fields Galaxy Cluster Abell 370](https://arxiv.org/abs/2005.03212)
+  - Analyzing archival Chandra observations of A370 and comparing the X-ray morphology to the latest gravitational lensing mass reconstruction, we find offsets of ~30 kpc and ~100 kpc between the two X-ray surface brightness peaks and their nearest mass surface density peaks, suggesting that it is a merging system.
+  - Our simulations suggest that A370 is a major merger after the second core passage in the infalling phase, just before the third core passage. In this phase, the gas has not settled down in the gravitational potential well of the cluster, which explains why A370 does not follow closely the galaxy cluster scaling relations.
+
+- [Evolution of superclusters and supercluster cocoons in various cosmologies](https://arxiv.org/abs/2005.03480)
+  - 比较不同宇宙学下大尺度结构的演化：the open model OCDM with no DE, the standard SCDM model with no DE, and the Hyper-DE HCDM model with an enhanced DE density value.
+  - We use diameters of the largest superclusters and the number of superclusters as percolation functions to describe properties of the ensemble of superclusters in the cosmic web.
+  - The essential parameter, which defines the evolution of superclusters, is the matter density.
+  - The DE density influences the growth of the amplitude of density perturbations, and the growth of masses of superclusters, albeit significantly less strongly
+
+- [VERITAS Discovery of VHE Emission from the Radio Galaxy 3C 264: A Multi-Wavelength Study](https://arxiv.org/abs/2005.03110)
+  - NGC3862, or 3C 264中发现VHE Gamma辐射；The observed VHE flux is variable on monthly time scales
+  - The VHE emission during this elevated state is well-characterized by a power-law spectrum with a photon index Γ=2.20±0.27.
+
+- [Correlation between relativistic reflection fraction and photon index in NuSTAR sample of Seyfert 1 AGN](https://arxiv.org/abs/2005.03307)
+  - AGN的power-law能量分布的X-ray辐射可以被吸积盘反射；吸积盘内部的反射成分可以收到黑洞相对论性效应的显著影响。
+  - We investigate the relationship between the relativistic reflection fraction Rf, defined as the ratio of the coronal intensity that illuminates the accretion disc to the coronal intensity observed directly, and the hard X-ray photon index Γ of a NuSTAR sample of Seyfert 1 galaxies.
+  - The parameter Rf depends on the amount of Comptonised X-ray emission intercepted by the inner accretion disc. We found a positive correlation between Γ and Rf in our sample.
+
+- [SDSS-IV MaNGA: Excavating the fossil record of stellar populations in spiral galaxies](https://arxiv.org/abs/2005.03012)
+  - STARLIGHT拟合：small negative mean age gradients in most spiral galaxies, especially at high stellar mass
+  - We show that the youngest (<10^{8.5} years) populations exhibit significantly more extended distributions than the oldest (>10^{9.5} years), again with a strong dependence on stellar mass.
+  - 还是支持inside-out盘增长，但是对盘的整体质量演化影响不大
+
+- [Circumgalactic Mg II Emission from an Isotropic Starburst Galaxy Outflow Mapped by KCWI](https://arxiv.org/abs/2005.03017)
+  - KCWI观测一个z=0.7的SF星系：shows emission from the Mg II 2796, 2803 Angstrom doublet in the circumgalactic medium (CGM) extending ~37 kpc at 3-sigma significance in individual spaxels
+  - Spaxels covering the galaxy stellar regions show clear P-Cygni-like emission/absorption profiles with the blueshifted absorption extending to relative velocities of v = -800 km/s 但在大半径处变成单纯的发射线
+  - 辐射转移建模：Our observations are most consistent with an isotropic outflow rather than biconical wind models with half-opening angles phi <= 80 deg.
+
+- [Finding the First Quasars at Birth](https://arxiv.org/abs/2005.03018)
+  - 关于直接坍缩形成的黑洞：we present near infrared luminosities for DCBHs born in cold accretion flows in which they are destined to grow to 109 M⊙ by z∼ 7.
+  - Strongly-lensed DCBHs could be found in future wide-field surveys by Euclid and the Wide-Field Infrared Space Telescope at z≲ 15.
+
+- [A large amount of diffuse molecular gases in the bar of the strongly barred galaxy NGC1300: Cause of the low star formation efficiency](https://arxiv.org/abs/2005.03019)
+  - 看棒区域是否有很多无法产生恒星的弥散分子气体，降低了SFE：We examine the relation between the SFE and the diffuse molecular gas fraction (fdif)
+  - Find that the SFE decreases with increasing fdif. 在棒区域，弥散分子气体比例在70-91%；在旋臂区域是30-60%
+  - 但弥散分子气体不是唯一原因：The suppression of the SFE in the bar has also been seen even when we exclude the diffuse molecular gas components.
+
+- [A detailed look at the stellar populations in green valley galaxies](https://arxiv.org/abs/2005.03024)
+  - 用4000AA break定义Green valley: We explore high quality stacked SDSS spectra, and find a population trend that suggests a substantial difference between low- and high-mass galaxies, with the former featuring younger populations with star formation quenching, and the latter showing older (post-quenching) populations that include rejuvenation events.
+
+- [The twisted dark matter halo of the Milky Way](https://arxiv.org/abs/2005.03025)
+  - EAGLE模拟中类似银河系的星系DM halo性质比较；考虑了卫星星系的空间分布和运动学：specifically systems in which the majority of the satellites (8 out of 11) have nearly co-planar orbits that are also perpendicular to the central stellar disc.
+  - Orbital plane of the co-planar satellites is well aligned with the minor axis of the host dark matter halo
+  - 由此推断银河系Halo结构：The halo, however, is not homologous and its flattening and orientation vary with radius. The inner parts of the halo are rounder than the outer parts and well-aligned with the stellar disc (that is the minor axis of the halo is perpendicular to the disc).
+
+- [On the origin of nitrogen at low metallicity](https://arxiv.org/abs/2005.03038)
+  - **Interesting**
+  - The observed N/O ratio, however, shows large scatter at low O/H, and is strongly dependent on galactic environment.
+  - We show that several heretofore unexplained features of the N/O distribution at low O/H can be explained by the N seen in metal-poor galaxies being mostly primary nitrogen that is returned to the ISM via pre-supernova winds from rapidly rotating massive stars. 不能全靠超新星解释
+
+- [GOODS-ALMA: Using IRAC and VLA to probe fainter millimeter galaxies](https://arxiv.org/abs/2005.03040)
+  - Using positional information at 3.6 and 4.5 μm (from Spitzer-IRAC), we explore the presence of galaxies detected at 1.1 mm with ALMA below our original blind detection limit.
+  - 找到16个新星系，其中2个没有HST对应; Although exhibiting larger physical sizes, these galaxies have still far-infrared sizes significantly more compact than inferred from their optical emission.
+  - 讨论了HST图像的天体测量问题：We show that the astrometry of the HST image does not only suffer from a global astrometric shift, as already discussed in previous papers, but also from local shifts.
+
+- [On the Stellar Kinematics and Mass of the Virgo Ultra-Diffuse Galaxy VCC 1287](https://arxiv.org/abs/2005.03041)
+  - **Relevant**
+  - KCWI观测：We measure a stellar velocity dispersion (19±6 km s−1) and infer both a dynamical mass (1.11+0.81−0.81×10^9 M⊙) and mass to light ratio (13+11−11) within the half light radius (4.4 kpc). 稍稍偏离正常星系的关系。
+  - We use our dynamical mass, and an estimate of GC system richness, to place VCC 1287 on the GC number - dynamical mass relation, finding good agreement with a sample of normal galaxies.
+  - Halo可能比较flat或者有core：we find that strong stellar feedback and/or tidal effects are plausibly the dominant mechanisms in the formation of VCC 1287.
+
+- [GOODS-ALMA: The slow downfall of star-formation in z = 2-3 massive galaxies](https://arxiv.org/abs/2005.03043)
+  - **Relevant**
+  - The galaxies detected by ALMA are among the most massive at z = 2-4 (M⋆,med = 8.5× 10^10 M⊙) and are either starburst or located in the upper part of the galaxy star-forming main sequence.
+  - 40%的2.5 < z < 3星系有很低的气体比例；而星系大小似乎与z=2的椭圆星系类似
+  - We show that there is a strong link between star formation surface density (at 1.1 mm) and gas depletion time 星系越compact，气体耗尽时标越短： The identified compact sources associated with relatively short depletion timescales (∼100 Myr), are the ideal candidates to be the progenitors of compact elliptical galaxies at z ∼ 2.
+
+- [A 700-pc extended coronal gas emission in the Circinus galaxy](https://arxiv.org/abs/2005.03113)
+  - First characterization of an extended outflow of high ionized gas in the Circinus Galaxy by means of the coronal line [FeVII] λ6087 \AA. 分布在[OIII]电离锥内，能到距离AGN 700pc处
+  - The gas distribution appears clumpy, with several knots of emission. Its kinematics is complex, with split profiles and line centroids shifted from the systemic velocity.
+  - 可能是之前活动的遗迹：the remnants of shells inflated by the passage of a radio-jet.
+
+- [KKH 22, the first dwarf spheroidal satellite of IC 342](https://arxiv.org/abs/2005.03132)
+  - ACS观测：We derived its distance of 3.12+-0.19 Mpc using the tip of red giant branch (TRGB) method.
+  - BTA测量GC的速度：consistent with the dSph galaxy being gravitationally bound to IC 342.
+  - The dSph galaxy KKH 22 has the V-band absolute magnitude of -12.19 mag and the central surface brightness mu_v,0 = 24.1 mag/sq.arcsec.
+
+- [The Sizes of z∼9−10 Galaxies Identified in the BoRG Survey](https://arxiv.org/abs/2005.03515)
+  - We explore a vetted sample of BoRG z∼9 and z∼10 candidate galaxies and the object rejected by Morishita+ (2018) to explore the utility of a size criterion in z=9-10 candidate selection.
+  - We argue that including a size constraint in lieu of a visual inspection may serve in wide-field searches for these objects in e.g. EUCLID or HST archival imaging with the understanding that some brightest (L>>L∗) candidates may be missed.
