@@ -307,3 +307,57 @@
 - [The Sizes of z∼9−10 Galaxies Identified in the BoRG Survey](https://arxiv.org/abs/2005.03515)
   - We explore a vetted sample of BoRG z∼9 and z∼10 candidate galaxies and the object rejected by Morishita+ (2018) to explore the utility of a size criterion in z=9-10 candidate selection.
   - We argue that including a size constraint in lieu of a visual inspection may serve in wide-field searches for these objects in e.g. EUCLID or HST archival imaging with the understanding that some brightest (L>>L∗) candidates may be missed.
+
+----
+
+### May 10
+
+- [KiDS+VIKING-450: Improved cosmological parameter constraints from redshift calibration with self-organising maps](https://arxiv.org/abs/2005.04207)
+  - Our fiducial analysis finds marginal posterior constraints of S8=0.716+0.043−0.038; smaller than, but fully consistent with, previous work using this dataset (|ΔS8|=0.023).
+  - Our largest shift in S8 is found when calibrating redshift distributions without the DEEP2 spectroscopic subset, where we find S8=0.707+0.046−0.042.
+
+- [Supermassive black holes with high accretion rates in active galactic nuclei. XI. Accretion disk reverberation mapping of Mrk 142](https://arxiv.org/abs/2005.03685)
+  - Swift加地面望远镜RM观测：Mrk 142 was highly variable throughout, displaying correlated variability across all wavelengths.
+  - 波长越长，time lag越长：through the UV and optical the wavelength-dependent lags, τ(λ), generally follow the relation τ(λ)∝λ^4/3
+  - 与一个稳恒态光学厚，几何薄的吸积盘的温度随半径分布的预期一致
+  - The exceptions are the u and U band, where an excess lag is observed, as has been observed in other AGN and attributed to continuum emission arising in the broad-line region.
+  - Moreover, the X-ray to UV lag is significantly offset from an extrapolation of the UV/optical trend, with the X-rays showing a poorer correlation with the UV than the UV does with the optical.
+
+- [The Sloan Digital Sky Survey Reverberation Mapping Project: MgII Lag Results from Four Years of Monitoring](https://arxiv.org/abs/2005.03663)
+  - SDSS RM观测QSO MgII 2800AA的time lag，找到了一个很好sample
+  - The MgII lags follow a radius -- luminosity relation with a best-fit slope that is consistent with alpha=0.5 but with an intrinsic scatter of 0.36dex that is significantly larger than found for the Hb radius -- luminosity relation.
+
+- [A flexible modelling of galaxy assembly bias](https://arxiv.org/abs/2005.03672)
+  - we propose an extension to the standard SHAM technique so it can include arbitrary amounts of assembly bias. We do this by preferentially selecting subhaloes with the same internal property but different individual large-scale bias.
+
+- [Recovering age-metallicity distributions from integrated spectra: validation with MUSE data of a nearby nuclear star cluster](https://arxiv.org/abs/2005.03682)
+  - **Relevant**
+  - MUSE观测的M54光谱做成分分解：find a dominant old (8-14 Gyr), metal-poor (-1.5 dex) and a young (1 Gyr), metal-rich (+0.25 dex) component - consistent with the complex stellar populations
+  - 和分解星族的结果比：Differences are only 3% in age and 0.2 dex metallicitiy.
+  - By co-adding individual stars to create M54's integrated spectrum, we show that the recovered age-metallicity distribution is insensitive to the magnitude limit of the stars or the contribution of blue horizontal branch stars - even when including additional blue wavelength coverage from the WAGGS survey. 但有overshine效应影响，亮星可能会产生老年富金属星族的成分
+
+- [Gas and dust cooling along the major axis of M33 (HerM33es) -- Herschel/PACS [CII] and [OI] observations](https://arxiv.org/abs/2005.03683)
+  - We mapped the emission of gas and dust in M33 using the far-infrared lines of [CII] and [OI](63um) and the TIR.
+  - The binned [CII]/TIR ratio drops with rising TIR, with large, but decreasing scatter.
+
+- [Search and Analysis of Giant radio galaxies with Associated Nuclei (SAGAN) -- I : New sample & multi-wavelength studies](https://arxiv.org/abs/2005.03708)
+  - We have identified 162 new GRGs primarily from the NVSS with sizes ranging from ~0.71 Mpc to ~2.82 Mpc in the redshift range of ~0.03 - 0.95.
+  - Our results firmly establish that the distributions of radio spectral index and the black hole mass of GRGs do not differ from the corresponding distributions of normal sized radio galaxies (RGs). 但GRG的Eddington ratio偏低
+  - We find that GRGs in high excitation state statistically have larger sizes, radio power, jet kinetic power and Eddington ratio than those in low excitation state.
+  - Our environmental study reveals that ~10% of all GRGs may reside at the centres of galaxy clusters, in a denser galactic environment while majority seem to reside in sparse environment.
+  - **Interesting**
+  - https://sites.google.com/site/anantasakyatta/sagan
+
+- [Weak CS Emission in an Extremely Metal-poor Galaxy DDO 70](https://arxiv.org/abs/2005.03907)
+  - we report ALMA observations of the CS J=5→4 emission line of DDO~70, a nearby gas-rich dwarf galaxy with ∼7% solar metallicity.
+  - We did not detect CS emission from all regions with strong CO emission. After stacking all CS spectra from CO-bright clumps, we find no more than a marginal detection of CS J=5→4 transition, at a signal-to-noise ratio of ∼3.3
+
+- [CIV emission line properties and uncertainties in black hole mass estimates of z ~ 3.5 quasars](https://arxiv.org/abs/2005.04002)
+  - The median logarithm of the CIV- and Hβ-based MBH ratios is 0.110 dex with the scatter of 0.647 dex. The CIV-to-Hβ BH mass differences are significantly correlated with the CIV FWHMs, blueshifts and asymmetries.
+  - Corrections of the CIV FWHM using the blueshift and asymmetry reduce the scatter of the mass differences by ∼ 0.04-0.2 dex
+
+- [Unravelling stellar populations in the Andromeda Galaxy](https://arxiv.org/abs/2005.04052)
+  - We devise a new technique to recover the distribution of these parameters using spatially resolved, line-of-sight averaged data. Our chemodynamical method is based on the made-to-measure (M2M) framework and results in an N-body model for the abundance distribution
+  - We found that the metallicity is enhanced along the bar, with possible maxima at the ansae.
+  - In the edge-on view the [Z/H] distribution has an X shape due to the boxy/peanut bulge; the average vertical metallicity gradient is equal to −0.132±0.006 dex/kpc.
+  - The highest [α/Fe] is found in the centre, due to the classical bulge. Away from the centre, the α-overabundance in the bar region increases with height, which could be an indication of a thick disc.
