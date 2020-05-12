@@ -361,3 +361,42 @@
   - We found that the metallicity is enhanced along the bar, with possible maxima at the ansae.
   - In the edge-on view the [Z/H] distribution has an X shape due to the boxy/peanut bulge; the average vertical metallicity gradient is equal to −0.132±0.006 dex/kpc.
   - The highest [α/Fe] is found in the centre, due to the classical bulge. Away from the centre, the α-overabundance in the bar region increases with height, which could be an indication of a thick disc.
+
+----
+
+### May 11
+
+- [Intrinsic and extrinsic correlations of galaxy shapes and sizes in weak lensing data](https://arxiv.org/abs/2005.04604)
+  - **Euclid, CSST**
+  - Setting up a linear intrinsic alignment model for elliptical galaxies which parameterises the reaction of the galaxy to an external tidal shear field through the velocity dispersion, we predict intrinsic correlations and cross-correlations with weak lensing for both shapes and sizes, juxtaposing both types of spectra with lensing. 
+  - We quantify the observability of the intrinsic shape and size correlations and estimate with the Fisher-formalism how well the alignment parameter can be determined from the Euclid weak lensing survey.
+
+- [Characterizing EoR foregrounds: A study of the Lockman Hole Region at 325 MHz](https://arxiv.org/abs/2005.05205)
+  - This paper demonstrates, for the first time, the variation of the power-law index for diffuse emission at very high galactic locations.
+
+- [Discovering New Strong Gravitational Lenses in the DESI Legacy Imaging Surveys](https://arxiv.org/abs/2005.04730)
+  - We compile a training sample that consists of known lensing systems as well as non-lenses in the Legacy Surveys and the Dark Energy Survey. After applying our trained neural networks to the survey data, we visually inspect and rank images with probabilities above a threshold. Here we present 1014 new strong lens candidates.
+
+- [Optical Variability of the Dwarf AGN NGC 4395 from the Transiting Exoplanet Survey Satellite](https://arxiv.org/abs/2005.04491)
+  - TESS半个小时的Cadence特别适合研究这些可能的低质量或者低吸积率的AGN的光变：Significant variability is detected on timescales from weeks to hours before reaching the background noise level.
+  - Damped random walk模型拟合：lies almost exactly on the extrapolation of the τDRW−MBH relation measured for AGN with BH masses that are more than three orders of magnitude larger.
+
+- [The SAMI Galaxy Survey: Gas velocity dispersions in low-z star-forming galaxies and the drivers of turbulence](https://arxiv.org/abs/2005.04874)
+  - 3D forward modeling进行电离气体运动学建模
+  - We find the vertical velocity dispersion (σv,z) to be positively correlated with measures of star-formation rate, stellar mass, HI gas mass, and rotational velocity. 和SFR面密度的相关最好
+  - This is consistent with recent theoretical models that suggest a σv,z floor driven by star-formation feedback processes with an upturn in σv,z at higher SFR driven by gravitational transport of gas through the disc. 
+  - Blobby3D (Varidel+2019) 
+
+- [Redshift Evolution of Green Valley Galaxies in Different Environments from the Hyper Suprime-Cam Survey](https://arxiv.org/abs/2005.04894)
+  - The green valley fraction, when normalized to the total population, is higher in the field than that in groups or clusters and decreases with a decreasing redshift and increasing mass.
+  - To assess the effect of the environment on star formation quenching, we define the effective green valley fraction as the ratio of the number of green valley galaxies to that of nonquiescent galaxies only. The effective green valley fraction for field galaxies is lower than that for group or cluster galaxies, which reveals a strong positive mass dependence and mild redshift evolution.
+
+- [Black hole mergers from dwarf to massive galaxies with the NewHorizon and Horizon-AGN simulations](https://arxiv.org/abs/2005.04902)
+  - While Horizon-AGN can be used to estimate the rate of inspirals for Pulsar Timing Arrays, NewHorizon can investigate MBH mergers in a statistical sample of dwarf galaxies for LISA, which is sensitive to low-mass MBHs
+  - 关于BH并合：we post-process MBH dynamics to account for time delays mostly determined by dynamical friction and stellar hardening
+  - MBHs typically merge long after the galaxies do, so that the galaxy morphology at the time of the MBH merger is no longer determined by the galaxy merger from which the MBH merger originated. 
+
+- [How Unusual is the Milky Way's Assembly History?](https://arxiv.org/abs/2005.04969)
+  - **Interesting**
+  - MW有不止一次massive accretion过程：Gaia enceladus和LMC
+  - 用EAGLE模拟看有多罕见：We find that ∼ 16 per cent of MW-mass haloes have an LMC; ∼ 5 per cent have a GES event and no further merger with an equally massive object since z = 1; and only 0.65 per cent belong to the LMC & GES category
