@@ -400,3 +400,37 @@
   - **Interesting**
   - MW有不止一次massive accretion过程：Gaia enceladus和LMC
   - 用EAGLE模拟看有多罕见：We find that ∼ 16 per cent of MW-mass haloes have an LMC; ∼ 5 per cent have a GES event and no further merger with an equally massive object since z = 1; and only 0.65 per cent belong to the LMC & GES category
+
+----
+
+### May 12
+
+- [Dynamic Zoom Simulations: a fast, adaptive algorithm for simulating lightcones](https://arxiv.org/abs/2005.05328)
+  - **Interesting**
+  - Our method is tailored to the production of lightcone outputs from N-body numerical simulations, which allow for a more efficient storage and post-processing compared to standard comoving snapshots, and more directly mimic the format of survey data. In DZS, the resolution of the simulation is dynamically decreased outside the lightcone surface
+
+- [Three- and two-point spatial correlations of IGM at z∼2: Cloud based analysis using simulations](https://arxiv.org/abs/2005.05346)
+  - We explore the transverse three-point correlation (ζ) of these Lyα clouds using mock triplet spectra obtained from hydrodynamical simulations
+
+- [A high-energy neutrino coincident with a tidal disruption event](https://arxiv.org/abs/2005.05340)
+  - Here we present the association of a radio-emitting tidal disruption event (AT2019dsg) with another high-energy neutrino, identified as part of our systematic search for optical counterparts to high-energy neutrinos with the Zwicky Transient Facility (ZTF).
+  - Our electromagnetic observations can be explained through a multi-zone model, with radio analysis revealing a central engine, embedded in a UV photosphere, that powers an extended synchrotron-emitting outflow. --> provides an ideal site for PeV neutrino production.
+
+- [Accretion of Galaxy Groups into Galaxy Clusters](https://arxiv.org/abs/2005.05344)
+  - **Relevant**
+  - A median of ∼38% of surviving galaxies at z=0 are accreted as part of groups and did not infall directly from the field, albeit with significant cluster-to-cluster scatter.
+  - substructure适合发生星系并合：Integrated over time, we identify (per cluster) an average of 17±6 mergers that occur in infalling galaxy associations, of which 7±3 occur well within the virial radius of their cluster hosts. 
+
+- [The Semi-forbidden CIII\]λ1909Å~ Emission in the Rest-Ultraviolet Spectra of Green Pea Galaxies](https://arxiv.org/abs/2005.05399)
+  - We detect CIII] emission in 7/10 galaxies with CIII] equivalent widths that range from 2-10\AA~. 
+  - 与考虑了年轻双星演化的光致电离模型预测一致
+  - The Green Pea galaxies do not show a significant correlation between the Lyα and CIII] equivalent widths, and the observed scatter is likely due to the variations in the optical depth of Lyα to the neutral gas.
+  - The potential LyC leaker galaxies in our sample have high CIII] equivalent widths that can only be reproduced by starburst ages as young as < 3 Myrs and harder ionizing spectra than the non-leakers. 
+
+- [On the variation of carbon abundance in galaxies and its implications](https://arxiv.org/abs/2005.05717)
+  - We analyse recent determinations of carbon-to-iron and carbon-to-oxygen abundance ratios in different environments (the Milky Way and elliptical galaxies) using our latest chemical evolution models that implement up-to-date stellar yields and rely on the tight constraints provided by asteroseismic stellar ages
+  -  A scenario where most carbon is produced by rotating massive stars, with yields largely dependent on the metallicity of the parent proto-star clouds, allows us to fit simultaneously the high-quality data available for the local Galactic components (thick and thin discs) and for microlensed dwarf stars in the Galactic bulge, as well as the abundance ratios inferred for massive elliptical galaxies.
+
+- [GalICS 2.1: a new semianalytic model for cold accretion, cooling, feedback and their roles in galaxy formation](https://arxiv.org/abs/2005.05958)
+  - We take their analysis one step further and present a new semianalytic model that computes the shock radius from first principles. This advancement allows us to compute the critical mass individually for each halo.
+  - Separating cold-mode and hot-mode accretion has little effect on the final galaxy masses if feedback does not preferentially couple to the hot gas
