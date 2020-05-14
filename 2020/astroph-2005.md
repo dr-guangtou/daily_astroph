@@ -401,6 +401,13 @@
   - MW有不止一次massive accretion过程：Gaia enceladus和LMC
   - 用EAGLE模拟看有多罕见：We find that ∼ 16 per cent of MW-mass haloes have an LMC; ∼ 5 per cent have a GES event and no further merger with an equally massive object since z = 1; and only 0.65 per cent belong to the LMC & GES category
 
+- [Probing gravity and growth of structure with gravitational waves and galaxies' peculiar velocity](https://arxiv.org/abs/2005.04325)
+  - **SSST**
+  - We propose to use distances from gravitational wave (GW) detections, in conjunction with the redshifts of their host galaxies from wide field spectroscopic surveys (e.g. DESI, 4MOST, TAIPAN), to measure peculiar motions within the local Universe.
+  - We find that binary neutron star mergers with associated counterpart at z≲0.2 that will be detected by the Einstein Telescope (ET) will be able to constrain fσ8 to ∼3% precision after 10 years of operations when combined with galaxy overdensities from DESI and TAIPAN.
+  - This constraint is improved to σγ∼0.02−0.03 when combined with galaxy overdensities. The potential of combining galaxies' peculiar velocities with gravitational wave detections for cosmology highlights the need for extensive optical to near--infrared follow--up of nearby gravitational wave events
+
+
 ----
 
 ### May 12
@@ -434,3 +441,67 @@
 - [GalICS 2.1: a new semianalytic model for cold accretion, cooling, feedback and their roles in galaxy formation](https://arxiv.org/abs/2005.05958)
   - We take their analysis one step further and present a new semianalytic model that computes the shock radius from first principles. This advancement allows us to compute the critical mass individually for each halo.
   - Separating cold-mode and hot-mode accretion has little effect on the final galaxy masses if feedback does not preferentially couple to the hot gas
+
+----
+
+### May 13
+
+- [An accurate emulator for the redshift-space power spectrum of dark matter halos and its application to galaxy power spectrum](https://arxiv.org/abs/2005.06122)
+  - 基于Dark Quest模拟：we develop a simulation-based template, so-called emulator, for the redshift-space power spectrum of dark matter halos. 基于Neural Network的
+  - Our emulator achieves about 1 and 5% fractional accuracies in predicting the monopole and quadrupole moments of the power spectrum.
+
+- [A measurement of the CMB E-mode angular power spectrum at subdegree scales from 670 square degrees of POLARBEAR data](https://arxiv.org/abs/2005.06168)
+  - We reach an effective polarization map noise level of 32μK-arcmin across an observation area of 670 square degrees
+  - The data are consistent with the standard ΛCDM cosmological model with a probability-to-exceed of 0.38.
+
+- [SatGen: a semi-analytical satellite galaxy generator -- I. The model and its application to Local-Group satellite statistics](https://arxiv.org/abs/2005.05974)
+  - **Interesting, SSST**
+  - The model combines dark-matter halo merger trees, empirical relations for the galaxy-halo connection, and analytic prescriptions for tidal effects, dynamical friction, and ram pressure stripping.
+  - SatGen emulates cosmological zoom-in hydro-simulations in certain aspects. Satellites can reside in cored or cuspy DM subhaloes, depending on the halo response to baryonic physics that can be formulated from hydro-simulations and physical modeling.
+  - We use the model to study satellites of Milky Way sized hosts, making it emulate simulations of bursty star formation and of smooth star formation, respectively, and to experiment with a disc potential in the host halo
+
+- [The Pristine Dwarf-Galaxy survey -- III. Revealing the nature of the Milky Way globular cluster Sagittarius II](https://arxiv.org/abs/2005.05976)
+  - We find a low velocity dispersion of SgrII v = 1.7 +/- 0.5 km s-1, in agreement with the dispersion of Milky Way globular clusters of similar luminosity. 
+  - We confirm the very metal-poor nature of the satellite ([Fe/H]_SgrII = -2.23 +/- 0.07) and find that the metallicity dispersion of Sgr II is not resolved
+  - No star with a metallicity below -2.5 is confidently detected. Therefore, despite the unusually large size of the system (rh = 35.5 +1.4-1.2 pc), we conclude that Sgr II is an old and metal-poor globular cluster of the Milky Way.
+
+- [Constraints on the assembly history of the Milky Way's smooth, diffuse stellar halo from the metallicity-dependent, radially-dominated velocity anisotropy profiles probed with K giants and BHB stars using LAMOST, SDSS/SEGUE, and Gaia](https://arxiv.org/abs/2005.05980)
+  - 用SDSS/SEGUE blue horizontal branch stars and SDSS/SEGUE and LAMOST K giants研究银河系halo的anisotropy profile
+  - We find radially dominated kinematic profiles with nearly constant anisotropy within 20 kpc, beyond which the anisotropy profile gently declines although remains radially dominated to the furthest extents of our sample.
+  - Independent of star type or substructure removal, the anisotropy depends on metallicity, such that the orbits of the stars become less radial with decreasing metallicity.
+
+- [The globular cluster system mass-halo mass relation in the E-MOSAICS simulations](https://arxiv.org/abs/2005.05991)
+  - **Relevant**
+  - The simulated M_gc-M_halo relation is linear for halo masses >5×1011 Msun, and is driven by the hierarchical assembly of galaxies, in agreement with previous studies. 
+  - Below this halo mass, the simulated relation features a downturn, which we show is consistent with observations, and is driven by the underlying stellar mass (M_star)-halo mass relation of galaxies.
+  - Our fiducial model reproduces the observed M_gc-M_star relation across the full mass range, which we argue is more physically relevant than the M_gc-M_halo relation.
+
+- [The variable and non-variable X-ray absorbers in Compton-thin type-II Active Galactic Nuclei](https://arxiv.org/abs/2005.06079)
+  - X-ray光变观测20个Compton薄的Type-II AGN，研究前方遮挡中性气体的变化：We detected variability in the column density of the full-covering absorber in 7/20 sources, on timescales of months-years, indicating a component of compact-scale X-ray-obscuring gas lying along the line of sight of each of these objects.
+  - However, 13/20 sources yielded no detection of significant variability in the full-covering obscurer. The dominant absorbing media in these systems could be distant, such as kpc-scale dusty structures associated with the host galaxy, or a homogeneous medium along the line of sight.
+
+- [The Three Hundred Project: the stellar and gas profiles](https://arxiv.org/abs/2005.06135)
+  - **Relevant**
+  - We study the scatter and self-similarity of the profiles and distributions of the baryonic components of the clusters: the stellar and gas mass, metallicity, the stellar age, gas temperature, and the (specific) star formation rate.
+  - We find that the shape and the scatter of the gas density profiles matches well the observed trends including the reduced scatter at large radii which is a signature of self-similarity suggested in previous studies.
+  - The gas metallicity profiles from both simulation sets, despite following the observed trend, have a relatively lower normalisation 
+  - The stellar age, metallicity and (s)SFR show very large scatter, which are then presented in 2D maps. We also do not find any clear radial dependence of these properties. However, the brightest central galaxies have distinguishable features compared to the properties of the satellite galaxies.
+
+- [A Data-Driven Technique Using Millisecond Transients to Measure the Milky Way Halo](https://arxiv.org/abs/2005.06256)
+  - We model these distributions, correcting for the Galactic interstellar medium, with kernel density estimation---well-suited to the small data regime---to find lower/upper bounds to the corrected DMpulsar/DMFRB distributions 给出银河系Halo的DM测量的范围
+  - 来自FRB host的DM成分暂时无法扣除；It strongly disfavors models where the Galaxy has retained the majority of its baryons with a density profile tracking the presumed dark matter density profile.
+
+- [The changing circumgalactic medium over the last 10 Gyr I: physical and dynamical properties](https://arxiv.org/abs/2005.06310)
+  - EAGLE模拟用的银河系质量halo：We find that the high-z CGM is almost equally divided between the "cool" (T<105 K) and "hot" (T≥105 K) phases, while the low-z hot CGM phase contains 5× more mass.
+  - The high-z hot CGM contains 60% more metals than the cool CGM, while the low-z cool CGM contains 35% more metals than the hot CGM content.
+  - 高红移处的hot CGM主要是高温外流；冷气体主要是在内流，但同时cold metal有净的外流 
+  - At low z, the cool metals dominate the interior and the hot metals are more prevalent at larger radii. The low-z cool CGM has tangential motions consistent with rotational support out to 0.2R200, often exhibiting r≈40 kpc disc-like structures.
+  - CGM的温度，密度，金属丰度，运动学都有很强的演化
+
+- [A Low Incidence of Mid-Infrared Variability in Dwarf Galaxies](https://arxiv.org/abs/2005.06452)
+  - ALLWISE/NEOWISE: We find only 2 dwarf galaxies with mid-infrared variability, a factor of ~10 less frequent than the more massive galaxies (p = 6 x 10^-6),
+  - Compared to the more massive galaxies, AGNs selected in dwarf galaxies using either their mid-infrared color or optical emission line classification are systematically missed by variability selection 也许cadence更高了就行
+
+- [Systematically Asymmetric: A comparison of \hi\ profile asymmetries in real and simulated galaxies](https://arxiv.org/abs/2005.06453)
+  - We find that our newly introduced channel-by-channel asymmetry is less sensitive to the effects of viewing angle and inclination than other morphometrics.
+  - We find that the lopsidedness-velocity of equality space can be used to identify profiles with deep central dips without visual inspection.
