@@ -368,7 +368,7 @@
 
 - [Intrinsic and extrinsic correlations of galaxy shapes and sizes in weak lensing data](https://arxiv.org/abs/2005.04604)
   - **Euclid, CSST**
-  - Setting up a linear intrinsic alignment model for elliptical galaxies which parameterises the reaction of the galaxy to an external tidal shear field through the velocity dispersion, we predict intrinsic correlations and cross-correlations with weak lensing for both shapes and sizes, juxtaposing both types of spectra with lensing. 
+  - Setting up a linear intrinsic alignment model for elliptical galaxies which parameterises the reaction of the galaxy to an external tidal shear field through the velocity dispersion, we predict intrinsic correlations and cross-correlations with weak lensing for both shapes and sizes, juxtaposing both types of spectra with lensing.
   - We quantify the observability of the intrinsic shape and size correlations and estimate with the Fisher-formalism how well the alignment parameter can be determined from the Euclid weak lensing survey.
 
 - [Characterizing EoR foregrounds: A study of the Lockman Hole Region at 325 MHz](https://arxiv.org/abs/2005.05205)
@@ -384,8 +384,8 @@
 - [The SAMI Galaxy Survey: Gas velocity dispersions in low-z star-forming galaxies and the drivers of turbulence](https://arxiv.org/abs/2005.04874)
   - 3D forward modeling进行电离气体运动学建模
   - We find the vertical velocity dispersion (σv,z) to be positively correlated with measures of star-formation rate, stellar mass, HI gas mass, and rotational velocity. 和SFR面密度的相关最好
-  - This is consistent with recent theoretical models that suggest a σv,z floor driven by star-formation feedback processes with an upturn in σv,z at higher SFR driven by gravitational transport of gas through the disc. 
-  - Blobby3D (Varidel+2019) 
+  - This is consistent with recent theoretical models that suggest a σv,z floor driven by star-formation feedback processes with an upturn in σv,z at higher SFR driven by gravitational transport of gas through the disc.
+  - Blobby3D (Varidel+2019)
 
 - [Redshift Evolution of Green Valley Galaxies in Different Environments from the Hyper Suprime-Cam Survey](https://arxiv.org/abs/2005.04894)
   - The green valley fraction, when normalized to the total population, is higher in the field than that in groups or clusters and decreases with a decreasing redshift and increasing mass.
@@ -394,7 +394,7 @@
 - [Black hole mergers from dwarf to massive galaxies with the NewHorizon and Horizon-AGN simulations](https://arxiv.org/abs/2005.04902)
   - While Horizon-AGN can be used to estimate the rate of inspirals for Pulsar Timing Arrays, NewHorizon can investigate MBH mergers in a statistical sample of dwarf galaxies for LISA, which is sensitive to low-mass MBHs
   - 关于BH并合：we post-process MBH dynamics to account for time delays mostly determined by dynamical friction and stellar hardening
-  - MBHs typically merge long after the galaxies do, so that the galaxy morphology at the time of the MBH merger is no longer determined by the galaxy merger from which the MBH merger originated. 
+  - MBHs typically merge long after the galaxies do, so that the galaxy morphology at the time of the MBH merger is no longer determined by the galaxy merger from which the MBH merger originated.
 
 - [How Unusual is the Milky Way's Assembly History?](https://arxiv.org/abs/2005.04969)
   - **Interesting**
@@ -426,13 +426,13 @@
 - [Accretion of Galaxy Groups into Galaxy Clusters](https://arxiv.org/abs/2005.05344)
   - **Relevant**
   - A median of ∼38% of surviving galaxies at z=0 are accreted as part of groups and did not infall directly from the field, albeit with significant cluster-to-cluster scatter.
-  - substructure适合发生星系并合：Integrated over time, we identify (per cluster) an average of 17±6 mergers that occur in infalling galaxy associations, of which 7±3 occur well within the virial radius of their cluster hosts. 
+  - substructure适合发生星系并合：Integrated over time, we identify (per cluster) an average of 17±6 mergers that occur in infalling galaxy associations, of which 7±3 occur well within the virial radius of their cluster hosts.
 
 - [The Semi-forbidden CIII\]λ1909Å~ Emission in the Rest-Ultraviolet Spectra of Green Pea Galaxies](https://arxiv.org/abs/2005.05399)
-  - We detect CIII] emission in 7/10 galaxies with CIII] equivalent widths that range from 2-10\AA~. 
+  - We detect CIII] emission in 7/10 galaxies with CIII] equivalent widths that range from 2-10\AA~.
   - 与考虑了年轻双星演化的光致电离模型预测一致
   - The Green Pea galaxies do not show a significant correlation between the Lyα and CIII] equivalent widths, and the observed scatter is likely due to the variations in the optical depth of Lyα to the neutral gas.
-  - The potential LyC leaker galaxies in our sample have high CIII] equivalent widths that can only be reproduced by starburst ages as young as < 3 Myrs and harder ionizing spectra than the non-leakers. 
+  - The potential LyC leaker galaxies in our sample have high CIII] equivalent widths that can only be reproduced by starburst ages as young as < 3 Myrs and harder ionizing spectra than the non-leakers.
 
 - [On the variation of carbon abundance in galaxies and its implications](https://arxiv.org/abs/2005.05717)
   - We analyse recent determinations of carbon-to-iron and carbon-to-oxygen abundance ratios in different environments (the Milky Way and elliptical galaxies) using our latest chemical evolution models that implement up-to-date stellar yields and rely on the tight constraints provided by asteroseismic stellar ages
@@ -461,7 +461,7 @@
   - We use the model to study satellites of Milky Way sized hosts, making it emulate simulations of bursty star formation and of smooth star formation, respectively, and to experiment with a disc potential in the host halo
 
 - [The Pristine Dwarf-Galaxy survey -- III. Revealing the nature of the Milky Way globular cluster Sagittarius II](https://arxiv.org/abs/2005.05976)
-  - We find a low velocity dispersion of SgrII v = 1.7 +/- 0.5 km s-1, in agreement with the dispersion of Milky Way globular clusters of similar luminosity. 
+  - We find a low velocity dispersion of SgrII v = 1.7 +/- 0.5 km s-1, in agreement with the dispersion of Milky Way globular clusters of similar luminosity.
   - We confirm the very metal-poor nature of the satellite ([Fe/H]_SgrII = -2.23 +/- 0.07) and find that the metallicity dispersion of Sgr II is not resolved
   - No star with a metallicity below -2.5 is confidently detected. Therefore, despite the unusually large size of the system (rh = 35.5 +1.4-1.2 pc), we conclude that Sgr II is an old and metal-poor globular cluster of the Milky Way.
 
@@ -472,7 +472,7 @@
 
 - [The globular cluster system mass-halo mass relation in the E-MOSAICS simulations](https://arxiv.org/abs/2005.05991)
   - **Relevant**
-  - The simulated M_gc-M_halo relation is linear for halo masses >5×1011 Msun, and is driven by the hierarchical assembly of galaxies, in agreement with previous studies. 
+  - The simulated M_gc-M_halo relation is linear for halo masses >5×1011 Msun, and is driven by the hierarchical assembly of galaxies, in agreement with previous studies.
   - Below this halo mass, the simulated relation features a downturn, which we show is consistent with observations, and is driven by the underlying stellar mass (M_star)-halo mass relation of galaxies.
   - Our fiducial model reproduces the observed M_gc-M_star relation across the full mass range, which we argue is more physically relevant than the M_gc-M_halo relation.
 
@@ -484,7 +484,7 @@
   - **Relevant**
   - We study the scatter and self-similarity of the profiles and distributions of the baryonic components of the clusters: the stellar and gas mass, metallicity, the stellar age, gas temperature, and the (specific) star formation rate.
   - We find that the shape and the scatter of the gas density profiles matches well the observed trends including the reduced scatter at large radii which is a signature of self-similarity suggested in previous studies.
-  - The gas metallicity profiles from both simulation sets, despite following the observed trend, have a relatively lower normalisation 
+  - The gas metallicity profiles from both simulation sets, despite following the observed trend, have a relatively lower normalisation
   - The stellar age, metallicity and (s)SFR show very large scatter, which are then presented in 2D maps. We also do not find any clear radial dependence of these properties. However, the brightest central galaxies have distinguishable features compared to the properties of the satellite galaxies.
 
 - [A Data-Driven Technique Using Millisecond Transients to Measure the Milky Way Halo](https://arxiv.org/abs/2005.06256)
@@ -494,7 +494,7 @@
 - [The changing circumgalactic medium over the last 10 Gyr I: physical and dynamical properties](https://arxiv.org/abs/2005.06310)
   - EAGLE模拟用的银河系质量halo：We find that the high-z CGM is almost equally divided between the "cool" (T<105 K) and "hot" (T≥105 K) phases, while the low-z hot CGM phase contains 5× more mass.
   - The high-z hot CGM contains 60% more metals than the cool CGM, while the low-z cool CGM contains 35% more metals than the hot CGM content.
-  - 高红移处的hot CGM主要是高温外流；冷气体主要是在内流，但同时cold metal有净的外流 
+  - 高红移处的hot CGM主要是高温外流；冷气体主要是在内流，但同时cold metal有净的外流
   - At low z, the cool metals dominate the interior and the hot metals are more prevalent at larger radii. The low-z cool CGM has tangential motions consistent with rotational support out to 0.2R200, often exhibiting r≈40 kpc disc-like structures.
   - CGM的温度，密度，金属丰度，运动学都有很强的演化
 
@@ -505,3 +505,64 @@
 - [Systematically Asymmetric: A comparison of \hi\ profile asymmetries in real and simulated galaxies](https://arxiv.org/abs/2005.06453)
   - We find that our newly introduced channel-by-channel asymmetry is less sensitive to the effects of viewing angle and inclination than other morphometrics.
   - We find that the lopsidedness-velocity of equality space can be used to identify profiles with deep central dips without visual inspection.
+
+----
+
+### May 14
+
+- [The impact of non-Gaussianity on the Epoch of Reionization parameter forecast using 21-cm power spectrum measurements](https://arxiv.org/abs/2005.06535)
+  - 三个参数描述再电离：能支撑电离源的最小暗物质晕质量，暗物质晕内单位重子物质能提供的逃逸电离光子数量，以及电离光子在IGM中的平均自由程。看未来21cm测量能测量到多精确。
+  - 考虑了非高斯性：Considering cosmic variance only and assuming that foregrounds are completely removed, we find that non-Gaussianity increases the volume of the 1σ error ellipsoid of the parameters by a factor of 133 relative to the Gaussian predictions
+  - The impact of non-Gaussianity increases for longer observations, and it is particularly important for Rmfp.
+
+- [Parameter Inference for Weak Lensing using Gaussian Processes and MOPED](https://arxiv.org/abs/2005.06551)
+  - **CSST, SSST**
+  - A Gaussian Process (GP) emulator for the calculation of a) tomographic weak lensing band-power spectra; b) coefficients of summary data massively compressed with the MOPED algorithm
+  - The GP opens up the possibility of dropping the Limber approximation, without which the theoretical calculations may be unfeasibly slow. A potential advantage of GPs is that an error on the emulated function can be computed and this uncertainty incorporated into the likelihood.
+
+- [CMB Shadows: The Effect of Interstellar Extinction on Cosmic Microwave Background Polarization and Temperature Anisotropy](https://arxiv.org/abs/2005.06614)
+  - **Interesting**
+  - We evaluate the degradation of the accuracy of the component separation between the cosmic microwave background (CMB) and foreground components caused by neglect of absorption of the monopole component of the CMB by the galactic interstellar matter. 因为尘埃引起的CMB影子产生的温度变化在 1 uK左右; 精度与测量非高斯性的要求类似
+  - 对偏振测量的影响更大：the amplitude of the polarization caused by the CMB shadow due to dust is comparable to or larger than the RMS value of the CMB B-mode polarization, imprinted by primordial gravitational waves
+  - We show that applying a single-power law model as the dust spectrum to observed multifrequency data introduces systematic errors
+
+- [ECoPANN: A Framework for Estimating Cosmological Parameters using Artificial Neural Networks](https://arxiv.org/abs/2005.07089)
+  - For a well trained ANN model, it is capable of estimating parameters for multiple experiments that have different precisions, which can greatly reduce the consumption of time and computing resources for parameter inference.
+
+- [PypeIt: The Python Spectroscopic Data Reduction Pipeline](https://arxiv.org/abs/2005.06505)
+  - **Useful**
+  - PypeIt is a Python package for semi-automated reduction of astronomical, spectroscopic data.
+
+- [The SAMI Galaxy Survey: Decomposed Stellar Kinematics of Galaxy Bulges and Disks](https://arxiv.org/abs/2005.06474)
+  - 本质上还是测光分解：The spatially-resolved rotation velocity (V) and velocity dispersion (σ) of bulge and disk components have been simultaneously estimated using the penalized pixel fitting (pPXF) method with photometrically defined weights for the two components.
+  - We present Tully-Fisher and Faber-Jackson relations showing that the galaxy stellar mass scales with both V and σ for both components of all galaxy types. We find a tight Faber-Jackson relation even for the disk component.
+  - bulge and disk components are kinematically distinct:
+    - (1) the two components show scaling relations with similar slopes, but different intercepts;
+    - (2) the spin parameter λR indicates bulges are pressure-dominated systems and disks are supported by rotation;
+    - (3) the bulge and disk components have, respectively, low and high values in intrinsic ellipticity.
+
+- [A Deeper Look at DES Dwarf Galaxy Candidates: Grus I and Indus II](https://arxiv.org/abs/2005.06478)
+  - MegaCam观测：we resolved the main sequence turn-off (MSTO) and ∼2 mags below it.
+  - We show Grus I to be consistent with an old, metal-poor (∼13.3 Gyr, [Fe/H]∼−1.9) dwarf galaxy；an absolute V-band magnitude ∼−4.1
+  - Although our photometry of Indus II is ∼2−3 magnitudes deeper than the DES Y1 Public release, we find no coherent stellar population at its reported location. 可能是False positive.
+
+- [Living with Neighbors. III. Scrutinizing the Spin−Orbit Alignment of Interacting Dark Matter Halo Pairs](https://arxiv.org/abs/2005.06479)
+  - **Interesting**
+  - Spin−orbit alignment (SOA; i.e., the angular alignment between the spin vector of a halo and the orbital angular momentum vector of its neighbor) 适合研究星系角动量演化
+  - 把模拟中维里半径相互接触的，质量比在1/3-3之间的halo pair分成并合和flyby组：we find a significant SOA in that 75.0±0.6 % of merging neighbors and 58.7±0.6 % of flybying neighbors are on the prograde orbit.
+  - The overall SOA of our sample is mainly driven by fast-rotating halos, corroborating that a well-aligned interaction spins a halo faster.
+  - We find for the first time a strong number excess of nearly perpendicular but still prograde interactions (∼75∘) in the spin−orbit angle distribution for both the merger and flyby cases. Such prograde-polar interactions predominate for slow-rotating halos, testifying that misaligned interactions reduce the halos' spin.
+  - The prograde-polar interaction will soon flip the spin of a slow-rotator to align with its neighbor's orbital angular momentum.
+
+- [Photometric redshifts for the Pan-STARRS1 survey](https://arxiv.org/abs/2005.06489)
+  - The photometric redshift of a galaxy is then estimated by means of a local linear regression in a 5-dimensional magnitude and colour space.
+  - Even though the relation between each of the Pan-STARRS1 colours and the spectroscopic redshifts is noisier than for SDSS colours, the results obtained by our method are very close to those yielded by SDSS data.
+
+- [A Thirty-Four Billion Solar Mass Black Hole in SMSS J2157-3602, the Most Luminous Known Quasar](https://arxiv.org/abs/2005.06868)
+  - 用MgII双线测量，(3.4 +/- 0.6) x 10^10 M_sun and refine the redshift of the quasar to be z=4.692
+  - 已知光度最高的QSO，its Eddington ratio is only ~0.4
+
+- [Velocity Dispersions of Massive Quiescent Galaxies from Weak Lensing and Spectroscopy](https://arxiv.org/abs/2005.07122)
+  - **Relevant**
+  - 用quiescent星系的中心速度弥散度和stacking lensing signal得到的暗物质晕速度弥散度比较
+  - We measure the stacked lensing signal from the HSC deep imaging. The central stellar velocity dispersion is directly proportional to the velocity dispersion derived from the lensing σLens, σLens=(0.98±0.14)σSHELS+(19.89±31.89).
