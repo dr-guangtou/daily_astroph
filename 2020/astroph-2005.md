@@ -566,3 +566,52 @@
   - **Relevant**
   - 用quiescent星系的中心速度弥散度和stacking lensing signal得到的暗物质晕速度弥散度比较
   - We measure the stacked lensing signal from the HSC deep imaging. The central stellar velocity dispersion is directly proportional to the velocity dispersion derived from the lensing σLens, σLens=(0.98±0.14)σSHELS+(19.89±31.89).
+
+----
+
+### May 18
+
+- [The 21 cm-kSZ-kSZ Bispectrum during the Epoch of Reionization](https://arxiv.org/abs/2005.06535)
+  - The 21 cm signal and the contribution to the kSZ from the EoR are expected to be anti-correlated, the former coming from regions of neutral gas in the intergalactic medium and the latter coming from ionized regions 但简单的cross-correlation不能得到有用的信号
+  - We present here an investigation of the 21 cm-kSZ-kSZ bispectrum, which should not suffer the same cancellation as the simple two-point cross-correlation. We show that there is a significant and non-vanishing signal that is sensitive to the reionization history
+
+- [Effects of self-consistent rest-ultraviolet colours in semi-empirical galaxy formation models](https://arxiv.org/abs/2005.07208)
+  - 在SEM框架下讨论高红移星系UV LF和尘埃的关系：we find that UV colours evolve with redshift (at fixed UV magnitude), as suggested by observations, even in cases without underlying evolution in dust production, destruction, absorption, or geometry. 主要由星族年龄和sSFR变化引起
+  - The UV extinction, AUV, evolves similarly with redshift, though we find a systematically shallower relation between AUV and MUV than that predicted by IRX-β relationships derived from z∼3 galaxy samples
+
+- [The origin of the escape of Lyman alpha and ionizing photons in Lyman Continuum Emitters](https://arxiv.org/abs/2005.07215)
+  - 低中性气体柱密度是LyC的关键：we highlight strong correlations between the presence of low HI covering fractions and (1) low LyA peak velocities; (2) more flux at the profile minimum; and (3) larger EW(LyA), fesc(LyA), and fesc(LyC).
+  - Galaxies with narrower HI absorption velocity widths have higher LyA equivalent widths, larger LyA escape fractions, and lower LyA peak velocity separations.
+  - Finally, we find that dust regulates the amount of LyA and LyC radiation that actually escapes the ISM. ISM的多孔性是产生LyC的重要因素，但不足以解释观测到的最强的LyC
+
+- [Galaxy classification: deep learning on the OTELO and COSMOS databases](https://arxiv.org/abs/2005.07228)
+  - We used three classification methods for the OTELO database: 1) u-r color separation , 2) linear discriminant analysis using u-r and a shape parameter classification, and 3) a deep neural network using the r magnitude, several colors, and a shape parameter.
+
+- [Dust Reverberation Mapping of Type 2 AGN NGC 2110 Realized with X-ray and 3-5 μm IR monitoring](https://arxiv.org/abs/2005.07339)
+  - Here we focus on an X-ray-bright type 2 AGN, NGC 2110, and utilize 2-20 keV X-ray variation monitored by MAXI to trace disc emission, instead of optical-UV variation.
+  - X-ray和WISE光变曲线：we found candidates of the dust reverberation time lag at ∼60 days, ∼130 days, and ∼1250 days between the X-ray flux variation and those of the IR bands.
+  - we found that the time lag of ∼130 days is most favoured. With this time lag, the relation between the time lag and luminosity of NGC 2110 is consistent with those in type 1 AGNs
+
+- [Bar rejuvenation in S0 galaxies?](https://arxiv.org/abs/2005.07387)
+  - We found that bars are bluer in S0 galaxies compared to the spiral galaxies
+  - The possibility of minor mergers and tidal interactions which occurs frequently in the intermediate-density environment might have caused either a bar to form and/or induce star formation in the barred region of S0 galaxies.
+  - The underlying discs show the usual behaviour being redder in S0s compared to spiral galaxies while the bulges are red and old for both S0 and spiral galaxies
+
+- [Formation of the Large Nearby Galaxies](https://arxiv.org/abs/2005.07588)
+  - **Interesting**
+  - 近邻L*星系的bulge fraction很低，和模拟预测得不同，轨道性质也不同。认为可能有宇宙学背景
+  - The situation might be improved by a prescription for non-Gaussian initial conditions on the scale of galaxies.
+
+- [The Formation of Isolated Ultra-Diffuse Galaxies in Romulus25](https://arxiv.org/abs/2005.07634)
+  - **Relevant**
+  - At z=0, we find that isolated UDGs have average star formation rates, colors, and virial masses for their stellar masses and environment.
+  - We predict that many isolated UDGs have been missed by current surveys. 可能占到field星系的20%
+  - Despite their isolation at z=0, the UDGs in our sample are the products of major mergers at z>1. Mergers are no more common in UDG than non-UDG progenitors, but mergers that create UDGs tend to happen earlier, produce a temporary boost in spin, and cause star formation to migrate to the outskirts of galaxies
+
+- [Galaxy properties as revealed by MaNGA. III. Kinematic profiles and stellar population gradients in S0s](https://arxiv.org/abs/2005.07693)
+  - **Relevant**
+  - MaNGA z<0.08 S0星系的Lick index-based Spop gradient研究
+  - 质量> 3x10^10 Msun的S0的年龄和速度弥散度梯度较明显，但丰度梯度很平；而低于这个质量的则反之
+  - 在相同的速度弥散度或者光度上S0比FR-Ell的速度弥散度梯度要陡
+  - The kinematic profiles and stellar population gradients of E-FRs are both more similar to those of slow rotating ellipticals (E-SRs) than to S0s, suggesting that E-FRs are not simply S0s viewed face-on.
+  - 在固定的速度弥散度上，S0和E-FR比E-SR年轻。
