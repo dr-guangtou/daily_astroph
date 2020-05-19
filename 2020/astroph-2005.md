@@ -615,3 +615,48 @@
   - 在相同的速度弥散度或者光度上S0比FR-Ell的速度弥散度梯度要陡
   - The kinematic profiles and stellar population gradients of E-FRs are both more similar to those of slow rotating ellipticals (E-SRs) than to S0s, suggesting that E-FRs are not simply S0s viewed face-on.
   - 在固定的速度弥散度上，S0和E-FR比E-SR年轻。
+
+----
+
+### May 19
+
+- [Constraining the Reionization History using Bayesian Normalizing Flows](https://arxiv.org/abs/2005.07694)
+  - 21cm信号有非Gaussian的特性，比较难拟合
+  - We demonstrate the advantages of Normalizing Flows (NF) combined with BNNs, being able to model more complex output distributions and thus capture key information as non-Gaussianities
+  - Normalizing flows: Transforming probability distributions has become a powerful tool in deep learning. The main idea of a Normalizing Flow is to use a diffeomorphism (a differentiable and bijective mapping) to transform the sample space of a distribution.
+
+- [ALMA Characterises the Dust Temperature of z ~ 5.5 Star-Forming Galaxies](https://arxiv.org/abs/2005.07716)
+  - ALMA Band-8观测z=5.5的星系：we measure for the first time the emissivity index at these redshifts to provide more robust estimates of molecular gas masses based on dust continuum.
+  - The derived dust peak temperatures at z ∼ 5.5 (38±8 K) are elevated compared to average local galaxies, however, 5−10 K below what would be predicted from an extrapolation of the trend at z < 4 可能是来自尘埃丰度的下降
+  - 分子气体质量在10^10-10^11之间，气体比例在30-80%之间
+
+- [Science with the TianQin Observatory: Preliminary Results on Galactic Double White Dwarf Binaries](https://arxiv.org/abs/2005.07889)
+  - 讨论用天琴探测 Galactic double white dwarf (DWD) binaries: 能探测到已知DWD中的12个，可以提前预测信号，作为校验源
+  - 有望探测到10^4量级的DWD：能测量轨道周期和幅度
+
+- [Science with the TianQin observatory: Preliminary result on extreme-mass-ratio inspirals](https://arxiv.org/abs/2005.08212)
+  - EMRIs: allow for testing gravitational theories in the strong field regime, and for checking the validity of the black hole no-hair theorem.
+  - We find that TianQin can observe EMRIs involving COs with mass of 10M⊙ up to redshift ∼2
+  - We also find that a network of multiple detectors would allow for improvements in both detection rates
+
+- [A comparison of X-ray photon indices among the narrow and broad-line Seyfert 1 galaxies](https://arxiv.org/abs/2005.08352)
+  - We found clear evidence of the difference in the ΓsX and REdd distributions among NLSy1 and BLSy1 galaxies, with steeper ΓsX and higher REdd for the former
+  - The difference in REdd distributions does exist even after applying the average correction for the difference in the inclination angle of NLSy1 and BLSy1 galaxies
+  - Our analysis suggests that the higher REdd in NLSy1 is responsible for its steeper X-ray spectral slope compared to the BLSy1, consistent with the disc-corona model as proposed for the luminous AGNs.
+
+- [Hard - X-rays selected Active Galactic Nuclei. I. A radio view at high-frequencies](https://arxiv.org/abs/2005.08569)
+  - We present JVLA 22 and 45 GHz observations of 16 nearby (0.003≤z≤0.3) hard - X-rays selected AGN at the (sub)-kpc scale 15/16 detected
+  - All detected sources host a compact core, with 8 being core-dominated at either frequencies, the others exhibiting also extended structures.
+  - We conclude that, at these frequencies, extended, optically-thin components are present together with the flat-spectrum core.
+
+- [Lyman-αabsorption beyond the disk of simulated spiral galaxies](https://arxiv.org/abs/2005.08580)
+  - On average the galaxies retain about 50\% of the cosmic fraction in baryons, almost equally divided into disc (interstellar medium) gas, cool CGM gas and warm-hot CGM gas
+  - At radii smaller than 50 kpc the CGM is dominated by recycled warm-hot gas injected from the central galaxy, while at larger radii it is dominated by cool gas accreted onto the halo. Recycled gas占CGM气体的1/3.
+  - 和观测的Lya吸收EW分布类似：Disc galaxies with quiescent assembly histories show significantly more absorption along the disc major axis
+
+- [The Host Galaxies of Rapidly Evolving Transients in the Dark Energy Survey](https://arxiv.org/abs/2005.08653)
+  - **SSST**
+  - 红移>1, peak光度分布很宽，光变曲线衰减比SN快。后续观测难度大，物理机制和起源未知
+  - We find that RETs explode exclusively in star-forming galaxies and are thus likely associated with massive stars.
+  - We find that RETs prefer galaxies with high specific SFRs, indicating a link to young stellar populations
+  - There are no clear relationships between properties of the host galaxies and the peak magnitudes or decline rates of the transients themselves.
