@@ -660,3 +660,95 @@
   - We find that RETs explode exclusively in star-forming galaxies and are thus likely associated with massive stars.
   - We find that RETs prefer galaxies with high specific SFRs, indicating a link to young stellar populations
   - There are no clear relationships between properties of the host galaxies and the peak magnitudes or decline rates of the transients themselves.
+
+----
+
+### May 20
+
+- [Antisymmetric cross-correlation of line-intensity maps as a probe of reionization](https://arxiv.org/abs/2005.08977)
+  - The proposed estimator is the hitherto neglected antisymmetric component of the cross-correlation, under the exchange of line-of-sight positions
+  - As a way to break the degeneracy between astrophysics and cosmology in the intensity mapping power spectrum, we study the ratio between the antisymmetric and symmetric components
+  - 2PCF应该依赖于两个点的指向和位置，但是一般假设CF与交换位置无关；但是如果是两个完全不同的tracers的CF则不然。需要考虑 antisymmetric component.
+    - 在Line intensity mapping里面，功率谱的antisymmetric成分依赖于温度和所用发射线的bias的红移演化。
+
+- [Redshift Evolution of the Underlying Type Ia Supernova Stretch Distribution](https://arxiv.org/abs/2005.09441)
+  - We study the dependence with redshift of the SN Ia SALT2.4 lightcurve stretch, a purely intrinsic SN property, to probe its potential redshift drift.
+  - We clearly demonstrate that the underlying SN Ia stretch distribution is evolving as a function of redshift, and that the young/old drifting model is a much better description of the data than any time-constant model
+
+- [Model independent measurement of the growth rate from the consistency relations of the LSS](https://arxiv.org/abs/2005.09574)
+  - **CSST**
+  - We illustrate how BS and PS measurements can be used to extract bα and f without the need of any theoretical approximation scheme for the computation of the BS and the PS
+  - Consistency Relations for LSS:建立了PS和squeezed BS的BAO幅度的关系，可以用于不依赖宇宙学模型地提取tracer的大尺度bias信息，以及结构growth rate信息
+
+- [Broad-band X-ray observation of broad-line radio galaxy 3C 109](https://arxiv.org/abs/2005.09077)
+  - X-ray谱分解成连续谱，中性和电离吸收，以及一个反射成分；主连续谱的光子指数有明显光变
+  - We obtain a new black hole mass estimate of 9.3 ×10^8M⊙, which brings all Eddington ratio estimates into agreement and does not require 3C 109 to be super-Eddington.
+
+- [Modelling and peeling extended sources with shapelets: a Fornax A case study](https://arxiv.org/abs/2005.09316)
+  - 考虑EoR 21cm测量的前景扣除问题：Sources such as Fornax A present a modelling challenge due to spatial structures spanning from arc seconds up to a degr
+  - We also introduce a new CUDA simulation code (WODEN) to generate point source, Gaussian, and shapelet components into visibilities
+
+- [Simba: The average properties of the circumgalactic medium of 2≤z≤3 quasars are determined primarily by stellar feedback](https://arxiv.org/abs/2005.08971)
+  - 看z>2处AGN feedback对CGM和IGM的影响： The observations are well reproduced, except within 100 kpc from the foreground quasar, where Simba overproduces absorption
+  - 主要的影响还是来自stellar feedback而不是AGN feedback
+
+- [Millisecond Pulsars Modify the Radio-SFR Correlation in Quiescent Galaxies](https://arxiv.org/abs/2005.08982)
+  - LOFAR recently extended radio observations of the related correlation with star formation rate to lower frequencies (150~MHz), finding a peculiar radio excess in galaxies with high stellar masses and low star-formation rates.
+  - We show that recycled/millisecond pulsars (MSPs) can dominate the non-thermal emission in these massive quiescent galaxies and explain the excess: MSP spin down损失的能量可以有效地转化为正负电子对
+
+- [Completeness of the Gaia-verse II: what are the odds that a star is missing from Gaia DR2?](https://arxiv.org/abs/2005.08983)
+  - **Useful**
+  - We infer the completeness of Gaia DR2 by exploiting the fact that it only contains sources with at least five astrometric detections.
+  - We fit both these models to the 1.7 billion stars of Gaia DR2, and thus are able to robustly predict the completeness of Gaia across the sky as a function of magnitude
+  - We find that the magnitude limit at which Gaia is still 99% complete varies over the sky from G=18.9 to 21.3.
+
+- [Diffuse LINER-type emission from extended disc regions of barred galaxies](https://arxiv.org/abs/2005.08985)
+  - 48 SBa - SBcd的观测，中心有SF沙漠区域，但是依然有弥散电离发射。Favour post-Asymptotic Giant Branch (p-AGB) stars as the source of this line excitation, rather than extreme Blue Horizontal Branch stars.
+  - The line equivalent widths are also larger than those observed in many fully passive (e.g. elliptical) galaxies, which may also be a consequence of a greater ambient gas density in the SFD regions.
+
+- [SDSS-IV MaNGA: Spatially resolved star formation in barred galaxies](https://arxiv.org/abs/2005.08987)
+  - MaNGA中的684 barred galaxies: we find that fractional (or scaled) bar length correlates with the host's offset from the star-formation main sequence.
+  - We find that only low-mass galaxies host star formation along their bars, and that this is located predominantly at the leading edge of the bar itself
+  - 星系棒内的SF位置由剪切力，湍动，和气体流向决定:the physical properties of a bar are mostly governed by the existing stellar mass of the host galaxy, but that they also play an important role in the galaxy's ongoing star formation.
+
+- [Observing Correlations Between Dark Matter Accretion and Galaxy Growth: I. Recent Star Formation Activity in Isolated Milky Way-Mass Galaxies](https://arxiv.org/abs/2005.08995)
+  - **Interesting**
+  - We present a technique to observationally measure this correlation strength for isolated Milky Way-mass galaxies with z<0.123 基于DM吸积率和附近星系的密度轮廓的相关，和过去Splashback radius有联系
+  - We find that positive correlations between dark matter accretion and recent star formation activity are ruled out with ≳85% confidence.
+  - Our results suggest that star formation activity may not be correlated with fresh accretion for isolated Milky Way-mass galaxies at z=0 and that other processes, such as gas recycling, dominate further galaxy growth.
+
+- [Gemini Multi-Object Spectrograph Integral Field Unit Spectroscopy of the Double-peaked Broad Emission Line of a Red Active Galactic Nucleus](https://arxiv.org/abs/2005.09014)
+  - We confirm the existence of two BEL peaks that are kinematically separated by 3000,kms−1, with the SMBH of each BEL component weighing at 10^8.92±0.06M⊙ and 10^7.13±0.06M⊙
+  - 两成分的间隔是0.085", 或250 pc. 但很不确定
+  - Given the uncertainty regarding the spatial separation, various models, such as the disk emitter and multiple SMBH models, are viable solutions to explain the double BEL components
+
+- [The local universe in the era of large surveys. I. Spectral classification of S0 galaxies](https://arxiv.org/abs/2005.09016)
+  - This procedure has revealed that objects bearing the S0 designation consist, despite their similar morphology, of two separate sub-populations with statistically inconsistent physical properties.
+  - Compared to the absorption-dominated S0, those with significant nebular emission are, on average, somewhat less massive, more luminous with less concentrated light profiles, have a younger, bluer and metal-poorer stellar component, and avoid high-galaxy-density regions.
+
+- [Time-delay measurement of MgII broad line response for the highly-accreting quasar HE 0413-4031: Implications for the MgII-based radius-luminosity relation](https://arxiv.org/abs/2005.09071)
+  - SALT 6年的观测：This time-delay is below the value expected from the standard radius-luminosity relation.
+  - 时间延迟的变短可能来自高吸积率
+
+- [A Universal fundamental plane and the Mdyn−M⋆ relation for galaxies with CALIFA and MaNGA](https://arxiv.org/abs/2005.09149)
+  - **Relevant**
+  - 定义S^2_K = K*V^2_Re + sigma^2_Re: We confirm that spheroidal and spiral galaxies follow the same M⋆−S0.5 scaling relation with lower scatter than the M⋆−VRe and M⋆−σ⋆e ones.
+  - We use sophisticated Schwarzschild dynamical models for a sub-sample of 300 galaxies from the CALIFA survey to calibrate the so called Universal Fundamental Plane: log(Υe)=log(S20.5)−log(Ie)−log(Re)+C
+  - We find that all classes of galaxies, from spheroids to disks, follow this Universal Fundamental Plane with a scatter significantly smaller (0.05 dex) than the one reported for the M⋆−S0.5 relation (0.1 dex)
+
+- [Star formation in outer rings of S0 galaxies. III. UGC 5936 -- an S0 with currently accreted satellite matter](https://arxiv.org/abs/2005.09383)
+  - The ionized gas of the ring is excited by young stars and has solar metallicity. Star formation in the ring is rather prolonged, and its intensity corresponds to the current HI content of UGC 5936 (to the Kennicutt-Schmidt relation).
+  - The whole morphology of the HI distribution implies current accretion of the cold gas from the satellite onto the outer disc of UGC 5936; due to the satellite location and rotation in the plane of the stellar disc of the host galaxy, the accretion is smooth and laminar providing the favorable condition for star formation ignition.
+
+- [A discrete chemo-dynamical model of M87's globular clusters: Kinematics extending to ~ 400 kpc](https://arxiv.org/abs/2005.09410)
+  - **Relevant**
+  - MUSE IFU观测中心2.4kpc内的恒星加上GC：Our catalogue comprises 894 globular clusters (GCs) extending to a projected radius of ∼430 kpc with line-of-sight velocities and colours
+  - Varying M/L for the main galaxy -> 一个显著的效果是 1Re以内的DM比例从26%涨到了73%; 5Re以内从84%涨到了94%
+  - 结果对DM halo是core还是cusp不敏感
+  - Red (in-situ) v.s. Blue (ex-situ): Red GCs have moderate rotation with Vmax/σ∼ 0.4, and blue GCs have weak rotation with Vmax/σ∼ 0.1. Red GCs have tangential velocity dispersion anisotropy, while blue GCs are consistent with being nearly isotropic.
+
+- [A New Metal-poor Globular Cluster and Resolved Stars in the Outer Disk of the Black Eye Galaxy M64: Implication for the Origin of the Type III Disk Break](https://arxiv.org/abs/2005.09633)
+  - At r≈5.5′ (7 kpc) to the east, we discover a new metal-poor globular cluster (Reff=5.73±0.02 pc and MV=−9.54±0.09 mag), M64-GC1.
+  - The CMD of the resolved stars in the entire ACS field shows two distinguishable red giant branches (RGBs): a curved metal-rich RGB and a vertical metal-poor RGB.
+  - GC年老，贫金属，属于stellar halo；性质和metal poor星族类似
+  - The radial number density profile of the metal-rich RGB stars is described by an exponential disk law, while the profile of the metal-poor RGB stars is described by a de Vaucouleurs's law
