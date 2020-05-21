@@ -752,3 +752,71 @@
   - The CMD of the resolved stars in the entire ACS field shows two distinguishable red giant branches (RGBs): a curved metal-rich RGB and a vertical metal-poor RGB.
   - GC年老，贫金属，属于stellar halo；性质和metal poor星族类似
   - The radial number density profile of the metal-rich RGB stars is described by an exponential disk law, while the profile of the metal-poor RGB stars is described by a de Vaucouleurs's law
+
+----
+
+### May 21
+
+- [Effective Opacity of the Intergalactic Medium from Galaxy Spectra Analysis](https://arxiv.org/abs/2005.09667)
+  - Effective opacity (τeff) of the Intergalactic Medium (IGM) from the composite spectra of 281 Lyman-Break Galaxies (LBGs) in the redshift range 2≲z≲3
+  - 对叠加光谱进行基于SSP的SED拟合之后外推到Lya森林区域:At z=2.22, we estimate τeff=0.159±0.001 from a power-law fit to the data.
+  - 和QSO得到的结果类似
+
+- [Impact of systematics on cosmological parameters from future Galaxy Clusters surveys](https://arxiv.org/abs/2005.10204)
+  - **Relevant**
+  - This higher accuracy exposes the impact of the mass function evaluation, which is a subdominant source of systematics for current data. For the ΛCDM model, we find a 1.6σ shift in the (Ωm,σ8) parameter plane and a discrepancy of ∼7σ for the redshift evolution of the scatter of the scaling relations.
+  - These results show the impact, and the necessity for a precise modelling, of the interplay between the redshift evolution of the mass function and of the scaling relations in the cosmological analysis of galaxy clusters.
+
+- [Studying Type II supernovae as cosmological standard candles using the Dark Energy Survey](https://arxiv.org/abs/2005.09757)
+  - We present a sample from the Dark Energy Survey Supernova Program (DES-SN) consisting of 15 SNe II with photometric and spectroscopic information spanning a redshift range up to 0.35.
+  - We construct the largest available Hubble diagram with SNe II in the Hubble flow (70 SNe II) and find an observed dispersion of 0.27 mag. 加入color项不能改进Hubble diagram的scatter
+  - SNII作为距离指示还有很长的路：find new correlations, define a more standard subclass of SNe II, construct new SN II templates, and dedicate more observing time to high-redshift SNe II.
+
+- [Detection of a variable ultra-fast outflow in the Narrow Line Seyfert 1 galaxy PG 1448+273](https://arxiv.org/abs/2005.09982)
+  - The UFO spectral features are often weak due to high ionisation of the outflowing material, and the inference of the wind physical properties can be complicated by other spectral features in AGN such as relativistic reflection.
+  - The UFO absorption is observed in both soft and hard X-ray bands with the XMM-Newton observatory. The velocity of the outflow is (26900 +- 600) km/s (~0.09c)
+    - The UFO is not detected in a second, shorter observation with XMM-Newton, indicating variability in time, observed also in other similar AGN.
+  - We detect weak warm absorption features in the spectrum of the object. Our systematic outflow search suggests the presence of further multi-phase wind structure, but we cannot claim a significant detection considering the present data quality
+
+- [VLA-ALMA Spectroscopic Survey in the Hubble Ultra Deep Field (VLASPECS): Total Cold Gas Masses and CO Line Ratios for z=2-3 "Main Sequence" Galaxies](https://arxiv.org/abs/2005.09653)
+  - Six detections of CO(J=1-0) emission and one upper limit in z=2-3 galaxies originally detected in higher-J CO emission in ALMA
+  - 气体质量：M_gas = 2.4-11.6 x 10^10 (alpha_CO/3.6) Msun
+  - CO(J=3-2) selected galaxies may have a higher CO line excitation on average than CO(J=1-0) selected galaxies, based on the limited, currently available samples
+  - 之前基于CO(3-2)估计宇宙冷气体密度可能需要调低一倍左右
+
+- [Resolving small-scale cold circumgalactic gas in TNG50](https://arxiv.org/abs/2005.09654)
+  - **Relevant**
+  - z=0.5的>10^11 Msun的大质量星系周围的CGm：a significant abundance of small-scale, cold gas structure in the CGM of 'red and dead' elliptical systems；主要是HI和MgII系统；数量很大，尺度可以在1kpc左右
+  - 冷气体云团的形成源自于强烈密度扰动促进的热不稳定性；局域的过密度区域引起快速冷却：act as cosmologically long-lived, 'stimulated cooling' seeds in a regime where the global halo does not satisfy the classic cooling criteria
+  - 而且，这些小团块是被磁场压力而不是热压力支撑的；with plasma beta << 1
+
+- [High-redshift Damped Ly-alpha Absorbing Galaxy Model Reproducing the N(HI)-Z Distribution](https://arxiv.org/abs/2005.09660)
+  - 模型描述高红移QSO光谱中的DLA和SF星系的关系：construct a model based on observed and physically motivated scaling relations in order to reproduce the bivariate distributions of metallicity, Z, and HI column density, N(HI).
+  - The model strongly favours a metallicity gradient, which scales with the luminosity of the host galaxy
+  - We find that DLAs trace galaxies over a wide range of galaxy luminosities, however, the bulk of the DLA cross-section arises in galaxies with L ~ 0.1 L* at z ~ 2.5
+
+- [A Cold, Massive, Rotating Disk Galaxy 1.5 Billion Years after the Big Bang](https://arxiv.org/abs/2005.09661)
+  - **Interesting**
+  - We report imaging, with a resolution of about 1.3 kiloparsecs, of the 158-micrometre emission line from singly ionized carbon, the far-infrared dust continuum and the near-ultraviolet continuum emission from a galaxy at a redshift of 4.2603.
+  - These observations show that the emission arises from gas inside a cold, dusty, rotating disk with a rotational velocity of 272 kilometres per second.
+
+- [What has quenched the massive spiral galaxies?](https://arxiv.org/abs/2005.09663)
+  - We report the identification of a rare population of very massive, quenched spiral galaxies with stellar mass ≳10^11 M⊙ and halo mass ≳10^13 M⊙ from the Sloan Digital Sky Survey at redshift z∼0.1
+  - IRAM观测显示分子气体质量很少
+
+- [SDSS-IV MaNGA: the role of bars in central star formation enhancements](https://arxiv.org/abs/2005.09853)
+  - We identify 124 "turnover" galaxies that each have a central upturn in EW(Hα), EW(HδA) and/or a central drop in Dn(4000), indicative of ongoing/recent star formation.
+  - 质量多在10^10 Msun以上: The majority of the turnover galaxies are barred, with a bar fraction of 87±3\%.
+  - For barred galaxies the radius of the central turnover region (Rt) is found to tightly correlate with the bar length (Rbar):
+  - Only half of the barred galaxies in our sample have a central turnover feature, implying that the presence of a bar is not sufficient to lead to a central SF enhancement.
+
+- [The Three Hundred project: shapes and radial alignment of satellite, infalling, and backsplash galaxies](https://arxiv.org/abs/2005.09896)
+  - **Relevant**
+  - We find that radial alignment depends on distance to the centre of the galaxy cluster but appears independent of the dynamical state of the central host cluster.
+  - We cannot find a relation between radial alignment of the halo or galaxy shape with its own mass
+
+- [Predicted rates of merging neutron stars in galaxies](https://arxiv.org/abs/2005.10226)
+  - 预测Kilonova rate：we take into account the production of r-process elements either by MNS or core-collapse supernovae.
+  - The [Eu/Fe] vs. [Fe/H] relation in the Milky Way can be well reproduced with only MNS if the time delay is short and constant.
+  - The spirals are the major contributors to the cosmic MNS at all redshifts in hierarchical scenarios.
+  - Future observations of Kilonovae in ellipticals will allow to disentangle among constant or a distribution of time delays as well as among different cosmological scenarios.
