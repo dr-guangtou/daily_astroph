@@ -820,3 +820,95 @@
   - The [Eu/Fe] vs. [Fe/H] relation in the Milky Way can be well reproduced with only MNS if the time delay is short and constant.
   - The spirals are the major contributors to the cosmic MNS at all redshifts in hierarchical scenarios.
   - Future observations of Kilonovae in ellipticals will allow to disentangle among constant or a distribution of time delays as well as among different cosmological scenarios.
+
+----
+
+### May 22
+
+- [Beware of commonly used approximations I: errors in forecasts](https://arxiv.org/abs/2005.10384)
+  - 宇宙学推断中，三个层面上的近似有可能产生问题：in the form of the likelihood, in the theoretical modelling of the observable and in the numerical computation of the observable.
+  - 用星系角功率谱展示这一点：We show that there are cases where these commonly used approximations lead, perhaps counter-intuitively, to unacceptably large mis-estimates of parameters errors and correlations 可能会抵消使用multi-tracer的好处
+  - we have developed MultiCLASS, a new extension of CLASS that includes the angular power spectrum for multiple (galaxy and other tracers such as gravitational waves) populations
+
+- [Apparent Superluminality of Lensed Gravitational Waves](https://arxiv.org/abs/2005.10702)
+  - If GWs have wavelengths comparable to the Schwarzschild radius of astrophysical lenses, they must be treated with wave optics, whereas EM waves are typically well within the approximation of geometric optics.
+  - 如果同时发出，GW信号永远不会比EM对应先到达；during the inspiral of a binary, peaks of the GW waveform can arrive before their EM counterpart
+
+- [Complete coordination of robotic fiber positioners for massive spectroscopic surveys](https://arxiv.org/abs/2005.10702)
+  - **SSST**
+  - We first define the local and the global completeness problems and determine their relationship. We then propose a new artificial potential field according to which the convergences of a positioner and its neighboring positioners are cooperatively taken into account
+
+- [Optimal target assignment for massive spectroscopic surveys](https://arxiv.org/abs/2005.08853)
+  - **SSST**
+  - We establish an optimal target assignment scheme which simultaneously provides the fastest coordination accompanied with the minimum of colliding scenarios between robotic fiber positioners.
+  - we propose a cost function by whose minimization both of the cited requirements are taken into account in the course of a target assignment process
+
+- [Considerations for the Observability of Kinematically Offset Binary AGN](https://arxiv.org/abs/2005.10255)
+  - 能否用binary AGN的BLR的发射线移动来找双AGN：There is a delicate trade-off between requiring binary separations to be large enough for BL regions to remain attached to one of the AGN, but also small enough such that their orbital velocity is detectable.
+  - We find that kinematic signatures are only observable for the lower-mass secondary AGN, for binaries with total-masses above about 108M⊙, and separations between 0.1 and 1 pc.
+  - 可能1万个AGN里才有一个，还需要更好地理解AGN BLR的本征光变特性：This requires multi-epoch spectroscopy of large populations of AGN over a variety of timescales. **SSST**
+
+- [The Mergers in Abell 2256: Displaced Gas and its Connection to the Radio-emitting Plasma](https://arxiv.org/abs/2005.10263)
+  - 射电结构丰富，被一个relic主导，X-ray观测看到三个子结构
+  - The infalling gas is not co-spatial with bright galaxies and the radio loud brightest cluster galaxy of the infalling group appears dissociated from the low entropy plasma by 50 kpc in projection, to the south of the eastern edge of the cold front.
+  - Part of the low frequency radio emission near the cold front might be revived by magnetic field amplification due to differential gas motions
+
+- [Chandra Imaging of the Western Hotspot in the Radio Galaxy Pictor A: Image Deconvolution and Variability Analysis](https://arxiv.org/abs/2005.10350)
+  - Pictor A是一个FR-II射电星系，hot spot是相对论性喷流与IGM相互作用的位置； forming a termination shock that converts jet bulk kinetic energy to internal energy of the plasma.
+  - 热点在X-ray很亮是因为激波波前内的极端相对论性电子的同步加速辐射
+  - The brightest segment of the X-ray hotspot is observed to be extended in the direction perpendicular to the jet, forming a thin, ∼3 kpc-long, feature that we identify with the front of the reverse shock.
+
+- [Dynamical evolution of cosmic supermassive binary black holes and their gravitational wave radiation](https://arxiv.org/abs/2005.10818)
+  - By combining these BBH evolution tracks, galaxy mass functions, galaxy merger rates, and supermassive black hole-host galaxy relations into our model, we obtain the statistical distributions of surviving BBHs, BBH coalescence rates, the strength of their GW radiation, and the stochastic GW background contributed by the cosmic BBH population.
+  - 近邻星系中有1-3%的星系中心应该有binary SMBH with mass ratio >1
+  - The application of the cosmic BBH population to the LISA band provides a lower limit to the detection rate of BBHs by LISA, ~0.9/yr.
+
+- [A molecular absorption line survey toward the AGN of Hydra-A](https://arxiv.org/abs/2005.10252)
+  - **Relevant**
+  - ALMA观测，来自至少12个云团的多个分子发射线：have velocities of approximately −50 to +10 km s−1 relative to its recession velocity
+  - A clumpy interstellar medium within brightest cluster galaxies 柱密度，速度弥散，激发温度和银河系内的类似
+  - **nice figure**
+
+- [Galactic inflow and wind recycling rates in the EAGLE simulations](https://arxiv.org/abs/2005.10262)
+  - Galaxy-scale wind recycling is generally inefficient, with a characteristic return timescale that is comparable or longer than a Hubble time, and with an efficiency that clearly peaks at the characteristic halo mass of M200 = 10^12 M.
+  - We are able to show that the fractional contribution of wind recycling to galaxy growth is smaller in EAGLE than in some other simulations.
+  - We find that cumulative first-time gas accretion rates at the virial radius are reduced relative to the expectation from dark matter accretion for haloes with mass, M200 < 10^12 M
+
+- [How primordial magnetic fields shrink galaxies](https://arxiv.org/abs/2005.10269)
+  - 高分辨MHD模拟：vary the initial magnetic field strength and configuration along with the prescription for stellar feedback
+  - 更强的原初磁场可以：1. 推迟SF的开始；2. 让星系逐渐失去rotational support；3. 减小星系的size；4. 驱动更多的气体流向星系中心。
+  - The effects of primordial magnetic fields are amplified in the presence of stellar feedback
+
+- [ALMA [CII] 158um imaging of an HI-Selected Major Merger at z~4](https://arxiv.org/abs/2005.10279)
+  - Our ALMA images reveal a pair of star-forming galaxies separated by ~6kpc (projected) undergoing a major merger. Between these galaxies is a third emission component with highly elevated (2x) [CII] 158um emission relative to the dust continuum, which is likely to arise from stripped gas associated with the merger.
+  - The DLA associated with the merger exhibits extreme kinematics, with a velocity width for the low-ionization metal lines of Dv90~470km/s that spans the velocity spread revealed in the [CII] 158um emission.
+  - DLAs with high Dv90 values are a signpost of major mergers in normal galaxies at high redshifts
+
+- [Wobbly discs -- corrugations seen in the dust lanes of edge-on galaxies](https://arxiv.org/abs/2005.10290)
+  - corrugations: 褶皱; small scale bending waves
+  - Because they are seen in absorption, this feature must be present in the dust disc in the outskirts of these galaxies.
+  - The corrugation amplitude is found to be in the range of 70 - 200 pc and the wavelengths lie between 1 - 5 kpc.
+  - The amplitude of the corrugations tends to be larger for lower mass galaxies
+
+- [Internal kinematics of giant H II regions in M101 with the Keck Cosmic Web Imager](https://arxiv.org/abs/2005.10369)
+  - 用Hbeta和[OIII]线轮廓分析找膨胀中的shell以及filaments的证据
+  - The supersonic turbulence inferred from the global line profiles is consistent with the velocity dispersion of the individual narrow components; global轮廓是一群小的discrete clouds的贡献的加和
+  - We argue that the resolution of this long-standing problem lies in the physics of the line-emitting gas rather than in the smearing effects induced by the different thermal widths.
+
+----
+
+### May 25
+
+- [Chandra and XMM-Newton observations of A2256: cold fronts, merger shocks, and constraint on the IC emission](https://arxiv.org/abs/2005.10838)
+  - The temperature and metallicity maps show clear evidence of a merger between the western subcluster and the primary cluster.
+  - X-ray看到了各种面亮度edge：中心的cold front和边缘的shock front
+  - We propose a merger scenario including a primary cluster, a subcluster, and a group
+
+- [The Mean Absorption Line Spectra of a Selection of Luminous z~6 Lyman Break Galaxies](https://arxiv.org/abs/2005.11078)
+  - We demonstrate the practicality of stacking our lower resolution data to measure the depth of various interstellar and stellar absorption lines to probe the covering fraction of low ionization gas and the gas-phase and stellar metallicities near the end of the era of cosmic reionization.
+  - From maximum absorption line depths of SiII1260 and CII1334, we infer a mean covering fraction of >0.85 +/-0.16 for our sample.
+  - Using various interstellar absorption lines we deduce gas-phase metallicities close to solar indicative of substantial early enrichment.
+
+- [Galaxy And Mass Assembly (GAMA): Assimilation of KiDS into the GAMA database](https://arxiv.org/abs/2005.11215)
+  - **Useful**
+  - The source extraction and analysis is based on the new ProFound image analysis package, providing matched-segment photometry across all bands. The data are classified into stars, galaxies, artefacts, and ambiguous objects
