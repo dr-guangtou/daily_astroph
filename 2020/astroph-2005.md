@@ -912,3 +912,73 @@
 - [Galaxy And Mass Assembly (GAMA): Assimilation of KiDS into the GAMA database](https://arxiv.org/abs/2005.11215)
   - **Useful**
   - The source extraction and analysis is based on the new ProFound image analysis package, providing matched-segment photometry across all bands. The data are classified into stars, galaxies, artefacts, and ambiguous objects
+
+----
+
+### May 26
+
+- [Chandra and XMM-Newton observations of A2256: cold fronts, merger shocks, and constraint on the IC emission](https://arxiv.org/abs/2005.10838)
+  - **Relevant, Important**
+  - CLASH+RELICS+HFF的BCG和halo的alignment，shape来自SL测量
+  - DM halo结构比较elongated，平均椭率在0.5左右；且和BCG align得很好，alignment角度在~20度左右
+  - We find that DM haloes in our sample are on average more elongated than their BCGs with the mean difference of their ellipticities of 0.11 ± 0.03. 但Horizon-AGN模拟里Halo和BCG shape则很一致
+
+- [The Mass Accretion Rate of Clusters of Galaxies: CIRS and HeCS](https://arxiv.org/abs/2005.11562)
+  - **Relevant, Important**
+  - 基于模拟中训练出的方法估计观测的0.1< z <0.3的>10^14 Msun的星系团的MAR：Based on three-dimensional mass profiles of simulated clusters reaching beyond the virial radius, our recipe returns MARs that agree with MARs based on merger trees. 基于caustic的方法。
+  - The median MARs based on the caustic mass profiles of the simulated clusters are unbiased and agree within 17% with the median MARs based on the real mass profile of the clusters.  
+  - The MAR of the CIRS and HeCS clusters increases with the mass and the redshift of the accreting cluster, in excellent agreement with the growth of clusters in the ΛCDM model.
+
+- [The cosmic web connection to the dark matter halo distribution through gravity](https://arxiv.org/abs/2005.11598)
+  - We use the invariants of the tidal field tensor as generating functions (dubbed I-web), to reproduce the halo number counts of a reference catalog from full gravity calculations, populating the dark matter field on a mesh well into the non-linear regime 能得到比较真实的功率谱
+
+- [Galaxy cluster mass estimation with deep learning and hydrodynamical simulations](https://arxiv.org/abs/2005.11819)
+  - **Relevant**
+  - BAHAMAS模拟：We train four separate single-channel networks using: stellar mass, soft X-ray flux, bolometric X-ray flux, and the Compton y parameter as observational tracers
+  - The resulting predictions are especially precise for halo masses in the range 10^13.25M⊙ < M < 10^14.5M⊙ 基于SZ效应的最好
+  - The CNN trained with stellar mass images detect galaxies (not surprisingly), while CNNs trained with gas-based tracers utilise the shape of the signal to estimate cluster mass.
+
+- [On the road to per-cent accuracy IV: ReACT -- computing the non-linear power spectrum beyond ΛCDM](https://arxiv.org/abs/2005.12184)
+  - We present the public software package ReACT, demonstrating its capability for the fast and accurate calculation of non-linear power spectra from non-standard physics.
+  - Accurate non-linear modelling with ReACT more than doubles LSST's constraining power on the f(R) parameter, in contrast to an analysis that is limited to the quasi-linear regime.
+
+- [Jet Properties of Compact Steep-Spectrum Sources and an Eddington-Ratio-Driven Unification Scheme of Jet Radiation in Active Galactic Nuclei](https://arxiv.org/abs/2005.11534)
+  - 有Gamma ray探测的CSS射电源的喷流SED拟合：SED fits with a two-zone leptonic model for radiations from the compact core and large-scale extended region
+  - 有些CSS的Gamma辐射有明显变化，来自：their compact cores via the inverse Compton process of the torus photons
+  - The six CSSs on average have higher Eddington ratio and black hole mass than those non-GeV-detected CSSs, and they follow the correlation between the jet power in units of Eddington luminosity (P_jet/L_Edd) and Eddington ratio (R_Edd) with other sub-classes of AGNs
+
+- [On the radial acceleration of disk galaxies](https://arxiv.org/abs/2005.11316)
+  - Using published data of the galaxies NGC 3198, NGC 2403, NGC 1090, UGC 3205 and NGC 1705, it has been possible to find good fits without DM for the observed disk velocities and, as example, also for the extraplanar matter of NGC 3198.
+
+- [PHANGS CO kinematics: disk orientations and rotation curves at 150 pc resolution](https://arxiv.org/abs/2005.11709)
+  - 更好的拟合CO速度场的方法： identifies an optimal global orientation as a way to reduce the impact of non-axisymmetric (bar and spiral) features and the uneven spatial sampling characteristic of CO emission in the inner regions
+  - We use the inner slope as well as the amplitude of our fitted rotation curves to demonstrate that CO is a reliable global dynamical mass tracer.
+  - From the consistency between photometric orientations from the literature and kinematic orientations determined with our method, we infer that the shapes of stellar disks in the mass range of log(M⋆(M⊙))=9.0-10.9 probed by our sample are very close to circular and have uniform thickness.
+
+- [A giant galaxy in the young Universe with a massive ring](https://arxiv.org/abs/2005.11880)
+  - A detailed study of a ring galaxy at a look-back time of 10.8 Gyr (z=2.19).
+  - Compared with our Milky Way, this galaxy has a similar stellar mass, but has a stellar half-light radius that is 1.5-2.2 times larger and is forming stars 50 times faster.
+  - The large, diffuse stellar light outside the star-forming ring, combined with a radial velocity on the ring and an intruder galaxy nearby, provides evidence for this galaxy hosting a collisional ring. 
+  - This work suggests that massive collisional rings were as rare 11 Gyr ago as they are today.
+
+- [Galaxy And Mass Assembly (GAMA): A forensic SED reconstruction of the cosmic star-formation history and metallicity evolution by galaxy type](https://arxiv.org/abs/2005.11917)
+  - **Relevant, Important**
+  - ProSpect拟合7000个z<0.06的GAMA星系：parametric SFH+closed-box丰度演化模型
+  - 能重构正确的CSFH模型： an indication that stars are being formed in the correct epoch of the Universe, on average, for the manner in which we are conducting SED fitting.
+  - This analysis suggests that half of the mass in present-day elliptical galaxies was in place 11 Gyr ago, whereas in other morphological types the stellar mass formed later, up to 6 Gyr ago for present-day irregular galaxies
+
+- [Cold molecular gas and PAH emission in Seyfert galaxies](https://arxiv.org/abs/2005.11959)
+  - 看11.3 micron PAH是否trace冷分子气体
+  - Galaxies with a nuclear detection of the 11.3μm PAH feature contain more cold molecular gas 柱密度也更高; 说明分子气体起到了保护PAH的作用
+  - The Spitzer/IRS PAH ratios on circumnuclear scales (∼ 4" ∼ 0.25-1.3kpc) are in between model predictions for neutral and partly ionized PAHs.
+
+- [Measuring the local dark matter density with LAMOST DR5 and Gaia DR2](https://arxiv.org/abs/2005.12018)
+  - vertical Jeans equation分析：The mass models applied consist of a single exponential stellar disc, a razor thin gas disc and a constant dark matter density.
+  - The local dark matter densities for subsamples in an azimuthal angle range of −10∘<ϕ<5∘ are consistent within their 1σ errors. However, the northern and southern subsamples show a large discrepancy due to plateaux in the northern and southern vertical velocity dispersion profiles
+  - Taking the tilt term into account has little effect on the parameter estimations and does not explain the north and south asymmetry
+
+- [The Fornax Deep Survey with VST. X. The catalog of sources in the FDS area, with an example study for globular clusters and background galaxies](https://arxiv.org/abs/2005.12085)
+  - **Relevant**
+  - 21.7 deg^2的巡天：catalogs of compact stellar systems in the Fornax cluster as well as extended background sources and point-like sources.
+  - We observe the inter-galactic population of GCs, a population of mainly blue GCs centered on NGC1399, extends over ∼0.9Mpc, with an ellipticity ∼0.65.
+  - Using the gri catalogs we analyze the GC distribution over the extended FDS area, and do not find any obvious GC sub-structure bridging the two brightest cluster galaxies, NGC1316 and NGC1399.
