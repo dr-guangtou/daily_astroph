@@ -1063,3 +1063,84 @@
 - [Interactions among intermediate redshift galaxies. The case of SDSSJ134420.86+663717.8](https://arxiv.org/abs/2005.12888)
   - MODS观测：We find that the galaxy with broad emission line features has Seyfert~1 properties, while the galaxy with only narrow emission line features seems to be star-forming in nature.
   - 10^7 Msun SMBH
+
+----
+
+### May 27
+
+- [A hierarchical field-level inference approach to reconstruction from sparse Lyman-α forest data](https://arxiv.org/abs/2005.12928)
+  - Bayesian forward modelling approach: Our field-level approach rests on a recently developed semiclassical analogue to Lagrangian perturbation theory (LPT), which improves over noise problems and interpolation requirements of LPT
+  - By gradually reducing the effective temperature of the forward model, we can allow it to converge first on large spatial scales before the sampler becomes sensitive to the increasingly larger space of smaller scales.
+
+- [Connecting the structure of dark matter haloes to the primordial power spectrum](https://arxiv.org/abs/2005.12933)
+  - **interesting**
+  - 看当初始条件，the primordial power spectrum of density fluctuations，改变的情况下，DM halo结构的一致性还能否保持。在LCDM的范围内。
+  - The structure of dark matter haloes retains a clear memory of the initial conditions.
+  - Although, an Einasto form works well. Rather than being universal, the slope of the PPSD (or pseudo-entropy) profile steepens (flattens) with increasing (decreasing) power spectrum amplitude and can exhibit a strong halo mass dependence.
+  - 之前模拟里得到的Universal profile可能是因为模拟都是按照CMB限制的PPS进行的
+
+- [The clustering of LRGs in the DECaLS DR8 footprint: distance constraints from baryon acoustic oscillations using photometric redshifts](https://arxiv.org/abs/2005.13126)
+  - Although the cosmological information is highly contaminated by the uncertainties existing in the photometric redshifts from the galaxy map, an angular diameter distance can be probed at the perpendicular configuration in which the measured correlation function is minimally contaminated.
+  - We apply the same methodology for analysing the LRG sample from DECaLS which will provide the optical imaging for targeting two-thirds of the DESI footprint and measure the angular diameter distances at z=0.69 and z=0.87 to be DA(0.697)=(1499±77Mpc)(rd/rd,fid) and DA(0.874)=(1680±109Mpc)(rd/rd,fid)
+
+- [Application of X-Ray Clumpy Torus Model (XCLUMPY) to 10 Obscured Active Galactic Nuclei Observed with Suzaku and NuSTAR](https://arxiv.org/abs/2005.12927)
+  - The torus angular widths determined from the infrared spectra (σIR) are systematically larger than those from the X-ray data (σX); the difference (σIR−σX) correlates with the inclination angle determined from the X-ray spectrum.
+  - 可能有dusty polar outflows在红外的贡献，尤其是在高倾角的情况下
+  - A significant fraction of AGNs have dust-rich circumnuclear environments
+
+- [Pressure balance in the multiphase ISM of cosmologically simulated disk galaxies](https://arxiv.org/abs/2005.12916)
+  - FIRE-2模拟：on average and consistent with previous more idealized simulations, the total ISM pressure balances the weight of the overlying gas
+  - Deviations from vertical pressure balance increase with increasing galactocentric radius and with decreasing averaging scale.
+  - The different phases are in rough total pressure equilibrium with one another, but with large deviations from thermal pressure equilibrium owing to kinetic support in the cold and warm phases, which dominate the total pressure near the midplane.
+  - 盘上气体质量给出的重量可以比较好地预测mid-plane pressure; 而且这个压力和SFR面密度线性相关: These results support the notion that the Kennicutt-Schmidt relation arises because Sigma_SFR and the gas surface density (Sigma_g) are connected via the ISM midplane pressure.
+
+- [The origin of X-ray coronae around simulated disc galaxies](https://arxiv.org/abs/2005.12926)
+  - **Relevant**
+  - EAGLE模拟：10^13 Msun的halo，<0.1 Rvir以内的X-ray气体主要来自SN反馈；在这个范围之外，a quasi-hydrostatic, accreted atmosphere dominates.
+  - We predict that a dependence on halo mass of the hot gas to dark matter mass fraction can significantly change the slope of the LX−Mvir relation. This varying gas fraction is driven by active galactic nuclei (AGN) feedback.
+  - 气体比例随halo质量升高；在低质量 < 10^14 Msun的暗物质晕里，LX-Mvir关系更陡
+
+- [Determining the systemic redshift of Lyman-α emitters with neural networks and improving the measured large-scale clustering](https://arxiv.org/abs/2005.12931)
+  - We explore how to mitigate the clustering distortions in Lyman-α emitters (LAEs) samples caused by the miss-identification of the Lyman-α (Lyα) wavelength in their Lyα line profiles
+  - We introduce a novel approach to measure the systemic redshift of LAEs from their Lyα line using neural networks. In detail, we assume that, for a fraction of the whole LAE population their systemic redshift is determined precisely through other spectral features
+  - We conclude that LAE surveys such as HETDEX would benefit from determining with high accuracy the systemic redshift of a subpopulation
+
+- [Evidence of AGN feedback and sloshing in the X-ray luminous NGC 1550 galaxy group](https://arxiv.org/abs/2005.12950)
+  - Although previously thought of as relaxed, we show evidence that gas sloshing and active galactic nucleus (AGN) heating have affected the structure of the system.
+  - The 610 and 235 MHz radio images show an asymmetric jet-lobe structure with a total size of ∼33 kpc
+  - An estimate of the mechanical energy required to inflate the cavities suggests that the AGN of NGC 1550 is capable of balancing radiative losses from the intragroup medium (IGM) and preventing excessive cooling, providing that the AGN jets are efficiently coupled to the IGM gas.
+
+- [Disentangling the Cosmic Web Towards FRB 190608](https://arxiv.org/abs/2005.13157)
+  - 在z=0.11的一个漩涡星系中，DM测量值比这个红移处的平均要高得多
+  - 利用KCWI观测和SDSS图像给出ISM和halo中气体的DM贡献；Then, using the Monte Carlo Physarum Machine (MCPM) methodology, we produce a 3D map of ionized gas in cosmic web filaments and compute the DM contribution from matter outside halos
+  - 说明有大量电离气体位于位力化的halo外面：而且似乎不应该是视线方向的halo里的
+
+- [Dissecting the Local Environment of FRB 190608 in the Spiral Arm of its Host Galaxy](https://arxiv.org/abs/2005.13158)
+  - 在旋臂上：Our Hubble Space Telescope WFC3/UVIS image reveals that the sub-arcsecond localization of FRB 190608 is coincident with a knot of star-formation
+  - 有KCWI观测，根据发射线给出ISM的DM估计，基于消光改正过的Halpha面亮度
+  - 通过旋转速度估计动力学质量，估计Halo中产生的DM
+  - The relatively high temporal broadening (τ=3.3±0.2ms at 1.28 GHz) and rotation measure (RM=353±2radm−2) (Day et al. 2020) of FRB 190608 may be attributable to both turbulent gas within the spiral arm and gas local to the FRB progenitor
+
+- [The host galaxies and progenitors of Fast Radio Bursts localized with the Australian Square Kilometre Array Pathfinder](https://arxiv.org/abs/2005.13160)
+  - ASKAP已经能够通过1次脉冲就把FRB定位到 1 arcsec以内; 目前已经有4个
+  - All four are massive galaxies (log( M∗/M⊙) ∼9.4−10.4) with modest star-formation rates of up to 2M⊙yr−1 而且主要在星系外围，说明前身应该不是AGN
+  - 根据星族看，不应该都来自年轻星族中的SLSNe
+
+- [ALMA 26 arcmin2 survey of GOODS-S at one-millimeter (ASAGAO): millimeter properties of stellar mass selected galaxies](https://arxiv.org/abs/2005.13346)
+  - Based on the ASAGAO combined map, which was created by combining ASAGAO and ALMA archival data in the GOODS-South field, we find that 24 ZFOURGE sources have 1.2 mm counterparts
+  - ALMA-detected ZFOURGE sources exhibit systematically larger infrared (IR) excess (IRX ≡LIR/LUV) compared to ZFOURGE galaxies without ALMA detections
+
+- [A Gemini/GMOS study of the bright elliptical galaxy NGC 3613 and its globular cluster system](https://arxiv.org/abs/2005.13370)
+  - **Relevant**
+  - The colour distribution is bimodal, with metal-poor globular clusters (GCs) getting slightly bluer with increasing radius.
+  - The radial and azimuthal projected distributions show that metal-rich GCs are more concentrated towards the host galaxy and trace its light distribution very precisely, while metal-poor GCs present a more extended and uniform distribution.
+  - A small sample of ultra-compact dwarf (UCD) candidates are identified in the surroundings of the host galaxy.
+
+- [AlFoCS + Fornax3D: resolved star formation in the Fornax cluster with ALMA and MUSE](https://arxiv.org/abs/2005.13454)
+  - ALMA and MUSE to study the resolved (~300 pc scale) star formation relation
+  - We explore these further in FCC290, using the 'uncertainty principle for star formation' (Kruijssen & Longmore, 2014a) to estimate molecular cloud lifetimes, which we find to be short (<10 Myr) in this galaxy.
+  - We find that the star formation relation in the Fornax cluster is close to those from Kennicutt (1998) and Bigiel et al. (2008), but overlaps mostly with the shortest depletion times predicted by Bigiel et al. (2008).
+
+- [The Diffuse Light Envelope of Luminous Red Galaxies](https://arxiv.org/abs/2005.13467)
+  - **Relevant**
+  - The LRG profiles appear to be well approximated by a single Sersic profile, although some excess light can be seen outside 60 kpc.
