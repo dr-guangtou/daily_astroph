@@ -926,7 +926,7 @@
 - [The Mass Accretion Rate of Clusters of Galaxies: CIRS and HeCS](https://arxiv.org/abs/2005.11562)
   - **Relevant, Important**
   - 基于模拟中训练出的方法估计观测的0.1< z <0.3的>10^14 Msun的星系团的MAR：Based on three-dimensional mass profiles of simulated clusters reaching beyond the virial radius, our recipe returns MARs that agree with MARs based on merger trees. 基于caustic的方法。
-  - The median MARs based on the caustic mass profiles of the simulated clusters are unbiased and agree within 17% with the median MARs based on the real mass profile of the clusters.  
+  - The median MARs based on the caustic mass profiles of the simulated clusters are unbiased and agree within 17% with the median MARs based on the real mass profile of the clusters.
   - The MAR of the CIRS and HeCS clusters increases with the mass and the redshift of the accreting cluster, in excellent agreement with the growth of clusters in the ΛCDM model.
 
 - [The cosmic web connection to the dark matter halo distribution through gravity](https://arxiv.org/abs/2005.11598)
@@ -958,7 +958,7 @@
 - [A giant galaxy in the young Universe with a massive ring](https://arxiv.org/abs/2005.11880)
   - A detailed study of a ring galaxy at a look-back time of 10.8 Gyr (z=2.19).
   - Compared with our Milky Way, this galaxy has a similar stellar mass, but has a stellar half-light radius that is 1.5-2.2 times larger and is forming stars 50 times faster.
-  - The large, diffuse stellar light outside the star-forming ring, combined with a radial velocity on the ring and an intruder galaxy nearby, provides evidence for this galaxy hosting a collisional ring. 
+  - The large, diffuse stellar light outside the star-forming ring, combined with a radial velocity on the ring and an intruder galaxy nearby, provides evidence for this galaxy hosting a collisional ring.
   - This work suggests that massive collisional rings were as rare 11 Gyr ago as they are today.
 
 - [Galaxy And Mass Assembly (GAMA): A forensic SED reconstruction of the cosmic star-formation history and metallicity evolution by galaxy type](https://arxiv.org/abs/2005.11917)
@@ -982,3 +982,84 @@
   - 21.7 deg^2的巡天：catalogs of compact stellar systems in the Fornax cluster as well as extended background sources and point-like sources.
   - We observe the inter-galactic population of GCs, a population of mainly blue GCs centered on NGC1399, extends over ∼0.9Mpc, with an ellipticity ∼0.65.
   - Using the gri catalogs we analyze the GC distribution over the extended FDS area, and do not find any obvious GC sub-structure bridging the two brightest cluster galaxies, NGC1316 and NGC1399.
+
+----
+
+### May 27
+
+- [Redshift evolution of the hot intracluster gas metallicity in the C-EAGLE cluster simulations](https://arxiv.org/abs/2005.10838)
+  - **Relevant**
+  - The early enrichment model, in which the majority of metals are produced in the core of cluster progenitors at high redshift, suggests that metals in cluster outskirts have not significantly evolved since z=2.
+  - C-EAGLE模拟基本支持“早期增丰”模型:there is very little scatter in the metallicity abundance at large radius across the whole sample, out to at least z=2
+  - 只有Fe元素在低红移有演化，因为SNIa
+  - C-EAGLE在星系团中心看到了金属丰度的演化，可能来自内流的低金属丰度气体的影响
+
+- [JoXSZ: Joint X-SZ fitting code for galaxy clusters](https://arxiv.org/abs/2005.12315)
+  - **Useful**
+  - We present JoXSZ, the first publicly available code designed to jointly fit SZ and X-ray data coming from various instruments to derive the thermodynamic profiles of galaxy clusters.
+  - Forward modeling; adopts the correct Poisson-Gauss expression for the joint likelihood; accounts for beam smearing and data analysis transfer functin, accounts for the temperature and metallicity dependencies of the SZ and X-ray conversion factors
+  - https://github.com/fcastagna/JoXSZ
+
+- [Is diffuse intracluster light a good tracer of the galaxy cluster matter distribution?](https://arxiv.org/abs/2005.12275)
+  - **Relevant, Important**
+  - 528 clusters at 0.2≤z≤0.35 from DES Y1: The surface brightness of the diffuse light shows an increasing dependence on cluster total mass at larger radius, and appears to be self-similar with a universal radial dependence after scaling by cluster radius 认为diffuse light的profile和总物质分布的profile类似，这点和TNG不一样
+  - The amount of diffuse stellar mass has a low-scatter scaling relation with cluster's total mass in the simulation, out-performing the total stellar mass of cluster satellite galaxies.
+
+- [GalaxyNet: Connecting galaxies and dark matter haloes with deep neural networks and reinforcement learning in large volumes](https://arxiv.org/abs/2005.12276)
+  - **Interesting, CSST, SSST**
+  - Reinforcement learning技术
+  - The most important halo properties to predict stellar mass and star formation rate (SFR) are halo mass, growth rate, and scale factor at the time the mass peaks
+  - GalaxyNet is then trained with a reinforcement learning approach: for a fixed set of weights and biases, we compute the galaxy properties for all haloes and then derive mock statistics (stellar mass functions, cosmic and specific SFRs, quenched fractions, and clustering). Comparing these statistics to observations we get the model loss, which is minimised with particle swarm optimisation.
+  - Predicts a stellar-to-halo mass relation with a lower normalisation and shallower low-mass slope at high redshift than empirical models
+
+- [CLEAR II: Evidence for Early Formation of the Most Compact Quiescent Galaxies at High Redshift](https://arxiv.org/abs/2005.12289)
+  - **Relevant**
+  - "non-parametric" star-formation histories and a nested sampling method to derive constraints on the formation and quenching timescales of quiescent galaxies at 0.7< z< 2.5
+  - The galaxy formation redshifts, z50 (defined as the point where they had formed 50\% of their stellar mass) range from z50∼2 (shortly prior to the observed epoch) up to z50≃5−8
+  - 高中心恒星质量密度的星系有较早的半质量形成红移
+  - We argue that the surface density threshold logΣ1/(M⊙ kpc−2)>10.25 uniquely identifies galaxies that formed in the first few Gyr after the Big Bang
+
+- [The PHLEK Survey: A New Determination of the Primordial Helium Abundance](https://arxiv.org/abs/2005.12290)
+  - Keck NIRSPEC/NIRES观测16个贫金属星系，HeI 10830AA 发射线；金属丰度区间：metallicity range 12 + log (O/H) = 7.13 - 8.00.
+  - Report a new determination of the primordial helium number abundance, y_P = 0.0805+/-0.0017, which corresponds to a primordial helium mass fraction Y_P = 0.2436+/-0.0040.
+
+- [H0LiCOW XI. A weak lensing measurement of the external convergence in the field of the lensed quasar B1608+656 using HST and Subaru deep imaging](https://arxiv.org/abs/2005.12295)
+  - **SSST** 可以做SLQSO的环境和光变跟踪
+  - Mass map WL构建: we find that the ground-based data is less sensitive to small-scale structures than the space-based observations.
+  - B1608+656 resides in an over-dense line of sight
+  - The weak lensing results favor truncated halo models.
+
+- [High-resolution VLA low radio frequency observations of the Perseus cluster: radio lobes, mini-halo and bent-jet radio galaxies](https://arxiv.org/abs/2005.12298)
+  - **Relevant**
+  - VLA观测: first high-resolution 230-470 MHz map of the Perseus cluster
+  - New hints of sub-structures appear in the inner radio lobes of the brightest cluster galaxy NGC 1275. The spurs of radio emission extending into the outer X-ray cavities, inflated by past nuclear outbursts
+  - Two new distinct, narrowly-collimated jets are visible in IC 310, consistent with a highly-projected narrow-angle tail radio galaxy infalling into the cluster.
+  - We report the presence of filamentary structures across the entire tail of NGC 1265, including two new pairs of long filaments in the faintest bent extension of the tail.
+
+- [K-CLASH: spatially-resolving star-forming galaxies in field and cluster environments at z≈0.2-0.6](https://arxiv.org/abs/2005.12471)
+  - KMOS观测：191 (predominantly blue) Hα-detected galaxies at 0.2≲z≲0.6 in field and cluster environments.
+  - K-CLASH aims to study the transition of star-forming galaxies from turbulent, highly star-forming disc-like and peculiar systems at z≈1-3, to the comparatively quiescent, ordered late-type galaxies at z≈0, and to examine the role of clusters in the build-up of the red sequence since z≈1.
+  - We measure no difference between the star-formation rates of Hα-detected, star-forming galaxies in either environment after accounting for stellar mass, suggesting that cluster quenching occurs very rapidly during the epochs probed by K-CLASH, or that star-forming K-CLASH galaxies in clusters have only recently arrived there
+
+- [Selection of massive evolved galaxies at 3≤z≤4.5 in the CANDELS fields](https://arxiv.org/abs/2005.12507)
+  - **Relevant**
+  - 基于CANDELS的：We find the comoving number density of these objects to be ∼2×10^−5 and 8×10^−6Mpc−3 after correction for completeness for two redshift bins centered at z=3.4,4.7.
+  - 和模拟以及SAM比，模型稍微低估了高红移evolved星系的质量和数密度
+  - By estimating the average halo masses of the candidates (Mh≈4.2,1.9,1.3×10^12M⊙ for redshift bins centered at z=3.4,4.1,4.7), we find them to be consistent with halos that were efficient in turning baryons to stars and were relatively immune to the feedback effects and on the verge of transition into hot-mode accretion.
+
+- [The radio-loud narrow-line Seyfert 1 galaxy 1H 0323+342 in a galaxy merger](https://arxiv.org/abs/2005.12510)
+  - The population of radio-loud NLS1s presents a challenge for the relativistic jet paradigm that powerful radio jets are exclusively associated with very high mass SMBHs
+  - 射电观测也支持星系正在经历并和：The anomalous radio morphology consists of two different structures, the inner curved structure of currently active jet and the outer linear structure of low-brightness relics.
+  - Such a coexistence might be indicative of the stage of an established black hole binary with precession before the black holes coalesce in the galaxy merger process
+
+- [A Ly-alpha nebula at z~3.3](https://arxiv.org/abs/2005.12707)
+  - We developed a systematic searching tool, ATACAMA (A Tool for seArChing for lArge LyMan Alpha nebulae) designed to find large Ly-alpha nebulae at any redshift within deep multi-wavelength broad-band imaging.
+  - We identified a Ly-alpha nebula candidate at zphot~3.3 covering an isophotal area of 29.4sq.arcsec
+
+- [Circumnuclear regions of different BPT types in star-forming MaNGA galaxies: AGN detectability](https://arxiv.org/abs/2005.12744)
+  - The line ratios change smoothly with radius, from AGN-like at the center to HII-region-like at larger distances.
+  - The AGN and INT radiation in the circumnuclear region is accompanied by an enhanced gas velocity dispersion
+
+- [Interactions among intermediate redshift galaxies. The case of SDSSJ134420.86+663717.8](https://arxiv.org/abs/2005.12888)
+  - MODS观测：We find that the galaxy with broad emission line features has Seyfert~1 properties, while the galaxy with only narrow emission line features seems to be star-forming in nature.
+  - 10^7 Msun SMBH
