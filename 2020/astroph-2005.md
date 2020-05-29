@@ -1066,7 +1066,7 @@
 
 ----
 
-### May 27
+### May 28
 
 - [A hierarchical field-level inference approach to reconstruction from sparse Lyman-α forest data](https://arxiv.org/abs/2005.12928)
   - Bayesian forward modelling approach: Our field-level approach rests on a recently developed semiclassical analogue to Lagrangian perturbation theory (LPT), which improves over noise problems and interpolation requirements of LPT
@@ -1144,3 +1144,60 @@
 - [The Diffuse Light Envelope of Luminous Red Galaxies](https://arxiv.org/abs/2005.13467)
   - **Relevant**
   - The LRG profiles appear to be well approximated by a single Sersic profile, although some excess light can be seen outside 60 kpc.
+
+----
+
+### May 29
+
+- [A clustering-based self-calibration of the richness-to-mass relation of CAMIRA galaxy clusters out to z≈1.1 in the Hyper Suprime-Cam survey](https://arxiv.org/abs/2005.13564)
+  - **Relevant**
+  - 基于cluster和CMASS星系的ACF的校准，N≥15 at redshift 0.2≤z<1.1
+  - Forward modeling: 考虑RSD，FoG效应，测光红移不确定性，以及投影效应
+  - The absolute mass scale of CAMIRA clusters inferred from clustering is mildly higher than those from the independent methods.
+
+- [Mass Estimation of Galaxy Clusters with Deep Learning II: CMB Cluster Lensing](https://arxiv.org/abs/2005.13985)
+  - We use a feed-forward deep learning network, mResUNet, for both steps of the analysis.
+  - For SPTpol-like noise levels, the trained mResUNet-II model recovers the mass of a single galaxy cluster with a 1-σ uncertainty ΔMest200c/Mest200c= 1.37 and 0.51 for input cluster mass Mtrue200c=10^14 M⊙ and 8×10^14 M⊙, respectively.
+  - 训练模型里加入了各种foreground
+
+- [Testing the Evolution of the Correlations between Supermassive Black Holes and their Host Galaxies using Eight Strongly Lensed Quasars](https://arxiv.org/abs/2005.13550)
+  - Lenstronomy模拟8个高红移SL放大的AGN，估计host星系质量，用AGN BL估计SMBH质量
+  - Our results are in good agreement with recent work based on non-lensed AGN, providing additional evidence that the correlation evolves over cosmic time
+  - **SSST, 未来Lensed AGN数量会很大**
+
+- [A New Model For Including Galactic Winds in Simulations of Galaxy Formation I: Introducing the Physically Evolved Winds (PhEW) Model](https://arxiv.org/abs/2005.13585)
+  - We propose an analytic model, Physically Evolved Winds (PhEW), that calculates the evolution of individual clouds moving supersonically through a uniform ambient medium. Our model reproduces predictions from very high resolution cloud-crushing simulations that include isotropic thermal conduction over a wide range of physical conditions.
+
+- [VLA and ALMA observations of the lensed radio-quiet quasar SDSS J0924+0219: a molecular structure in a 3 microJy radio source](https://arxiv.org/abs/2005.13612)
+  - The four lensed images are clearly detected in the radio continuum and the CO(5-4) line
+  - The molecular gas displays ordered motion, in a structure approximately 1--2.5 kpc in physical extent
+  - SDSS J0924+0219 shows an extreme anomaly in the flux ratios of the two merging images in the optical continuum and broad emission lines 星系内恒星微引力透镜的影响
+
+- [Detection of the diffuse HI emission in the Circumgalactic Medium of NGC 891 and NGC 4565](https://arxiv.org/abs/2005.13684)
+  - GBT 21cm观测：we achieve >5σ detections out to 90−120 kpc along the minor axes
+  - The velocity width of the CGM emission is as large as that of the disk ≈500 km s−1, indicating the existence of a diffuse component permeating the halo
+  - The existence of significant GBT-only flux suggests the presence of a large amount of diffuse, low column density HI emission in the CGM
+
+- [Measuring the mass of the supermassive black hole of the lenticular galaxy NGC 4546](https://arxiv.org/abs/2005.13697)
+  - AO/NIFS+HST观测，JAM模型，ppxf运动学: M_SMBH=2.5x10^8 Msun.
+  - With these results, we found that NGC 4546 follows the MBH × σ relation.
+
+- [On the Mass Distribution of the Intra-Cluster Light in Galaxy Groups and Clusters](https://arxiv.org/abs/2005.13763)
+  - **Relevant**
+  - We assume the ICL to follow a NFW profile with a different concentration, linked to that of the dark matter by the relation cICL=γcDM, where the parameter γ is set to reproduce the observed relation between the stellar mass in the brightest cluster galaxy (BCG) and ICL in the innermost 100 kpc
+  - The fraction of stellar mass in the BCG and ICL within the innermost 100 kpc is an increasing function of redshift, parameter γ, and a decreasing function of the halo mass.
+  - This result indicates that the distribution of the ICL is more concentrated than the dark matter one, but less concentrated than previously found by \cite{pillepich18} with the IllustrisTNG
+
+- [Linking the small scale relativistic winds and the large scale molecular outflows in the z = 1.51 lensed quasar HS 0810+2554](https://arxiv.org/abs/2005.13967)
+  - Lens modeling of the mm-continuum and the spectrally integrated CO(3-2) images indicates that the source of the mm-continuum has an eccentricity of e~0.9 with a size of ~1.6 kpc and the source of line emission has an eccentricity of e~0.7 with a size of ~1 kpc
+  - We find that the momentum boost of the large scale molecular wind is below the value predicted for an energy-conserving outflow given the momentum flux observed in the small scale ultrafast outflow.
+
+- [The polarized spectral energy distribution of NGC 4151](https://arxiv.org/abs/2005.14004)
+  - LOS基本没有遮挡：the polarized spectrum of NGC 4151 shows a much bluer power-law spectral index than that of the total flux, corroborating the presence of an optically thick, locally heated accretion flow, at least in its near-IR emitting radii.
+  - Dust scattering appears to be the dominant contributor from the near-UV to near-IR polarized spectrum, superimposed onto a weaker electron component.
+  - We also identify a change in the polarization processes from the near-IR to the mid-IR, most likely associated with the transition from Mie scattering to dichroic absorption from aligned dust grains in the dusty torus or narrow-line region
+
+- [Comparison of stellar populations in simulated and real post-starburst galaxies in MaNGA](https://arxiv.org/abs/2005.14112)
+  - We study the spectral indices of post-processed mock IFS datacubes of binary merger simulations, carefully matched to the properties of the MaNGA IFS survey
+  - Based on our simulation sample, we find that only major mergers on prograde-prograde or retrograde-prograde orbits in combination with a mechanical black hole feedback model can form galaxies with weak enough ongoing star formation, and therefore absent Hα emission
+  - We find strong fluctuations in nebular emission line strengths, even within the PSB phase, suggesting that Hα selected PSBs are only a subsample of the underlying population.
