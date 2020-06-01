@@ -1201,3 +1201,24 @@
   - We study the spectral indices of post-processed mock IFS datacubes of binary merger simulations, carefully matched to the properties of the MaNGA IFS survey
   - Based on our simulation sample, we find that only major mergers on prograde-prograde or retrograde-prograde orbits in combination with a mechanical black hole feedback model can form galaxies with weak enough ongoing star formation, and therefore absent Hα emission
   - We find strong fluctuations in nebular emission line strengths, even within the PSB phase, suggesting that Hα selected PSBs are only a subsample of the underlying population.
+  
+----
+
+### May 31
+
+- [Testing gravity using galaxy-galaxy lensing and clustering amplitudes in KiDS-1000, BOSS and 2dFLenS](https://arxiv.org/abs/2005.14351)
+  - We use the latest weak gravitational lensing dataset from the Kilo-Degree Survey, KiDS-1000, in conjunction with overlapping galaxy spectroscopic redshift surveys BOSS and 2dFLenS, to perform the most precise existing amplitude-ratio test. E_G统计检验
+  - The scale-independence and redshift-dependence of these measurements are consistent with the theoretical expectation of General Relativity in a Universe with matter density Omega_m = 0.27 +/- 0.04.
+  - The relative amplitudes of weak gravitational lensing and the rate of assembly of large-scale structure depend on the “gravitational slip” or difference between the two space-time metric potentials
+
+- [A high-resolution cosmological simulation of a strong gravitational lens](https://arxiv.org/abs/2005.14495)
+  - 用EAGLE模型模拟一个10^14 Msun的halo，分辨率很高：Exploiting a novel technique to increase the resolution of the dark matter calculation independently of that of the gas, the simulation resolves dark matter haloes and subhaloes of mass 5x10^6 Msun
+  - We find that the halo and subhalo mass functions have lower amplitude in the hydrodynamical simulation than in its dark matter only counterpart. 因为通过再电离和galactic wind引起的早期气体损失
+  - In the case of subhaloes, disruption by enhanced tidal effects within the host halo due to the presence of a massive central galaxy.
+  - Subhalo的分布是非各向同的，反映了周围结构向星系团的纤维状吸积
+
+- [Systematically Measuring Ultra Diffuse Galaxies in HI: Results from the Pilot Survey](https://arxiv.org/abs/2005.14202)
+  - GBT观测70个Coma附近的UDG，18个有HI探测，9个是gas-rich，其他是前景星系
+  - 没有一个有HI探测的UDG是Coma member，都在低密度环境；bluer，形态更不对称
+  - There is little visual difference between the gas-rich UDGs and the foreground dwarfs in the SMUDGes imaging
+  - We find that the gas richnesses (MHI/M∗) of our UDGs scale with their effective radii (Reff) in two stellar mass bins, consistent with predictions from star formation feedback models of UDG formation.
