@@ -82,3 +82,52 @@
     - The position-velocity structure of the maser emission indicates the central black hole (BH) has a mass less than 1.4×10^5 M⊙
     - Fitting the optical spectrum, we measure a nuclear stellar velocity dispersion σ∗=110.7 km/s
     - The mass upper limit of the intermediate mass black hole in IC 750 falls roughly two orders of magnitude below the MBH−σ∗ relation and roughly one order of magnitude below the MBH−MBulge and MBH−M∗ relations
+
+----
+
+### June 3
+
+- [Galaxy Bias and σ8 from Counts in Cells from the SDSS Main Sample](https://arxiv.org/abs/2006.01146)
+    - The counts-in-cells (CIC) galaxy probability distribution depends on both the dark matter clustering amplitude σ8 and the galaxy bias b
+    - Unlike the power spectrum, the CIC distribution breaks the degeneracy between σ8 and b on scales large enough that both bias and redshift distortions are still linear 可以同时估计这两个参数
+
+- [HIR4: Cosmological signatures imprinted on the cross correlation between 21cm map and galaxy clustering](https://arxiv.org/abs/2006.01146)
+    - 用Horizon Run4模拟Tianlai 21cm map以及DESI ELG
+    - Foreground residual: We find that the contamination cannot be ignored in the angular auto-power spectra of HI even when it is small, but has no influence on the accuracy of the angular cross-power spectra between HI and galaxies.
+    - We forecast a constraint on the angular diameter distance DA for the Tianlai Pathfinder redshift 0.775 < z <1.03, giving a distance measurement with a precision of 3.3% at that redshift.
+
+- [AT 2017gbl: a dust obscured TDE candidate in a luminous infrared galaxy](https://arxiv.org/abs/2006.01518)
+    - Extremely infrared (IR) luminous transient AT 2017gbl, coincident with the Northern nucleus of the luminous infrared galaxy (LIRG) IRAS 23436+5257.
+    - Radiative transfer modelling of the host galaxy spectral energy distribution shows the presence of a hitherto undetected dust obscured active galactic nucleus (AGN)
+    - An extremely energetic supernova would satisfy this budget, but is ruled out by the radio counterpart evolution.
+    - This makes AT 2017gbl the third TDE candidate to be hosted by a LIRG, in contrast to the so far considered TDE population discovered at optical wavelengths and hosted preferably by post-starburst galaxies.
+
+- [ALMA [N ıı] 205 μm Imaging Spectroscopy of the Lensed Submillimeter galaxy ID 141 at redshift 4.24](https://arxiv.org/abs/2006.01147)
+    - Benefiting from lensing magnification by a galaxy pair at z=0.595, ID 141 is one of the brightest z>4 SMGs
+    - Our continuum-based lensing model implies an averaged amplification factor of ∼5.8 and reveals that the de-lensed continuum image has the S\'ersic index ≃0.95 and the S\'ersic radius of ∼0.18″(∼1.24 kpc). 动力学给出DM质量在10^12 Msun
+    - ID 141 being a disk galaxy dynamically supported by rotation.
+
+- [The weak imprint of environment on the stellar populations of galaxies](https://arxiv.org/abs/2006.01154)
+    - SDSS DR7: we find that satellites are both more metal-rich (<0.1 dex) and older (<2 Gyr) than centrals of the same stellar mass.
+    - 但是当区分开SF，GV，Red星系后，发现年龄和金属丰度的环境依赖都弱了很多
+    - We find that star-forming galaxies show no environmental effects, neither for centrals nor for satellites.
+    - Finally, we find a unique feature in the stellar mass--stellar metallicity relation for passive centrals, where galaxies in more massive haloes have larger stellar mass at constant stellar metallicity; this effect is interpreted in terms of dry merging of passive central galaxies and/or progenitor bias.
+
+- [New Constraints On the Origin of Surface Brightness Profile Breaks of Disk Galaxies From MaNGA](https://arxiv.org/abs/2006.01356)
+    - Most TII (TIII) galaxies have down-bending (up-bending) star formation rate (SFR) radial profiles, implying that abrupt radial changes of SFR intensities contribute to the formation of both TII and TIII breaks
+    - Nevertheless, a comparison between our galaxies and simulations suggests that stellar migration plays a significant role in weakening down-bending Σ⋆ profile breaks.
+    - While there is a correlation between the break strengths of SBPs and age/metallicity-sensitive spectral features for TII galaxies, no such correlation is found for TIII galaxies, indicating that stellar migration may not play a major role in shaping TIII breaks
+
+- [New Analytic Solutions for Galaxy Evolution II: Wind Recycling, Galactic Fountains and Late-Type Galaxies](https://arxiv.org/abs/2006.01643)
+    - We generalize the analytic solutions presented in Pantoni et al. (2019) by including a simple yet effective description of wind recycling and galactic fountains, with the aim of self-consistently investigating the spatially-averaged time evolution of the gas, stellar, metal, and dust content in disc-dominated late-type galaxies (LTGs).
+    - We highlight the crucial relevance of wind recycling and galactic fountains in efficiently refurnishing the gas mass, extending the star-formation timescale, and boosting the metal enrichment in gas and stars.
+
+- [Radio morphology of southern narrow-line Seyfert 1 galaxies with the JVLA observations](https://arxiv.org/abs/2006.01700)
+    - JVLA观测：radio emission of NLS1s is mainly concentrated in a central region at kpc-scale and only a few sources show diffuse emission.
+    - In RQ NLS1s, the radio luminosity tends to be higher in steep-spectrum sources and be lower in flat-spectrum sources, which is opposite to RL NLS1s
+    - May be because the radio emission of steep NLS1s is dominated by misaligned jets, AGN-driven outflows, or star formation superposing on a compact core. Instead the radio emission of flat NLS1s may be produced by a central core which has not yet developed radio jets and outflows
+    - 不需要很大质量SMBH就能产生能量较高的kpc尺度的jet
+
+- [A Catalog of Holes and Shells in the Interstellar Medium of the LITTLE THINGS Dwarf Galaxies](https://arxiv.org/abs/2006.01735)
+    - A catalog of holes and shells in the neutral atomic hydrogen (\HI) of 41 gas-rich dwarf galaxies in LITTLE THINGS: confirmed 306 holes between 38 pc (our resolution limit) and 2.3 kpc, with expansion velocities up to 30 km/s
+    - The global star formation rates measured by Ha and FUV emission are consistent with those estimated from the energy required to create the cataloged holes in our sample
