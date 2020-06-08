@@ -131,3 +131,134 @@
 - [A Catalog of Holes and Shells in the Interstellar Medium of the LITTLE THINGS Dwarf Galaxies](https://arxiv.org/abs/2006.01735)
     - A catalog of holes and shells in the neutral atomic hydrogen (\HI) of 41 gas-rich dwarf galaxies in LITTLE THINGS: confirmed 306 holes between 38 pc (our resolution limit) and 2.3 kpc, with expansion velocities up to 30 km/s
     - The global star formation rates measured by Ha and FUV emission are consistent with those estimated from the energy required to create the cataloged holes in our sample
+
+----
+
+### June 4
+
+- [Effects of the Hubble Parameter on the Cosmic Growth of the First Quasars](https://arxiv.org/abs/2006.01839)
+    - We note that the predicted mass of a quasar at z=6 changes by >300% if the underlying Hubble parameter used in the model varies from H0=65 to H0=74 km s−1Mpc−1, a range encompassing current estimates.
+    - Employing an MCMC approach based on priors from z≳6.5 quasars and on H0, we study the interconnection between H0 and the parameters describing BH growth: seed mass Mi and Eddington ratio fEdd. 现有的数据更支持H0~73; 以及10^4.5 Msun的种子质量和0.7左右的Eddington ratio.
+
+- [ETHOS -- An effective parametrization and classification for structure formation: the non-linear regime at z≳5](https://arxiv.org/abs/2006.01842)
+    - 用两个参数描述高红移不同暗物质模型下星系演化的模型：Our description is within the recently proposed ETHOS framework and includes standard thermal Warm DM (WDM) and models with dark acoustic oscillations (DAOs).
+    - We show that the two physically motivated parameters hpeak and kpeak, the amplitude and scale of the first DAO peak, respectively, are sufficient to parametrize the linear matter power spectrum and classify the DM models as belonging to effective non-linear structure formation regions
+    - 什么是DAO：
+        - ETHOS covers two types of new DM physics: (i) a primordial cutoff in the linear matter power spectrum suppressing the growth of small density perturbations due to either collisionless damping (free-streaming) like in WDM, or due to collisional damping caused by interactions between DM and relativistic particles in the early Universe and resulting in Dark Acoustic Oscillations
+
+- [Deep XMM-Newton Observations of the Most Distant SPT-SZ Galaxy Cluster](https://arxiv.org/abs/2006.02009)
+    - **Interesting**
+    - z=1.71的星系团，最高红移的有SZ探测的星系团：cluster emission is detected above the background to a radius of ∼2.2r500, or approximately the virial radius.
+    - 能给出金属丰度测量：at radii r>0.3r500, we find it to be 0.33±0.17, in good agreement with precise measurements at similar radii in the most nearby clusters, supporting an early enrichment scenario
+    - 对金属丰度演化模型有极强的限制能力
+
+- [Towards a Bias-Free Selection Function in Shear Measurement](https://arxiv.org/abs/2006.02095)
+    - We proposed a new selection function defined in the power spectrum of the galaxy image. This new selection function has low selection bias, and it is particularly convenient for shear measurement pipelines based on Fourier transformation.
+
+- [GenetIC -- a new initial conditions generator to support genetically modified zoom simulations](https://arxiv.org/abs/2006.01841)
+    - The code allows precise, user-specified alterations to be made to arbitrary regions of the simulation (while maintaining consistency with the statistical ensemble). These "genetic modifications" allow, for example, the history, mass, or environment of a target halo to be altered in order to study the effect on their evolution.
+
+- [ASKAP reveals giant radio halos in two merging SPT galaxy clusters -- Making the case for a direction-dependent pipeline](https://arxiv.org/abs/2006.01833)
+    - We performed direction-dependent (DD) calibration and imaging using state-of-the-art software killMS and DDFacet. 降低射电图像里的artefacts
+    - We present our DD calibrated ASKAP radio images of both clusters showing unambiguous giant radio halos with largest linear scales of ∼1~Mpc.
+    - Although there is a shock detected in the thermal X-ray emission of this cluster, we find that the particle number density in the shocked region is too low to allow for the generation of a radio shock.
+
+- [Revisiting dual AGN candidates with spatially resolved LBT spectroscopy -- The impact of spillover light contamination](https://arxiv.org/abs/2006.01846)
+    - MODS观测：We find that at most two of the seven targets actually retain a Seyfert-Seyfert dual AGN, whereas the others may be more likely powered by post-AGB stars in retired galaxies or through shock
+    - The major cause of this discrepancy is a bias caused by the spillover of flux from the primary source in the secondary SDSS fibre which can be more than an order of magnitude at <3" separations.
+    - We also find that the nuclei with younger stellar ages host the primary AGN.
+
+- [The X-ray View of Merger-Induced AGN Activity at Low Redshift](https://arxiv.org/abs/2006.01850)
+    - XMM观测post-merger和更大样本匹配后的不相互作用样本，发现post-merger中看到AGN的几率高一些，但统计不显著
+    -  Dominant, luminous AGN are more frequent in post-mergers, the lack of a comparable excess of 2-10 keV X-ray AGN suggests that AGN in post-mergers are more likely to be heavily obscured.
+
+- [JINGLE -- IV. Dust, HI gas and metal scaling laws in the local Universe](https://arxiv.org/abs/2006.01856)
+    - Dust and Element evolUtion modelS (DEUS) - incluidng stellar dust production, grain growth, and dust destruction - within a Bayesian framework to enable a rigorous search of the multi-dimensional parameter space
+    - We find that these scaling laws for galaxies with −1.0≲logMHI/M⋆≲0 can be reproduced using closed-box models with high fractions (37-89%) of supernova dust surviving a reverse shock, relatively low grain growth efficiencies (ϵ=30-40), and long dus lifetimes (1-2\,Gyr).
+    - 恒星演化贡献的尘埃远多于在ISM环境下成长的
+
+- [Mass loss from massive globular clusters in tidal fields](https://arxiv.org/abs/2006.01960)
+    - N-body模拟研究 identify two populations we call kicks and sweeps, that escape through two-body encounters internal to the cluster and the external tidal field
+    - We find that for a typical halo globular cluster on a moderately eccentric orbit, sweeps are far more common than kicks but the total mass loss rate is so low that these clusters can survive for hundreds of Hubble times.
+
+- [Stellar Population Synthesis with Distinct Kinematics: Multi-Age Asymmetric Drift in SDSS-IV MaNGA Galaxies](https://arxiv.org/abs/2006.02071)
+    - We present the first asymmetric drift (AD) measurements for unresolved stellar populations of different characteristic ages above and below 1.5 Gyr. These measurements sample the age-velocity relation (AVR) in galaxy disks.
+    - We develop two efficient algorithms to extract AD on a spaxel-by-spaxel basis from optical integral-field spectroscopic (IFS)
+    - We apply them to an initial sample of seven galaxies with comparable stellar mass and color to the Milky Way. We find a wide range of distinct AD radial profiles for young and old stellar populations.
+
+- [Large-scale turbulent driving regulates star formation in high-redshift gas-rich galaxies](https://arxiv.org/abs/2006.02084)
+    - We show that stellar feedback is sufficient to reduce the averaged star formation rate (SFR) to the level of the Schmidt- Kennicutt law in Milky-Way like galaxies but not in high-redshift gas rich galaxies
+    - We investigate whether an external driving of the turbulence such as the one created by the large galactic scales could diminish the SFR at the observed level. we infer a typical turbulent forcing that we argue should be applied parallel to the plane of the galactic disc
+
+----
+
+### June 5
+
+- [Revisiting Soltan's argument based on a semi-analytical model for galaxy and black hole evolution](https://arxiv.org/abs/2006.02436)
+    - SAM: By tracing the growth history of individual SMBHs, we find that the fraction of the SMBH mass acquired during the super-Eddington accretion phases to the total SMBH mass becomes larger for less massive black holes and at higher redshift.
+    - The mass-weighted radiation efficiency of SMBHs with > 1e+8 Msun obtained with our model, is about 0.08 at z = 0, which is consistent with Soltan's argument
+
+- [Luminosity Functions and Host-to-Host Scatter of Dwarf Satellite Systems in the Local Volume](https://arxiv.org/abs/2006.02443)
+    - We measure the surface brightness fluctuation (SBF) distances to recently cataloged candidate dwarf satellites around 10 massive hosts within D<12 Mpc to confirm association.
+    - Adopting a SHMR that matches hydrodynamic simulations, the predicted overall satellite abundance agrees well with the observations. The MW is remarkably typical in its luminosity function amongst LV hosts.
+    - We find that the host-to-host scatter predicted by the model is in close agreement with the scatter between the observed systems, once the different masses of the observed systems are taken into account
+    - We find significant evidence that the observed systems have more bright and fewer faint satellites than the SHMR model predicts
+
+- [Radial Distributions of Dwarf Satellite Systems in the Local Volume](https://arxiv.org/abs/2006.02444)
+    - 12 well-surveyed satellite systems of MW-like hosts in the Local Volume that are complete to MV<−9 and within 150 projected kpc.
+    - The observed satellites are significantly more centrally concentrated than the simulated systems.
+    - Several of the observed hosts, including the MW, are ∼2σ outliers relative to the simulated hosts in being too concentrated, while none of the observed hosts are less centrally concentrated than the simulations.
+
+- [The Mass-Metallicity Relation at z=8: Direct-Method Metallicity Constraints and Near-Future Prospects](https://arxiv.org/abs/2006.02447)
+    - 高红移星系用[OIII] 88 micron线结合SFR估计气态丰度，typical abundances 12+log(O/H) = 7.9 (∼0.2 times the solar value) and an evolution of 0.9±0.5 dex in oxygen abundance at fixed stellar mass from z≃8 to 0.
+    - We highlight [O III] 52μm as a valuable feature for robust metallicity measurements. Precision of 0.1-0.2 dex in T_e-based O/H abundance can be reasonably achieved for galaxies at z≈5-8 by combining [O III] 52μm
+
+- [On the AGN nature of two UV bright sources at z_spec~5.5 in the CANDELS fields: an update of the AGN space density at M1450~-22.5](https://arxiv.org/abs/2006.02451)
+    - GOODS-S, -N, EGS里的AGN：We derive an AGN space density of Phi=1.29x10^-6 cMpc^-3 at z~5.5 and M1450~-22.5 by simply dividing their observed number by the cosmological volume in the range 5.0<z<6.1.
+    - This value supports a high space density of AGNs at z>5, in contrast with previous claims mostly based on standard color selection, possibly affected by significant incompleteness.
+
+- [Formation of massive black holes in ultra-compact dwarf galaxies: migration of primordial intermediate-mass black holes in N-body simulation](https://arxiv.org/abs/2006.02517)
+    - 看UCD里10^6 Msun的SMBH有没有可能是IMBH并合而来：We find that only massive IMBHs of 105 M⊙ sink into the central regions of their host dwarf (≈10^10 M⊙) to be gravitationally trapped by its stellar nucleus within less than 1 Gyr in most dwarf models.
+    - We show that the IMBHs can form binaries in the centre and, rarely, before they reach the centre, which may lead to the IMBHs merging and thus emitting gravitational waves that could be detected by LISA.
+
+- [The Sloan Digital Sky Survey Reverberation Mapping Project: The M_BH-Host Relations at 0.2<z<0.6 from Reverberation Mapping and Hubble Space Telescope Imaging](https://arxiv.org/abs/2006.02522)
+    - SDSS RM测黑洞质量，HST观测估计bulge质量：The BH masses and stellar masses of our sample broadly follow the same correlations found for local RM AGN and quiescent bulge-dominant galaxies, with no strong evidence of evolution in the M_BH-M_*,bulge relation to z~0.6.
+    - However, the host fraction derived from spectral decomposition is systematically smaller than that from imaging decomposition by ~30%, indicating different systematics in both approaches.
+
+- [Rotation Curves in z~1-2 Star-Forming Disks: Evidence for Cored Dark Matter Distributions](https://arxiv.org/abs/2006.03046)
+    - High quality, H{\alpha} or CO rotation curves (RCs) to several Re for 41 large, massive, star-forming disk galaxies (SFGs), across the peak of cosmic galaxy evolution (z~0.67-2.45)
+    - Two-thirds or more of the z>1.2 SFGs are baryon dominated within a few Re of typically 5.5 kpc, and have DM fractions less than maximal disks (<fDM (Re)>=0.12).
+    - DM fractions correlate inversely with the baryonic angular momentum parameter, baryonic surface density and bulge mass.
+    - The typical central 'DM deficit' in these cores relative to NFW distributions is ~30% of the bulge mass. The observations are consistent with rapid radial transport of baryons in the first generation massive gas rich halos forming globally gravitationally unstable disks, and leading to efficient build-up of massive bulges and central black holes.
+
+----
+
+### June 7
+
+- [Interpreting LOFAR 21-cm signal upper limits at z~9.1 in the context of high-z galaxy and reionisation observations](https://arxiv.org/abs/2006.03203)
+    - We use 21CMMC, a Monte Carlo Markov Chain sampler of 21cmFAST which directly forward models the 3D cosmic 21-cm signal in a fully Bayesian framework. We use the astrophysical parameterisation from 21cmFAST, which includes mass-dependent star formation rates and ionising escape fractions as well as soft-band X-ray luminosities to place limits on the properties of the high-z galaxies. 排除一些参数空间
+    - With tighter upper limits, across multiple redshift bins expected in the near future from LOFAR, more viable models will be ruled out. Our approach demonstrates the potential of forward modelling tools such as 21CMMC in combining 21-cm observations with other high-z probes to constrain the astrophysics of galaxies.
+
+- [A measurement of the Hubble constant from Type II supernovae](https://arxiv.org/abs/2006.03412)
+    - we use SNe II as standardisable candles to obtain an independent measurement of the Hubble constant. Using 7 SNe II with host-galaxy distances measured from Cepheid variables or the tip of the red giant branch, we derive H0=75.8+5.2−4.9 km s−1 Mpc−1
+    - Adding an estimate of the systematic errors (2.8 km s−1 Mpc−1) changes the ∼1.7σ discrepancy with Planck +ΛCDM to ∼1.4σ. Including the systematic errors and performing a bootstrap simulation, we confirm that the local H0 value exceeds the value from the early Universe with a confidence level of 95%.
+
+- [Modeling Photoionized Turbulent Material in the Circumgalactic Medium II: Effect of Turbulence within a Stratified Medium](https://arxiv.org/abs/2006.03066)
+    - The circumgalactic medium (CGM) of nearby star-forming galaxies shows clear indications of OVI absorption accompanied by little to no detectable NV absorption.
+    - We carry out chemodynamical simulations of stratified media in a Navarro-Frenk-White (NFW) gravitational potential with a total mass of 10^12 solar masses and turbulence that decreases radially.
+    - Turbulence with an average one-dimensional velocity dispersion approximately 40 km/s, corresponding to an energy injection rate of approximately 10^49 erg/yr, produces a CGM that matches many of the observed ionic column densities and ratios.
+    - The NVI to OVI ratio is suppressed from its equilibrium value due to a combination of radiative cooling and cooling from turbulent mixing
+
+- [Circumnuclear Molecular Gas in Low-redshift Quasars and Matched Star-forming Galaxies](https://arxiv.org/abs/2006.03072)
+    - 问题：whether an enhanced molecular gas mass surface density (Σmol) is found in the CND-scale of quasars relative to a comparison sample of inactive galaxies
+    - ALMA CO(2-1)观测： We detected CO(2–1) emission from all quasars, which show diverse morphologies.
+    -  Contrary to expectations, Σmol of the quasar sample, computed from the CO(2–1) luminosity, tends to be smaller than the comparison sample at r < 500 pc
+    - XDR effects can have an impact on molecular mass measurements particularly in the vicinity of luminous quasar nuclei;
+
+- [Spectral shapes of the Lyman-alpha emission from galaxies: I. blueshifted emission and intrinsic invariance with redshift](https://arxiv.org/abs/2006.03232)
+    - At low-z, where absorption from the intergalactic medium (IGM) is negligible, we show that the relative contribution of blueshifted emission (blue/red) increases rapidly with increasing equivalent width (WLyα).
+    - Our main result is that the blue-peak contribution evolves rapidly downwards with increasing redshift: the blue/red flux ratio is ≈30% at z≈0, but drops to 15% at z≈3, and to below 3% by z≈6.
+    - This decrease in the blue-wing contribution can be entirely attributed to the thickening of intervening Ly{\alpha} absorbing systems, with no need for additional HI opacity from local structure
+
+- [Shape, Color and Distance in Weak Gravitational Flexion](https://arxiv.org/abs/2006.03506)
+    - Using color measurements in the u-r band and fit Sersic index values, objects with characteristics consistent with early-type galaxies are found to have a lower intrinsic scatter in flexion signal than late-type galaxies.
