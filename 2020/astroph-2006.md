@@ -262,3 +262,79 @@
 
 - [Shape, Color and Distance in Weak Gravitational Flexion](https://arxiv.org/abs/2006.03506)
     - Using color measurements in the u-r band and fit Sersic index values, objects with characteristics consistent with early-type galaxies are found to have a lower intrinsic scatter in flexion signal than late-type galaxies.
+
+----
+
+### June 8
+
+- [Dissecting the Strong-lensing Galaxy Cluster MS 0440.5+0204. I. The Mass Density Profile](https://arxiv.org/abs/2006.03927)
+    - 三种方法做星系团质量的SL重构：The first model uses the image positions of four multiple imaged systems (providing 26 constraints). The second one combines strong lensing constraints with dynamical information (velocity dispersion) of the cluster. The third one uses the mass calculated from weak lensing as an additional constraint.
+    - However, in the third model, the inclusion of the velocity dispersion and the weak-lensing mass allows us to obtain better constraints in the scale radius and the line-of-sight velocity dispersion of the mass profile. M200=2x10^14 Msun
+
+- [Chandra View of the LINER-type Nucleus in the Radio-Loud Galaxy CGCG 292-057: Ionized Iron Line and Jet-ISM Interactions](https://arxiv.org/abs/2006.03717)
+    - A LINER-type nucleus and a complex radio structure that indicates intermittent jet activity.
+    - We argue that this excess emission results from compression and heating of the hot diffuse fraction of the interstellar medium displaced by the expanding inner, ∼20 kpc-scale lobes observed in this restarted radio galaxy.
+    - We demonstrate that the observed X-ray spectrum, particularly the equivalent width of Fe XXV Kα (of order 0.3 keV) can in principle, be explained in a scenario involving a Compton-thin gas located at the scale of the broad-lined region in this source and photoionized by nuclear illumination.
+
+- [How Well Can We Measure the Stellar Mass of a Galaxy: The Impact of the Assumed Star Formation History Model in SED Fitting](https://arxiv.org/abs/2006.03599)
+    - **Relevant**
+    - 用 mock observations of high-resolution cosmological hydrodynamic galaxy formation simulations的SFH来检验SED拟合
+    - 非参数表达的SFH表现更好
+    - We find a decrease in the average bias of 0.4 dex with a delayed-τ model to a bias of just under 0.05 dex for the nonparametric model.
+
+- [The power of co-ordinate transformations in dynamical interpretations of Galactic structure](https://arxiv.org/abs/2006.03600)
+    - As we collect data over a wider area of the disc it becomes increasingly appealing to start analysing stellar actions and angles, which specifically label orbit space, instead of their current phase space location
+    - Grouping in actions and angles refines this further to isolate stars which are travelling together through space and hence have shared histories
+
+- [HST Grism-derived Forecasts for Future Galaxy Redshift Surveys](https://arxiv.org/abs/2006.03602)
+    - **CSST, SSST**
+    - The mutually complementary Euclid and Roman galaxy redshift surveys will use Halpha- and [OIII]-selected emission line galaxies as tracers of the large scale structure at 0.9≲z≲1.9 (Halpha) and 1.5≲z≲2.7 ([OIII])
+    - 而这些ELG的选择函数很复杂：受到星系的尺寸和光度，发射线等值宽度等的影响
+    - 利用HST数据模拟Euclid观测：we explore the prevalence of redshift misidentification in future Euclid samples, finding potential contamination rates of ∼14-20% and ∼6% down to 2×10^−16 and 6×10^−17 erg s−1 cm−2,
+
+- [EMPRESS. II. Highly Fe-Enriched Metal-poor Galaxies with ∼1.0 (Fe/O)⊙ and 0.02 (O/H)⊙ : Possible Traces of Super Massive (>300M⊙) Stars in Early Galaxies](https://arxiv.org/abs/2006.03831)
+    - **Interesting; SSST**
+    - Weak emission lines such as [FeIII]4658 and HeII4686 are detected in very deep optical spectra of the EMPGs
+    - The iron-to-oxygen abundance ratios (Fe/O) of the EMPGs are generally high; the EMPGs with the 2%-solar oxygen abundance show high Fe/O ratios of ~90-140% (Fe/O)_sun 不太可以被SNIa解释
+    - These EMPGs have very high HeII4686/Hβ ratios of ~1/40, which are not reproduced by existing models of high-mass X-ray binaries whose progenitor stellar masses are less than 120 M_sun.
+    - We propose that both the high Fe/O ratios and the high HeII4686/Hβ ratios are explained by the past existence of super massive (>300 M_sun) stars, which may evolve into intermediate-mass black holes (≳100 M_sun).
+
+- [The ALMA Spectroscopic Survey in the Hubble Ultra Deep Field: The nature of the faintest dusty star-forming galaxies](https://arxiv.org/abs/2006.04284)
+    - Median stellar masses and star formation rates (SFR) of 4.8×10^10 M⊙ and 30 M⊙ yr−1
+    - We derive a median spectroscopic redshift of 1.8; 比SMG低很多
+    - 大部分都在SFMS上或者低于SFMS；The ASPECS galaxies closely follow the SFR-molecular gas mass relation and other previously established scaling relations
+    - ASPECS galaxies located significantly below the MS, a poorly exploited parameter space, have low gas-to-stellar mass ratios of ∼0.1−0.2 and long depletion timescales >1 Gyr.
+
+- [Shadows in the Dark: Low-Surface-Brightness Galaxies Discovered in the Dark Energy Survey](https://arxiv.org/abs/2006.04294)
+    - **Relevant**
+    - A catalog of 20,977 extended low-surface-brightness galaxies (LSBGs) identified in ~ 5000 deg2 from the first three years of imaging data from the Dark Energy Survey (DES)
+    - We define extended LSBGs as galaxies with g-band effective radii Reff>2.5" and mean surface brightness μ¯eff(g)>24.3 mag arcsec−2.
+    - 颜色分布是高度双态的；Redder LSBGs are more clustered than their blue counterparts
+    - Red LSBGs constitute ∼35% of our LSBG sample, and ∼30% of these are located within 1 deg of low-redshift galaxy groups and clusters
+    - 在最显著的10个星系群或者星系团里找到了108个可能的UDG
+
+- [NuSTAR view of Swift/BAT AGN: The R-Γ correlation](https://arxiv.org/abs/2006.04441)
+    - The reflection strength was found to be strongly correlated with the power-law slope in unabsorbed sources, pointing towards disc reflection for these sources.
+    - Different possible explanations were tested and the most likely one is that the corona is moving either towards or away from the disc with a moderately relativistic velocity.
+
+- [Galaxy Optical Variability of Virgo Cluster: New Tracer for Environmental Influences on Galaxies](https://arxiv.org/abs/2006.04456)
+    - 用PTF在Virgo方向的数据：A sample of 814 Virgo galaxies with 230263 observations shows a monotonically decreasing trend of optical variability with increasing clustercentric distance.
+    - The variability level inside the cluster is 3.2σ higher than the level outside
+    - Our result is consistent with the theory that the cold gas flowing inwards the cluster centre fuels AGN activity. This work is a new implementation of the method using optical variability to investigate the relation between galaxies evolution and their environment.
+
+- [Properties of brightest group galaxies in cosmic web filaments](https://arxiv.org/abs/2006.04463)
+    - We chose brightest group galaxies (BGGs) in groups with two to six members as our probes of the impact of filamentary environment because their local environment can be determined more accurately.
+    - We note slight deviations between the galaxy populations inside and outside the filament radius in terms of stellar mass, colour, the 4000AA break, specific star formation rates, and morphologies. 基本上没有显著变化
+    - Within a 4 Mpc radius of the filament axes, the effect of filaments on BGGs is marginal. The local environment is the main factor in determining BGG properties.
+
+- [Polycyclic aromatic hydrocarbon excitation in nearby spiral galaxies](https://arxiv.org/abs/2006.04561)
+    - 25个正向Spiral星系中PAH的观测
+    - Within 11 of the galaxies, we found that the PAH excitation was straightforwardly linked to ultraviolet or mid-infrared star formation tracers
+    - Within another 5 galaxies, the PAH emission is enhanced around star forming regions only at specific galactocentric radii. In 6 more galaxies, PAH excitation is more strongly correlated with the evolved stellar populations as traced by 3.6 micron emission.
+    - Galaxies in which PAHs were excited by evolved stars had relatively high far-ultraviolet to mid-infrared ratios, indicating that variations in the link between PAH excitation and different stellar populations is linked to changes in dust attenuation within galaxies
+
+- [A spectroscopic study of MATLAS-2019 with MUSE: an ultra-diffuse galaxy with an excess of old globular clusters](https://arxiv.org/abs/2006.04606)
+    - **Relevant**
+    - MATLAS J15052031+0148447 (MATLAS-2019) - located towards the nearby group NGC 5846
+    - For the stellar body of MATLAS-2019 we derive a metallicity of -1.33+0.19-0.01 dex and an age of 11.2+1.8-0.8 Gyr.
+    - From the 11 confirmed globular clusters and using a Markov Chain Monte Carlo approach we derived a dynamical mass-to-light ratio of 4.2+8.6-3.4M/L.
