@@ -338,3 +338,140 @@
     - MATLAS J15052031+0148447 (MATLAS-2019) - located towards the nearby group NGC 5846
     - For the stellar body of MATLAS-2019 we derive a metallicity of -1.33+0.19-0.01 dex and an age of 11.2+1.8-0.8 Gyr.
     - From the 11 confirmed globular clusters and using a Markov Chain Monte Carlo approach we derived a dynamical mass-to-light ratio of 4.2+8.6-3.4M/L.
+
+----
+
+### June 11
+
+- [Using GAMA to probe the impact of small-scale galaxy physics on nonlinear redshift-space distortions](https://arxiv.org/abs/2006.05383)
+    - **SSST**
+    - We explore this generalised halo model with an MCMC algorithm, comparing the predictions to data from the Galaxy And Mass Assembly (GAMA) survey, and thus derive one of the first constraints on the detailed kinematic degrees of freedom for satellite galaxies within haloes
+    - With this approach, the distortions of the redshift-space galaxy autocorrelations can be accounted for down to spatial separations close to 10 kpc, opening the prospect of improved RSD measurements of the perturbation growth rate by the inclusion of data from nonlinear scales.
+
+- [Biases in galaxy cluster velocity dispersion and mass estimates in the small number of galaxies regime](https://arxiv.org/abs/2006.05949)
+    - 用模拟的星系团看不同estimator得到的速度弥散度估计有多少bias：biweight, gapper and standard deviation, in the small number of galaxies regime
+    - The standard deviation is found to be the lowest variance estimator. 只选质量最大的星系会有少量的bias
+    - 给出了一个unbiased的estimator：The proposed set of unbiased estimators effectively provides a correction of the velocity dispersion and mass estimates from all those effects in the small number of cluster members regime
+
+- [The beautiful mess in Abell 2255](https://arxiv.org/abs/2006.05949)
+    - **Interesting**
+    - This is a nearby (z=0.0806) merging galaxy cluster hosting one of the first radio halos ever detected in the intra-cluster medium (ICM).
+    - Among the numerous interesting features observed, we discover remarkable bright and filamentary structures embedded in the radio halo
+    - We find that the X-ray and radio emission are overall well correlated. The fact that the steepest spectrum emission is located in the cluster center and traces regions with high entropy possibly suggests the presence of seed particles injected by radio galaxies that are spread in the ICM by turbulence generating the extended radio halo.
+
+- [The atomic gas of star-forming galaxies at z∼0.05 as revealed by the Five-hundred-meter Aperture Spherical Radio Telescope](https://arxiv.org/abs/2006.04812)
+    - FAST观测z=0.05处的星系里的HI:We use an ON-OFF observing approach that allowed us to reach an rms of 0.7mJy/beam at a 1.7km/s velocity resolution within only 20 minutes ON-target integration time.
+    - We find that the CO(J=1−0) and HI emission line profiles are similar. The dynamical mass estimated from the HI data is an order of magnitude higher than the baryon mass and the dynamical mass derived from the CO observations
+
+- [A Deep Learning Approach to Quasar Continuum Prediction](https://arxiv.org/abs/2006.04814)
+    - intelligent quasar continuum neural network (iQNet)
+    - We use principal component analysis and Gaussian mixture model to classify the HSLA quasar spectra into four classes and use them to synthesize mock quasar spectra create a training data set for iQNet.
+    - 判据是 absolute fractional flux error (AFFE)
+
+- [A Multiwavelength Study of the Massive Cool Core Cluste MACS J1447.4+0827](https://arxiv.org/abs/2006.04815)
+    - Using this multiwavelength approach, including 70 ks of \textit{Chandra} X-ray observations, we detect the presence of collimated jetted-outflows that coincides with a southern and a northern X-ray cavity.
+    -
+
+- [The ALPINE-ALMA [C II] Survey: [C II]158micron Emission Line Luminosity Functions at z∼4−6](https://arxiv.org/abs/2006.04835)
+    - 基于118个target：Our derived LFs are consistent with the z∼0 [C II] LF at ≤109L⊙, but show a hint of an excess of [C II] emitters at the luminous end (>109L⊙) compared to z∼0
+    - Finally, we find that available model predictions tend to underestimate the number densities of [C II] emitters at z∼5.
+
+- [The ALPINE-ALMA [C II] survey: the luminosity function of serendipitous [C II] line emitters at z∼5](https://arxiv.org/abs/2006.04837)
+    - [CII] LF: From a sample of serendipitous lines detected in the ALPINE;  We used the 8 confirmed [CII] and the 4 [CII] candidates to build one of the first [CII] LFs at z∼5
+    - We found that 11 out of these 12 sources have a redshift very similar to that of the ALPINE target in the same pointing, suggesting the presence of overdensities around the targets.
+    - The clustered sample results in a SFRD ∼10 times higher than previous measurements from UV-selected galaxies. On the other hand, from the field sample (likely representing the average galaxy population) we derived a SFRD ∼1.6 higher compared to current estimates from UV surveys but compatible within the errors.
+
+- [Wide and Deep Exploration of Radio Galaxies with Subaru HSC (WERGS). III. Discovery of a z = 4.72 Radio Galaxy with Lyman Break Technique](https://arxiv.org/abs/2006.04844)
+    - 高红移射电星系：The SED fitting analysis with the rest-frame UV and optical photometries suggests the massive nature of this HzRG with logM∗/M⊙=11.4
+    - 较低的Lya等值宽度和UV颜色说明系统可能已经演化得比较成熟，而且有尘埃
+    - The radio spectral index does not meet a criterion for an ultra-steep spectrum
+
+- [Formation of super-massive black holes in galactic nuclei I: delivering seed intermediate-mass black holes in massive stellar clusters](https://arxiv.org/abs/2006.04922)
+    - We carry out N-body simulations of the simultaneous merger of three stellar clusters to form an NSC.
+    - We show that these mergers are catalyzed by dynamical interactions with surrounding stars, which systematically harden the binary and increase its orbital eccentricity
+    - The seed SMBH will be ejected from the NSC by the recoil kick produced when two IMBHs merge, if their mass ratio q≳0.15
+    - 也许可以解释为什么有些星系中心有NSC但没有SMBH
+
+- [The ALPINE-ALMA [CII] Survey: nature, luminosity function and star formation history of continuum non-target galaxies up to z~6](https://arxiv.org/abs/2006.04974)
+    - **Important**
+    - ALMA Band-7 发现的56个天体：The ALPINE data are the first ones to sample the faint-end of the infrared LF, showing little evolution from z=2.5 to z=6, and a flat slope up to the highest redshifts.
+    - The SFRD obtained by integrating the luminosity function remains almost constant between z=2 and 6, and significantly higher than the optical/UV derivations. 一直到 z=6，SFR中都有很重要的被尘埃遮挡部分的贡献
+    - 16 per cent of the ALPINE serendipitous continuum sources are optically+near-IR dark; The 7 HST and near-IR dark galaxies with mid-IR counterpart contribute for about 15 per cent of the total SFRD at z=5 and dominate the high-mass end of the stellar mass function at z>3.
+
+- [Deep Learning Prediction of Quasars Broad Lyα Emission Line](https://arxiv.org/abs/2006.05124)
+    - The SiIV, CIV, and CIII] broad emission lines are used as the input to the neural network, and the model returns the predicted Lyα emission line as the output.
+    - Our model can be used to estimate the HI column density of eclipsing and ghostly damped Lyα (DLA) absorbers as the presence of the DLA absorption in these systems strongly contaminates the flux and the shape of the quasar continuum around Lyα spectral region.
+
+- [J1110+4817 -- a compact symmetric object candidate revisited](https://arxiv.org/abs/2006.05144)
+    - Compact symmetric objects (CSOs) are radio-emitting active galactic nuclei (AGNs) typically with a double-lobed radio structure confined to within 1 kpc. 有喷流的AGN的最早期阶段；有些能演化成大尺度的double-lobe AGN，有些也会die out
+    - 取决于AGN活动的时间，喷流能量，附近ISM环境等；结构上可以分成：compact double-lobed or a core-jet structure
+    - Lower-frequency VLBI images reveal an extended radio feature nearly perpendicular to the main structural axis of the source, apparently emanating from the brighter northern feature, that is rare among the known CSOs
+
+- [Morphology and surface photometry of a sample of isolated early-type galaxies from deep imaging](https://arxiv.org/abs/2006.05323)
+    - **Relevant**
+    - We observed 20 (out of 104) iETGs, selected from the AMIGA catalog, with the 4KCCD camera at the VATT in the SDSS g and r bands.
+    - Our re-classification suggests that the sample is composed of bona fide ETGs spanning from ellipticals to late-S0s galaxies. Most of the surface brightness profiles are best fitted with a bulge plus disc model, suggesting the presence of an underlying disc structure.
+    - Shell systems are revealed in about 60% of these galaxies. Because interaction, accretion, and merging events are widely interpreted as the origin of the fans, ripples, shells and tails in galaxies, we suggest that most of these iETGs have experienced such events.
+
+- [High-z Universe probed via Lensing by QSOs (HULQ) I. Number Estimates of QSO-QSO and QSO-Galaxy Lenses](https://arxiv.org/abs/2006.05423)
+    - **SSST, CSST**
+    - 用QSO host作为lense研究高红移宇宙：We find that ∼440 QSO lenses will reside in the Hyper Suprime-Cam Wide survey (HSC/Wide), which is expected to be the most prolific concurrent survey, with this number being boosted by one to two orders of magnitude (to ∼10000) with upcoming surveys
+    - We demonstrate how the intimacy of lensed images to the bright deflector QSO for most systems will affect the \textit{detectability} of QSO lenses. We estimate that only ∼82 and 900 will be detectable for HSC/Wide and LSST, respectively
+
+- [Identifying galaxy groups at high redshift from incomplete spectroscopic data: I. The group finder and application to zCOSMOS](https://arxiv.org/abs/2006.05426)
+    - **SSST; Important**
+    - We develop a group finder that is based on incomplete redshift samples combined with photometric data, using a machine learning method to assign halo masses to identified groups. Test using realistic mock catalogs shows that ≳90% of true groups with halo masses Mh≳10^12M⊙/h are successfully identified
+    - The standard deviation in the halo mass estimation is smaller than 0.25 dex at all masses.
+
+- [Towards an Understanding of the Massive Red Spiral Galaxy Formation](https://arxiv.org/abs/2006.05462)
+    - We find that red spirals harbor compact cores with high stellar mass surface densities measured by Σ1 and they are bulge-dominated.
+    - The red spirals, especially their bulges follow the Σ1-M∗ ridgeline for quenched galaxies.
+    - The optical morphologies reveal that ~70% of red spirals show strong bars, rings/shells and even merging features
+
+- [Local Simulations of Spiral Galaxies with the TIGRESS Framework: I. Star Formation and Arm Spurs/Feathers](https://arxiv.org/abs/2006.05614)
+    - **Interesting**
+    - We find that more than 90% of star formation takes place in spiral arms, but the global star formation rate (SFR) in models with spiral arms is enhanced by less than a factor of 2 compared to the no-arm counterpart.
+    - 旋臂并不直接触发恒星形成，而是把恒星形成区聚集起来；SFR面密度和气体面密度之间有准线性关系
+    - Correlated SN feedback produces gaseous spurs/feathers downstream from arms in both magnetized and unmagnetized models 这些结构不是长期存在的
+    - SN feedback drives the turbulent component of magnetic fields, with the total magnetic field strength sublinearly proportional to Sigma.
+
+- [Survey of Extremely High-velocity Outflows in Sloan Digital Sky Survey Quasars](https://arxiv.org/abs/2006.05633)
+    - We find 40 quasar spectra with broad EHVO CIV absorption, 10 times more than the number of previously known cases. We characterize the EHVO absorption and find that in 26 cases, CIV is accompanied by NV and/or OVI absorption.
+    - 缺少HeII发射线，和其他BALQSO比，热光度更高，黑洞质量更大; 说明外流很可能是辐射驱动的
+    - 而且红移分布偏高
+
+- [Constructing a multivariate distribution function with a vine copula: toward multivariate luminosity and mass functions](https://arxiv.org/abs/2006.05668)
+    - **Interesting**
+    - We have proposed a systematic method to build a bivariate luminosity or mass function of galaxies by using a copula. It allows us to construct a distribution function when only its marginal distributions are known
+        - A copula is a multivariate cumulative distribution function for which the marginal probability distribution of each variable is uniform on the interval [0, 1]. Copulas are used to describe the dependence between random variables.
+        - [vine copula](https://en.wikipedia.org/wiki/Vine_copula): A vine is a graphical tool for labeling constraints in high-dimensional probability distributions.
+        - Copula不容易延伸到高维，除非分布特殊，比如多维高斯分布
+    - We show a systematic method to extend the copula method to unlimitedly higher dimensions by a vine copula.
+        - A typical example is the situation that we have univariate luminosity functions at some wavelengths for a survey, but the joint distribution is unknown
+
+- [Dynamical masses of brightest cluster galaxies I: stellar velocity anisotropy and mass-to-light ratios](https://arxiv.org/abs/2006.05706)
+    - **Relevant**
+    - 25个BCG的观测：We measure positive central values for h4 for all the BCGs.
+    - We find a strong correlation between anisotropy and velocity dispersion profile slope, with rising velocity dispersion profiles corresponding to tangential anisotropy and decreasing velocity dispersion profiles corresponding to radial anisotropy.
+    - The rising velocity dispersion profiles can also indicate a significant contribution from the intracluster light (ICL) to the total light (in projection) in the centre of the galaxy.
+    - We note that, for some BCGs, a variable βz(r) (from radial to tangential anisotropy) can improve the model fit to the observed kinematic profiles.
+
+- [Testing a theoretical prediction for bar formation in galaxies with bulges](https://arxiv.org/abs/2006.05706)
+    - We use those simulations to show that bars can form only when the force constant FB < 0.13, where FB depends on the ratio of the bulge force to the total force of the galaxy at twice the disk scale length 2Rd
+    - 大部分S4G里的Bar星系符合这个标准
+
+- [MOCCA Survey Database: Extra Galactic Globular Clusters. I. Method and first results](https://arxiv.org/abs/2006.05887)
+    - We apply this study to 12 Gyr-old GCs simulated as part of the MOCCA Survey Database.
+    - 区分GC动力学特征需要中心性质测量：The best distinction is achieved by considering the central parameters, those being observational core radius, central surface brightness, ratio between central and half-mass velocity dispersion, or similarly considering the central color, the central V magnitude and the ratio between central and half-mass radius velocity dispersion
+    - We mention that the color spread in EGGCs due to internal dynamical models, at fixed metallcity, could be just as important due to the spread in metallicity.
+
+- [Non-parametric Triaxial Deprojection of Elliptical Galaxies](https://arxiv.org/abs/2006.05971)
+    - **Relevant, Useful**
+    - Present a grid-based non-parametric approach to obtain a triaxial three-dimensional luminosity density from its surface brightness distribution; assumes that the contours of the luminosity density are boxy/discy ellipsoids with radially varying axis ratios
+    - 3轴去投影难度很大，但对椭圆星系，其他方向的投影也需要像椭圆星系；本征shape有比较强的prior
+    - The method also allows to compare the relative likelihood of deprojections at different viewing angles. We show that the viewing orientations of individual galaxies with nearly ellipsoidal isophotal shapes can be constrained from photometric data alone.
+
+- [IRAM 30m-EMIR Redshift Search of z = 3-4 Lensed Dusty Starbursts selected from the HerBS sample](https://arxiv.org/abs/2006.05992)
+    - We obtained spectroscopic redshifts between 3.4 < z < 4.1 through the detection of multiple CO-spectral lines with J ≤ 3.
+    - The measured CO luminosities and line widths suggest that all these sources are gravitationally lensed.
+    - These observations demonstrate that the 2 mm window is indispensable to confirm robust spectroscopic redshifts for z < 4 sources.
