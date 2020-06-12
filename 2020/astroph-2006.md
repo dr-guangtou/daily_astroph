@@ -475,3 +475,62 @@
     - We obtained spectroscopic redshifts between 3.4 < z < 4.1 through the detection of multiple CO-spectral lines with J ≤ 3.
     - The measured CO luminosities and line widths suggest that all these sources are gravitationally lensed.
     - These observations demonstrate that the 2 mm window is indispensable to confirm robust spectroscopic redshifts for z < 4 sources.
+
+----
+
+### June 12
+
+- [Multiwavelength classification of X-ray selected galaxy cluster candidates using convolutional neural networks](https://arxiv.org/abs/2006.05998)
+    - 不是所有的X-ray展源都是cluster：We train the networks on combined XMM-Newton X-ray observations with their optical counterparts from the all-sky Digitized Sky Survey.
+    - The results of using CNNs on combined X-ray and optical data for galaxy cluster candidate classification are encouraging and there is a lot of potential for future usage and improvements 
+
+- [The copula of the cosmological matter density field is non-Gaussian](https://arxiv.org/abs/2006.06182)
+    - Reionization also represents a significant contaminant to CMB-derived cosmological parameter constraints, due to the degeneracy between the Thomson-scattering optical depth, τ, and the amplitude of scalar perturbations, As.
+    - We explore the kinematic Sunyaev-Zel'dovich (kSZ) effect as a probe of reionization, and show that it can be used to mitigate the optical depth degeneracy with high-sensitivity, high-resolution data from the upcoming CMB-S4 experiment
+    - We show that by combining the kSZ two-point function and the reconstructed kSZ four-point function, degeneracies between τ and Δz can be strongly broken, yielding tight constraints on both parameters
+
+- [Mitigating the optical depth degeneracy using the kinematic Sunyaev-Zel'dovich effect with CMB-S4](https://arxiv.org/abs/2006.06594)
+    - Non-Gaussianity of the cosmological matter density field can be largely reduced by a local Gaussianization transformation (and its approximations such as the logrithmic transformation). Such behavior can be recasted as the Gaussian copula hypothesis
+    - 但模拟里可以探测到很显著的 non-Gaussianities in the Gaussianized field; 造成的原因是:the very limited degrees of freedom in the copula function, which make it misleading as a diagnosis of residual non-Gaussianity in the Gaussianized field
+    - 会影响对N-point CF的预测；explore a remedy of the Gaussian copula hypothesis, which alleviates but not completely solves the above problems.
+
+- [Powering galactic super-winds with small-scale AGN winds](https://arxiv.org/abs/2006.05997)
+    - 新的AGN wind模型：The wind is injected by prescribing mass, momentum and energy fluxes across a spherical boundary centred on a supermassive black hole according to available constraints for accretion disc winds.
+    - After sweeping-up a mass equal to their own, small-scale winds thermalise, powering energy-driven outflows with dynamics, structure and cooling properties in excellent agreement with those of analytic wind solutions.
+    - Above a critical AGN luminosity, initially spherical, small-scale winds power bipolar, energy-driven super-winds that break out of the galactic nucleus, flowing at speeds >1000kms−1 out to ∼10kpc.
+
+- [VINTERGATAN I: The origins of chemically, kinematically and structurally distinct discs in a simulated Milky Way-mass galaxy](https://arxiv.org/abs/2006.06008)
+    - We find that in connection to the last major merger at z∼1.5, cosmological accretion leads to the rapid formation of an outer, metal-poor, low-[α/Fe] gas disc around the inner, metal-rich galaxy containing the old high-[α/Fe] stars. 能解释[alpha/Fe]的双态分布
+    - We demonstrate the way in which inside-out growth shapes the radial surface density and metallicity profile and how radial migration preferentially relocates stars from the inner to the outer disc. Secular disc heating is found to give rise to increasing velocity dispersions and scaleheights with stellar age.
+
+- [VINTERGATAN II: the history of the Milky Way told by its mergers](https://arxiv.org/abs/2006.06011)
+    - We find that the initial growth phase of galaxy evolution, dominated by repeated major mergers, provides the necessary physical conditions for the assembly of a thick, kinematically hot disk populated by high-[α/Fe] stars, formed both in situ and in accreted satellite galaxies
+    - The diversity of evolutionary tracks followed by the simulated galaxy and its progenitors leads to very little overlap of the in situ and accreted populations for any given chemical composition.
+    - At a given age, the spread in [α/Fe] abundance ratio results from the diversity of physical conditions in VINTERGATAN and its satellites, with an enhancement in [α/Fe] found in stars formed during starburst episodes. Later, the cessation of the merger activity promotes the in situ formation of stars in the low-[α/Fe] regime, in a radially extended, thin and overall kinematically colder disk
+
+- [VINTERGATAN III: how to reset the metallicity of the Milky Way](https://arxiv.org/abs/2006.06012)
+    - We present a new scenario for the onset of star formation at the metal-poor end of the low-[α/Fe] sequence in a Milky Way-like galaxy 
+    - Galaxy is fueled by two distinct gas flows. One is enriched by outflows from massive galaxies, but not the other.
+        - 前一种feed银河系内部区域，后一种feed outer gas disk
+        - The first passage of the last major merger galaxy triggers tidal compression in the outer disk, which increases the gas density and eventually leads to star formation, at a metallicity 0.75 dex lower than the inner galaxy. This forms the first stars of the low-[α/Fe] sequence.
+    - This process implies that the low-[α/Fe] sequence is populated in situ, simultaneously from two formation channels, in the inner and the outer galaxy, with distinct metallicities.
+
+- [The Sloan Digital Sky Survey Reverberation Mapping Project: To Breathe or Not to Breathe](https://arxiv.org/abs/2006.06178)
+    - Broad-line region (BLR) "breathing": Increased central luminosity will enhance line emissivity in more distant clouds, leading to increased average distance of the broad-line-emitting clouds and decreased averaged line width 但不同发射线存在差异
+    - Some high-ionization lines, such as C IV, can even show "anti-breathing" where the line broadens when luminosity increases.
+    - We quantify the breathing effect (Δlog W=αΔlog L) of broad Hα, Hβ, Mg II, C IV, and C III] for statistical quasar samples over z≈0.1−2.5. We found that Hβ displays the most consistent normal breathing expected from the virial relation (α∼−0.25), Mg II and Hα on average show no breathing (α∼0), and C IV (and similarly C III] and Si IV mostly shows anti-breathing (α>0).
+    - The anti-breathing of C IV can be well understood by the presence of a non-varying core component in addition to a reverberating broad-base component
+
+- [The Compact Star-Forming Galaxies at 2<z<3 in 3D-HST/CANDELS: AGN and Non-AGN Physical Properties](https://arxiv.org/abs/2006.06223)
+    - At 2 < z < 3, the similar environment between cSFGs with and without AGNs suggests that their AGN activities are potentially triggered by internal secular processes, such as gravitational instabilities or/and dynamical friction.
+
+- [Tidal disruption events in the first billion years of a galaxy](https://arxiv.org/abs/2006.06565)
+    - **Interesting**
+    - We introduce a new physically motivated model to self-consistently treat TDEs in cosmological simulations, and apply it to the assembly of a galaxy with final mass 3×1010M⊙ at z=6. 每十万年一次
+    - A fraction of the disrupted stars participate in the growth of MBHs, dominating it until the MBH reaches mass ∼5×10^5M⊙, but their contribution then becomes negligible compared to gas. TDE可能可以为黑洞质量增长提供新途径
+    - Galaxy mergers bring multiple MBHs in the galaxy, resulting in an enhancement of the global TDE rate in the galaxy by ∼1 order of magnitude during 100Myr around mergers.
+
+- [Space Telescope and Optical Reverberation Mapping Project. XI. Disk-wind characteristics and contributions to the very broad emission lines of NGC 5548](https://arxiv.org/abs/2006.06615)
+    - 来自盘风上层的obscurer的吸收可能会导致AGN里吸收线和发射线的变化与连续谱脱相干。
+    - Changes in the wind properties alter its shielding and affect the SED striking the BLR, producing the observed decorrelations.
+    - We find that a translucent wind can contribute a part of the He II and Fe K? emission. It has a modest optical depth to electron scattering, which explains the fainter far-side emission in the observed velocity delay maps.
