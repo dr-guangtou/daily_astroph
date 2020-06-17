@@ -699,3 +699,55 @@
     - Our predictions are specifically tailored for direct testing with a new generation of observational techniques by calculating ex-situ fractions as functions of galaxy mass and morphological type, for a range of surface brightnesses.
     - finding that ex-situ fraction increases with stellar mass for central and satellite galaxies in a stellar mass range of 2×10^7 - 1.9×10^12 M⊙.
     - When categorising satellite galaxies by their parent group/cluster halo mass we find that the ex-situ fraction decreases with increasing parent halo mass at fixed galaxy mass.
+
+----
+
+### June 16
+
+- [Time Delay Lens modelling Challenge: II. Results](https://arxiv.org/abs/2006.08619)
+
+- [Measuring the surface mass density ellipticity of redMaPPer galaxy clusters using weak-lensing](https://arxiv.org/abs/2006.08651)
+    - **Relevant, Interesting**
+
+- [Fast estimation of aperture-mass statistics I: aperture mass variance and an application to the CFHTLenS data](https://arxiv.org/abs/2006.08665)
+
+- [Cosmology with the submillimetre galaxies magnification bias: Proof of concept](https://arxiv.org/abs/2006.09185)
+
+- [Galaxy bias and primordial non-Gaussianity: insights from galaxy formation simulations with IllustrisTNG](https://arxiv.org/abs/2006.09368)
+
+- [The Data Processing Pipeline for the MUSE Instrument](https://arxiv.org/abs/2006.08638)
+    - **Useful**
+
+- [Temperature and Metallicity Gradients in the Hot Gas Outflows of M82](https://arxiv.org/abs/2006.08623)
+
+- [Opacity Driven Convection and Variability in Accretion Disks around Supermassive Black Holes](https://arxiv.org/abs/2006.08657)
+
+- [The soft excess of the NLS1 galaxy Mrk 359 studied with an XMM-Newton-NuSTAR monitoring campaign](https://arxiv.org/abs/2006.09005)
+
+- [Characterising continuum variability in the radio-loud narrow-line Seyfert 1 galaxy IRAS 17020+4544](https://arxiv.org/abs/2006.09330)
+
+- [Fe III emission in quasars: evidence for a dense turbulent medium](https://arxiv.org/abs/2006.08617)
+
+- [Evidence from the H3 Survey that the Stellar Halo is Entirely Comprised of Substructure](https://arxiv.org/abs/2006.08625)
+    - **Interesting**
+
+- [A New Multi-Wavelength Census of Blazars](https://arxiv.org/abs/2006.08627)
+
+- [High-redshift Extreme Variability Quasars from Sloan Digital Sky Survey Multi-Epoch Spectroscopy](https://arxiv.org/abs/2006.08645)
+
+- [On the Alignment of Galaxies in Clusters](https://arxiv.org/abs/2006.08835)
+    - **Relevant**
+
+- [Ionized Gas in the NGC 5253 Supernebula:High Spatial and Spectral Resolution Observations with the JVLA and TEXES](https://arxiv.org/abs/2006.09143)
+
+- [From lenticulars to blue compact dwarfs: the stellar mass fraction is regulated by disc gravitational instability](https://arxiv.org/abs/2006.09159)
+
+- [The dust and cold gas content of local star forming galaxies](https://arxiv.org/abs/2006.09224)
+
+- [Hot gas heating via magnetic arms in spiral galaxies. The case of M 83](https://arxiv.org/abs/2006.09240)
+
+- [Arp 220: New Observational Insights into the Structure and Kinematics of the Nuclear Molecular Disks and Surrounding Gas](https://arxiv.org/abs/2006.09262)
+
+- [Evidence for a Rotational Component in the Circumgalactic Medium of Nearby Galaxies](https://arxiv.org/abs/2006.09323)
+
+- [Constraining Magnetic Fields in the Circumgalactic Medium](https://arxiv.org/abs/2006.09369)
