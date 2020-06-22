@@ -730,6 +730,10 @@
 
 - [Evidence from the H3 Survey that the Stellar Halo is Entirely Comprised of Substructure](https://arxiv.org/abs/2006.08625)
     - **Interesting**
+    - we present a comprehensive inventory of structure within 50 kpc from the Galactic center using a sample of 5684 giants at |b|>40∘ and |Z|>2 kpc.
+    - 确认旧结构的同时，发现了一堆新的子结构
+    - Stars born within the Galaxy are a major component at |Z|∼2 kpc (≈60%), but their relative fraction declines sharply to ≲5% past 15 kpc. Beyond 15 kpc, >80% of the halo is built by two massive accreted dwarfs. This explains the relatively high overall metallicity of the halo ([Fe/H]≈−1.2).
+    -
 
 - [A New Multi-Wavelength Census of Blazars](https://arxiv.org/abs/2006.08627)
 
@@ -751,3 +755,166 @@
 - [Evidence for a Rotational Component in the Circumgalactic Medium of Nearby Galaxies](https://arxiv.org/abs/2006.09323)
 
 - [Constraining Magnetic Fields in the Circumgalactic Medium](https://arxiv.org/abs/2006.09369)
+
+----
+
+### June 17
+
+- [Accurately Weighing Neutrinos with Cosmological Surveys](https://arxiv.org/abs/2006.09395)
+
+- [Correlations between Triaxial Shapes and Formation History of Dark Matter Haloes](https://arxiv.org/abs/2006.09420)
+
+- [The dependency of Type Ia Supernova parameters on host galaxy morphology for the Pantheon cosmological sample](https://arxiv.org/abs/2006.09433)
+
+- [The correlation of high-redshift galaxies with the thermal Sunyaev-Zel'dovich effect traces reionization](https://arxiv.org/abs/2006.09742)
+
+- [Fallback Rates from Partial Tidal Disruption Events](https://arxiv.org/abs/2006.09375)
+
+- [Gamma-ray-emitting narrow-line Seyfert 1 galaxies: the Swift view](https://arxiv.org/abs/2006.09411)
+
+- [Constraining X-ray reflection in the low-luminosity AGN NGC 3718 using NuSTAR and XMM--Newton](https://arxiv.org/abs/2006.09463)
+
+- [Lyman continuum leakage in faint star-forming galaxies at redshift z=3-3.5 probed by gamma-ray bursts](https://arxiv.org/abs/2006.09377)
+
+- [A Black-Hole Feedback Valve in Massive Galaxies](https://arxiv.org/abs/2006.09381)
+
+- [Stochastic modelling of star-formation histories II: star-formation variability from molecular clouds and gas inflow](https://arxiv.org/abs/2006.09382)
+
+- [SAGAN-II : Molecular gas content of Giant Radio Galaxies](https://arxiv.org/abs/2006.09388)
+
+- [Missing [CII] emission from early galaxies](https://arxiv.org/abs/2006.09402)
+
+- [ALMA Observations of Multiple-CO and C Lines Toward the Active Galactic Nucleus of NGC 7469: X-ray Dominated Region Caught in the Act](https://arxiv.org/abs/2006.09406)
+
+- [Infrared-detected AGNs in the Local Universe](https://arxiv.org/abs/2006.09476)
+
+- [LOFAR Observations of X-ray Cavity Systems](https://arxiv.org/abs/2006.09708)
+
+- [Evolution of galaxies in groups in the Coma Supercluster](https://arxiv.org/abs/2006.09898)
+
+- [J1615+5452: a remnant radio galaxy in the ELAIS-N1 field](https://arxiv.org/abs/2006.10028)
+
+- [GAMA+KiDS: Empirical correlations between halo mass and other galaxy properties near the knee of the stellar-to-halo mass relation](https://arxiv.org/abs/2006.10040)
+
+- [Variations of Observed Lyman-α Spectra Shapes due to the Intergalactic Absorption](https://arxiv.org/abs/2006.10041)
+
+- [An expanded catalogue of low surface brightness galaxies in the Coma cluster using Subaru/Suprime-Cam](https://arxiv.org/abs/2006.10043)
+
+----
+
+### June 18
+
+- [What does the Marked Power Spectrum Measure? Insights from Perturbation Theory](https://arxiv.org/abs/2006.10055)
+    - The marked power spectrum is capable of placing far tighter constraints on cosmological parameters (particularly the neutrino mass) than the conventional power spectrum.
+    - the mark induces a significant coupling between small-scale non-Gaussianities and large scales, leading to the additional information content.
+    - This suggests that marked spectrum may have important contributions from baryonic effects even at low k: these will need to be studied before the full power of this tool can be realized.
+
+- [TDCOSMO II: 6 new time delays in lensed quasars from high-cadence monitoring at the MPIA 2.2m telescope](https://arxiv.org/abs/2006.10066)
+    - Six new time-delay measurements
+    - The present work demonstrates the feasibility of measuring time delays in lensed quasars in only one or two seasons, provided high signal-to-noise ratio data are obtained at a cadence close to daily.
+
+- [Mapping dark matter and finding filaments: calibration of lensing analysis techniques on simulated data](https://arxiv.org/abs/2006.10155)
+    - We assess measurements of clusters' radial density profiles, departures from sphericity, and their filamentary attachment to the cosmic web. We find that mass maps produced by direct (KS93) inversion of shear measurements are unbiased, and that their noise can be suppressed via filtering with MRLens
+    - Forward-fitting techniques, such as Lenstool, suppress noise further, but at a cost of biased ellipticity in the cluster core and over-estimation of mass at large radii
+
+- [The distribution of dark matter and gas spanning six megaparsecs around the post-merger galaxy cluster MS0451-03](https://arxiv.org/abs/2006.10156)
+    - We map the distribution of dark matter throughout a ∼6×6 Mpc2 area centred on the cluster MS 0451-03. Our joint strong- and weak-lensing analysis shows three possible filaments extending from the cluster, encompassing six group-scale substructures.
+    - 暗物质分布比较elongated，XMM观测气体分布比较spherical;  Such a configuration is predicted in simulations of major mergers 2-7Gyr after the first core passage, when the two dark-matter halos approach second turnaround, and before their gas has relaxed.
+
+
+- [μ⋆ Masses: Weak Lensing Calibration of the Dark Energy Survey Year 1 redMaPPer Clusters using Stellar Masses](https://arxiv.org/abs/2006.10162)
+    - **Relevant**
+    - For the first time we are able to perform a calibration of μ⋆ at high redshifts, z>0.33. In a blinded analysis, we use ∼6,000 clusters split into 12 subsets spanning the ranges 0.1⩽z<0.65 and μ⋆ up to ∼5.5×10^13 Msun 这里的mu是总恒星质量
+    - We use the inferred masses to estimate the joint mass--μ⋆--z scaling relation
+    - We discuss the use of μ⋆ as a complementary mass proxy to the well-studied richness λ for: i) exploring the regimes of low z, λ<20 and high λ, z∼1; ii) testing systematics such as projection effects for applications in cluster cosmology.
+
+- [Shock waves in the magnetized cosmic web: the role of obliquity and cosmic-ray acceleration](https://arxiv.org/abs/2006.10063)
+    - We analyzed both uniform and adaptive mesh resolution simulations of large-scale structures with the magnetohydrodynamical grid code Enzo
+    - We found that shock obliquities are more often perpendicular than what would be expected from a random three-dimensional distribution of vectors, and that this effect is particularly prominent in the proximity of filaments, due to the action of local shear motions.
+
+- [Gas flows in an Active galactic nuclei. I. Two-phase gas inflow](https://arxiv.org/abs/2006.10298)
+    - Perform two-dimensional hydrodynamic simulations to study the non-rotating gas flow in the region from 1-1000 parsec.
+    - Two phase, cold and hot, gas flow will form due to thermal instability. We calculated the ratio of cold gas accretion rate to hot gas accretion rate. This ratio is a function of gas density and generally increases with the increase of gas density.
+
+- [Herschel SPIRE discovery of far-infrared excess synchrotron emission from the west hot spot of the radio galaxy Pictor A](https://arxiv.org/abs/2006.10737)
+    - A far-infrared counterpart to the west hot spot of the radio galaxy Pictor A is discovered
+    - The derived energy index below the break, α∼0.22 (conservatively <0.42), is difficult to be attributed to the strong-shock acceleration (α=0.5). Stochastic acceleration and magnetic reconnection are considered as a plausible alternative mechanism.
+
+- [Environmental impact on star-forming galaxies in a z∼0.9 cluster during course of galaxy accretion](https://arxiv.org/abs/2006.10053)
+    - A narrow-band and J-band imaging survey on a cluster CL1604-D at z=0.923 using a new infrared instrument SWIMS installed at the Subaru Telescope.
+    - We have identified 27 Hα emitters associated with the cluster. They have significant overlap with MIPS 24μm sources and are located exclusively in the star forming regime on the rest-frame UVJ diagram.
+    - We have identified two groups of galaxies near the cluster in the 2D spatial distribution and the phase-space diagram, which are likely to be in-falling to the cluster main body.
+
+- [Resolving shocks and filaments in galaxy formation simulations: effects on gas properties and star formation in the circumgalactic medium](https://arxiv.org/abs/2006.10058)
+    - We have developed a novel `shock refinement' scheme within the moving mesh code AREPO that adaptively increases resolution around shocks on-the-fly in galaxy formation simulations
+    - With increased refinement there are significantly more dense, metal-poor and fast-moving filaments and clumps flowing into the halo, leading to a more multiphase CGM. We find up to a 50 per cent boost in cool-dense gas mass and a 25 per cent increase in inflowing mass flux.
+    - Despite much higher energy dissipation at shocks with higher resolution, increased cooling rates suppress the thermal energy of the halo. In contrast, the faster and denser filaments cause a jump of 50 per cent in the bulk kinetic energy of cool-dense gas, while in the hot phase turbulent energy increases by 50 per cent.
+
+- [Discovery of a CI faint, CO-bright Galaxy: ALMA Observations of the Merging Galaxy NGC 6052](https://arxiv.org/abs/2006.10059)
+    - According to models of photodissociation regions, the unusual weakness of [\ion{C}{1}]~3P1--3P0 relative to 12CO~J=4--3 can be explained if the interstellar medium has a hydrogen density larger than 105cm−3, conditions that might arise naturally in the ongoing merging process in NGC 6052.
+
+- [The contribution of globular clusters to cosmic reionization](https://arxiv.org/abs/2006.10065)
+    - 17-39% of stars form in bound clusters during starbursts
+    - We find that the averaged f_esc over the lifetime of a star particle follows a similar distribution for cluster stars and non-cluster stars. Clusters tend to have low f_esc in the first few Myrs, presumably because they form preferentially in more extreme environments with high optical depths; the f_esc increases later as feedback starts to disrupt the natal cloud.
+    - Our results suggest that the fraction of ionizing photons from proto-GCs to cosmic reionization is comparable to the cluster formation efficiency in high-redshift galaxies and hence proto-GCs likely contribute an appreciable fraction of photons but are not the dominant sources for reionization.
+
+- [Supermassive black holes in cosmological simulations I: M_BH-M_star relation and black hole mass function](https://arxiv.org/abs/2006.10094)
+    - We investigate the impact of the sub-grid models on the BH mass properties of the Illustris, TNG100, TNG300, Horizon-AGN, EAGLE, and SIMBA simulations
+    - 都能产生tight M_BH-M_star relations, and struggle to produce the lowest (M_BH< 10^7.5 Msun) in galaxies of M_star~10^10.5-10^11.5 Msun.
+    - The strength of SN feedback has a large impact on the linearity and time evolution for M_star<10^10.5 Msun 低黑洞质量端更能区别模型
+    - The BH mass function is dominated by efficiently accreting BHs (log10 f_Edd >-2$) at high redshifts, and transitions progressively from the high-mass to the low-mass end to be governed by inactive BHs.
+
+- [Kinematics of an isolated galaxy, CIG 993](https://arxiv.org/abs/2006.10106)
+    - the velocity field, the σ and residual velocity field show significant deviations from circular motions in the central part of the galaxy that matches a region with high number of Wolf-Rayet and O stars, coincident with the blue luminous component of the galaxy.
+    - We believe CIG 993 is a disk galaxy harboring important star-forming processes most likely caused by a relatively recent interaction. This could imply that small encounters could change the global characteristics of a galaxy without disturbing the main rotation disk motion
+
+- [The (black hole mass)-(color) relations for early- and late-type galaxies: red and blue sequences](https://arxiv.org/abs/2006.10128)
+    - we present newly observed correlations between MBH and the host galaxy total UV− [3.6] color (Pearson's r = 0.6−0.7) for a sample of 67 galaxies
+    - We find that more massive SMBHs are hosted by (early- and late-type) galaxies with redder colors 但关系的slope在早型和晚型星系中明显不同
+    - the specific star formation rate of a galaxy (sSFR) is well traced by LUV/L3.6, it follows that the SMBH masses for late-type galaxies exhibit a steeper dependence on sSFR than those for early-type galaxies.
+
+- [Galaxy Zoo Builder: Four Component Photometric decomposition of Spiral Galaxies Guided by Citizen Science](https://arxiv.org/abs/2006.10450)
+    - We attempt to resolve this dilemma of "quantity or quality" by developing a novel framework, built inside the Zooniverse citizen science platform, to enable the crowdsourcing of model creation for Sloan Digitial Sky Survey galaxies
+
+- [Gas, dust, and star formation in the positive AGN feedback candidate 4C 41.17 at z=3.8](https://arxiv.org/abs/2006.10572)
+    - This is one of the best-studied radio galaxies in this epoch and is arguably the best candidate of jet-triggered star formation at high redshift currently known in the literature.
+    - 4C 41.17 shows a narrow ridge of dust continuum extending over 15 kpc near the radio jet axis. Line emission is found within the galaxy in the region with signatures of positive feedback
+    - the jet does not currently enhance the efficiency with which stars form from the gas. This is consistent with expectations from simulations, whereby radio jets may facilitate the onset of star formation in galaxies without boosting its efficiency over longer timescales
+
+- [Evolution of Disc Thickness in High-Redshift Galaxies](https://arxiv.org/abs/2006.10642)
+    - We find that in our simulations stars always form in relatively thin discs, and at ages below 100 Myr are contained within half-mass height z1/2 ~ 0.1 kpc and short-to-long axis ratio z1/2/x1/2 ~ 0.15 模拟研究
+    - 盘厚度随恒星年龄增加
+    - We trace the same group of stars over the simulation snapshots and show explicitly that their intrinsic shape grows more spheroidal over time. The observed increase in disc thickness is due to the gradual vertical expansion of the originally thin stellar population, combined with the rapidly changing orientation of the galactic plane which mixes the configuration of young stars 不是upside-down形成的
+
+- [Galaxy cluster cores as seen with VLT/MUSE: new strong-lensing analyses of RX J2129.4+0009, MS 0451.6-0305 & MACSJ2129.4-0741](https://arxiv.org/abs/2006.10700)
+    - We present strong-lensing analyses of three galaxy clusters, RXJ2129.4+0009 (z=0.235), MS0451.6-0305 (z=0.55), and MACSJ2129.4-0741 (z=0.589), using the powerful combination of Hubble Space Telescope (HST) multi-band observations, and Multi-Unit Spectroscopic Explorer (MUSE) spectroscopy
+
+- [A comparison of quasar emission reconstruction techniques for z≥5.0 Lyman-α and Lyman-β transmission](https://arxiv.org/abs/2006.10744)
+    - we systematically evaluate eight reconstruction techniques on a unified testing sample of 2.7 < z < 3.5 quasars drawn from eBOSS
+    - Power-law extrapolations have larger scatters than previously assumed. We present two new PCAs which achieve the best current accuracies.
+
+----
+
+### June 21
+
+- [Studying galaxy cluster morphological metrics with Mock-X](https://arxiv.org/abs/2006.10752)
+
+- [KiDS+GAMA: The weak lensing calibrated stellar-to-halo mass relation of central and satellite galaxies](https://arxiv.org/abs/2006.10777)
+
+- [An adapted filter function for density split statistics in weak lensing](https://arxiv.org/abs/2006.10778)
+
+- [Focal ratio degradation for fiber positioner operation in astronomical spectrographs](https://arxiv.org/abs/2006.10902)
+
+- [On the diversity of the jet production efficiency in Swift/BAT AGNs](https://arxiv.org/abs/2006.11049)
+
+- [Powderday: Dust Radiative Transfer for Galaxy Simulations](https://arxiv.org/abs/2006.10757)
+
+- [Evidence for supernova feedback sustaining gas turbulence in nearby star-forming galaxies](https://arxiv.org/abs/2006.10764)
+
+- [Environmental Dependence of Self-Regulating Black-hole Feedback in Massive Galaxies](https://arxiv.org/abs/2006.10809)
+
+- [From spirals to lenticulars: evidence from the rotation curves and mass models of three early-type galaxies](https://arxiv.org/abs/2006.10813)
+
+- [Three Lyman-alpha emitting filaments converging to a massive galaxy group at z=2.91: a case for cold gas infall](https://arxiv.org/abs/2006.11089)
+
+- [Aligning Nuclear Cluster Orbits with an Active Galactic Nucleus Accretion Disk](https://arxiv.org/abs/2006.11229)
