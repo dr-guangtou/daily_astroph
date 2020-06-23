@@ -898,23 +898,105 @@
 ### June 21
 
 - [Studying galaxy cluster morphological metrics with Mock-X](https://arxiv.org/abs/2006.10752)
+    - **Relevant**
+    - we examine 9 commonly used observational and theoretical morphological metrics extracted from 54,000 Mock-X synthetic X-ray images of galaxy clusters taken from the IllustrisTNG, BAHAMAS and MACSIS simulation suites
+    - Many criteria distributions evolve as a function of redshift, cluster mass, numerical resolution and subgrid physics, limiting the effectiveness of a single relaxation threshold value.
+    - we find the consistency of relaxed subsets defined by the different metrics to be relatively poor. Therefore, the use of relaxed cluster subsets introduces significant selection effects that are non-trivial to resolve.
 
 - [KiDS+GAMA: The weak lensing calibrated stellar-to-halo mass relation of central and satellite galaxies](https://arxiv.org/abs/2006.10777)
+    - **Relevant**
+    - we find that satellite galaxies are hosted by halo masses that are 0.53±0.39 dex (68% confidence, 3σ detection) smaller than those of central galaxies of the same stellar mass
+    - We find consistent results with similar uncertainties when comparing constraints from a standard azimuthally averaged galaxy-galaxy lensing analysis and a two-dimensional likelihood analysis of the full shear field. As the latter approach is somewhat biased due to the lens incompleteness, and does not provide any improvement in precision when applied to actual data
 
 - [An adapted filter function for density split statistics in weak lensing](https://arxiv.org/abs/2006.10778)
+    - we reconsider density split statistics, by constructing a new angular filter function that is adapted to the expected relation between galaxy number density and shear pattern, in a way that the filter weighting the galaxy number density is matched to the filter that is used to quantify the shear signal. 
+    - We show that the adapted filter yields a better correlation between the total matter and the galaxy distribution. Furthermore, the adapted filter provides a larger signal-to-noise ratio to constrain the bias between the total matter and the galaxy distribution
 
 - [Focal ratio degradation for fiber positioner operation in astronomical spectrographs](https://arxiv.org/abs/2006.10902)
+    - **SSST**
+    - Focal ratio degradation (FRD), the increase of light's focal ratio between the input into an optical fiber and the output
+    - FRD is a function of many fiber properties such as stresses, microbending, and surface imperfections, angular misalignments between the incoming light and the face of the fiber also affect the light profile and complicate this measurement.
 
 - [On the diversity of the jet production efficiency in Swift/BAT AGNs](https://arxiv.org/abs/2006.11049)
+    - Our results suggest that some threshold conditions must be satisfied to allow production of strong, relativistic jets in RL AGNs.
+    - the production of collimated, relativistic jets must involve the Blandford-Znajek (BZ) mechanism and can be activated only in those AGNs whose lifetime is longer than the time required to enter the so-called magnetically arrested disk (MAD) state in the center of the accretion flow
+    - weak nonrelativistic jets observed in some RQ AGNs are produced by accretion disks rather than by rotating BHs.
 
 - [Powderday: Dust Radiative Transfer for Galaxy Simulations](https://arxiv.org/abs/2006.10757)
+    - **Useful**
+    - Powderday builds on FSPS population synthesis models, Hyperion dust radiative transfer, and employs yt to interface between different software packages.
+    - The dust content follows either observationally-motivated prescriptions, direct modeling from galaxy formation simulations, or a novel approach that includes the dust content via learning-based algorithms from the SIMBA cosmological galaxy formation simulation.
+    - Powderday is designed to eliminate last-mile efforts by researchers that employ different hydrodynamic galaxy formation models, and seamlessly interfaces with GIZMO, AREPO, GASOLINE, CHANGA, and ENZO
 
 - [Evidence for supernova feedback sustaining gas turbulence in nearby star-forming galaxies](https://arxiv.org/abs/2006.10764)
+    - we measure the SN efficiency η, namely the fraction of the total SN energy needed to sustain turbulence in galaxies, and verify that SNe can indeed be the sole driving mechanism.
+    - we take into account the increased turbulence dissipation timescale associated to the flaring in outer regions of gaseous discs.
+    - We use a theoretical model to reproduce the observed energy with the sum of turbulent energy from SNe, as inferred from the observed star formation rate (SFR) surface density, and the gas thermal energy. We find that the observed kinetic energy is remarkably well reproduced by our model across the whole extent of the galactic discs, assuming η constant with the galactocentric radius
+
+- [Exploring Chemical Homogeneity in Dwarf Galaxies: A VLT-MUSE study of JKB 18](https://arxiv.org/abs/2006.10768)
+    - JKB 18, a blue diffuse dwarf galaxy with a metallicity of only 12+log(O/H)=7.6±0.2 (~0.08 Zsol).
+    - With large-scale dispersions in O/H, N/H and N/O of ~0.5-0.6 dex and regions harbouring chemical abundances outside this 1σ distribution, we deem JKB 18 to be chemically inhomogeneous.
+    - chemical inhomogeneities of this level may be attributable to the removal of gas via supernovae and the specific timing of the observations with respect to star-formation activity.
 
 - [Environmental Dependence of Self-Regulating Black-hole Feedback in Massive Galaxies](https://arxiv.org/abs/2006.10809)
+    - Abundant circumstantial evidence suggests that accumulation of cold gas near the central black hole strongly boosts the feedback output, keeping the ambient medium in a state marginally unstable to condensation and formation of cold gas clouds.
+    - Our simulations show that this feedback mechanism is tightly self-regulating in a massive galaxy with a deep central potential and low CGM pressure, permitting only small amounts of multiphase gas to accumulate and allowing almost no star formation.
 
 - [From spirals to lenticulars: evidence from the rotation curves and mass models of three early-type galaxies](https://arxiv.org/abs/2006.10813)
+    - We derive rotation curves for three lenticular galaxies from the ATLAS3D survey, combining CO data in the inner parts with deep HI data in the outer regions
+    - the rotation-curve shapes of these ETGs are similar to those of LTGs of similar mass and surface brightness
+    - the dynamically−inferred stellar mass-to-light ratios are small for quiescent ETGs but similar to those of star-forming LTGs
+    - 光度和暗物质晕的质量关系与LTG类似
 
 - [Three Lyman-alpha emitting filaments converging to a massive galaxy group at z=2.91: a case for cold gas infall](https://arxiv.org/abs/2006.11089)
+    - We have discovered a 300kpc-wide giant Lya nebula centered on the massive galaxy group RO-1001 at z=2.91 in the COSMOS field. Keck Cosmic Web Imager
+    - The inwards deceleration of the filament and the prevalence of blueshifted components in the Lya spectra support a scenario of gas accretion. The upper limits on AGN activity and overall energetics favor gravity as the primary Lya powering source
 
 - [Aligning Nuclear Cluster Orbits with an Active Galactic Nucleus Accretion Disk](https://arxiv.org/abs/2006.11229)
+    - Stars and stellar remnants orbiting the SMBH in the nuclear star cluster (NSC) will interact with the AGN disk. Orbiters plunging through the disk experience a drag force and, through repeated passage, can have their orbits captured by the disk
+    - Capture time strongly depends on the density and aspect ratio of the chosen disk model, the relative velocity of the stellar object with respect to the disk, and the AGN lifetime.
+
+----
+
+### June 22
+
+- [Compressing combined probes: redshift weights for joint lensing and clustering analyses](https://arxiv.org/abs/2006.11297)
+    - we derive and test a new estimator for joint clustering and lensing data analysis, maximising the scientific return and decreasing the computational cost.
+    - Our estimator compresses the data by up-weighting the components most sensitive to the parameters of interest, with no loss of information, taking into account information from the cross-correlation between the two probes.
+
+- [Upper boundaries of AGN regions in optical diagnostic diagrams](https://arxiv.org/abs/2006.11298)
+    - By using a sample of central emitting regions from the MaNGA survey, we find evidence of the existence of upper boundaries for narrow-line regions (NLRs) of active galactic nuclei (AGN)
+    - Photoionization models can well reproduce the boundaries as a consequence of the decrease of [S II]λλ6716, 6731/Hα and [O III]λ5007/Hβ ratios at very high metallicity.
+    - 可以用来推断AGN的SED slope: constrain the power-law index of the AGN SED between 1 Ryd and ∼100 Ryd to be less than or equal to −1.40±0.05
+    - Although shock-ionized cloud can produce similar line ratios as those by photoionization, the resulting shapes of the upper boundaries, if exist, would likely be different from those of a photoionizing origin.
+
+- [Spatial Variation in Strong Line Ratios and Physical Conditions in Two Strongly-Lensed Galaxies at z~1.4](https://arxiv.org/abs/2006.11387)
+    - We find significant spatial variation in the reddening and the reddening-corrected O32 and R23 values which correspond to spreads of a few tenths of a dex in ionization parameter and metallicity. 
+    - We also find clear evidence of a negative radial gradient in star formation in SDSS J2340+2947 and tentative evidence of one in SDSS J1723+3411
+    - we find that reddening can vary enough spatially to make spatially-resolved reddening corrections necessary in order to characterize gradients in line ratios
+    
+    
+- [GASP XXVI. HI Gas in Jellyfish Galaxies: The case of JO201 and JO206](https://arxiv.org/abs/2006.11543)
+    - Its Hα emission shows a ∼40 kpc tail confined closely to its stellar disc and a ∼100 kpc tail extending further out. We find HI emission coinciding only with the shorter clumpy Hα tail.
+    - Of the total HI mass in JO201, about 30% lies outside the galaxy disc in projection. This HI fraction is probably a lower limit since most of the HI is redshifted relative to the stellar disc and could be outside the disc.
+    - The disc is the main contributor of the high star formation efficiency at a given HI gas density for both galaxies, but their tails also show higher star formation efficiencies compared to the outer regions of field galaxies.
+    
+- [The Fornax Deep Survey with VST. IX. On the assembly history of the bright galaxies and intra-group light in the Fornax A subgroup](https://arxiv.org/abs/2006.11828)
+    - **Relevant**
+    - The majority of galaxies in the Fornax A group are late-type galaxies (LTGs), spanning a range of stellar mass of 8<log(M∗M⊙)<10.5. Six out of nine LTGs show a Type III (up-bending) break in their light profiles
+    - The estimated luminosity of the IGL is 6±2×1010L⊙ in g-band, which corresponds to about 16% of the total light in the group
+
+- [An Extremely Bright QSO at z=2.89](https://arxiv.org/abs/2006.11915)
+    - We report the discovery and confirmation of a bright quasi-stellar object (QSO), 2MASS J13260399+7023462, at z=2.889.
+    - With a Gaia apparent magnitude G=16.07, 2MASS J13260399+7023462 is one of the brightest QSOs known at z>2
+    - Follow-up Hubble observations confirm it is not gravitationally lensed.
+
+- [The physical drivers of the atomic hydrogen-halo mass relation](https://arxiv.org/abs/2006.12102)
+    - In SHARK, we find that the HI mass increases with the halo mass up to a critical mass of ≈10^11.8M⊙; between ∼10^11.8−10^13M⊙, the scatter in the relation increases by 0.7 dex and the HI mass decreases with the halo mass on average; at Mvir≥1013M⊙, the HI content continues to increase with halo mass.
+    - We find that the critical halo mass of ≈1012M⊙ is largely set by feedback from Active Galactic Nuclei (AGN), and the exact shape and scatter of the HI-halo mass relation around that mass is extremely sensitive to how AGN feedback is modeled
+
+- [Dependence of the Fundamental Plane of Early-type Galaxies on Age and Internal Structure](https://arxiv.org/abs/2006.12141)
+    - **Relevant** 
+    - The FP of old ETGs with age ≳9 Gyrs has a smaller scatter of ∼0.06 dex (∼14%) while that of young ETGs with age ≲6 Gyrs has a larger scatter of ∼0.075 dex (∼17%). 
+    - In the case of young ETGs, less compact ETGs have a smaller scatter in the FP (∼0.065 dex; ∼15%) than more compact ones (∼0.10 dex; ∼23%).
+    - This large scatter in compact young ETGs is caused by ETGs that have low dynamical mass-to-light ratio (Mdyn/L) and blue color in the central regions.
