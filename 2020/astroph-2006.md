@@ -1238,3 +1238,74 @@
 - [323 MHz GMRT Observations of Radio-loud Quasars at z>5](https://arxiv.org/abs/2006.13762)
     - Among the twelve targets observed successfully, ten are detected above 4σ significance, while two are undetected. 有探测的都是点源
     - Combined with previous radio continuum detections from the literature, nine quasars have power-law spectral energy distributions throughout the radio range; for some the flux density drops with increasing frequency while it increases for others.
+
+----
+
+### June 25
+
+- [The XMM Cluster Survey: new evidence for the 3.5 keV feature in clusters is inconsistent with a dark matter origin](https://arxiv.org/abs/2006.13955)
+    - We explore evidence for a ≃ 3.5 keV excess in the XMM-PN spectra of 117 redMaPPer galaxy clusters (0.1< z<0.6).
+    - In our analysis of individual spectra, we identify three systems with an excess of flux at ≃ 3.5 keV. In one case (XCS J0003.3+0204) this excess may result from a discrete emission line.
+    - 把cluster按照Tx bin起来，看3.5keV的超出有没有Tx的相关：we do not find evidence of a significant excess in flux at ≃ 3.5 keV in any TX bins.
+    - A flux excess at ≃ 3.5 keV is not a ubiquitous feature in clusters and therefore unlikely to originate from sterile neutrino dark matter decay.
+
+- [Measuring the integrated Sachs-Wolfe effect from the low-density regions of the universe](https://arxiv.org/abs/2006.14202)
+    - We propose a novel method of ISW measurement by cross correlating CMB and the LSS traced by "low-density-position" (LDP)
+    - 在DECaLS DR8的图像中找LDPs，和Planck温度map做交叉相关；detect the ISW effect at 3.2σ
+
+- [CASTLE: performances and science cases](https://arxiv.org/abs/2006.13956)
+    - **Interesting**
+    - We present here the Calar Alto Schmidt-Lemaitre Telescope (CASTLE) concept, a technology demonstrator for curved detectors
+    - 主要科学目标是低面亮度：This telescope has a wide field of view (2.36x1.56 deg^2) and a design, optimised to generate a Point Spread Function with very low level wings and reduced ghost features
+
+- [Is there an enormous cold front at the virial radius of the Perseus cluster?](https://arxiv.org/abs/2006.14043)
+    - In our new XMM observations we have found that there is a sharp edge in X-ray surface brightness near the cluster virial radius (1.7Mpc) to the west, with a width comparable to the mean free path
+    - The temperature measurements obtained with Suzaku data across this edge show that the temperature increases sharply outside this edge. All of these properties are consistent with this edge being the largest cold front ever observed in a galaxy cluster.
+    - We find that these large cold fronts require large impact parameter, low mass ratio mergers which can produce fast gas motions without destroying the cluster core. 星系团可以发生不破坏cool core的minor merger.
+
+- [The VLA-COSMOS 3 GHz Large Project: Evolution of specific star formation rates out to z∼5](https://arxiv.org/abs/2006.13937)
+    - We measure the MS using mean stacks of 3 GHz radio continuum images to derive average SFRs for ∼200,000 mass-selected galaxies at z>0.3 in the COSMOS field.
+    - We find that the SFR density peaks at 1.5 < z < 2 and at each epoch there is a characteristic stellar mass (M∗=1 − 4×10^10M⊙) that contributes the most to the overall SFR density.
+    - We find no significant evidence for variations in the MS relation for galaxies in different environments traced by the galaxy number density at 0.3 < z<3, nor for galaxies in X-ray groups at z∼0.75.
+
+- [NGC 4104: a shell galaxy in a forming fossil group](https://arxiv.org/abs/2006.13941)
+    - **Relevant**
+    - Our results show a stellar shell system feature in NGC 4104 and an extended envelope that was reproduced by our numerical simulations of a collision with a satellite galaxy about 4--6 Gyr ago.
+    - Taking into account the stellar envelope contribution to the total r band magnitude and the X-ray luminosity, MKW 4s falls into the category of a fossil group. Our results show that we are witnessing a rare case of a shell elliptical galaxy in a forming fossil group.
+
+- [Thermal Instability in the CGM of L⋆ Galaxies: Testing "Precipitation" Models with the FIRE Simulations](https://arxiv.org/abs/2006.13945)
+    - FIRE-2中的低红移CGM：We find that the CGM in these simulations is generally multiphase and dynamic, with a wide spectrum of largely nonlinear density perturbations sourced by the accretion of gas from the IGM and winds from both the central and satellite galaxies
+    - Most of the low entropy gas has cooled from the hot halo as a result of thermal instability triggered by these perturbations
+    - The ratio of cooling to free-fall timescales tcool/tff in the hot component of the CGM spans a wide range ∼1−100 at a given radius, but exhibits approximately constant median values ∼5−20 at all radii 0.1Rvir< r<Rvir. 和ICM中“冷凝”模型的热不稳定性临界值类似
+    - We explicitly show that the tcool/tff value of a gas parcel in the hot component of the CGM does not predict its probability of cooling and subsequently accreting onto the central galaxy.
+    - 如果ICM中有着幅度比较大的密度扰动，t_cool/t_ff不再是很好的热不稳定性指示。
+
+- [The kinematics of massive quiescent galaxies at 1.4<z<2.1: dark matter fractions, IMF variation, and the relation to local early-type galaxies](https://arxiv.org/abs/2006.13949)
+    - **Relevant, Important**
+    - We use these data to show that the typical dynamical-to-stellar mass ratio has increased by ∼0.2 dex from z=2 to the present day
+    - 有效半径内的暗物质比例一直在提高：Comparing our high-redshift sample to their likely descendants at low-redshift, we find that fDM has increased by a factor of more than 4 since z≈1.8, from fDM = 6.6±1.0% to ∼24%.
+    - We demonstrate that the correlation between stellar velocity dispersion and α reported among quiescent galaxies at low-redshift is already in place at z=2, and argue that subsequent evolution through (mostly minor) merging should act to preserve this relation while contributing significantly to galaxies overall growth in size and stellar mass.
+
+- [The DIANOGA simulations of galaxy clusters: characterizing star formation in proto-clusters](https://arxiv.org/abs/2006.13951)
+    - We analyze a set of zoom-in cosmological hydrodynamical simulations centred on twelve clusters.
+    - Simulations do not reproduce the high values of SFR observed within protoclusters cores, where the values of SFR are underpredicted by a factor ≳4 both at z∼2 and z∼4. 可能是因为某种原因低估了气体比例
+
+- [Virialization of the inner CGM in the FIRE simulations and implications for galaxy discs, star formation and feedback](https://arxiv.org/abs/2006.13976)
+    - 也是FIRE-2中的CGM分析：We demonstrate that when the halo mass crosses ~10^12 M_sun, the cooling time of shocked gas in the inner CGM (~0.1 R_vir, where R_vir is the virial radius) exceeds the local free-fall time.
+    - The inner CGM then experiences a transition from on average sub-virial temperatures (T<<T_vir), large pressure fluctuations and supersonic inflow/outflow velocities, to virial temperatures (T~T_vir), uniform pressures and subsonic velocities
+    - 这是一个Outside-in的位力化图像，和之前模拟中的不同
+    - 内部CGM的位力化伴随着星系性质的迅速改变：the galaxy settles into a stable rotating disc, star formation transitions from 'bursty' to `steady,' and stellar-driven galaxy-scale outflows are suppressed.
+
+- [The Complete Redshift Distribution of Dusty Star-forming Galaxies from the SPT-SZ Survey](https://arxiv.org/abs/2006.14060)
+    - SPT探测到的81个高红移DSFGs的红移信息；The SPT sample is now spectroscopically complete, with redshifts spanning the range 1.9< z <6.9, with a median of z=3.9±0.2.
+    - 即便在考虑了透镜放大效应后，SPT探测到的DSFG依然是在红外亮度上最极端的那些；但气体消耗时标和普通的DSFG类似
+
+- [Discovery of a near-infrared bar and a pseudobulge in the collisional ring galaxy Cartwheel](https://arxiv.org/abs/2006.14314)
+    - We report the discovery of a bar, a pseudobulge and unresolved point source in the archetype collisional ring galaxy Cartwheel using careful morphological analysis of a near-infrared (NIR) Ks band image of excellent quality (seeing=0.42\arcsec) at the ESO archive
+    - 即便在分辨率高得多的HST光学图像上也看不出这些结构
+
+- [Radiative cooling rates, ion fractions, molecule abundances and line emissivities including self-shielding and both local and metagalactic radiation fields](https://arxiv.org/abs/2006.14322)
+    - **Useful**
+    - 用Cloudy给不同红移，温度，金属丰度，密度的气体的性质建立可查询表格；涵盖了从ISM到IGM的性质
+    - The gas is exposed to a redshift-dependent UV/X-ray background, while for the self-shielded lower-temperature gas (i.e. ISM gas) an interstellar radiation field and cosmic rays are added.
+    - The radiation field is attenuated by a density- and temperature-dependent column of gas and dust. This gas column density also determines the intensity of the interstellar radiation field and the cosmic ray density.
