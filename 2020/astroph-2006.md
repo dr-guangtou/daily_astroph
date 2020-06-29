@@ -1259,6 +1259,8 @@
     - 主要科学目标是低面亮度：This telescope has a wide field of view (2.36x1.56 deg^2) and a design, optimised to generate a Point Spread Function with very low level wings and reduced ghost features
 
 - [Is there an enormous cold front at the virial radius of the Perseus cluster?](https://arxiv.org/abs/2006.14043)
+    - **Interesting**
+    - 应用了Gaussian Gradient Magnitude技术
     - In our new XMM observations we have found that there is a sharp edge in X-ray surface brightness near the cluster virial radius (1.7Mpc) to the west, with a width comparable to the mean free path
     - The temperature measurements obtained with Suzaku data across this edge show that the temperature increases sharply outside this edge. All of these properties are consistent with this edge being the largest cold front ever observed in a galaxy cluster.
     - We find that these large cold fronts require large impact parameter, low mass ratio mergers which can produce fast gas motions without destroying the cluster core. 星系团可以发生不破坏cool core的minor merger.
@@ -1309,3 +1311,54 @@
     - 用Cloudy给不同红移，温度，金属丰度，密度的气体的性质建立可查询表格；涵盖了从ISM到IGM的性质
     - The gas is exposed to a redshift-dependent UV/X-ray background, while for the self-shielded lower-temperature gas (i.e. ISM gas) an interstellar radiation field and cosmic rays are added.
     - The radiation field is attenuated by a density- and temperature-dependent column of gas and dust. This gas column density also determines the intensity of the interstellar radiation field and the cosmic ray density.
+
+----
+
+### June 28
+
+- [The Cosmic Thermal History Probed by Sunyaev-Zeldovich Effect Tomography](https://arxiv.org/abs/2006.14650)
+    - **Interesting**
+    - Thermal history: 宇宙平均热能量密度的演化；is driven by the growth of structures as baryons get shock-heated in collapsing dark matter halos.
+    - We cross-correlate eight sky intensity maps in the Planck and Infrared Astronomical Satellite missions with two million spectroscopic-redshift references in the SDSS.
+    - Our SZ measurements directly constrain ⟨bPe⟩, the halo bias-weighted mean electron pressure, up to z∼1
+    - Over z=1-0, we witness the build up of nearly 70% of the present-day mean thermal energy density ρth
+
+- [Testing the cosmic opacity at higher redshifts: implication from quasars with available UV and X-ray observations](https://arxiv.org/abs/2006.14776)
+    - Present a cosmological model-independent test for the cosmic opacity at high redshifts: achieve this with the opacity-dependent luminosity distances derived from nonlinear relation between X-ray and UV emissions of quasars combined with two types of opacity-independent luminosity distances derived from the Hubble parameter measurements and simulated gravitational wave (GW) events achievable with the Einstein Telescope (ET).
+
+- [A statistical standard siren measurement of the Hubble constant from the LIGO/Virgo gravitational wave compact object merger GW190814 and Dark Energy Survey galaxies](https://arxiv.org/abs/2006.14961)
+    - **SSST**
+    - We present a measurement of the Hubble constant H0 using the gravitational wave (GW) event GW190814, which resulted from the coalescence of a 23 M⊙ black hole with a 2.6 M⊙ compact object, as a standard siren.
+    - From a combination of GW190814, GW170814 and GW170817, our analysis yields H0=69.0+14−7.5 km s−1 Mpc−1 (68% Highest Density Interval, HDI) for a prior in H0 uniform between [20,140]
+
+- [The number of globular clusters around the iconic UDG DF44 is as expected for dwarf galaxies](https://arxiv.org/abs/2006.14630)
+    - Among these special UDGs, DF44 in the Coma cluster is one of the better-known examples. DF44 has been claimed to have a relatively high number of GCs, NGC=74+18−18, for a stellar mass of only 3×10^8 M⊙. In this paper we revisit this number, and, contrary to previous results, find NGC=19+5−5. Making use of the MGC−Mhalo relation
+    - We conclude that the number of GCs around DF44 is as expected for regular dwarf galaxies of similar stellar mass and DF44 is not extraordinary in this respect.
+
+- [The KMOS Lens-Amplified Spectroscopic Survey (KLASS): Kinematics and clumpiness of low-mass galaxies at cosmic noon](https://arxiv.org/abs/2006.14633)
+    - VLA观测被透镜放大的高红移星系：We find that the majority of the galaxies show a rotating disk, but most of the rotation-dominated galaxies only have a low υrot/σ0 ratio (median of υrot/σ0∼2.5)
+    - When combining our data to other surveys from the literature, we also see an increase of the velocity dispersion with stellar mass at all redshift. We obtain an increase of υrot/σ0 with stellar mass at 0.5< z<1.0
+    - We find no clear trend between the clumpiness and the velocity dispersion and υrot/σ0. This could suggest that the kinematic properties of galaxies evolve after the clumps formed in the galaxy disk or that the clumps can form in different physical conditions.
+
+- [Stellar Masses of Giant Clumps in CANDELS and Simulated Galaxies Using Machine Learning](https://arxiv.org/abs/2006.14636)
+    - We first present a new automated method based on deep neural networks to detect clumps in galaxy images and show that it is more sensitive and faster than previous proposed methods.
+    - 和模拟比较：We show that observational effects have a dramatic impact on the derived clump properties leading to an overestimation of the clump mass up to a factor of 10
+    - 用Mixture density network改正观测效应
+    - We find that between 20−40% of ∼1010 solar mass star-forming galaxies contain at least one massive (Mc>10^7M⊙) off-centered clump but only ∼2−5% of the total galaxy stellar mass is in those clumps.
+
+- [Galaxy Morphology Network: A Convolutional Neural Network Used to Study Morphology and Quenching in ∼100,000 SDSS and ∼20,000 CANDELS Galaxies](https://arxiv.org/abs/2006.14639)
+    - To classify galaxies morphologically, we developed Galaxy Morphology Network (GaMorNet), a convolutional neural network that classifies galaxies according to their bulge-to-total light ratio
+    - For both SDSS and CANDELS galaxies, disk-dominated galaxies peak in the blue cloud, across a broad range of masses, consistent with the slow exhaustion of star-forming gas with no rapid quenching. 
+    - A small population of red disks is found at high mass (∼14% of disks at z∼0 and 2% of disks at z∼1). 
+
+- [Properties of the KISS Green Pea Galaxies](https://arxiv.org/abs/2006.14663)
+    - We find that the KISS [O III]-selected galaxies overlap with the parameter space defined by the color-selected Green Peas; the two samples appear to be drawn from the same population of objects.
+    - We compute the volume density of the KISSR Green Peas at z = 0.29-0.41 and find that they are extremely rare objects. We don't see galaxies as extreme as the KISSR Green Peas in the local Universe
+
+- [Tilted outer and inner structures in edge-on galaxies?](https://arxiv.org/abs/2006.14896)
+    - We consider two SB0 edge-on galaxies, NGC4469 and NGC4452, which exhibit apparent tilted outer discs with respect to the inner structure.
+    - In the case of NGC4452, we propose that its tilted disc likely originates from a former fast tidal encounter (probably with IC3381). For NGC4469, a plausible explanation may also be galaxy harassment, which resulted in a tilted or even a tumbling dark matter halo
+
+- [J-PLUS: Unveiling the brightest-end of the Lyα luminosity function at 2.0<z<3.3 over 1000 deg^2](https://arxiv.org/abs/2006.15084)
+    - 主要看最亮端，优点是面积大：We test our selection with two spectroscopic follow-up programs at the GTC telescope, confirming ~89% of the targets as line-emitting sources, with ~64% being genuine z~2.2 QSO
+    - z>2 AGN/QSOs (likely dominant in our samples) are described by a structurally different LF than z>2 star-forming LAEs
