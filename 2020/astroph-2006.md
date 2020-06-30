@@ -1348,8 +1348,8 @@
 
 - [Galaxy Morphology Network: A Convolutional Neural Network Used to Study Morphology and Quenching in ∼100,000 SDSS and ∼20,000 CANDELS Galaxies](https://arxiv.org/abs/2006.14639)
     - To classify galaxies morphologically, we developed Galaxy Morphology Network (GaMorNet), a convolutional neural network that classifies galaxies according to their bulge-to-total light ratio
-    - For both SDSS and CANDELS galaxies, disk-dominated galaxies peak in the blue cloud, across a broad range of masses, consistent with the slow exhaustion of star-forming gas with no rapid quenching. 
-    - A small population of red disks is found at high mass (∼14% of disks at z∼0 and 2% of disks at z∼1). 
+    - For both SDSS and CANDELS galaxies, disk-dominated galaxies peak in the blue cloud, across a broad range of masses, consistent with the slow exhaustion of star-forming gas with no rapid quenching.
+    - A small population of red disks is found at high mass (∼14% of disks at z∼0 and 2% of disks at z∼1).
 
 - [Properties of the KISS Green Pea Galaxies](https://arxiv.org/abs/2006.14663)
     - We find that the KISS [O III]-selected galaxies overlap with the parameter space defined by the color-selected Green Peas; the two samples appear to be drawn from the same population of objects.
@@ -1362,3 +1362,90 @@
 - [J-PLUS: Unveiling the brightest-end of the Lyα luminosity function at 2.0<z<3.3 over 1000 deg^2](https://arxiv.org/abs/2006.15084)
     - 主要看最亮端，优点是面积大：We test our selection with two spectroscopic follow-up programs at the GTC telescope, confirming ~89% of the targets as line-emitting sources, with ~64% being genuine z~2.2 QSO
     - z>2 AGN/QSOs (likely dominant in our samples) are described by a structurally different LF than z>2 star-forming LAEs
+
+----
+
+### June 29
+
+- [Informing dark matter direct detection limits with the ARTEMIS simulations](https://arxiv.org/abs/2006.15159)
+    - We use the high-resolution ARTEMIS cosmological hydrodynamical simulation suite of 42 Milky Way-mass halos to explore the spatial and kinematical distributions of the DM in the solar neighbourhood
+    - We find significant halo-to-halo scatter in the density and velocity functions which, if propagated through the standard halo model for predicting the DM detection limits, implies a significant scatter about the typically quoted limit.
+
+- [The Carnegie Supernova Project-I: Correlation Between Type Ia Supernovae and Their Host Galaxies from Optical to Near-Infrared Bands](https://arxiv.org/abs/2006.15164)
+    - **Interesting**
+    - We find that SNe~Ia are more luminous in more massive hosts with luminosity offsets ranging between −0.07±0.03 mag to −0.15±0.04 mag after light-curve standardization.
+    - The slope of the SN~Ia Hubble residual-host mass relation is negative across all uBgVriYJH bands 大质量星系中的SNIa比预想中更亮，而且可能不是尘埃的问题
+    - 星系外围爆发的SNIa可能是更好的宇宙学工具，SNe~Ia that explode beyond a projected 10 kpc have a 30% to 50% reduction of the dispersion in Hubble residuals across all bands -- making them a more uniform subset of SNe~Ia.
+    - We do not find that SN~Ia average luminosity varies significantly when they are grouped in various host morphological types
+
+- [CMacIonize 2.0: a novel task-based approach to Monte Carlo radiation transfer](https://arxiv.org/abs/2006.15147)
+    - We reformulate the MCRT photon packet life cycle as a task-based algorithm, whereby the computation is broken down into small tasks that are executed concurrently.
+
+- [The gas, metal and dust evolution in low-metallicity local and high-redshift galaxies](https://arxiv.org/abs/2006.15146)
+    - Our main goal is to reproduce i) the peak in the mass of dust over the mass of stars (sMdust) observed within few hundred Myrs; ii) the decrease of the sMdust at later time.
+    - We show that
+        - i) a top-heavy initial mass function that favours massive stars and a dust condensation fraction for Type II Supernovae (SNe II) of 50% or more help to reproduce the peak of sMdust observed after 100 Myrs since the beginning of the cycle;
+        - ii) galactic outflows play a crucial role in reproducing the decline in sMdust with age, and they are more efficient than grain destruction from SNe II;
+        - iii) a star formation efficiency (mass of gas converted into stars) of few per cent is required to explain the metallicity of local dwarf galaxies;
+        - iv) dust growth in the ISM is not necessary to reproduce the sMdust and, if present, its effect is erased by galactic outflows.
+
+- [Populating the low-mass end of the MBH−σ∗ relation](https://arxiv.org/abs/2006.15150)
+    - Keck观测dwarf星系获取恒星速度弥散度
+    - Our sample is in good agreement with the extrapolation of the MBH−σ∗ relation to low BH/galaxy masses, suggesting that the processes which produce MBH−σ∗ can also operate in dwarf galaxies.
+
+- [Reconstructing EUV spectrum of star forming regions from millimeter recombination lines of HI, HeI, and HeII](https://arxiv.org/abs/2006.15153)
+    - The mm/submm recombination lines of H and He, which can be observed from the ground can serve as a reliable probe of the EUV. 这些线不受尘埃吸收影响，对金属丰度不敏感，而且和EUV光子数线性相关
+    - 利用银河系内的极致密HII区以及银心星暴的ALMA观测：EUV spectra between 13.6 and 54.4eV of the objects studied here have similar frequency dependence: L_nu~nu^{-4.5 \pm 0.4} 不能很好的被星暴模型预测
+    - This may imply that the fraction of interacting binaries in HII regions is substantially lower than assumed in BPASS v2.1.
+
+- [The Massive and Distant Clusters of WISE Survey IX: High Radio Activity in a Merging Cluster](https://arxiv.org/abs/2006.15155)
+    - **Relevant**
+    - 多波段观测，射电数据来自LoTSS，VLA和GBT：We find that there are five radio sources which are all located within 500 kpc (∼1′) of the cluster center
+    - 射电活动可能和并合有关：The exceptional radio activity among the massive galaxy population appears to be linked to the dynamical state of the cluster.
+    - Further, two of the five sources are classified as bent-tail sources with one being a potential wide-angle tail (WAT)/hybrid morphology radio source (HyMoRS) indicating a dynamic environment.
+    - 这个星系团的Richness-SZ halo mass关系和其他的并合星系团类似
+
+- [Reproducing sub-millimetre galaxy number counts with cosmological hydrodynamic simulations](https://arxiv.org/abs/2006.15156)
+    - We use 3D dust radiative transfer to model the sub-mm emission from galaxies in the SIMBA cosmological hydrodynamic simulations 和850 micron观测比较
+    - 符合得比较好，主要是因为SIMBA模拟对高红移SF的重现比较好，以及on-the-fly dust model的计算
+    - We provide new fits to the 850μm luminosity as a function of SFR and dust mass.
+
+- [Ionized and hot molecular outflows in the inner 500 pc of NGC1275](https://arxiv.org/abs/2006.15198)
+    - NIFS ~70pc分辨率的红外观测；看K-band的CO吸收；估计恒星速度弥散度和黑洞质量
+    - We find hot (T≳1000 K) molecular and ionized outflows with velocities of up to 2000 km s−1
+    - The kinetic power of the ionized outflows corresponds to only 0.05 per cent of the luminosity of the AGN of NGC 1275, indicating that they are not powerful enough to provide significant AGN feedback
+    - The AGN driven outflows seem to be responsible for the shocks necessary to produce the observed H2 and [Fe II] line emission.
+
+- [A Random Walk Model for Dark Matter Halo Concentrations](https://arxiv.org/abs/2006.15231)
+    - **Interesting**
+    - 用能量空间的随机行走来描述DM的concentration的演化：Given a full merger tree for a halo, the total internal energy of each halo in that tree is determined by summing the internal and orbital energies of progenitor halos.
+    - For halos described by single-parameter density profiles (such as the NFW profile) the energy can be directly mapped to a scale radius, and so to a concentration.
+    - Our model underpredicts the kurtosis of the distribution of N-body concentrations.
+
+- [Oxygen Loss from Simulated Galaxies and the Metal Flow Main Sequence: Predicting the Dependence on Mass and Environment](https://arxiv.org/abs/2006.15276)
+    - 模拟里看星系的O损失和质量以及环境的关系：The mass of oxygen lost from each galaxy is calculated by comparing the existing oxygen in gas and stars in the galaxy to the oxygen that should have been produced by the present-day population of stars
+    - 更大质量的星系能留住更大比例的金属；As in the star formation main sequence, star-forming galaxies follow a tight relationship also in terms of oxygen mass lost - a metal flow main sequence, ZFMS - whereas massive quenched galaxies tend to have lost a greater fraction of oxygen (up to 20 per cent), due to AGN-driven winds.
+
+- [Optical and near-infrared observations of the SPT2349-56 proto-cluster core at \textbf{\textit{z}} = 4.3](https://arxiv.org/abs/2006.15345)
+    - **Relevant**
+    - We detect optical/IR counterparts for only nine of the 14 submillimetre galaxies (SMGs) previously identified by ALMA in the core of SPT2349-56; 还找到了4个LBG
+    - The cumulative stellar mass for the SPT2349-56 core is at least (11.5±2.9)×10^11M⊙, a sizeable fraction of the stellar mass in local BCGs, and close to the universal baryon fraction (0.16) relative to the virial mass of the core
+    - 如果能发生快速并合，到z=1时预期的BCG的质量已经基本形成了
+    - SPT2349-56 therefore represents a truly dust-obscured phase of a massive cluster core under formation.
+
+- [Cosmic rays across the star-forming galaxy sequence. I: Cosmic ray pressures and calorimetry](https://arxiv.org/abs/2006.15819)
+    - We construct self-consistent models for hadronic CR transport, losses, and contribution to pressure balance as a function of galaxy properties, covering a broad range of parameters from dwarfs to extreme starbursts.
+    - 从dwarf到大质量星暴星系，尽管CR的能量密度在持续增加，但由于很强的hadronic losses使得CR在SF面密度越高的星系里对动力学的重要性越低; 在类似银河系星系的mid-plane位置，CR压力的贡献和气体湍动压力以及磁压力相近
+    - 在致密星暴环境下，CR压力和气体压力的比值降低到千分之一左右：Galaxies also become increasingly CR calorimetric and gamma-ray bright in this limit.
+
+- [Cosmic rays across the star-forming galaxy sequence. II: Stability limits and the onset of cosmic ray-driven outflows](https://arxiv.org/abs/2006.15821)
+    - **Interesting**
+    - 对通过CR产生Galactic wind的讨论：we determine the critical CR fluxes - and corresponding star formation rate surface densities - above which hydrostatic equilibrium within a given galaxy is precluded because CRs drive the gas off in a wind or otherwise render it unstable.
+    - For star-forming galaxies with lower gas surface densities typical of the Galaxy and local dwarfs, the locus of this CR stability curve patrols the high side of the observed distribution of galaxies in the Kennicutt-Schmidt parameter space
+    - 但在更高的SF面密度下，hadronic losses使得CR不能驱动星系风
+    - CR feedback sets an ultimate limit to the star formation efficiency of most modern galaxies.
+
+- [GASP XXI. Star formation rates in the tails of galaxies undergoing ram-pressure stripping](https://arxiv.org/abs/2006.16032)
+    - 简单解析模型预测tail里有多少气体和SFR，as a function of the cluster velocity dispersion, galaxy stellar mass, clustercentric distance and speed in the intracluster medium.
+    - Our model provides a good description of the observed gas truncation radius and of the fraction of star-formation rate (SFR) observed in the stripped tails
+    - 看RPS tail里的SF对ICL贡献有多少：we compute an integrated average value per cluster of ∼4×10^9M⊙ of stars formed in the tails of RPS galaxies since z∼1. 不是很显著
