@@ -1449,3 +1449,92 @@
     - 简单解析模型预测tail里有多少气体和SFR，as a function of the cluster velocity dispersion, galaxy stellar mass, clustercentric distance and speed in the intracluster medium.
     - Our model provides a good description of the observed gas truncation radius and of the fraction of star-formation rate (SFR) observed in the stripped tails
     - 看RPS tail里的SF对ICL贡献有多少：we compute an integrated average value per cluster of ∼4×10^9M⊙ of stars formed in the tails of RPS galaxies since z∼1. 不是很显著
+
+----
+
+### June 30
+
+- [CoMaLit -- VI. Intrinsic scatter in stacked relations. The weak lensing AMICO galaxy clusters in KiDS-DR3](https://arxiv.org/abs/2006.16264)
+    - **Relevant**
+    - We propose a Bayesian inference method to constrain the intrinsic scatter of the mass proxy in stacked analyses
+    - 应用到KiDS的AMICO星系团上，认为richness的scatter很小: mass of individual objects down to ~10^13 solar masses can be estimated with a precision of ~20 per cent.
+
+- [A simple halo model formalism for the cosmic infrared background and its correlation with the thermal Sunyaev Zel'dovich effect](https://arxiv.org/abs/2006.16329)
+    - We present a new halo model for the anisotropies of the CIB using only four parameters.
+    - 把SFR和halo吸积率联系起来，有点像UniverseMachine；同时拟合Planck和Herschel的CIB功率谱
+    - The large angular scale Planck and Herschel data are not fully compatible with the small scale Herschel data (for ℓ>3000)
+    - The CIB is expected to be correlated with the tSZ signal of the galaxy clusters. Using this halo model for the CIB, and a halo model for the tSZ with a single parameter, we also provide a consistent framework to calculate this cross-correlation
+
+- [PoPE: A population-based approach to model spatial structure of astronomical systems](https://arxiv.org/abs/2006.16408)
+    - **Useful, Interesting**
+    - Present a novel population-based Bayesian inference approach to model the average and population variance of spatial distribution of a set of observables from ensemble analysis of low signal-to-noise ratio measurements. 不需要实际去stacking信号就能得到平均轮廓
+
+- [A population analysis of pulse broadening in ASKAP Fast Radio Bursts](https://arxiv.org/abs/2006.16502)
+    - We identify seven FRBs with measureable intrinsic pulse widths, including two FRBs that have been seen to repeat.
+    - In our modest sample we see no evidence for bimodality in the pulse width distribution. We also identify five FRBs with evidence of millisecond timescale pulse broadening caused by scattering in inhomogeneous plasma. 脉冲展宽和DM没有关系
+
+- [Data-Driven Stellar Models](https://arxiv.org/abs/2006.16258)
+    - **Interesting, Important**
+    - We develop a data-driven model to map stellar parameters (Teff, log g, and [Fe/H]) accurately and precisely to broad-band stellar photometry
+    - The model uses a neural network to learn the (de-reddened) absolute magnitude in one band and colors across many bands, given stellar parameters from spectroscopic surveys and parallax constraints from Gaia.
+    -  Our model will form a basis to infer stellar properties, distances and dust extinction from photometric data, which should be of great use in 3D mapping of the Milky Way.
+
+- [No Redshift Evolution in the Broad Line Region Metallicity up to z=7.54: Deep NIR Spectroscopy of ULAS J1342+0928](https://arxiv.org/abs/2006.16268)
+    - z=7.5 QSO的观测：There is a clear trend that higher-ionization emission lines show larger blueshifts
+    - Those high ionization lines have wide profiles with FWHM more than 10000 km s-1.
+    - BLR金属丰度不低：There is no significant difference in the emission line ratios such as SiIV/CIV and AlIII/CIV when compared to lower-redshift quasars in a similar luminosity range
+    - This trend also holds for the FeII/MgII line ratio, known as a cosmic clock that traces the iron enrichment in the early universe.
+
+- [The Assembly History of M87 Through Radial Variations in Chemical Abundances of its Field Star And Globular Cluster Populations](https://arxiv.org/abs/2006.16280)
+    - **Relevant**
+    - GC和恒星光谱观测：we derive new metallicity gradients from ∼2 to 140 kpc.
+    - We find a metal-poor, α-enhanced population of GCs in both in the inner and outer halo unanticipated by current cosmological simulations of galaxy evolution (Why?)
+    - We use the remarkably flat metallicity gradients we find for both the metal-rich and metal-poor GC subpopulations in the inner halo as tentative evidence that some amount of the metal-poor GCs formed directly in the halo of M87 at high redshift.
+
+- [The environmental dependence of rapidly-quenching and rejuvenating galaxies](https://arxiv.org/abs/2006.16307)
+    - 用Halpha和UV反映的不同时标上的SFR找最近quenched的星系：we define a class of transient galaxies which have UV emission typical of star formation but negligible Ha emission.
+    - We find that the occurrence of these transients has a strong stellar mass dependence in both the satellite and central population 但在>10^10 Msun以上，似乎没有很强的环境依赖
+    - 小质量的transient主要是在卫星星系中：These satellite transients also have a strong halo mass and group-centric radial dependence suggesting they are driven by an environmental process.
+    - 'rejuvenating' galaxies, those with Ha emission but not UV emission, are few in number and do not have a strong difference in their occurrence rate in centrals or satellites.
+
+- [First results from SMAUG: Insights into star formation conditions from spatially-resolved ISM properties in TNG50](https://arxiv.org/abs/2006.16314)
+    - 在8维参数空间看TNG50中的SF：stars primarily form in two distinct regimes, which are brought about by an underlying bi-component radial star formation rate profile in galaxies
+    - Using principal component analysis, we characterise the aforementioned parameter space to reveal a high-degree of multicollinearity in relationships between ISM properties that drive the distribution of star formation at kiloparsec scales
+
+- [First results from SMAUG: Characterization of Multiphase Galactic Outflows from a Suite of Local Star-Forming Galactic Disk Simulations](https://arxiv.org/abs/2006.16315)
+    - we run a suite of ~pc-resolution local galactic disk simulations using the TIGRESS framework. 看SN引起外流导致的多相CGM
+    - The main components of outflowing gas are mass-delivering cool gas (T~10^4 K) and energy/metal-delivering hot gas (T~10^6 K)
+    - Cool mass outflow rates measured at outflow launch points (one or two scale heights) are 1-100 times the SFR (decreasing with \Sigma_SFR), although in massive galaxies most mass falls back due to insufficient outflow velocity.
+    - The hot galactic outflow carries mass comparable to 10% of the SFR, together with 10-20% of the energy and 30-60% of the metal mass injected by SN feedback.
+
+- [First results from SMAUG: Uncovering the Origin of the Multiphase Circumgalactic Medium with a Comparative Analysis of Idealized and Cosmological Simulations](https://arxiv.org/abs/2006.16316)
+    - **Interesting**
+    - 比较不同模拟下的CGM：In the cosmological simulations, the CGM exhibits nearly flat temperature distributions, and broad pressure and radial velocity distributions.
+    - 和孤立理想条件下的模拟比，内部的CGM性质类似，外部CGM中的cold成分少了很多
+    - 在CGM内部，反馈的作用占主导；而在CGM外部，宇宙学演化的效果愈发显著
+
+- [First results from SMAUG: The need for preventative stellar feedback and improved baryon cycling in semi-analytic models of galaxy formation](https://arxiv.org/abs/2006.16317)
+    - We compare predictions from the FIRE-2 hydrodynamical "zoom-in" simulations to those from the Santa Cruz SAM run on the same halo merger trees 重点关注Mass flow cycle
+    - The SAM and FIRE-2 predictions agree relatively well with each other in terms of stellar and interstellar mass, but differ dramatically on circumgalactic mass (the SAM is lower than FIRE-2 by ~3 orders of magnitude for dwarfs
+    - SAM在矮星系里估计的吸积率其实比FIRE高很多，但外流更强
+    - We argue that the most severe model discrepancies are caused by the lack of preventative stellar feedback and the assumptions for halo gas cooling and recycling in the SAM.
+
+- [Nuclear X-ray Activity in Low-Surface-Brightness Galaxies: Prospects for Constraining the Local Black Hole Occupation Fraction with a Chandra Successor Mission](https://arxiv.org/abs/2006.16342)
+    - Here we investigate the incidence and intensity of nuclear, accretion-powered X-ray emission in a sample of 32 nearby LSBGs with the Chandra X-ray Observatory.
+    - A nuclear X-ray source is detected in 4 galaxies (12.5%). The detected X-ray nuclei indicate low-level accretion from massive black holes.
+    - The active fraction is consistent with that expected from the stellar mass distribution of the LSBGs 但和总重子气体质量不同，说明和恒星成分有演化关系
+
+- [Survey of Gravitationally lensed Objects in HSC Imaging (SuGOHI) -- VII. Discovery and Confirmation of Three Strongly Lensed Quasars](https://arxiv.org/abs/2006.16584)
+    - We present spectroscopic confirmation of three new two-image gravitationally lensed quasars, compiled from existing strong lens and X-ray catalogs
+
+- [What determines the maximum stellar surface density of galaxies?](https://arxiv.org/abs/2006.16738)
+    - We show that Σmax∗ of galaxies is not a constant as previous work reported, but actually depends on the stellar mass
+    - We also found that a majority of high-Σ∗ galaxies show red colours and low star-formation rates. 可能与quenching有联系
+    - One possible explanation of the stellar-mass dependency of Σmax∗ is a mass dependent efficiency of stellar feedback.
+
+- [Ultraviolet and X-ray Properties of Coma's Ultra-Diffuse Galaxies](https://arxiv.org/abs/2006.16906)
+    - **Relevant**
+    - We obtained deep UV and X-ray data (Swift and XMM-Newton) for Dragonfly 44 to search for low-level star formation, hot circumgalactic gas, and the integrated emission from X-ray binaries.
+    - We find UV luminosities consistent with quiescence but NUV−r colors indicating star formation in the past Gyr. This indicates that the UDGs were recently quenched.
+    - DF44没有UV和X-ray探测：This rules out a hot corona with a M>108M⊙ within the virial radius, which would normally be expected for a dynamically massive galaxy.
+    - The absence of bright, low mass X-ray binaries is consistent with the expectation from the galaxy total stellar mass, but it is unlikely if most low-mass X-ray binaries form in globular clusters
