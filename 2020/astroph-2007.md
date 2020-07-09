@@ -303,7 +303,7 @@
 
 ----
 
-### July 6
+### July 7
 
 - [Non-equilibrium temperature evolution of ionization fronts during the Epoch of Reionization](https://arxiv.org/abs/2007.02940)
     - 传统的再电离模拟假设电离波前(I-fronts)扫过再电离bubble中某区域，该区域的所有重子物质立刻达到热平衡 (instantaneous thermal equilibrium)
@@ -373,3 +373,60 @@
 - [A Compton-thick nucleus in the dual AGN of Mrk 266](https://arxiv.org/abs/2007.03258)
     - NuSTAR观测：we intepret the hard X-ray spectrum obtained from a NuSTAR observation as resulting from steeply rising flux from a Compton-thick AGN in the SW nucleus which is very faint in the Chandra band
     - This hard X-ray component is dominated by reflection
+
+----
+
+### July 8
+
+- [The Past History of Galaxy Clusters told by their present neighbors](https://arxiv.org/abs/2007.03695)
+    - **Relevant**
+    - This paper presents a mass-free correlation between the present neighbor distribution of cluster-size halos and the latter mass assembly history.
+    - The number of neighbors at different cluster-centric distances permits discriminating between clusters with different mass accretion histories.
+    - Similarly to Virgo-like halos, clusters with numerous neighbors within a distance of about 2 times their virial radius experience a transition at z~1 between an active period of mass accretion, relative to the mean, and a quiet history.
+
+- [Determining the Hubble Constant without the Sound Horizon Scale: Measurements from CMB Lensing](https://arxiv.org/abs/2007.04007)
+    - **Interesting**
+    - We discuss how a measurement of the Hubble constant can be made from the CMB without using information from the sound horizon scale
+    - We show how measurements of the CMB lensing power spectrum can be used to place interesting constraints on H0 when combined with measurements of either supernovae or galaxy weak lensing, which constrain the matter density parameter.
+    - The constraints arise from the sensitivity of the CMB lensing power spectrum to the horizon scale at matter-radiation equality (in projection); this scale could have a different dependence on new physics than the sound horizon.
+    - We derive an rs-independent constraint of H0=73.5±5.3 km/s/Mpc.
+
+- [Incompleteness be damned: Inference of H0 from BBH-galaxy cross-correlations](https://arxiv.org/abs/2007.04271)
+    - We show how the angular clustering between gravitational-wave standard sirens and galaxies with known redshifts allows an inference of the Hubble constant, regardless of whether the host galaxies of any of these sirens are present in the galaxy catalog.
+
+- [Discovery of the optical afterglow and host galaxy of short GRB181123B at z=1.754: Implications for Delay Time Distributions](https://arxiv.org/abs/2007.03715)
+    - The host galaxy properties of GRB181123B are typical to those of other SGRB hosts, with an inferred stellar mass of ≈1.7×10^10M⊙
+    - At z=1.754, GRB181123B is the most distant secure SGRB with an optical afterglow detection, and one of only three at z>1.5.
+    - Motivated by a growing number of high-z SGRBs, we explore the effects of a missing z>1.5 SGRB population among the current Swift sample on delay time distribution models. We find that log-normal models with mean delay times of ≈4−6~Gyr are consistent with the observed distribution, but can be ruled out to 95% confidence with an additional ≈1−5~ Swift SGRBs recovered at z>1.5.
+
+- [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.03715)
+    - **Interesting**
+    - Via the statistical analysis of turbulence along different sightlines toward a population of fast radio bursts (FRBs), we demonstrate that FRBs provide a unique tool to probe the intergalactic turbulence
+    - We measure the structure function (SF) of dispersion measures (DMs) of FRBs to study the multi-scale electron density fluctuations induced by the intergalactic turbulence.
+    - Given that the DMs of FRBs are IGM dominated, our result suggests that the intergalactic turbulence has a Kolmogorov power spectrum and an outer scale on the order of 100 Mpc.
+
+- [A Comparison of the Stellar, CO and Dust-Continuum Emission from Three, Star-Forming HUDF Galaxies at z∼2](https://arxiv.org/abs/2007.03697)
+    - 大质量星系, >10^11 Msun; slightly below SFMS.
+    - ALMA 1.3mm和CO线观测：We find that for all three galaxies the CO emission appears ≳30% more compact than the stellar emission.
+    - For the z=1.4 and 2.7 galaxies, the dust emission is also more compact, by ≳50%, than the stellar emission
+    - Most high redshift observations show more compact dust emission, likely due to the ubiquity of central starbursts at high redshift and the limited sensitivity of many of these observations.
+
+- [The Morphology-Density relationship in 1<z<2 clusters](https://arxiv.org/abs/2007.03698)
+    - **Relevant, CSST**
+    - 4个星系团的HST观测，StatMorph测量星系形态
+    - We find that 2 out of 4 clusters (at z=1.19 and z=1.75) have an established morphology-density relationship with more than 3σ significance. 星系团里形成了很多compact buldge-dominated的星系
+    - This result is more significant for low-mass galaxies with logM/M⊙⪅10.5, showing that low-mass galaxies are affected the most in clusters.
+
+- [The Role of Stellar Feedback in the Chemical Evolution of a Low Mass Dwarf Galaxy](https://arxiv.org/abs/2007.03702)
+    - 模拟中的恒星feedback和化学演化模型研究：We find that---for a low-metallicity, low-mass dwarf galaxy ---stellar radiation, particularly ionizing radiation and LW radiation, are important sources of stellar feedback whose effects dominate over photoelectric heating and HI radiation pressure.
+    - Feedback is coupled non-linearly, and the inclusion or exclusion of each process produces non-negligible effects.
+
+- [Massive molecular gas reservoir around the central AGN in the CARLA J1103+3449 cluster at z=1.44](https://arxiv.org/abs/2007.03706)
+    - We measure the molecular gas reservoir of the central region around the radio-loud AGN in the cluster CARLA J1103+3449 at z=1.44 with NOEMA.
+    - We detect two CO(2-1) emission lines, both blue-shifted with respect to the AGN. Their emission corresponds to two regions, ~17 kpc south-east and ~14 kpc south-west of the AGN, not associated with galaxies. 其中有4x10^10Msun的分子气体，可能是大质量外流
+    - The AGN early-type host is not yet quenched; its star formation rate is consistent with being on the main sequence of star-forming galaxies
+
+- [Matched photometric catalogs of GALEX UV sources with Gaia DR2 and SDSS DR14 databases (GUVmatch)](https://arxiv.org/abs/2007.03808)
+    - **Useful**
+    - We have matched the ultraviolet (UV) sources in GUVcat_AIS (Bianchi et al.2017) with optical databases having similar depth and wide sky coverage.
+    - The multi-band photometry is used to identify classes of astrophysical objects that are prominent in UV, to characterise the content of the GUVmatch catalogs, where stars in different evolutionary stages, QSOs, and galaxies can be separated.
