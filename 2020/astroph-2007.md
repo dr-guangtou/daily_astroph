@@ -430,3 +430,57 @@
     - **Useful**
     - We have matched the ultraviolet (UV) sources in GUVcat_AIS (Bianchi et al.2017) with optical databases having similar depth and wide sky coverage.
     - The multi-band photometry is used to identify classes of astrophysical objects that are prominent in UV, to characterise the content of the GUVmatch catalogs, where stars in different evolutionary stages, QSOs, and galaxies can be separated.
+
+----
+
+### July 9
+
+- [Lower bias, lower noise CMB lensing with foreground-hardened estimators](https://arxiv.org/abs/2007.04325)
+    - 关于CMB lensing中的前景移除
+    - We show with simulations that all of the extragalactic foregrounds in temperature can be approximated by a collection of sources with identical profiles, and that a simple bias hardening technique is effective at reducing any bias to lensing, at a minimal noise cost.
+
+- [Information content in the redshift-space galaxy power spectrum and bispectrum](https://arxiv.org/abs/2007.04340)
+    - **SSST**
+    - Present a Fisher information study of the statistical impact of galaxy bias and selection effects on the estimation of key cosmological parameters from galaxy redshift surveys
+    - With the galaxy power spectrum alone, selection effects can deteriorate the constraints severely, especially on the linear growth rate. Adding the galaxy bispectrum helps break parameter degeneracies significantly.
+
+- [Cosmicflows-3: The South Pole Wall](https://arxiv.org/abs/2007.04414)
+    - The structure, at a characteristic redshift of 12,000 km/s, has a density peak coincident with the celestial South Pole. This structure, the largest contiguous feature in the local volume and comparable to the Sloan Great Wall at half the distance, is given the name the South Pole Wall.
+
+- [Probing the Physics of Mechanical AGN Feedback with Radial Elongations of X-ray Cavities](https://arxiv.org/abs/2007.04521)
+    - All the cavities in our sample are elongated along the angular (type-I) or jet directions (type-II), or nearly circular (type-III).
+    - We summarize radial elongations of young cavities in hydrodynamic simulations, and find that τ¯ increases with the kinetic fraction of AGN jets
+
+- [SRG/eROSITA uncovers the most X-ray luminous quasar at z>6](https://arxiv.org/abs/2007.04735)
+    - We report the discovery of X-ray emission from CFHQS J142952+544717, the most distant known radio-loud quasar at z=6.18
+    - 是目前位置观测到的最亮的z>6 QSO
+    - Assuming Eddington limited accretion and isotropic emission, we infer a lower limit on the mass of the supermassive black hole of ∼2×10^9M⊙.
+    - The most salient feature of CFHQS J142952+544717 is its X-ray brightness relative to the optical/UV emission. We argue that it may be linked to its radio-loudness (although the object is not a blazar according to its radio properties), specifically to a contribution of inverse Compton scattering of cosmic microwave background photons off relativistic electrons in the jets.
+    - 类似的有很强X-ray辐射的高红移QSO可能不少
+
+- [Star Formation in Luminous LoBAL Quasars at 2.0<z<2.5](https://arxiv.org/abs/2007.04334)
+    - Herschel观测和K-band NOTCam spectra观测明亮的LoBALS
+    - We derive prolific SFRs ranging 740 - 2380M⊙yr−1 for the detected targets, consistent with LoBALs existing in an evolutionary phase associated with starburst activity
+    - We detect an enhancement in both the SFRs and FIR fluxes of LoBALs compared to HiBAL and non-BAL quasars
+
+- [Blind HI and OH absorption line search: first results with MALS and uGMRT processed using ARTIP](https://arxiv.org/abs/2007.04347)
+    - Results of a sensitive blind search for HI and OH absorbers at z<0.4 and z<0.7
+    - 这个数据pipeline的意义：designed to enable the geographically-distributed MeerKAT Absorption Line Survey (MALS) team to collaboratively process large volumes of radio interferometric data.
+    - We estimate the numbers of HI and OH absorbers per unit redshift to be n21(z∼0.18)<0.14 and nOH(z∼0.40)<0.12, respectively, and constrain the cold gas covering factor of galaxies at large impact parameters (50 kpc <ρ< 150 kpc) to be less than 0.022.
+
+- [The SAMI -- Fornax Dwarfs Survey I: Sample, observations and the specific stellar angular momentum of dwarf elliptical galaxies](https://arxiv.org/abs/2007.04492)
+    - **Relevant**
+    - 31 low-mass (107.5< M⋆<109.5 M⊙) early-type galaxies in the Fornax cluster with the SAMI instrument.
+    - We find that λR decreases towards lower stellar mass, with a corresponding increase in the proportion of slowly rotating galaxies in this regime.
+    - The decrease of λR with mass in our sample dE galaxies is consistent with a similar trend seen in somewhat more massive spiral galaxies from the CALIFA survey. This suggests that the degree of dynamical heating required to produce dEs from low-mass starforming progenitors may be relatively modest,
+
+- [Formation of compact galaxies in the Extreme-Horizon simulation](https://arxiv.org/abs/2007.04624)
+    - **Relevant**
+    - The high resolution in low-density regions results in smaller-size massive galaxies at redshift z=2, in better agreement with observations compared to other simulations. This results from the improved modeling of cold gas flows accreting onto galaxies.
+    -  Besides, the EH simulation forms a population of particularly compact galaxies with stellar masses of 1010−11\,M$_\sun$ that are reminiscent of observed ultracompact galaxies at z≃2.
+    - They form mainly through repeated major mergers of low-mass progenitors
+
+- [Lopsided Satellite Distributions around Isolated Host Galaxies](https://arxiv.org/abs/2007.04703)
+    - On average, the satellites of red hosts are found preferentially close to their hosts' major axes, while the satellites of blue hosts are distributed isotropically.
+    - We compute the pairwise clustering of the satellites and find a strong tendency for pairs of satellites to be located on the same side of their host, resulting in lopsided distributions. 尤其是对blue host
+    - Satellites that are far from their hosts (r_p > 300 kpc) show a strong preference for being located on the same side of their hosts
