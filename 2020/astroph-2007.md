@@ -484,3 +484,71 @@
     - On average, the satellites of red hosts are found preferentially close to their hosts' major axes, while the satellites of blue hosts are distributed isotropically.
     - We compute the pairwise clustering of the satellites and find a strong tendency for pairs of satellites to be located on the same side of their host, resulting in lopsided distributions. 尤其是对blue host
     - Satellites that are far from their hosts (r_p > 300 kpc) show a strong preference for being located on the same side of their hosts
+
+----
+
+### July 10
+
+- [Joint analysis of 6dFGS and SDSS peculiar velocities for the growth rate of cosmic structure and tests of gravity](https://arxiv.org/abs/2007.04993)
+    - **SSST**
+    - Here we constrain the growth rate of structure by comparing observed Fundamental Plane peculiar velocities for 15894 galaxies from the 6dF Galaxy Survey (6dFGS) and Sloan Digital Sky Survey (SDSS) with predicted velocities and densities from the 2M++ redshift survey.
+    - Our results favour values of the growth index γ>6/11 or a Hubble constant H0>70\,km\,s−1\,Mpc−1 or a fluctuation amplitude σ8<0.8 or some combination of these.
+    - Imminent redshift surveys such as Taipan, DESI, WALLABY, and SKA1-MID will help to resolve this tension by measuring the growth rate of cosmic structure to 1\% in the redshift range 0< z<1.
+
+- [A Machine Learning Approach to the Census of Galaxy Clusters](https://arxiv.org/abs/2007.05144)
+    - We present a novel method of using X-ray images to identify cool core (CC), weak cool core (WCC), and non cool core (NCC) clusters of galaxies, that are defined by their central cooling times.
+    - We use Class Activation Mapping to localize discriminative regions for the classification decision. From this analysis, we observe that the network has utilized regions from cluster centers out to r~300 kpc and r~500 kpc to identify CC and NCC clusters, respectively.
+
+- [On the phase-space structure of galaxy clusters from cosmological simulations](https://arxiv.org/abs/2007.05199)
+    - **Relevant**
+    - The combination of the velocity dispersion σv with the density ρ can be used to define the pseudo-entropy S(r)=σ2v/ρ2/3, whose profile is well-described by a simple power-law S∝rα.
+    - We find that baryons significantly affect the inner region of pseudo-entropy profile as traced by substructures, while pseudo-entropy profiles as traced by DM particles are characterized by an almost universal behavior and can be used as a low-scatter (∼6−7%) mass-proxy.
+    - we investigate the pseudo-entropy traced by the stars focusing our interest in the dynamical distinction between intracluster light (ICL) and the stars bound to the brightest cluster galaxy (BCG): the combination of these two pseudo-entropy profiles is well-described by a single power-law out to almost the entire cluster virial radius.
+
+- [The Fisher gAlaxy suRvey cOde (𝙵𝙰𝚁𝙾)](https://arxiv.org/abs/2007.05360)
+    - **Useful, SSST**
+    - The observables considered are the linear multitracer 3D galaxy power spectrum, the linear convergence power spectrum for weak lensing, and the linear multitracer power spectrum for the correlation between galaxy distribution and convergence
+    - As an application example, we forecast the sensitivity of future galaxy surveys like DESI, Euclid, J-PAS and LSST and compare their performance on different redshift and scale ranges.
+
+- [Revealing the relation between black-hole growth and host-galaxy compactness among star-forming galaxies](https://arxiv.org/abs/2007.04987)
+    - 利用COSMOS中的星系： investigate how sample-averaged BH accretion rate (BHAR) depends on host-galaxy compactness among SF galaxies, when controlling for morphology and M★ (or SFR).
+    - BHAR和1 kpc以内的质量密度的关系很好；并且和是不是buldge-dominated关系不大
+
+- [The Universe at z>10: Predictions for JWST from the UniverseMachine DR1](https://arxiv.org/abs/2007.04988)
+    - 用UM  to generate mock galaxy catalogues and lightcones over the redshift range z=0−15.
+    - We predict that Cycle 1 JWST surveys will very likely detect galaxies with M∗>10^7M⊙ and/or M1500<−17 out to at least z∼13.5
+    - Number density uncertainties at z>12 expand dramatically, so efforts to detect z>12 galaxies will provide the most valuable constraints on galaxy formation models.
+    - For reionization models, extrapolating luminosity functions with a constant faint-end slope from M1500=−17 down to M1500=−12 gives the most reasonable upper limit for the total UV luminosity and cosmic star formation rate up to z∼12
+
+- [GASP XXX. The spatially resolved SFR-Mass relation in stripping galaxies in the local universe](https://arxiv.org/abs/2007.04996)
+    - Even on ~1kpc scales, stripping galaxies present a systematic enhancement of Sigma_SFR (~0.35 dex at Sigma_M =10^8M_sun/kpc^2) at any given Sigma_M compared to their undisturbed counterparts.
+    - SFR的增强和stripping的程度无关，可能是冲压产生的气体压缩效应导致的：Such excess is larger for less massive galaxies and decreases with increasing mass.
+    - Such excess is larger for less massive galaxies and decreases with increasing mass.
+
+- [The relation between the diffuse X-ray luminosity and the radio power of the central AGN in galaxy groups](https://arxiv.org/abs/2007.04999)
+    - 看星系群的X-ray和射电辐射的关系：Using very deep VLA and new MeerKAT observations from the MIGHTEE survey, we compiled a sample of 247 X-ray selected galaxy groups detected in the COSMOS field.
+    - 关系和星系团基本一样；而且不是来自选择效应
+    - Large radio galaxies hosted in the centres of groups and merging clusters increase the scatter of the distribution.
+    - We also find that galaxy groups are more likely than clusters to host large radio galaxies, perhaps owing to the lower ambient gas density or a more efficient accretion mode
+
+- [On the accretion of a new group of galaxies onto Virgo: I. Internal kinematics of nine in-falling dEs](https://arxiv.org/abs/2007.05021)
+    - MUSE观测9个2-3 Gyr前被吸积进入Virgo的矮星系: We observe a spread in the λR profiles of our sample dEs, finding that the λR profiles of half of them are as high as those of low-mass field galaxies. The remaining dEs exhibit λR profiles as low as those of Virgo dEs that were likely accreted longer ago.
+    -  We suggest that the low-λR dEs in our sample were processed by their previous host halo, prior to their infall to Virgo, and that the high-λR dEs may be experiencing ram pressure stripping in Virgo.
+
+- [Damped Lyman-α absorbers and atomic hydrogen in galaxies: the view of the GAEA model](https://arxiv.org/abs/2007.05040)
+    - 用SAM研究HI星系和DLA的关系：At 2< z<3, where observational data are more accurate, our fiducial model predicts the correct shape of the column density distribution function, but its normalization falls short of the observations, with the discrepancy increasing at higher redshift.
+    -  In the redshift range of interest, haloes with M200≥10^11M⊙ give the major contribution to ΩDLA, and the typical DLA host halo mass is ∼10^11M⊙. 
+
+- [The Sloan Digital Sky Survey Reverberation Mapping Project: Photometric g and i Light Curves](https://arxiv.org/abs/2007.05160)
+    - Bok和CFHT进行的光变曲线：The Sloan Digital Sky Survey Reverberation Mapping (SDSS-RM) program monitors 849 active galactic nuclei (AGN) both spectroscopically and photometrically
+    - We find that the Welch-Stetson J-index provides a useful characterization of AGN variability and can be used to select AGNs for further study.
+
+- [SPIDERS: overview of the X-ray galaxy cluster follow-up and the final spectroscopic data release](https://arxiv.org/abs/2007.05484)
+    - **Relevant**
+    - SPIDERS now consists of about 27,000 new optical spectra of galaxies selected within 4,000 photometric red sequences, each associated with an X-ray source
+    - Using the catalogue of 2,740 X-ray galaxy clusters confirmed with DR16 spectroscopy, we reveal the three-dimensional map of the galaxy cluster distribution in the observable Universe up to z∼0.6.
+    - Aided by accurate spectroscopic redshifts and by a model of the sample selection effects, we compute the galaxy cluster X-ray luminosity function and we present its lack of evolution up to z=0.6.
+
+- [Lyman Continuum Escape Fraction from Low-mass Starbursts at z=1.3](https://arxiv.org/abs/2007.05519)
+    - We obtain deep, high sensitivity far-UV imaging with the Advanced Camera for Surveys (ACS) Solar Blind Channel (SBC) on the Hubble Space Telescope (HST), targeting 11 star-forming galaxies at 1.2< z< 1.4.
+    - 这些都是Halpha等值宽度很高，UV星等很亮的星系：We do not detect any LyC signal (with S/N >3) in the individual galaxies or in the stack in the far-UV images.
