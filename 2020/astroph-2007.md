@@ -537,7 +537,7 @@
 
 - [Damped Lyman-α absorbers and atomic hydrogen in galaxies: the view of the GAEA model](https://arxiv.org/abs/2007.05040)
     - 用SAM研究HI星系和DLA的关系：At 2< z<3, where observational data are more accurate, our fiducial model predicts the correct shape of the column density distribution function, but its normalization falls short of the observations, with the discrepancy increasing at higher redshift.
-    -  In the redshift range of interest, haloes with M200≥10^11M⊙ give the major contribution to ΩDLA, and the typical DLA host halo mass is ∼10^11M⊙. 
+    -  In the redshift range of interest, haloes with M200≥10^11M⊙ give the major contribution to ΩDLA, and the typical DLA host halo mass is ∼10^11M⊙.
 
 - [The Sloan Digital Sky Survey Reverberation Mapping Project: Photometric g and i Light Curves](https://arxiv.org/abs/2007.05160)
     - Bok和CFHT进行的光变曲线：The Sloan Digital Sky Survey Reverberation Mapping (SDSS-RM) program monitors 849 active galactic nuclei (AGN) both spectroscopically and photometrically
@@ -552,3 +552,128 @@
 - [Lyman Continuum Escape Fraction from Low-mass Starbursts at z=1.3](https://arxiv.org/abs/2007.05519)
     - We obtain deep, high sensitivity far-UV imaging with the Advanced Camera for Surveys (ACS) Solar Blind Channel (SBC) on the Hubble Space Telescope (HST), targeting 11 star-forming galaxies at 1.2< z< 1.4.
     - 这些都是Halpha等值宽度很高，UV星等很亮的星系：We do not detect any LyC signal (with S/N >3) in the individual galaxies or in the stack in the far-UV images.
+
+----
+
+### July 13
+
+- [Flow-Based Likelihoods for Non-Gaussian Inference](https://arxiv.org/abs/2007.05535)
+    - 如何不再假设likelihood是Gaussian的情况下进行推断：we suggest using the optimization targets of flow-based generative models, a class of models that can capture complex distributions by transforming a simple base distribution through layers of nonlinearities.
+    - Flow-based Likelihood (FBL): We then apply FBLs to mock weak lensing convergence power spectra, a cosmological observable that is significantly non-Gaussian (NG). We find that the FBL captures the NG signatures in the data extremely well
+
+- [Fast Lightcones for Combined Cosmological Probes](https://arxiv.org/abs/2007.05735)
+    - **Useful**
+    - We present an extension of the lightcone generator UFalcon first introduced in Sgier et al. 2019 (arXiv:1801.05745), enabling the simulation of a self-consistent set of maps for different cosmological probes
+    - 结合这些宇宙学探测：weak lensing shear, galaxy overdensity including RSD, CMB lensing, and CMB temperature anisotropies from the ISW effect
+    - We find that the inclusion of the cross-correlations between the probes significantly increases the information gain in the parameter constraints.
+    - We also find that the use of a non-Gaussian covariance matrix is increasingly important, as more probes and cross-correlation power spectra are included.
+
+- [Interpreting deep learning models for weak lensing](https://arxiv.org/abs/2007.06529)
+    - We analyze a DNN that has been found in previous work to accurately recover cosmological parameters in simulated maps of the WL convergence (κ).
+    - We apply a series of well established saliency methods to interpret the DNN and find that the most relevant pixels are those with extreme κ values.
+    - In the presence of shape nose, the attribution concentrates in high convergence regions, with 36−68% of the attribution in regions with κ>3σκ.
+
+- [A Fast, 2D Gaussian Process Method Based on Celerite: Applications to Transiting Exoplanet Discovery and Characterization](https://arxiv.org/abs/2007.05799)
+    - Here we present an extension of the celerite method to two input dimensions, where, typically, the second dimension is small.
+    - We demonstrate the application of this method to the problem of measuring precise transit parameters from multiwavelength light curves and show that it has the potential to improve transit parameters measurements by orders of magnitude.
+
+- [Revealing the intermediate-mass black hole at the heart of the dwarf galaxy NGC 404 with sub-parsec resolution ALMA observations](https://arxiv.org/abs/2007.05536)
+    - **Interesting**
+    - ALMA 0.5pc观测中心分子气体盘：This disc is surrounded by a morphologically and kinematically complex flocculent distribution of molecular clouds
+    - We show here that both the observed molecular gas and stellar kinematics independently require a ~5x10^5 Msun black hole once we include the contribution of the molecular gas to the potential.
+    - This IMBH mass is broadly consistent with extrapolations from the black hole mass - velocity dispersion and black hole mass - bulge mass relations.
+
+- [Less than the sum of its parts: the dust-corrected Hα luminosity of star-forming galaxies explored at different spatial resolutions with MaNGA and MUSE](https://arxiv.org/abs/2007.05544)
+    - Analytical arguments show that the dust-corrected Hα luminosity is always underestimated when using the global Hα/Hβ flux ratio to correct for dust attenuation. 用MaNGA观测来证明
+    - 在MaNGA 1-2 kpc的分辨率下，这个低估的比例很低，只有2-4%
+    - 在MUSE的更高分辨率下，用local的Ha/Hb改正消光，发现低估的比例在14%左右; 但仍可能只是真正效应的下限
+
+- [Dissecting and Modelling Galaxy Assembly Bias](https://arxiv.org/abs/2007.05545)
+    - **Relevant**
+    - 基于SAM的研究，比较恒星质量挑选样本的clustering信号：We find that commonly-used properties like the halo age or concentration amount to only 20-30% of the signal, while the smoothed matter density or the tidal anisotropy can explain the full level of assembly bias
+    - Finally, we propose a practical modification of the standard halo occupation distribution model, which can be tuned to any level of assembly bias.
+
+- [Dual supermassive black holes at close separation revealed by the Hyper Suprime-Cam Subaru Strategic Program](https://arxiv.org/abs/2007.05581)
+    - Using an automated image analysis routine on 34,476 known SDSS quasars, we identify those with two (or more) distinct optical point sources in HSC images covering 796 deg^2. We find 421 candidates out to a redshift of 4.5 更仔细地排除恒星后可能还剩100个
+    - Using Keck-I/LRIS and Gemini-N/NIFS, we spectroscopically confirm three dual quasar systems at z < 1, two of which are previously unknown out of eight observed
+    - We find a dual quasar fraction of 0.26+/-0.18% and no evidence for evolution. A comparison with the Horizon-AGN simulation seems to support the case of no evolution in the dual quasar fraction when broadly matching the quasar selection.
+
+- [The Host Galaxy of the Dwarf Seyfert UGC 06728](https://arxiv.org/abs/2007.05590)
+    - HST观测：we find that UGC 06728 is a barred lenticular (SB0) galaxy with prominent ansae at the ends of the bar.
+    - Based on a sample of 51 globular cluster candidates identified in the images, the globular cluster luminosity function predicts a distance to UCG 06728 of 32.5±3.5\,Mpc.
+
+- [Early-type galaxies in the Antlia Cluster: global properties](https://arxiv.org/abs/2007.05598)
+    - 35 Mpc处的Antila星系团中心BCG NGC3268附近800kpc内的观测，认证300个星系；130个新发现的，大部分是LSB，也有一些应该是S0星系
+    - Based on the analysis of the radial velocities and galaxy colour distributions, we find that galaxies redder than the colour-magnitude relation (CMR) have a velocity distribution strongly concentrated towards the values of the dominant galaxies and are homogeneously distributed throughout the cluster.
+    - Those bluer than the CMR, in turn, have a much more extended radial velocity distribution and are concentrated towards the centre of the cluster
+
+- [A successful search for intervening 21 cm HI absorption in galaxies at 0.4 < z <1.0 with the Australian Square Kilometre Array Pathfinder (ASKAP)](https://arxiv.org/abs/2007.05648)
+    - The six-dish Boolardy Engineering Test Array (BETA) and twelve-antenna Early Science array (ASKAP-12) covered a frequency range corresponding to redshift 0.4< z<1.0 and 0.37< z<0.77 respectively for the HI line. Fifty of the 53 radio sources observed have reliable optical redshifts, giving a total redshift path Δz = 21.37.
+    - Four intervening HI lines were detected, two of them new. In each case, the estimated HI column density lies above the DLA limit for HI spin temperatures above 50-80 K, and we estimate a DLA number density at redshift z∼0.6 of n(z)=0.19+0.15−0.09.
+    - It represents an important proof of concept for the much larger 21cm First Large Absorption Survey in HI (FLASH) project to be carried out with the full 36-antenna ASKAP telescope, probing a total redshift path Δz∼50,000.
+
+- [Constraints on circum-galactic media from Sunyaev-Zel'dovich effects and X-ray data](https://arxiv.org/abs/2007.05664)
+    - 利用星系群的tSZ效应和软X-ray发射来限制CGM的气体密度和温度
+    - 单一温度不能很好的拟合观测；A simple two-phase model assuming a hot component and an ionized warm component can accommodate all the three observations.
+    - 热成分的温度和halo的维里温度类似；热成分比例随着Halo质量增加而升高，但比例最高也就60%
+    - A significant fraction of the halo gas is in a non-thermalized component with temperature much lower than the virial temperature.
+
+- [Counts-in-Cells of subhalos in the Illustris-TNG simulations: the role of baryonic physics](https://arxiv.org/abs/2007.05982)
+    - **Relevant**
+    - We fit the CiC statistics to two models: the gravitational quasi-equilibrium distribution (GQED) and the negative binomial distribution (NBD). 比较full hydro run和DM only run
+    - CiC分布在两种模拟里基本相似：However, there are quantifiable distinctions between these sets of runs in the evolution and scaling of the best-fit parameters
+    - Our results suggest the overall validity of the GQED and NBD models for describing the large-scale statistics of extended, multi-component gravitational systems and subject to complex baryonic physics.
+
+- [Chandra Survey of Nearby Galaxies: an Extended Catalog](https://arxiv.org/abs/2007.06026)
+    - We construct an extended catalog up to 150 Mpc and make a cross-correlation with a catalog of nearby galaxy groups.
+    - The new catalog consists of 1,964 galaxies, out of which 1,692 have a redshift independent distance, 1,557 are listed in the galaxy group catalog with group properties available, and 782 are identified to be X-ray AGN candidates.
+    - With the new sample, we compare AGN fractions between early-type and late-type galaxies, and between central and satellite galaxies in groups, and find no significant difference.
+
+- [SDSS-IV MaNGA: The [α/Fe] of Early-Type Galaxies](https://arxiv.org/abs/2007.06177)
+    - pPXF拟合估计196个MaNGA ETG的[alpha/Fe]: We find a flat relation between the mean [α/Fe] within the 1 Rmaje ellipses and log(σe), even if limiting to the massive sample with log(σe/km s−1)>1.9.
+    - However, the relation becomes positive after we exclude the Mg1 feature in our fits, which agrees with the results from the previous work
+
+- [Probing Magnetic Field Morphology in Galaxy Clusters with the Gradient Technique](https://arxiv.org/abs/2007.06219)
+    - **Interesting**
+    - We probe the plane-of-the-sky orientation of magnetic fields in clusters using the intensity gradients. The technique is a branch of the Gradient Technique (GT) that employs emission intensity maps from turbulent gas. 看Chandra观测的Perseus，M87，Coma和A2597
+    - The GT-predicted magnetic field shows signatures of magnetic draping around rising bubbles driven by supermassive black hole (SMBH) feedback in the centers of cool-core clusters, as well as draping around substructures merging with the Coma cluster.
+    - 关于磁场的指向：The orientation is consistent with the prediction of heat-flux-driven buoyancy instability (HBI) in cluster cool cores, and possibly the magnetothermal instability (MTI) in cluster outskirts.
+
+----
+
+### July 14
+
+- [Inferring the Age of the Universe with Globular Clusters](https://arxiv.org/abs/2007.06594)
+    - 通过GC的CMR研究恒星年龄分布；利用observation motivated的priors去考虑恒星建模中的系统问题
+    - We find that the average age of the oldest globular clusters is tGC = 13.13+0.15−0.10(stat.) ± 0.5(sys.)
+    - 可以用来推断宇宙年龄：we find an age of the Universe tU = 13.35±0.16(stat.)±0.5(sys.) at 68% confidence level.
+
+- [A detailed study of massive galaxies in a protocluster at z=3.13](https://arxiv.org/abs/2007.07055)
+    - **Relevant**
+    - NIR挑选的星系，做到在10^11 Msun上完备
+    - The photo-z galaxies form two large overdense structures in the field, largely overlapping with the previously identified galaxy overdensities traced by Ly{\alpha} emitters (LAEs) and Lyman break galaxies (LBGs) respectively.
+    - The spatial offset of different galaxy overdensities may be due to halo assembly bias.
+    - 和Field星系比，也有cluster中星系演化加速的证据
+
+- [A physical model for radiative, convective dusty disk in AGN](https://arxiv.org/abs/2007.06572)
+    - We construct a physical model of a disk region approximately located between the radius of dust sublimation at the disk mid-plane and the radius at which dust sublimes at the disk surface
+    - Our main conclusion is that for a wide range of model parameters such as local accretion rate and/or opacity, the accretion disk's own radiation pressure on dust significantly influences its vertical structure. 可以让盘从thin变成slim的
+
+- [Brackett-γ as a Gold-standard Test of Star Formation Rates Derived from SED Fitting](https://arxiv.org/abs/2007.06576)
+    - **Interesting**
+    - 利用21个本地星系，比较2.16微米的ByGamma线和Prospector的结果，校准SED拟合得到的SFR
+    - Dust is expected to be optically thin at this wavelength in nearly all galaxies
+    - Prospector对Bygamma线光度和等值宽度的重现很好
+    - We demonstrate that even when the Prospector-derived dust attenuation does not well describe, e.g., Hα line properties or observed reddening between Hα and Brγ, the underlying SFRs are accurate, as verified by the dust-free Brγ comparison.
+
+- [The origin of low-surface-brightness galaxies in the dwarf regime](https://arxiv.org/abs/2007.06581)
+    - **Relevant**
+    - 利用New Horizon模拟研究LSB星系形成：New Horizon galaxies populate a well-defined locus in the surface brightness -- stellar mass plane, with a spread of ~3 mag arcsec^-2, in agreement with deep SDSS Stripe data
+    - Galaxies with fainter surface brightnesses today are born in regions of higher dark-matter density. This results in faster gas accretion and more intense star formation at early epochs 然后受到较强的超新星反馈的影响
+    - We note that objects considered extreme/anomalous at the depth of current datasets, e.g. `ultra-diffuse galaxies', actually dominate the predicted dwarf population and will be routinely visible in future surveys like LSST.
+
+- [Exploring the origin of ultra-diffuse galaxies in clusters from their primordial alignment](https://arxiv.org/abs/2007.06593)
+    - **Relevant, Interesting**
+    - We find that the minor axes of the ultra-diffuse galaxies (UDGs) in Abell 2634 tend to be aligned with the major axis of the central dominant galaxy, at a ≳95% confidence level. 主要体现在分布在R>0.5 R200的明亮的UDG上.
+    - 这些UDG：are very likely to acquire their angular momenta from the vortices around the large-scale filament before they were accreted into A2634 因而更可能是在星系团外形成
+    - When these UDGs fell into the unrelaxed cluster A2634 along the filament, they could still preserve their primordial alignment signal before violent relaxation and encounters
