@@ -677,3 +677,53 @@
     - We find that the minor axes of the ultra-diffuse galaxies (UDGs) in Abell 2634 tend to be aligned with the major axis of the central dominant galaxy, at a ≳95% confidence level. 主要体现在分布在R>0.5 R200的明亮的UDG上.
     - 这些UDG：are very likely to acquire their angular momenta from the vortices around the large-scale filament before they were accreted into A2634 因而更可能是在星系团外形成
     - When these UDGs fell into the unrelaxed cluster A2634 along the filament, they could still preserve their primordial alignment signal before violent relaxation and encounters
+
+----
+
+### July 15
+
+- [Teaching neural networks to generate Fast Sunyaev Zel'dovich Maps](https://arxiv.org/abs/2007.07267)
+    - We train deep convolutional neural networks with a U-Net architecture to map from the three-dimensional distribution of dark matter to electron density, momentum and pressure at ~ 100 kpc resolution.
+    - 利用TNG300和一些zoom-in模拟进行训练
+
+- [The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters](https://arxiv.org/abs/2007.07288)
+    - **Important**
+    - We present new arcminute-resolution maps of the Cosmic Microwave Background temperature and polarization anisotropy from the Atacama Cosmology Telescope, using data taken from 2013-2016 at 98 and 150 GHz.
+    - By combining ACT data with large-scale information from WMAP we measure H0=67.6±1.1 km/s/Mpc, at 68% confidence, in excellent agreement with the independently-measured Planck satellite estimate
+    - The ΛCDM model provides a good fit to the ACT data, and we find no evidence for deviations: both the spatial curvature, and the departure from the standard lensing signal in the spectrum, are zero to within 1σ; the number of relativistic species, the primordial Helium fraction, and the running of the spectral index are consistent with ΛCDM predictions to within 1.5-2σ.
+
+- [The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz](https://arxiv.org/abs/2007.07289)
+    - We present the temperature and polarization angular power spectra of the CMB measured by the Atacama Cosmology Telescope (ACT)
+    - We obtain the cosmological parameters for ΛCDM for the ACT data alone with a prior on the optical depth of τ=0.065±0.015. ΛCDM is a good fit.
+    - We show that the lensing BB signal is consistent with ΛCDM and limit the celestial EB polarization angle to ψP=−0.09∘±0.09∘
+
+- [The Atacama Cosmology Telescope: arcminute-resolution maps of 18,000 square degrees of the microwave sky from ACT 2008-2018 data combined with Planck](https://arxiv.org/abs/2007.07290)
+    - **Important**
+    - Presents an algorithm for generating temperature and polarization maps that have the best features of both Planck and ACT
+    - The maps reveal 4,000 optically-confirmed clusters through the Sunyaev Zel'dovich effect (SZ) and 18,500 point source candidates at >5σ
+    - The multi-frequency maps provide millimeter images of nearby galaxies and individual Milky Way nebulae, and even clear detections of several nearby stars.
+
+- [The destruction and recreation of the X-ray corona in a changing-look Active Galactic Nucleus](https://arxiv.org/abs/2007.07275)
+    - Present the drastic transformation of the X-ray properties of the active galactic nucleus 1ES 1927+654, following a changing-look event.
+    - After the optical/UV outburst the power-law component, produced in the X-ray corona, disappeared, and the spectrum of 1ES 1927+65 instead became dominated by a blackbody component 说明X-ray气体冕已经被摧毁
+    - 在随后的增亮过程中又重新出现: As the X-ray luminosity of the source increases, the X-ray corona is recreated, and a very steep power-law component (Γ≃3) reappears
+    - Speculate that our observations could be explained by the interaction between the accretion flow and debris from a tidally disrupted star. Our results show that changing-look events can be associated with dramatic and rapid transformations of the innermost regions of accreting SMBHs.
+
+- [AGN dichotomy beyond radio loudness: a Gaussian Mixture Model analysis](https://arxiv.org/abs/2007.07271)
+    - We employed a soft clustering scheme, based on the Gaussian Mixture Model (GMM), to classify these objects simultaneously using the following parameters: black hole mass, colour and R loudness index, as well as the usual radio and B-band luminosity.
+    - Our results indicate the persistence of a dichotomy in all datasets, although the discriminating power differs for different choices of parameters. Although the Radio Loudness parameter alone does not seem to be enough to display the dichotomy, the evidence of two populations of AGNs could persist even if we consider other parameters.
+
+- [The nuclear architecture of NGC 4151: on the path toward a universal outflow mechanism in light of NGC 1068](https://arxiv.org/abs/2007.07374)
+    - NIFS高分辨观测：a very similar dynamic is found: the low-velocity [Fe II] emission depicts the glowing walls of an hourglass structure, while the high-velocity gas fills its volume.
+    - The misalignment between the jet and the NLR is not a projection effect, as previously thought.
+    - A molecular outflow is detected for the first time in this galaxy and, just like in NGC 1068, the transition between the molecular and the ionized gas phases comes from the fragmentation of molecular cavity walls into bullets of ionized gas exposed to the central source.
+
+- [Central velocity dispersion catalog of LAMOST-DR7 galaxies](https://arxiv.org/abs/2007.07823)
+    - The seventh data release of the LAMOST ExtraGAlactic Survey (LEGAS) is currently available and including redshifts of 193361 galaxies
+    - We present the first estimates of central velocity dispersion of ∼86000 galaxies in LAMOST footprint. pPXF测量
+    - These first results suggest that LAMOST spectra are suitable for galaxy velocity dispersion measurements to complement the available catalogs of galaxy internal kinematics in the northern hemisphere.
+
+- [ALMA resolves the remarkable molecular jet and rotating wind in the extremely radio-quiet galaxy NGC 1377](https://arxiv.org/abs/2007.07824)
+    - ALMA 2x3 pc分辨率的观测：studied the molecular outflow and nucleus of the extremely radio-quiet lenticular galaxy NGC1377. The outflow is resolved, revealing a 150 pc long, clumpy, high-velocity, collimated molecular jet.
+    - A narrow-angle, rotating molecular wind surrounds the jet and is enveloped by a larger-scale, slower CO-emitting structure.
+    - The mass of the supermassive black hole (SMBH) is estimated to ∼9×10^6 M⊙ and the SMBH of NGC1377 appears to be at the end of an intense phase of accretion.
