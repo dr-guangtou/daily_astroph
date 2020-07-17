@@ -727,3 +727,78 @@
     - ALMA 2x3 pc分辨率的观测：studied the molecular outflow and nucleus of the extremely radio-quiet lenticular galaxy NGC1377. The outflow is resolved, revealing a 150 pc long, clumpy, high-velocity, collimated molecular jet.
     - A narrow-angle, rotating molecular wind surrounds the jet and is enveloped by a larger-scale, slower CO-emitting structure.
     - The mass of the supermassive black hole (SMBH) is estimated to ∼9×10^6 M⊙ and the SMBH of NGC1377 appears to be at the end of an intense phase of accretion.
+
+----
+
+### July 16
+
+- [Precision cosmology with voids in the final BOSS data](https://arxiv.org/abs/2007.07895)
+    - **Useful**
+    - 用BOSS Void限制宇宙学：the joint analysis of geometric and dynamic distortions of average void shapes (i.e., the stacked void-galaxy cross-correlation function) in redshift space.
+    - Our model uses tomographic deprojection to infer real-space void profiles and self-consistently accounts for the Alcock-Paczynski (AP) effect and redshift-space distortions (RSD) without any prior assumptions on cosmology or structure formation.
+
+- [Weak Lensing of Type Ia Supernovae from the Dark Energy Survey](https://arxiv.org/abs/2007.07956)
+    - 看DES Y1-3中196个有光谱红移的SNIa的潜在弱引力透镜影响：We simultaneously measure both the angular correlation function and the non-Gaussian skewness caused by weak lensing
+    - We model the amplitude of both effects as a function of σ8, and find σ8=1.2+0.9−0.8.
+
+- [A robust determination of halo environment in the cosmic field](https://arxiv.org/abs/2007.08344)
+    - 改进测量星系大尺度结构环境的方法：determine halo environment using an adaptive interpolation which is more robust to resolution than the typical "Nearest Grid Point" (NGP) method.
+    - Essentially instead of computing and diagonalizing the Hessian matrix once for the entire grid, we suggest doing so once for each halo or galaxy in question.
+    - 一般的测量方法是考虑密度场的二阶导数矩阵，Hessian matrix： The Hessian matrix may be diagonalized and its eigenvalues may be sorted such that (λ1 < λ2 < λ3)
+        - 用这三个本征值和一个临界值的关系可以分类knot, filament, wall, void
+        - 实际观测中是用基于网格的halo的CIC测量
+
+- [Discovery of a Radio Relic in the Massive Merging Cluster SPT-CL 2023-5535 from THE ASKAP-EMU PILOT SURVEY](https://arxiv.org/abs/2007.08244)
+    - Here, we report a discovery of a radio relic in the merging cluster SPT-CL 2023-5535 at z=0.23 from the ASKAP-EMU pilot 300 sq. deg survey (800-1088 MHz).
+    - Reveal a \sim2 Mpc-scale radio halo elongated in the east-west direction, coincident with the intracluster gas.
+    - Our weak-lensing analysis shows that the system is massive (M_{200}=1.04\pm0.36\times 10^{15} M_{\odot}) and composed of at least three subclusters.
+    - We suggest a scenario, wherein the radio features arise from the collision between the eastern and middle subclusters.
+
+- [Constraints on the star formation histories of galaxies in the Local Cosmological Volume](https://arxiv.org/abs/2007.07905)
+    - 很多近邻星系当前的SFR比过去更长时标内平均的要高，这和delay-tau模型不符: The tension is apparent in that local galaxies imply the star formation timescale tau approx 6.7 Gyr, much longer than the 3.5-4.5 Gyr obtained using an empirically determined main sequence at several redshifts
+    - Using models where the SFR is a power law in time of the form propto (t - t1)^eta for t1 = 1.8 Gyr (with no stars forming prior to t1) implies that eta = 0.18 +- 0.03.
+
+- [The role of mergers and fly-bys in driving the evolution of dwarf galaxies over cosmic time](https://arxiv.org/abs/2007.07913)
+    - New Horizon模拟 (40 pc分辨率)：while dwarf galaxies often exhibit disturbed morphologies (30 and 50 per cent are disturbed at z=1 and z=3 respectively), only a small proportion of the morphological disturbances seen in dwarf galaxies are driven by mergers at any redshift
+    - Dwarfs typically undergo one major and one minor merger between z=5 and z=0.5, accounting for 10 per cent of their total stellar mass.
+    - dwarf的并合能提高一点SFR，但是贡献的恒星质量总量很少；Non-merger interactions drive significantly smaller star formation enhancements (around two times), but their preponderance relative to mergers means they account for 10 per cent of stellar mass in the dwarf regime.
+
+- [The Diversity and Variability of Star Formation Histories in Models of Galaxy Evolution](https://arxiv.org/abs/2007.07916)
+    - **Relevant, Important**
+    - 通过各种数值模拟以及SAM中的星系SFR演化历史在不同天体物理时标上变化上的比较；利用power spectral density (PSD) formalism分析
+    - We find that the PSDs are well described by broken power-laws, and variability on long timescales (≳1 Gyr) accounts for most of the power in galaxy SFHs. 最重要的变化是在1Gyr时标以上的
+    - 数值模拟里，时标越短，质量越小，SFR变化的幅度就越大
+    - Quenching can induce ∼0.4−1 dex of additional power on timescales >1 Gyr.
+    - The dark matter accretion histories of galaxies have remarkably self-similar PSDs and are coherent with the in-situ star formation on timescales >3 Gyr.
+
+- [Whistler-regulated MHD: Transport equations for electron thermal conduction in the high β intracluster medium of galaxy clusters](https://arxiv.org/abs/2007.07931)
+    - Transport equations for electron thermal energy in the high βe intracluster medium (ICM) are developed that include scattering from both classical collisions and self-generated whistler waves
+    - The findings suggest whistlers limit electron heat flux over large regions of the ICM, including locations unstable to isobaric condensation.
+
+- [A two-stage outflow in NGC 1068](https://arxiv.org/abs/2007.07932)
+    - SINFONI-VLT观测
+    - 0.1 arcsec分辨率下：a detailed study of the H2, [Fe II] and [Si VI] emission lines reveals a three-phase gas morphology: (1) the low-velocity [Fe II] emission representing the glowingwall of an hourglass structure, (2) the high-velocity compact blobs of low and high ionization emissions filling the hourglass volume and (3) the distribution of H2 molecular gas defines the thick and irregular walls of a bubble surrounding a cavity.
+    - 气体分布的不对称性是因为：the fragmentation of the north-eastern molecular wall,
+    - We propose that those blobs are driven by a hot "secondary wind" coming from the spot where the jet interacts and injects its energy in the molecular gas. The combination of a primary wind launched by the central source and the secondary wind is what we call a two-stage outflow.
+
+- [A high redshift population of galaxies at the North Ecliptic Pole: unveiling the main sequence of dusty galaxies](https://arxiv.org/abs/2007.07992)
+    - NEP区域的DSFG研究，看在SFMS上的位置：用SCUBA-2 850micron和Herschel一起选，CIGALE拟合
+    - 两种选择方法的差异不大：The difference in measured SFRs affects the position of DSFGs on the MS of galaxies; most of the DSFGs lie on the MS (60%).
+
+- [Lyman-alpha radiative transfer: Modeling spectrum and surface brightness profile of Lyman-alpha emitting galaxies at z=3-6](https://arxiv.org/abs/2007.08172)
+    - We model a galaxy as a halo in which the density distributions of Lyman-alpha sources and H I plus dust medium are described with exponential functions.
+    - We successfully reproduce both the spectra and the surface brightness profiles of eight star-forming galaxies at z =3-6 observed with MUSE using this outflowing halo model with Lyman-alpha scattering.
+    - 结合MUSE观测得到的光谱和面亮度轮廓可以限制外流等模型参数
+
+- [Correlation of structure and stellar properties of galaxies in Stripe 82](https://arxiv.org/abs/2007.08328)
+    - VICS82巡天中Ks图像的星系B+D分解研究：Pseudo and classical bulge disc galaxies exhibit clear bimodality in terms of all stellar parameters (M∗, sSFR, r−Ks). All pseudo bulge disc galaxies are blue and star-forming and all classical bulge disc galaxies are red and quiescent with less than 5% digressions
+
+- [The alignment of satellite systems with cosmic filaments in the SDSS DR12](https://arxiv.org/abs/2007.08345)
+    - We use group and filament catalogues constructed from the SDSS DR12 to investigate the correlation between satellite systems and the large scale filaments they are located in.
+    - We find that the distribution of satellites is significantly correlated with filaments, namely the major axis of the satellite systems are preferentially aligned with the spine of the closest filament.
+    - 卫星星系更多的是沿着filament方向吸积进来的
+
+- [The ALPINE-ALMA [CII] Survey: Obscured Star Formation Rate Density and Main Sequence of star-forming galaxies at z>4](https://arxiv.org/abs/2007.08384)
+    - We exploit the rest-frame FIR continuum observations collected by the ALMA ALPINE to directly constrain the obscured SFR in galaxies at 4.4< z<5.9. 比依赖rest-frame FUV更好，因为没有IRX-beta的不确定性
+    - We find that the main sequence and sSFR do not evolve significantly between z∼4.5 and z∼5.5
+    - We find that the obscured fraction of SFRD is decreasing with increasing redshift but even at z∼5.5 it constitutes around 61% of the total SFRD
