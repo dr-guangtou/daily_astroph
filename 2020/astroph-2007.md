@@ -802,3 +802,62 @@
     - We exploit the rest-frame FIR continuum observations collected by the ALMA ALPINE to directly constrain the obscured SFR in galaxies at 4.4< z<5.9. 比依赖rest-frame FUV更好，因为没有IRX-beta的不确定性
     - We find that the main sequence and sSFR do not evolve significantly between z∼4.5 and z∼5.5
     - We find that the obscured fraction of SFRD is decreasing with increasing redshift but even at z∼5.5 it constitutes around 61% of the total SFRD
+
+----
+
+### July 19
+
+- [The Discovery of a Hidden Broad Line AGN in a Bulgeless Galaxy: Keck NIR Spectroscopic Observations of SDSS J085153.64+392611.76](https://arxiv.org/abs/2007.08525)
+    - Keck近红外观测在一个Bulgeless星系里看到的隐藏宽线区
+    - The lack of a bulge component suggests that the SMBH has grown quiescently, likely caused by secular processes independent of major mergers. 但可以用Mstar提到Mbulge
+    - In addition, we detect extended narrow Paα emission that allows us to create a rotation curve where we see counter-rotating gas within the central kiloparsec (kpc).
+
+- [Hidden AGN in dwarf galaxies revealed by MaNGA: light echoes, off-nuclear wanderers, and a new broad-line AGN](https://arxiv.org/abs/2007.08527)
+    - MaNGA中找到37个有AGN迹象的Dwarf，大部分在整体SED上体现不出AGN特征
+    - The AGN emission is in most cases offset from the optical center of the dwarf galaxy and shows a symmetric morphology, which indicates that either the AGN are off-nuclear, that the central emission of the galaxy is dominated by star formation, or that the AGN are turned-off and we are observing a past ionisation burst.
+    - One of the new AGN shows a broad Hα emission line component, from which we derive a black hole mass in the realm of intermediate-mass black holes. This constitutes the first hidden type 1 AGN discovered in a dwarf galaxy based on IFU spectroscopy.
+
+- [The 300-pc Scale ALMA View of [CI] 3P1-3P0, CO J=1-0, and 609 μm Dust Continuum in A Luminous Infrared Galaxy](https://arxiv.org/abs/2007.08536)
+    - We find that the [CI] line basically traces structures detected in CO (and dust)
+    - A pixel-by-pixel comparison revealed that there is a radial L′[CI]/L′CO gradient and a superlinear L′CO vs. L′[CI] relation (slope = 1.54 ± 0.02) at this spatial scale 
+    - Based on the molecular gas masses converted from the dust continuum emission, we found that the CO-to-H2 and [CI]-to-H2 conversion factors are relatively flat across the molecular gas disk
+
+- [Swift/UVOT+MaNGA (SwiM) Value-added Catalog](https://arxiv.org/abs/2007.08541)
+    - 150 galaxies that have both SDSS/MaNGA integral field spectroscopy and archival Swift/UVOT near-UV (NUV) images.
+    - We also provide a catalog that includes PSF-matched aperture photometry in the SDSS optical and Swift NUV bands. 
+
+- [Self-consistent Color-Mass-to-Light-Ratio relations for Low Surface Brightness Galaxies](https://arxiv.org/abs/2007.08610)
+    - **Useful**
+    - Based on a sample of low surface brightness galaxies (LSBG) that covers a wide range of color and luminosity, we re-calibrated each original CMLR in r, i, z, J, H, and K bands to give internally self-consistent M* for a same galaxy. 
+    - For each CMLR, the re-calibrated relations provided in this work could produce internally self-consistent M* from divergent photometric bands, and are extensions of the re-calibrations from Johnson-Cousin filter system by the pioneering work of McGaugh & Schombert (2014) to SDSS filter system.
+
+- [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). IX. Identification of Two Red Quasars at z > 5.6](https://arxiv.org/abs/2007.08685)
+    - The first discovery of dust-reddened quasars (red quasars) in the high-z universe (z >5.6).
+    - We identified four red quasar candidates from the spectroscopically confirmed 93 high-z quasars in the SHELLQs sample, based on detections in the Wide-field Infrared Survey Explorer (WISE) data at 3.4 and 4.6 um. Two of the four candidates were found to be red quasars with dust reddening of E(B-V) > 0.1. 
+
+- [The Sloan Digital Sky Survey Quasar Catalog: Sixteenth Data Release](https://arxiv.org/abs/2007.09001)
+    - The full catalog includes two sub-catalogs: a "superset" of all SDSS-IV/eBOSS objects targeted as quasars containing 1,440,615 observations and a quasar-only catalog containing 750,414 quasars, including 225,082 new quasars appearing in an SDSS data release for the first time
+
+- [The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: A Catalogue of Strong Galaxy-Galaxy Lens Candidates](https://arxiv.org/abs/2007.09006)
+    - We spectroscopically detected 838 likely, 448 probable, and 265 possible strong lens candidates within ≈2 million galaxy spectra contained within the eBOSS DR16 data
+    - We observed 477 candidates with lensing evidence within low-resolution images from both the Legacy survey of SDSS-I/II and the DESI Legacy survey, which is 12% higher than the percentage of BELLS candidates observed with similar lensing evidence.
+
+- [Digging process in NGC 6951: the molecular disc bumped by the jet](https://arxiv.org/abs/2007.09123)
+    - NIFS观测：We detected a compact structure of H2 molecular gas, interpreted as a nearly edge-on disc
+    - There are two regions of turbulent gas, with position angles similar to the jet/cones, seen both in molecular and ionized phases
+    - We explain these structures as a consequence of a "digging process" that the jet inflicts on the disc, ejecting the molecular gas towards the ionization cones
+
+- [FIREBall-2: The Faint Intergalactic Medium Redshifted Emission Balloon Telescope](https://arxiv.org/abs/2007.08523)
+    - FIREBall is a mission designed to observe faint emission from the circumgalactic medium of moderate redshift (z~0.7) galaxies for the first time
+    - The overall sensitivity of the instrument and telescope was 90,000 LU, due primarily to increased noise from stray light.
+
+- [The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Cosmological Implications from two Decades of Spectroscopic Surveys at the Apache Point observatory](https://arxiv.org/abs/2007.08991)
+    - These experiments, composed of data from SDSS, SDSS-II, BOSS, and eBOSS, offer independent measurements of baryon acoustic oscillation (BAO) measurements of angular-diameter distances and Hubble distances relative to the sound horizon, rd, from eight different samples and six measurements of the growth rate parameter, fσ8, from redshift-space distortions (RSD).
+    - We show that the BAO data alone are able to rule out dark-energy-free models at more than eight standard deviations in an extension to the flat, ΛCDM model that allows for curvature.
+    - The RSD measurements indicate a growth rate that is consistent with predictions from Planck primary data and with General Relativity.
+    - When combining the results of SDSS BAO and RSD with external data, all multiple-parameter extensions remain consistent with a ΛCDM model.
+
+- [Removing Imaging Systematics from Galaxy Clustering Measurements with Obiwan : Application to the SDSS-IV extended Baryon Oscillation Spectroscopic Survey Emission Line Galaxy Sample](https://arxiv.org/abs/2007.08992)
+    - **Relevant**
+    - Obiwan, which uses image simulations to determine the selection function of a galaxy redshift survey and calculate 3-dimensional (3D) clustering statistics. Obiwan simulates this process for samples selected from the Legacy Surveys imaging data
+    - We compare the 3D clustering results to those obtained by the map--based approach applied to the full eBOSS sample. We find the results are consistent, thereby validating the eBOSS ELG catalogs, presented in Raichoor(2020), used to obtain cosmological results.
