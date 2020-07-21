@@ -819,21 +819,21 @@
 
 - [The 300-pc Scale ALMA View of [CI] 3P1-3P0, CO J=1-0, and 609 μm Dust Continuum in A Luminous Infrared Galaxy](https://arxiv.org/abs/2007.08536)
     - We find that the [CI] line basically traces structures detected in CO (and dust)
-    - A pixel-by-pixel comparison revealed that there is a radial L′[CI]/L′CO gradient and a superlinear L′CO vs. L′[CI] relation (slope = 1.54 ± 0.02) at this spatial scale 
+    - A pixel-by-pixel comparison revealed that there is a radial L′[CI]/L′CO gradient and a superlinear L′CO vs. L′[CI] relation (slope = 1.54 ± 0.02) at this spatial scale
     - Based on the molecular gas masses converted from the dust continuum emission, we found that the CO-to-H2 and [CI]-to-H2 conversion factors are relatively flat across the molecular gas disk
 
 - [Swift/UVOT+MaNGA (SwiM) Value-added Catalog](https://arxiv.org/abs/2007.08541)
     - 150 galaxies that have both SDSS/MaNGA integral field spectroscopy and archival Swift/UVOT near-UV (NUV) images.
-    - We also provide a catalog that includes PSF-matched aperture photometry in the SDSS optical and Swift NUV bands. 
+    - We also provide a catalog that includes PSF-matched aperture photometry in the SDSS optical and Swift NUV bands.
 
 - [Self-consistent Color-Mass-to-Light-Ratio relations for Low Surface Brightness Galaxies](https://arxiv.org/abs/2007.08610)
     - **Useful**
-    - Based on a sample of low surface brightness galaxies (LSBG) that covers a wide range of color and luminosity, we re-calibrated each original CMLR in r, i, z, J, H, and K bands to give internally self-consistent M* for a same galaxy. 
+    - Based on a sample of low surface brightness galaxies (LSBG) that covers a wide range of color and luminosity, we re-calibrated each original CMLR in r, i, z, J, H, and K bands to give internally self-consistent M* for a same galaxy.
     - For each CMLR, the re-calibrated relations provided in this work could produce internally self-consistent M* from divergent photometric bands, and are extensions of the re-calibrations from Johnson-Cousin filter system by the pioneering work of McGaugh & Schombert (2014) to SDSS filter system.
 
 - [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). IX. Identification of Two Red Quasars at z > 5.6](https://arxiv.org/abs/2007.08685)
     - The first discovery of dust-reddened quasars (red quasars) in the high-z universe (z >5.6).
-    - We identified four red quasar candidates from the spectroscopically confirmed 93 high-z quasars in the SHELLQs sample, based on detections in the Wide-field Infrared Survey Explorer (WISE) data at 3.4 and 4.6 um. Two of the four candidates were found to be red quasars with dust reddening of E(B-V) > 0.1. 
+    - We identified four red quasar candidates from the spectroscopically confirmed 93 high-z quasars in the SHELLQs sample, based on detections in the Wide-field Infrared Survey Explorer (WISE) data at 3.4 and 4.6 um. Two of the four candidates were found to be red quasars with dust reddening of E(B-V) > 0.1.
 
 - [The Sloan Digital Sky Survey Quasar Catalog: Sixteenth Data Release](https://arxiv.org/abs/2007.09001)
     - The full catalog includes two sub-catalogs: a "superset" of all SDSS-IV/eBOSS objects targeted as quasars containing 1,440,615 observations and a quasar-only catalog containing 750,414 quasars, including 225,082 new quasars appearing in an SDSS data release for the first time
@@ -861,3 +861,51 @@
     - **Relevant**
     - Obiwan, which uses image simulations to determine the selection function of a galaxy redshift survey and calculate 3-dimensional (3D) clustering statistics. Obiwan simulates this process for samples selected from the Legacy Surveys imaging data
     - We compare the 3D clustering results to those obtained by the map--based approach applied to the full eBOSS sample. We find the results are consistent, thereby validating the eBOSS ELG catalogs, presented in Raichoor(2020), used to obtain cosmological results.
+
+----
+
+### July 20
+
+- [The splashback radius of halos from particle dynamics: III. Halo catalogs, merger trees, and host-subhalo relations](https://arxiv.org/abs/2007.09149)
+    - **Useful, Relevant**
+    - It is often difficult to assess the impact of a particular choice because most halo catalogs contain only one or a few definitions and generally only one set of host-subhalo relations. To alleviate this issue, we present halo catalogs and merger trees for 14 N-body simulations of LambdaCDM and self-similar universes. Rockstar + SPARTA
+    - The new catalogs contain numerous variants of spherical overdensity and splashback radii and masses and, most critically, host-subhalo relations for each definition.
+
+- [Detection capabilities of the Athena X-IFU for the warm-hot intergalactic medium using gamma-ray burst X-ray afterglows](https://arxiv.org/abs/2007.10158)
+    - Athena, the proposed European Space Agency X-ray observatory, aims to detect the `missing' baryons in the WHIM up to redshifts of z=1 through absorption in active galactic nuclei and gamma-ray burst afterglow spectra, allowing for the study of the evolution of these large-scale structures of the Universe. 模拟利用GRB X-ray余辉中看到的WHIM纤维的吸收
+    - The analyses of X-IFU spectra by blind line search show that Athena will be able to detect O VII-O VIII absorption pairs with EWOVII>0.13 eV and EWOVIII>0.09 eV for afterglows with F>2×10−11 erg cm−2 s−1.
+
+- [Constraining the Photoionization Models With a Reprojected Optical Diagnostic Diagram](https://arxiv.org/abs/2007.09159)
+    - **Useful**
+    - We present a simple reprojection of the 3D line ratio space composed of [N II]λ6583/Hα, [S II]λλ6716, 6731/Hα, and [O III]λ 5007/Hβ, which reveals its model-constraining power and removes the ambiguity for the true composite objects.
+    - With this reprojection, we can put strong constraints on the photoionization models and the secondary nitrogen abundance prescription. We find that a single nitrogen prescription cannot fit both the star-forming locus and AGN locus simultaneously, with the latter requiring higher N/O ratios.
+    - We can compute the fractional AGN contributions for the composite regions, and define demarcations with specific upper limits on contamination from AGN or star formation.
+
+- [NGC 90: a hidden jelly-fish galaxy?](https://arxiv.org/abs/2007.09432)
+    - NGC 90, a pair member of interacting system Arp 65 (NGC 90/93)
+    - In the central part of the galaxy a significant role belongs to non-photoionization mechanism of line emission probably caused by shocks due to LINER-like activity of the nucleus.
+    - The most intriguing peculiarity of the galaxy is the presence of the discovered earlier huge HI `cloud' containing about half of total mass of galaxy gas. We argue that it presents a flow of gas sweeping by ram pressure and elongated along a line of sight.
+
+- [Physical properties and evolution of (Sub-)millimeter selected galaxies in the galaxy formation simulation Shark](https://arxiv.org/abs/2007.09853)
+    - SAM和观测比较SMG数量：Compared to observations, the predicted number counts at wavelengths (lambda) 0.6-2mm and redshift distributions at 0.1-2mm, agree well. At the bright end (>1mJy), Shark galaxies are a mix of mergers and disk instabilities.
+    - We predict SMG's disks contribute significantly (negligibly) to the rest-frame UV (IR).
+    - 模型中SMG的主要性质：
+        1. 质量较高，尤其是有2mm探测的，质量可能大于10^11 Msun
+        2. 平均SFR 3-10 x 高于SFMS的
+        3. 暗物质晕质量大于10^12.3 Msun; 有2mm探测的多为proto-cluster
+        4. 低尘埃质量，高尘埃温度
+        5. 星系尺寸随着红移升高而减小
+
+- [ALMA Deep Field in SSA22: A near-infrared-dark submillimeter galaxy at z=4.0](https://arxiv.org/abs/2007.09887)
+    - Detection of [CI](1-0) and CO(4-3) emission lines determines the precise redshift of the galaxy, ADF22.A2, to be z=3.9913+/-0.0008
+    - ADF22.A2 is found to be a massive, star-forming galaxy with stellar mass Mstar = 1.1+1.3−0.6 x 10^{11} Msun and SFR = 430+230−150 Msun/yr. 气体比例35%，符合近邻大质量星系前身的性质
+
+- [Dark Matter Deficient Galaxies Produced Via High-velocity Galaxy Collisions In High-resolution Numerical Simulations](https://arxiv.org/abs/2007.09889)
+    - **Relevant**
+    - We describe the numerical experiments to determine if the so-called dark matter deficient galaxies (DMDGs) could be produced when two gas-rich, dwarf-sized galaxies collide with a high relative velocity of ∼300kms−1
+    - Then using a large simulated universe IllustrisTNG, we discover a number of high-velocity galaxy collision events in which DMDGs are expected to form. However, we did not find evidence that these types of collisions actually produced DMDGs in the IllustrisTNG100-1 run. 认为是分辨率的问题
+
+- [ALMA and MUSE observations reveal a quiescent multi-phase circumgalactic medium around the z~3.6 radio galaxy 4C 19.71](https://arxiv.org/abs/2007.10061)
+    - This radio galaxy has extended Lyα emission over a region ~100 kpc in size preferentially oriented along the axis of the radio jet. Faint Lyα emission extends beyond the radio hot spots. We also find extended CIV and HeII emission over a region of ~150 kpc in size
+    - The [CI] is detected in the same region with FWHM~100 km/s and Δv~5 km/s, while [CI] is not detected in the regions south of the radio galaxy.
+    - We interpret the coincidence in the northern line emission as evidence of relatively quiescent multi-phase gas residing within the halo at a projected distance of ~75 kpc from the host galaxy.
