@@ -909,3 +909,55 @@
     - This radio galaxy has extended Lyα emission over a region ~100 kpc in size preferentially oriented along the axis of the radio jet. Faint Lyα emission extends beyond the radio hot spots. We also find extended CIV and HeII emission over a region of ~150 kpc in size
     - The [CI] is detected in the same region with FWHM~100 km/s and Δv~5 km/s, while [CI] is not detected in the regions south of the radio galaxy.
     - We interpret the coincidence in the northern line emission as evidence of relatively quiescent multi-phase gas residing within the halo at a projected distance of ~75 kpc from the host galaxy.
+
+----
+
+### July 21
+
+- [HInet: Generating neutral hydrogen from dark matter with neural networks](https://arxiv.org/abs/2007.10340)
+    - We use convolutional neural networks to find the mapping between the spatial distribution of matter from N-body simulations and HI from the state-of-the-art hydrodynamic simulation IllustrisTNG 比目前的HOD模型要好
+
+- [Universal at last? The splashback mass function of dark matter halos](https://arxiv.org/abs/2007.10346)
+    - **Important, Relevant**
+    - 困难：simulations exhibit persistent non-universalities in the mass functions of the virial mass and other commonly used spherical overdensity definitions.
+    - In LambdaCDM cosmologies, all mass definitions exhibit varying levels of non-universality that increase with peak height and reach between 20% and 500% at the highest masses we can test. Mvir, M200m, and Msp exhibit similar levels of non-universality.
+    - 在z<2和self-similar cosmologies with extreme power spectra的情况下，Splashback质量的HMF的一致性最好
+    - These results strongly support the notion that the splashback radius is a physically motivated definition of the halo boundary. We present a simple, universal fitting formula for splashback mass functions that accurately reproduces our simulation data.
+
+- [Cosmic Ballet III: halo spin evolution in the cosmic web](https://arxiv.org/abs/2007.10365)
+    - We use the NEXUS+ multiscale formalism to identify the hierarchy of filaments and sheets of the cosmic web at several redshifts. 暗物质晕自旋的程度与宇宙网络结构的环境一直都是相关的
+    - Massive haloes in thick filaments spin faster than their counterparts in thin filaments, while for low-mass haloes the reverse is true.
+    - We also have studied the evolution of alignment between halo spin orientations and the preferential axes of filaments and sheets. The alignment varies with halo mass, with the spins of low-mass haloes being predominantly along the filament spine, while those of high-mass haloes being predominantly perpendicular to the filament spine.
+    - 平均来看，所有的halo的spin都在晚期变得更和filament的spine垂直
+
+- [The physical origins of low-mass spin bias](https://arxiv.org/abs/2007.10366)
+    - At z=0, higher-spin haloes with masses above log(Mc/h−1M⊙)≃11.5 have a higher bias than lower-spin haloes of the same mass. This trend is known to invert below this characteristic crossover mass
+    - We measure the redshift evolution and scale dependence of halo spin bias at the low-mass end and demonstrate that the inversion of the signal is entirely produced by the effect of splashback haloes.
+        - 小质量的halo很多都在大halo的附近，因此bias受到影响
+    - Since splashbacks have been shown to account for some of the assembly bias signal at the low-mass end, our results unveil a specific link between two different secondary bias trends: spin bias and assembly bias.
+
+- [Optimal strategies for identifying quasars in DESI](https://arxiv.org/abs/2007.10348)
+    - **SSST**
+    - We demonstrate that the machine learning-based classifier QuasarNET will be of use for future surveys such as the Dark Energy Spectroscopic Instrument (DESI)
+    - During the first of four passes across its footprint DESI will need to select high-z (z≥2.1) QSOs for reobservation: QuasarNET比Redrock的表现更好
+
+- [Extended X-ray emission from the z=4.26 radio galaxy 4C 63.20](https://arxiv.org/abs/2007.10368)
+    - The X-ray counterpart is resolved into a core plus two off-nuclear sources that (combined) account for close to 30% of the total X-ray flux.
+    - The broadband spectral energy distribution of 4C 63.20 can be reproduced with a jet model where the majority of the radio flux can be ascribed to synchrotron emission from the hotspots, whereas the (non-nuclear) X-ray emission is produced via Inverse Compton (IC) off of Cosmic Microwave Background (CMB) photons within the extended lobes. 高红移CMB更热而且射电瓣磁场可能更强
+
+- [The distant, galaxy cluster environment of the short GRB 161104A at z∼0.8 and a comparison to the short GRB host population](https://arxiv.org/abs/2007.10372)
+    - Magellan观测，prospector SED拟合星族：These properties, along with a prominent 4000 Angstrom break and optical absorption lines classify this host as an early-type, quiescent galaxy.
+    - 宿主星系位于一个z\sim 0.8的星系团里。We further find that the host of GRB 161104A is more distant, less massive and younger than the four other short GRB hosts known to be associated with galaxy clusters.
+    - Cluster short GRBs have faint afterglows, in the lower ≈11% (≈30%) of observed X-ray (optical) luminosities.
+    - Cluster中的short RGB对ICM重元素增丰更重要
+
+- [A little FABLE: exploring AGN feedback in dwarf galaxies with cosmological simulations](https://arxiv.org/abs/2007.10342)
+    - FABLE模拟中矮星系里的AGN Feedback：We find that overmassive black holes (BHs), with respect to the mean scaling relations with their host galaxies, drive hotter and faster outflows and lead to significantly reduced gas mass fractions.
+    - While in the local Universe the majority of AGN in dwarfs are much dimmer than the stellar component, for z≥2 there is a significant population that outshines their hosts.
+
+- [The Next Generation Virgo Cluster Survey (NGVS). XXX. Ultra-Diffuse Galaxies and their Globular Cluster Systems](https://arxiv.org/abs/2007.10565)
+    - **Relevant**
+    - Applying a new definition for the UDG class based on galaxy scaling relations, we define samples of 44 and 26 UDGs using expansive and restrictive selection criteria, respectively. 其中很多有极低的面亮度
+    - The UDGs in Virgo's core region show some evidence for being structurally distinct from "normal" dwarf galaxies, but this separation disappears when considering the full sample of galaxies throughout the cluster.
+    - The globular cluster (GC) systems of Virgo UDGs have a wide range in specific frequency (SN), with a higher mean SN than "normal" Virgo dwarfs, but a lower mean SN than Coma UDGs at fixed luminosity. GC主要是blue population的
+    - The combined GC luminosity function is consistent with those observed in dwarf galaxies, showing no evidence of being anomalously luminous.
