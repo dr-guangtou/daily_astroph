@@ -961,3 +961,115 @@
     - The UDGs in Virgo's core region show some evidence for being structurally distinct from "normal" dwarf galaxies, but this separation disappears when considering the full sample of galaxies throughout the cluster.
     - The globular cluster (GC) systems of Virgo UDGs have a wide range in specific frequency (SN), with a higher mean SN than "normal" Virgo dwarfs, but a lower mean SN than Coma UDGs at fixed luminosity. GC主要是blue population的
     - The combined GC luminosity function is consistent with those observed in dwarf galaxies, showing no evidence of being anomalously luminous.
+
+----
+
+### July 22
+
+- [Fly-bys, orbits, splashback: subhalos and the importance of the halo boundary](https://arxiv.org/abs/2007.10992)
+    - **Important**
+    - The recently proposed splashback radius tends to be larger and to include more subhalos than even the largest spherical overdensity boundaries
+    - Using splashback radii can yet double the abundance of subhalos compared to the virial definition.
+    - 关于Flyby halo的本质：We also quantify the abundance of flyby (or backsplash) halos, hosts that used to be subhalos in the past. We show that the majority of these objects are mislabeled satellites that are naturally classified as subhalos when we use the splashback radius.
+
+- [Characterizing the Sample Selection for Supernova Cosmology](https://arxiv.org/abs/2007.11100)
+    - 关于SN Cosmology的样本选择：Only for the simplest selection criteria and population models can the likelihood be calculated analytically, otherwise it needs to be determined numerically, a process that inherently has error
+    - This article presents toy examples where the distance modulus is inferred given a set of SNe at a single redshift
+
+- [Reducing the Variance of Redshift Space Distortion Measurements from Mock Galaxy Catalogues with Different Lines of Sight](https://arxiv.org/abs/2007.11417)
+    - Anisotropic two-point clustering measurements from the same simulation show some scatter for different lines of sight (LOS), but are on average equal, due to cosmic variance. This results in scatter in the measured cosmological parameters. 
+    - The quadrupole of the 2-point statistics is particularly sensitive to changes in the LOS, with sub-percent level differences in the velocity distributions resulting in ~1.5σ shifts on large scales. Averaging over multiple LOS can reduce the impact of cosmic variance.
+
+- [Stellar TDEs with Abundances and Realistic Structures (STARS): Library of Fallback Rates](https://arxiv.org/abs/2007.10996)
+    - STARS library, a grid of tidal disruption event (TDE) simulations interpolated to provide the mass fallback rate (dM/dt) to the black hole for a main-sequence star of any stellar mass, stellar age, and impact parameter.
+    - We provide new fitting formulae for important disruption quantities (βcrit,ΔM,M˙peak,tpeak,n∞) as a function of stellar mass, stellar age, and impact parameter.
+    - More centrally concentrated stars have steeper dM/dt rise slopes and shallower decay slopes.
+    - https://github.com/jamielaw-smith/STARS_library
+
+- [Radio activity of supermassive black holes with extremely high accretion rates](https://arxiv.org/abs/2007.11327)
+    - Radio emission from the high- and super-Eddington accreting active galactic nuclei (AGNs) has various origins: a persistent jet, the magnetized corona and the wind-like outflows. 单不清楚哪个站主导
+    - VLA 5GHz观测25个：extremely high Eddington accreting supermassive black holes (EESBHs, the Eddington ratio close to or above one) from narrow-line Seyfert 1 galaxies
+    - Most of EESBHs show a compact radio structure from a few hundred parsecs to one-kiloparsec scale.
+    - The high-Eddington and mildly super-Eddington AGNs (-0.5< log lambda_Edd<0.6) have a radio to X-ray luminosity ratio L_R/L_X~10^-5 to 10^-4 and a steep radio spectrum, supporting that the radio emission is from transient ejecta (outflows) of corona, however, the jet contribution cannot be fully ruled out.
+    - Our highly super-Eddington sources (log lambda_Edd>~0.6) have a flatter radio spectrum, along with its low radio luminosity: L_R/L_X~10^-5, their radio emission is likely dominated by a magnetized corona, and a radiation pressure caused jet is also proposed
+
+- [Spatial and Kinematic Clustering of Stars in the Galactic Disk](https://arxiv.org/abs/2007.10990)
+    - **Interesting**
+    - We calculate the spatial and kinematic two-point correlation functions using a sample of 1.7×106 stars within 1 kpc of the Sun with 6D phase space information available from Gaia DR2
+    - Clustering is detected on spatial scales of 1-300 pc and velocity scales of at least 15 km s−1.
+    - 相关函数的形式：After removing bound structures, the data have a power-law index of γ≈−1 for <100 pc and γ≲−1.5 for >100 pc.
+
+- [Gas-phase metallicity gradients of TNG50 star-forming galaxies](https://arxiv.org/abs/2007.10993)
+    - The radial gas-phase, mass-weighted metallicity profiles and gradients of the TNG50 star-forming galaxy population measured at redshifts z= 0-3
+    - We find that TNG50 gradients are predominantly negative at all redshifts, although we observe significant diversity among these negative gradients
+    - We determine that the gradient steepness of all galaxies increases approximately monotonically with redshift at a roughly constant rate. This rate does not vary significantly with galaxy mass.
+    - We also find that redshift z=0 and z=0.5 TNG50 gradients are consistent with the gradients observed in galaxies at these redshifts, although the preference for flat gradients observed in redshift z≳1 galaxies is not present in TNG50. 
+
+- [Dwarfs in the Milky Way halo outer rim: first in-fall or backsplash satellites?](https://arxiv.org/abs/2007.11001)
+    - Leo T is a gas-rich dwarf located at 414kpc (1.4Rvir) distance from the Milky Way (MW) and it is currently assumed to be on its first approach.
+    - 但新的轨道研究显示Leo T更可能是一个backsplah星系
+    - We applied our method to other distant MW satellites, finding a range of gas stripped backsplash solutions for the gas-less Cetus and Eridanus II, providing a possible explanation for their lack of cold gas, while only first in-fall solutions are found for the HI rich Phoenix I.
+
+- [Co-evolution of black hole accretion and star formation in galaxies up to z=3.5](https://arxiv.org/abs/2007.11002)
+    - We study the co-evolution between the black hole accretion rate (BHAR) and the star formation rate (SFR) in different galaxy life phases: main sequence star-forming galaxies, quiescent and starburst galaxies at different cosmic epochs.
+    - We find that the ratio between BHAR and SFR does not evolve with redshift, although it depends on stellar mass. For the star-forming populations, this dependence on M* has a logarithmic slope of ∼0.6, for the starburst sample of ∼0.4, both at odds with quiescent sources where it remains constant (log(BHAR/SFR)∼−3.4)
+    - Our results support the idea that the same physical processes feed and sustain both star formation and black hole accretion.
+
+- [Far-Infrared Photometric Redshifts: A New Approach to a Highly Uncertain Enterprise](https://arxiv.org/abs/2007.11012)
+    - I present a new approach at deriving far-infrared photometric redshifts for galaxies based on their reprocessed emission from dust at rest-frame far-infrared through millimeter wavelengths.
+    - I use the observed distribution of galaxy SEDs (for well-constrained samples across 0< z<5) to motivate a new far-infrared through millimeter photometric redshift technique called MMpz. 
+    - The MMpz algorithm asserts that galaxies are most likely drawn from the empirically observed relationship between rest-frame peak wavelength, λpeak, and total IR luminosity, LIR
+
+- [Assembly Conformity of Structure Growth: Fossil versus Normal Groups of Galaxies](https://arxiv.org/abs/2007.11021)
+    - **Relevant**
+    - 看Stellar mass匮乏的化石星系群的形成：in comparison to the normal groups of galaxies, they assemble both halo and stellar mass earlier.
+    - We find there is a central galaxy and satellite conformity between these FGs and normal groups: centrals and satellites in the former form earlier and more stellar deficient than their counterparts of the latter.
+    - When split by the peak redshift for the star formation rate of a group, the mass functions of satellite halos on either side of the peak redshift are found to be indistinguishable between FGs and normal groups, indicating a self-similarity of halo assembly with respect to the peak.
+
+- [The PAU Survey: An improved photo-z sample in the COSMOS field](https://arxiv.org/abs/2007.11132)
+    - **Useful**
+    - We present - and make publicly available - accurate and precise photometric redshifts in the 2deg2 COSMOS field for objects with iAB≤23. 
+    - We introduce a new method that models the spectral energy distributions (SEDs) as a linear combination of continuum and emission line templates and computes its Bayes evidence, integrating over the linear combinations.
+    - The correlation between the UV luminosity and the OII line is measured using the 66 available bands with the zCOSMOS spectroscopic sample, and used as a prior which constrains the relative flux between continuum and emission line templates.
+
+- [The Interplay Between Star Formation and Black Hole Accretion in Nearby Active Galaxies](https://arxiv.org/abs/2007.11283)
+    - We take advantage of a recently developed SFR estimator based on the [O II] λ3727 and [O III] λ5007 emission lines to investigate the SFRs of the host galaxies of more than 5,800 type 1 and 7,600 type 2 AGNs with z<0.35
+    - After matching in luminosity and redshift, we find that type 1 and type 2 AGNs have a similar distribution of internal reddening, which is significant and corresponds to ∼10^9M⊙ of cold molecular gas. 但Type 2 AGN比Type 1 的SFR要强
+    - We observe a tight, linear relation between AGN luminosity (accretion rate) and SFR, one that becomes more significant toward smaller physical scales, suggesting that the link between the AGN and star formation occurs in the central kpc-scale region.
+
+- [Black Hole Accretion Correlates with Star Formation Rate and Star Formation Efficiency](https://arxiv.org/abs/2007.11285)
+    - 453 z≈0.3 type 1 active galactic nuclei (AGNs). 用CO观测看气体质量
+    - We reaffirm the notion that powerful AGNs have comparable gas content as nearby star-forming galaxies and that AGN feedback does not deplete the host of cold gas instantaneously.
+    - We demonstrate that while the strong correlation between star formation rate and black hole accretion rate is in part driven by the mutual dependence of these parameters on molecular gas mass, the star formation rate and black hole accretion rate are still weakly correlated after removing the dependence of star formation rate on molecular gas mass
+
+- [AGN Feedback and Star Formation of Quasar Host Galaxies: Insights from the Molecular Gas](https://arxiv.org/abs/2007.11286)
+    - We use CO(2-1) observations from a new ALMA survey, in conjunction with literature measurements, to investigate the molecular gas properties of a representative sample of 40 z<0.3 Palomar-Green quasars
+    - We find that the AGN luminosity correlates with both the CO luminosity and black hole mass, suggesting that AGN activity is loosely coupled to the cold gas reservoir of the host.
+    - The host galaxies of low-redshift quasars have molecular gas content similar to that of star-forming galaxies of comparable stellar mass. Moreover, they share similar gas kinematics, as evidenced by their CO Tully-Fisher relation and the absence of detectable molecular outflows down to sensitive limits.
+
+- [The inner gas mass-temperature profile in the core of nearby galaxy clusters](https://arxiv.org/abs/2007.11385)
+    - A mass-temperature profile of gas within the central 10 kpc of a small sample of cool core clusters
+    - We find that the mass of gas at 0.7 keV in a cluster is remarkably similar to that of the molecular gas. Assuming pressure equilibrium between the phases, this means that they occupy volumes differing by 10^5.
+
+- ["Observations" of simulated dwarf galaxies: Star-formation histories from color-magnitude diagrams](https://arxiv.org/abs/2007.11413)
+    - **Relevant**
+    - We analyzed a set of 24 realistically simulated MoRIA (Models of Realistic dwarfs In Action) dwarf galaxies in an observationally motivated way.
+    - We find a very good agreement between the recovered and the true SFHs of all the simulated dwarf galaxies in our sample, from the synthetic CMD analysis of their V-I versus I as well as the I-H versus H CMDs. 
+    - Dust leads to an underestimation of the SFR during the last few hundred million years.
+
+- [Estimating supermassive black hole masses in AGNs using polarization of broad MgII, Hα and Hβ lines](https://arxiv.org/abs/2007.11475)
+    - For type-1 active galactic nuclei (AGNs) for which the equatorial scattering is the dominant broad line polarization mechanism, it is possible to measure the supermassive black hole mass by tracing the Keplerian motion across the polarization plane positionangle. 
+    - We use 3D Monte Carlo radiative transfer code stokes for simultaneous modeling of equatorial scattering of Hα, Hβ and Mg II lines. We included vertical inflows and outflows in the MgII broad line region (BLR).
+    - For Mg II line, we find that polarization angle φ exhibits an additional "plateau" with a constant φ, which deviates than the profiles expected for pure Keplerian motion.
+    - SMBH mass estimates using Mg II line are higher by up to 35% than those obtained from Hα and Hβ lines.
+
+- [The first detection of ultra-diffuse galaxies in the Hydra I cluster from VEGAS survey](https://arxiv.org/abs/2007.11533)
+    - **Relevant**
+    - VEGAS观测：the discovery of 27 low-surface brightness galaxies, of which 12 are candidate ultra-diffuse galaxy (UDG) in the Hydra I cluster
+    - Given the limitations of a reliable GC selection based on two relatively close optical bands only, we find that half of the UDG candidates have a total GC population consistent with zero.
+    - Of the other half, two galaxies have a total population larger than zero at 2σ level.
+
+- [Galactic contribution to the dispersion measure of extragalactic fast radio bursts](https://arxiv.org/abs/2007.11542)
+    - We provide an empirical list of the Galactic dispersion measure (DMGal) contribution to the extragalactic fast radio bursts along 72 sightlines. 不假设银河系盘和halo的模型等，通过21-cm，UV，EUV，以及X-ray观测去推断
+    - Find that DMGal is dominated by the hot phase probed by X-rays.
+    - The DMGal does not appear to follow any trend with the galactic longitude or latitude, and there is a large scatter around the values predicted by simple disk+halo models.
