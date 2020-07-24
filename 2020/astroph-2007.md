@@ -977,7 +977,7 @@
     - This article presents toy examples where the distance modulus is inferred given a set of SNe at a single redshift
 
 - [Reducing the Variance of Redshift Space Distortion Measurements from Mock Galaxy Catalogues with Different Lines of Sight](https://arxiv.org/abs/2007.11417)
-    - Anisotropic two-point clustering measurements from the same simulation show some scatter for different lines of sight (LOS), but are on average equal, due to cosmic variance. This results in scatter in the measured cosmological parameters. 
+    - Anisotropic two-point clustering measurements from the same simulation show some scatter for different lines of sight (LOS), but are on average equal, due to cosmic variance. This results in scatter in the measured cosmological parameters.
     - The quadrupole of the 2-point statistics is particularly sensitive to changes in the LOS, with sub-percent level differences in the velocity distributions resulting in ~1.5σ shifts on large scales. Averaging over multiple LOS can reduce the impact of cosmic variance.
 
 - [Stellar TDEs with Abundances and Realistic Structures (STARS): Library of Fallback Rates](https://arxiv.org/abs/2007.10996)
@@ -1003,7 +1003,7 @@
     - The radial gas-phase, mass-weighted metallicity profiles and gradients of the TNG50 star-forming galaxy population measured at redshifts z= 0-3
     - We find that TNG50 gradients are predominantly negative at all redshifts, although we observe significant diversity among these negative gradients
     - We determine that the gradient steepness of all galaxies increases approximately monotonically with redshift at a roughly constant rate. This rate does not vary significantly with galaxy mass.
-    - We also find that redshift z=0 and z=0.5 TNG50 gradients are consistent with the gradients observed in galaxies at these redshifts, although the preference for flat gradients observed in redshift z≳1 galaxies is not present in TNG50. 
+    - We also find that redshift z=0 and z=0.5 TNG50 gradients are consistent with the gradients observed in galaxies at these redshifts, although the preference for flat gradients observed in redshift z≳1 galaxies is not present in TNG50.
 
 - [Dwarfs in the Milky Way halo outer rim: first in-fall or backsplash satellites?](https://arxiv.org/abs/2007.11001)
     - Leo T is a gas-rich dwarf located at 414kpc (1.4Rvir) distance from the Milky Way (MW) and it is currently assumed to be on its first approach.
@@ -1017,7 +1017,7 @@
 
 - [Far-Infrared Photometric Redshifts: A New Approach to a Highly Uncertain Enterprise](https://arxiv.org/abs/2007.11012)
     - I present a new approach at deriving far-infrared photometric redshifts for galaxies based on their reprocessed emission from dust at rest-frame far-infrared through millimeter wavelengths.
-    - I use the observed distribution of galaxy SEDs (for well-constrained samples across 0< z<5) to motivate a new far-infrared through millimeter photometric redshift technique called MMpz. 
+    - I use the observed distribution of galaxy SEDs (for well-constrained samples across 0< z<5) to motivate a new far-infrared through millimeter photometric redshift technique called MMpz.
     - The MMpz algorithm asserts that galaxies are most likely drawn from the empirically observed relationship between rest-frame peak wavelength, λpeak, and total IR luminosity, LIR
 
 - [Assembly Conformity of Structure Growth: Fossil versus Normal Groups of Galaxies](https://arxiv.org/abs/2007.11021)
@@ -1028,7 +1028,7 @@
 
 - [The PAU Survey: An improved photo-z sample in the COSMOS field](https://arxiv.org/abs/2007.11132)
     - **Useful**
-    - We present - and make publicly available - accurate and precise photometric redshifts in the 2deg2 COSMOS field for objects with iAB≤23. 
+    - We present - and make publicly available - accurate and precise photometric redshifts in the 2deg2 COSMOS field for objects with iAB≤23.
     - We introduce a new method that models the spectral energy distributions (SEDs) as a linear combination of continuum and emission line templates and computes its Bayes evidence, integrating over the linear combinations.
     - The correlation between the UV luminosity and the OII line is measured using the 66 available bands with the zCOSMOS spectroscopic sample, and used as a prior which constrains the relative flux between continuum and emission line templates.
 
@@ -1054,11 +1054,11 @@
 - ["Observations" of simulated dwarf galaxies: Star-formation histories from color-magnitude diagrams](https://arxiv.org/abs/2007.11413)
     - **Relevant**
     - We analyzed a set of 24 realistically simulated MoRIA (Models of Realistic dwarfs In Action) dwarf galaxies in an observationally motivated way.
-    - We find a very good agreement between the recovered and the true SFHs of all the simulated dwarf galaxies in our sample, from the synthetic CMD analysis of their V-I versus I as well as the I-H versus H CMDs. 
+    - We find a very good agreement between the recovered and the true SFHs of all the simulated dwarf galaxies in our sample, from the synthetic CMD analysis of their V-I versus I as well as the I-H versus H CMDs.
     - Dust leads to an underestimation of the SFR during the last few hundred million years.
 
 - [Estimating supermassive black hole masses in AGNs using polarization of broad MgII, Hα and Hβ lines](https://arxiv.org/abs/2007.11475)
-    - For type-1 active galactic nuclei (AGNs) for which the equatorial scattering is the dominant broad line polarization mechanism, it is possible to measure the supermassive black hole mass by tracing the Keplerian motion across the polarization plane positionangle. 
+    - For type-1 active galactic nuclei (AGNs) for which the equatorial scattering is the dominant broad line polarization mechanism, it is possible to measure the supermassive black hole mass by tracing the Keplerian motion across the polarization plane positionangle.
     - We use 3D Monte Carlo radiative transfer code stokes for simultaneous modeling of equatorial scattering of Hα, Hβ and Mg II lines. We included vertical inflows and outflows in the MgII broad line region (BLR).
     - For Mg II line, we find that polarization angle φ exhibits an additional "plateau" with a constant φ, which deviates than the profiles expected for pure Keplerian motion.
     - SMBH mass estimates using Mg II line are higher by up to 35% than those obtained from Hα and Hβ lines.
@@ -1073,3 +1073,51 @@
     - We provide an empirical list of the Galactic dispersion measure (DMGal) contribution to the extragalactic fast radio bursts along 72 sightlines. 不假设银河系盘和halo的模型等，通过21-cm，UV，EUV，以及X-ray观测去推断
     - Find that DMGal is dominated by the hot phase probed by X-rays.
     - The DMGal does not appear to follow any trend with the galactic longitude or latitude, and there is a large scatter around the values predicted by simple disk+halo models.
+
+----
+
+### July 23
+
+- [Redshift-space effects in voids and their impact on cosmological tests. Part I: the void size function](https://arxiv.org/abs/2007.12064)
+    - 观测上，RSD和AP效应会影响Void的确认
+    - We used a spherical void finder and made a statistical comparison between real and redshift-space voids
+    - We found that redshift-space voids above the shot noise level have a unique real-space counterpart spanning the same region of space, are systematically bigger and their centres preferentially shifted along the line-of-sight
+
+- [Properties of the CGM and IGM: constraints on galaxy formation models from the Sunyaev-Zel'dovich effect](https://arxiv.org/abs/2007.11583)
+    - 各种模拟里CGM和IGM在z=0的比较:Illustris, TNG300 of the IllustrisTNG project, EAGLE, and one of the Magneticum simulations
+    - Both the observational and simulation results indicate that the integrated gas pressure in haloes deviates from the self-similar case, showing that feedback impacts haloes with M500∼10^{12−13}M⊙.
+    - All simulations tested here predict that the mean gas temperature in haloes is about the virial temperature, while that inferred from the SZE is up to one order of magnitude lower than that from the simulations (and also from X-ray observations).
+    - 不能光比较平均性质，还要看IGM性质和大尺度tidal feild之间的依赖关系
+    - 图二是关键
+
+- [Galaxy mass profiles from strong lensing III: The two-dimensional broken power-law model](https://arxiv.org/abs/2007.11588)
+    - SL建模里，简单的power law profile不够灵活：Here we derive the lensing properties - deflection angle, shear, and magnification - of a more adaptable model where the projected mass surface density is parameterised as a continuous two-dimensional broken power-law (2DBPL).
+
+- [A Strong-Lensing Model for the WMDF JWST/GTO Very Rich Cluster Abell 1489](https://arxiv.org/abs/2007.11600)
+    - RM J121218.5+273255.1是redMaPPer cluster catalog里前0.1% rich的，是JWST WMDF目标
+    - We find over a dozen high-redshift (z & 6) candidates based on both photometric redshift and the dropout technique
+    - RMJ1212 demonstrates that powerful lensing clusters can be selected in a robust and automated way following the light-traces-mass assumption.
+
+- [Evolution of CIV Absorbers I. The Cosmic Incidence](https://arxiv.org/abs/2007.11751)
+    - Combining our measurements with the literature gives us a picture of Civ-absorbing structures becoming more numerous and/or larger in physical size over the last ≈13 Gyr of cosmic time (z ∼ 6 to z ∼ 0).
+
+- [Far-infrared star-formation rates of six GRB host galaxies with ALMA](https://arxiv.org/abs/2007.11874)
+    - We report ALMA far-infrared (FIR) observations of six z∼2 IR-bright GRB host galaxies, which are selected for the brightness in IR.
+    - Our results indicate that the best-fit templates of five GRB host galaxies do not require an AGN component, suggesting the absence of AGNs.
+    - Our results indicate the importance of rest-frame FIR observations to correctly estimate SFRs by covering thermal emission from cold dust heated by star formation.
+
+- [Properties of five z~0.3-0.4 confirmed LyC leakers: VLT/XShooter observations](https://arxiv.org/abs/2007.11977)
+    - 电子密度很高，和z=2-3的SFG类似
+    - The galaxies have a mean value of logN/O=-1.16, close to the maximum values found for star-forming (SF) galaxies in the metallicity range of 12+logO/H=7.7-8.1.
+    - All 11 low-z LyC emitting galaxies found by Izotov et al. (2016, 2018), including the ones considered in the present study, are characterised by high EW(Hbeta)~200-400A, high ionisation parameter (log(U)=-2.5 to -1.7), high average ionising photon production efficiency
+    - We confirm the effectiveness of the HeI emission lines diagnostics proposed by Izotov et al. (2017) in searching for LyC leaker candidates
+
+- [Gas Content Regulates the Lifecycle of Star Formation and Black Hole Accretion in Galaxies](https://arxiv.org/abs/2007.12026)
+    - We use molecular gas mass estimates based on dust absorption (Hα/Hβ) to study gas content of large samples of type 2 AGN host galaxies in comparison with inactive galaxies.
+    - Galaxies first consume their gas mostly through bursty star formation, then enter into a transition phase of intermediate gas richness in which star formation and AGNs coexist, before settling into retirement as gas-poor, quiescent systems with residual levels of AGN activity (LINERs).
+    - Strongly accreting black holes (Seyferts) live in gas-rich, star-forming hosts, but neither their gas reservoir nor their ability to form stars seem to be impacted \emph{instantaneously} (timescales ≲0.5\,Gyr) by AGN feedback
+
+- [Exploring AGN and Star Formation Activity of Massive Galaxies at Cosmic Noon](https://arxiv.org/abs/2007.12170)
+    - **Relevant**
+    - Stripe82中0.5< z< 3的大质量星系研究:  The average SFR of galaxies with X-ray luminous AGN is higher by a factor of ∼ 3 to 10 compared to galaxies without X-ray luminous AGN at fixed stellar mass and redshift, suggesting that high SFRs and high AGN X-ray luminosities may be fueled by common mechanisms.
+    - 大部分的X-ray AGN都没有被quenched掉
