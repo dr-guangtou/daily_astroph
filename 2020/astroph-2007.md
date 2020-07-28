@@ -1201,13 +1201,47 @@
 ### July 27
 
 - [Photo-z outlier self-calibration in weak lensing surveys](https://arxiv.org/abs/2007.12795)
+    - **Useful*
+    - 有对3x2pt宇宙学观测的比较好的介绍
+    - We show that both Gaussian and outlier photo-z parameters can be self-calibrated from the data alone.
+    - This comes at no cost for the neutrino masses, curvature and dark energy equation of state w0, but with a 65% degradation when both w0 and wa are varied.
+    - 基于 3x2pt 对LSST进行预测：confirm the importance of marginalizing over photo-z outliers； examine a subset of internal cross-correlations, dubbed "null correlations", which are usually ignored in 3x2 analyses.
+
+- [Dynamical Tidal Locking Theory: A new source of the Spin of Dark Matter Halos](https://arxiv.org/abs/2007.13148)
+    - When the dark matter halos pass nearly by each other in dense environments- namely halo assemblies- they swing and spin each other via exerting mutual tidal torques.
+    - 和传统TTT理论的预测比可能很重要
+
+- [Nearest Neighbor distributions: new statistical measures for cosmological clustering](https://arxiv.org/abs/2007.13342)
+    - 新的，Gaussian统计之外的summary statistics: the k-Nearest Neighbor Cumulative Distribution Functions (kNN-CDF). This is the empirical cumulative distribution function of distances from a set of volume-filling, Poisson distributed random points to the k-nearest data points, and is sensitive to all connected N-point correlations in the data
+    - We demonstrate that the use of kNN-CDF improves the constraints on the cosmological parameters by more than a factor of 2 when applied to the clustering of dark matter in the range of scales between 10h−1Mpc and 40h−1Mpc
 
 - [Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling](https://arxiv.org/abs/2007.13721)
-
-- [Persistent homology in cosmic shear: constraining parameters with topological data analysis](https://arxiv.org/abs/2007.13724)
+    - maxBCG星系团的Planck kSZ测量:  We observe evidence for the kSZ effect, at a significance of ≃2σ.
+    - Our measurement, for the first time, directly accounts for uncertainties in the velocity reconstruction step through the process of Bayesian forward modeling
 
 - [The gravitational wave background signal from tidal disruption events](https://arxiv.org/abs/2007.13225)
+    - We find that the background produced by main sequence stars might be just detected by BBO in its lowest frequency coverage, but it is too weak for all the other instruments. On the other hand, the background signal from TDEs with white dwarfs will be within reach of ALIA, and especially of DECIGO and BBO, while it is below the LISA and TianQin sensitive curves
 
 - [Lessons on Star-forming Ultra-diffuse Galaxies from The Stacked Spectra of Sloan Digital Sky Survey](https://arxiv.org/abs/2007.12712)
+    - **Relevant**
+    - On-average properties for 28 star-forming ultra-diffuse galaxies (UDGs) located in low-density environments
+    - These relatively-isolated UDGs, with stellar masses of log10(M∗/M⊙)∼8.57±0.29, have the on-average total-stellar-metallicity [M/H]∼−0.82±0.14, iron-metallicity [Fe/H]∼−1.00±0.16, stellar age t∗∼5.2±0.5 Gyr, α-enhancement [α/Fe]∼0.24±0.10, and oxygen abundance 12+log(O/H)∼8.16±0.06 星族性质没有什么意外
 
 - [Universal conditional distribution function of [OII] luminosity of galaxies, and prediction for the [OII] luminosity function at redshift z<3](https://arxiv.org/abs/2007.12878)
+    - VIPERS中的[OII]光度和NUV光度的关系：we aim to construct the intrinsic relationship between the L[OII] and MNUV through Bayesian analysis.
+    - The conditional distribution of L[OII] at a given MNUV can be well described by a universal probability distribution function (PDF), which is nearly independent of MNUV or redshift.
+    - 利用这个条件概率可以估计 z < 3的[OII] LF以及PFS能观测到的[OII] emitter数量
+
+- [On the Determination of Rotation Velocity and Dynamical Mass of Galaxies Based on Integrated H I Spectra](https://arxiv.org/abs/2007.12959)
+    - We introduce a new method based on the concept of the curve of growth to derive a set of robust parameters to characterize the line width, asymmetry, and concentration of the integrated H I spectra.
+    - We use the calibrated line widths, in conjunction with the empirical relation between the size and mass of H I disks, to formulate a prescription for estimating the dynamical mass within the H I-emitting region of gas-rich galaxies.
+
+- [The evolution of galaxy scaling relations in clusters at 0.5<z<1.5](https://arxiv.org/abs/2007.13068)
+    - GTC/OSIRIS观测z=0.9的cluster：our cluster samples show evolutionary trends compatible with previous observational results in the field and in accordance with semianalytical models and hydrodynamical simulations concerning the Tully-Fisher and velocity-size relations.
+    - We find a factor 3 drop in disk sizes and an average B-band luminosity enhancement of 2 mag by z=1.5
+    - We find that our intermediate-to-high redshift cluster galaxies follow parallel sequences with respect to the local specific angular momentum-stellar mass relation
+
+- [Carbon-loud SDSS BOSS QSO2s at z > 2: High density gas or secondary production of Carbon?](https://arxiv.org/abs/2007.13163)
+    - "carbon-loud", with Civ/He ii ratios that are unusually high for the narrow-line region, implying higher than expected gas density (>10^6 cm^-3) and/or signicantly super-Solar relative carbon abundance.
+    - We also find that solar or supersolar nitrogen abundance and metallicity are required in the majority of our sample, with potentially significant variation between objects.
+    - A subset of the QSO2s and HzRGs also appear to be "silicon-loud", with SiIII] relative fluxes suggesting Si/C and Si/O are an order of magnitude above their Solar values.
