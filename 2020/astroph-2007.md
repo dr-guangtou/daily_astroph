@@ -922,10 +922,10 @@
     - 困难：simulations exhibit persistent non-universalities in the mass functions of the virial mass and other commonly used spherical overdensity definitions.
     - In LambdaCDM cosmologies, all mass definitions exhibit varying levels of non-universality that increase with peak height and reach between 20% and 500% at the highest masses we can test. Mvir, M200m, and Msp exhibit similar levels of non-universality.
     - 在z<2和self-similar cosmologies with extreme power spectra的情况下，Splashback质量的HMF的一致性最好
-    - These results strongly support the notion that the splashback radius is a physically motivated definition of the halo boundary. We present a simple, universal fitting formula for splashback mass functions that accurately reproduces our simulation data.
+    - These results strongly support the notion that the splashback radius is a physically motivated definition of the halo boundary. We present a simple, universal fitting formula for splashback mass Gfunctions that accurately reproduces our simulation data.
 
 - [Cosmic Ballet III: halo spin evolution in the cosmic web](https://arxiv.org/abs/2007.10365)
-    - We use the NEXUS+ multiscale formalism to identify the hierarchy of filaments and sheets of the cosmic web at several redshifts. 暗物质晕自旋的程度与宇宙网络结构的环境一直都是相关的
+    - We use the NEXUS+ multiscale formalism to identify the hierarchy of Gilaments and sheets of the cosmic web at several redshifts. 暗物质晕自旋的程度与宇宙网络结构的环境一直都是相关的
     - Massive haloes in thick filaments spin faster than their counterparts in thin filaments, while for low-mass haloes the reverse is true.
     - We also have studied the evolution of alignment between halo spin orientations and the preferential axes of filaments and sheets. The alignment varies with halo mass, with the spins of low-mass haloes being predominantly along the filament spine, while those of high-mass haloes being predominantly perpendicular to the filament spine.
     - 平均来看，所有的halo的spin都在晚期变得更和filament的spine垂直
@@ -1121,3 +1121,93 @@
     - **Relevant**
     - Stripe82中0.5< z< 3的大质量星系研究:  The average SFR of galaxies with X-ray luminous AGN is higher by a factor of ∼ 3 to 10 compared to galaxies without X-ray luminous AGN at fixed stellar mass and redshift, suggesting that high SFRs and high AGN X-ray luminosities may be fueled by common mechanisms.
     - 大部分的X-ray AGN都没有被quenched掉
+
+----
+
+### July 26
+
+- [How to obtain the redshift distribution from probabilistic redshift estimates](https://arxiv.org/abs/2007.12178)
+    - **Useful, CSST**
+    - The established stacked estimator of n(z) avoids reducing photo-z PDFs to point estimates but yields a systematically biased estimate of n(z) that worsens with decreasing signal-to-noise, the very regime where photo-z PDFs are most necessary.
+    - We introduce Cosmological Hierarchical Inference with Probabilistic Photometric Redshifts (CHIPPR), a statistically rigorous probabilistic graphical model of redshift-dependent photometry, which correctly propagates the redshift uncertainty information beyond the best-fit estimator of n(z) produced by traditional procedures and is provably the only self-consistent way to recover n(z) from photo-z PDFs. 但计算量更大
+
+- [A complete view of the outskirts of the Coma cluster](https://arxiv.org/abs/2007.12194)
+    - XMM Mosaics + Planck SZ观测：Beyond r500, our clumping corrected entropy measurements along the less disturbed directions are statistically consistent with the power-law entropy profile predicted by non-radiative simulations, and the gas mass fraction agrees with the mean cosmic baryon fraction.
+    - However, there is a clear entropy deficit in the outskirts to the southwest, coinciding with where Coma connects to a cosmic web filament which joins it to Abell 1367.
+
+- [Constraints on Dynamical Dark Energy Models from the Abundance of Massive Galaxies at High Redshifts](https://arxiv.org/abs/2007.12453)
+    - We compare the maximal abundance of massive systems predicted in different dynamical dark energy (DDE) models at high redshifts z = 4-7 with the measured abundance of the most massive galaxies observed to be already in place at such redshifts. The aim is to derive constraints for the evolution of the dark energy equation of state parameter w which are complementary to existing probes
+
+- [Testing General Relativity on cosmological scales at redshift z∼1.5 with quasar and CMB lensing](https://arxiv.org/abs/2007.12453)
+    - **SSST**
+    - z=1.5的E_G引力检验：We use the quasar sample with redshifts 0.8< z<2.2 from eBOSS DR16
+    - By cross correlating with the Planck 2018 cosmic microwave background (CMB) lensing map, we detect the angular cross-power spectrum Cκqℓ signal at 12σ significance. We find EG estimates agree with the GR prediction at 1σ level over all these scales.
+
+- [An Energy Inventory of Tidal Disruption Events](https://arxiv.org/abs/2007.12198)
+    - 关于TDE主要产能机制：it is unclear whether most of the energy in the initial flare comes from accretion near the gravitational radius or from circularizing debris at larger distances from the SMBH.
+    - The energy dissipation efficiency increases with decreasing radii, therefore by measuring the total energy emitted and estimating the efficiency we can derive clues about the nature of the emission mechanism. 利用MOSFiT进行拟合，得到总释放能量，辐射时标，平均辐射效率的估计。
+    - 总能量的估计比以往的估计要高：predominantly because, if the luminosity follows the mass fallback rate, TDEs release a significant fraction of their energy long after their light curve peaks.
+    - There are, however, large systematic uncertainties in the measured efficiency due to model degeneracies between the efficiency and the mass of the disrupted star 目前仍无法断言辐射机制.
+
+- [AStroLens: Automatic Strong-Lens Modeling of X-ray Selected Galaxy Clusters](https://arxiv.org/abs/2007.12182)
+    - We use AStroLens, a newly developed gravitational lens-modeling code that relies only on geometric and photometric information of cluster galaxies as input, to map the strong-lensing regions and estimate the lensing strength of 96 galaxy clusters at z=0.5-0.9. 基于light traces mass假设
+    - Our study finds 31 eMACS clusters with effective Einstein radii (θE) in excess of 20" and eight with θE> 30", thereby underlining the value of X-ray selection for the discovery of powerful cluster lenses that complement giants like MACSJ0717 at ever-increasing redshift.
+
+- [Black hole -- galaxy co-evolution in FIRE: the importance of black hole location and mergers](https://arxiv.org/abs/2007.12185)
+    - MassiveFIRE模拟：The growth of SMBHs is modeled in post-processing with different accretion models, placements, and merger treatments
+    - Scaling relations predicted by the gravitational torque driven accretion (GTDA) model agree with observations at low redshift \emph{without} the need for AGN feedback, in contrast to models in which the accretion rate depends strongly on SMBH mass.
+    - 高红移处的星系-黑洞标度关系和低红移不同：SMBHs are under-massive, presumably due to stellar feedback, but start to grow efficiently once their host galaxies reach M∗∼10^10M⊙.
+    - We show that the predicted scaling relations depend sensitively on the efficiency of SMBH merging.
+
+- [Rest-frame UV spectroscopy of extreme [OIII] emitters at 1.3<z<3.7: Toward a high-redshift UV reference sample for JWST](https://arxiv.org/abs/2007.12197)
+    - Deep spectroscopy of galaxies in the reionization-era has revealed intense CIII] and CIV line emission (EW >15−20 \r{A})
+    - We find that CIII] reaches the EWs seen at z>6 only in large sSFR galaxies with [OIII]+Hβ EW >1500 \r{A}.
+    - 只有高EW的[OIII]并不意味着就有较强的CIII]线 --> radiation field associated with young stellar populations is not sufficient to power strong CIII].
+    - Photoionization models demonstrate that the spread in CIII] among systems with large sSFRs ([OIII]+Hβ EW >1500 \r{A}) is driven by variations in metallicity, a result of the extreme sensitivity of CIII] to electron temperature. 高红移的强 CIII]线可能来自贫金属气体
+
+- [A Self-Calibrating Halo-Based Galaxy Group Finder: Algorithm and Tests](https://arxiv.org/abs/2007.12200)
+    - **Relevant**
+    - We add freedom to the algorithm in order to more accurately determine which galaxies are central and which are satellites, and to provide unbiased estimates of halo masses
+    - The added freedom in the group-finding algorithm is self-calibrated using observations of color-dependent galaxy clustering, as well as measurements of the total satellite luminosity in deep imaging data around stacked samples of spectroscopic central galaxies, L_sat.
+    - It reduces the error in log M_halo for central galaxies by over a factor of two, to <~0.2 dex. Through the L_sat data, it can quantify differences in the luminosity-to-halo mass relations for star-forming and quiescent galaxies
+
+- [Bar effect on gas-phase abundance gradients. I. Data sample and chemical abundances](https://arxiv.org/abs/2007.12289)
+    - We have collected a large sample of 2831 published HII region emission-line fluxes in 51 nearby galaxies, including objects both with and without the presence of a bar, with the aim of revisiting the issue of whether bars affect the radial metal distribution in spirals.
+    - We have obtained O/H and N/O abundance ratios from the Te-based (direct) method for a sub-sample of 610 regions, and from a variety of strong-line methods for the whole HII region sample
+    - The median value and the standard deviation of the gradient distributions depend on the abundance method, and those based on the O3N2 indicator tend to flatten the steepest profiles, reducing the range of observed gradients
+
+- [Bar effect on gas-phase abundance gradients. II. Luminosity-dependent flattening](https://arxiv.org/abs/2007.12292)
+    - The differences in slope between barred and unbarred galaxies depend on galaxy luminosity.
+    - In the galaxy sample that we consider the gradients appear to be considerably shallower for strongly barred galaxies in the whole luminosity range, while profile slopes for unbarred galaxies become steeper with decreasing luminosity.
+    - 所以只能在低光度的星系中看到Bar和Unbar星系的气体丰度梯度差异
+
+- [The VANDELS survey: Discovery of massive overdensities of galaxies at z>2](https://arxiv.org/abs/2007.12314)
+    - We identify 13 (proto)cluster candidates in the CDFS and nine in the UDS at 2 < z < 4
+    - No significant difference is observed in the rest-frame U−V color between field and galaxies located within the identified overdensities, but the star-forming galaxies in overdense regions tend to be more massive and to have low specific SFRs than in the field.
+    - Lyα emitters lie preferentially outside of overdense regions; The LAEVs in overdense regions tend to have low Lyα equivalent widths and low specific SFRs, and they also tend to be more massive than the LAEVs in the field.
+
+- [Ionized and atomic interstellar medium in the z = 6.003 quasar SDSS J2310+1855](https://arxiv.org/abs/2007.12339)
+    - ALMA观测，看[NII] 122和[OI] 146发射线等的比值，来研究ISM性质
+    - Similar to other high-z systems, this object exhibits a [C II]158μm/[O I]146μm ratio comparable to the lowest values found in local (Ultra) luminous infrared galaxies, suggesting a "warmer" and "denser" gas component compared to typical local systems.
+    - The [O III]88μm/[O I]146μm ratio is lower than that of other local and high-z systems, indicating a smaller ionized gas fraction in this quasar.
+    - The [O III]88μm/[N II]122μm ratio is comparable to that of local systems, and suggests a metallicity of Z/Z⊙=1.5−2.1.
+
+- [A chemical study of carbon fractionation in external galaxies](https://arxiv.org/abs/2007.12405)
+    - 理论研究，看Carbon fractionation对碳同位素比值的影响：carbon fractionation is sensitive to almost all the physical conditions we investigated, it strongly varies with time for all species but CO, and shows pronounced differences across species.
+    - 碳分馏：有不同机制：1) low-temperature ion-neutral exchange reactions which, owing to their exothermicity, can increase 13C abundance in CO and HCO+ in very low temperature environments; 2) isotope-selective photo-dissociation and other mechanisms are claimed to influence, and potentially change significantly, the carbon elemental isotopic ratios
+
+----
+
+### July 27
+
+- [Photo-z outlier self-calibration in weak lensing surveys](https://arxiv.org/abs/2007.12795)
+
+- [Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling](https://arxiv.org/abs/2007.13721)
+
+- [Persistent homology in cosmic shear: constraining parameters with topological data analysis](https://arxiv.org/abs/2007.13724)
+
+- [The gravitational wave background signal from tidal disruption events](https://arxiv.org/abs/2007.13225)
+
+- [Lessons on Star-forming Ultra-diffuse Galaxies from The Stacked Spectra of Sloan Digital Sky Survey](https://arxiv.org/abs/2007.12712)
+
+- [Universal conditional distribution function of [OII] luminosity of galaxies, and prediction for the [OII] luminosity function at redshift z<3](https://arxiv.org/abs/2007.12878)
