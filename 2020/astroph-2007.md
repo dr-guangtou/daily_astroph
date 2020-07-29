@@ -1245,3 +1245,73 @@
     - "carbon-loud", with Civ/He ii ratios that are unusually high for the narrow-line region, implying higher than expected gas density (>10^6 cm^-3) and/or signicantly super-Solar relative carbon abundance.
     - We also find that solar or supersolar nitrogen abundance and metallicity are required in the majority of our sample, with potentially significant variation between objects.
     - A subset of the QSO2s and HzRGs also appear to be "silicon-loud", with SiIII] relative fluxes suggesting Si/C and Si/O are an order of magnitude above their Solar values.
+
+----
+
+### July 28
+
+- [A high coverage view of the thermodynamics and metal abundance in the outskirts of the nearby galaxy cluster Abell 2199](https://arxiv.org/abs/2007.13768)
+    - Using the XMM-Newton observations to correct for the effects of gas clumping, we find that the azimuthally averaged entropy profile in the outskirts follows a power law with a slope of 1.20±0.23
+    - When divided into 10 sectors, the entropy shows significant azimuthal variation, with some sectors lying below the baseline level. 角向平均的气体比例符合重子物质的宇宙平均比例
+    - The metal abundance in the outskirts is found to be consistent with being uniform in all directions and it has an average value of 0.29+0.03−0.03Z⊙
+
+- [Is there evidence for a hotter Universe?](https://arxiv.org/abs/2007.13789)
+    - 看看如果CMB当前温度的测量有很小的改变能不能解决H0 tension
+    - Our analysis (parametric and non-parametric) shows a good agreement with the FIRAS measurement and a discrepancy of ≳1.9σ from the T0 values required to solve the H0 tension.
+
+- [Covariance of the redshift-space matter power spectrum after reconstruction](https://arxiv.org/abs/2007.13998)
+    - We explore the covariance of redshift-space matter power spectra after a standard density-field reconstruction.
+
+- [On a possible cosmological evolution of galaxy cluster YX−YSZE scaling relation](https://arxiv.org/abs/2007.13998)
+    - An important result from self-similar models that describe the process of galaxy cluster formation is the simple scaling relation Y_SZE* D^2_{A} /C_{XSZE} * Y_X = C.
+    - we consider the cosmic distance duality relation validity jointly with type Ia supernovae observations plus 61 Y_SZE* D^2_{A} /C_{XSZE} * Y_X measurements as reported by the Planck Collaboration to explore if this relation is constant in the redshift range considered (z<0.5).
+    - It is worth to stress that the observational determination of an universal C(z) function turns the Y_SZE* D^2_{A} /C_{XSZE} * Y_X ratio in an useful cosmological tool to determine cosmological parameters.
+
+- [Measuring stellar and black hole masses of tidal disruption events](https://arxiv.org/abs/2007.13765)
+    - 用TDE估计黑洞和恒星质量：The black hole mass depends mostly on the temperature observed at peak luminosity, while the mass of the disrupted star depends mostly on the peak luminosity.
+    - We introduce TDEmass, a method to infer the black hole and stellar masses given these two input quantities
+
+- [Dispersion measures of fast radio burst host galaxies derived from IllustrisTNG simulation](https://arxiv.org/abs/2007.13935)
+    - The evolution of the median DMhost can be calculated by 33(1+z)0.84 pc cm−3. The distributions of DMhost of repeating and non-repeating FRBs can be well fitted with the log-normal function.
+
+- [Is NGC 300 a pure exponential disk galaxy?](https://arxiv.org/abs/2007.13749)
+    - HST观测：Color magnitude diagrams show a significant population of old red giant branch (RGB) stars in all fields out to R∼19 kpc (32′), as well as younger populations in the inner regions.
+    - 看不同年龄的星族的分布profile：We find two clear breaks in the density profiles of the old RGB and intermediate-aged stars: one down-bending (Type II) at R∼5.9 kpc, and another up-bending (Type III) at R∼8.3 kpc
+    - The outer stellar component at R⪆8 kpc is, therefore, well separated from the inner disk in terms of the stellar density and stellar populations. 可能有stellar halo成分
+
+- [The Effects of Dwarf Galaxies on the Orbital Evolution of Galactic Globular Clusters](https://arxiv.org/abs/2007.13752)
+    - We determine the orbits of the Milky Way's 150 globular clusters in a gravitational potential both with and without dwarf galaxies. We find that the presence of a small number of satellite galaxies can strongly affect the orbits of many of the globular clusters. 尤其是对于outer GCs，轨道半长轴和椭率都可以有比较大的变化
+    - Furthermore, we caution against using kinematics alone to identify whether a Galactic cluster formed in-situ or was accreted during a past merger event as these values are no longer conserved.
+
+- [Census and classification of low-surface-brightness structures in nearby early-type galaxies from the MATLAS survey](https://arxiv.org/abs/2007.13772)
+    - **Relevant**
+    - 肉眼检查结果：The images reach a surface-brightness limit of 28.5−29 mag arcsec−2 in the g′ band.
+    - We find an incidence of shells, stream and tails of approximately 15%, about the same for each category. For galaxies with masses over 10^11 M⊙, the incidence of shells and streams increases about 1.7 times.
+
+- [Limits to Rest-Frame Ultraviolet Emission From Far-Infrared-Luminous z~6 Quasar Hosts](https://arxiv.org/abs/2007.13772)
+    - HST看高红移QSO host的rest-frame UV辐射：We measure upper limits for the quasar host galaxies of mJ>22.7 mag and mH>22.4 mag, corresponding to stellar masses of M∗<2×10^11M⊙. 不违反 MBH -M∗ 关系; 也和预计的UV光度相符
+    - We also detect a total of up to 9 potential z≃6 quasar companion galaxies surrounding five of the six quasars, separated from the quasars by 1.4''-3.2'', or 8.4-19.4 kpc, which may be interacting with the quasar hosts.
+    - These results suggest that the quasars are in dense environments typical of luminous z≃6 galaxies.
+
+- [Starbursting Nuclei in Old Dwarf Galaxies](https://arxiv.org/abs/2007.13984)
+    - **Relevant**
+    - We study a sample of dEs having compact star-forming blobs that are visually similar to dEs' nuclei but by far bluer.
+    - 致密恒星形成团块的质量大致是星系质量的1%；有些团块是off-center的；气体丰度接近Solar，但dE本身恒星丰度符合矮星系，远低于solar水平
+    - We argue that the central star-forming blobs can provide a caught-in-the-act view of nuclei formation in dEs
+
+- [Some Die Filthy Rich: The Diverse Molecular Gas Contents of Post-starbust Galaxies Probed by Dust Absorption](https://arxiv.org/abs/2007.14004)
+    - A recent observation shows that about half of QPSBs have large amounts of cold gas.
+    - 用Hbeta/Halpha来估计分子气体质量
+    - We estimate the molecular gas by either using PSBs with well-measured Hα/Hβ ratios or by measuring them from stacked spectra. Our analysis reveals that QPSBs have a wide range of Hα/Hβ ratios and molecular gas fractions that overlap with the typical gas fractions of star-forming or quiescent galaxies: Hα/Hβ≈3−8 and fH2≈1%−20% with median fH2≈4%−6% 分子气体质量在10^9 Msun左右
+
+- [The Ionised- and Cool-Gas Content of The BR1202-0725 System as seen by MUSE and ALMA](https://arxiv.org/abs/2007.14221)
+    - MUSE观测：the most overdense fields known in the early Universe
+    - We find that QSO BR1202-0725 exhibits a large Lyα halo, covering ≈55 pkpc on-sky
+    - In contrast, the SMG, of similar far-infrared luminosity and star formation rate (SFR), does not exhibit such a Lyα halo.
+    - We also note a coherent absorption feature at ∼−400km/s in spectra from at least three objects; the QSO, LAE1 and "LAE2" which could imply the presence of an expanding neutral gas shell with an extent of at least 24 pkpc.
+
+- [Probing Feedback via IGM tomography and Lyα forest with Subaru PFS, TMT/ELT, & JWST](https://arxiv.org/abs/2007.14253)
+    - **SSST**
+    - GADGET3-Osaka模拟预研: We create light-cone data set at z=2−3 from our simulations and generate mock Lyα forest data.
+    - We focus on the distribution of HI and galaxies, and present statistical results on 1-D flux PDF, 1-D power spectrum, flux contrast vs. impact parameter, HI−galaxy cross-correlations.
+    - Comparison with observations shows that the current observed data points include important contributions from lower mass galaxies of M⋆∼10^8−10^10M⊙ rather than just from massive galaxies of M⋆≥10^10M⊙, which dilutes the stronger signal of flux contrast around massive galaxies.
