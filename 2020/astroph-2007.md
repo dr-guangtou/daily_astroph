@@ -1315,3 +1315,104 @@
     - GADGET3-Osaka模拟预研: We create light-cone data set at z=2−3 from our simulations and generate mock Lyα forest data.
     - We focus on the distribution of HI and galaxies, and present statistical results on 1-D flux PDF, 1-D power spectrum, flux contrast vs. impact parameter, HI−galaxy cross-correlations.
     - Comparison with observations shows that the current observed data points include important contributions from lower mass galaxies of M⋆∼10^8−10^10M⊙ rather than just from massive galaxies of M⋆≥10^10M⊙, which dilutes the stronger signal of flux contrast around massive galaxies.
+
+----
+
+### July 29
+
+- [How to Build a Catalogue of Linearly-Evolving Cosmic Voids](https://arxiv.org/abs/2007.14395)
+    - Void的动力学演化是接近Linear的，宇宙学潜力很大；但不好定义
+    - A recent void definition addresses these issues by considering "anti-halos". This approach consists of inverting the initial conditions of an N-body simulation to swap overdensities and underdensities.
+    - We quantify the degree of non-linearity of both anti-halos and watershed voids
+        - 主要的non-linearities来自<5Mpc h^{-1}的halo，移除这些后线性良好
+
+- [The Hubble constant from eight time-delay galaxy lenses](https://arxiv.org/abs/2007.14398)
+    - We find H0=71.8+3.9−3.3kms−1Mpc−1 with a precision of 4.97%.
+    - Joint, free-form analysis of 8 strongly, quadruply lensing systems
+    - 精度偏低，但是是因为更好的考虑了系统的不确定性
+
+- [The Atacama Cosmology Telescope: Delensed Power Spectra and Parameters](https://arxiv.org/abs/2007.14405)
+    - **Important**
+    - Lensing maps from a subset of DR4 data from the Atacama Cosmology Telescope (ACT) are used to undo the lensing effect in ACT spectra observed at 150 and 98 GHz.
+    - We also measure the shift in best-fit parameters when fitting delensed versus lensed spectra; Fitting with a LCDM model and marginalizing over foregrounds, we find that the shift in cosmological parameters is consistent with zero.
+    - Our results show that gravitational lensing of the microwave background is internally consistent within the framework of the standard cosmological model.
+
+- [High resolution tomography for galaxy spectroscopic surveys with Angular Redshift Fluctuations](https://arxiv.org/abs/2007.14412)
+    - **SSST**
+    - 关于未来光谱巡天中的新观测：angular redshift fluctuations (ARF), which probe the information contained in the projected redshift distribution of galaxies.
+    - 和clustering比有互补性：We find that the cosmological and galaxy bias parameters express different degeneracies when inferred from ARF or from angular galaxy clustering.
+    - We show that a joint analysis of ARF and angular galaxy clustering improves constraints by ∼40% on galaxy bias compared to a joint analysis of angular galaxy clustering and CMB lensing.
+
+- [Mitigating contamination in LSS surveys: a comparison of methods](https://arxiv.org/abs/2007.14499)
+    - 关于星系成团性测量中系统污染的移除：We show how all the methods, including the popular pseudo-Cℓ Mode Projection and Template Subtraction methods, can be interpreted under a common regression framework
+    - We show how methods designed to mitigate systematics in the power spectrum can be used to produce clean maps, which are necessary for cosmological analyses beyond the power spectrum
+
+- [Constraints on Primordial Power Spectrum from Galaxy Luminosity Functions](https://arxiv.org/abs/2007.14695)
+    - 高红移星系UVLF来限制原初扰动的功率谱：We adopt the UV LFs derived from Hubble Frontier Fields data at z=6−10, which enable us to probe primordial fluctuations on the scales of k∼10−103 Mpc−1.
+
+- [The Uchuu Simulations: Data Release 1 and Dark Matter Halo Concentrations](https://arxiv.org/abs/2007.14720)
+    - **SSST, Useful**
+    - Uchuu: 12800^3 particles in 2.0Gpc/h box, with 3x10^8 Msun/h resolution
+    - Shin-Uchuu: 6400^3, 140 Mpc/h; 9x10^5 Msun/h
+    - Combining these simulations we can follow the evolution of dark matter haloes (and subhaloes) spanning from dwarf galaxies to massive galaxy cluster hosts.
+
+- [Hybrid-basis inference for large-scale galaxy clustering: combining spherical and Cartesian Fourier analyses](https://arxiv.org/abs/2007.14962)
+    - **SSST**
+    - 对DESI这样的大尺度巡天：The Cartesian power spectrum analysis of anisotropic galaxy clustering based on the Fourier plane wave basis makes a number of assumptions, including the local plane-parallel approximation, that will no longer be valid
+    - We also release our public code Harmonia (https://github.com/MikeSWang/Harmonia) for galaxy clustering likelihood inference in spherical Fourier or hybrid-basis analyses.
+
+- [Cosmological Model Parameter Dependence of the Matter Power Spectrum Covariance from the DEUS-PUR Cosmo Simulations](https://arxiv.org/abs/2007.14984)
+    - The Dark Energy Universe Simulation - Parallel Universe Runs (DEUS-PUR) Cosmo. These consist of 512 realizations for 10 different cosmologies
+    - Using a Fisher matrix approach, we evaluate the impact of using a covariance estimated at a fiducial model rather than the true underlying cosmology. We find that the estimated 1σ errors are affected at approximately 5%, 20%, 50% and 120% level when assuming non-fiducial values
+    - These results suggest that the use of cosmology-dependent covariances is key for precision cosmology.
+
+- [Analytic marginalization of N(z) uncertainties in tomographic galaxy surveys](https://arxiv.org/abs/2007.14989)
+    - We allow for arbitrary deviations from the best-guess N(z) governed by a general covariance matrix describing the uncertainty in our knowledge of redshift distributions.
+    - by linearly expanding the theory predictions around a fiducial model, this marginalization can be performed analytically, resulting in a modified data covariance matrix that effectively downweights the modes of the data vector that are more sensitive to redshift distribution variations.
+
+- [A Diffuse Metal-Poor Component of the Sagittarius Stream Revealed by the H3 Survey](https://arxiv.org/abs/2007.14408)
+    - We use data from Gaia and the H3 Stellar Spectroscopic Survey to identify 823 high-quality Sagittarius members based on their angular momenta
+    - Stream stars span a wide range in [Fe/H] from −0.2 to ≈−3.0, with a mean overall metallicity of ⟨[Fe/H]⟩=−0.99
+    - 金属丰度和运动学相关 At the lowest metallicities ([Fe/H]≲−2), the majority of stars (69%) belong to this kinematically-offset diffuse population.
+
+- [Double-peak emission line galaxies in the SDSS catalogue. A minor merger sequence](https://arxiv.org/abs/2007.14410)
+    - Relying on RCSED, we developed an automated selection procedure and found 5663 double-peak emission line galaxies at z<0.34 corresponding to 0.8% of the parent database.
+    - 和没有double peak的对照组比，double peak样本里的S0更多；pure disc更少；中心的SF和尘埃消光更高
+    - The DP galaxies show larger stellar velocity dispersions and they deviate from the Tully-Fisher relation for both late-type and S0 galaxies.
+
+- [Measuring accretion disk sizes of lensed quasars with microlensing time delay in multi-band light curves](https://arxiv.org/abs/2007.14416)
+    - We first investigate how microlensing time delay changes with assumptions on the initial mass function (IMF) and find that the more massive microlenses produce the sharper distributions of microlensing time delays.
+    - We also find that the magnification probability distributions for different IMFs are indistinguishable from each other.
+    - We present a new method to measure the color-dependent source size in lensed quasars using the microlensing time delays inferred from multi-band light curves.
+
+- [An analytic model for OIII fine structure emission from high redshift galaxies](https://arxiv.org/abs/2007.14439)
+    - ALMA在z~9的EoR星系里看到了OIII 88micron发射线，给出一个物理模型
+    - OIII光度由HII区中自由电子密度，气体金属丰度，H电离光子发射率，电离谱的shape决定
+    - Applying our model to existing ALMA data at z∼6−9, we derive lower bounds on the gas metallicity and upper bounds on the gas density in the HII regions of these galaxies.
+
+- [Validation of Emission-Line Galaxies Target Selection Algorithms for the Dark Energy Spectroscopic Instrument Using the MMT Binospec](https://arxiv.org/abs/2007.14484)
+    - **SSST**
+    - 检验ELG target selection：These ELG targets will be pre-selected by drawing a selection region on the g−r vs. r−z colour-colour plot, where high redshift ELGs form a separate locus from the lower redshift ELGs and interlopers.
+    - MMTBinospec观测17个小DESI天区中3种不同算法挑选的ELG：To do this, we selected 17 small patches in the DESI footprint where we run the three target selection algorithms to pre-select ELGs based on their photometry.
+    - We find that although NDM performed the best, simple changes in the FDR definition would also yield sufficient performance.
+
+- [Validation of Emission-Line Galaxies Target Selection Algorithms for the Dark Energy Spectroscopic Instrument Using the MMT Binospec](https://arxiv.org/abs/2007.14484)
+    - Swift观测，30年内 S1.5→S2→S1.8
+    - We clearly find that the X-ray flux tightly follows the optical spectral transition 但X-ray光谱形状不变
+
+- [X-ray Observations of a [C II]-bright, z=6.59 Quasar/Companion System](https://arxiv.org/abs/2007.14571)
+    - 很深的X-ray Chandra观测，是一个并合系统：we do not detect the companion in X-rays.
+    - QSO有很弱的X-ray探测：We highlight two possible interpretations of this result: the quasar has a steep value of Γ - potentially related to observed ongoing Eddington accretion - thereby pushing much of the emission out of our observed band, or the quasar has a more normal spectrum (Γ∼2) but is therefore less X-ray luminous
+
+- [An efficient hybrid method to produce high resolution large volume dark matter simulations for semi-analytic models of reionisation](https://arxiv.org/abs/2007.14624)
+    - We extend the mass resolution of N-body simulations using a Monte Carlo algorithm 主要是为了再电离的模拟，需要足够大的volume，但同时要保证能分解小的halo
+    - Comparison of high resolution large volume simulations with both small volume or low resolution simulations indicates that both low resolution and small volume simulations lead to reionisation ending too rapidly.
+
+- [Characterising the target selection pipeline for the Dark Energy Spectroscopic Instrument Bright Galaxy Survey](https://arxiv.org/abs/2007.14950)
+    - **SSST**
+    - 主要的系统问题：tar-galaxy separation, contamination by fragmented stars and bright galaxies, and completeness at low surface brightness
+    - 利用Gaia测光建立mask来避免亮星干扰；通过和GAMA比较来研究完备性；与Mock和SDSS比较clustering性质
+
+- [Detection of 15 bursts from FRB 180916.J0158+65 with the uGMRT](https://arxiv.org/abs/2007.14404)
+    - 有16.35天周期观测的FRB的后续观测：We observed the source at 550-750 MHz for ∼2 hours each during three successive cycles at the peak of its expected active period. We find 0, 12, and 3 bursts respectively
+    - Burst强度变化很快；The times of arrival of the detected bursts rule out many possible aliased solutions, strengthening the findings of the 16.35-day periodicity.
