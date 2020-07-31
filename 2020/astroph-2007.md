@@ -1416,3 +1416,60 @@
 - [Detection of 15 bursts from FRB 180916.J0158+65 with the uGMRT](https://arxiv.org/abs/2007.14404)
     - 有16.35天周期观测的FRB的后续观测：We observed the source at 550-750 MHz for ∼2 hours each during three successive cycles at the peak of its expected active period. We find 0, 12, and 3 bursts respectively
     - Burst强度变化很快；The times of arrival of the detected bursts rule out many possible aliased solutions, strengthening the findings of the 16.35-day periodicity.
+
+----
+
+### July 30
+
+- [Dark Energy Survey Year 1 Results: Constraining Baryonic Physics in the Universe](https://arxiv.org/abs/2007.15026)
+    - **Interesting, Important**
+    - 用DES Y1 3x2pt和BAO以及CMB观测来限制AGN反馈强度; 重子物理模型来自Hydro模拟的PCA分析
+    - We show that at the level of DES Y1 constraining power, one PC is sufficient to describe the variation of baryonic effects in the observables, and the first PC amplitude (Q1) generally reflects the strength of baryon feedback 加入对Q1的限制后，能改进S8限制 20%
+    - 通过DES Y1 + BAO + Planck已经可以排除一些AGN feedback模型
+
+- [Cosmological constraints with the sub-millimetre galaxies Magnification Bias after large scale bias corrections](https://arxiv.org/abs/2007.15134)
+    - The study of the magnification bias produced on high z sub-mm galaxies by foreground galaxies through the analysis of the cross-correlation function 作为宇宙学测量
+    - The large scale bias corrected CCFs are measured using a background sample of H-ATLAS galaxies with photometric redshift > 1.2 and two different foreground samples 用HOD模型去建模
+    - Mainly confirming their conclusions: a lower bound on Ωm>0.22 at 95% C.L. and an upper bound σ8<0.97 at 95% C.L. 
+
+- [The Sejong Suite: Cosmological Hydrodynamical Simulations with Massive Neutrinos, Dark Radiation, and Warm Dark Matter](https://arxiv.org/abs/2007.15279)
+    - 主要目标是 modeling the Lyman-Alpha (LyA) forest
+    - Noticeably, for the first time, we simulate extended mixed scenarios describing the combined effects of warm dark matter, neutrinos, and dark radiation, modeled consistently by taking into account the neutrino mass splitting.
+
+- [KiDS-1000 Cosmology: Multi-probe weak gravitational lensing and spectroscopic galaxy clustering constraints](https://arxiv.org/abs/2007.15632)
+    - **Important**
+    - 3x2pt宇宙学分析：This combination of large-scale structure probes breaks the degeneracies between cosmological parameters for individual observables, resulting in a constraint on the structure growth parameter S8=0.766+0.020−0.014
+    - The recovered S8 amplitude is low, however, by 8.3±2.6 % relative to Planck.
+    - We quantify the level of agreement between the CMB and our large-scale structure constraints using a series of different metrics, finding differences with a significance ranging between ∼3σ, when considering the offset in S8, and ∼2σ, when considering the full multi-dimensional parameter space. 
+
+- [KiDS-1000 Cosmology: Cosmic shear constraints and comparison between two point statistics](https://arxiv.org/abs/2007.15633)
+    - **Important**
+    - Cosmic Shear分析：Adopting a spatially flat ΛCDM model, we find S8=0.759+0.024−0.021 for our fiducial analysis, which is in 3σ tension with the prediction of the Planck Legacy analysis of the cosmic microwave background.
+    - 三种方法对比：We compare our fiducial COSEBIs (Complete Orthogonal Sets of E/B-Integrals) analysis with complementary analyses of the two-point shear correlation function and band power spectra, finding results to be in excellent agreement.
+
+- [KiDS-1000 catalogue: Redshift distributions and their calibration](https://arxiv.org/abs/2007.15635)
+    - **Important**
+    - The primary estimate is based on deep spectroscopic reference catalogues that are re-weighted with the help of a self-organising-map (SOM) to closely resemble the KiDS-1000 sources, split into five tomographic redshift bins in the photometric redshift range 0.1< zB ≤1.2
+    - This primary SOM estimate of the KiDS-1000 redshift distributions is complemented with an independent clustering redshift approach. After validation of the clustering-z on the same mock catalogues and a careful assessment of systematic errors
+
+- [Delayed Photons from Binary Evolution Help Reionize the Universe](https://arxiv.org/abs/2007.15012)
+    - we study how fesc changes when we include two different products of binary stellar evolution - stars stripped of their hydrogen envelopes and massive blue stragglers. 两种过程都能在星暴后10-200Myr内产生大量电离光子
+    - We find the relative importance of these photons are amplified with respect to escaped ionizing photons, because peaks in star formation rates (SFRs) and fesc are often out of phase by this 10-200 Myr. 而且小星系主要是通过双星产生LyC光子
+    - Overall, including stripped stars and massive blue stragglers increases our photon-weighted mean escape fraction by around 13% and 10%, respectively, resulting in a mean fesc of 17%.
+
+- [Characterizing Quasar CIV Emission-line Measurements from Time-resolved Spectroscopy](https://arxiv.org/abs/2007.15120)
+    - We use multi-epoch quasar spectroscopy to determine how accurately single-epoch spectroscopy can locate quasars in emission-line parameter space in order to inform investigations where time-resolved spectroscopy is not available 
+    - 非参数话的光谱发射线成分分析：We find that most of the quasars are well described by just two components, while more components signal a quasar likely to yield a successful reverberation mapping analysis.
+    - Multi-epoch spectroscopy reveals that single-epoch results do not significantly change where quasars are located in CIV parameter space and do not have a significant impact on investigations of the global Baldwin Effect
+    - Quasars with emission line properties indicative of higher L/LEdd are less variable, consistent with models with enhanced accretion disk density.
+
+- [Murchison Widefield Array detection of steep-spectrum, diffuse, non-thermal radio emission within Abell 1127](https://arxiv.org/abs/2007.15199)
+    - MWA+VLA观测：from a power law model fit we find a spectral index of −1.83±0.29 broadly consistent with relic-type sources
+    - Using Chandra observations we derive morphological estimators and confirm quantitatively that the cluster is in a disturbed dynamical state, consistent with the majority of phoenices and relics being hosted by merging clusters.
+
+- [The Next Generation Virgo Cluster Survey. XXXIV. Ultra-Compact Dwarf (UCD) Galaxies in the Virgo Cluster](https://arxiv.org/abs/2007.15275)
+    - **Relevant**
+    - We have identified more than 600 candidate UCDs, from the core of Virgo out to its virial radius.
+    - From a surface density map, we find the UCDs to be mostly concentrated within Virgo's main subclusters, around its brightest galaxies.
+    - We identify several subsamples of UCDs - i.e., the brightest, largest, and those with the most pronounced and/or asymmetric envelopes - that could hold clues to the origin of UCDs and possible evolutionary links with dwarf nuclei.
+    - We find some evidence for such a connection from the existence of diffuse envelopes around some UCDs, and comparisons of radial distributions of UCDs and nucleated galaxies within the cluster.
