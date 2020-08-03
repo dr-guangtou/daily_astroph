@@ -1430,7 +1430,7 @@
 - [Cosmological constraints with the sub-millimetre galaxies Magnification Bias after large scale bias corrections](https://arxiv.org/abs/2007.15134)
     - The study of the magnification bias produced on high z sub-mm galaxies by foreground galaxies through the analysis of the cross-correlation function 作为宇宙学测量
     - The large scale bias corrected CCFs are measured using a background sample of H-ATLAS galaxies with photometric redshift > 1.2 and two different foreground samples 用HOD模型去建模
-    - Mainly confirming their conclusions: a lower bound on Ωm>0.22 at 95% C.L. and an upper bound σ8<0.97 at 95% C.L. 
+    - Mainly confirming their conclusions: a lower bound on Ωm>0.22 at 95% C.L. and an upper bound σ8<0.97 at 95% C.L.
 
 - [The Sejong Suite: Cosmological Hydrodynamical Simulations with Massive Neutrinos, Dark Radiation, and Warm Dark Matter](https://arxiv.org/abs/2007.15279)
     - 主要目标是 modeling the Lyman-Alpha (LyA) forest
@@ -1440,7 +1440,7 @@
     - **Important**
     - 3x2pt宇宙学分析：This combination of large-scale structure probes breaks the degeneracies between cosmological parameters for individual observables, resulting in a constraint on the structure growth parameter S8=0.766+0.020−0.014
     - The recovered S8 amplitude is low, however, by 8.3±2.6 % relative to Planck.
-    - We quantify the level of agreement between the CMB and our large-scale structure constraints using a series of different metrics, finding differences with a significance ranging between ∼3σ, when considering the offset in S8, and ∼2σ, when considering the full multi-dimensional parameter space. 
+    - We quantify the level of agreement between the CMB and our large-scale structure constraints using a series of different metrics, finding differences with a significance ranging between ∼3σ, when considering the offset in S8, and ∼2σ, when considering the full multi-dimensional parameter space.
 
 - [KiDS-1000 Cosmology: Cosmic shear constraints and comparison between two point statistics](https://arxiv.org/abs/2007.15633)
     - **Important**
@@ -1458,7 +1458,7 @@
     - Overall, including stripped stars and massive blue stragglers increases our photon-weighted mean escape fraction by around 13% and 10%, respectively, resulting in a mean fesc of 17%.
 
 - [Characterizing Quasar CIV Emission-line Measurements from Time-resolved Spectroscopy](https://arxiv.org/abs/2007.15120)
-    - We use multi-epoch quasar spectroscopy to determine how accurately single-epoch spectroscopy can locate quasars in emission-line parameter space in order to inform investigations where time-resolved spectroscopy is not available 
+    - We use multi-epoch quasar spectroscopy to determine how accurately single-epoch spectroscopy can locate quasars in emission-line parameter space in order to inform investigations where time-resolved spectroscopy is not available
     - 非参数话的光谱发射线成分分析：We find that most of the quasars are well described by just two components, while more components signal a quasar likely to yield a successful reverberation mapping analysis.
     - Multi-epoch spectroscopy reveals that single-epoch results do not significantly change where quasars are located in CIV parameter space and do not have a significant impact on investigations of the global Baldwin Effect
     - Quasars with emission line properties indicative of higher L/LEdd are less variable, consistent with models with enhanced accretion disk density.
@@ -1473,3 +1473,49 @@
     - From a surface density map, we find the UCDs to be mostly concentrated within Virgo's main subclusters, around its brightest galaxies.
     - We identify several subsamples of UCDs - i.e., the brightest, largest, and those with the most pronounced and/or asymmetric envelopes - that could hold clues to the origin of UCDs and possible evolutionary links with dwarf nuclei.
     - We find some evidence for such a connection from the existence of diffuse envelopes around some UCDs, and comparisons of radial distributions of UCDs and nucleated galaxies within the cluster.
+
+----
+
+### July 31
+
+- [Probing Reionization and Early Cosmic Enrichment with the MgII Forest](https://arxiv.org/abs/2007.15747)
+    - Lya在IGM中“饱和”：strong low-ionization metal lines like the MgII 2796,2804 doublet will give rise to a detectable `metal-line forest' if the metals produced during reionization permeate the neutral IGM
+    - 在模拟中讨论MgII森林：treat the absorption as a continuous random field and measure its two-point correlation function, leveraging techniques from precision cosmology.
+    - We show that a realistic mock dataset of 10 JWST spectra can simultaneously determine the Mg abundance, [Mg/H], with a 1sigma precision of 0.02 dex and measure the global neutral fraction <x_HI> to 5% for a Universe with <x_HI> = 0.74 and [Mg/H] = -3.7.
+
+- [TARDIS Paper II: Synergistic Density Reconstruction from Lyman-alpha Forest and Spectroscopic Galaxy Surveys with Applications to Protoclusters and the Cosmic Web](https://arxiv.org/abs/2007.15994)
+    - We jointly reconstruct the underlying density field from simulated Lyman-Alpha forest observations at z∼2.5 and an overlapping galaxy survey. Lya提供低密度区域的信息，星系提供高密度区域的信息
+    - Since we reconstruct the velocity field and matter field jointly, we demonstrate the ability to evolve the mock observed volume further to z=0, allowing us to create a rigorous definition of "proto-cluster" as regions which will evolve into clusters.
+    - We apply our reconstructions to study protocluster structure and evolution, finding for realistic survey parameters we can provide accurate mass estimates of the z \approx 2 structures and their z = 0 fate.
+
+- [Baryonic feedback measurement from KV450 cosmic shear analysis](https://arxiv.org/abs/2007.16166)
+    - Estimating both cosmological and feedback parameters simultaneously, we obtain Ab=1.01+0.80−0.85, which shows a consistency with the dark matter-only (DMO) case at the ~1.2σ level and a tendency toward positive feedback
+    - Despite this full constraint of the feedback parameter, our S8 measurement (0.739+0.036−0.035) shifts by only ~6% of the statistical error
+
+- [X-ray study of the merging galaxy cluster Abell 3411-3412 with XMM-Newton and Suzaku](https://arxiv.org/abs/2007.15976)
+    - There is no evidence for a bow shock in front of the north-western “bullet” sub-cluster.
+
+- [Constraining the Gravitational Lensing of z≳6 Quasars from their Proximity Zones](https://arxiv.org/abs/2007.15657)
+    - 关于z=6.33的SDSS J0100+2802是否是被lensing过的：However, its Lyα-transparent proximity zone is the largest known at z>6, suggesting an intrinsically extreme ionizing luminosity. 能够通过proximity zone来限制intrinsic luminosity
+    - We then show that the large proximity zone of SDSS J0100+2802 rules out lensing magnifications of μ>4.9 at 95% probability
+
+- [Evidence of runaway gas cooling in the absence of supermassive black hole feedback at the epoch of cluster formation](https://arxiv.org/abs/2007.15660)
+    - **Interesting**
+    - We present the first observational evidence for massive, runaway cooling occurring in the absence of supermassive black hole feedback in the high-redshift galaxy cluster SpARCS104922.6+564032.5 (z=1.709).
+    - SFR~900 Msum/yr; is offset by dozens of kpc from the central galaxy; 位置不与任何星系重合
+    - 联系到ICL的起源：Intracluster stars are therefore not only produced by tidal stripping and the disruption of cluster galaxies, but can also be produced by runaway cooling of hot intracluster gas at early times
+
+- [The Blue Compact Dwarf Galaxy VCC 848 Formed by Dwarf-Dwarf Merging: HI Gas, Star Formation and Numerical Simulations](https://arxiv.org/abs/2007.15667)
+    - VCC 848, offering by far the clearest view of a gas-rich late-stage dwarf-dwarf merger.
+    - JVLA观测：VCC 848 has less than 30% of its HI gas concentrated within the central high-surface-brightness star-forming region, while the remaining HI is entrained in outlying tidal features.
+    - 整体SFR符合SFMS；HII区光度分布正常，但有超亮的HII区
+    - Our N-body/hydrodynamical simulations imply that VCC 848 is a merger between a gas-dominated primary progenitor and a gas-bearing star-dominated secondary. 并合并没有产生Nuclei Star Cluster
+
+- [The multi-phase ISM in the nearby composite AGN-SB galaxy NGC 4945: large (parsecs) scale mechanical heating](https://arxiv.org/abs/2007.15676)
+    - AGN-SB星系的分析：HIFI, PACS, SPIRE as well as APEX data
+    - The thermal structure derived from the 12CO multi-transition analysis suggests that mechanical heating, like shocks or turbulence, dominates the heating of the ISM in the nucleus of NGC 4945 located beyond 100 pc from the center of the galaxy.
+    - Shocks and/or turbulence are likely produced by the barred potential and the outflow, observed in X-rays.
+
+- [Constraining the origin and models of chemical enrichment in galaxy clusters using the Athena X-IFU](https://arxiv.org/abs/2007.15910)
+    - Transformational results shall be achieved through improvements in the energy resolution and effective area of X-ray observatories to detect rare metals (e.g. Na, Al) and constrain yet uncertain abundances (e.g. C, Ne, Ca, Ni).
+    - Starting from 100 ks of synthetic observations of 12 abundance ratios in the ICM of four simulated clusters, we demonstrate that the X-IFU will be capable of recovering the input chemical enrichment models at both low (z=0.1) and high (z=1) redshift
