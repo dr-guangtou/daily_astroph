@@ -294,3 +294,54 @@
 - [Measuring emission lines in J-PAS with artificial neural networks](https://arxiv.org/abs/2008.04287)
     - We used Artificial Neural Networks (ANNs) trained and tested with synthetic J-PAS photometry from CALIFA, MaNGA, and SDSS spectra
     - We can reproduce properly the main sequence of star forming galaxies from the determination of the EWs. With the CALMa training set we reach a precision of 0.101 and 0.091 dex for the [NII]/Hα and [OIII]/Hβ ratios in the SDSS testing sample
+
+----
+
+### Aug 12
+
+- [High-redshift radio galaxies: a potential new source of 21-cm fluctuations](https://arxiv.org/abs/2008.04315)
+    - 还是关于EDGES 21-cm信号超出的问题：we take into account the inhomogeneity of the radio background created by a population of high-redshift galaxies, and show that it adds a new type of 21-cm fluctuations to the well-known contributions of density, velocity, Ly-α coupling, heating and reionization.
+    - We find that a population of high-redshift galaxies even with a moderately-enhanced radio efficiency (unrelated to the EDGES result) can have a significant effect on the 21-cm power spectrum and global signal in models with weak X-ray heating.
+
+- [Debiased Galaxy Cluster Pressure Profiles from X-ray Observations and Simulations](https://arxiv.org/abs/2008.04334)
+    - **Relevant**
+    - 考虑了hydro-bias的平均星系团压力profile: We find adjusted masses, M500c, that are .15% higher and scaled pressures P/P500c that have .35% lower normalization than previously inferred.
+    - Debiased Pressure Profile (DPP) 能够很好的用NFW拟合
+    - When the DPP is used to model the Sunyaev-Zel’dovich (SZ) effect, we find that the integrated Compton Y −M relation has only minor deviations from self-similar scaling
+
+- [Cross-correlation between Subaru Hyper Suprime-Cam Galaxy Weak Lensing and Planck Cosmic Microwave Background Lensing](https://arxiv.org/abs/2008.04369)
+    - The cross-correlation signal is measured at a significance level of 3.1σ. The amplitude of our best-fit model with respect to the best-fit 2018 Planck cosmology is A = 0.81 ± 0.25, consistent with A = 1.
+
+- [PSF Deconvolution of the IFU Data and Restoration of Galaxy Stellar Kinematics](https://arxiv.org/abs/2008.04313)
+    - We deconvolve the IFU data by applying the Lucy-Richardson algorithm to the 2D image slice at each wavelength.
+    - We show that the proxy of the spin parameter λRe can be accurately measured from the deconvolved IFU data.
+
+- [Structure and rotation of young massive star clusters in a simulated dwarf starburst](https://arxiv.org/abs/2008.04320)
+    - GRIFFIN模拟里星暴矮星系中星团的3-D形状和运动学分析：The simulated clusters follow a surprisingly tight relation between the specific angular momentum and mass with indications of two sub-populations.
+    - 1. 大质量星团 >3x10^4 Msun角动量高，椭率低，shape和运动学符合
+    - 2. 低质量星团的单位角动量更低，椭率分布更广， typically misaligned indicating that they are not shaped by rotation.
+    - The massive clusters have angular momentum parameters λR≲0.5 and show Gauss-Hermite coefficients h3 that are anti-correlated with the velocity, indicating asymmetric line-of-sight velocity distributions as a signature of a dissipative formation process. 可能是正在形成中的GC
+
+- [Prospects for distinguishing galaxy evolution models with surveys at redshifts z≳4](https://arxiv.org/abs/2008.04322)
+    - we calibrate a set of universal f∗ and feedback-regulated models to the same set of rest-ultraviolet z≳4 observations, and find that a rapid, ∼(1+z)−3/2 decline in both the efficiency of dust production and duty cycle of star formation are needed to reconcile feedback-regulated models with current observations.
+    - 在UVLF上无法区分这两种模型，需要星系成团性信息：universal and feedback-regulated models differ in predictions for the typical galaxy bias at the level of 0.1≲Δ⟨b⟩≲0.3 over 4≲z≲10
+
+- [The MOSDEF Survey: Differences in SFR and Metallicity for Morphologically-Selected Mergers at z~2](https://arxiv.org/abs/2008.04327)
+    - Our results indicate SFR enhancement and metallicity deficit for merging systems relative to non-merging systems for a fixed stellar mass at z~2
+
+- [The MOSDEF Survey: Calibrating the relationship between Hα star-formation rate and radio continuum luminosity at 1.4<z<2.6](https://arxiv.org/abs/2008.04329)
+    - Using a stacking analysis we compare the observed radio continuum luminosities with those predicted from the dust-corrected Hα SFR assuming a range of z∼0 relations. We find no evidence for a systematic evolution with redshift
+    - We conclude that locally calibrated relations between SFR and radio continuum luminosity remain valid out to z∼2.
+
+- [A model for the formation of stellar associations and clusters from giant molecular clouds](https://arxiv.org/abs/2008.04453)
+    - It is found that once the clouds disperse due to stellar feedback, both self-gravitating star clusters and unbound stars generally remain, which arise from the same underlying continuum of substructured stellar density, ie. the hierarchical cluster formation scenario.
+    - The fraction of stars that are born within gravitationally-bound star clusters is related to the overall cloud star formation efficiency set by stellar feedback, but has significant scatter due to stochastic variations
+    - Within our model, the ratio of the strength of gravity to stellar feedback is the key parameter setting the masses of star clusters, and of the various feedback channels direct stellar radiation(photon momentum and photoionization) is the most important on GMC scales.
+
+- [HI imaging of dwarf star-forming galaxies: Masses, morphologies and gas deficiencies](https://arxiv.org/abs/2008.04528)
+    - GMRI HI观测：The average value of the peak HI mass surface density is estimated to be ∼2.5~M⊙~pc−2, which is significantly less compared to that in massive spiral galaxies.
+    - 星系群里的dwarf能看到HI的匮乏：A HI mass deficiency (with DEFHI>0.3) is noticed in majority of galaxies for their optical diameters as compared to galaxies in field environments.
+
+- [Progenitor-mass-dependent yields amplify intrinsic scatter in dwarf-galaxy elemental abundance ratios](https://arxiv.org/abs/2008.04901)
+    - 模拟里面的化学演化都是使用“IMF-平均过的” SN Yields，没有考虑不同质量的SN的差别
+    - While NuGrid exhibits lower aggregate α-element production than default-FIRE yields, we find that its explicit mass dependence substantially widens the intrinsic scatter in the simulated [Fe/H]-[α/Fe] -- a phenomenon potentially visible in recent observations of dwarf galaxies.
