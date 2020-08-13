@@ -345,3 +345,78 @@
 - [Progenitor-mass-dependent yields amplify intrinsic scatter in dwarf-galaxy elemental abundance ratios](https://arxiv.org/abs/2008.04901)
     - 模拟里面的化学演化都是使用“IMF-平均过的” SN Yields，没有考虑不同质量的SN的差别
     - While NuGrid exhibits lower aggregate α-element production than default-FIRE yields, we find that its explicit mass dependence substantially widens the intrinsic scatter in the simulated [Fe/H]-[α/Fe] -- a phenomenon potentially visible in recent observations of dwarf galaxies.
+
+----
+
+### Aug 13
+
+- [The Distribution and Evolution of Quasar Proximity Zone Sizes](https://arxiv.org/abs/2008.04911)
+    - Cosmic Reionization On Computers (CROC)模拟，能分辨出LLS来
+    - Before reionization most quasar proximity zone sizes grow steadily for ∼10 Myr, while after reionization they grow rapidly but only for ∼0.1 Myr.
+    - We find that ∼1−2% of old quasars (30 Myr old) display extremely small proximity zone sizes (<1 proper Mpc), of which the vast majority are due to the occurrence of a damped Lyα absorber (DLA) or a Lyman limit system (LLS) along the line of sight.
+
+- [Extensions to models of the galaxy-halo connection](https://arxiv.org/abs/2008.04913)
+    - **Relevant**
+    - 看SHAM和HOD在TNG模拟里的表现：We observe that in their most straightforward implementations, both models fail to reproduce the two-point clustering measured in TNG.
+    - 基于Vmax和Vpeak的SHAM表现最好，Splitting the total sample into sub-populations, we discover that SHAM overpredicts the clustering of high-mass, blue, star-forming, and late-forming galaxies and uderpredicts that of low-mass, red, quiescent, and early-forming galaxies.
+    - 拓展HOD模型加入第二参数：the hydrodynamical galaxy distribution disfavors σ2Rhalfmass and the total potential as secondary parameters, while the environment and velocity anisotropy samples are consistent with full-physics across all statistical probes examined.
+
+- [The Impact of Cosmic Rays on Thermal Instability in the Circumgalactic Medium](https://arxiv.org/abs/2008.04915)
+    -
+
+- [Constraints on precipitation-limited hot halos from massive galaxies to galaxy clusters](https://arxiv.org/abs/2008.04917)
+    - 简单的，基于precipitation limit的解析模型：its main free parameter is the central ratio of gas cooling timescale to free-fall timescale (tcool/tff).
+    - We find tcool/tff∼50−110, depending on the model extrapolation beyond the halo virial radius and possibly on biases present in the data-sets used in the fitting analysis.
+    - However, the best fits for tcool/tff substantially exceed the values typically derived from X-ray observations of individual systems (tcool/tff∼10−30).
+
+- [The correlation of outflow kinematics with star formation rate -- Gas outflows in AGNs. VI](https://arxiv.org/abs/2008.04919)
+    - The strength of ionized gas outflows, measured by the velocity dispersion and velocity shift of the \OIII\ emission line, clearly shows a correlation with SFR.
+    - Compared to star-forming galaxies in the main sequence, both type 1 and type 2 AGNs show sSFR similar to that of non-AGN galaxies, indicating no instantaneous AGN feedback
+
+- [The MOSDEF Survey: Untangling the Emission-line Properties of z∼2.3 Star-forming Galaxies](https://arxiv.org/abs/2008.04924)
+    - 看高红移SF星系发射线性质和近邻星系的差异: we define two populations of z∼2.3 MOSDEF galaxies. These include the "high" population that is offset towards higher [O III]5008/Hβ and/or [N II]6585/Hα with respect to the local SDSS sequence and the "low" population that overlaps the SDSS sequence.
+    - Star-forming regions in the more offset galaxies are characterized by harder ionizing spectra at fixed nebular oxygen abundance.
+    - "High" sample size更小，质量更低，has higher specific star-formation rate and star-formation-rate surface density values and is slightly younger compared to the "low" population.
+
+- [The Hestia project: simulations of the Local Group](https://arxiv.org/abs/2008.04926)
+    - High-resolutions Environmental Simulations of The Immediate Area
+    - Within this region a simulated Local Group consisting of a Milky Way and Andromeda like galaxy forms, whose description is in excellent agreement with observations.
+
+- [On the Dark Matter Halos of Optical and IR-selected AGN in the Local Universe](https://arxiv.org/abs/2008.04941)
+    - **Relevant**
+    - 用总卫星星系光度看SDSS中的AGN的halo质量: Both optically-selected and WISE-selected AGN have L_sat values twice as high as non-active galaxy samples when controlling for stellar mass and mean stellar age. 意味着halo质量更大
+    - When only controlling for host galaxy stellar mass, WISE-selected AGN also have higher L_sat values than optical AGN at the factor of two level, consistent with previous results comparing the clustering of obscured and unobscured AGN.
+    - Although AGN luminosity correlates with mean stellar age, the difference in stellar age between the WISE and optical samples cannot be fully explained by differences in their AGN luminosity distributions.
+
+- [Fate of stellar bars in minor merger of galaxies](https://arxiv.org/abs/2008.04942)
+    - We demonstrate that the central stellar bar, initially present in the host galaxy, undergoes a transient bar amplification phase after each pericentre passage of the satellite
+    - Once the merger happens, the central stellar bar weakens substantially, followed by a complete destruction of the bar in merger remnant for some models. 并合进来的星系增加了中心区域的恒星质量和角动量，导致了棒结构的削弱。
+    - This demonstrates that minor merger of galaxies is a plausible avenue for bar weakening/destruction in disc galaxies.
+
+- [The ubiquity of AGN winds in Seyfert 1 galaxies at low redshift](https://arxiv.org/abs/2008.04976)
+    - In 37% of the Sy1s the outflows appear as broad, blue-shifted, of the [OIII]5007, with a mean maximum velocity V_max ~1014 km/s$, consistent with AGN winds.
+    - 分成有宽Balmer线的和只有窄Balmer线的，以及有没有wind的 
+    - 1. the BH mass is systematically higher and the power-law steeper in the Sy1B-Sy1Bw than in the Sy1N-Sy1Nw
+    - 2. V_max is higher in the Sy1Bw than in the Sy1Nw, correlated in both groups with the BH mass and bolometric luminosity
+    - 3. the Eddington ratio and SFR are higher in the Sy1 with outflows
+    - 4. the specific star formation rates (sSFRs) of the Sy1s are normal for their morphology and mass; typical of early-type spiral galaxies in the green valley, far from the quenched regime
+
+- [The NIBLES bivariate luminosity--HI mass distribution function revised using Arecibo follow-up observations](https://arxiv.org/abs/2008.05077)
+    - Our total follow-up sample consists of 234 galaxies, and it spans the entire luminosity and color range of the parent NIBLES sample of 2600 nearby (900 < cz< 12,000 kms−1) SDSS galaxies.
+    - This indicates that while low HI-mass-to-light ratio galaxies do not contribute much to the one-dimensional HIMF, their inclusion has a significant impact on the densities in the two-dimensional distribution.
+
+- [The Stellar Mass Assembly of Low Redshift, Massive, Central Galaxies in SDSS and the TNG300 simulation](https://arxiv.org/abs/2008.05114)
+    - **Relevant**
+    - 看恒星质量的聚集对SHMR的影响：We find that galaxies with higher stellar masses (at constant halo mass) have on average older lookback times, similar to previous studies of galaxy assembly.
+    - We also find that galaxies at higher halo mass (at constant stellar mass) have younger lookback times, possibly due to a larger reservoir of gas for star formation.
+    - An exception to this is a sub sample with high stellar-to-halo mass ratios, which are likely massive, field spirals.
+    - 观测和模拟符合得不错，只是具体的assembly time不同，可能是AGN feedback的影响
+
+- [The Star-Formation Properties of the Observed and Simulated AGN Universe: BAT vs EAGLE](https://arxiv.org/abs/2008.05115)
+    - After correcting for the known +0.2 dex offset in the SFRs between EAGLE and previous observations, we find agreement in the SFR and X-ray luminosity distributions; however we find that the stellar masses in EAGLE are 0.2−0.4 dex greater than the observational sample, which consequently leads to lower sSFRs.
+    - We also use EAGLE to select a sample of AGN host galaxies at high and low redshift and follow their characteristic evolution from z=8 to z=0. We find similar behaviour between these two samples, whereby star formation is quenched when the black hole goes through its phase of most rapid growth.
+
+- [CFHT MegaPrime/MegaCam u-band source catalogue of the AKARI North Ecliptic Pole Wide field](https://arxiv.org/abs/2008.05224)
+    - We present the Canada-France-Hawaii Telescope (CFHT) MegaPrime/MegaCam u-band source catalogue of the AKARI NEP-Wide field.
+    - 82 observed frames covering 3.6 deg2
+    - The 5σ limiting magnitude, seeing FWHM, and the magnitude at 50 per cent completeness are 25.38 mag (25.79 mag in the deep region), 0.82 arcsec (0.94 arcsec) and 25.06 mag (25.45 mag)
