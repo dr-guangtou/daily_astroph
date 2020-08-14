@@ -362,7 +362,6 @@
     - 拓展HOD模型加入第二参数：the hydrodynamical galaxy distribution disfavors σ2Rhalfmass and the total potential as secondary parameters, while the environment and velocity anisotropy samples are consistent with full-physics across all statistical probes examined.
 
 - [The Impact of Cosmic Rays on Thermal Instability in the Circumgalactic Medium](https://arxiv.org/abs/2008.04915)
-    -
 
 - [Constraints on precipitation-limited hot halos from massive galaxies to galaxy clusters](https://arxiv.org/abs/2008.04917)
     - 简单的，基于precipitation limit的解析模型：its main free parameter is the central ratio of gas cooling timescale to free-fall timescale (tcool/tff).
@@ -395,7 +394,7 @@
 
 - [The ubiquity of AGN winds in Seyfert 1 galaxies at low redshift](https://arxiv.org/abs/2008.04976)
     - In 37% of the Sy1s the outflows appear as broad, blue-shifted, of the [OIII]5007, with a mean maximum velocity V_max ~1014 km/s$, consistent with AGN winds.
-    - 分成有宽Balmer线的和只有窄Balmer线的，以及有没有wind的 
+    - 分成有宽Balmer线的和只有窄Balmer线的，以及有没有wind的
     - 1. the BH mass is systematically higher and the power-law steeper in the Sy1B-Sy1Bw than in the Sy1N-Sy1Nw
     - 2. V_max is higher in the Sy1Bw than in the Sy1Nw, correlated in both groups with the BH mass and bolometric luminosity
     - 3. the Eddington ratio and SFR are higher in the Sy1 with outflows
@@ -420,3 +419,66 @@
     - We present the Canada-France-Hawaii Telescope (CFHT) MegaPrime/MegaCam u-band source catalogue of the AKARI NEP-Wide field.
     - 82 observed frames covering 3.6 deg2
     - The 5σ limiting magnitude, seeing FWHM, and the magnitude at 50 per cent completeness are 25.38 mag (25.79 mag in the deep region), 0.82 arcsec (0.94 arcsec) and 25.06 mag (25.45 mag)
+
+----
+
+### Aug 14
+
+- [Orbital distribution of infalling satellite halos across cosmic time](https://arxiv.org/abs/2008.05710)
+    - we quantify the orbital distribution of subhalos at infall time and its mass and redshift dependence in a large dynamic range 并提供一个可以用于SAM的模型
+    - 掉入时的速度分布是universal的，峰值在host的virial速度上；下落轨道在速度接近维里速度时是radially biased的
+    - Subhalos that have a higher host mass or a higher sub-to-host ratio tend to move along a more radial direction with a relatively smaller angular momentum than their low host mass or low sub-to-host ratio counterparts
+    - The above trends are consistent with the scenario where the dynamical environment is relatively colder for more massive structures because their own gravity is more likely to dominate the local potentials.
+
+- [Perturbation theory for modeling galaxy bias: validation with simulations of the Dark Energy Survey](https://arxiv.org/abs/2008.05991)
+    - **Relevant**
+    - We find that an effective PT model with five galaxy bias parameters provides a good description of the 3D correlation functions above scales of 4 Mpc/h and z<1.
+    - We also measure the relationship between the non-linear and linear bias parameters and compare them to their expected co-evolution values.
+
+- [Pre-processing, group accretion and the orbital trajectories of associated subhaloes](https://arxiv.org/abs/2008.05475)
+    - 基于高分辨N-body模拟：We find that roughly 21 per cent of subhaloes within a host's virial radius are currently on first infall, and have not yet reached their first orbital pericentre; roughly 44 per cent are still approaching their first apocentre after infall.
+    - 半数的被吸积的系统经历了pre-processed，20%是以在星系群中被一起吸积
+    - We confirm that the entire population of accreted subhaloes - often referred to as "associated" subhaloes -- extend far beyond the virial radii of their hosts, with roughly half currently residing at distances that exceed ≈1.2×r200
+    - Many of these backsplash haloes have gained orbital energy since infall, and occupy extreme orbits that carry them well past their initial turnaround radii.
+    - Within 2 virial radii from host centres, the concentrations of first-infall halos are remarkably similar those of isolated field halos, whereas backsplash haloes, as well as systems that were pre-processed, are considerably more concentrated.
+
+- [Satellite Luminosity Functions of Low-Mass Galaxies](https://arxiv.org/abs/2008.05479)
+    - We study satellite galaxy populations as a function of host stellar mass 9.5< log(M∗/M⊙)<10.5 and redshifts 0.1< z<0.8 in the COSMOS survey
+    - We find that the satellite populations of low-mass host galaxies, which we measure down to satellite masses equivalent to the Fornax dwarf spheroidal satellite of the Milky Way, remain mostly unchanged through time.
+    - We test the constraining power of our measured cumulative luminosity function to calculate the low-mass end slope of the M∗−Mhalo relation. These new satellite luminosity function measurements are consistent with ΛCDM predictions
+
+- [The Kinematics and Dark Matter Fractions of TNG50 Galaxies at z=2 from an Observational Perspective](https://arxiv.org/abs/2008.05486)
+    - 用TNG50模拟高红移SFG观测，主要是和Genzel et al. (2020)的观测结果比较：The simulated galaxies show clear signs of disc rotation but mostly exhibit more asymmetric rotation curves, partly due to large intrinsic radial and vertical velocity components.
+    - From dynamical modelling we infer rotation speeds and velocity dispersions that are in the ballpark of observational results. We find low central dark matter fractions compatible with observations (fvDM(<Re)=v2DM(Re)/v2circ(Re)∼0.29±0.11)
+    - 但是盘的有效半径太小了：at fixed Re the TNG50 dark matter fractions are too high by factors of 1.5−5.
+
+- [On the Evolution of the Globular Cluster System in NGC 1052-DF2: Dynamical Friction, Globular-Globular Interactions and Galactic Tides](https://arxiv.org/abs/2008.05490)
+    - As the velocity dispersion among the GCs is comparable to the expected internal dispersions of the individual GCs, the galaxy might be highly conducive to GC-GC merging. 也许可以解释奇怪的GCLF
+    - 进行了新的模拟：Somewhat surprisingly, we infer a low merger rate of ∼0.03 Gyr−1. The main reason is that the GCs are too dense for tidal shock capture, caused by impulsive encounters among them, to operate efficiently (we infer a tidal capture rate of only ∼0.002 Gyr−1).
+    - The low merger rate inferred here makes it unlikely that the unusually large luminosities of the GCs can be explained as a result of past GC-GC mergers.
+    - We predict that it is improbable for the GCs to reveal tidal features, something that can be tested with future deep observations.
+
+- [A Comparative Study of Mid-Infrared Star-Formation Rate Tracers and Their Metallicity Dependence](https://arxiv.org/abs/2008.05496)
+    - 红外SFR指示: mid-infrared emission in the 12.81μm [Ne II] line, the 15.56μm [Ne III] line, and emission features from polycyclic aromatic hydrocarbons (PAHs) between 5.2 and 14.7μm.
+    - 用33 GHz的热辐射成分作为校准：Correlations between mid-IR emission features and thermal 33 GHz star-formation rates (SFR) show significant metallicity-dependent scatter and offsets. 金属丰度依赖严重；和Halpha类似；可以结合多个特征得到一个不依赖于丰度的指示
+    - PAH emission alone is a poor SFR tracer due to a strong metallicity dependence: lower metallicity regions show decreased PAH emission relative to their SFR compared to higher metallicity regions.
+
+- [Piercing through Highly Obscured and Compton-thick AGNs in the Chandra Deep Fields. II. Are Highly Obscured AGNs the Missing Link in the Merger-Triggered AGN-Galaxy Coevolution Models?](https://arxiv.org/abs/2008.05863)
+    - These findings together point toward a scenario where secular processes (e.g., galactic-disk instabilities), instead of mergers, are most probable to be the leading mechanism that triggers accretion activities of X-ray-selected highly obscured AGNs.
+
+- [The Palomar Transient Factory Core-Collapse Supernova Host-Galaxy Sample. I. Host-Galaxy Distribution Functions and Environment-Dependence of CCSNe](https://arxiv.org/abs/2008.05988)
+    - This sample includes 888 SNe of 12 distinct classes out to redshift z≈1
+    - The galaxy mass functions of Type Ic, Ib, IIb, II, and IIn SNe ranges from 105 to 1011.5 M⊙, probing the entire mass range of star-forming galaxies down to the least-massive star-forming galaxies known.
+    - The galaxy mass distributions are consistent with models of star-formation-weighted mass functions. Regular CCSNe are hence direct tracers of star formation
+    - Type Ib/c SNe prefer galaxies with slightly higher masses (i.e., higher metallicities) and star-formation rates than Type IIb and II SNe
+    - H-poor SLSNe and SNe~Ic-BL are scarce in galaxies above 1010 M⊙. Their progenitors require environments with metallicities of <0.4 and <1 solar 年轻星族年龄，低金属丰度对SLSNe很重要
+
+- [Effects of environment on stellar metallicity profiles of late-type galaxies in the CALIFA survey](https://arxiv.org/abs/2008.06012)
+    - We find significant differences between group and field late-type galaxies in terms of their metallicity, in the sense that group galaxies are systematically more metallic than their field counterparts.
+    - We find that field galaxies have, in general, metallicity profiles that show a negative gradient in their inner regions, and a shallower profile at larger radii. This contrasts with the metallicity profiles of galaxies in groups, which tend to be flat in the inner regions, and to have a negative gradient in the outer parts.
+
+- [A Radio Polarimetric Study to Disentangle AGN Activity and Star-Formation in Seyfert Galaxies](https://arxiv.org/abs/2008.06039)
+    - EVLA in full-polarization mode in the B-array configuration. 区分射电宁静AGN中射电辐射的来源，SF，吸积，jet？
+    - There is tentative evidence that Seyferts tend to show more polarized structures than starburst galaxies at the resolution of our observations.
+    - We find that unlike a sample of Seyfert galaxies hosting kilo-parsec scale radio (KSR) emission, starburst galaxies with superwinds do not show radio-excess compared to the radio-FIR correlation. This suggests that shock acceleration is not adequate to explain the excess radio emission seen in Seyferts and hence most likely have a jet-related origin.
+    - We find that the power contribution of AGN jet, AGN accretion, and star formation is more or less comparable in our sample of Seyfert galaxies.
