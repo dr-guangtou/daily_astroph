@@ -482,3 +482,44 @@
     - There is tentative evidence that Seyferts tend to show more polarized structures than starburst galaxies at the resolution of our observations.
     - We find that unlike a sample of Seyfert galaxies hosting kilo-parsec scale radio (KSR) emission, starburst galaxies with superwinds do not show radio-excess compared to the radio-FIR correlation. This suggests that shock acceleration is not adequate to explain the excess radio emission seen in Seyferts and hence most likely have a jet-related origin.
     - We find that the power contribution of AGN jet, AGN accretion, and star formation is more or less comparable in our sample of Seyfert galaxies.
+
+----
+
+### Aug 16
+
+- [The completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: geometry and growth from the anisotropic void-galaxy correlation function in the luminous red galaxy sample](https://arxiv.org/abs/2008.06060)
+    - We use a reconstruction method to undo redshift-space distortion (RSD) effects from the galaxy field before applying a watershed void-finding algorithm to remove bias from the void selection
+    - In combination with the consensus galaxy BAO and full-shape analyses of the same sample, we obtain fσ8=0.447±0.039, DM/rd=17.48±0.23 and DH/rd=20.10±0.34 与LambdaCDM符合
+
+- [TDCOSMO V: strategies for precise and accurate measurements of the Hubble constant with strong lensing](https://arxiv.org/abs/2008.06157)
+    - 2% precision has been achieved with 7 Time-Delay Cosmography (TDCOSMO) lenses
+    - However, without assumptions on the radial mass density profile -- and relying exclusively on stellar kinematics to break the mass-sheet degeneracy - the precision drops to 8\% with the current data of the 7 TDCOSMO lenses
+    - 基于Birrer+2020，讨论在不假设mass profile的情况下考虑mass-sheet简并
+    - With existing samples and technology, 3.3\% precision on H0 can be reached by adding spatially resolved kinematics of the 7 TDCOSMO lenses. The precision improves to 2.5\% with the further addition of kinematics for 50 non-time-delay lenses from SLACS and the Strong Lensing Legacy Survey (SL2S).
+    - Expanding the samples to 40 time delay and 200 non-time delay lenses will improve the precision to 1.5\% and 1.2\%, respectively.
+
+- [Optimal 1D Ly-α Forest Power Spectrum Estimation I: DESI-Lite Spectra](https://arxiv.org/abs/2008.06421)
+    - 关于从光谱中抽取Lya功率谱的算法
+    - The 1D Ly-α forest flux power spectrum P1D is sensitive to scales smaller than a typical galaxy survey, and hence ties to the intergalactic medium's thermal state, suppression from neutrino masses and new dark matter models.
+    - We show that we can achieve percent precision in P1D with 5-year DESI data in the absence of systematics and provide forecasts for different spectral qualities.
+
+- [HST Proper Motions of NGC 147 and NGC 185: Orbital Histories and Test of Dynamically Coherent Andromeda Satellite Plane](https://arxiv.org/abs/2008.06055)
+    - HST八年的观测：Our final results for the PMs are (μW,μN)N147=(−0.0232,0.0378)±(0.0143,0.0146)masyr−1 for NGC 147, and (μW,μN)N185=(−0.0242,0.0058)±(0.0141,0.0147)masyr−1 for NGC 185.
+    - The 2-dimensional direction of motion for NGC 147 about M31 is found to be aligned with its tidal tails
+    - Our PMs show that the orbital poles of NGC 147, and also NGC 185 albeit to a lesser degree, agree within the uncertainties with the normal of the Great Plane of Andromeda (GPoA).
+    - Our results strengthen the hypothesis that the GPoA may be a dynamically coherent entity
+
+- [First Light And Reionisation Epoch Simulations (FLARES) II: The Photometric Properties of High-Redshift Galaxies](https://arxiv.org/abs/2008.06057)
+    - FLARES predicts a significantly larger number of intrinsically bright galaxies, which can be explained through a simple model linking dust-attenuation to the metal content of the interstellar medium, using a line-of-sight (LOS) extinction model
+    - We show that the ultraviolet (UV) luminosity function (LF) matches the observations at all redshifts. The function is fit by Schechter and double power-law forms, with the latter being favoured at these redshifts by the FLARES
+    - The impact of environment on the UV LF is also explored, with the brightest galaxies forming in the densest environments.
+
+- [Optically-Thin Spatially-Resolved Mg II Emission Maps the Escape of Ionizing Photons](https://arxiv.org/abs/2008.06059)
+    - KCWI观测：the resonant Mg II 2800 doublet from a redshift 0.36 galaxy, J1503+3644, with a previously observed escape fraction of 6%.
+    - The Mg II emission has a similar spatial extent as the stellar continuum, and each of the Mg II doublet lines are well-fit by single Gaussians.
+    - The Mg II is optically thin. The intrinsic flux ratio of the red and blue Mg II emission line doublet, R=F2796/F2803, is set by atomic physics to be two, but Mg+ gas along the line of sight decreases R proportional to the Mg II optical depth. Combined with the metallicity, R estimates the neutral gas column density.
+    - The observed R ranges across the galaxy from 0.8-2.7, implying a factor of 2 spatial variation of the relative escape fraction. All of the ionizing photons that escape J1503+3644 pass through regions of high R.
+    - 可以用MgII预测EoR时期星系的电离光子逃逸比例
+
+- [Faint Stars in a Faint Galaxy: I. Ultra Deep Photometry of the Boötes I Ultra Faint Dwarf Galaxy](https://arxiv.org/abs/2008.06089)
+    - HST观测：The probable members lie close to stellar isochrones that were chosen to encompass the known metallicity distribution derived from spectroscopic data of brighter radial-velocity member stars and are consistent with the main-sequence turnoff. The resulting luminosity function of the Bootes I galaxy has a 50% completeness limit of 27.4 in F814W and 28.2 in F606W (Vega magnitude system), which corresponds to a limiting stellar mass of ≤0.3M⊙
