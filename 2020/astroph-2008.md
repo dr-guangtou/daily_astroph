@@ -523,3 +523,44 @@
 
 - [Faint Stars in a Faint Galaxy: I. Ultra Deep Photometry of the Boötes I Ultra Faint Dwarf Galaxy](https://arxiv.org/abs/2008.06089)
     - HST观测：The probable members lie close to stellar isochrones that were chosen to encompass the known metallicity distribution derived from spectroscopic data of brighter radial-velocity member stars and are consistent with the main-sequence turnoff. The resulting luminosity function of the Bootes I galaxy has a 50% completeness limit of 27.4 in F814W and 28.2 in F606W (Vega magnitude system), which corresponds to a limiting stellar mass of ≤0.3M⊙
+
+----
+
+### Aug 18
+
+- [Biasing relation, environmental dependencies and estimation of the growth rate from line emission galaxies](https://arxiv.org/abs/2008.06541)
+    - 用SAM研究SFR和DM的关系，search for environmental dependencies and assess their impact on the Speed-from-Light Method (SfLM) to measure the growth rate, f from luminosity/SFR shifts.
+    - Quiescent galaxies are more clustered relative to the DM than the star forming ones from z=1 to the present epoch
+    - The linear bias factor, b, defined as the clustering ratio of galaxies to DM, is roughly a scale-independent, constant function of the SFR for star forming galaxies.
+    - For the majority of the models the SFR probability distribution is skewed to larger values in denser regions.
+
+- [Forecasting Cosmological Constraints from the Weak Lensing Magnification of Type Ia Supernovae Measured by the Nancy Grace Roman Space Telescope](https://arxiv.org/abs/2008.06804)
+    - **Interesting**
+    - We present a methodology for reconstructing the probability distribution of the weak lensing magnification μ of SNe Ia, p(μ), from observational data, and using it to constrain cosmological parameters.
+    - 放大率分布可以用一个stretched Gaussian分布来描述，can be used to measure the variance of μ, ξμ
+    - The combination of SN Ia weak lensing magnification and distance measurements result in a ∼ 10% measurement on σ8.
+
+- [Validating a minimal galaxy bias method for cosmological parameter inference using HSC-SDSS mock catalogs](https://arxiv.org/abs/2008.06873)
+    - We assess the performance of a perturbation theory inspired method for inferring cosmological parameters from the joint measurements of galaxy-galaxy weak lensing (ΔΣ) and the projected galaxy clustering (wp).
+    - As long as the appropriate scale cuts, 12 and 8 h−1Mpc for ΔΣ and wp respectively, are adopted, a "minimal-bias" model using the linear bias parameter b1 alone and the nonlinear matter power spectrum can recover the true cosmological parameters (here focused on Ωm and σ8) to within the 68% credible interval
+    - This is as expected if physical processes inherent in galaxy formation/evolution are confined to local, small scales below the scale cut, and thus implies that real-space observables have an advantage in filtering out the impact of small-scale nonlinear effects in parameter estimation, compared to their Fourier-space counterparts.
+
+- [Photometric classification of HSC transients using machine learning](https://arxiv.org/abs/2008.06726)
+    - This machine is trained by actual observed cadence and filter combinations such that we can directly input the observed data array into the machine without any interpretation.
+    - Our classifier scores an area under the curve (AUC) of 0.996 for binary classification (SN Ia or non-SN Ia) and 95.3% accuracy for three-class classification (SN Ia, SN Ibc, or SN II).
+
+- [The Star-Forming Main Sequence and the contribution of dust-obscured star formation over the last 12 Gyrs from the FUV+IR luminosity functions](https://arxiv.org/abs/2008.06514)
+    - **Important**
+    - At any redshift, we find that the specific SFR−M∗ relation for MS SFGs approaches to a power law at the high-mass end. At lower masses it bends and eventually the slope sign changes from negative to positive at very low masses.
+    - The slope sign change is related to the knee of the FUV LF.
+    - We predict that the assembly time of nearby dwarf galaxies is ∼10 Gyrs consistent with their oldest observed stellar populations.
+    - Using the joint evolution of the GSMF and the FUV and IR LFs is a promising empirical approach to study the stellar mass growth and dust formation/destruction mechanisms, and ultimately to constrain galaxy formation models.
+
+- [Tidal forces from the wake of dynamical friction: warps, lopsidedness and kinematic misalignment](https://arxiv.org/abs/2008.07177)
+    - A galaxy moving through a background of dark matter particles, induces an overdensity of these particles or a wake behind it. The back reaction of this wake on the galaxy is a force field that can be decomposed into an effective deceleration (called dynamical friction) and a tidal field.
+    - 用孤立且lopsided的星系IC2487为例子去看这个作用力是否能产生warps，lopsidedness等结构
+    - We conclude that the proposed mechanism can generate warps, lopsidedness and misalignments observed in isolated galaxies or galaxies in loose groups.
+
+- [The OH Megamaser galaxy IRAS11506-3851: an AGN and starformation revealed by multiwavelength observations](https://arxiv.org/abs/2008.07442)
+    - The HST images reveal an isolated spiral galaxy and the combination with the GMOS-IFU flux distributions and VLA data allow us to identify a partial ring of star-forming regions surrounding the nucleus with a radius of ~ 500 pc.
+    - The enhanced excitation and velocity dispersion of this bubble surrounds a 8.5 GHz radio emission structure, supporting its origin in a faint AGN that is mostly shocking the surrounding gas via a plasma ejection seen in radio at the present stage
