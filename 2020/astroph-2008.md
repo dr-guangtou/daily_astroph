@@ -564,3 +564,45 @@
 - [The OH Megamaser galaxy IRAS11506-3851: an AGN and starformation revealed by multiwavelength observations](https://arxiv.org/abs/2008.07442)
     - The HST images reveal an isolated spiral galaxy and the combination with the GMOS-IFU flux distributions and VLA data allow us to identify a partial ring of star-forming regions surrounding the nucleus with a radius of ~ 500 pc.
     - The enhanced excitation and velocity dispersion of this bubble surrounds a 8.5 GHz radio emission structure, supporting its origin in a faint AGN that is mostly shocking the surrounding gas via a plasma ejection seen in radio at the present stage
+
+----
+
+### Aug 19
+
+- [Uncovering the primary X-ray emission and possible starburst component in the polarized NLS1 Mrk 1239](https://arxiv.org/abs/2008.08027)
+    - There is spectral variability in the 3-10 keV band over the 18-years. An analysis of the NuSTAR and Suzaku light curves also suggests rapid variability in the 3-10 keV band, which is consistent with the NLS1 definition of the source 但3keV一下没有任何光变迹象
+    - Regardless of the physical model, spectral changes between epochs are driven by the absorption components and on short time scales by intrinsic AGN variability.
+
+- [The effect of magnetic fields on properties of the circumgalactic medium](https://arxiv.org/abs/2008.07537)
+    - Simulating the Universe with Refined Galaxy Environments (SURGE)
+    - The central galaxy's star formation rate and stellar mass are not strongly affected by the presence of magnetic fields, but the galaxy is more disc-dominated and its central black hole is more massive when B>0.
+    - With magnetic fields, the gas fraction and metal mass fraction in the halo are higher, the atomic hydrogen-dominated extended discs around the galaxy are more massive, the circumgalactic gas flows are slower, the densities in the inner CGM are higher, the temperatures in the outer CGM are higher, the pressure in the halo is higher, and the metals are less well-mixed throughout the halo.
+
+- [The evolution of neutral hydrogen over the past 11 Gyr via HI 21 cm absorption](https://arxiv.org/abs/2008.07578)
+    - GBT: a blind search for intervening HI 21 cm absorption toward 260 radio sources in the redshift range 0< z <2.74 灵敏度能探测到HI spin温度在100K以上的sub-DLA
+    - 没有发现任何吸收系统：Sources detected in 21 cm absorption were also searched for hydroxyl (OH) 18 cm absorption and we re-detect 1667 MHz OH absorption toward PKS 1830-211.
+    - We infer a value for the cosmological mass density of neutral gas, ΩHI. Through comparison with prior ΩHI measurements, we place a statistical constraint on the mean spin temperature of Ts/f = 175 K.
+    - 似乎支持Omega_HI在过去11 Gyr里演化比较轻微
+
+- [On the Precision of Full-spectrum Fitting of Simple Stellar Populations. I. Well-sampled Populations](https://arxiv.org/abs/2008.07582)
+    - **Relevant**
+    - Mock spectrum using MIST isocrhone: We find that for S/N ≥ 50, this technique can yield ages of SSPs to an overall precision of Δlog(age/yr)∼0.1 for ages in the ranges 7.0 ≤ log (age/yr) ≤ 8.3 and 8.9 ≤ log (age/yr) ≤ 9.4.
+    - For the age ranges of 8.3 ≤ log (age/yr) ≤ 8.9 and log (age/yr) ≥ 9.5, which have significant flux contributions from asymptotic giant branch (AGB) and red giant branch (RGB) stars, respectively, the age uncertainty rises to about ±0.3 dex.
+    - 精度对信噪比和波段覆盖都很敏感
+
+- [The Massive and Distant Clusters of WISE Survey. VIII. Radio Activity in Massive Galaxy Clusters](https://arxiv.org/abs/2008.07586)
+    - **Relevant**
+    - Using a large sample of galaxy clusters at 0.7<z<1.5 看有多少星系团在500kpc以内有射电源
+    - We find tentative (2.25σ) evidence that the cluster radio-active fraction increases with cluster richness, while the fraction of cluster galaxies that are radio-luminous does not correlate with richness.
+    - 有红移相关 Clusters at higher redshift are much more likely to host a radio source of luminosity L1.4 GHz≳10^26~W~Hz−1 than are lower redshift clusters
+    - For 0.7< z <1.5, we find that both the cluster and field radio-luminous galaxy fraction increases with stellar mass, regardless of environment, though at fixed stellar mass, cluster galaxies are roughly 2 times more likely to be radio-luminous than field galaxies.
+
+- [HAWC+ Far-Infrared Observations of the Magnetic Field Geometry in M51 and NGC 891](https://arxiv.org/abs/2008.07897)
+    - SOFIA观测： For M51, the polarization vectors generally follow the spiral pattern defined by the molecular gas distribution, the far-infrared (FIR) intensity contours, and other tracers of star formation.
+    - The fractional polarization is much lower in the FIR-bright central regions than in the outer regions, and we rule out loss of grain alignment and variations in magnetic field strength as causes.
+    - For NGC 891, the FIR polarization vectors within an intensity contour of 1500 MJy sr−1 are oriented very close to the plane of the galaxy. The FIR polarimetry is probably sampling the magnetic field geometry in NGC 891 much deeper into the disk than is possible with NIR polarimetry and radio synchrotron measurements.
+
+- [Extreme intra-hour variability of the radio source J1402+5347 discovered with Apertif](https://arxiv.org/abs/2008.07945)
+    - Here we report the discovery with Apertif of a source (J1402+5347) showing extreme (~50%) and rapid variations on a timescale of just 6.5 minutes in the decimetre band (1.4 GHz).
+    - The spatial scintillation pattern is highly anisotropic, with a semi-minor axis of about 20,000 km.
+    - The canonical theory of refractive scintillation constrains the scattering plasma to be within the Oort cloud. The sightline to J1402+5347, however, passes unusually close to the B3 star Alkaid (eta UMa) at a distance of 32 pc
