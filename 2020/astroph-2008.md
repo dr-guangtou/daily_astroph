@@ -606,3 +606,126 @@
     - Here we report the discovery with Apertif of a source (J1402+5347) showing extreme (~50%) and rapid variations on a timescale of just 6.5 minutes in the decimetre band (1.4 GHz).
     - The spatial scintillation pattern is highly anisotropic, with a semi-minor axis of about 20,000 km.
     - The canonical theory of refractive scintillation constrains the scattering plasma to be within the Oort cloud. The sightline to J1402+5347, however, passes unusually close to the B3 star Alkaid (eta UMa) at a distance of 32 pc
+
+----
+
+### Aug 20
+
+- [Determining the Hubble Constant without the Sound Horizon: Measurements from Galaxy Surveys](https://arxiv.org/abs/2008.08084)
+    - **Important**
+    - Two scales are encoded in the galaxy power spectrum: the sound horizon at recombination and the horizon at matter-radiation equality.
+    - BOSS DR12 + Pantheon: H0=65.1+3.0−5.4kms−1
+    - Using mock data, Fisher analyses, and scale-cuts, we demonstrate that our constraints do not receive significant information from the sound horizon scale.
+
+- [Model-independent constraints on cosmic curvature: implication from updated Hubble diagram of high-redshift standard candles](https://arxiv.org/abs/2008.08378)
+    - We propose an improved model-independent method to constrain the cosmic curvature, which is geometrically related to the Hubble parameter H(z) and luminosity distance DL(z).
+
+- [Full-sky photon simulation of clusters and active galactic nuclei in the soft X-rays for eROSITA](https://arxiv.org/abs/2008.08378)
+    - **Important**
+    - We create a set of full sky light-cones using the MultiDark and UNIT dark matter only N-body simulations.
+    - Given a set of dark matter halo properties (mass, redshift, ellipticity, offset parameter), we construct an X-ray emissivity profile and image for each halo in the light-cone. 模拟eRosita观测
+    - Finally, we obtain a scatter of 0.21 (0.07, 0.25) for the X-ray luminosity -- mass (temperature -- mass, luminosity -- temperature) model scaling relations.
+
+- [Machine Learning Approach to Integral Field Unit Spectroscopy Observations: I. HII Region Kinematics](https://arxiv.org/abs/2008.08093)
+    - 关于SITELLE的：We present a method that uses Convolution Neural Networks (CNN) for estimating emission line parameters in optical spectra obtained with SITELLE as part of the SIGNALS large program
+    - The network's activation map demonstrates its ability to extract the dynamical (broadening and velocity) parameters from a set of 5 emission lines (e.g. H{\alpha}, N[II] doublet, and S[II] doublet) in the SN3 (651-685 nm) filter of SITELLE.
+
+- [NGC 2770: high supernova rate due to interaction](https://arxiv.org/abs/2008.08091)
+    - NGC 2770 was dubbed a SN factory, because it hosted four core-collapse SNe in 20 years
+    - Its star formation rate (SFR) was reported not to be enhanced and therefore not compatible with such a high SN rate.
+    - 作者认为主要是SFR indicator的问题，尘埃改正后的Halpha SFR符合SN rate，说明和时标有关：Hence, the unique feature of NGC 2770 compared to other galaxies is the fact that it is observed very recently after the enhancement of the SFR
+    - SFR的升高可能是和近邻星系的频繁相互作用造成的
+    - There are no clear HI concentrations close to the positions of SNe in NGC 2770 such as those detected for hosts of gamma-ray bursts (GRBs) and broad-lined SNe type Ic (IcBL). This suggests that the progenitors of type Ib SNe are not born out of recently accreted atomic gas, as was suggested for GRB and IcBL SN progenitors.
+
+- [An Intensity Mapping Detection of Aggregate CO Line Emission at 3 mm](https://arxiv.org/abs/2008.08087)
+    - We present a detection of molecular gas emission at z∼1−5 using the technique of line intensity mapping. 用了两组ALMA数据
+    - At 100 GHz, we measure non-zero power at 97.8% and 99.9% confidence in the ACA and ALMA data sets, respectively.
+    - Using line ratios appropriate for high-redshift galaxies, we find these results to be in good agreement with those from the CO Power Spectrum Survey (COPSS). Adopting αCO=3.6 M⊙ (K km s−1 pc2)−1, we estimate a cosmic molecular gas density of ρH2(z)∼10^8 M⊙ Mpc−3 between z=1−3.
+
+- [The Formation of Very Massive Stars in Early Galaxies and Implications for Intermediate Mass Black Holes](https://arxiv.org/abs/2008.08090)
+    - 模拟研究：The most massive star has a stellar mass of over 6000 M⊙. However, accretion onto all stars declines significantly after the first ∼ 100 kyr of evolution as the surrounding material is accreted and the turbulent nature of the gas causes the stars to move to lower density regions
+    - As the massive stars end their lives as direct collapse black holes this will seed these embryonic haloes with a population of black holes with masses between approximately 300 M⊙ and 10,000 M⊙.
+
+- [CGM2 I: The Extent of the Circumgalactic Medium Traced by Neutral Hydrogen](https://arxiv.org/abs/2008.08092)
+    - The CGM2 spectroscopic survey consists of 1689 galaxies, all with high-quality Gemini GMOS spectra suitable for precise redshift measurements, within 1 Mpc of twenty-two z≲1 quasars, all with existing S/N∼10 HST-COS G130M+G160M spectra
+    - We show that the HI covering fraction above a threshold of NHI >10^14cm−2 is ≳0.6 within 1.5 virial radii (Rvir∼R200m) of galaxies having stellar masses 10^8M⊙<M⋆<10^11M⊙.
+    - the majority of absorption lies within ± 250 km s−1, and that this concentration increases with increasing HI column density
+
+- [A Carbon-enhanced Lyman Limit System: Signature of the First Generation of Stars?](https://arxiv.org/abs/2008.08096)
+    - This is a very peculiar system with strong C I absorption seen associated with a neutral hydrogen column density of log N(H I) (cm−2) = 18.10, too small to shield the gas from any external UV flux.
+    - Carbon is overabundant relative to iron, [C/Fe] > +2.2 at [Fe/H] ∼ −1.6. Such a metal abundance pattern is reminiscent of carbon-enhanced metal-poor stars detected in the Galaxy halo
+
+- [The LOFAR view of FR0 radio galaxies](https://arxiv.org/abs/2008.08099)
+    - This sample includes 104 compact radio active galactic nuclei (AGN) associated with nearby (z<0.05) massive early-type galaxies
+    - 12 FR0s present resolved emission of low surface brightness which contributes between 5% and 40% of the total radio power at 150 MHz, usually with a jetted morphology extending between 15 and 50 kpc.
+    - The fraction of FR0s showing evidence for the presence of jets, by including both spectral and morphological information, is at least ~40%. This study confirms that FR0s and FRIs can be interpreted as two extremes of a continuous population of jetted sources, with the FR0s representing the low end in size and radio power.
+
+- [ALMA 0.02"-resolution observations reveal HCN-abundance-enhanced counter-rotating and outflowing dense molecular gas at the NGC 1068 nucleus](https://arxiv.org/abs/2008.08101)
+    - We detect signatures of outflowing dense molecular gas and a vibrationally excited HCN J=3-2 line.
+    - Finally, we find that in the innermost (<1 pc) part of the torus, the dense molecular line rotation velocity, relative to the systemic velocity, is the opposite of that in the outer (>2 pc) part, in both the eastern and western torus.
+
+- [All good things come in threes: the third image of the lensed quasar PKS1830-211](https://arxiv.org/abs/2008.08395)
+    - We report the detection of a third continuum source toward the strongly lensed quasar PKS1830-211 in ALMA multi-frequency observations of high dynamic range and high angular resolution.
+    - We conclude that this source is most likely the expected highly de-magnified third lensed image of the quasar.
+    - we detect, for the first time at millimeter wavelengths, weak and asymmetrical extensions departing from images A and B that correspond to the brightest regions of the Einstein ring seen at centimeter wavelengths. 是QSO的另一个成分
+
+- [MgII Absorbers in High Resolution Quasar Spectra. I. Voigt Profile Models](https://arxiv.org/abs/2008.08487)
+    - We present the Voigt profile (VP) models, column densities, Doppler b parameters, kinematics, and distribution of components for 422 MgII absorbers found in a survey of 249 HIRES and UVES quasar spectra.
+
+- [GOODS-ALMA: Optically dark ALMA galaxies shed light on a cluster in formation at z = 3.5](https://arxiv.org/abs/2008.08518)
+    - We present evidence that nearly 70% (4/6 of galaxies) of the optically dark galaxies belong to the same overdensity of galaxies at z~3.5. overdensity The most massive one, AGS24 (M_{\star} = 10^{11.32^{+0.02}\_{-0.19}} M\_{\odot}), is the most massive galaxy without an active galactic nucleus (AGN) at z>3
+    - It falls in the very center of the peak of the galaxy surface density, which suggests that the surrounding overdensity is a proto-cluster in the process of virialization and that AGS24 is the candidate progenitor of the future brightest cluster galaxy (BCG).
+
+----
+
+### Aug 21
+
+- [Determining the Hubble Constant without the Sound Horizon: Measurements from Galaxy Surveys](https://arxiv.org/abs/2008.08084)
+    - Measures numerical biases in these large, dark matter-only simulations that affect the properties of their dark matter haloes
+    - We also find that the halo properties predicted by different simulations can diverge from one another at unexpectedly high resolutions. We demonstrate that many halo properties depend strongly on force softening scale and that this dependence leads to much of the measured divergence between simulations.
+
+- [On the kinetic Sunyaev-Zel'dovich effect as an observational probe for halo spin bias](https://arxiv.org/abs/2008.08607)
+    - **Interesting**
+    - 看能否用kSZ观测来限制halo spin bias; 利用TNG模拟：we measure both the kSZ and the thermal SZ (tSZ) effects produced by the baryonic content of more than 50,000 haloes within the halo mass range 11< log10(Mvir/h−1M⊙)≲14.5
+    - The integrated kSZ signal displays a significant correlation with the angular momentum of the intra-halo gas, particularly for massive haloes
+    - We show that both the integrated kSZ signal and the ratio of the integrated kSZ and tSZ signals trace total halo spin, even though significant scatter exists
+
+- [The WaZP galaxy cluster sample of the Dark Energy Survey Year 1](https://arxiv.org/abs/2008.08711)
+    - **Relevant, Important**
+    - Present a new (2+1)D galaxy cluster finder based on photometric redshifts called Wavelet Z Photometric (WaZP) applied to DES first year (Y1A1) data
+    - WaZP searches for clusters in wavelet-based density maps of galaxies selected in photometric redshift space without any assumption on the cluster galaxy populations
+    - The WaZP cluster finder applied to DES Y1A1 galaxy survey (1,511 deg2 up to i=23 mag) led to the detection of 60,547 galaxy clusters with redshifts 0.05< z <0.9 and richness Ngals>5.
+
+- [The Nature of the Young Supernova Remnant S8 in the Dwarf Galaxy IC 1613](https://arxiv.org/abs/2008.08690)
+    - Deep Hα images of the remnant show a sharply defined crescent shaped nebula, while narrow passband images reveal a coincident and unexpectedly bright continuum nebulosity exhibiting a size and morphology like that seen for the remnant's line emissions.
+    - We conclude S8 is a relatively young supernova remnant (≃2700−4400 yr) exhibiting properties remarkably like those seen in the young LMC remnant N49
+
+- [The time-scales probed by star formation rate indicators for realistic, bursty star formation histories from the FIRE simulations](https://arxiv.org/abs/2008.08582)
+    - We use star formation histories (SFHs) extracted from cosmological simulations of star-forming galaxies from the FIRE project to analyze the time-scales to which the Hα and far-ultraviolet (FUV) continuum SFR indicators are sensitive.
+    - When FIRE SFHs are partitioned into their bursty and time-steady phases, the best-fitting FUV time-scale fluctuates from its ~10 Myr value when the SFR is time-steady to >~100 Myr immediately following particularly extreme bursts of star formation during the bursty phase. On the other hand, the best-fitting averaging time-scale for Hα is generally insensitive to the SFR variability in the FIRE simulations and remains ~5 Myr at all times.
+    - 比文献中常假设的100 Myr和10 Myr时标要短
+    - Our results confirm that the ratio of SFRs inferred using Hα vs. FUV can be used to probe the burstiness of star formation in galaxies.
+
+- [Quasars as standard candles III. Validation of a new sample for cosmological studies](https://arxiv.org/abs/2008.08586)
+    - We present a new catalogue of ~2,400 optically selected quasars with spectroscopic redshifts and X-ray observations from either Chandra or XMM-Newton. The sample can be used to investigate the non-linear relation between the UV and X-ray luminosity of quasars, and to build a Hubble diagram up to redshift z~7.5.
+    - (i) the X-ray to UV relation provides distance estimates matching those from supernovae up to z~1.5, and (ii) its slope shows no redshift evolution up to z~5.
+
+- [Measuring Supermassive Black Hole Spin in the Chandra COSMOS-Legacy Survey](https://arxiv.org/abs/2008.08588)
+    - Measure the average SMBH spin of ∼1900 AGN in the Chandra COSMOS-Legacy survey using spectral stacking analysis.
+    - We find broad Fe Kα line emission in the average COSMOS spectrum (Gaussian width σ=0.27±0.05 keV), and by fitting this emission line profile with relativistic line models, we measure the average black hole spin parameter a=0.62 +0.07−0.17.
+    - We find that optically classified Type 1 sources have broader Fe Kα line emission than Type 2 sources.
+
+- [Molecular Gas Outflow in the Starburst Galaxy NGC 1482](https://arxiv.org/abs/2008.08723)
+    - Molecular gas is detected in a nearly edge-on disk with a radius of 3 kpc and a biconical outflow emerging from the central 1 kpc starburst and extending to at least 1.5 kpc perpendicular to the disk.
+    - In the outflow, CO gas is distributed approximately as a cylindrically symmetrical envelope surrounding the warm and hot ionized gas traced by Hα and soft X-rays. 星暴驱动的分子云外流
+
+- [The MOSDEF Survey: Neon as a Probe of ISM Physical Conditions at High Redshift](https://arxiv.org/abs/2008.08831)
+    - Doubly-ionized neon ([NeIII]λ3869) is detected at ≥3σ in 61 galaxies, representing ∼25% of the sample of MOSDEF galaxies with Hα, Hβ, and [OIII]λ5007 detections at similar redshifts.
+    - We find that the [NeIII]λ3869/[OII]λ3727 ratio (Ne3O2) is anti-correlated with stellar mass, as expected based on the mass-metallicity relation. We also find that Ne3O2 is positively correlated with the [OIII]λ5007/[OII]λ3727 ratio (O32) in z∼2 galaxies, but that z∼2 line ratios are offset towards higher Ne3O2 at fixed O32
+    - The nebular emission-line ratios of z∼2 star-forming galaxies suggest a harder ionizing spectrum (lower stellar metallicity, i.e., Fe/H) at fixed gas-phase oxygen abundance, compared to systems at z∼0.
+    - These new results based on neon lend support to the physical picture painted by oxygen, nitrogen, hydrogen, and sulfur emission, of an ionized ISM in high-redshift star-forming galaxies irradiated by chemically young, α-enhanced massive stars.
+
+- [The abundance of dwarf galaxies around low-mass giants in the Local Volume](https://arxiv.org/abs/2008.08954)
+    - We have surveyed a 72 deg2 area of the nearby Sculptor group using the Dark Energy Camera - also encompassing the two low-mass Local Volume galaxies NGC24 and NGC45 residing behind the group - to search for hitherto undetected dwarf galaxies
+    - Apart from the previously known dwarf galaxies we have found only two new candidates down to a 3 sigma surface brightness detection limit of 27.4 r mag arcsec-2. 都离NGC24更近
+    - We compared the number of known dwarf galaxy candidates around NGC24, NGC45, and five other well-studied low-mass giant galaxies (NGC 1156, NGC2403, NGC5023, M33, and the LMC) with predictions from cosmological simulations and found that for the stellar-to-halo mass models considered, the observed satellite numbers tend to be on the lower end of the expected range.
