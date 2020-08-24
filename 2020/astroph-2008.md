@@ -729,3 +729,54 @@
     - We have surveyed a 72 deg2 area of the nearby Sculptor group using the Dark Energy Camera - also encompassing the two low-mass Local Volume galaxies NGC24 and NGC45 residing behind the group - to search for hitherto undetected dwarf galaxies
     - Apart from the previously known dwarf galaxies we have found only two new candidates down to a 3 sigma surface brightness detection limit of 27.4 r mag arcsec-2. 都离NGC24更近
     - We compared the number of known dwarf galaxy candidates around NGC24, NGC45, and five other well-studied low-mass giant galaxies (NGC 1156, NGC2403, NGC5023, M33, and the LMC) with predictions from cosmological simulations and found that for the stellar-to-halo mass models considered, the observed satellite numbers tend to be on the lower end of the expected range.
+
+----
+
+### Aug 23
+
+- [Mock catalogs for the extragalactic X-ray sky: simulating AGN surveys with Athena and with the AXIS probe](https://arxiv.org/abs/2008.09133)
+    - We use our mocks to perform a set of end-to-end simulations of X-ray surveys with the forthcoming Athena mission and with the AXIS probe, a sub-arcsecond resolution X-ray mission concept
+    - In a total observing time of 15Ms, AXIS would detect ~225,000 AGNs and ~50,000 non-active galaxies, reaching a flux limit f_0.5-2~5E-19 erg/s/cm2 in the 0.5-2 keV band, with an improvement of over an order of magnitude with respect to surveys with current X-ray facilities.
+
+- [High-redshift galaxy groups as seen by Athena/WFI](https://arxiv.org/abs/2008.09271)
+    - 高红移处的第一代星系群：Baryonic physics, like stellar and active galactic nuclei (AGN) feedback in this very active epoch, are expected to have left a strong imprint on the thermo-dynamic properties of these early galaxy groups.
+    - 模拟Atehna数据：In the deep Wide Field Imager (WFI) survey expected to be carried out during part of Athena's first four years (the nominal mission lifetime) more than 10,000 galaxy groups and clusters at z≥0.5 will be discovered
+    - We find that Athena can detect ∼20 high-redshift galaxy groups with masses of M500≥ 5×1013 M⊙ and z≥2, and almost half of them will have a gas temperature determined to a precision of ΔT/T≤25%.
+
+- [Interaction of a cold cloud with a hot wind: the regimes of cloud growth and destruction and the impact of magnetic fields](https://arxiv.org/abs/2008.09118)
+    - 冷热气体的相互作用：
+        - A sufficiently small cold cloud is destroyed by the hot wind as a result of Kelvin-Helmholtz instabilities, which shatter the cloud into small pieces that eventually mix and dissolve in the hot wind. 小质量的团块因为K-H不稳定性被摧毁
+        - On the contrary, stripped cold gas from a large cloud mixes with the hot wind to intermediate temperatures, and then becomes thermally unstable and cools, causing a net accretion of hot gas to the cold tail. 冷气体与热气体混合导致热不稳定性，进而冷却
+    - 用AREPO探索destruction与growth的边界：We find that the hot-wind cooling time sets the transition radius and not the cooling time of the mixed phase. Magnetic fields modify the wind-cloud interaction.
+    - We furthermore predict jellyfish galaxies to have ordered magnetic fields aligned with their tails.
+
+- [Gas accretion regulates the scatter of the mass-metallicity relation](https://arxiv.org/abs/2008.09127)
+    - GAEA模型：the cold gas content (whose largest fraction is represented by the atomic gas phase) can be considered as the third parameter governing the scatter of the predicted mass-metallicity relation
+    - The trends can be explained with fluctuations of the gas accretion rates:
+        - A decrease of the gas supply leads to an increase of the gas metallicity due to star formation, 解释了offsets above the mass-metallicity relation
+        - An increase of the available cold gas leads to a metallicity depletion. --> Offset below the mass-metallicity relation
+        - In low and intermediate mass galaxies, these negative offsets are primarily determined by late gas cooling dominated by material that has been previously ejected due to stellar feedback.
+
+- [Revisiting the Gas Kinematics in SSA22 Lyman-α Blob 1 with Radiative Transfer Modeling in a Multiphase, Clumpy Medium](https://arxiv.org/abs/2008.09130)
+    - KCWI+MOSFIRE观测：KCWI重构Lya窄带图像，找到一些特征
+    - By fitting a set of multiphase, ‘clumpy’ models to the observed Lyα profiles, we are able to reasonably constrain many parameters, namely the H I number density in the inter-clump medium (ICM), the cloud volume filling factor, the random velocity and outflow velocity of the clumps, the H I outflow velocity of the ICM and the local systemic redshift.
+    - 结论：
+        - The observed Lyα spectra require relatively few clumps per line-of-sight as they have significant fluxes at the line center;
+        - The velocity dispersion of the clumps yields a significant broadening of the spectra
+        - The clump bulk outflow can also cause additional broadening if the H I in the ICM is optically thick
+        - The H I in the ICM is responsible for the absorption feature close to the Lyα line cente
+
+- [The distribution and properties of DLAs at z ≤ 2 in the EAGLE simulations](https://arxiv.org/abs/2008.09302)
+    - 基于EAGLE模拟：
+        - We find that the covering fraction of DLAs increases at higher redshift;
+        - A significant fraction of neutral atomic hydrogen (HI) resides in the outskirts of galaxies with stellar mass greater than or equal to 1010 M⊙;
+        - The covering fraction of DLAs in the circumgalactic medium (CGM) is enhanced relative to that of the interstellar medium (ISM) with increasing halo mass.
+    - Moreover, we find that the mean density of the HI in galaxies increases with increasing stellar mass, while the DLAs in high- and low-halo-mass systems have higher column densities than those in galaxies with intermediate halo masses (~ 10^12 M⊙ at z = 0).
+
+- [Measuring the stellar population parameters of the early-type galaxy NGC 3923 -- The challenging measurement of the initial mass function](https://arxiv.org/abs/2008.09557)
+    - **Relevant**
+    - IMACS观测：NGC 3923 at optical (3700-6600 Angstrom), and near-infrared (7900-8500 Angstrom) wavelengths
+    - 考虑了各种情况：1) We compare two different stellar population model libraries; 2) we undertake spectral index fitting as well as full spectral fitting; 3) we have performed simulations for which we a priori know the input IMF, and which closely match our data; 4) we also investigate the effects of including a two-component, rather than a single stellar population.
+    - We find some indication (although assumption-dependent) for a bottom-heavy IMF in the mass-range 0.5-1.0 M_sun, while the IMF in the mass-range 0.08-0.5 M_sun appears to be Milky-Way like and constant. Including near-infrared data to our analysis gives consistent results, and improves the precision.
+
+- [Measuring the stellar population parameters of the early-type galaxy NGC 3923 -- The challenging measurement of the initial mass function](https://arxiv.org/abs/2008.09557)
