@@ -779,4 +779,132 @@
     - 考虑了各种情况：1) We compare two different stellar population model libraries; 2) we undertake spectral index fitting as well as full spectral fitting; 3) we have performed simulations for which we a priori know the input IMF, and which closely match our data; 4) we also investigate the effects of including a two-component, rather than a single stellar population.
     - We find some indication (although assumption-dependent) for a bottom-heavy IMF in the mass-range 0.5-1.0 M_sun, while the IMF in the mass-range 0.08-0.5 M_sun appears to be Milky-Way like and constant. Including near-infrared data to our analysis gives consistent results, and improves the precision.
 
-- [Measuring the stellar population parameters of the early-type galaxy NGC 3923 -- The challenging measurement of the initial mass function](https://arxiv.org/abs/2008.09557)
+----
+
+### Aug 24
+
+- [Clustering in the Simulated Hα Galaxy Redshift Survey from Nancy Grace Roman Space Telescope](https://arxiv.org/abs/2008.09746)
+    - 基于Galacticus SAM模拟1 < z < 2的Halpha星系：we investigate the expected precision and accuracy of the BAO and RSD measurements using the same analysis techniques used in analyzing real data.
+    - We find that the Roman Hα galaxy survey alone can measure the angular diameter distance with 2% uncertainty, the Hubble parameter with 3-6% uncertainty, and the linear growth parameter with 7% uncertainty
+
+- [No redshift evolution of non-repeating fast radio-burst rates](https://arxiv.org/abs/2008.09746)
+    - The time-integrated-luminosity functions of non-repeating FRBs do not show any significant redshift evolution. The volumetric occurrence rates are almost constant during the past ∼10 Gyr.
+    - The nearly-constant rate is consistent with a flat trend of cosmic stellar-mass density traced by old stellar populations
+    - In contrast, the occurrence rates of repeating FRBs may increase towards higher redshifts in a similar way to the cosmic star formation-rate density or black hole accretion-rate density if the slope of their luminosity function does not evolve with redshift
+
+- [A giant radio bridge connecting two clusters in Abell 1758](https://arxiv.org/abs/2008.09613)
+    - We used deep radio observations from 53 MHz to 1.5 GHz to study the pre-merging galaxy clusters A1758N and A1758S that are ∼2 Mpc apart. We confirm the presence of a giant bridge of radio emission connecting the two systems
+    - The bridge is clearly visible in the LOFAR image at 144 MHz and tentatively detected at 53 MHz.
+
+- [Compact galaxies and the size-mass galaxy distribution from a colour-selected sample at 0.04 < z < 0.15 supplemented by ugrizYJHK photometric redshifts](https://arxiv.org/abs/2008.09625)
+    - **Relevant**
+    - Massive compact星系：a sample was selected from the 9-band combination of SDSS and UKIDSS photometry to r < 17.8.
+    - Following Barro et al., log S_1.5 = log M_* - 1.5 log r_50 was used in order assess the completeness and number density of massive compact galaxies (log M_* > 10, log S_1.5 > 10.5). The spectroscopic completeness was 76% for compact galaxies compared to 92% for normal-size galaxies.
+    - Using environmental overdensities, this confirms that compact quiescent galaxies are significantly more likely to be found in high-density environments compared to normal-size galaxies.
+    - The number density of compact quiescent galaxies drops by a factor of about 30 from z ~ 2 to log (n / Mpc^-3) = -5.3 +- 0.4 in the SDSS-UKIDSS sample.
+
+- [GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://arxiv.org/abs/2008.09630)
+    - **Interesting**
+    - Our results suggest that the hosts of SLSNe, SNe Ia, and core collapse supernovae can be separated using host brightness information and extendedness measures derived from the host's light profile.
+    - We can distinguish SNe Ia and core collapse supernovae with ~70% accuracy without any photometric data from the event itself.
+
+- [Populating HI gas in dark matter halos: I. method](https://arxiv.org/abs/2008.09804)
+    - SDSS+ALFALFA: if we solely use galaxy associated scaling relations to predict the HI gas distribution (solely component 1), the number of HI detections is significantly over-predicted with respect the ALFALFA observations.
+    - We introduce a concept for the survival of the HI masses/members within halos of different masses labelled as the `efficiency' factor, in order to describe the probability that a halo has in retaining its HI detections.
+    - We construct a `halo based HI mass model' which does not only predict the HI masses of galaxies, but also yields similar number, stellar, halo mass and satellite fraction distributions to the HI detections retrieved from observational data.
+
+- [Knocking on giants' doors: I. The evolution of the dust-to-stellar mass ratio in distant dusty galaxies](https://arxiv.org/abs/2008.09995)
+    - We find that Mdust/M⋆ evolves with redshift, stellar mass, specific SFR and integrated dust size, differently for main sequence and starburst galaxies.
+    - In both galaxy populations Mdust/M⋆ rises until z∼2 followed by a roughly flat trend towards higher redshifts. We show that the inverse relation between Mdust/M⋆ and M⋆ holds up to z≈5 and can be interpreted as an evolutionary transition from early to late starburst phases.
+    - We demonstrate that Mdust/M⋆ in starbursts mirrors the increase in molecular gas fraction with redshift, and is enhanced in objects with the most compact dusty star-formation.
+
+- [Metals and Molecules in the Distant Universe: Magellan MIKE Observations of Gas-rich Galaxies at 2<z<3](https://arxiv.org/abs/2008.10207)
+    - We present abundance measurements of the elements Zn, S, O, C, Si and Fe for four sub-DLAs at redshifts ranging from z=2.173 to z=2.635
+
+- [The distance to the giant elliptical galaxy M87 and the size of its stellar subsystem](https://arxiv.org/abs/2008.10213)
+    - **Relevant, Interesting**
+    - The position of the tip of the red-giant branch (the TRGB discontinuity) is found to vary with galactocentric distance. This variation can be interpreted as the effect of metal-rich red giants on the procedure of the measurement of the TRGB discontinuity or as a consequence of the existence of a weak gas-and-dust cloud around M87 extending out to 10′ along the galactocentric radius
+    - The TRGB stars located far from the M87 center yield an average distance modulus of (m−M)=30.91±0.08, which corresponds to the distance of D=15.4±0.6 Mpc
+    - It is shown that stars in the field located between M86 and M87 galaxies at angular separations of 37′ and 40′ are not intergalactic stars, but belong to the M87 galaxy, i.e., that the stellar halo of this galaxy can be clearly seen at a galactocentric distance of 190 kpc.
+
+- [A complete search for redshift z>6.5 quasars in the VIKING survey](https://arxiv.org/abs/2008.10297)
+    - We used the Bayesian model comparison (BMC) selection method of Mortlock et al., producing a ranked list of just 21 candidates.
+    - The sources ranked 1, 2, 3 and 5 are the four known z>6.5 quasars in this field. Additional observations of the other 17 candidates, primarily DESI Legacy Survey photometry and ESO FORS2 spectroscopy, confirm that none is a quasar.
+    - i) BMC produces eight times fewer false positives than colour cuts, while also reaching 0.3 mag. deeper, ii) the SED fitting method is extremely efficient but reaches 0.7 mag less deep than the BMC method, picking out only one of the four known quasars.
+
+----
+
+### Aug 25
+
+- [Lessons from the first multiply imaged supernova: A revised Light-Traces-Mass strong lensing model for the galaxy cluster MACS J1149.5+2223](https://arxiv.org/abs/2008.10641)
+    - Light-trace-mass (LTM) SL建模的测试
+    - Supernova Refsdal supplied an invaluable opportunity to conduct a blind test of the ability of common lens-modeling techniques to accurately describe the properties of SN Refsdal's images and predict the reappearance of one of its counter images that was due about a year post-discovery of the original Einstein cross.
+    - 修正了一个之前的bug：Here we update our model and present revised LTM measurements for Refsdal.
+
+- [Lessons from the first multiply imaged supernova II: A parametric strong-lensing model for the galaxy cluster MACS J1149.5+2223](https://arxiv.org/abs/2008.10642)
+    - 基于grid的参数透镜模型，和LTM模型比较：We obtain reasonably similar (agreeing to within ≃1−3σ, in most cases) time delays and magnification ratios, with respect to S1, from the two different methods, although the LTM predictions seem to be systematically shorter/smaller for some of the images
+    - Most notably, the time delay [and 95\% CI] between the Einstein cross (in particular, image S1), and SX, the image that appeared about a year after the original discovery of the cross, differs substantially between the parametric method (326 [300 -- 359] days) and the LTM method (224 [198 -- 306] days), which seems to underestimates the true reappearance time
+
+- [Cosmography using strong lensing systems and cosmic chronometers](https://arxiv.org/abs/2008.10655)
+    - We present the equation for the angular diameter distance in the y-redshift scenario for cosmography and use it to test the cosmographic parameters. In addition, we also use the observational Hubble data from cosmic chronometers and a Joint analysis of both data is performed.
+
+- [Efficient Mass Estimate at the Core of Strong Lensing Galaxy Clusters Using the Einstein Radius](https://arxiv.org/abs/2008.10676)
+    - At the cores of strong lensing clusters, the Einstein radius can be turned into a mass estimate. This efficient method has been routinely used in literature, in lieu of detailed mass models; however, its scatter, assumed to be ∼30%, has not yet been quantified.
+    - 用模拟进行检验: We measure a scatter of 13.9% and a positive bias of 8.8% in M(<θE), with no systematic correlation with total cluster mass, concentration, or lens or source redshifts
+    - We find that increased deviation from spherical symmetry increases the scatter; conversely, where the lens produces arcs that cover a large fraction of its Einstein circle, both the scatter and the bias decrease
+
+- [Combination of cluster number counts and two-point correlations: Validation on Mock Dark Energy Survey](https://arxiv.org/abs/2008.10757)
+    - **Interesting, Important**
+    - Present a method of combining cluster abundances and large-scale two-point correlations, namely galaxy clustering, galaxy-cluster cross-correlations, cluster auto-correlations, and cluster lensing.
+    - The posterior distribution from the analysis of simulations is statistically consistent with the absence of systematic biases detectable at the precision of the DES Y1 experiment.
+
+- [Joint Survey Processing of Euclid, Rubin and Roman: Final Report](https://arxiv.org/abs/2008.10663)
+    - **Relevant**
+    - The ultimate cosmological, astrophysical and time-domain science yield from these missions will require joint survey processing (JSP) functionality at the pixel level that is outside the scope of the individual survey projects.
+    - 1) provide precise concordance multi-wavelength images and catalogs over the entire sky area where these surveys overlap, which accounts for source confusion and mismatched isophotes, and 2) provide a science platform to analyze concordance images and catalogs to enable a wide range of astrophysical science goals to be formulated and addressed by the research community.
+
+- [Chandra reveals a luminous Compton-thick QSO powering a Lyα blob in a z=4 starbursting protocluster](https://arxiv.org/abs/2008.10613)
+    - We investigated the AGN content of a gas-rich and starbursting protocluster at z=4, known as the Distant Red Core (DRC).
+    - We detected obscured X-ray emission from the two most gas-rich members of the DRC, named DRC-1 and DRC-2. Both of them are resolved into multiple interacting clumps in high-resolution ALMA and HST observations.
+    - DRC-2 is found to host a luminous (L2−10keV≈3×1045ergs−1) Compton-thick (NH≳1024cm−2) QSO, comparable to the most luminous QSOs known at all cosmic times.
+    - X-ray stacking analysis reveals that SMBH accretion is likely also taking place in other DRC galaxies that are not detected individually by Chandra.
+    - The powerful and obscured QSO detected in DRC-2 is likely powering the nearby LAB detected with VLT/MUSE
+
+- [Spectroscopic observations of the machine-learning selected anomaly catalogue from the AllWISE Sky Survey](https://arxiv.org/abs/2008.10658)
+    - One-class support vector machines (OCSVM) 做Anomaly detection
+    - Among the observed objects, we identified three main types of sources: i) low redshift (z~0.03-0.15) galaxies containing large amounts of hot dust (53%), including three Wolf-Rayet galaxies; ii) broad-line quasi-stellar objects (QSOs) (33%) including low-ionisation broad absorption line (LoBAL) quasars and a rare QSO with strong and narrow ultraviolet iron emission; iii) Galactic objects in dusty phases of their evolution (3%).
+
+- [Dust and star formation in the centre of NGC 3311](https://arxiv.org/abs/2008.10662)
+    - 看Hydra I BCG中心的尘埃形成：We used the tool PyParadise to model the stellar population and extract the emission lines.
+    - A dusty 'mini-jet' emanates from the centre. The distribution of the emission line gas matches the dust silhouette almost exactly.
+    - Close to the brightest Halpha emission, the ratio [NII]/Halpha resembles that of HII-regions; in the outer parts, [NII] gets stronger and is similar to LINER-like spectra.
+    - The presence of neutral gas is indicated by the fit residuals of the stellar NaI D absorption line, which we interpret as interstellar absorption. We estimate the mass of the neutral gas to be of the order of the X-ray mass.
+    - Our findings can be harmonised in a scenario in which the star formation is triggered by the accretion of cold gas onto a pre-existing gas/dust disc or ring. Newly produced dust then contributes to the longevity of the dust.
+
+- [Compact elliptical galaxies in different local environments: a mixture of galaxies with different origins?](https://arxiv.org/abs/2008.10686)
+    - **Relevant**
+    - 把Compact elliptical分成有bright host和没有bright host的：No statistically significant difference in age distribution was found between the cE(w)s and cE(w/o)s.
+    - In the mass-metallicity distribution, cE(w)s deviate from the relation observed for early-type galaxies at a given stellar mass, whereas cE(w/o)s conform to the relation.
+    - cE(w)s would be the remnant cores of the massive progenitor galaxies whose outer parts are tidally stripped by a massive neighboring galaxy (i.e., nurture origin). In contrast, cE(w/o)s are likely the faint end of early-type galaxies maintaining in-situ evolution in an isolated environment with no massive galaxy nearby (i.e., nature origin)
+
+- [The VLA-COSMOS 3 GHz Large Project: Average radio spectral energy distribution of active galactic nuclei](https://arxiv.org/abs/2008.10969)
+    - In determining physical properties of galaxies from radio data, the radio SED is often assumed to be described by a simple power law, usually with a spectral index of 0.7 for all sources
+    - Construct average radio SED: We combined VLA observations of the COSMOS field at 1.4 GHz and 3 GHz with GMRT observations at 325 MHz and 610 MHz. To account for nondetections in the GMRT maps, we employed the survival analysis technique.
+    - We find that a sample of RxAGN can be described by a spectral index of α1=0.28±0.03 below the break frequency νb=(4.1±0.2) GHz and α2=1.16±0.04 above, while a simple power-law model yields a single spectral index of α=0.64±0.07.
+
+- [A study of extragalactic planetary nebulae populations basedon spectroscopy. I. Data compilation and first findings](https://arxiv.org/abs/2008.11097)
+    - 500 PNe in 13 galaxies: We find that the ionized masses and the luminosities in Hβ, LHβ, of around 30 objects previously identified as PNe indicate that they are most likely compact HII regions.
+    - We find an anticorrelation between the electron densities and the ionized masses in M31, M33, and NGC 300 which suggests that most of the PNe observed in these galaxies are probably ionization bounded. This trend is absent in LMC and SMC suggesting that many of their PNe are density bounded.
+    - We also find that the brightest PNe in the sample are not necessarily the youngest since there is no correlation between electron densities and the Hβ luminosities
+    - The strong correlation found between LHβ-L[OIII] implies that the so far not understood cut off of the planetary luminosity function (PNLF) based on [O III] magnitudes can be investigated using LHβ, a parameter much easier to study.
+
+- [Multiple AGN activity during the BCG assembly of XDCPJ0044.0-2033 at z~1.6](https://arxiv.org/abs/2008.11132)
+    - **Relevant**
+    - We have performed a detailed multi-wavelength analysis of the core of XDCPJ0044.0-2033 (XDCP0044), one of the most massive and densest galaxy clusters currently known at redshift z~1.6
+    - In the central region of the cluster (~70x70 kpc^2), 2 systems of interacting galaxies have been identified and studied (Complex A and B), with a total of 7 confirmed cluster members. These galaxies show perturbed morphologies and 3 of them show signs of AGN activity.
+    - In particular, 2 type-1 AGN with typical broad lines have been found at the center of each complex (both of them X-ray obscured and highly accreting; Eddington ratio ~0.5), while a type-2 AGN has been discovered in Complex A.
+    - The 3 AGN provide one of the closest AGN triple at z>1 revealed so far with a minimum(maximum) projected distance of ~10(40) kpc.
+
+- [The Molecular Mass function of the Local Universe](https://arxiv.org/abs/2008.11134)
+    - Bivariate Kband-Mass Function of the Herschel Reference Survey
+    - The value of the local density of the molecular gas mass inferred from our analysis is ~1.5x10^7 Mo Mpc^-3, and it is compared with the results at larger redshifts, confirming the lack of strong evolution of the molecular mass density between z=0 and z=4
