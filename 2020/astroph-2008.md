@@ -908,3 +908,53 @@
 - [The Molecular Mass function of the Local Universe](https://arxiv.org/abs/2008.11134)
     - Bivariate Kband-Mass Function of the Herschel Reference Survey
     - The value of the local density of the molecular gas mass inferred from our analysis is ~1.5x10^7 Mo Mpc^-3, and it is compared with the results at larger redshifts, confirming the lack of strong evolution of the molecular mass density between z=0 and z=4
+
+----
+
+### Aug 26
+
+- [GPU-accelerated Image Reduction Pipeline](https://arxiv.org/abs/2008.11486)
+    - 主要是为了快速暂现天体的发现设计的，应对快速follow-up的需求：uses a GPU via a Python package CuPy to achieve high-speed image processing.
+
+- [An Excess of Globular Clusters in UDGs Formed Through Tidal Heating](https://arxiv.org/abs/2008.11205)
+    - **Interesting, Relevant**
+    - Given that UDGs formed through environmental processes are more likely to be accreted at high redshift, these systems have more GCs than non-UDGs.
+    - Among our model objects, both UDGs and non-UDGs present a correlation between halo mass and GC mass, although UDGs have lower dynamical masses at a given GC mass.
+    - Because of the effectiveness of GC disruption, we predict that GCs around UDGs should have a more top heavy mass function than GCs around non-UDGs.
+
+- [Ultra-faint dwarfs in a Milky Way context: Introducing the Mint Condition DC Justice League Simulations](https://arxiv.org/abs/2008.11207)
+    - **Interesting**
+    - 超高分辨率的数值模拟：We find that the simulated dwarfs and ultra-faint dwarfs (UFDs) reproduce the observed structural and dynamical properties of galaxies with −3<MV<−19
+    - We predict the vast majority of nearby galaxies will be observable given the surface brightness limits of the Vera Rubin Observatory's co-added Legacy Survey of Space and Time (LSST).
+    - We additionally show that faint dwarfs with velocity dispersions ≲5 km/s result from severe tidal stripping of the host halo.
+        - We find that the majority of the UFDs are quenched prior to interactions with the Milky Way, though some of the quenched UFDs retain their gas until infall.
+
+- [Completing the Census of AGN in GOODS-S/HUDF: New Ultra-Deep Radio Imaging and Predictions for JWST](https://arxiv.org/abs/2008.11208)
+    - We identify AGN within faint radio populations at cosmic noon selected from new ultra-deep, high resolution imaging from the Karl G. Jansky Very Large Array at 6 and 3 GHz
+    - We uncover AGN in fully half our faint radio sample, indicating a source density of one AGN arcmin−2, with a similar number of radio-undetected AGN identified via X-ray over the same area
+    - 大部分有射电探测的AGN都是radio-quiet的，SF就可以解释射电辐射
+    - We find AGN radio signatures in our sample: ∼12% with radio excess indicating radio-loud activity and ∼16% of radio-quiet AGN candidates with flat or inverted radio spectra. The latter is a lower limit, pending our upcoming deeper 3 GHz survey.
+
+- [A Catalog of 406 AGNs in MaNGA: A Connection between Radio-mode AGN and Star Formation Quenching](https://arxiv.org/abs/2008.11210)
+    - We identify the AGNs via mid-infrared WISE colors, Swift/BAT ultra hard X-ray detections, NVSS and FIRST radio observations, and broad emission lines in SDSS spectra
+    - we find that the radio-mode AGN host galaxies reside preferentially in elliptical galaxies, lie further beneath the star-forming main sequence (with lower star formation rates at fixed galaxy mass), have older stellar populations, and have more negative stellar age gradients with galactocentric distance (indicating inside-out quenching of star formation).
+
+- [Host Galaxy Properties of Changing-look AGN Revealed in the MaNGA Survey](https://arxiv.org/abs/2008.11336)
+    - All MaNGA CL-AGNs reside in the star-forming main sequence, similar to MaNGA non-changing-look AGNs (NCL-AGNs). The 80%±16% of our CL-AGNs do possess pseudo-bulge features, and follow the overall NCL-AGNs MBH−σ∗ relationship.
+    - MaNGA CL-AGNs however show a higher, but not statistically significant (20%±16%) fraction of counter-rotating features compared to that (1.84%±0.61%) in general star-formation population.
+
+- [AstroSat detection of Lyman continuum emission from a z=1.42 galaxy](https://arxiv.org/abs/2008.11394)
+    - The detection of Lyman continuum emission with a high escape fraction (>20%) from a low-mass clumpy galaxy at z=1.42, in the middle of the redshift range where no detection has been made before and near the peak of the Cosmic Star-formation history.
+    - 用 wide-field Ultra-Violet-Imaging Telescope onboard AstroSat 发现的
+
+- [Giant Metrewave Radio Telescope detections of two high-opacity HI 21cm absorbers at z≈1.2](https://arxiv.org/abs/2008.11403)
+    - The discovery of two remarkable high-opacity HI 21cm absorbers against low-luminosity active galactic nuclei (AGNs), at z=1.2166 towards J0229+0044 and at z=1.1630 towards J0229+0053.
+    - The velocity-integrated HI 21cm optical depths are (74.2±7.8) km s−1 (J0229+0044) and (78.41±0.81) km s−1 (J0229+0053), higher than that of any known redshifted HI 21cm absorber at z>0.12, and implying high H{\sc i} column densities, >10^22 cm−2.
+    - The paucity of HI 21cm absorbers at z≳1 may be due to a luminosity bias in high-z AGN samples that have been searched for HI 21cm absorption, where the high AGN ultraviolet luminosity affects physical conditions in its environment, ionizing the neutral hydrogen.
+
+- [Probing galaxy evolution in massive clusters using ACT and DES: splashback as a cosmic clock](https://arxiv.org/abs/2008.11663)
+    - **Relevant, Important**
+    - 用DES去看advACT挑选的SZ-cluster的Splashback半径：The splashback radius for the complete galaxy sample is consistent with theoretical measurements from CDM-only simulations, and is located at 2.4+0.3−0.4 Mpc h−1
+    - 不同颜色的星系给出的profile非常不一样：Red galaxies and those in the green valley show a splashback-like minimum in their slope profile consistent with theoretical predictions, while the bluest galaxies show a weak feature that appears at a smaller radius.
+    - We find that the location of the steepest slope and differences in the shapes of the profiles can be mapped to differences in the average time of infall of galaxies of different colors. 能够用Splashback位置限制星系quenching时标
+    - We find that red galaxies have on average been in their clusters for over 3.2 Gyrs, green galaxies about 2.2 Gyrs, while blue galaxies have been accreted most recently and have not reached apocenter.
