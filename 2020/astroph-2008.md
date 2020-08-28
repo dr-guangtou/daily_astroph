@@ -958,3 +958,34 @@
     - 不同颜色的星系给出的profile非常不一样：Red galaxies and those in the green valley show a splashback-like minimum in their slope profile consistent with theoretical predictions, while the bluest galaxies show a weak feature that appears at a smaller radius.
     - We find that the location of the steepest slope and differences in the shapes of the profiles can be mapped to differences in the average time of infall of galaxies of different colors. 能够用Splashback位置限制星系quenching时标
     - We find that red galaxies have on average been in their clusters for over 3.2 Gyrs, green galaxies about 2.2 Gyrs, while blue galaxies have been accreted most recently and have not reached apocenter.
+
+----
+
+### Aug 27
+
+- [Cluster Strong Lensing with Hierarchical Inference](https://arxiv.org/abs/2008.11728)
+    - We aim at cluster lensing models where the parameters of all cluster-member galaxies are free to vary around some common scaling relations with non-zero scatter, and deviate significantly from them if and only if the data require it.
+    - BayesLens:  We have devised a Bayesian hierarchical inference framework, which enables the determination of all lensing parameters
+    - We have shown that an accurate description of cluster member galaxies is attainable, despite the large number of degrees of freedom, through fast and tractable inference.
+
+- [The Effect of Environment on Type Ia Supernovae in the Dark Energy Survey Three-Year Cosmological Sample](https://arxiv.org/abs/2008.12101)
+    - 关于SNIa可能的Host环境依赖：SNe Ia in high-mass, passive hosts appear brighter than those in lower-mass, star-forming hosts.
+    - We find all Hubble residual steps to be >3σ in significance, both for splitting at the traditional sample median and for the step of maximum significance.
+    - We split the data into sub-samples based on SN Ia light curve parameters: stretch (x1) and colour (c), finding that redder objects (c>0) have larger Hubble residual steps, for both stellar mass and U−R, for both local and global measurements, of ∼0.14 mag.
+    - Additionally, the bluer (star-forming) local environments host a more homogeneous SN Ia sample, with local U−R r.m.s. scatter as low as 0.084±0.017 mag for blue (c<0) SNe Ia in locally blue U−R environments.
+
+- [Massive elliptical galaxies at z∼0.2 are well described by stars and a Navarro-Frenk-White dark matter halo](https://arxiv.org/abs/2008.11724)
+    - **Relevant**
+    - SLACS样本：lensing+动力学分析，We find that the distribution of the lensing-only logarithmic slopes has a median 2.08 ± 0.03 and intrinsic scatter 0.13 ± 0.02, consistent with the original SLACS analysis.
+    - We find that the DM halos are well described by a standard Navarro–Frenk–White halo with no contraction on average for both of a constant stellar mass-to-light ratio (M/L) model and a stellar M/L gradient model.
+    - Comparison of our inferred stellar masses with those obtained from the stellar population synthesis method supports a heavy initial mass function (IMF) such as the Salpeter IMF
+
+- [OVI Traces Photoionized Streams With Collisionally Ionized Boundaries in Cosmological Simulations of z∼1 Massive Galaxies](https://arxiv.org/abs/2008.11863)
+    - VELA模拟中z~1处的10^12 Msun halo的CGM中的OVI分布和起源： OVI in the inflowing cold streams is primarily photoionized, while in the bulk volume it is primarily collisionally ionized.
+    - The photoionized component dominates the observed column density at large impact parameters (≳0.3Rvir), while the collisionally ionized component dominates closer in.
+
+- [CO observations toward HI-rich Ultra Diffuse Galaxies](https://arxiv.org/abs/2008.11890)
+    - **Relevant**
+    - IRAM 30m观测6个HI-rich UDG以及VLSB-A
+    - CO 1-0 is marginally detected at 4sigma level in AGC122966, as the first detection of CO emission in UDGs.
+    - These upper limits and the marginal CO detection in AGC122966 indicate low mass ratios between molecular and atomic gas masses. SF效率很低
