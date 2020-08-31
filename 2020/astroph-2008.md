@@ -989,3 +989,24 @@
     - IRAM 30m观测6个HI-rich UDG以及VLSB-A
     - CO 1-0 is marginally detected at 4sigma level in AGC122966, as the first detection of CO emission in UDGs.
     - These upper limits and the marginal CO detection in AGC122966 indicate low mass ratios between molecular and atomic gas masses. SF效率很低
+
+----
+
+### Aug 30
+
+- [Candidate Periodically Variable Quasars from the Dark Energy Survey and the Sloan Digital Sky Survey](https://arxiv.org/abs/2008.12329)
+    - DES-SN + SDSS S82里面找QSO光变的周期性，20年的数据
+    - We find five candidates with significant (at >99.74% level in at least two bands) periodicity with observed periods of ∼3--5 years (i.e., 1--2 years in rest frame) having ∼4--6 cycles spanned by the observations.
+    - Our detection rate is 4--80 times larger than those found by previous searches using shallower surveys over larger areas.
+
+- [The frequency of extreme X-ray variability of radio-quiet quasars](https://arxiv.org/abs/2008.12778)
+    - The tail-heavy distributions of variability amplitudes at all timescales indicate that extreme X-ray variations are driven by an additional physical mechanism and not just typical random fluctuations of the coronal emission.
+    - Similarly, extreme X-ray variations of low-luminosity quasars seem to be driven by an additional physical mechanism, whereas high-luminosity quasars seem more consistent with random fluctuations.
+
+- [Discovery of a Candidate Binary Supermassive Black Hole in a Periodic Quasar from Circumbinary Accretion Variability](https://arxiv.org/abs/2008.12317)
+    - we report discovery of a periodicity (P~1607 days) at 99.95% significance in the optical light curves of a quasar at z=1.53, SDSS J025214.67-002813.7W
+    - The light curves are best characterized by a bursty model predicted by hydrodynamic simulations of circumbinary accretion disks. The periodicity is likely caused by accretion rate variability periodically modulated by a milli-parsec BSBH emitting gravitational waves while still being dynamically coupled to the circumbinary accretion disk.
+    - Furthermore, the frequency dependence of the variability amplitudes disfavors Doppler boost as the dominant mechanism, lending independent support to the circumbinary accretion variability hypothesis
+
+- [The Fornax Deep Survey data release 1](https://arxiv.org/abs/2008.12633)
+    - OmegaCAM ugri-band: With exposure times of about 9 hours over an area of ~28 square degrees, this survey is a legacy dataset for studies of members of the Fornax Galaxy Cluster and the infalling Fornax A Group down to a surface brightness limit of ~28 mag/arcsec^2
