@@ -1010,3 +1010,73 @@
 
 - [The Fornax Deep Survey data release 1](https://arxiv.org/abs/2008.12633)
     - OmegaCAM ugri-band: With exposure times of about 9 hours over an area of ~28 square degrees, this survey is a legacy dataset for studies of members of the Fornax Galaxy Cluster and the infalling Fornax A Group down to a surface brightness limit of ~28 mag/arcsec^2
+
+----
+
+### Aug 31
+
+- [Clustering of red-sequence galaxies in the fourth data release ofthe Kilo-Degree Survey](https://arxiv.org/abs/2008.13154)
+    - The red-sequence template is built using the broad-band optical+near infrared photometry of KiDS-VIKING and the overlapping spectroscopic data sets.
+    - We measure the angular two-point correlation function of the red galaxies in four redshift bins, and constrain the large scale bias of our red-sequence sample assuming a fixed ΛCDM cosmology. We find consistent linear biases for two luminosity-threshold samples (dense and luminous).
+
+- [Ray-tracing log-normal simulation for weak gravitational lensing: application to the cross-correlation with galaxies](https://arxiv.org/abs/2008.13195)
+    - **CSST, SSST**
+    - We present an algorithm to self-consistently generate mock weak gravitational lensing convergence fields and galaxy distributions in redshift space. We generate three-dimensional cosmic density fields that follow a log-normal distribution, and ray-trace them to produce convergence maps.
+    - 为HSC和PFS提供预测:We find that the nominal HSC and PFS surveys would detect the cross power spectra with signal-to-noise ratios of 20 and 5 at the lowest (z=0.7) and highest (z=2.2) redshift bins, respectively.
+
+- [AGN jet feedback on a moving mesh: weak shocks and lobe disruption gently prevent the cooling catastrophe Martin A. Bourne, Debora Sijacki](https://arxiv.org/abs/2008.12784)
+    - We perform very high resolution AGN jet simulations within a live, cosmologically evolved cluster with the moving mesh code AREPO.
+    - During the lobe inflation phase, heating by both internal and bow shocks contributes to lobe energetics, and ~40 per cent of the feedback energy goes into the PdV work done by the expanding lobes
+    - Low power jets are more likely to simply displace gas during lobe inflation, but higher power jets become more effective at driving shocks and heating the intracluster medium (ICM), although shocks rarely exceed ~2-3.
+    - Lower power jet lobes are more readily disrupted and mixed with the ICM, depositing up to ~70 per cent of the injected energy, however, ultimately the equivalent of ≳50 per cent of the feedback energy ends up as potential energy of the system. 
+    - Even though the mean ICM entropy is increased up to 80 Myr after the jets switch off, AGN heating is gentle, inducing no large variations in cluster radial profiles in accord with observations.
+
+- [The SAGA Survey. II. Building a Statistical Sample of Satellite Systems around Milky Way-like Galaxies](https://arxiv.org/abs/2008.12783)
+    - Upon completion, the SAGA Survey will spectroscopically identify satellite galaxies brighter than Mr,o=−12.3 around one hundred Milky Way (MW) analogs at z∼0.01
+    - 目前包括了：127 satellites around 36 MW analogs
+    - We have obtained 25,372 galaxy redshifts, peaking around z=0.2. These data significantly increase spectroscopic coverage for very low-redshift objects in 17< r <20.75 around SAGA hosts
+    - 银河系卫星的数量和光度可以看成是从SAGA样本里抽取出来的；大部分SAGA卫星星系都是SF的，quenched的卫星比例比LG低
+
+- [Tracing the simulated high-redshift circum-galactic medium with Lyman alpha emission](https://arxiv.org/abs/2008.12790)
+    - We present a cosmological radiation hydrodynamics simulation of a single galaxy, chosen to be typical of the Lyman alpha-emitting galaxies detected by MUSE in deep fields 模拟中缺少外流
+    - 模拟中大部分弥散CGM是第一次下落到halo中的气体；中心区域也有准备settling into一个旋转结构的
+    - The observed extended surface brightness profile is due to a combination of three components: scattering of galactic Lyman alpha emission in the CGM, in-situ emission of CGM gas (mostly infalling), and Lyman alpha emission from small satellite galaxies. 
+    - 不同成分贡献随距离不同：散射成分在中心占主导；小卫星发射在外围占主导
+
+- [Star cluster formation in the most extreme environments: Insights from the HiPEEC survey](https://arxiv.org/abs/2008.12794)
+    - Hubble imaging Probe of Extreme Environments and Clusters (HiPEEC) survey
+    - 6个并合星系中星团的年龄，质量，消光，和SFR估计；The recent cluster formation history and their distribution within the host galaxies suggest that systems like NGC34, NGC1614, NGC4194 are close to their final coalescing phase, while NGC3256, NGC3690, NGC6052 are at an earlier/intermediate stage.
+    - Cluster mass function: 4/6个星系中1-100 Myr年龄的星团可以更好的用 an exponentially truncated power law better describes the observed mass distributions.
+    - Advanced mergers have higher Mc than early/intermediate merger stage galaxies, suggesting rapid changes in the dense gas conditions during the merger.
+
+- [The Relative Role of Bars and Environments in AGN Triggering](https://arxiv.org/abs/2008.13100)
+    - 基于SDSS的：We demonstrate that the internal process of the bar-induced gas inflow is more efficient in AGN triggering than the external mechanism of the galaxy interactions in groups and cluster outskirts.
+    - We conclude that from the perspective of AGN-galaxy co-evolution, a massive black hole is one of the key drivers of spiral galaxy evolution. If it is not met, a bar instability helps the evolution, and in the absence of bars, galaxy interactions/mergers become important.
+    - We also find that bars in massive galaxies are very decisive in increasing AGN fractions when the host galaxies are inside clusters.
+
+- [Effect of the environment on star formation activity and stellar mass for star-forming galaxies in the COSMOS field](https://arxiv.org/abs/2008.13131)
+    - VLA-COSMOS 3 GHz看环境对SF和射电光度的影响：We find that the slope of the MS for different z and M∗ bins is shallower than the MS consensus with a gradual evolution towards higher redshift bins, irrespective of environments. We see no SFR trends on both environments and galaxy type given the large errors
+    - We note that the environment does not seem to be the cause of the flattening of MS at high stellar masses for our sample
+
+- [Distance and mass of the M104 (Sombrero) group](https://arxiv.org/abs/2008.13152)
+    - ACS观测两个dwarf星系，用TRGB定距离：9.03-9.72 Mpc
+    - Using radial velocities and projected separations of UGCA 307, KKSG 30, and a third galaxy with an accurate distance (KKSG 29), as well as 12 other assumed companions with less accurate distances, the total mass of M 104 is estimated to be (1.55±0.49)10^13M⊙
+    - Its total mass-to-luminosity ratio is MT/LK=(65±20)M⊙/L⊙, which is about three times higher than that of luminous bulgeless galaxies.
+
+- [Astraeus III: The environment and physical properties of reionization source](https://arxiv.org/abs/2008.13215)
+
+- [Extraplanar gas in Edge-on Galaxies traced by SOFIA observations of [C II]](https://arxiv.org/abs/2008.13259)
+
+- [NIHAO XXVI: Nature versus nurture, the Star Formation Main Sequence and the origin of its scatter](https://arxiv.org/abs/2008.13379)
+
+- [A Recent Major Merger Tale for the Closest Giant Elliptical Galaxy Centaurus A](https://arxiv.org/abs/2008.13418)
+
+- [Extracting the Possible Intrinsic Relation between Radiative Efficiency and Mass of QSOs: a Maximum Likelihood Method and its Application to the SDSS DR7 QSOs](https://arxiv.org/abs/2008.13555)
+
+- [A Planck-selected dusty proto-cluster at z=2.16 associated with a strong over-density of massive Hα emitting galaxies](https://arxiv.org/abs/2008.13614)
+
+- [Discovery of molecular gas fueling galaxy growth in a protocluster at z=1.7](https://arxiv.org/abs/2008.13665)
+
+- [Measuring galaxy abundance and clustering at high redshift from incomplete spectroscopic data: Tests on mock catalogs and application to zCOSMOS](https://arxiv.org/abs/2008.13733)
+
+- [Effect of Bars on Evolution of SDSS Spiral Galaxies](https://arxiv.org/abs/2008.13743)
