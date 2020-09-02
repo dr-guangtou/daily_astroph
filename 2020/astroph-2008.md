@@ -1032,6 +1032,7 @@
     - Even though the mean ICM entropy is increased up to 80 Myr after the jets switch off, AGN heating is gentle, inducing no large variations in cluster radial profiles in accord with observations.
 
 - [The SAGA Survey. II. Building a Statistical Sample of Satellite Systems around Milky Way-like Galaxies](https://arxiv.org/abs/2008.12783)
+    - **Interesting, Important**
     - Upon completion, the SAGA Survey will spectroscopically identify satellite galaxies brighter than Mr,o=−12.3 around one hundred Milky Way (MW) analogs at z∼0.01
     - 目前包括了：127 satellites around 36 MW analogs
     - We have obtained 25,372 galaxy redshifts, peaking around z=0.2. These data significantly increase spectroscopic coverage for very low-redshift objects in 17< r <20.75 around SAGA hosts
@@ -1064,19 +1065,47 @@
     - Its total mass-to-luminosity ratio is MT/LK=(65±20)M⊙/L⊙, which is about three times higher than that of luminous bulgeless galaxies.
 
 - [Astraeus III: The environment and physical properties of reionization source](https://arxiv.org/abs/2008.13215)
+    1. For constant fesc models, intermediate-mass galaxies (with halo masses of Mh≃109−11M⊙ and absolute UV magnitudes of MUV∼−15 to −20) in intermediate-density regions drive reionization;
+    2. Scenarios where fesc increases with decreasing halo mass shift the galaxy population driving reionization to lower-mass galaxies (Mh<10^9.5M⊙) with lower luminosities (MUV>−16) and over-densities
+    3. Galaxies in over-dense regions (that are reionized earlier) experience a stronger suppression of star formation by radiative feedback and show lower ionizing emissivities
 
 - [Extraplanar gas in Edge-on Galaxies traced by SOFIA observations of [C II]](https://arxiv.org/abs/2008.13259)
+    - NGC 891 and NGC 5907: for the central region and actively-star-forming regions in the northern portion of NGC 891, and for NGC 5907, a thin (0.3 kpc) disk is supplemented by a thick disk with an exponential scale height of about 2 kpc. 
+    - The [C II] is far more extended than mid-infrared emission; 但不如中性气体HI分布延展
+    - The extraplanar [C II] may arise in walls of chimneys that connect the disk to the halo.
 
 - [NIHAO XXVI: Nature versus nurture, the Star Formation Main Sequence and the origin of its scatter](https://arxiv.org/abs/2008.13379)
+    - The NIHAO galaxies reproduce the SFMS and generally agree with observations, but the slope is about unity and thus significantly larger than observed values. 主要是因为大质量星系中缺乏了AGN的反馈作用
+    - We find the deviation of a galaxy from the SFMS is correlated with its z=0 dark matter halo concentration and thus with its halo formation time. SFR高于平均的星系的halo形成得晚
+    - Later forming haloes have a lower-than-average stellar mass, this is simply because they have had less-than-average time to form stars, and vice versa.
 
 - [A Recent Major Merger Tale for the Closest Giant Elliptical Galaxy Centaurus A](https://arxiv.org/abs/2008.13418)
+    - **Relevant**
+    - We find that a single major merger event with a mass ratio up to 1.5, and which has happened ~2 Gyr ago, is able to reproduce many of its properties, including galaxy kinematics, the inner gas disk, stellar halo ages and metallicities, and numerous faint features observed in the halo.
+    - The elongated halo shape is mostly made of progenitor residuals deposited by the merger, which also contribute to stellar shells observed in the Centaurus A halo.
+    - A recent merger left imprints in the age distribution that are consistent with the young stellar and Globular Cluster populations (2-4 Gyrs) found within the halo.
 
 - [Extracting the Possible Intrinsic Relation between Radiative Efficiency and Mass of QSOs: a Maximum Likelihood Method and its Application to the SDSS DR7 QSOs](https://arxiv.org/abs/2008.13555)
+    - We develop a maximum likelihood method to statistically extract the intrinsic relation between radiative efficiency (ϵ) and mass (M∙) of QSOs from their distribution on the luminosity-(empirically estimated virial) mass plane.
+    - Applying this method to the SDSS DR7 QSOs with z≲0.7, we find ϵ∝M^0∼1.1∙ (or ϵ∝M^−1.0∼0∙) correlation for QSOs with the masses obtained according to the Hβ (or Mg II) empirical mass estimator
 
 - [A Planck-selected dusty proto-cluster at z=2.16 associated with a strong over-density of massive Hα emitting galaxies](https://arxiv.org/abs/2008.13614)
+    - **Relevant**
+    - This Planck-selected dusty proto-cluster at z=2.16 has 38 H-alpha emitters including six spectroscopically confirmed galaxies in the observed MOIRCS 4'x7' field
+    - We find that massive H-alpha emitters with log(M*/Msun)>10.5 are strongly clustered in the core of the proto-cluster
+    - Most of the H-alpha emitters in this proto-cluster lie along the star-forming main sequence using H-alpha-based SFR estimates. 不能排除有很多尘埃遮挡的SF没有被探测到
 
 - [Discovery of molecular gas fueling galaxy growth in a protocluster at z=1.7](https://arxiv.org/abs/2008.13665)
+    - **Relevant**
+    - ALMA观测：report the discovery of three new gas-rich (M_H2 ~ 1.5-4.8 x 10^10 M_sun, SFRs in the range ~5-100 M_sun/yr) galaxies in an overdense region at z=1.7 在1.15 Mpc范围内一共有11个星系
+    - Under simple assumptions, we estimate that the system has a total mass of >= 3-6 x 10^13 M_sun, and show that it will likely evolve into a >~ 10^14 M_sun cluster at z = 0
+    - 其中包括了一个CT-FR2射电星系，气体质量很大，密度很高，可能看到的是个侧向的盘：The velocity map of this source unveils a rotational motion of the gas that is perpendicular to the radio-jets.
+    - 这个FRII射电星系可能就是未来的BCG
 
 - [Measuring galaxy abundance and clustering at high redshift from incomplete spectroscopic data: Tests on mock catalogs and application to zCOSMOS](https://arxiv.org/abs/2008.13733)
+    - 看高红移处的红移巡天的target selection和不完备性如何影响数密度以及相关函数的测量，如何改正这些bias
+    - As applications, mock catalogs are constructed for two high-z surveys: the existing zCOSMOS-bright galaxy sample and the forthcoming PFS galaxy evolution survey
+    - We find that, for both number density and correlation function, the relative error due to cosmic variance in the PFS galaxy survey will be reduced by a factor of 3-4 when compared to zCOSMOS.
 
 - [Effect of Bars on Evolution of SDSS Spiral Galaxies](https://arxiv.org/abs/2008.13743)
+    - A massive BH and abundant gas fuels are sufficient conditions to trigger AGNs. We infer that the AGNs triggered by satisfying the two conditions drive the strong AGN feedback, suddenly suppressing the central SF and leaving the SF sequence.
