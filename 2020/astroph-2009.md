@@ -30,7 +30,7 @@
     - **Relevant**
     - Horizon-AGN+DISPERSE看halo assembly堆在cosmic web中位置的依赖: we detect a direct and non-negligible influence of cosmic filaments.
     - 接近filament一般意味着恒星质量聚集的enhance；但在filaments的边缘也看到了SF被抑制的迹象 (filament边缘整体角动量高，气体从halo外向中心输送的效率被降低)
-    - We find clues for compaction of the stellar distribution at close proximity to filaments. 
+    - We find clues for compaction of the stellar distribution at close proximity to filaments.
 
 - [Observing the stellar halo of Andromeda in cosmological simulations: the Auriga2PAndAS pipeline](https://arxiv.org/abs/2009.00060)
     - **CSST**
@@ -88,7 +88,7 @@
     - We propose that when combined with independent metallicity and age indicators such as Mg2 and Hβ, the UV and optical SBFs can readily detect underlying He-rich populations in unresolved stellar systems at a distance out to ≳20 Mpc
 
 - [MOONS Surveys of the Milky Way and its Satellites](https://arxiv.org/abs/2009.00635)
-    - MOONS will observe up to 1000 targets across a 25-arcminute field of view in the optical and near-infrared (0.6-1.8 micron) simultaneously. A high-resolution (R~19700) setting in the H band has been designed for the accurate determination of stellar abundances such as alpha, light, iron-peak and neutron-capture elements. 
+    - MOONS will observe up to 1000 targets across a 25-arcminute field of view in the optical and near-infrared (0.6-1.8 micron) simultaneously. A high-resolution (R~19700) setting in the H band has been designed for the accurate determination of stellar abundances such as alpha, light, iron-peak and neutron-capture elements.
 
 - [A Novel Machine Learning Approach to Disentangle Multi-Temperature Regions in Galaxy Clusters](https://arxiv.org/abs/2009.00625)
     - Synthetic spectra containing a various number of underlying thermal components were created using well-established tools available from the Chandra X-ray Observatory.
@@ -114,7 +114,7 @@
 
 - [Gas and Star Formation from HD and Dust Emission in a Strongly Lensed Galaxy](https://arxiv.org/abs/2009.00674)
     - We extend an additional molecular gas tracer to high-redshift studies by observing hydrogen deuteride (HD) emission in the strongly lensed z=5.656 galaxy SPT0346-52 with ALMA
-    - 只有上限限制：M_H2 < 6x10^11 Msun; 
+    - 只有上限限制：M_H2 < 6x10^11 Msun;
     - 观测 implies a CO conversion factor of αCO<2.2, which is between the standard values for MW-like galaxies and starbursts. These properties confirm that SPT0346-52 is a heavily starbursting, gas rich galaxy.
 
 - [Extinction in the 11.2 micron PAH band and the low L_11.2/L_IR in ULIRGs](https://arxiv.org/abs/2009.00676)
@@ -128,7 +128,7 @@
     - A value of the Hubble Constant is determined of H0 = 75.1+-0.2 (stat.), with potential systematics up to +-3 km/s/Mpc.
 
 - [SCUBA2 High Redshift Bright Quasar Survey: Far-infrared Properties and Weak-line Features](https://arxiv.org/abs/2009.00877)
-    - SCUBA2观测：54 high redshift quasars at 5.6< z <6.9. About 30% (16/54) of the sources are detected with a typical 850μm rms sensitivity of 1.2 mJybeam−1 
+    - SCUBA2观测：54 high redshift quasars at 5.6< z <6.9. About 30% (16/54) of the sources are detected with a typical 850μm rms sensitivity of 1.2 mJybeam−1
     - QSO Host星系的SFR在90-1060 Msun/yr之间；和2< z < 5的QSO比，在z~6 FIR luminous的QSO更稀少
     - Quasars with submillimeter detections tend to have weaker ultraviolet (UV) emission lines compared to quasars with nondetections: 11%的源有很弱的Lya发射
     - 可能反应了早期AGN-星系演化：broad line region is starting to develop slowly or is shielded from the central ionization source, and has unusual properties such as weak line features or bright FIR emission.
@@ -177,10 +177,19 @@
     - This suggests that observed stellar metallicity gradients may be driven largely by the baryon/feedback cycle rather than by external environmental effects.
 
 - [A dynamically cold disk galaxy in the early Universe](https://arxiv.org/abs/2009.01251)
+    - We report the presence of a dynamically cold, but highly star-forming, rotating disk in a galaxy at redshift (z) 4.2, when the Universe was just 1.4 billion years old. Galaxy SPT-S J041839-4751.9 is strongly gravitationally lensed by a foreground galaxy at z=0.263
+    - Interferometric imaging at a spatial resolution of about 60 pc reveals a ratio of rotational-to-random motions of V/σ=9.7±0.4, which is at least four times larger than expected from any galaxy evolution model at this epoch
 
 - [CANDELS Meets GSWLC: Evolution of the Relationship Between Morphology and Star Formation Since z = 2](https://arxiv.org/abs/2009.01261)
+    - Combining CANDELS (0.8 < z < 2.5) and the GALEX-SDSS-WISE Legacy Catalog (GSWLC; z ~ 0), has physical parameters derived using consistent SED fitting with flexible dust attenuation laws 物理分辨率是一样的
+    - Our main finding is that disks with SF clumps at z ~ 0 make a similar fraction (~15%) of star-forming galaxies as at z ~ 2. 最大的贡献在z~1
+    - Among green valley and quiescent galaxies, the pure spheroid fraction drops since z ~ 1, whereas spheroids with disks (S0-like) become dominant.
 
 - [The rocky road to quiescence: compaction and quenching of quasar host galaxies at z~2](https://arxiv.org/abs/2009.01277)
+    - 7个 1.5 < z < 2.8的透镜放大的QSO host星系:We find that the quasar hosts in our sample can be distinguished into two types
+        1. Clumpy SF, Re~2 kpc; 平均SFR密度与mm-selected dusty SF星系类似
+        2. Passive or compact SB, Re~0.5 kpc; SFR面密度非常高
+    - 第二类可能是处于compaction阶段的：For the one system where we probe the mass of the gas reservoir, we find a gas fraction of just 0.06±0.04 and a depletion timescale of 50±40 Myr, suggesting it is transitioning into quiescence.
 
 - [The dynamical state of Abell 2399: a bullet-like cluster](https://arxiv.org/abs/2009.01400)
     - We apply a Gaussian Mixture Model to the spectroscopic data from SDSS, WINGS, and Omega WINGS Surveys to identify substructures. 能重现两个主要的X-ray concentration.
@@ -196,5 +205,73 @@
     - We use a sample of 1114 ETGs in the TNG100 simulation with stellar masses 10^10.3≤M∗/M⊙≤10^12, selected at z=0 within the range of g-r colour and lambda-ellipticity diagram populated by observed ETGs.
     - Low-mass ETGs have characteristic peaked rotation profiles and near-oblate shapes with rounder halos that are completely driven by the in-situ stars. At high fex major mergers decrease the in-situ peak in rotation velocity, flatten the V∗/σ∗(R) profiles, and increase the triaxiality of the stellar halos.
     - Kinematic transition radii do not trace the transition between in-situ and ex-situ dominated regions, but for systems with M∗>10^10.6M⊙ the local rotational support and triaxiality of the stellar halos is anti-correlated with the local ex-situ fraction fex(R) at fixed M∗
-    - Merger events dynamically couple stars and dark matter: in high mass ETGs and at large radii where fex≳0.5, both components tend to have similar intrinsic shapes and rotational support, and nearly aligned principal axes and spin directions. 
+    - Merger events dynamically couple stars and dark matter: in high mass ETGs and at large radii where fex≳0.5, both components tend to have similar intrinsic shapes and rotational support, and nearly aligned principal axes and spin directions.
 
+----
+
+### Sep 6
+
+- [HMcode-2020: Improved modelling of non-linear cosmological power spectra with baryonic feedback](https://arxiv.org/abs/2009.01858)
+    - 升级HMcode，提供更精确的non-linear matter power spectrum预测
+    - Major improvements include modelling of BAO damping in the power spectrum and an updated treatment of massive neutrinos.
+    - 能考虑Baryonic feedback: We also present a simple halo model that can be used to model the impact of baryonic feedback on the power spectrum.
+
+- [Baryon Acoustic Oscillations in the projected cross-correlation function between the eBOSS DR16 quasars and photometric galaxies from the DESI Legacy Imaging Surveys](https://arxiv.org/abs/2009.02308)
+    - When cross-correlating the photometric galaxies with quasars in 0.6≤z≤1.2, the cross-correlation function can provide better constraints on the comoving angular distance, DM (6\% precision) compared to the constraint on the spherically-averaged distance DV (9\% precision) obtained from the auto-correlation.
+
+- [A comparative analysis of denoising algorithms for extragalactic imaging surveys](https://arxiv.org/abs/2009.01846)
+    - **Useful**
+    - The methods under analysis are Perona-Malik filtering, Bilateral filter, Total Variation denoising, Structure-texture image decomposition, Non-local means, Wavelets, and Block-matching.
+    - We analyze in terms of completeness and purity the catalogs extracted after applying denoising algorithms on a simulated Euclid Wide Survey VIS image, on real H160 (HST) and K-band (HAWK-I) observations of the CANDELS GOODS-South field.
+    - 和PSF filtering比的优势：The advantage of denoising techniques with respect to PSF filtering increases at increasing depth. Moreover, these techniques better preserve the shape of the detected objects with respect to PSF smoothing.
+
+- [The Sloan Digital Sky Survey Reverberation Mapping Project: the XMM-Newton X-ray source catalog and multi-band counterparts](https://arxiv.org/abs/2009.02193)
+    - 932 of the XMM-RM sources are covered by SDSS spectroscopic observations. 89% of them are classified as AGN, and 71% of these AGN are in the SDSS-RM quasar catalog. Among the SDSS-RM quasars, 80% are detectable at the depth of the XMM observations.
+
+- [Molecular Gas Properties on Cloud Scales Across the Local Star-forming Galaxy Population](https://arxiv.org/abs/2009.01842)
+    - **Interesting**
+    - PHANGS-ALMA CO (2-1) survey: Consistent with previous studies, we observe a wide range of molecular gas surface densities (3.4 dex), velocity dispersions (1.7 dex), and turbulent pressures (6.5 dex) across the galaxies in our sample.
+    - The inferred virial parameters suggest that the kinetic energy of the molecular gas typically exceeds its self-gravitational binding energy at ∼100 pc scales by a modest factor (1.3 on average).
+    - 分子云团尺度的密度；速度弥散度，以及湍动压力
+        1. 向星系中心区域逐渐升高
+        2. 在棒旋星系的中心格外高
+        3. 在旋臂上比旋臂间区域略高
+
+- [Mapping the Escape Fraction of Ionizing Photons Using Resolved Stars: A Much Higher Escape Fraction for NGC 4214](https://arxiv.org/abs/2009.01844)
+    - Local analog of high-z SB; 通过forward model分解开的恒星的SED来估计产生的电离光子数量
+    - We constrain the local escape fraction by comparing the number of ionizing photons produced by stars to the number that are either absorbed by dust or consumed by ionizing the surrounding neutral hydrogen in individual star-forming regions.
+    - 光子逃逸率空间变化很大，0-40%；平均也很高，在25%左右
+    - If we assume the NGC 4214 has no internal dust, like many high-redshift galaxies, we find an escape fraction of 59% (an upper-limit for NGC 4214)
+
+- [Kinematic signatures of nuclear discs and bar-driven secular evolution in nearby galaxies of the MUSE TIMER project](https://arxiv.org/abs/2009.01852)
+    - We confirm theoretical predictions of the effects of bars on stellar kinematics, and identify box/peanuts through kinematic signatures in mildly and moderately inclined galaxies, finding a lower limit to the fraction of massive barred galaxies with box/peanuts at ~62%
+    - We establish the presence of nuclear discs in 19 galaxies and show that their kinematics are characterised by near-circular orbits with low pressure support, and are consistent with the bar-driven secular evolution picture for their formation.
+    - Comparing our results with photometric studies, we find that state-of-the-art galaxy image decompositions are able to discern nuclear discs from classical bulges.
+
+- [The inside-out formation of nuclear discs and the absence of old central spheroids in barred galaxies of the TIMER survey](https://arxiv.org/abs/2009.01856)
+    - MUSE观测：Nuclear ring是nuclear disc的边缘，两者是同一个结构
+    - Nuclear discs are younger, more metal-rich, and show lower [α/Fe] enhancements, as compared to their immediate surroundings
+    - Nuclear discs exhibit well-defined radial gradients, with ages and metallicities decreasing, and [α/Fe] abundances increasing with radius out to the nuclear ring.
+    - We argue that continuous (stellar) nuclear discs may form from a series of bar-built (initially gas-rich) nuclear rings that grow in radius, as the bar evolves.
+    - We do not find evidence for the presence of large, dispersion-dominated components in the centres of these galaxies. This could be a result of quiet merger histories, despite the large galaxy masses, or perhaps high angular momentum and strong feedback processes preventing the formation of these kinematically hot components.
+
+- [Gas-phase Metallicity as a Diagnostic of the Drivers of Star-formation on Different Scales](https://arxiv.org/abs/2009.01935)
+    - We first predict the correlation between SFR, cold gas mass and Z in the gas-regulator frame that the instantaneous SFR is regulated by the interplay between inflow, outflow and star formation.
+    - The mean SFR is determined by mean inflow rate and mass-loading factor λ, while the mean Z is determined by the metallicity of inflow gas Z0 and the effective yield (yeff≡y/(1+λ)).
+    - The SFR and Z relative to their mean values, denoted as ΔSFR and ΔZ, are found to be negatively (or positively) correlated when driving the gas-regulator with time-varying inflow rate (or SFE).
+    - We find that ΔsSFR and ΔZ are found to be, negatively correlated at galactic or sub-galactic scale across galaxy population, and positively correlated at ∼100 pc scale within galaxies.
+
+- [Augmenting machine learning photometric redshifts with Gaussian mixture models](https://arxiv.org/abs/2009.01952)
+    - We combine the use of Gaussian Mixture Models with the high performing machine learning photo-z algorithm GPz and show that modelling and accounting for the different colour-magnitude distributions of training and test data separately can give improved redshift estimates, reduce the bias on estimates by up to a half
+
+- [Structural evolution in massive galaxies at z~2](https://arxiv.org/abs/2009.01976)
+    - **Relevant**
+    - ALMA 870micron观测85个大质量SFG：62个能够测到rest-frame FIR size, They are distributed over wide ranges of FIR size from Re,FIR=0.4 kpc to Re,FIR=6 kpc.
+    - The effective radius of the FIR emission is smaller by a factor of 2.3+1.9−1.0 than the effective radius of the optical emission and by a factor of 1.9+1.9−1.0 smaller than the half-mass radius.
+    - The compact starburst puts most of massive SFGs on the mass--size relation for quiescent galaxies (QGs) at z~2 within 300 Myr if the current star formation activity and its spatial distribution are maintained.
+    - We also find that within 300 Myr, ~38% of massive SFGs can reach the central mass of M1kpc=1010.5 M⊙, which is around the boundary between massive SFGs and QGs.
+
+- [The discovery of the most UV-Lya luminous star-forming galaxy: a young, dust- and metal-poor starburst with QSO-like luminosities](https://arxiv.org/abs/2009.02177)
+    - BOSS-EUVLG1 at z=2.469, by far the most luminous, almost un-obscured star-forming galaxy known at any redshift
+    - MUV = -24.40 and log(L_Lya/erg s-1) = 44.0, is due to an intense burst of star-formation, and not to an AGN or gravitational lensing.
+    - BOSS-EUVLG1 is a compact (reff = 1.2 kpc), young (4-5 Myr) starburst with a stellar mass log(M*/Msun) = 10.0 +/- 0.1 and a prodigious star formation rate of ~1000 Msun yr-1. However, it is metal- and dust-poor (12+log(O/H) = 8.13 +/- 0.19, E(B-V) = 0.07, log(LIR/LUV) < -1.2) 是Dusty SB开始前的状态
