@@ -1028,7 +1028,7 @@
     - We perform very high resolution AGN jet simulations within a live, cosmologically evolved cluster with the moving mesh code AREPO.
     - During the lobe inflation phase, heating by both internal and bow shocks contributes to lobe energetics, and ~40 per cent of the feedback energy goes into the PdV work done by the expanding lobes
     - Low power jets are more likely to simply displace gas during lobe inflation, but higher power jets become more effective at driving shocks and heating the intracluster medium (ICM), although shocks rarely exceed ~2-3.
-    - Lower power jet lobes are more readily disrupted and mixed with the ICM, depositing up to ~70 per cent of the injected energy, however, ultimately the equivalent of ≳50 per cent of the feedback energy ends up as potential energy of the system. 
+    - Lower power jet lobes are more readily disrupted and mixed with the ICM, depositing up to ~70 per cent of the injected energy, however, ultimately the equivalent of ≳50 per cent of the feedback energy ends up as potential energy of the system.
     - Even though the mean ICM entropy is increased up to 80 Myr after the jets switch off, AGN heating is gentle, inducing no large variations in cluster radial profiles in accord with observations.
 
 - [The SAGA Survey. II. Building a Statistical Sample of Satellite Systems around Milky Way-like Galaxies](https://arxiv.org/abs/2008.12783)
@@ -1041,7 +1041,7 @@
 - [Tracing the simulated high-redshift circum-galactic medium with Lyman alpha emission](https://arxiv.org/abs/2008.12790)
     - We present a cosmological radiation hydrodynamics simulation of a single galaxy, chosen to be typical of the Lyman alpha-emitting galaxies detected by MUSE in deep fields 模拟中缺少外流
     - 模拟中大部分弥散CGM是第一次下落到halo中的气体；中心区域也有准备settling into一个旋转结构的
-    - The observed extended surface brightness profile is due to a combination of three components: scattering of galactic Lyman alpha emission in the CGM, in-situ emission of CGM gas (mostly infalling), and Lyman alpha emission from small satellite galaxies. 
+    - The observed extended surface brightness profile is due to a combination of three components: scattering of galactic Lyman alpha emission in the CGM, in-situ emission of CGM gas (mostly infalling), and Lyman alpha emission from small satellite galaxies.
     - 不同成分贡献随距离不同：散射成分在中心占主导；小卫星发射在外围占主导
 
 - [Star cluster formation in the most extreme environments: Insights from the HiPEEC survey](https://arxiv.org/abs/2008.12794)
@@ -1070,7 +1070,7 @@
     3. Galaxies in over-dense regions (that are reionized earlier) experience a stronger suppression of star formation by radiative feedback and show lower ionizing emissivities
 
 - [Extraplanar gas in Edge-on Galaxies traced by SOFIA observations of [C II]](https://arxiv.org/abs/2008.13259)
-    - NGC 891 and NGC 5907: for the central region and actively-star-forming regions in the northern portion of NGC 891, and for NGC 5907, a thin (0.3 kpc) disk is supplemented by a thick disk with an exponential scale height of about 2 kpc. 
+    - NGC 891 and NGC 5907: for the central region and actively-star-forming regions in the northern portion of NGC 891, and for NGC 5907, a thin (0.3 kpc) disk is supplemented by a thick disk with an exponential scale height of about 2 kpc.
     - The [C II] is far more extended than mid-infrared emission; 但不如中性气体HI分布延展
     - The extraplanar [C II] may arise in walls of chimneys that connect the disk to the halo.
 

@@ -275,3 +275,69 @@
     - BOSS-EUVLG1 at z=2.469, by far the most luminous, almost un-obscured star-forming galaxy known at any redshift
     - MUV = -24.40 and log(L_Lya/erg s-1) = 44.0, is due to an intense burst of star-formation, and not to an AGN or gravitational lensing.
     - BOSS-EUVLG1 is a compact (reff = 1.2 kpc), young (4-5 Myr) starburst with a stellar mass log(M*/Msun) = 10.0 +/- 0.1 and a prodigious star formation rate of ~1000 Msun yr-1. However, it is metal- and dust-poor (12+log(O/H) = 8.13 +/- 0.19, E(B-V) = 0.07, log(LIR/LUV) < -1.2) 是Dusty SB开始前的状态
+
+----
+
+### Sep 7
+
+- [Exploiting NIKA2/XMM-Newton imaging synergy for intermediate mass, high-z galaxy clusters within the NIKA2 SZ Large Program](https://arxiv.org/abs/2009.02563)
+    - **Relevant**
+    - NIKA2观测一个z=0.9的3.5x10^14 Msun的星系团: We reconstruct the ICM pressure profile by performing a joint analysis of the SZ signal and of the point sources in the NIKA2 150~GHz map
+    - The radial distribution of its thermodynamic properties indicate that the cluster has a disturbed core. The hydrostatic mass of the cluster is to be compatible with estimations from SZ and X-rays scaling relations
+    -
+
+- [Obtaining non-linear galaxy bias constraints from galaxy-lensing phase differences](https://arxiv.org/abs/2009.03256)
+    - 探测星系bias的新方式：the galaxy-lensing phase difference. The statistic consists in taking the differences of the phases of the harmonic wave-modes between the weak lensing convergence field and the galaxy count field.
+    - 利用模拟：We find that phase differences are sensitive to the absolute value of the second order bias (c2=b2/b1)
+
+- [CosmoBit: A GAMBIT module for computing cosmological observables and likelihoods](https://arxiv.org/abs/2009.03286)
+    - 𝖢𝗈𝗌𝗆𝗈𝖡𝗂𝗍, a module within the open-source 𝖦𝖠𝖬𝖡𝖨𝖳 software framework for exploring connections between cosmology and particle physics with joint global fits
+    - Many observables and likelihoods in 𝖢𝗈𝗌𝗆𝗈𝖡𝗂𝗍 are computed via interfaces to 𝖠𝗅𝗍𝖾𝗋𝖡𝖡𝖭, 𝖢𝖫𝖠𝖲𝖲, 𝖣𝖺𝗋𝗄𝖠𝗀𝖾𝗌, 𝖬𝗈𝗇𝗍𝖾𝖯𝗒𝗍𝗁𝗈𝗇, 𝖬𝗎𝗅𝗍𝗂𝖬𝗈𝖽𝖾𝖢𝗈𝖽𝖾, and 𝗉𝗅𝖼. This makes it possible to apply a wide range of constraints from large-scale structure, Type Ia supernovae, Big Bang Nucleosynthesis and the cosmic microwave background.
+
+- [Radial variation of the stellar mass functions in the globular clusters M15 and M30: clues of a non-standard IMF?](https://arxiv.org/abs/2009.02333)
+    - HST+VLT观测，看GC的slope of global mass function (alphaG) 和其径向变化 (alpha(r))
+    - M15, M30: We find that both clusters show a very similar variation in alpha(r) as a function of clustercentric distance.
+    - Such a behavior can be interpreted as the result of long-term dynamical evolution of the systems driven by mass-segregation and mass-loss processes 但似乎需要老得多的年龄才能解释
+    - We investigate possible physical mechanisms responsible for such a discrepancy and argue that both clusters might be born with a non-standard (flatter/bottom-lighter) initial mass function.
+
+- [Revealing the Formation of the Milky Way Nuclear Star Cluster via Chemo-Dynamical Modeling](https://arxiv.org/abs/2009.02335)
+    - KMOS观测：银河系NSC中有两个成分
+    - he majority of the stars belong to a previously known super-solar metallicity component with a rotation axis perpendicular to the Galactic plane. However, we identify a new kinematically distinct sub-solar metallicity component which contains about 7\% of the stars and appears to be rotating faster than the main component with a rotation axis that may be misaligned.
+    - 第二个成分可能反应了infalling的星团
+
+- [Measuring the mixing scale of the ISM within nearby spiral galaxies](https://arxiv.org/abs/2009.02342)
+    - PHANGS-MUSE观测：gas phase oxygen abundances (metallicities) across 7,138 HII regions in a sample of eight nearby disc galaxies
+    - 看二维金属丰度的不均匀性：quantify the homogeneity of the metal distribution and to measure the mixing scale over which HII region metallicities are correlated.
+    - We observe low (0.03--0.05 dex) scatter in Delta(O/H) globally in all galaxies, with significantly lower (0.02--0.03 dex) scatter on small (<600 pc) spatial scales. 在600pc尺度一下，HII去的金属丰度高度相关
+    - Mixing length对气体速度弥散度的依赖比对SFR更高
+
+- [Spatially resolved BPT mapping of nearby Seyfert 2 galaxies](https://arxiv.org/abs/2009.02368)
+    - 基于窄带HST观测的空间分辨的BPT图研究近邻Sy2星系的ENLRS：We construct the BPT diagrams using ≤ 0.1" resolution emission line images of [O III]λ5007, Hα, [S II]λλ6717,6731, and Hβ.
+    - The nucleus and ionization cones are dominated by Seyfert-type emission, which can be interpreted as predominantly photoionization by the active galactic nucleus (AGN). The Seyfert nucleus and ionization cones transition to and are surrounded by a LINER cocoon, extending up to ∼ 250 pc in thickness
+
+- [Main Sequence Scatter is Real: The Joint Dependence of Galaxy Clustering on Star Formation and Stellar Mass](https://arxiv.org/abs/2009.02405)
+    - **Interesting**
+    - SDSS z~0.03的4000星系的clustering：galaxy clustering is a stronger function of sSFR at fixed stellar mass than of stellar mass at fixed sSFR.
+    - 发现SFMS上方的高sSFR星系的clustering比低于SFMSDE低sSFR星系更弱：This confirms that main sequence scatter, and scatter within the quiescent sequence, is physically connected to the large-scale cosmic density field.
+    - UniverseMachine模型原来和SDSS观测符合得不好，但可以通过加强z~0的SFR和halo accretion rate的关系来改进
+    - Our results are highly constraining for galaxy evolution models and show that the stellar-to-halo mass relation (SHMR) depends on sSFR.
+
+- [Are the Milky Way and Andromeda unusual? A comparison with Milky Way and Andromeda Analogs](https://arxiv.org/abs/2009.02576)
+    - We compare the properties of complementary samples of Milky Way analogs selected using different criteria. We find the Milky Way to be within 1σ of its analogs in terms of star-formation rate and bulge-to-total ratio in most cases, but we find larger offsets between the Milky Way and its analogs in terms of disc scale length; this suggests that scale length must be included in analog selections in addition to other criteria if the most accurate analogs are to be selected 挑选类似银河系的星系时需要考虑盘的大小
+    - We find analogs selected on the basis of strong morphological features to display much higher star-formation rates than Andromeda, and we also find analogs selected on Andromeda's star-formation rate to over-predict Andromeda's bulge extent. 需要考虑结构和SFR
+
+- [MeerKAT's discovery of a radio relic in the bimodal merging cluster A2384](https://arxiv.org/abs/2009.02724)
+    - A2384 is a nearby (z = 0.092), low mass, complex bimodal, merging galaxy cluster that displays a dense X-ray filament (∼ 700 kpc in length)
+    - By using the MeerKAT observation of A2384, we estimate that the physical size of the radio relic is 824 × 264 kpc2 and that it is a steep spectrum source.
+    - This radio relic could be the result of shock wave propagation during the passage of the low-mass A2384(S) cluster through the massive A2384(N) cluster, creating a trail appearing as a hot X-ray filament.
+    - This newly detected radio relic is elongated and perpendicular to the merger axis, as seen in other relic clusters.
+
+- [Towards a consistent framework of comparing galaxy mergers in observations and simulations](https://arxiv.org/abs/2009.02974)
+    - 基于TNG的模拟图像训练CNN模型，应用到观测图像上：we determine the dependence of major merger fraction on stellar mass at z around 0.15 and make comparisons between the two.
+    - The detected major merger fraction in the GAMA/KiDS observations has a fairly mild decreasing trend with increasing stellar mass over the mass range 10^9 < M_sun < M_star < 10^11.5 M_sun. 在低质量端和TNG模拟一致；在大质量端有差异; TNG的并合比例更高
+
+- [The evolution of the galaxy stellar mass function over the last twelve billion years from a combination of ground-based and HST surveys](https://arxiv.org/abs/2009.03176)
+    - **Important, Useful**
+    - Based on a near-IR selected galaxy sample selected over an area of 3 deg2 and spanning ≥4 dex in stellar mass, we fit the GSMF with both single and double Schechter functions, carefully accounting for Eddington bias to derive both observed and intrinsic parameter values 在所有红移上，Double Schechter函数都能拟合得更好
+    - We find no evidence for significant evolution in M⋆, with the intrinsic value consistent with log10(M⋆/M⊙)=10.55±0.1 over the full redshift range: 0.25 < z < 3.75
+    - We find that the star-forming GSMF can be adequately described by a single Schechter function over the full redshift range, and has not evolved significantly since z≃2.5. In contrast, both the normalization and functional form of the passive GSMF evolves dramatically with redshift, switching from a single to a double Schechter function at z≤1.5
