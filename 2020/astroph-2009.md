@@ -341,3 +341,101 @@
     - Based on a near-IR selected galaxy sample selected over an area of 3 deg2 and spanning ≥4 dex in stellar mass, we fit the GSMF with both single and double Schechter functions, carefully accounting for Eddington bias to derive both observed and intrinsic parameter values 在所有红移上，Double Schechter函数都能拟合得更好
     - We find no evidence for significant evolution in M⋆, with the intrinsic value consistent with log10(M⋆/M⊙)=10.55±0.1 over the full redshift range: 0.25 < z < 3.75
     - We find that the star-forming GSMF can be adequately described by a single Schechter function over the full redshift range, and has not evolved significantly since z≃2.5. In contrast, both the normalization and functional form of the passive GSMF evolves dramatically with redshift, switching from a single to a double Schechter function at z≤1.5
+
+----
+
+### Sep 8
+
+- [Fewer Mocks and Less Noise: Reducing the Dimensionality of Cosmological Observables with Subspace Projections](https://arxiv.org/abs/2009.03311)
+    - **Interesting**
+    - We present a formalism to compress arbitrary observables into a small number of bins by projecting into a subspace that minimizes the log-likelihood error. The lower dimensionality leads to a dramatic reduction in covariance matrix noise
+    - Given a theory model, a set of priors, and a simple model of the covariance, our method works by using singular value decompositions to construct a basis for the observable that is close to Euclidean; by restricting to the first few basis vectors, we can capture almost all the signal-to-noise in a lower-dimensional subspace.
+    - Unlike conventional approaches, the method can be tailored for specific analyses and captures non-linearities that are not present in the Fisher matrix, ensuring that the full likelihood can be reproduced.
+
+- [Simulation-based inference of dynamical galaxy cluster masses with 3D convolutional neural networks](https://arxiv.org/abs/2009.03340)
+    - **Relevant**
+    - Our approach constitutes the first optimal exploitation of the information content of the full projected phase-space distribution for the inference of dynamical cluster masses. We also present, for the first time, the application of a machine learning-based inference machinery to obtain dynamical masses of around 900 galaxy clusters found in the SDSS Legacy Survey and demonstrate that the inferred masses reproduce the cluster mass function, as predicted by Planck ΛCDM cosmology, down to 10^14.1h−1M
+
+- [The Chandra Deep Wide-Field Survey: A New Chandra Legacy Survey in the Boötes Field I. X-ray Point Source Catalog, Number Counts and Multi-Wavelength Counterparts](https://arxiv.org/abs/2009.03317)
+    - 9.3 deg2 Bootes field of the NOAO Deep Wide-Field Survey
+    - For a total exposure time of 3.4 Ms, and detects 6891 X-ray point sources down to limiting fluxes of 4.7×10−16, 1.5×10−16, and 9×10−16 erg cm−2 s−1, in the 0.5−7 keV, 0.5−2 keV, and 2−7 keV bands
+
+- [ASASSN-14ko is a Periodic Nuclear Transient in ESO 253-G003](https://arxiv.org/abs/2009.03321)
+    - 最开始发现时被认为是SN，The subsequent six years of V- and g-band ASAS-SN observations reveal that ASASSN-14ko has nuclear flares occurring at regular intervals.
+    - Mean period of P0=114.2±0.4 days and a period derivative of P˙=−0.0017±0.0003
+    - 可能的起源：a repeated partial TDE
+
+- [Application of The Wind-Driven Model to A Sample of Tidal Disruption Events](https://arxiv.org/abs/2009.03852)
+    - The model assumes optically thick continuous outflows like stellar winds, and one key question is how the wind-launched radius is connected to physical processes in TDEs. As one possibility, through a comparison between the escape velocities estimated from their black-hole masses and the wind velocities estimated from observed line widths, we propose that the outflow is launched from the self-interaction radius (RSI) where the stellar debris stretched by the tidal force intersects
+
+- [EDGE: A new approach to suppressing numerical diffusion in adaptive mesh simulations of galaxy formation](https://arxiv.org/abs/2009.03313)
+    - **Interesting**
+    - The target galaxy has a maximum circular velocity of 21 km/s but evolves in a region which is moving at up to 90 km/s relative to the hydrodynamic grid. In the absence of any mitigation, diffusion softens the filaments feeding our galaxy. As a result, gas is unphysically held in the circumgalactic medium around the galaxy for 320 Myr, delaying the onset of star formation until cooling and collapse eventually triggers an initial starburst at z=9.
+    - Using genetic modification, we produce 'velocity-zeroed' initial conditions in which the grid-relative streaming is strongly suppressed 让高红移的SF更连续，平滑，但最终恒星质量差不多
+
+- [Dragon's Lair: on the large-scale environment of BL Lac objects](https://arxiv.org/abs/2009.03318)
+    - Our study reveals that BL Lacs and radio galaxies live in significantly different environments, challenging predictions of the unification scenario.
+    - We propose a solution to this problem proving that large-scale environments of BL Lacs is statistically consistent with that of compact radio-sources, known as FR0s, sharing similar properties.
+
+- [Detecting neutral hydrogen at z > 3 in large spectroscopic surveys of quasars](https://arxiv.org/abs/2009.03322)
+    - We present a pipeline based on a random forest classifier for the identification of high column-density clouds of neutral hydrogen (i.e. the Lyman limit systems, LLSs) in absorption within large spectroscopic surveys of z>3 quasars
+    - After training and applying our method on 10,000 quasar spectra at z~3.5-4.0 from the Sloan Digital Sky Survey (Data Release 16), we identify ~6600 LLSs with N(HI)>10^17.5 cm^-2 between z~3.1-4.0 with a completeness and purity of >90% for the classification of LLSs.
+
+- [The VIMOS Ultra Deep Survey: The Reversal of the Star Formation Rate -- Density Relation at 2<z<5](https://arxiv.org/abs/2009.03324)
+    - 可以清晰看到SFR随overdensity升高而升高；This trend appears to be primarily driven by the fractional increase of galaxies in high density environments that are more massive in their stellar content and are forming stars at a higher rate than their less massive counterparts.
+    - 但即便考虑了质量依赖后，也可以看到微弱的SFR-delta关系
+    - We also find clear evidence that the average SFR of galaxies in the densest environments increases with increasing redshift.
+
+- [A sea of tides: star formation and the central-satellite dichotomy in a continuum of tidal environments](https://arxiv.org/abs/2009.03329)
+    - **Interesting**
+    - 在模拟里用一个星系历史上经历的最极端的local tidal非各向同性来描绘环境影响 ： αpeak
+    - We show that, while sharing a common monotonic M∗-vpeak relation, central, satellite and `splashback' galaxies define a hierarchy of increasing αpeak. We also find that the sSFR of objects in small haloes unaffected by feedback from an active nucleus typically decreases with increasing αpeak
+    - 作者认为按照tidal强度连续分布比Central-satellite dichotomy分类更科学：a galaxy is better classified by its location in a continuum of tidal environments
+
+- [The large-scale environment of FR 0 radio galaxies](https://arxiv.org/abs/2009.03330)
+    - By using various estimators we find that FR0s live in regions of higher than the average galaxies density and a factor two lower density, on average, with respect to FRI radio galaxies. This latter difference is driven by the large fraction (63%) of FR0s located in groups formed by less than 15 galaxies, an environment which FRIs rarely (17%) inhabit.
+
+- [An ALMA/NOEMA survey of the molecular gas properties of high-redshift star-forming galaxies](https://arxiv.org/abs/2009.03341)
+    - **Relevant**
+    - 61 submillimetre galaxies (SMGs) selected from 870μm continuum surveys of the COSMOS, UDS and ECDFS fields
+    - 46 12CO (J=2-5) emission lines are detected in 45 of the targets at z=1.2-4.8, with redshifts indicating that those which are submillimetre bright and undetected/faint in the optical/near-infrared typically lie at higher redshifts
+    - Our SMGs lie mostly on or just above the main sequence, displaying a decrease in their gas depletion timescales tdep=Mgas/SFR with redshift in the range z∼1-5 and a median of 200±50Myr at z∼2.8.
+    - Finally we demonstrate that the Mbaryon-σ distribution of our SMGs is consistent with that followed by early-type galaxies in the Coma cluster, providing strong support to the suggestion that SMGs are progenitors of massive local spheroidal galaxies.
+
+- [Extended radio AGN at z ~ 1 in the ORELSE survey: The confining effect of dense environments](https://arxiv.org/abs/2009.03343)
+    - Extended Radio Active Galactic Nuclei (ERAGN):  We find that ERAGN are more compact in high-density environments than those in low-density environments at a significance level of 4.5σ.
+    - 大小和射电功率正相关; After removing the possible radio power effect, the difference of size in low- and high-density environments persists.
+    - Our data appear to support the interpretation that the dense intracluster gas in the central regions of galaxy clusters plays a major role in confining the spatial extent of radio jets.
+
+- [Dissecting the turbulent weather driven by mechanical AGN feedback](https://arxiv.org/abs/2009.03344)
+    - We dissect the three-dimensional turbulent `weather' in a high-resolution Eulerian simulation of active galactic nucleus (AGN) feedback
+    - We find that the evolution of enstrophy/turbulence in the gaseous halo is highly dynamic and variable over small temporal and spatial scales, similar to the chaotic weather processes on Earth.
+
+- [Co-formation of the thin and thick discs revealed by APOGEE-DR16 and Gaia-DR2](https://arxiv.org/abs/2009.03346)
+    - 有年老的薄盘成分：Using 6-D coordinates from Gaia-DR2 and age estimates from Sanders \& Das (2018), we select ∼24000 old stars (τ>10 Gyr, with uncertainties ≲15%) within 2 kpc from the Sun. A cross-match with APOGEE-DR16 reveals comparable fractions of old thin/thick disc stars.
+    - We estimate that, in the Solar Neighbourhood, ∼1/2 (∼1/3) of the old thin (thick) disc stars can be classified as migrators.
+    - Our results suggest that thin/thick discs are affected differently by radial migration inasmuch as they have different eccentricity distributions, regardless of vertical scale heights
+
+- [Detection of young (≤20 Myr) stellar populations in apparently quenched low-mass galaxies using red spectral line indices](https://arxiv.org/abs/2009.03350)
+    - **Relevant**
+    - The detection has been done through the analysis of line-strength indices in the red spectral range [5700,8800] \AA. The increasing contribution of red supergiants to this red regime is responsible for a deviation of the index measurements with respect to their position within the model grids in the standard spectral range [3600,5700] \AA. 质量比例小于1%
+
+- [MUSE view of Arp220: Kpc-scale multi-phase outflow and evidence for positive feedback](https://arxiv.org/abs/2009.03353)
+    - VLT/MUSE-AO to obtain spatially resolved stellar and gas kinematics, for both ionised ([N II]6583) and neutral (Na ID5891,96) components
+    - Arp220 kinematics reveal the presence of a disturbed, kpc-scale disk in the innermost nuclear regions, and highly perturbed, multi-phase (neutral and ionised) gas along the minor-axis of the disk, which we interpret as a galactic-scale outflow emerging from the Arp220 eastern nucleus. 速度高达1000km/s; mass rate of ~ 50 Msun/yr,
+    - 可能在Outflow的边缘与内部有Positive feedback的迹象：We also present evidence for enhanced star formation at the edges of - and within - the outflow, with a star formation rate SFR ~ 5 Msun/y
+
+- [AMICO galaxy clusters in KiDS-DR3: galaxy population properties and their redshift dependence](https://arxiv.org/abs/2009.03563)
+    - **Relevant**
+    - 414 sq deg^2; up to z~0.8;
+    - Here we describe the selection of the cluster central galaxy and the classification of blue and red cluster members, and analyze the main cluster properties
+    - We also find that at a given cluster mass the stellar mass of blue central galaxies is lower than that of the red ones.
+
+- [Radio Galaxy Zoo: New Giant Radio Galaxies in the RGZ DR1catalogue](https://arxiv.org/abs/2009.03583)
+    - Identification of five previously unknown giant radio galaxies (GRGs) using Data Release 1 of the Radio Galaxy Zoo
+    - We associate one of these new GRGs with the brightest cluster galaxy (BCG) in the galaxy cluster GMBCG J251.67741+36.45295 and use literature data to identify a further 13 previously known GRGs as BCG candidates, increasing the number of known BCG GRGs by >60%.
+
+- [A near-infrared study of the obscured 3C129 galaxy cluster](https://arxiv.org/abs/2009.03749)
+    - We present a catalogue of 261 new infrared selected members of the 3C129 galaxy cluster.
+    - A total of 26 of the identified galaxy members have known redshifts 24 of which are from our 2016 Westerbork HI survey and two are from optical spectroscopy.
+    - An analysis of the galaxy density at the core of the 3C129 cluster shows it to be less dense than the Coma and Norma clusters,
