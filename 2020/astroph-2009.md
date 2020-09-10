@@ -439,3 +439,91 @@
     - We present a catalogue of 261 new infrared selected members of the 3C129 galaxy cluster.
     - A total of 26 of the identified galaxy members have known redshifts 24 of which are from our 2016 Westerbork HI survey and two are from optical spectroscopy.
     - An analysis of the galaxy density at the core of the 3C129 cluster shows it to be less dense than the Coma and Norma clusters,
+
+----
+
+### Sep 9
+
+- [Deviations from the Infrared-Radio Correlation in Massive, Ultra-compact Starburst Galaxies](https://arxiv.org/abs/2009.03906)
+    - 中等红移处有很多compact的SB星系有很高速的外流，说明SF密度极高，但SFR估计有不确定性：we present SFR estimates calculated using 1.5 GHz continuum Jansky Very Large Array observations for 19 of these galaxies
+    - We find that this deviation is maximized for the most compact galaxies hosting the youngest stellar populations, suggesting that compact starbursts deviate from the IR-radio correlation
+
+- [The stellar populations of high-redshift dwarf galaxies](https://arxiv.org/abs/2009.03912)
+    - 模拟一个高红移的LBG，看其周围的卫星星系演化：In spite of the different evolutionary patterns, all satellites show a spherical morphology, with ancient and more metal-poor stars located towards the inner regions
+
+- [UV upturn versus UV weak galaxies: differences and similarities of their stellar populations unveiled by a de-biased sample](https://arxiv.org/abs/2009.03915)
+    - **Relevant**
+    - We make use of propensity score matching (PSM) to mitigate potential biases between the two samples, by selecting similar objects in terms of redshift and stellar mass
+    - UV upturn are redder in the optical, more metallic, and their last burst of star-formation happened earlier in time. These differences suggest that UV upturn systems have shorter star-formation histories (i.e. have been evolving more passively) when compared to UV weak galaxies. UV-upturn星系光学颜色更红，金属丰度更高，距离上次星暴时间更长
+
+- [A Unified Scenario for the Origin of Spiral and Elliptical Galaxy Structural Scaling Laws](https://arxiv.org/abs/2009.03916)
+    - **Interesting**
+    - We use Lambda Cold Dark Matter (LCDM) cosmological hydrodynamical simulations to show that the observed relations of both ellipticals and spirals arise as the result of (i) a tight galaxy mass-dark halo mass relation, and (ii) the self-similar mass profile of CDM halos.
+    - E and S galaxies of given stellar mass inhabit halos of similar mass, and their different scaling laws result from the varying amounts of dark matter enclosed within their luminous radii.
+
+- [The MOSDEF Survey: An Improved Voronoi Binning Technique on Spatially Resolved Stellar Populations at z~2](https://arxiv.org/abs/2009.03926)
+    - 350 star-forming galaxies at 1.25< z <2.66
+    - We introduce a modified Voronoi binning method that additionally incorporates the S/N distribution of several resolved filters.
+    - We find that single-filter binning produces inferred E(B-V)stars that are systematically redder by 0.02 mag on average, but could differ by up to 0.20 mag, and could be attributed to poorly constrained resolved photometry covering the UV slope
+
+- [Early galaxy growth: mergers or gravitational instability?](https://arxiv.org/abs/2009.03927)
+    - A typical redshift z = 6 Lyman Break galaxy, "Althaea" from the SERRA hydrodynamical simulations.
+    - We find that the [CII]158um emitting region has an effective radius 1.5 - 2.5 times larger than the optical one, consistent with recent observations. This [CII] halo in our simulated galaxy arises as the joint effect of stellar outflows and carbon photoionization by the galaxy UV field, rather than from the emission of unresolved nearby satellites.
+    - This suggests that multi-component systems reported in the literature, which have separations > 2 kpc, are merging satellites, rather than galactic substructures.
+
+- [The GOGREEN survey: Post-infall environmental quenching fails to predict the observed age difference between quiescent field and cluster galaxies at z>1](https://arxiv.org/abs/2009.03953)
+    - **Relevant**
+    - Star formation histories (SFHs) and mass-weighted ages of 331 UVJ-selected quiescent galaxies in 11 galaxy clusters and in the field at 1< z <1.5
+    - We confirm that the SFHs are consistent with more massive galaxies having on average earlier formation times
+    - Field里的大质量星系的SFH和星系团里的比更加extended
+    - We place this result in the context of two simple quenching models and show that neither environmental quenching based on time since infall (without pre-processing) nor a difference in formation times alone can reproduce both the average age difference and relative quenched fractions.
+
+- [High Molecular Gas Masses in Absorption-selected Galaxies at z≈2](https://arxiv.org/abs/2009.04001)
+    - ALMA search for CO (3−2) or (4−3) emission from the fields of 12 high-metallicity ([M/H]~≥−0.72\,dex) damped Lyman-α absorbers (DLAs) at z≈1.7−2.6.
+    - We detected CO emission from galaxies in the fields of five DLAs CO气体质量很高，在10^10 Msun量级；The impact parameters of the CO emitters to the QSO sightline lie in the range b≈5.6−100~kpc, with the three new CO detections having b≲15~kpc.
+    - The highest CO line luminosities and inferred molecular gas masses are associated with the highest-metallicity DLAs, with [M/H]~≳−0.3\,dex. 高峰度的DLA里有更多的CO
+    - The high ALMA CO and C[{\sc ii}]~158μm detection rate in high-z, high-metallicity DLA galaxies has revolutionized the field, allowing the identification of dusty, massive galaxies associated with high-z DLAs.
+
+- [A Broad Absorption Line Outflow Associated with the Broad Emission Line Region in the Quasar SDSS J075133.35+134548.3](https://arxiv.org/abs/2009.04193)
+    - The discovery of unusual broad absorption lines (BALs) in the bright quasar SDSS J075133.35+134548.3 at z~1
+    - 外流气体有高速和低速两个成分：The LV BAL gas very likely have a larger column density and a higher ionization level than the HV BAL gas, and hence a smaller distance than that of the latter.
+
+- [Tracing circumnuclear dense gas in H2O maser galaxies](https://arxiv.org/abs/2009.04214)
+    - 30 H2O extra-galactic maser galaxies with their published HCN(J=1-0) and HCO+(J=1-0) observations
+    - Normalized H2O maser emission luminosity (LH2O\LCO) and normalized HCO+ line luminosity (LHCO+\LCO). 之间有强相关
+    - The sample is also studied after excluding Luminous and Ultraluminous infrared galaxy (U)LIRG sources, and the mentioned correlations are noticeably stronger.
+
+- [The Dynamics of the Wide-Angle Tailed (WAT) galaxy cluster Abell 562](https://arxiv.org/abs/2009.04265)
+    - 星系团速度弥散度 velocity dispersion of 919±116 km s−1. This relatively large velocity dispersion suggests either a very massive cluster (Mdyn>6.9× 10^14 Msun) and/or a merger system
+    - Thus, our observations support the model in which a recent off-axis merger event produced the cluster wide conditions needed to shape the WAT in Abell 562.
+
+- [The ALMA Spectroscopic Survey in the HUDF: CO Excitation and Atomic Carbon in Star-Forming Galaxies at z=1−3](https://arxiv.org/abs/2009.04348)
+    - ASPECS: 22 star-forming galaxies at z=0.46-3.60
+    - We infer that the galaxies at z>=2 have intrinsically higher excitation than those at z<2.
+    - We derive a neutral atomic carbon abundance of (1.9+/-0.4) x 10^{-5}, comparable to the Milky Way and main-sequence galaxies at similar redshift
+
+- [The Magellanic Corona and the formation of the Magellanic Stream](https://arxiv.org/abs/2009.04368)
+    - Here we show that by including this "Magellanic Corona" in hydrodynamic simulations of the Magellanic Clouds falling onto the Galaxy, we can simultaneously reproduce the Stream and its Leading Arm.
+    - We predict that the Magellanic Corona will be unambiguously observable via high-ionization absorption lines in the ultraviolet spectra of background quasars lying near the LMC. This prediction is directly testable with the Cosmic Origins Spectrograph on the Hubble Space Telescope.
+
+- [SHαDE: Survey description and mass-kinematics scaling relations for dwarf galaxies](https://arxiv.org/abs/2009.04453)
+    - **Relevant**
+    - The Study of Hα from Dwarf Emissions (SHαDE) is a high spectral resolution (R=13500) Hα integral field survey of 69 dwarf galaxies with stellar masses 10^6<M⋆<10^9M⊙. 利用VLT的FLAMES
+    - We investigate the logM⋆−logS0.5 mass-kinematics scaling relation, which have previously shown potential for combining galaxies of all morphologies in a single scaling relation. We extend the scaling relation from massive galaxies to dwarf galaxies, demonstrating this relation is linear down to a stellar mass of M⋆∼10^8.6M⊙.
+    - An extrapolation to estimate the galaxies' dark matter halo masses, yields a logMh−logS0.5 scaling relation that is free of any bend, has reduced curvature over the whole mass range, and brings galaxies of all masses and morphologies onto the virial relation.
+
+- [Low-scatter galaxy cluster mass proxies for the eROSITA all-sky survey](https://arxiv.org/abs/2009.03944)
+    - **Important, Relevant**
+    - Numerous recent studies have shown that gas mass and core-excised X-ray luminosity exhibit very low scatter at fixed mass. We propose a new method to reconstruct these quantities from low photon count data and validate the method using extensive eROSITA-like simulations.
+    - We find that even near the detection threshold of ~50 counts the core-excised luminosity and the gas mass can be recovered with 20-30% precision, which is substantially less than the scatter of the full integrated X-ray luminosity at fixed mass.
+
+- [The XXL survey: XLII. Detection and characterization of the galaxy population of distant galaxy clusters in the XXL-N/VIDEO field: A tale of variety](https://arxiv.org/abs/2009.04049)
+    - **Relevant**
+    - HSC+VIDEO挑选高红移z_photo>0.8 clusters with X-ray detection：35个候选
+    - Although these clusters host galaxy populations that display a wide variety of quenching levels, they exhibit well-defined relations between quenching, cluster-centric distance, and galaxy luminosity.
+    - The brightest cluster galaxies (BCGs) within our sample display colours consistent with a bimodal population composed of an old and red subsample together with a bluer, more diverse subsample.
+
+- [Multi-timescale reverberation mapping of Mrk 335](https://arxiv.org/abs/2009.03908)
+    - Featureless `hard lags' not associated with reverberation, and often interpreted as propagating mass accretion rate fluctuations, dominate the longer timescale variability.
+    - 多时标时间延迟建模：We model the hard lags as fluctuations in the slope and strength of the illuminating spectrum, and self-consistently account for the effects that these fluctuations have on the reverberation lags
+    - 得到的黑洞质量显著得比光学RM得到的低
