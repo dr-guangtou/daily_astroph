@@ -527,3 +527,50 @@
     - Featureless `hard lags' not associated with reverberation, and often interpreted as propagating mass accretion rate fluctuations, dominate the longer timescale variability.
     - 多时标时间延迟建模：We model the hard lags as fluctuations in the slope and strength of the illuminating spectrum, and self-consistently account for the effects that these fluctuations have on the reverberation lags
     - 得到的黑洞质量显著得比光学RM得到的低
+
+----
+
+### Sep 10
+
+- [The Three Hundred Project: quest of clusters of galaxies morphology and dynamical state through Zernike Polynomials](https://arxiv.org/abs/2009.04565)
+    - we apply, for the first time, the Zernike polynomial decomposition, a common analytic approach mostly used in adaptive optics to recover aberrated radiation wavefronts at the telescopes pupil plane.
+    - 改进X-ray图像和tSZ数据，可以推测动力学状态
+    - 用300模拟项目测试：We verify that it is possible to discriminate the morphology of each cluster by estimating the contribution of the different polynomials to the fit of the map.
+
+- [Dependence of the dynamical properties of light-cone simulation dark matter halos on their environment](https://arxiv.org/abs/2009.04914)
+    - We find a strong dependence of halo properties on their environment, confirming that isolated halos are more aspherical and more prolate with lower spin values.
+    - Correlations between halo properties exist and are mostly independent of halo environment.
+    - Halo spins are aligned with the minor axis, regardless of halo shape.
+    - Close halo neighbors have their major axes statistically aligned, while they show a slight but statistically significant preference for anti-parallel spin directions.
+
+- [An excess of small-scale gravitational lenses observed in galaxy clusters](https://arxiv.org/abs/2009.04914)
+    - **Interesting**
+    - An apt metric, the probability of strong lensing events produced by dark matter substructure, is devised and computed for 11 galaxy clusters.
+    - We report that observed cluster substructures are more efficient lenses than predicted by CDM simulations, by more than an order of magnitude
+
+- [The intrinsic reddening of the Magellanic Clouds as traced by background galaxies -- II. The Small Magellanic Cloud](https://arxiv.org/abs/2009.04480)
+    - SMC的消光map：~34 deg2 of the Small Magellanic Cloud (SMC) derived using optical (ugriz) and near-infrared (IR; YJKs)
+    - We find statistically significant enhanced levels of reddening associated with the main body of the SMC compared with regions in the outskirts [ΔE(B−V)≃0.3 mag].
+    - In contrast, we find significant discrepancies between our results and maps created using old stars or based on longer wavelength far-IR dust emission that could stem from biased samples in the former and uncertainties in the far-IR emissivity and the optical properties of the dust grains in the latter
+
+- [On the Environments of Giant Radio Galaxies](https://arxiv.org/abs/2009.04482)
+    - **Interesting**
+    - 利用LOFAR LoTSS巡天的100多巨射电星系GRG和LegacySurvey以及SDSS看GRG所处的环境，附近700 kpc内的星系overdensity
+    - Our results show that the properties of satellites around GRGs are consistent with that around the two control samples.
+    - GRG在环境上并没有特殊性，indicating that galaxy environments play little role on the origins of GRGs
+    - Regarding radio feedback, we show that the fraction of blue satellites does not correlate with the GRG properties, suggesting that the radio jets have minimal influence on the nature of their surrounding galaxies.
+
+- [NGC 6822 as a probe of dwarf galactic evolution](https://arxiv.org/abs/2009.04482)
+    - DEIMOS观测离银河系最近的dIrr星系：The red giant branch (RGB) stars at the galaxy's center are particularly interesting because they are aligned on an axis perpendicular to the galaxy's more extended HI disk.
+    - We measured the rotation velocity (v) and velocity dispersion (σ) of the RGB population in five metallicity bins. We found an increase of rotation support (v/σ) with increasing metallicity, driven primarily by decreasing dispersion.
+    - 金属丰度随半径下降：While the inverted metallicity gradient-like could be interpreted as evidence for an outside-in formation scenario, it may instead indicate that stellar feedback disturbed a centrally star forming galaxy over time.
+
+- [SkyMapper colours of Seyfert galaxies and Changing-Look AGN](https://arxiv.org/abs/2009.04688)
+    - We find that the u−v index, built from the ultraviolet u and violet v filters, separates normal galaxies, starburst galaxies and type-1 AGN. This u−v index is not sensitive to age or metallicity in a stellar population but is instead a quenching-and-bursting indicator in galaxies and detects power-law continua in type-1 AGN
+    - We identify 46 Changing-Look AGN candidates in our sample, one of which has been reported as a type-IIn supernova. We show that this transient persists for at least five years and marks a flare in a Seyfert-1 period of a new Changing-Look AGN.
+
+- [ALMA Lensing Cluster Survey: an ALMA galaxy signposting a MUSE galaxy group at z=4.3 behind 'El Gordo'](https://arxiv.org/abs/2009.04838)
+    - **Interesting**
+    - MUSE在z=0.87的El Gordo背后发现了一个z=4.32的星系群：associated with a 1.2 mm source which is at a 2.07+/-0.88 kpc projected distance from one of the group galaxies
+    - The four members of the MUSE galaxy group have low to intermediate stellar masses (~ 10^7-10^{10} Msun) and star formation rates (SFRs) of 0.4-24 Msun/yr, resulting in high specific SFRs (sSFRs) for two of them, which suggest that these galaxies are growing fast 星系群中星系质量较低，但在快速成长中
+    - 作者认为ALMA看到的一些看似孤立的Submm源很可能象征了高红移的富恒星形成星系环境
