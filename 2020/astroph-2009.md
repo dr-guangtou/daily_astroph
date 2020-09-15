@@ -609,4 +609,23 @@
 
 ### Sep 14
 
-- [The Atacama Cosmology Telescope: Combined kinematic and thermal Sunyaev-Zel'dovich measurements from BOSS CMASS and LOWZ halos](https://arxiv.org/abs/2009.05557)
+- [On the impact of galaxy bias uncertainties on primordial non-Gaussianity constraints](https://arxiv.org/abs/2009.06622)
+    - 
+
+- [Tracking the year-to-year variation in the spectral energy distribution of the Narrow-line Seyfert 1 Galaxy Mrk335](https://arxiv.org/abs/2009.05705)
+
+- [One-Two Quench: A Double Minor Merger Scenario](https://arxiv.org/abs/2009.05581)
+
+- [Stellar velocity dispersion and initial mass function gradients in dissipationless galaxy mergers](https://arxiv.org/abs/2009.05583)
+
+- [The AGN contribution to the UV-FIR luminosities of interacting galaxies and its role in identifying the Main Sequence](https://arxiv.org/abs/2009.05614)
+
+- [Spectroscopic study of the HII regions in the NGC 1232 galaxy](https://arxiv.org/abs/2009.05614)
+
+- [Dynamics of Companion Galaxies of Early-Type Galaxies](https://arxiv.org/abs/2009.05788)
+
+- [Galaxy and Mass Assembly (GAMA): A WISE study of the activity of emission-line systems in G23](https://arxiv.org/abs/2009.05981)
+
+- [Star Formation in CALIFA survey perturbed galaxies. I. Effects of Tidal Interactions](https://arxiv.org/abs/2009.06099)
+
+- [Star Formation in CALIFA survey perturbed galaxies. I. Effects of Tidal Interactions](https://arxiv.org/abs/2009.06099)
