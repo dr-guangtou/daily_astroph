@@ -574,3 +574,39 @@
     - MUSE在z=0.87的El Gordo背后发现了一个z=4.32的星系群：associated with a 1.2 mm source which is at a 2.07+/-0.88 kpc projected distance from one of the group galaxies
     - The four members of the MUSE galaxy group have low to intermediate stellar masses (~ 10^7-10^{10} Msun) and star formation rates (SFRs) of 0.4-24 Msun/yr, resulting in high specific SFRs (sSFRs) for two of them, which suggest that these galaxies are growing fast 星系群中星系质量较低，但在快速成长中
     - 作者认为ALMA看到的一些看似孤立的Submm源很可能象征了高红移的富恒星形成星系环境
+
+----
+
+### Sep 13
+
+- [The Atacama Cosmology Telescope: Combined kinematic and thermal Sunyaev-Zel'dovich measurements from BOSS CMASS and LOWZ halos](https://arxiv.org/abs/2009.05557)
+
+- [The Atacama Cosmology Telescope: Modelling the Gas Thermodynamics in BOSS CMASS galaxies from Kinematic and Thermal Sunyaev-Zel'dovich Measurements](https://arxiv.org/abs/2009.05558)
+
+- [CHILES VERDES: Radio variability at an unprecedented depth and cadence in the COSMOS field](https://arxiv.org/abs/2009.05556)
+
+- [MINOT: Modeling of the Intra-cluster medium (Non-)thermal content and Observables prediction Tools](https://arxiv.org/abs/2009.05373)
+
+- [A bottom-heavy initial mass function for the accreted blue-halo stars of the Milky Way](https://arxiv.org/abs/2009.05047)
+
+- [Velocity dispersion in the interstellar medium of early galaxies](https://arxiv.org/abs/2009.05049)
+
+- [A Flexible Analytic Model of Cosmic Variance in the First Billion Years](https://arxiv.org/abs/2009.05059)
+
+- [The Magellan M2FS Spectroscopic Survey of High-Redshift Galaxies: A Sample of 260 Lyα Emitters at Redshift z≈5.7](https://arxiv.org/abs/2009.05070)
+
+- [The Extreme Red Excess in Blazar Ultraviolet Broad Emission Lines](https://arxiv.org/abs/2009.05082)
+
+- [Stellar Populations of a Sample of Optically Selected AGN-host Dwarf Galaxies](https://arxiv.org/abs/2009.05227)
+
+- [How do central and satellite galaxies quench? -- Insights from spatially resolved spectroscopy in the MaNGA survey](https://arxiv.org/abs/2009.05341)
+
+- [The Diagnostic Potential of JWST in Characterizing Elusive AGNs](https://arxiv.org/abs/2009.05362)
+
+- [Formation of S0s in extreme environments II: the star-formation histories of bulges, discs and lenses](https://arxiv.org/abs/2009.05548)
+
+----
+
+### Sep 14
+
+- [The Atacama Cosmology Telescope: Combined kinematic and thermal Sunyaev-Zel'dovich measurements from BOSS CMASS and LOWZ halos](https://arxiv.org/abs/2009.05557)
