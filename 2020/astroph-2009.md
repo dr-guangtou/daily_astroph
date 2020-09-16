@@ -629,3 +629,41 @@
 - [Star Formation in CALIFA survey perturbed galaxies. I. Effects of Tidal Interactions](https://arxiv.org/abs/2009.06099)
 
 - [Star Formation in CALIFA survey perturbed galaxies. I. Effects of Tidal Interactions](https://arxiv.org/abs/2009.06099)
+
+----
+
+### Sep 14
+
+- [The baryonic specific angular momentum of disc galaxies](https://arxiv.org/abs/2009.06645)
+
+- [The baryon cycle of Seven Dwarfs with superbubble feedback](https://arxiv.org/abs/2009.066461)
+
+- [An ALMA Survey of the SCUBA-2 Cosmology Legacy Survey UKIDSS/UDS Field: The Far-infrared/Radio correlation for High-redshift Dusty Star-forming Galaxies](https://arxiv.org/abs/2009.066647)
+
+- [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). XI. Proximity Zone Analysis for Faint Quasar Spectra at z~6](https://arxiv.org/abs/2009.066648)
+
+- [A comparative study of satellite galaxies in Milky Way-like galaxies from HSC, DECaLS and SDSS](https://arxiv.org/abs/2009.06882)
+
+- [Barred Galaxies in the IllustrisTNG Simulation](https://arxiv.org/abs/2009.06895)
+
+- [A single galaxy population? statistical evidence that the Star-Forming Main Sequence might be the tip of the iceberg](https://arxiv.org/abs/2009.06931)
+
+- [Upgraded GMRT observations of the Coma cluster of galaxies: The observations](https://arxiv.org/abs/2009.07145)
+
+- [NGC 4869 in the Coma cluster: twist, wrap, overlap and bend](https://arxiv.org/abs/2009.07146)
+
+- [Large scale simulations of H and He reionization and heating driven by stars and more energetic sources](https://arxiv.org/abs/2009.06631)
+
+- [Correlations between supermassive black holes and hot gas atmospheres in IllustrisTNG and X-ray observations](https://arxiv.org/abs/2009.06634)
+
+- [Extracting the Subhalo Mass Function from Strong Lens Images with Image Segmentation](https://arxiv.org/abs/2009.06639)
+
+- [Effects of Photoionization and Photoheating on Lyman-alpha Forest Properties from Cholla Cosmological Simulations](https://arxiv.org/abs/2009.06652)
+
+- [Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation](https://arxiv.org/abs/2009.06663)
+
+- [A Stochastic Theory of the Hierarchical Clustering I. Halo Mass Function](https://arxiv.org/abs/2009.07023)
+
+- [Unveiling sub-parsec supermassive black hole binary candidates in active galactic nuclei](https://arxiv.org/abs/2009.06662)
+
+- [Unveiling sub-parsec supermassive black hole binary candidates in active galactic nuclei](https://arxiv.org/abs/2009.06662)
