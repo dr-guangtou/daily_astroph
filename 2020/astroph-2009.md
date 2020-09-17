@@ -580,20 +580,50 @@
 ### Sep 13
 
 - [The Atacama Cosmology Telescope: Combined kinematic and thermal Sunyaev-Zel'dovich measurements from BOSS CMASS and LOWZ halos](https://arxiv.org/abs/2009.05557)
+    - **Interesting, Relevant**
+    - Using individual reconstructed velocities, we perform a stacking analysis and reject the no-kSZ hypothesis at 6.5 σ
+    - Despite the limited signal to noise, the measurement shows at much higher statistical significance (formally >90 σ) that the gas density profile is more extended than the dark matter density profile.
+    - We combine tSZ and kSZ measurements to estimate the electron temperature to 20% precision in several aperture bins, and find it comparable to the virial temperature
+    - 这篇文章测量了CMASS星系的tSZ和kSZ信号
 
 - [The Atacama Cosmology Telescope: Modelling the Gas Thermodynamics in BOSS CMASS galaxies from Kinematic and Thermal Sunyaev-Zel'dovich Measurements](https://arxiv.org/abs/2009.05558)
+    - **Interesting, Relevant**
+    - 这篇文章利用上一篇测量的信号限制CMASS星系的气体热动力学
+    - We measure within our model the amplitude of energy injection ϵM⋆c2, where M⋆ is the stellar mass, to be ϵ=(33+2−5)×10−6
+    - 维里半径内30%的能量来自非热成分
+    - Comparing the kSZ and tSZ measurements to cosmological simulations, we find that they under predict the CGM pressure and to a lesser extent the CGM density at larger radii. 能量注入机制对Halo外围的气体加热不够
 
-- [CHILES VERDES: Radio variability at an unprecedented depth and cadence in the COSMOS field](https://arxiv.org/abs/2009.05556)
+- [CHILES VERDES: Radio variability at an unprecedented depth and cadence in the COSMOS field](https://arxiv.org/abs/2009.05056)
+    - CHILES VERDES provides an unprecedented combination of survey depth, duration, and cadence, with 960 hrs of 1--2 GHz continuum VLA data obtained over 209 epochs between 2013 and 2019 in a 0.44 deg2 section of the well-studied extragalactic deep field, COSMOS.
+    - We identified 18 moderate-variability sources (showing 10−30% flux density variation) and 40 lower variability sources (2-10% flux density variation).
+    - 都是AGN，没有SF星系显示出足够显著的光变
 
 - [MINOT: Modeling of the Intra-cluster medium (Non-)thermal content and Observables prediction Tools](https://arxiv.org/abs/2009.05373)
+    - **Useful**
+    - 为了研究星系团里的CR，预测radio, millimeter, X-ray and gamma-ray bands多波段辐射
+    - The multi-wavelength observables are computed given the relevant physical process, according to the cluster location, and given the sampling defined by the user.
 
 - [A bottom-heavy initial mass function for the accreted blue-halo stars of the Milky Way](https://arxiv.org/abs/2009.05047)
+    - **Interesting, Relevant**
+    - Gaia DR2估计250 pc内的 0.2< Ms < 1.0 Msun的恒星的IMF
+    - The predominant thin-disc population (v_T < 40 km/s) has an IMF similar to traditional (e.g. Kroupa 2001) stellar IMFs
+    - Halo stars from the "blue sequence", which are characterised by low-metallicity ([M/H] < -0.6) , however, have a distinct, bottom-heavy IMF, well-described by a single power law with alpha=-2.17 +0.10/-0.17 over most of the mass range probed.
+    - 和大质量早型星系中心的星族类似，这些halo star也有很高的[alpha/Fe]比例：These results hint at a distinct mode of star formation common to two ancient stellar populations---elliptical galaxies and galaxies accreted early-on by ours.
 
 - [Velocity dispersion in the interstellar medium of early galaxies](https://arxiv.org/abs/2009.05049)
+    - 看SERRA模拟中一个星系的[CII] LOS速度：We build velocity dispersion maps for three dynamically distinct evolutionary stages (Spiral Disk at z=7.4, Merger at z=8.0, and Disturbed Disk at z=6.5)
+    - Low resolution observations tend to overestimate σCII values due to beam smearing effects that depend on the specific galaxy structure.
+    - The primary energy source for the velocity dispersion is due to gravitational processes, such as merging/accretion events; energy input from stellar feedback is generally subdominant
 
 - [A Flexible Analytic Model of Cosmic Variance in the First Billion Years](https://arxiv.org/abs/2009.05059)
+    - We find that cosmic variance in the UVLF is dominated by the variance in the underlying dark matter halo population, and not by differences in halo accretion or the specifics of our stellar feedback model.
+    - We also find that cosmic variance dominates over Poisson noise for future high-z surveys except for the brightest sources or at very high redshifts (z≳12).
+    - We introduce a new method for incorporating priors on cosmic variance into estimates of the galaxy luminosity function and demonstrate that it significantly improves constraints on that important observable.
 
 - [The Magellan M2FS Spectroscopic Survey of High-Redshift Galaxies: A Sample of 260 Lyα Emitters at Redshift z≈5.7](https://arxiv.org/abs/2009.05070)
+    - Our sample consists of 260 LAEs and covers a total effective area of more than two square degrees on the sky. This is so far the largest (spectroscopically confirmed) sample of LAEs at this redshift.
+    - Most of them have rest-frame equivalent widths between 20 and 300 Å, and more luminous Lyα emission lines tend to have broader line widths.
+    - We detect a clear offset of ∼20 Å between the observed Lyα wavelength distribution and the NB816 filter transmission curve, which can be explained by the intergalactic medium absorption of continua blueward of Lyα in the high-redshift spectra.
 
 - [The Extreme Red Excess in Blazar Ultraviolet Broad Emission Lines](https://arxiv.org/abs/2009.05082)
 
@@ -610,7 +640,7 @@
 ### Sep 14
 
 - [On the impact of galaxy bias uncertainties on primordial non-Gaussianity constraints](https://arxiv.org/abs/2009.06622)
-    - 
+    -
 
 - [Tracking the year-to-year variation in the spectral energy distribution of the Narrow-line Seyfert 1 Galaxy Mrk335](https://arxiv.org/abs/2009.05705)
 
@@ -628,7 +658,6 @@
 
 - [Star Formation in CALIFA survey perturbed galaxies. I. Effects of Tidal Interactions](https://arxiv.org/abs/2009.06099)
 
-- [Star Formation in CALIFA survey perturbed galaxies. I. Effects of Tidal Interactions](https://arxiv.org/abs/2009.06099)
 
 ----
 
@@ -666,4 +695,92 @@
 
 - [Unveiling sub-parsec supermassive black hole binary candidates in active galactic nuclei](https://arxiv.org/abs/2009.06662)
 
-- [Unveiling sub-parsec supermassive black hole binary candidates in active galactic nuclei](https://arxiv.org/abs/2009.06662)
+----
+
+### Sep 15
+
+- [Mass calibration of distant SPT galaxy clusters through expanded weak lensing follow-up observations with HST, VLT & Gemini-South](https://arxiv.org/abs/2009.07591)
+    - **Relevant, Interesting**
+    - 30个z~0.9的星系团的WL测量：The mass scale inferred from the weak lensing data is lower by a factor 0.76+0.10−0.14 (at our pivot redshift z=0.6) compared to what would be needed to reconcile a Planck νΛCDM cosmology with the observed SPT-SZ cluster counts.
+
+- [The Atacama Cosmology Telescope: Weighing distant clusters with the most ancient light](https://arxiv.org/abs/2009.07772)
+    - **Relevant, Interesting**
+    - 用ACT和Planck的CMB lensing测量677个MaDCoWS星系团; z~1.1
+    - Assuming that the clusters follow Navarro-Frenk-White density profiles, we infer a mean mass of ⟨M500c⟩=(1.7±0.4)×10^14M⊙.
+
+- [ClG 0217+70: A massive merging galaxy cluster with a large radio halo and relics](https://arxiv.org/abs/2009.07580)
+    - We measure kT500=8.3±0.4 keV and estimate M500=(1.06±0.11)×10^15 M⊙ based on existing scaling relations.
+    - ClG 0217+70 hosts one of the largest radio halos and one of the largest radio relics known to date.
+    - Most of the relic candidates lie in projection beyond r200. The X-ray morphological parameters suggest that the intracluster medium is still dynamically disturbed.
+
+- [Accretion History of AGN III: Radiative Efficiency and AGN Contribution to Reionization](https://arxiv.org/abs/2009.07711)
+    - NuSTAR和Swift发现了很多obscured AGN，利用新的XLF轨迹SMBHs的吸积效率和对再电离的贡献
+    - For realistic assumptions about the escape fraction, the contribution of all AGN to cosmic reionization is ∼4 times lower than the galaxy contribution (23% at z∼6).
+    - 平均SMBH能量转化效率：The most likely value, η∼0.3−0.34, approaches the theoretical limit for a maximally rotating Kerr black hole, η=0.42
+
+- [Dynamical modelling of globular clusters: challenges for the robust determination of IMBH candidates](https://arxiv.org/abs/2009.07275)
+    - 球对称金斯模型考虑：we are able to robustly identify and recover the mass of the central IMBH in our simulation with a high-mass IMBH (MIMBH/MGC∼4%).
+    - We show that it is challenging to confirm the existence of a low-mass IMBH (MIMBH/MGC∼0.3%), as both solutions with and without an IMBH are possible within our adopted error bars.
+
+- [High-resolution, 3D radiative transfer modelling V. A detailed model of the M51 interacting pair](https://arxiv.org/abs/2009.07280)
+    - SKIRT精细建模: In total, 40.7% of the intrinsic stellar radiation of the combined system is absorbed by dust.
+    - we quantify the contribution of the various dust heating sources in the system, and find that the young stellar population of NGC5194 is the predominant dust-heating agent, with a global heating fraction of 71.2%.
+    - Another 23% is provided by the older stellar population of the same galaxy, while the remaining 5.8% has its origin in NGC5195 
+
+- [The Massive Ancient Galaxies At z>3 NEar-infrared (MAGAZ3NE) Survey: Confirmation of Extremely Rapid Star-Formation and Quenching Timescales for Massive Galaxies in the Early Universe](https://arxiv.org/abs/2009.07281)
+    - **Relevant**
+    - A sample of 16 photometrically-selected galaxies with stellar masses log(M_star/M_sun) > 11 at redshift z > 3 from the XMM-VIDEO and COSMOS-UltraVISTA fields using Keck/MOSFIRE as part of the MAGAZ3NE survey.
+    - 8个的sSFR都很低了：Rapid quenching followed these bursty star-forming periods, generally occurring less than 350 Myr before observation, resulting in post-starburst SEDs and spectra for half the sample.
+    - The rapid formation timescales are consistent with the extreme star formation rates observed in 4 < z < 7 dusty starbursts observed with ALMA, suggesting that such dusty galaxies are progenitors of these UMGs
+
+- [The physical origins and dominant emission mechanisms of Lyman-alpha halos: results from the TNG50 simulation in comparison to MUSE observations](https://arxiv.org/abs/2009.07283)
+    - Lya辐射转移工具：voroILTIS：runs directly on the unstructured Voronoi tessellation of cosmological hydrodynamical simulations
+    - 利用TNG50看2< z<5的8.0< log10(M⋆/M⊙)<10.5的SF星系附近的LAH
+    - We measure the correlations of LAH size and central brightness with galaxy properties, finding that at intermediate masses 8.5≤log10(M⋆/M⊙)≤9.5, LAH sizes roughly double from z=2 to z=5.
+    - 在模拟中，SFR的散射光子是LAH的主要电离源; we find that the flattening of LAH profiles at large radii becomes dominated by photons originating from other nearby, more massive halos, rather than diffuse emission itself.
+
+- [Cosmological 3D HI Gas Map with HETDEX Lyα Emitters and eBOSS QSOs at z=2: IGM-Galaxy/QSO Connection and a ∼ 40-Mpc Scale Giant HII Bubble Candidate](https://arxiv.org/abs/2009.07285)
+    - HETDEX+eBOSS看z=2.1-2.5处的LAE和QSO附近30-400 Mpc内的IGM中的HI分布
+    - In the cosmological volume far from QSOs, we find that LAEs reside in regions of strong HI absorption, i.e. HI rich, which is consistent with results of previous galaxy-background QSO pair studies.
+    - We have identified a ∼ 40-Mpc scale volume of HI underdensity that is a candidate for a giant HII bubble, where six QSOs and an LAE overdensity exist at ⟨z⟩=2.16.
+
+- [The MOSDEF Survey: The Evolution of the Mass-Metallicity Relation from z=0 to z∼3.3](https://arxiv.org/abs/2009.07292)
+    - This analysis crucially utilizes different metallicity calibrations at z∼0 and z>1 to account for evolving ISM conditions.
+    - We find significant correlations between O/H and stellar mass (M∗) at z∼2.3 and z∼3.3. The low-mass power law slope of the mass-metallicity relation is remarkably invariant over z=0−3.3
+    - We find no evidence that the fundamental metallicity relation between M∗, O/H, and star-formation rate (SFR) evolves out to z∼3.3, with galaxies at z∼2.3−3.3 having O/H within 0.04~dex of local galaxies matched in M∗ and SFR on average.
+    - The efficiency of metal removal increases toward lower M∗ at fixed redshift, and toward higher redshift at fixed M∗. 
+    - Models suggest that the slope of the mass-metallicity relation is set by the scaling of the metal loading factor of outflows with M∗, not by the change in gas fraction as a function of M∗.
+    - These results suggest that the processes governing the smooth baryonic growth of galaxies via gas flows and star formation hold in the same form over at least the past 12~Gyr.
+
+- [Surface Brightness Evolution of Galaxies in the CANDELS GOODS Fields up to z∼6: High-z Galaxies are Unique or Remain Undetected](https://arxiv.org/abs/2009.07295)
+    - **Interesting**
+    - 预测到z~6的rest-frame UV SB演化：UV SB is a measure of the density of emission from mostly young stars and correlates with an unknown combination of star formation rate, initial mass function, cold gas mass density, dust attenuation, and the size evolution of galaxies
+    - We find a very strong evolution in the intrinsic SB distribution which declines as (1+z)3, decreasing by 4-5 mag arcsec−2 between z=6 to z=1. 但主要是因为选择效应造成的
+    - Deep HST imaging is unable to discover all of the most massive galaxies in the distant universe. Through simulations we show that only ∼15\% of galaxies that we can detect at z=2 would be detected at high-z.
+
+- [Galaxy properties in the cosmic web of EAGLE simulation](https://arxiv.org/abs/2009.07394)
+    - The baryon fractions in haloes and the amplitudes of the galaxy luminosity function decrease going from knots to filaments to sheets to voids
+    - L∗ varies dramatically in different cosmic web environments
+    - 在z=0, knots中的质量1.8x10^10 Msun的中心星系比filaments, sheets, voids中的更红，sSFR更低，金属丰度更高
+    - Such dependences can be attributed to the fact that the active galaxy fraction decreases along voids, sheets, filaments and knots.
+
+- [Revisiting the Local Star-Forming Galaxies Observed in the HETDEX Pilot Survey](https://arxiv.org/abs/2009.07510)
+    - From the mock-data tests, I found that the nebular emission-line color excess E(B−V) can be overestimated by as much as 2-σ or more, although the metallicity can recover the input value to within 1-σ
+    - The overestimation of E(B−V) indicates the overestimation of the star-formation rates (SFRs) in the previous study, which can be as much as a factor of five
+
+- [Optimising and comparing source extraction tools using objective segmentation quality criteria](https://arxiv.org/abs/2009.07586)
+    - **Useful**
+    - 对比几个测光探测工具：SExtractor, ProFound, NoiseChisel, and MTObjects
+    - We present four different objective segmentation quality measures, based on precision, recall, and a new measure for the correctly identified area of sources. Bayesian optimisation is used to find optimal parameter settings for each of the four tools on simulated data
+    - We determine that when area is disregarded, all four tools are capable of broadly similar levels of detection completeness, while only NoiseChisel and MTObjects are capable of locating the faint outskirts of objects. MTObjects produces the highest scores on all tests on all four quality measures, whilst SExtractor obtains the highest speeds
+
+- [Probing the Nature of High Redshift Weak Emission Line Quasars: A Young Quasar with a Starburst Host Galaxy](https://arxiv.org/abs/2009.07784)
+    - PSO J083.8371+11.8482, a weak emission line quasar with extreme star formation rate at z=6.3401.
+    - The broad line region (BLR) emission is intrinsically weak and not likely caused by an intervening absorber.
+    - Dust and [CII] emissions put a constraint on the star formation rate of SFR =900−4900 M⊙yr−1, similar to that of hyper-luminous infrared galaxy.
+    - The weak-line profile in the quasar spectrum is most likely caused by a BLR which is not yet fully formed rather than continuum boosting by gravitational lensing or a soft continuum due to super-Eddington accretion.
+
+- [Predictions for the Angular Dependence of Gas Mass Flow Rate and Metallicity in the Circumgalactic Medium](https://arxiv.org/abs/2009.07809)
+    - TNG50 & Eagle: observable properties of CGM gas correlate with azimuthal angle, defined as the galiocentric angle with respect to the central galaxy.
+    - Inflow is more substantial along the galaxy major axis, while outflow is strongest along the minor axis.
+    - 这个角度依赖在R>100 kpc处尤其明显；而且金属丰度也应该有同样的依赖
