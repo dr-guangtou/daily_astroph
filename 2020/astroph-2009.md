@@ -725,7 +725,7 @@
 - [High-resolution, 3D radiative transfer modelling V. A detailed model of the M51 interacting pair](https://arxiv.org/abs/2009.07280)
     - SKIRT精细建模: In total, 40.7% of the intrinsic stellar radiation of the combined system is absorbed by dust.
     - we quantify the contribution of the various dust heating sources in the system, and find that the young stellar population of NGC5194 is the predominant dust-heating agent, with a global heating fraction of 71.2%.
-    - Another 23% is provided by the older stellar population of the same galaxy, while the remaining 5.8% has its origin in NGC5195 
+    - Another 23% is provided by the older stellar population of the same galaxy, while the remaining 5.8% has its origin in NGC5195
 
 - [The Massive Ancient Galaxies At z>3 NEar-infrared (MAGAZ3NE) Survey: Confirmation of Extremely Rapid Star-Formation and Quenching Timescales for Massive Galaxies in the Early Universe](https://arxiv.org/abs/2009.07281)
     - **Relevant**
@@ -748,7 +748,7 @@
     - This analysis crucially utilizes different metallicity calibrations at z∼0 and z>1 to account for evolving ISM conditions.
     - We find significant correlations between O/H and stellar mass (M∗) at z∼2.3 and z∼3.3. The low-mass power law slope of the mass-metallicity relation is remarkably invariant over z=0−3.3
     - We find no evidence that the fundamental metallicity relation between M∗, O/H, and star-formation rate (SFR) evolves out to z∼3.3, with galaxies at z∼2.3−3.3 having O/H within 0.04~dex of local galaxies matched in M∗ and SFR on average.
-    - The efficiency of metal removal increases toward lower M∗ at fixed redshift, and toward higher redshift at fixed M∗. 
+    - The efficiency of metal removal increases toward lower M∗ at fixed redshift, and toward higher redshift at fixed M∗.
     - Models suggest that the slope of the mass-metallicity relation is set by the scaling of the metal loading factor of outflows with M∗, not by the change in gas fraction as a function of M∗.
     - These results suggest that the processes governing the smooth baryonic growth of galaxies via gas flows and star formation hold in the same form over at least the past 12~Gyr.
 
@@ -784,3 +784,67 @@
     - TNG50 & Eagle: observable properties of CGM gas correlate with azimuthal angle, defined as the galiocentric angle with respect to the central galaxy.
     - Inflow is more substantial along the galaxy major axis, while outflow is strongest along the minor axis.
     - 这个角度依赖在R>100 kpc处尤其明显；而且金属丰度也应该有同样的依赖
+
+----
+
+### Sep 17
+
+- [The Archetypal Ultra-Diffuse Galaxy, Dragonfly 44, is not a Dark Milky Way](https://arxiv.org/abs/2009.07846)
+    - **Relevant**
+    - Chandra and XMM-Newton observations of two archetypal UDGs, Dragonfly 44 and DF X1
+    - Both Dragonfly 44 and DF X1 remain undetected in X-rays. The upper limits on the X-ray emission exclude the possibility that these galaxies reside in massive (Mvir≳5×10^11 M⊙) dark matter halos, suggesting that they are not failed L⋆ galaxies.
+
+- [Strongly lensed candidates from the HSC transient survey](https://arxiv.org/abs/2009.07854)
+    - 从HSC transient survey里找lensed QSO：HSC 找到了7个候选
+    - A tightening of variability selection criteria might result in the loss of possible lensed quasar candidates, especially the lensed quasars with faint brightness or narrow separation, without efficiently eliminating the non-lensed objects
+
+- [Near-Gaussian distributions for modelling discrete stellar velocity data with heteroskedastic uncertainties](https://arxiv.org/abs/2009.07858)
+    - 关于运动学研究中的谱线非高斯速度特征的问题：The standard solution for measuring non-Gaussianity involves constructing a series expansion (e.g. the Gauss-Hermite series) which can produce regions of negative probability density. This is a significant issue for the modelling of discrete data with heteroskedastic uncertainties.
+    - We introduce a method to construct positive-definite probability distributions by the convolution of a given kernel with a Gaussian distribution. Further convolutions by observational uncertainties are trivial
+    - Two kernels (uniform and Laplace) offer simple drop-in replacements for a Gauss-Hermite series for negative and positive excess kurtosis distributions with the option of skewness.
+    - We demonstrate the power of our method by an application to real and mock line-of-sight velocity datasets on dwarf spheroidal galaxies, where kurtosis is indicative of orbital anisotropy and hence a route to breaking the mass-anisotropy degeneracy for the identification of cusped versus cored dark matter profiles.
+
+- [SDSS-IV MaNGA: The link between bars and the early cessation of star formation in spiral galaxies](https://arxiv.org/abs/2009.07859)
+    - At fixed stellar mass and morphology, barred galaxies are optically redder than their unbarred counterparts.
+    - We attribute this difference to both older and more metal-rich stellar populations. Dust attenuation however, is lower in the barred sample.
+    - HI gas mass fraction is significantly lower in high-mass (M⋆>10^10 M⊙) barred galaxies than their non-barred counterparts.
+
+- [The Hα star formation main sequence in cluster and field galaxies at z∼1.6](https://arxiv.org/abs/2009.07861)
+    - Three SpARCS clusters at z∼1.6
+    - Field里和Cluster里的SFR差不多，cluster里基本没有quenching
+
+- [MAMMOTH: Confirmation of Two Massive Galaxy Overdensities at z=2.24 with Hα Emitters](https://arxiv.org/abs/2009.08068)
+    - **Relevant**
+    - The confirmation of two massive galaxy overdensities at z=2.24, BOSS1244 and BOSS1542, selected from the MAMMOTH project using Lyα absorption from the intergalactic medium
+    - We use Hα emitters (HAEs) as the density tracer and identify them using deep narrowband H2S1 and broadband Ks imaging data obtained with CFHT/WIRCam. In total, 244 and 223 line emitters are detected in these two fields, and 196±2 and 175±2 are expected to be HAEs
+
+- [Photoelectric heating effects on the evolution of luminous disk galaxies](https://arxiv.org/abs/2009.08078)
+    - SPH模拟研究Photoelectric heating (PEH)对银河系质量星系中ISM的作用
+    - We find that PEH suppresses star formation due to the excess heating that reduces the ISM density. This suppression is seen across the entire range of gas fractions, star formation recipes, dust models, and PEH efficiencies investigated by our code.
+    - 在模拟里能加强SN feedback： when PEH is switched on, galaxy models show higher gas outflow rates and have higher loading factors indicative of enhanced SNe feedback.
+    - PEH效应： Electrons ejected from dust grain surfaces by far–ultraviolet (FUV) photons are primarily responsible for the heating of the cold neutral medium (CNM) and diffuse atomic hydrogen (HI) regions
+        - Those electrons store their kinetic energy in the gas through collision with the different chemical species therein.
+
+- [Ram pressure stripping of HI-rich galaxies infalling into massive clusters](https://arxiv.org/abs/2009.08159)
+    - We find that galaxies under stronger RPS tend to show more significantly reduced total HI mass and enhanced central SFR, compared to control galaxies in the field which have similar stellar mass, stellar surface density and integral star formation rate.
+    - Galaxies under strong or weak RPS account for around 40% of the HI-rich population at R200, and even beyond R200 in the most massive clusters.
+
+- [Galaxy and Mass Assembly: luminosity and stellar mass functions in GAMA groups](https://arxiv.org/abs/2009.08212)
+    - **Relevant**
+    - In contrast to some previous results, the faint-end and low-mass slopes show little systematic dependence on halo mass.
+    - Faint and low-mass simulated satellite galaxies are remarkably independent of halo mass, but the most massive satellites are more common in more massive groups.
+    - We find that the red/blue ratio of galaxies in groups has increased since redshift z≈0.3 relative to the field population.
+
+- [Deep learning of galaxy cluster members through panchromatic HST imaging and extensive spectroscopy](https://arxiv.org/abs/2009.08224)
+    - 基于CNN的：We concluded that, if extensive spectroscopic information is available as training base, the proposed approach is a valid alternative to the catalogue-based methods. This approach has the advantage of avoiding photometric measurements, which are challenging and time-consuming in crowded fields.
+
+- [The EDGE-CALIFA survey: exploring the role of the molecular gas on the galaxy star formation quenching](https://arxiv.org/abs/2009.08383)
+    - We observe that the deficit of galaxy star formation with respect to the star formation main sequence (SFMS) increases with the absence of molecular gas and with a reduced efficiency of conversion of molecular gas into star
+    - By dividing the sample into galaxies dominated by star formation and galaxies quenched in their centres (as indicated by the average value of the Hα equivalent width), we find that this deficit increases sharply once a certain level of gas consumption is reached
+    - Our results indicate that differences in the amount of molecular gas at a fixed stellar mass are the primary driver for the dispersion in the SFMS, and the most likely explanation for the start of star-formation quenching.
+    - Once a paucity of molecular gas has significantly reduced star formation, changes in the star formation efficiency are what drives a galaxy deeper into the red cloud, retiring it.
+
+- [VALES VII: Molecular and ionized gas properties in pressure balanced interstellar medium of starburst galaxies at z ~ 0.15](https://arxiv.org/abs/2009.08446)
+    - We analyse ∼kpc-scale ALMA CO(1--0) and seeing limited SINFONI Paschen-α observations.
+    - The star formation rate surface density (ΣSFR) correlates with the ISM pressure set by self-gravity (Pgrav) following a power law with an exponent close to 0.8.
+    - The molecular gas velocity dispersion values are driven by the ISM pressure set by self-gravity, responsible to maintain the vertical pressure balance.
