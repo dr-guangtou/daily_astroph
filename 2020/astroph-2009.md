@@ -630,7 +630,7 @@
     - Empirically, we find that RA BEL blazars have both low Eddington rates (≲1%) and an inordinately large (order unity) ratio of long term time averaged jet power to accretion luminosity 导致了 a depressed extreme UV ionizing continuum
 
 - [Stellar Populations of a Sample of Optically Selected AGN-host Dwarf Galaxies](https://arxiv.org/abs/2009.05227)
-    - Starlight星族模型：We also find that these dwarfs follow a similar mass-metallicity relation to normal star-forming galaxies, indicating that AGNs have little effect on the chemical evolution of the host galaxy. 
+    - Starlight星族模型：We also find that these dwarfs follow a similar mass-metallicity relation to normal star-forming galaxies, indicating that AGNs have little effect on the chemical evolution of the host galaxy.
 
 - [How do central and satellite galaxies quench? -- Insights from spatially resolved spectroscopy in the MaNGA survey](https://arxiv.org/abs/2009.05341)
     - **Important**
@@ -641,7 +641,7 @@
 
 - [The Diagnostic Potential of JWST in Characterizing Elusive AGNs](https://arxiv.org/abs/2009.05362)
     - We present an integrated modeling approach in which both the line and emergent continuum is predicted from gas exposed to the ionizing radiation from a young starburst and an AGN, focusing specifically on the spectral diagnostics available through JWST
-    - We demonstrate the crucial need for JWST in uncovering low level accretion activity even in nearby galaxies and out to redshifts of ~ 1 - 3, depending on the ionization parameter, and gas phase metallicity. 
+    - We demonstrate the crucial need for JWST in uncovering low level accretion activity even in nearby galaxies and out to redshifts of ~ 1 - 3, depending on the ionization parameter, and gas phase metallicity.
 
 - [Formation of S0s in extreme environments II: the star-formation histories of bulges, discs and lenses](https://arxiv.org/abs/2009.05548)
     - 3-D decomposition: We use buddi to spectroscopically extract the light from the bulge, disc and lens components within a sample of 8 S0 galaxies in extreme environments observed with MUSE.
@@ -673,7 +673,7 @@
 
 - [The AGN contribution to the UV-FIR luminosities of interacting galaxies and its role in identifying the Main Sequence](https://arxiv.org/abs/2009.05614)
     - CIGALE-based SED拟合：We find that luminous galaxies more massive than about 10^10M∗ are likely to deviate significantly from the conventional galaxy main-sequence relation. Interestingly, infrared AGN luminosity and stellar mass in this set of objects are much tighter than SFR and stellar mass.
-    - We find that buried AGNs may occupy a locus between bright starbursts and pure AGNs in the fAGN-[Ne V]/[Ne II] plane. We identify a modest correlation between fAGN and mergers in their later stages. 
+    - We find that buried AGNs may occupy a locus between bright starbursts and pure AGNs in the fAGN-[Ne V]/[Ne II] plane. We identify a modest correlation between fAGN and mergers in their later stages.
 
 - [Spectroscopic study of the HII regions in the NGC 1232 galaxy](https://arxiv.org/abs/2009.05688)
     - 看是否有最近和矮星系相互作用的证据， SOAR光谱观测：We detected 18 HII regions in the north-south direction and 22 HII regions in the east-west direction and a background galaxy, NGC 1232B,
@@ -690,7 +690,7 @@
     - 联合了WISE和Optical BPT的新分类标准
 
 - [Star Formation in CALIFA survey perturbed galaxies. I. Effects of Tidal Interactions](https://arxiv.org/abs/2009.06099)
-    - Despite that the annular profiles show star-forming regions in tidally perturbed galaxies as being mostly older, their SF properties are never reduced against those ones proper of non-tidally perturbed galaxies. 
+    - Despite that the annular profiles show star-forming regions in tidally perturbed galaxies as being mostly older, their SF properties are never reduced against those ones proper of non-tidally perturbed galaxies.
     - We find weak, but detectable, positive correlations for perturbed galaxies suggesting that tidal perturbations induced by close companions increase the gas accretion rates of these objects.
 
 
@@ -699,36 +699,84 @@
 ### Sep 14
 
 - [The baryonic specific angular momentum of disc galaxies](https://arxiv.org/abs/2009.06645)
+    - **Important, Interesting**
+    - Using a combination of high-quality HI rotation curves and HI/near-IR surface densities, we homogeneously measure the stellar (j∗) and gas (jgas) specific angular momentum for a large sample of nearby disc galaxies. 估计重子物质的角动量
+    - We confirm that the j∗−M∗ relation is an unbroken power-law from 7≲ log(M∗/M⊙)≲11.5, with slope 0.54±0.02.
+    - Concerning the gas component, we find that the jgas−Mgas relation is also an unbroken power-law from 6≲ log(Mgas/M⊙)≲11 with a steeper slope of 1.01±0.04.
+    - Our analysis shows that our most massive spirals and smallest dwarfs lie along the same jbar−Mbar. While the relations are tight and unbroken, we find internal correlations inside them: at fixed M∗, galaxies with larger j∗ have larger disc scale lengths, and at fixed Mbar, gas-poor galaxies have lower jbar than expected
+    - We estimate the retained fraction of baryonic specific angular momentum, finding it constant across all our mass range, with a value of 0.7, indicating that the baryonic specific angular momentum of present-day disc galaxies is comparable to the initial specific angular momentum of their dark matter haloes.
 
-- [The baryon cycle of Seven Dwarfs with superbubble feedback](https://arxiv.org/abs/2009.066461)
+- [The baryon cycle of Seven Dwarfs with superbubble feedback](https://arxiv.org/abs/2009.06646)
+    - GASOLINE2 模拟中考虑了Clustered SN反馈：Bursty star formation histories and superbubble-driven outflows lead to the formation of kpc-size DM cores when stellar masses reaches M∗>10^6 M⊙,
+    - The superbubble model appears more effective in destroying DM cusps than the previously adopted "blastwave" model, reflecting a higher coupling efficiency of SN energy with the ISM.
+    - 整体影响：superbubble-driven outflows have a more moderate impact: galaxies have higher gas content, more extended stellar disks, and a smaller metal-enriched region in the CGM.
+    - While H I is ubiquitous with a covering fraction of unity within the CGM, Si II and C IV are less extended. O VI is more extended, but its mass is only 11% of the total CGM oxygen budget, as the diffuse CGM is highly ionised by the UVB.
+    - 矮星系的DM core和CGM是最好的检验超新星反馈模型的方法
 
-- [An ALMA Survey of the SCUBA-2 Cosmology Legacy Survey UKIDSS/UDS Field: The Far-infrared/Radio correlation for High-redshift Dusty Star-forming Galaxies](https://arxiv.org/abs/2009.066647)
+- [An ALMA Survey of the SCUBA-2 Cosmology Legacy Survey UKIDSS/UDS Field: The Far-infrared/Radio correlation for High-redshift Dusty Star-forming Galaxies](https://arxiv.org/abs/2009.06647)
+    - **Interesting**
+    - We detect 273 SMGs at >4σ in deep Karl G. Jansky Very Large Array 1.4 GHz observations, of which a subset of 45 SMGs are additionally detected in 610 MHz Giant Metre-Wave Radio Telescope imaging.
+    - FIR-Radio相关的slope没有明显红移演化，但是相比local有一个offset，说明了高红移星暴星系物理条的不同：a combination of strong magnetic fields (B≳0.2mG), high interstellar medium (ISM) densities and additional radio emission generated by secondary cosmic rays.
+    - Overall, our findings paint SMGs as a homogeneous population of galaxies, as illustrated by their tight and non-evolving far-infrared/radio correlation.
 
-- [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). XI. Proximity Zone Analysis for Faint Quasar Spectra at z~6](https://arxiv.org/abs/2009.066648)
+- [Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). XI. Proximity Zone Analysis for Faint Quasar Spectra at z~6](https://arxiv.org/abs/2009.06648)
+    - z~6的低光度QSO的proximity zone的测量：The luminosity dependence on Rp is found to be consistent with the theoretical prediction assuming highly ionized intergalactic medium.
+    - Four quasars show exceptionally small Rp ≲0.90 proper Mpc, which could be the result of their young age (<10^4 yr) in the reionization epoch, though statistics is still small.
 
 - [A comparative study of satellite galaxies in Milky Way-like galaxies from HSC, DECaLS and SDSS](https://arxiv.org/abs/2009.06882)
+    - **Relevant**
+    - The satellite LFs can be measured down to MV∼−10, and for central primary galaxies as small as 8.5< log10M∗/M⊙<9.2 and 9.2 < log10M∗/M⊙<9.9, which implies there are on average 3-8 satellites with MV<−10 around LMC-mass ICGs.
+    - 和银河系质量的星系比：i) the averaged satellite LFs of ICGs with different magnitude gaps to their companions and of galaxy pairs with different colour or colour combinations all show steeper slopes than the MW satellite LF; ii) there are more satellites with −15<MV<−10 than those in our MW; iii) there are on average 1.5 to 2.5 satellites with MV<−16 around ICGs, consistent with our MW.
 
 - [Barred Galaxies in the IllustrisTNG Simulation](https://arxiv.org/abs/2009.06895)
+    - TNG模拟里的Bar星系：about 55% of disk galaxies with stellar mass M∗≈1010.6M⊙ are barred
+    - The relation between bar size and total stellar mass is similar to that found in near-infrared surveys.
+    - However, the formation of bars is suppressed in galaxies with M∗<10^10.6M⊙ 可能是因为TNG100的分辨率不够研究这些很短的bar
+    - TNG100 overproduces relatively short bars (radius ~1.4-3 kpc) with respect to the mass-bar size relation observed in near-infrared surveys.
 
 - [A single galaxy population? statistical evidence that the Star-Forming Main Sequence might be the tip of the iceberg](https://arxiv.org/abs/2009.06931)
+    - We show that the whole population of galaxies in the local Universe is consistent with a simple probability distribution with only one maximum (roughly corresponding to the MSSF) and relatively shallow power-law tails that fully account for the `passive' population
 
 - [Upgraded GMRT observations of the Coma cluster of galaxies: The observations](https://arxiv.org/abs/2009.07145)
+    - These 6.26 arcsec and 2.18 arcsec resolutions observations allow detailed radio structures to be determined of all detected radio sources that show both discrete pointlike and extended morphologies.
+    - We find the steepening of the spectra consistent with synchrotron cooling in the majority of sources and the median for spectral indices is -0.78, suggesting that ~59% sources have steep spectra.
 
 - [NGC 4869 in the Coma cluster: twist, wrap, overlap and bend](https://arxiv.org/abs/2009.07146)
+    - 接上面文章的GMRT观测，这是Coma里的一个head-tail射电星系：The radio spectra show progressive spectral steepening as a function of distance from the head and there is possibly re-acceleration of the synchrotron electrons and perhaps also magnetic field re-generation in the 6-208 arcsec (= 2.8-96.1 kpc) region of the jet.
 
 - [Large scale simulations of H and He reionization and heating driven by stars and more energetic sources](https://arxiv.org/abs/2009.06631)
+    - We post-process the hydrodynamical simulation Massive-Black II (MBII) with multifrequency ionizing radiative transfer.
+    - The one with an escape fraction that decreases with decreasing redshift yields results most in line with observations, such as of the neutral hydrogen fraction and the Thomson scattering optical depth.
+    - Stars are the main driver of hydrogen reionization and consequently of the thermal history of the intergalactic medium (IGM).
+    - The thermal and ionization state of the neutral and lowly ionized hydrogen differs significantly with different source combinations, with ISM and (to a lesser extent) XRBs, playing a significant role and, as a consequence, determining the transition from absorption to emission of the 21 cm signal from neutral hydrogen.
 
 - [Correlations between supermassive black holes and hot gas atmospheres in IllustrisTNG and X-ray observations](https://arxiv.org/abs/2009.06634)
-
-- [Extracting the Subhalo Mass Function from Strong Lens Images with Image Segmentation](https://arxiv.org/abs/2009.06639)
-
-- [Effects of Photoionization and Photoheating on Lyman-alpha Forest Properties from Cholla Cosmological Simulations](https://arxiv.org/abs/2009.06652)
+    - TNG100里的比较：We find prominent correlations between the masses of central SMBHs and the hot atmospheres X-ray properties only in quenched galaxies and find that the correlations become stronger and tighter at larger radii
+    - In TNG100 the X-ray temperature (kBTX) of the circum-galactic or intra-group/cluster medium (r≳5Re) traces the SMBH mass with remarkably small scatters (∼0.2 dex).
+    - Within the framework of IllustrisTNG, the correlations between the central SMBHs and the atmospheric gas temperature at the high-mass end at z=0 are fundamentally a reflection of the SMBH mass - halo mass relation, which at such high masses is set by the hierarchical assembly of structures
 
 - [Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation](https://arxiv.org/abs/2009.06663)
+    - Using the technique of image segmentation, we turn the task of identifying subhalos into a classification problem where we label each pixel in an image as coming from the main lens, a subhalo within a binned mass range, or neither.
+    - On a test set of noiseless simulated images with a single subhalo, the network is able to locate subhalos with a mass of 10^8M⊙ and place them in the correct or adjacent mass bin, effectively detecting them 97% of the time.
+
+- [Extracting the Subhalo Mass Function from Strong Lens Images with Image Segmentation](https://arxiv.org/abs/2009.06639)
+    - We use machine learning to circumvent the need for lens and source modeling and develop a method to both locate subhalos in an image as well as determine their mass using the technique of image segmentation.
+    - The network is trained on images with a single subhalo located near the Einstein ring. Training in this way allows the network to learn the gravitational lensing of light and it is then able to accurately detect entire populations of substructure, even far from the Einstein ring.
+    - With good accuracy and a low false-positive rate, counting the number of pixels assigned to each subhalo class over multiple images allows for a measurement of the subhalo mass function (SMF)
+
+- [Effects of Photoionization and Photoheating on Lyman-alpha Forest Properties from Cholla Cosmological Simulations](https://arxiv.org/abs/2009.06652)
+    - Cholla IGM Photoheating Simulation (CHIPS) suite: 考虑了 IGM uniform photoheating and photoionization models where hydrogen reionization completes early (Haardt & Madau 2012) or by redshift z~6 (Puchwein et al. 2019).
+    - 和观测比较，看2< z < 5.5的不同尺度上的Lyman-alpha transmitted flux power spectra P(k)；在小尺度上符合得较好
+    - The models could improve by changing the HeII photoheating rate associated with active galactic nuclei to reduce the IGM temperature at z~3.
 
 - [A Stochastic Theory of the Hierarchical Clustering I. Halo Mass Function](https://arxiv.org/abs/2009.07023)
+    - A new theory for the hierarchical clustering of dark matter (DM) halos based on stochastic differential equations 和现有的excursion set approach不同
+    - We present a stochastic differential equation that describes fluctuations in the mass growth of DM halos, as driven by a multiplicative white (Gaussian) noise dependent on the spherical collapse threshold and on the power spectrum of DM perturbations.
+    - Then, we solve the Fokker-Planck equation associated to the stochastic dynamics, and obtain the Press & Schechter mass function as a (stationary) solution.
 
 - [Unveiling sub-parsec supermassive black hole binary candidates in active galactic nuclei](https://arxiv.org/abs/2009.06662)
+    - We report on a new method to select SMBHBs by means of the presence of a periodic signal in their Swift-BAT 105-months light curves. Our technique is based on the Fisher's exact g-test and takes into account the possible presence of colored noise.
+    - Seyfert 1.5 Mrk 915 emerged as possible candidate for a SMBHB; from the subsequent analysis of its light curve we find a period P0=35±2 months
 
 ----
 
