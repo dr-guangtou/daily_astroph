@@ -626,37 +626,72 @@
     - We detect a clear offset of ∼20 Å between the observed Lyα wavelength distribution and the NB816 filter transmission curve, which can be explained by the intergalactic medium absorption of continua blueward of Lyα in the high-redshift spectra.
 
 - [The Extreme Red Excess in Blazar Ultraviolet Broad Emission Lines](https://arxiv.org/abs/2009.05082)
+    - A study of quasars with very redward asymmetric (RA) ultraviolet (UV) broad emission lines (BELs).
+    - Empirically, we find that RA BEL blazars have both low Eddington rates (≲1%) and an inordinately large (order unity) ratio of long term time averaged jet power to accretion luminosity 导致了 a depressed extreme UV ionizing continuum
 
 - [Stellar Populations of a Sample of Optically Selected AGN-host Dwarf Galaxies](https://arxiv.org/abs/2009.05227)
+    - Starlight星族模型：We also find that these dwarfs follow a similar mass-metallicity relation to normal star-forming galaxies, indicating that AGNs have little effect on the chemical evolution of the host galaxy. 
 
 - [How do central and satellite galaxies quench? -- Insights from spatially resolved spectroscopy in the MaNGA survey](https://arxiv.org/abs/2009.05341)
+    - **Important**
+    - We establish that the quenching of central galaxies is governed by intrinsic parameters, with central velocity dispersion (σc) being the most important single parameter. 中心星系和大质量卫星星系都是通过内部机制quench的
+    - Conversely, low mass satellite quenching is governed primarily by environmental parameters, with local galaxy over-density (δ5) being the most important single parameter.
+        - Environmental quenching occurs at over-densities of 10 - 30 times the average galaxy density at z∼0.1
+    - Finally, through an analysis of stellar metallicities, we conclude that both intrinsic and environmental quenching must incorporate significant starvation of gas supply.
 
 - [The Diagnostic Potential of JWST in Characterizing Elusive AGNs](https://arxiv.org/abs/2009.05362)
+    - We present an integrated modeling approach in which both the line and emergent continuum is predicted from gas exposed to the ionizing radiation from a young starburst and an AGN, focusing specifically on the spectral diagnostics available through JWST
+    - We demonstrate the crucial need for JWST in uncovering low level accretion activity even in nearby galaxies and out to redshifts of ~ 1 - 3, depending on the ionization parameter, and gas phase metallicity. 
 
 - [Formation of S0s in extreme environments II: the star-formation histories of bulges, discs and lenses](https://arxiv.org/abs/2009.05548)
+    - 3-D decomposition: We use buddi to spectroscopically extract the light from the bulge, disc and lens components within a sample of 8 S0 galaxies in extreme environments observed with MUSE.
+    - Stellar populations analysis revealed that the bulges and lenses have generally similar or higher metallicities than the discs, and the α-enhancement of the bulges and discs are correlated, while those of the lenses are completely unconnected to either component. 透镜结构的形成比较特殊
+    - The younger stellar populations and asymmetric features seen in the field S0s may indicate that these galaxies have been affected more by minor mergers than the cluster galaxies.
 
 ----
 
 ### Sep 14
 
 - [On the impact of galaxy bias uncertainties on primordial non-Gaussianity constraints](https://arxiv.org/abs/2009.06622)
-    -
+    - We focus on the relation between the linear density galaxy bias b1 and local PNG bias bϕ in an idealized forecast setup with multitracer galaxy power spectrum and bispectrum data.
+    - Our results motivate strongly the incorporation of mitigation strategies for bias uncertainties in PNG constraint analyses, as well as further theoretical studies on the relations between bias parameters to better inform those strategies.
 
 - [Tracking the year-to-year variation in the spectral energy distribution of the Narrow-line Seyfert 1 Galaxy Mrk335](https://arxiv.org/abs/2009.05705)
+    - The bolometric Eddington ratios derived using optical/UV to X-ray SEDs and the calculated X-ray luminosities show a gradual decrease over the monitoring period.
+    - Principal component analysis suggests that the primary variability is in the X-ray properties of Mrk 335
 
 - [One-Two Quench: A Double Minor Merger Scenario](https://arxiv.org/abs/2009.05581)
+    - ChaNGa模拟：two merger-driven processes disk disruption and supermassive black hole (SMBH) feedback which work together to quench L∗ galaxies for over 7 Gyr.
+    - This one-two punch works to: 1. fuel the primary halo's supermassive black hole (SMBH) at its peak accretion rate; and 2. disrupt the cold, gaseous disk of the host galaxy.
+    - We search for and find a similar quenching event in Romulus25, a hydrodynamical (25Mpc)3 volume simulation
 
 - [Stellar velocity dispersion and initial mass function gradients in dissipationless galaxy mergers](https://arxiv.org/abs/2009.05583)
+    - **Relevant, Important**
+    - We find that dry mergers tend to make the αIMF profiles of ETGs shallower, but do not alter significantly the shape of the distributions in the spatially resolved σlos-αIMF space.
+    - Individual galaxies undergoing dry mergers tend to decrease their αe, due to erosion of αIMF gradients and mixing with stellar populations with lighter IMF.
+    - ETGs of given σe are expected to have higher αe at higher redshift, unless the accreted satellites are so diffuse that they contribute negligibly to the inner stellar distribution of the merger remnant.
 
 - [The AGN contribution to the UV-FIR luminosities of interacting galaxies and its role in identifying the Main Sequence](https://arxiv.org/abs/2009.05614)
+    - CIGALE-based SED拟合：We find that luminous galaxies more massive than about 10^10M∗ are likely to deviate significantly from the conventional galaxy main-sequence relation. Interestingly, infrared AGN luminosity and stellar mass in this set of objects are much tighter than SFR and stellar mass.
+    - We find that buried AGNs may occupy a locus between bright starbursts and pure AGNs in the fAGN-[Ne V]/[Ne II] plane. We identify a modest correlation between fAGN and mergers in their later stages. 
 
-- [Spectroscopic study of the HII regions in the NGC 1232 galaxy](https://arxiv.org/abs/2009.05614)
+- [Spectroscopic study of the HII regions in the NGC 1232 galaxy](https://arxiv.org/abs/2009.05688)
+    - 看是否有最近和矮星系相互作用的证据， SOAR光谱观测：We detected 18 HII regions in the north-south direction and 22 HII regions in the east-west direction and a background galaxy, NGC 1232B,
+    - We found a stellar population gradient with older populations at the central regions and younger ones towards the outskirts, along with a negative oxygen abundance gradient of -0.16 dex/re
+    - We found no deviations from a typical spiral galaxy and no significant difference between different directions in the galaxy. The stellar population and emission line analysis of NGC 1232B suggest that it is a starburst galaxy.
 
 - [Dynamics of Companion Galaxies of Early-Type Galaxies](https://arxiv.org/abs/2009.05788)
+    - From the relationships between our observed Mdyn/Mb distributions and distances, we suggest that the satellite galaxies of the ETGs have relatively more elliptical orbits than those of the spiral galaxies have and the Mdyn/Mb of the ETGs are greater than that of the spiral galaxies.
 
 - [Galaxy and Mass Assembly (GAMA): A WISE study of the activity of emission-line systems in G23](https://arxiv.org/abs/2009.05981)
+    - We find that the BPT and WISE diagrams agree on the classification for 85% and 8% of the galaxies as non-AGN (star forming = SF) and AGN
+    - Several optical AGN appear to be completely consistent with SF in WISE. We argue that these could be low power AGN, or systems whose hosts dominate the IR emission.
+    - Based on our findings, we have created a new diagnostic: [W1-W2] vs [\ion{N}{ii}]/[Hα], which has the virtue of separating SF from AGN and high-excitation sources. It classifies 3∼5 times more galaxies than the classic BPT
+    - 联合了WISE和Optical BPT的新分类标准
 
 - [Star Formation in CALIFA survey perturbed galaxies. I. Effects of Tidal Interactions](https://arxiv.org/abs/2009.06099)
+    - Despite that the annular profiles show star-forming regions in tidally perturbed galaxies as being mostly older, their SF properties are never reduced against those ones proper of non-tidally perturbed galaxies. 
+    - We find weak, but detectable, positive correlations for perturbed galaxies suggesting that tidal perturbations induced by close companions increase the gas accretion rates of these objects.
 
 
 ----
