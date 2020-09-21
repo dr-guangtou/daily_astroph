@@ -931,3 +931,65 @@
     - We analyse ∼kpc-scale ALMA CO(1--0) and seeing limited SINFONI Paschen-α observations.
     - The star formation rate surface density (ΣSFR) correlates with the ISM pressure set by self-gravity (Pgrav) following a power law with an exponent close to 0.8.
     - The molecular gas velocity dispersion values are driven by the ISM pressure set by self-gravity, responsible to maintain the vertical pressure balance.
+
+----
+
+### Sep 20
+
+- [Likelihood-free inference with neural compression of DES SV weak lensing map statistics](https://arxiv.org/abs/2009.08459)
+    - **Interesting**
+    - Likelihood-free inference covers a novel family of methods to rigorously estimate posterior distributions of parameters using forward modelling of mock data.
+    - Likelihood-free inference provides a robust and scalable alternative for rigorous large-scale cosmological inference with galaxy survey data (for DES, Euclid and LSST). We have made our simulated lensing maps publicly available.
+
+- [Galaxy morphology rules out astrophysically interesting f(R)](https://arxiv.org/abs/2009.08743)
+    - We compile statistical datasets of two morphological indicators -- offsets between stars and gas in galaxies and warping of stellar disks -- and use them to constrain the strength and range of a thin-shell-screened fifth force.
+    - We construct a robust galaxy-by-galaxy Bayesian forward model for the morphological signals, including full propagation of uncertainties in the input quantities and marginalisation over an empirical model describing astrophysical noise.
+
+- [PSZSPT: a joint Planck and SPT-SZ cluster catalogue](https://arxiv.org/abs/2009.08822)
+    - **Relevant**
+    - We develop and apply a Matched Multi-Filter (MMF) capable of dealing with the different transfer functions and resolutions of the two datasets.
+    - The MMF generated a catalogue of 419 detections (S/N>5), of which 323 are already part of the SPT-SZ or PSZ2 catalogues; 37 are new SZ detection
+    - Planck 更适合在低红移找星系团；SPT在高红移更有效
+
+- [CARPool: fast, accurate computation of large-scale structure statistics by pairing costly and cheap cosmological simulations](https://arxiv.org/abs/2009.08970)
+    - **SSST, CSST**
+    - We propose a general method that exploits the correlation between simulations and surrogates to compute fast, reduced-variance statistics of large-scale structure observables without model error at the cost of only a few simulations. We call this approach Convergence Acceleration by Regression and Pooling (CARPool).
+    - By comparing to the 15,000 simulations from the Quijote suite, we verify that the CARPool estimates are unbiased, as guaranteed by construction, even though the surrogate misses the simulation truth by up to 60% at high k.
+
+- [AstroVaDEr: Astronomical Variational Deep Embedder for Unsupervised Morphological Classification of Galaxies and Synthetic Image Generation](https://arxiv.org/abs/2009.08470)
+    - **Useful**
+    - The model is a convolutional neural network that learns to embed images into a low dimensional latent space, and simultaneously optimises a Gaussian Mixture Model (GMM) on the embedded vectors to cluster the training data.
+    - By utilising variational inference, we are able to use the learned GMM as a statistical prior on the latent space to facilitate random sampling and generation of synthetic images
+    - AstroVaDEr demonstrates the ability to classify the morphology of galaxies in a human-interpretable way without the need for labelled training data.
+
+- [GeneticKNN: A Weighted KNN Approach Supported by Genetic Algorithm for Photometric Redshift Estimation of Quasars](https://arxiv.org/abs/2009.08608)
+    - This approach has two improvements compared to KNN: one is the feature weighted by GA; another is that the predicted redshift is not the redshift average of K neighbors but the weighted average of median and mean of redshifts for K neighbors, i.e. p×zmedian+(1−p)×zmean.
+
+- [The MUSE Deep Lensed Field on the Hubble Frontier Field MACS~J0416](https://arxiv.org/abs/2009.08458)
+    - We identify 116 clumps belonging to background high-z galaxies; the majority of them are multiple images and span magnitude, size and redshift intervals of [-18,-10], [~400-3] parsec and 1< z<6.6, respectively, with the faintest and/or most magnified ones probing possible single gravitationally-bound star clusters.
+    - Ultraviolet high-ionization metal lines (and HeII1640) are detected with S/N>10 for individual objects down to de-lensed magnitude 28-30 suggesting that they are common in such faint sources.
+    - 非常深的MUSE星系团中心观测，MACSJ0416 z=0.397
+
+- [The spatially resolved broad line region of IRAS 09149-6206](https://arxiv.org/abs/2009.08463)
+    - Near-infrared VLTI/GRAVITY interferometric spectra that spatially resolve the broad Brγ emission line in the nucleus of the active galaxy IRAS 09149-6206.
+    - We infer the radius of the BLR to be ~65 μas (0.075 pc), which is consistent with the radius-luminosity relation of nearby active galactic nuclei derived based on the time lag of the Hβ line from reverberation mapping campaigns. Our dynamical modelling indicates the black hole mass is ∼1×10^8M⊙, which is a little below, but consistent with, the standard MBH-σ∗ relation.
+
+- [MusE GAs FLOw and Wind (MEGAFLOW) V. The dust/metallicity-anisotropy of the Circum-Galactic Medium](https://arxiv.org/abs/2009.08464)
+    - 13 galaxy-MgII absorber pairs (9 - 81 kpc distance) at 0.4 < z < 1.4; we investigate whether the dust content of the circum-galactic medium (CGM) depends on the location of the quasar sightline with respect to the galaxy major-axis.
+    - UVES观测QSO测量[Zn/Fe]估计dust depletion time; 或者通过MnII, CrII, ZnII吸收来解析估计
+    - We find a positive correlation between the azimuthal angle and [Zn/Fe] with a Pearson's r = 0.70 +/- 0.14. The sightlines along the major axis show [Zn/Fe] < 0.5, whereas the [Zn/Fe] is > 0.8 along the minor axis. 说明沿着Minor axis方向的CGM的金属丰度更高，可能是从outflow来的
+
+- [Dying of the Light: An X-ray Fading Cold Quasar at z ~ 0.405](https://arxiv.org/abs/2009.08465)
+    - Cold quasars are a rare subpopulation observed to host unobscured, X-ray luminous active galactic nuclei (AGN) while also retaining a cold gas supply fueling high star formation rates. These objects are interpreted as AGN early in their evolution.
+    - We also find AGN bolometric luminosity that varies as a function of observation method and AGN region probed. Finally, we identify a candidate outflow feature corroborating the hypothesis that cold quasars have energetic feedback.
+
+- [Excitation and acceleration of molecular outflows in LIRGs: The extended ESO 320-G030 outflow on 200-pc scales](https://arxiv.org/abs/2009.08481)
+    - ESO320-G030 is a double-barred isolated spiral, but its compact and obscured nuclear starburst (SFR~15 Msun/yr; Av~40 mag) resembles those of more luminous ULIRGs.
+    - The outflowing molecular gas is less excited than the gas in the nuclear starburst (launching site) and the galaxy disk.
+    - The outflowing molecular clouds are not bound by self-gravity.
+    - The heating by the hotter ionized outflow phase is not efficient and may favor the survival of the outflow molecular phase.
+
+- [Discovery of an Ultra-Faint Stellar System near the Magellanic Clouds with the DECam Local Volume Exploration (DELVE) Survey](https://arxiv.org/abs/2009.08550)
+    - 新的UFD的发现：DELVE 2 is located at a heliocentric distance of D⊙=71±4 kpc, which places it at a 3D physical separation of 12 kpc from the center of Small Magellanic Cloud (SMC) and 28 kpc from the center of the Large Magellanic Cloud (LMC).
+    - DELVE 2 is identified as a resolved overdensity of old (τ>13.3 Gyr) and metal-poor ([Fe/H]=−2.0+0.2−0.5 dex) stars
+    - DELVE 2 is detected in Gaia DR2 with a clear proper motion signal, with multiple blue horizontal branch stars near the centroid of the system with proper motions consistent with the systemic mean.
