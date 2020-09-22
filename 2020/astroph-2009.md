@@ -993,3 +993,81 @@
     - 新的UFD的发现：DELVE 2 is located at a heliocentric distance of D⊙=71±4 kpc, which places it at a 3D physical separation of 12 kpc from the center of Small Magellanic Cloud (SMC) and 28 kpc from the center of the Large Magellanic Cloud (LMC).
     - DELVE 2 is identified as a resolved overdensity of old (τ>13.3 Gyr) and metal-poor ([Fe/H]=−2.0+0.2−0.5 dex) stars
     - DELVE 2 is detected in Gaia DR2 with a clear proper motion signal, with multiple blue horizontal branch stars near the centroid of the system with proper motions consistent with the systemic mean.
+
+----
+
+### Sep 21
+
+- [SMART: A new implementation of Schwarzschild's Orbit Superposition technique for triaxial galaxies and its application to an N-body merger simulation](https://arxiv.org/abs/2009.08979)
+    - **Useful**
+    - SMART fits full line-of-sight velocity distributions (LOSVDs) to determine the viewing angles, black hole, stellar and dark matter (DM) masses and the stellar orbit distribution of galaxies
+    - Our model uses a 5D orbital starting space to ensure a representative set of stellar trajectories adaptable to the integrals-of-motion space and it is designed to deal with non-parametric stellar and DM densities.
+    - We show that orbit models even allow the reconstruction of full intrinsic velocity distributions, which contain more information than the classical anisotropy parameter.
+
+- [Observations of [OI]63micron line emission in main-sequence galaxies at z~1.5](https://arxiv.org/abs/2009.08984)
+    - We detect [OI]63micron line emission in BzK-21000 at z=1.5213; 样本里其他源没有单独的探测，但叠加后有探测
+    - We find that the implied luminosity ratio, L([OI]63micron)/L(IR), of the undetected BzK-selected star-forming galaxies broadly agrees with that of low-redshift star-forming galaxies, while BzK-21000 has a similar ratio to that of a dusty star-forming galaxy at z~6.
+
+- [A quantitative demonstration that stellar feedback locally regulates galaxy growth](https://arxiv.org/abs/2009.08992)
+    - MUSE观测的102个盘星系上的500pc分辨率的星族分析，看20Myr和570Myr内的SFH，用SF自调节模型估计local mass loading factor
+    - Local mass loading factor和stellar mass surface density有相关
+    - We integrate the local η-Σ∗ relation using the stellar mass surface density profiles from the Spitzer Survey of Stellar Structure in Galaxies (S4G) to derive global mass-loading factors, ηG, as a function of stellar mass, M∗. 和模拟符合得较好
+
+- [The principle of maximum entropy explains the cores observed in the mass distribution of dwarf galaxies](https://arxiv.org/abs/2009.08994)
+    - We argue that cores are unavoidable in the self-gravitating systems of maximum entropy resulting from non-extensive statistical mechanics. Their structure follows from the Tsallis entropy, suitable for systems with long-range interactions. Strikingly, the mass density profiles predicted by such thermodynamic equilibrium match the observed cores without any adjustment or tuning.
+
+- [Detecting the Figure Rotation of Dark Matter Halos with Tidal Streams](https://arxiv.org/abs/2009.09004)
+    - **Interesting**
+    - Triaxial dark matter halos should exhibit steady figure rotation or tumbling motions for durations of several gigayears. The angular frequency of figure rotation predicted by cosmological simulations is described by a log-normal distribution of pattern speed Ωp with a median value 0.15 h km s−1 kpc−1
+    - 即便是这么小的figure rotation可以显著地改变被银河系瓦解的小卫星星系产生的星流的轨道
+    - For pattern speeds typical of cosmological halos we demonstrate, for the first time, that a Sagittarius-like tidal stream would be altered to a degree that is detectable even with current observations
+
+- [A 60-kpc Galactic Wind Cone in NGC 3079](https://arxiv.org/abs/2009.09047)
+    - We detect the wind in FUV line emission to 60 kpc (as inferred from the broad FUV filter in GALEX) and in X-rays to at least 30~kpc. The morphology, luminosities, temperatures, and densities indicate that the emission comes from shocked material, and the O/Fe ratio implies that the X-ray emitting gas is enriched by Type II supernovae.
+
+- [Improving Performance of Zoom-In Cosmological Simulations using Initial Conditions with Customized Grids4](https://arxiv.org/abs/2009.09085)
+    -  Starting from the white noise used to seed the structures of an existing initial condition, we cut out a smaller region of interest and use this trimmed white noise cube to create a new root grid. This new root grid contains similar structures as the original, but allows for a smaller box volume and different grid resolution that can be tuned to best suit a given simulation code
+
+- [The HI Structure of the Local Volume Dwarf Galaxy Pisces A](https://arxiv.org/abs/2009.09145)
+    - JVLA观测：While the galaxy shows overall ordered rotation, a number of kinematic features indicate a disturbed gas morphology
+    - We find a total baryon fraction fbary=0.13 if we include these features
+    - We also quantify the cosmic environment of Pisces A, finding an apparent alignment of the disturbed gas with nearby, large scale filamentary structure at the edge of the Local Void
+
+- [DM halo morphological types of MW-like galaxies in the TNG50 simulation: Simple, Twisted, or Stretched](https://arxiv.org/abs/2009.09220)
+    - **Relevant**
+    - Using an Enclosed Volume Iterative Method, we infer an oblate-triaxial shape for DM halos with a median T≃0.24
+    - 将Halo形态分成三类：
+        1. Simple halos(36%) establish three principal axes whose ordering in magnitude does not change with radius and whose orientations are almost fixed throughout the entirety of the halo.
+        2. Twisted halos(36%) show some levels of gradual rotations between 50 to 100 degs radially.
+        3. Finally, stretched halos(28%) demonstrate a stretching in their axes lengths where the ordering of different eigenvalues change radially
+    - Therefore baryonic effects make DM halos less elongated. We analyze the impact of substructure on the DM halo shape and confirm that it is subdominant.
+    - Halo形状影响卫星星系的分布：Satellites in simple halos are in general closer to the center and are more aligned with the central galaxy's angular momentum. Satellites in twisted halo class, present a bi-modal behavior in the distribution of their angles. Finally, satellites of stretched halos are farther out from the center and are more misaligned.
+
+- [Galaxy And Mass Assembly: A Comparison between Galaxy-Galaxy Lens Searches in KiDS/GAMA](https://arxiv.org/abs/2009.09493)
+    - Comparison between spectroscopic, machine learning, and citizen science identification of galaxy-galaxy lens candidates
+    - We find that the three methods -- spectroscopy, machine learning, and citizen science -- identify 47, 47, and 13 candidates respectively in the 180 square degrees surveyed.
+    - These identifications barely overlap, with only two identified by both citizen science and machine learning
+    - These differences manifest as separate samples in estimated Einstein radius, lens stellar mass, and lens redshift. The combined sample implies a lens candidate sky-density ∼0.59 deg−2 and can inform the construction of a training set spanning a wider mass-redshift space.
+
+- [MeerKAT HI commissioning observations of MHONGOOSE galaxy ESO 302-G014](https://arxiv.org/abs/2009.09766)
+    - MHONGOOSE 是一个MeerKAT近邻星系巡天项目； will study the accretion of gas in galaxies and the link between gas and star formation.
+    - We find that ESO 302-G014 has a lopsided, asymmetric outer disc with a low column density. 可能是有过interaction
+
+- [An Atlas of MUSE Observations towards Twelve Massive Lensing Clusters](https://arxiv.org/abs/2009.09748)
+    - **Relevant, Useful** 数据会公开
+    - All data were taken under very good seeing conditions (0.6") in effective exposure times between two and 15 hrs per pointing, for a total of 125 hrs. 主要用来找高红移星系
+    - We construct robust mass models for each cluster to further confirm our redshift measurements using strong-lensing constraints, and identify a total of 311 strongly lensed sources producing 930 multiple images.
+    - The final redshift catalogs contain more than 3300 robust redshifts, of which 40\% are for cluster members and ∼30\% for lensed Lyman-α emitters. 14\% of all sources are line emitters not seen in the available HST images
+
+- [Reconciling escape fractions and observed line emission in Lyman continuum leaking galaxies](https://arxiv.org/abs/2009.09882)
+    - We find that one-zone density-bounded photoionization models cannot reproduce the emission lines of the LyC leakers since they systematically underpredict the lines of species of low ionization potential, as [OI] and [SII].
+    - Introducing a two-zone model, with differing ionization parameter and a variable covering fraction and where one of the zones is density-bounded, we show that the observed emission line ratios and escape fractions of the LyC emitters are well reproduced. The [OI] excess, which is observed in some LyC leakers, can be naturally explained in this model, e.g., by emission from low ionization and low filling-factor gas.
+    - We also confirm that a [SII] deficiency can be used to select LyC emitter candidates.
+
+- [Origin of Weak MgII and Higher Ionization Absorption Lines in an Outflow from an Intermediate-Redshift Dwarf Satellite Galaxy](https://arxiv.org/abs/2009.09954)
+    - Observations at intermediate redshifts reveal the presence of numerous, compact, weak MgII absorbers with near to super-solar metallicities, often surrounded by more extended regions that produce CIV and/or OVI absorption in the circumgalactic medium at large impact parameters from luminous galaxies. 可能是没有直接探测到的矮卫星星系
+    - 模拟测试： We find that thin, filamentary, weak MgII absorbers are produced in two stages: 1) when shocked core collapse supernova (SNII) enriched gas descending in a galactic fountain gets shock compressed by upward flows driven by subsequent SNIIs and cools (phase 1), and later, 2) during an outflow driven by Type Ia supernovae that shocks and sweeps up pervasive SNII enriched gas, which then cools (phase 2)
+
+- [The first shear measurements from precision weak lensing](https://arxiv.org/abs/2009.10067)
+    - We present an end-to-end methodology to measure the effects of weak lensing on individual galaxy-galaxy systems exploiting their kinematic information. Using this methodology, we have measured a shear signal from the velocity fields of 18 weakly-lensed galaxies.
+    - We have observed the velocity fields of the sources with WiFeS, an optical IFU on a 2.3m telescope, and fitted them using a simple circular motion model with an external shear.
