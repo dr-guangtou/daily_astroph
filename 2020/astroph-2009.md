@@ -1071,3 +1071,79 @@
 - [The first shear measurements from precision weak lensing](https://arxiv.org/abs/2009.10067)
     - We present an end-to-end methodology to measure the effects of weak lensing on individual galaxy-galaxy systems exploiting their kinematic information. Using this methodology, we have measured a shear signal from the velocity fields of 18 weakly-lensed galaxies.
     - We have observed the velocity fields of the sources with WiFeS, an optical IFU on a 2.3m telescope, and fitted them using a simple circular motion model with an external shear.
+
+----
+
+### Sep 22
+
+- [The value of the Hubble-Lemaître constant queried by Type Ia Supernovae: A journey from the Calán-Tololo Project to the Carnegie Supernova Program](https://arxiv.org/abs/2009.10279)
+    - This metadata analysis demonstrates that the TRGB calibration yields smaller H0 values than the Cepheid calibration, a direct consequence of the systematic difference in the distance moduli calibrated from these two methods. This subset reveals a significant 3.4 σ systematic difference in the calibration of Rung 2.
+    - Type Ia supernovae are able to anchor Rung 3 with 2 % precision. This study demonstrates that Type Ia supernovae have provided a remarkably robust calibration of R3 for over 25 years.
+
+- [Deep Forest: Neural Network reconstruction of the Lyman-alpha forest](https://arxiv.org/abs/2009.10673)
+    - 训练神经网络模型来：reconstruct the optical depth for Lyman-alpha forest absorption from noisy and often saturated transmitted flux data.
+    - The Neural Network outperforms an alternative reconstruction method involving log inversion and spline interpolation by approximately a factor of 2 in the optical depth root mean square error.
+
+- [Fink, a new generation of broker for the LSST community](https://arxiv.org/abs/2009.10185)
+    - Fink is a broker designed to enable science with large time-domain alert streams such as the one from the upcoming Legacy Survey of Space and Time (LSST)
+    - It is also designed to go beyond traditional broker features by providing real-time transient classification which is continuously improved by using state-of-the-art Deep Learning and Adaptive Learning techniques.
+
+- [SuperBoRG : Exploration of point sources at z∼8 in HST parallel fields](https://arxiv.org/abs/2009.10078)
+    - SuperBoRG, a compilation of ∼0.4deg2 archival medium-deep (mF160W∼26.5ABmag, 5σ) parallel IR images taken with the Hubble Space Telescope (HST).
+    - 目前有三个z~8的候选：A clear IRAC ch2 flux excess is seen in one of the point sources, which is expected if the source has strong Hβ+[O III] emission
+    - Deep spectroscopic data taken with Keck/MOSFIRE, however, do not reveal Lyα emission from the object. In combination with the estimated Hβ+[O III] equivalent width, we place an upper limit on its Lyα escape fraction fesc,Lyα<2%.
+
+- [Evolution of Stellar Feedback in HII Regions](https://arxiv.org/abs/2009.10079)
+    - **Important**
+    - We use multiwavelength (radio, infrared, and X-ray) data to measure the pressures associated with direct radiation (Pdir), dust-processed radiation (PIR), photoionization heating (PHII), and shock-heating from stellar winds (PX) in a sample of 106 young, resolved HII regions with radii ≲0.5 pc
+    - We find that the PIR dominates in 84% of the regions and that the median Pdir and PHII are smaller than the median PIR by factors of ≈6 and ≈9, respectively.
+    - We show that HII regions transition from PIR-dominated to PHII-dominated at radii of ∼3 pc
+    - Moreover, we show that the total pressure is greater than the gravitational pressure in the majority of our sample, indicating that the feedback is sufficient to expel gas from the regions.
+
+- [The MOSDEF Survey: The First Direct Measurements of the Nebular Dust Attenuation Curve at High Redshift](https://arxiv.org/abs/2009.10085)
+    - A sample of 532 star-forming galaxies at redshifts z∼1.4−2.6
+    - Based on the first five low-order Balmer emission lines detected in the composite spectra of these galaxies (Hα through Hϵ), we derive a nebular attenuation curve that is similar in shape to that of the Galactic extinction curve, suggesting that the dust covering fraction and absorption/scattering properties along the lines-of-sight to massive stars at high redshift are similar to those of the average Milky Way sightline 电离气体的消光比恒星连续辐射中得到的要高
+    - Molecular cloud crossing timescales that are a factor of ≳3× longer than those inferred for local molecular clouds
+
+- [The First Robust Constraints on the Relationship Between Dust-to-Gas Ratio and Metallicity at High Redshift](https://arxiv.org/abs/2009.10091)
+    - 4个星系：These galaxies span the redshift range 1.41≤z≤2.54 and the stellar mass range 10.36≤log(M∗/M⊙)≤10.91. 有FIR和射电观测
+    - We find that the dust-corrected SFR(Hα) is systematically lower than the bolometric SFR by a factor of several, and measure gas-phase oxygen abundances in a narrow range, 12+log(O/H)=8.59−8.69 (0.8−1.0(O/H)⊙).
+    - The ALMA HUDF galaxies scatter roughly symmetrically around the best-fit linear mass-metallicity relation, providing tentative evidence for a flattening in the SFR dependence of metallicity at high stellar mass.
+    - There is no significant evolution in the normalization of the dust-to-gas ratio DGR vs. metallicity relation from z∼0 to z∼2
+
+- [Texas Spectroscopic Search for Lyα Emission at the End of Reionization III. the Lyα Equivalent-width Distribution and Ionized Structures at z>7](https://arxiv.org/abs/2009.10092)
+    - We analyze data from 10 nights of MOSFIRE observations which together target 72 high-z candidate galaxies in the GOODS-N field
+    - We constrain the Lyα EW distribution at z∼7.6, finding a significant drop from z≲6, suggesting an increasing fraction of neutral hydrogen (HI) in the IGM in this epoch.
+    - The spatial distribution of the detected Lyα emitters implies the presence of a potential highly-ionized region at z∼7.55 which hosts four Lyα emitters within a ∼ 40 cMpc spatial separation.
+
+- [s-process enirchment and the origin of barium in ultrafaint dwarf galaxies](https://arxiv.org/abs/2009.10096)
+    - 关注Ba丰度: Ba来自r-过程和s-过程；r-过程的贡献可以利用独特的元素丰度模式来估计，s-过程的贡献未知；但AGB星的产出不足以解释目前UFD中看到的Ba丰度
+    - Ba production would need to be efficient from the beginning of star formation in the galaxies. The discrepancy of nearly 1 dex is not reconciled even if we consider {\it s-}process in super-AGB stars.
+    - 可能的解释包括Fast-rotating massive stars以及IMF的变化
+    - We argue that future observations that determine or tightly constrain the Eu abundance are crucial to identify the origin of Ba in UFDs.
+
+- [Crepuscular Rays from the Highly Inclined Active Galactic Nucleus in IC 5063](https://arxiv.org/abs/2009.10153)
+    - Using new Hubble Space Telescope (HST) near-infrared and optical observations, we show that the active galaxy IC 5063 contains broad radial rays extending to ≳11 kpc from the nucleus. We argue that the bright rays may arise from dusty scattering of continuum emission from the active nucleus, while the dark rays are due to shadowing near the nucleus, possibly by a warped torus.
+
+- [Realistic mock observations of the sizes and stellar mass surface densities of massive galaxies in FIRE-2 zoom-in simulations](https://arxiv.org/abs/2009.10161)
+    - **Relevant**
+    - FIRE-2里面z=2的大质量星系的Skirt辐射转移图像仿真；模拟里没有AGN反馈
+    - 用模拟数据看能否正确测量Re等参数：The predicted sizes and surface densities are within a factor of two of the intrinsic values.
+    - At z≳2, the simulated massive galaxies are in general agreement with observational scaling relations. At z≲2, they evolve to become too compact but still star-forming, in the stellar mass and redshift regime where many of them should be quenched.
+
+- [The Impact of Outflows driven by Active Galactic Nuclei on Metals in and around Galaxies](https://arxiv.org/abs/2009.10161)
+    - 解释大质量星系Halo里为什么有非常延展的金属分布：By comparing two sets of simulations with and without AGN feedback, we show that our prescription for AGN feedback is capable of driving winds and enriching halo gas `inside-out' by spreading centrally enriched metals to the outskirts of galaxies,
+    - The predicted gas iron abundance of group scale galaxies simulated with AGN feedback is ZFe=0.23 ZFe,⊙ at 0.5r500, which is 2.5 times higher than that in simulations without AGN feedback
+
+- [Introducing the NewHorizon simulation: galaxy properties with resolved internal dynamics across cosmic time](https://arxiv.org/abs/2009.10578)
+    - **Useful, Relevant**
+    - we introduce the NewHorizon project where a zoom-in region of ∼(16Mpc)3, larger than a standard zoom-in region around a single halo, embedded in a larger box is simulated at high resolution.
+    - 分辨率极高：A resolution of up to 34 pc, typical of individual zoom-in resimulated halos is reached within galaxies, allowing the simulation to capture the multi-phase nature of the interstellar medium and the clumpy nature of the star formation process in galaxies.
+
+- [Atomic Data Assessment with PyNeb](https://arxiv.org/abs/2009.10586)
+    - **Useful**
+    - Our aim is to reduce the uncertainties in parameter space (line-ratio diagnostics, electron density and temperature, and ionic abundances) arising from the underlying atomic data by critically selecting the PyNeb default datasets.
+
+- [A new parameterization of the star formation rate-dense gas mass relation: embracing gas density gradients](https://arxiv.org/abs/2009.10652)
+    - 相比于均匀的密度分布，分子云和团块内部的密度梯度会提高SFR；应该能反映到SFR和致密气体质量的比例上
+    - Not only does the SFR/Mdg ratio depend on the mean free-fall time of the gas and on its (intrinsic) star formation efficiency per free-fall time, it also depends on the logarithmic slope −p of the gas density profile and on the relative extent of the constant-density region at the clump center.
