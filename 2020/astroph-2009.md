@@ -1147,3 +1147,84 @@
 - [A new parameterization of the star formation rate-dense gas mass relation: embracing gas density gradients](https://arxiv.org/abs/2009.10652)
     - 相比于均匀的密度分布，分子云和团块内部的密度梯度会提高SFR；应该能反映到SFR和致密气体质量的比例上
     - Not only does the SFR/Mdg ratio depend on the mean free-fall time of the gas and on its (intrinsic) star formation efficiency per free-fall time, it also depends on the logarithmic slope −p of the gas density profile and on the relative extent of the constant-density region at the clump center.
+
+----
+
+### Sep 23
+
+- [A Full Characterisation of the Supermassive Black Hole in IRAS 09149-6206](https://arxiv.org/abs/2009.10734)
+    - The source is highly complex, showing a classic 'warm' X-ray absorber, additional absorption from highly ionised iron, strong relativistic reflection from the innermost accretion disc and further reprocessing by more distant material.
+    - The mass is primarily determined by X-ray timing constraints on the break frequency seen in the power spectrum, and is found to be log[MBH/M⊙]=8.0±0.6 (1σ uncertainties).
+    - IRAS 09149-6206 is radiating at close to (but still below) its Eddington luminosity.
+    - 黑洞自旋很高：The spin is constrained via detailed modelling of the relativistic reflection, and is found to be a∗=0.94+0.02−0.07 (90% confidence),
+
+- [Advances in Constraining Intrinsic Alignment Models with Hydrodynamic Simulations](https://arxiv.org/abs/2009.10735)
+    - Our data vector includes galaxy-galaxy, galaxy-shape and shape-shape projected correlations, with the joint covariance matrix estimated analytically. In all of the simulations, we report non-zero IAs at the level of several σ.
+    - The linear IA amplitude increasing by a factor of ∼2 between redshifts z=0 and z=1.
+    - The tidal torquing amplitude在不同模拟中结果不同
+
+- [Linear Systematics Mitigation in Galaxy Clustering in the Dark Energy Survey Year 1 Data](https://arxiv.org/abs/2009.10854)
+    - We implement a linear model for mitigating the effect of observing conditions and other sources of contamination in galaxy clustering analyses
+    - our treatment: 1) does not require decisions as to which observable systematics are significant and which are not, allowing for the possibility of multiple maps adding coherently to give rise to significant bias even if no single map leads to a significant bias by itself; 2) characterizes both the statistical and systematic uncertainty in our mitigation procedure, allowing us to propagate said uncertainties into the reported cosmological constraints; 3) explicitly exploits the full spatial structure of the galaxy density field to differentiate between cosmology-sourced and systematics-sourced fluctuations within the galaxy density field; 4) is fully automated
+
+- [The Atacama Cosmology Telescope: A Catalog of > 4000 Sunyaev-Zel'dovich Galaxy Clusters](https://arxiv.org/abs/2009.11043)
+    - **Relevant, Important**
+    - A catalog of 4195 optically confirmed Sunyaev-Zel'dovich (SZ) selected galaxy clusters detected in 13168 deg2 of sky
+    - The detected clusters span the redshift range 0.04 < z < 1.91, with median z = 0.52. The catalog contains 221 z > 1 clusters, and a total of 872 systems are new discoveries.
+    - Assuming an SZ-signal vs. mass scaling relation calibrated from X-ray observations, the sample has a 90% completeness mass limit of M500c > 3.8 x 10^14 MSun,
+
+- [FR-type radio sources at 3 GHz VLA-COSMOS: Relation to physical properties and large-scale environment](https://arxiv.org/abs/2009.10721)
+    - 看不同类型的射电星系的环境：Our sample is composed of 59 FRIIs, 32 FRI/FRIIs, 39 FRIs, and 1818 COM AGN at 0.03 ≤z≤ 6.
+    - FRs reside in their majority in massive quenched hosts (M∗ >1010.5M⊙), with older episodes of star-formation linked to lower X-ray galaxy group temperatures, suggesting radio-mode AGN quenching. Irrespective of their radio structure, FRs and COM AGN are found in all types and density environments (group or cluster, filaments, field).
+
+- [The ALMA Spectroscopic Survey Large Program: The Infrared Excess of z=1.5-10 UV-selected Galaxies and the Implied High-Redshift Star Formation History](https://arxiv.org/abs/2009.10727)
+    - 看1.5 < z < 10的1362个LBG中的尘埃遮挡的恒星形成活动：We find that the fraction of ALMA-detected galaxies in our z=1.5-10 samples increases steeply with stellar mass, with the detection fraction rising from 0% at 10^9 Msolar to 85(-18)(+9)% at >10^{10} Msolar.
+    - 小质量星系的stacking结果显示SFR < 0.6 Msun/yr
+    - The correlation between the infrared excess IRX of UV-selected galaxies (L(IR)/L(UV)) and the UV-continuum slope is also seen in our ASPECS data and shows consistency with a Calzetti-like relation.
+
+- [Galactopause Formation and Gas Precipitation During Strong Galactic Outflows](https://arxiv.org/abs/2009.10729)
+    - Using X-ray constrained beta-models for the radial distribution of gas in the outskirts of galaxies, we analyze the termination of galactic winds and the formation and evolution of halo clouds by thermal instability.
+    - 小质量halo中，星系风被限制在halo中，但偶尔也会在较强的outburst中进入IGM
+    - Halo gas can form kpc-scale clouds out to galactocentric distances r = 30-65 kpc, where efficient radiative cooling from 10^6 K down to 10^4 K occurs at Z > 0.3 Z_sun on timescales less than 1 Gyr
+
+- [The ALMA Spectroscopic Survey in the HUDF: Multi-band constraints on line luminosity functions and the cosmic density of molecular gas](https://arxiv.org/abs/2009.10744)
+    - ∼ 80% of the line flux observed at 3mm arises from CO(2-1) or CO(3-2) emitters at z=1-3 (`cosmic noon')
+    - At 1.2mm, more than half of the line flux arises from intermediate-J CO transitions (Jup=3-6); ∼12% from neutral carbon lines; and <1% from singly-ionized carbon, [CII]. 说明未来的[CII] intensity mapping面对着非常强的CO背景
+    - Comparisons between the CO luminosity functions for different CO transitions at a fixed redshift reveal sub-thermal conditions on average in galaxies up to z∼4.
+
+- [Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for their Progenitors](https://arxiv.org/abs/2009.10747)
+    - 给最近有ASKAP定位的5个FRBs找成协的星系：a sub-sample of 10 highly-confident associations (at z=0.03−0.52), three of which correspond to known repeating FRBs. 恒星质量，颜色，SFR范围很宽
+    - There is an excess of "green valley" galaxies and an excess of emission-line ratios indicative of a harder radiation field than that generated by star-formation alone.
+    - We rule out the hypothesis that FRBs strictly track stellar mass in galaxies (>99% c.l.). We measure a median offset of 3.3 kpc from the FRB to the estimated center of the host galaxies 和其他transient比较，FRB的分布和LGRB不同
+
+- [X-ray properties of dust-obscured galaxies with broad optical/UV emission lines](https://arxiv.org/abs/2009.10763)
+    - We select 12 DOGs at 0.3≲z≲1.0 with broad Mg II or Hβ emission lines and investigate their X-ray properties utilizing snapshot observations (∼3 ks per source) with Chandra
+    - 这些DOGs generally have high Eddington ratios (λEdd)；moderate intrinsic X-ray luminosities 和其他DOG类似
+    - They also present moderate outflows and intense starbursts. AGN feedback的影响还不是很强
+
+- [The ALMA Spectroscopic Survey in the HUDF: Constraining the Molecular Content at log(M∗/M⊙)∼9.5 with CO stacking of MUSE detected z∼1.5 Galaxies](https://arxiv.org/abs/2009.10843)
+    - We detect CO(2-1) emission in galaxies down to stellar masses of log(M∗/M⊙)=10.0. Below this stellar mass, we present a new constraint on the molecular gas content of z∼1.5 main-sequence galaxies by stacking based on the MUSE detections.
+    - Assuming a metallicity-based CO-to-H2 conversion factor, the molecular gas-to-stellar mass ratio from log(M∗/M⊙)∼9.0 to ∼10.0 does not seem to decrease as fast as for log(M∗/M⊙)>10.0
+    - The inferred molecular gas density ρ(H2)=(0.49±0.09)×10^8M⊙Mpc−3 of MUSE-selected galaxies at z∼1.5 is comparable with the one derived in the HUDF with a different CO selection.
+
+- [Photon leaking or very hard ionizing radiation? Unveiling the nature of heII-emitters using the softness diagram](https://arxiv.org/abs/2009.11076)
+    - We study a sample of local (z< 0.2) star-forming galaxies showing optical nebular HeII emission using the so-called softness diagrams, involving emission lines of two elements in two consecutive stages of ionization (e.g., [SII]/[SIII] vs. [OII]/[OIII]).
+    - We verified that the use of the softness diagrams including the emission-line ratio HeI/HeII combined with black-body photoionization models can provide an absolute scale of T* for these objects. 平均温度在60k Kelvin
+    - According to our photoionization models, most sample galaxies could be affected to some extent by ionizing photon leaking, presenting a mean photon absorption fraction of 26% or higher depending on the metallicity assumed for the ionizing cluster.
+
+- [The Evolution of the Baryons Associated with Galaxies Averaged over Cosmic Time and Space](https://arxiv.org/abs/2009.11126)
+    - **Important** 很多基本结论值得记住
+    - The cosmic HI and H_2 densities are roughly equal at z~1.5. The H_2 density then decreases by a factor 6^{+3}_{-2} to today's value, whereas the HI density stays approximately constant
+    - The stellar mass density is increasing continuously with time and surpasses that of the total gas density (HI and H_2) at redshift z~1.5. 恒星质量密度的增长不能只用H2的降低来解释，需要考虑HI的吸积和转化
+    - A two step gas accretion process: (i) a net infall of ionized gas from the intergalactic/circumgalactic medium to refuel the extended HI reservoirs, and (ii) a net inflow of HI and subsequent conversion to H_2 in the galaxy centers.
+
+- [AGN-driven outflows and the AGN feedback efficiency in young radio galaxies](https://arxiv.org/abs/2009.11175)
+    - 年轻的，射电喷流刚开始expansion的射点AGN是非常好的研究AGN feedback影响的天体
+    - 在一组年轻射电星系中，用射电，X-shooter光谱和HST观测：warm outflow的延伸程度和射电辐射差不多：可能是jet mode驱动气体的外流
+    - Most of the outflows have gas densities (log(ne cm−3) 3−4.8), which we speculate could be the result of compression by jet-induced shocks.
+    - 驱动这些温气体的动能只是AGN吸积物质能量的一小部分
+
+- [The great Kite in the sky: a LOFAR observation of the radio source in Abell 2626](https://arxiv.org/abs/2009.11210)
+    - The new LOFAR data have changed our view of the Kite by discovering two steep-spectrum (α<−1.5) plumes of emission connected to the arcs.
+    - A spatial trend of the spectrum along the arcs with evidence of curved synchrotron spectra and a spatial correlation with the X-ray surface brightness.
+    - We propose that the Kite was originally an X-shaped radio galaxy whose fossil radio plasma, after the end of the activity of the central active galactic nucleus, has been compressed due to motions of the thermal plasma in which it is encompassed.
