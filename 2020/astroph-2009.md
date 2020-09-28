@@ -1228,3 +1228,94 @@
     - The new LOFAR data have changed our view of the Kite by discovering two steep-spectrum (α<−1.5) plumes of emission connected to the arcs.
     - A spatial trend of the spectrum along the arcs with evidence of curved synchrotron spectra and a spatial correlation with the X-ray surface brightness.
     - We propose that the Kite was originally an X-shaped radio galaxy whose fossil radio plasma, after the end of the activity of the central active galactic nucleus, has been compressed due to motions of the thermal plasma in which it is encompassed.
+
+----
+
+### Sep 24
+
+- [Spatially resolved star formation and fuelling in galaxy interactions](https://arxiv.org/abs/2009.11289)
+    - 基于FIRE-II的星系对相互作用模拟：We find that close encounters substantially augment cool (HI) and cold-dense (H2) gas budgets, elevating the formation of new stars as a result.
+    - This enhancement is centrally-concentrated for the secondary galaxy, and more radially extended for the primary. 对轨道依赖不强
+    - We also find that galaxies with elevated global star formation rate (SFR) experience intense nuclear SFR enhancement, driven by high levels of either star formation efficiency (SFE) or available cold-dense gas fuel. Galaxies with suppressed global SFR also contain a nuclear cold-dense gas reservoir, but low SFE levels diminish SFR in the central region.
+
+- [Galaxy-scale ionised winds driven by ultra-fast outflows in two nearby quasars](https://arxiv.org/abs/2009.11294)
+    - We decompose the optical emission from diffuse gas into a low- and a high-velocity components. The former is characterised by a clean, regular velocity field and a low (~80 km/s) velocity dispersion
+    - The other component is found to be extended up to a few kpc from the nuclei, and shows a high (~800 km/s) velocity dispersion and a blue-shifted mean velocity, as expected from AGN-driven outflows.
+    - The momentum rates of these ionised outflows are comparable to those measured for the UFOs at sub-pc scales, consistent with a momentum-driven wind propagation. Pure energy-driven winds are excluded unless about 100x additional momentum is locked in massive molecular winds
+
+- [Deep optical imaging of the dark galaxy candidate AGESVC1 282](https://arxiv.org/abs/2009.11300)
+    - In the L-filter, the image reached a surface-brightness limit of about 29.1 mag arcsec−2 in V. No optical counterpart was detected.
+    - 恒星质量低于1.4x10^7 Msun
+
+- [Efficient early stellar feedback can suppress galactic outflows by reducing supernova clustering](https://arxiv.org/abs/2009.11309)
+    - **Interesting**
+    - 为了基于Arepo进行pc分辨率的SF模拟设计的Stellar feedback模型：We perform a suite of 32 simulations of isolated Mvir=10^10M⊙ galaxies with a baryonic mass resolution of 20M⊙
+    - 光致电离和超新星反馈都可以调控恒星形成，光电加热的效率不够；光致电离产生的SFH比考虑了SN反馈的时候更平滑
+    - When all feedback channels are combined, the additional suppression of star formation rates is minor. 但外流速率比只考虑SN的时候低了很多，因为早期的光致电离反馈阻止了SN的成团爆发
+    - Our results also imply that the burstiness of star formation and the mass loading of outflows may be overestimated if the adopted star particle mass is considerably larger than the mass of individual stars because this imposes a minimum cluster size.
+
+- [Robotic Reverberation Mapping of the Southern Seyfert NGC 3783](https://arxiv.org/abs/2009.11358)
+    - We report reverberation measurements for Hβ, HeII λ4686, Hγ, and Hδ; 有非常好的时间采样，误差比之前下降很多
+    - We also detect clear velocity-resolved time delays across the broad Hβ profile, with shorter lags in the line wings and a longer lag in the line core.
+
+- [Wide-field study of the peculiar globular cluster system hosted by the field lenticular NGC 1172](https://arxiv.org/abs/2009.11375)
+    - **Relevant**
+    - This analysis covers the full extension of the GCS, and results in a value of specific frequency (S_N=8.6 +/- 1.5) peculiarly high for an intermediate-mass galaxy in a low-density environment
+    - 颜色和测光金属丰度都是bimodel的
+    - We conclude that the presence of a large fraction of metal-poor globular clusters (GCs) and the high specific frequency point to NGC 1172 having accreted a significant amount of GCs from low-mass satellites in the past.
+
+- [The dynamics of the broad-line region in NGC 3227](https://arxiv.org/abs/2009.11418)
+    - The results imply that the BLR is a partially ionized, dust-free, spherical shell that is collapsing, supersonically, at the free-fall velocity due to its proximity to a supermassive black hole
+    - Assuming radiatively inefficient accretion, the X-ray luminosity requires ~ 10^-2 M_sun/yr. However, the mass inflow rate required to explain the luminosity of the broad H-alpha emission line is ~1 M_sun/yr. 差异说明大部分吸积气体的能量都进入外流了
+
+- [Testing the Strong Equivalence Principle: Detection of the External Field Effect in Rotationally Supported Galaxies](https://arxiv.org/abs/2009.11525)
+    - 用 external field effect (EFE) in Milgromian dynamics (MOND) 来检测 Strong Equivalence Principle (SEP)
+    - (1) the EFE is individually detected at 8σ to 11σ in "golden" galaxies subjected to exceptionally strong external fields, while it is not detected in exceptionally isolated galaxies, (2) the EFE is statistically detected at more than 4σ from a blind test of 153 SPARC rotating galaxies, giving a mean value of the external field consistent with an independent estimate from the galaxies' environments
+
+- [Mapping the ionized gas of the metal-poor HII galaxy PHL 293B with MEGARA](https://arxiv.org/abs/2009.11600)
+    - We detected low intensity broad emission components and blueshifted absorptions in the Balmer lines (Hα,Hβ) which are located in the brightest zone of the galaxy ISM.
+    - A chemically homogeneity, across hundreds of parsecs, is observed in O/H.
+    - Our IFU data reveal for the first time that the nebular HeII4686 emission from PHL 293B is spatially extended and coincident with the ionizing stellar cluster, and allow us to compute its absolute HeII ionizing photon flux
+
+- [The Contribution of Quasar Absorption Outflows to AGN Feedback](https://arxiv.org/abs/2009.11851)
+    - 看QSO吸收线指示的outflow到黑洞的距离： We find that the outflows in more than half of the objects are powerful enough to be the main agents for AGN feedback, and that most outflows are found at R>100 pc.
+    - Assuming that all quasars have absorption outflows, we conclude that most luminous quasars produce outflows that can contribute significantly to AGN feedback.
+
+- [Tracing the 10^7K Warm-Hot Intergalactic Medium with UV absorption lines](https://arxiv.org/abs/2009.11346)
+    - **SSST**
+    - We target the forbidden line of [Fe XXI] λ 1354Å which traces 107K gas at UV wavelengths, using more than one hundred high-spectral resolution (R∼49,000) and high signal to noise VLT/UVES quasar spectra
+    - A stack of these at the position of known DLAs lead to a 5-σ limit of log[N([FeXXI])]<17.4 (EWrest<22mÅ), three orders of magnitude higher than the expected column density of the WHIM log[N([FeXXI])]<14.5.
+
+----
+
+### Sep 27
+
+- [Predicting galaxy spectra from images with hybrid convolutional neural networks](https://arxiv.org/abs/2009.11318)
+    - **SSST, Useful**
+    - We are able to robustly predict and reconstruct galaxy spectra directly from broad-band imaging
+    - The learned mapping between galaxy imaging and spectra will be transformative for future wide-field surveys
+
+- [Long Tidal Tails in Merging Galaxies and Their Implications](https://arxiv.org/abs/2009.11879)
+    - **Relevant, Interesting**
+    - Long tidal tails can be briefly divided into three shape types: straight (41\,per\,cent), curved (47\,per\,cent) and plume (12\,per\,cent)
+    - The high formation rate of straight tidal tails needs to be understood as the projection of curved tidal tails accounts for only a small fraction of the straight tails.
+    - We identify 165 tidal dwarf galaxies (TDGs), yielding a TDG production rate of 0.36 per merger.
+    - These TDGs have stellar masses in the range of 7.5≤log(M∗/M⊙)≤9.5 and appear compact with half-light radii following the M∗ - Re relation of low-mass elliptical galaxies. 只有一小部分也许可以看成UDG
+
+- [Beyond the Hubble Sequence -- Exploring Galaxy Morphology with Unsupervised Machine Learning](https://arxiv.org/abs/2009.11932)
+    - We explore unsupervised machine learning for galaxy morphology analyses using a combination of feature extraction and hierarchical clustering (HC) within a novel vector-quantised variational autoencoder (VQ-VAE).
+    - 找到了27个星系形态的clusters，对应不同的星系性质
+    - Comparing the given clusters with classic Hubble types (ellipticals, lenticulars, early spirals, late spirals, and irregulars), we show that there is an intrinsic vagueness in visual classification systems, in particular galaxies with transitional features such as lenticulars and early spirals.
+
+- [Multitracer cosmological line intensity mapping mock lightcone simulation](https://arxiv.org/abs/2009.11933)
+    - We present a general framework for creating multitracer mock sub-millimeter line intensity maps based on physically grounded galaxy formation and sub-mm line emission models. We simulate a mock lightcone of 2 deg2 over a redshift range 0≤z≤10, comprising discrete galaxies and galaxy CII, CO, CI emission.
+    - We show that the star formation rate and line emission scaling relations predicted by our simulation significantly differ at low halo masses from widely used empirical relations 对LIM观测影响很大
+
+- [Euclid preparation: X. The Euclid photometric-redshift challenge](https://arxiv.org/abs/2009.12112)
+    - **CSST, Useful**
+    - We report on the performance of 13 photometric redshift code single value redshift estimates and redshift probability distributions (PDZs) on a common set of data, focusing particularly on the 0.2--2.6 redshift range that the Euclid mission will probe
+    - The performance of each method is assessed through a set of informative metrics, using cross-matched spectroscopic and highly-accurate photometric redshifts as the ground truth. We show that the rejection criteria set by participants are efficient in removing strong outliers, sources for which the photo-z deviates by more than 0.15(1+z) from the spectroscopic-redshift (spec-z).
+
+- [Probing the Origin of Low Frequency Radio Emission in PG Quasars with the uGMRT -- I](https://arxiv.org/abs/2009.12264)
+    - Only four sources reveal extended radio structures on ∼10-30 kpc scales, while the rest are largely a combination of a radio core unresolved at the uGMRT resolution of ∼3-5 arcsec, surrounded by diffuse emission on few kpc to ∼10 kpc scales.
+    - We find that the radio emission in the 2 radio-loud (RL) quasars and nearly one-third of the radio-quiet (RQ) quasars is AGN dominated whereas the remaining sources appear to have significant contributions from stellar-related processes along with the AGN.
