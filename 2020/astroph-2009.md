@@ -1319,3 +1319,85 @@
 - [Probing the Origin of Low Frequency Radio Emission in PG Quasars with the uGMRT -- I](https://arxiv.org/abs/2009.12264)
     - Only four sources reveal extended radio structures on ∼10-30 kpc scales, while the rest are largely a combination of a radio core unresolved at the uGMRT resolution of ∼3-5 arcsec, surrounded by diffuse emission on few kpc to ∼10 kpc scales.
     - We find that the radio emission in the 2 radio-loud (RL) quasars and nearly one-third of the radio-quiet (RQ) quasars is AGN dominated whereas the remaining sources appear to have significant contributions from stellar-related processes along with the AGN.
+
+----
+
+### Sep 28
+
+- [Very Large Array observations of the mini-halo and AGN feedback in the Phoenix cluster](https://arxiv.org/abs/2009.13238)
+    - New Very Large Array 1-12 GHz observations of the Phoenix cluster which resolve the AGN and its lobes in all four frequency bands, and resolve the mini-halo in L- and S-band
+    - We find that the mini-halo is most likely formed by turbulent re-acceleration powered by sloshing in the cool core due to a recent merger.
+    - We find that the feedback in the Phoenix cluster is consistent with the picture that stronger cooling flows are to be expected for massive clusters like the Phoenix cluster, as these may feature an underweight supermassive black hole due to their merging history.
+    - Strong time variability of the AGN on Myr-timescales may help explain the disconnection between the radio and the X-ray properties of the system.
+
+- [Pairs of Giant Shock Waves (N-Waves) in Merging Galaxy Clusters](https://arxiv.org/abs/2009.13124)
+    - Sub-cluster并合中产生的bow-shock持续向星系团外围传播，可能是产生radio relics的机制之一
+    - During the same merger stage, a secondary shock is formed much closer to the main cluster center. A close analog of this structure is known in the usual hydrodynamics as N-waves, where the trailing part of the "N" is the result of the non-linear evolution of a shock. 和主shock在并合中成对出现；主shock在射电波段更明显，但trailing shock可能在X-ray波段更明显
+    - Coma cluster and A2744 could be two examples in a post-merger state with such well-separated shock pairs.
+
+- [Morphology of radio relics I: What causes the substructure of synchrotron emission?](https://arxiv.org/abs/2009.13514)
+    - Merger shocksde 3-D MHD模拟：includes the diffusive shock acceleration of cosmic-ray electrons, their spatial advection and energy losses at run-time.
+    - We find that upstream turbulence plays a major role in shaping the properties of radio relics produced downstream.
+    - Our simulated spectral index maps and profiles across the radio relic also suggest that the standard deviation of the upstream magnetic field must be relatively small (σB≤1μG) in order to reproduce observations and therefore, radio relics can potentially constrain the distribution of magnetic fields in galaxy clusters outskirts.
+
+- [A Complete Census of Circumgalactic \MgII at Redshift z ≲ 0.5](https://arxiv.org/abs/2009.12372)
+    - A survey of MgII absorbing gas in the vicinity of 380 random galaxies, using 156 background quasi-stellar objects(QSOs)
+    - The projected distances span a range from d=9 to 497 kpc, redshifts of the galaxies range from z=0.10 to 0.48, and rest-frame absolute B-band magnitudes range from MB=−16.7 to −22.8
+    - MgII吸收线等值宽度的统计分布和性质依赖：the rest-frame equivalent width of MgII, Wr(2796), depends on halo radius(Rh), B-band luminosity(LB) and stellar mass (Mstar) of the host galaxies, and declines steeply with increasing d for isolated, star-forming galaxies. Wr (2796) exhibits no clear trend for either isolated, quiescent galaxies or non-isolated galaxies.
+    - MgII气体的覆盖，对孤立SF星系，在<40 kpc内是60%；在100 kpc附近降低为接近0；覆盖与恒星质量和sSFR有相关
+    - We find no strong azimuthal dependence of MgII absorption for either star-forming or quiescent galaxies.
+
+- [Exploring the origin of thick disks using the NewHorizon and Galactica simulations](https://arxiv.org/abs/2009.12373)
+    - Zoom-in模拟里的盘星系： the "thick" disk stars are older, less metal-rich, kinematically hotter, and higher in accreted star fraction than the "thin" disk counterparts. 但薄盘和厚盘都主要由in-situ star构成
+    - We find that approximately half of the in-situ stars in the thick disks are formed even before the galaxies develop their disks, and the other half are formed in spatially and kinematically thinner disks and then thickened with time by heating
+    - Moreover, as the combined result of the thickening of the existing disk stars and the continued formation of young thin-disk stars, the vertical distribution of stars does not change much after the disks settle, pointing to the modulation of both orbital diffusion and star formation by the same confounding factor: the proximity of galaxies to marginal stability.
+
+- [A Comparison of Rest-frame Ultraviolet and Optical Emission-Line Diagnostics in the Lensed Galaxy SDSS J1723+3411 at Redshift z=1.3293](https://arxiv.org/abs/2009.12383)
+    - **Useful, Interesting**
+    - We report fluxes for 42 detected emission lines, and upper limits for an additional 22. This galaxy has extreme emission line ratios and high equivalent widths that are characteristic of extreme emission-line galaxies.
+    - UV发射线诊断表现不好：We find disappointing performance from the UV--only diagnostics: they either are unable to measure the metallicity or dramatically under-estimate it; they over-estimate the pressure; and the UV diagnostic of ionization parameter has a strong metallicity dependence in this regime.
+
+- [Multi-phase feedback processes in the Sy2 galaxy NGC 5643](https://arxiv.org/abs/2009.12385)
+    - MUSE+ALMA观测外流方向的气体：分子气体外流的去投影速度比电离气体慢，This suggests that the outflowing molecular gas in the galaxy disk is being entrained by the AGN wind.
+    - 在外流气体质量和外流速率上，分子气体都占绝对主导：molecular and ionized outflow mass rates of ~51 Msun yr^-1 and 0.14 Msun yr^-1.
+    - The wind momentum load for the molecular and ionized outflow phases are ~27-5 and <1, which suggests that the molecular phase is not momentum conserving while the ionized one most certainly is.
+    - This suggest that in Sy-like AGN such as NGC 5643, the radiative/quasar and the kinetic/radio AGN feedback modes coexist and may shape the host galaxies even at kpc-scales via both positive and (mild) negative feedback.
+
+- [How to empirically model star formation in dark matter halos: I. Inferences about central galaxies from numerical simulations](https://arxiv.org/abs/2009.12467)
+    - **Relevant**
+    - Using a linear dimension reduction algorithm and a model ensemble method, we find that for both star-forming and quenched galaxies, the star formation history (SFH) is tightly related to the halo mass assembly history (MAH).
+    - We build an empirical model to predict the SFH of central galaxies based on the MAH of their host halos, and we model the star-forming and quenched populations separately
+
+- [MUSE observations towards the lensing cluster A2744: Intersection between the LBG and LAE populations at z ∼ 3-7](https://arxiv.org/abs/2009.12824)
+    - We define three samples of star-forming galaxies: LBG galaxies with an LAE counterpart (92 galaxies), LBG galaxies without LAE counterpart (408 galaxies) and LAE galaxies without an LBG counterpart (46 galaxies).
+    - The fraction of LAEs among all selected SFGs increases with redshift up to z ∼ 6 and decreases for higher redshifts.
+    - LAE selection is able to identify intrinsically UV faint galaxies with Muv ≥ -15 that are typically missed in the deepest lensing photometric surveys.
+    - The LBG population seems to fairly represent the total population of SFGs down to Muv∼-15.
+    - There is no clear evidence, based on the present results, for an intrinsic difference on the properties of the two populations selected as LBG and/or LAE.
+
+- [An interesting case of the formation and evolution of a barred galaxy in the cosmological context](https://arxiv.org/abs/2009.13234)
+    - Elongated, bar-like galaxies without a significant disk component, with little rotation support and no gas, often form as a result of tidal interactions with a galaxy cluster, as was recently demonstrated using the IllustrisTNG-100 simulation.
+
+- [Highly ordered magnetic fields in the tail of the jellyfish galaxy JO206](https://arxiv.org/abs/2009.13287)
+    - JVLA观测
+    - We present the first measurement of the magnetic field strength and orientation within the disc and the (90kpc-long) Hα-emitting tail of the jellyfish galaxy JO206. The tail has a large-scale magnetic field (>4.1μG), a steep radio spectral index (α∼−2.0), indicating an aging of the electrons propagating away from the star-forming regions, and extremely high fractional polarisation (>50%), indicating low turbulent motions.
+    - 磁场方向与stripping方向一致；模拟显示：the high fractional polarisation and the ordered magnetic field can be explained by accretion of draped magnetised plasma from the hot wind that condenses onto the external layers of the tail, where it is adiabatically compressed and sheared.
+    - The ordered magnetic field, preventing heat and momentum exchange, may be a key factor in allowing in-situ star formation in the tail.
+
+- [Disc galaxy resolved in HI absorption against the radio lobe of 3C 433: Case study for future surveys](https://arxiv.org/abs/2009.13338)
+    - HI absorption does not suffer from this dependence on distance as long as there is a bright enough background radio source
+    - The resolved kinematics of the absorber, located against the southern lobe of the 3C 433, shows that it has regular kinematics with an HI mass ≲3.4×10^8M⊙ for Tspin= 100K. Host是个10^10 Msun的盘星系，SFR很低，位于SFMS以下
+    - Our GTC imaging reveals interesting alignments between Hα and radio emission in the HI companion and in the host galaxy of the AGN as well as in the circumgalactic medium in between. This suggests that the shock ionization of gas by the propagating radio source may happen across tens of kpc.
+
+- [The GOGREEN and GCLASS Surveys: First Data Release](https://arxiv.org/abs/2009.13345)
+    - **Relevant**
+    - 0.8 < z < 1.5: The surveys consist of deep, multiwavelength photometry and extensive Gemini GMOS spectroscopy of galaxies in 26 overdense systems ranging in halo mass from small groups to the most massive clusters.
+    - The final spectroscopic sample includes 2771 unique objects, of which 2257 have reliable spectroscopic redshifts.
+    - https://datalab.noao.edu/gogreendr1/
+
+- [The secular evolution of a uniform density star cluster immersed in a compressible galactic tidal field](https://arxiv.org/abs/2009.13467)
+    - **Relevant**
+    - 看能否用GC像星系中心的掉落，并合解释NSC的形成：主要难点是GC能否承受host星系的潮汐场
+    - Our analysis suggests that provided the mass-density distribution of background potential is relatively shallow, as in some galaxies with relatively flat surface brightness profiles, the tidal field near the center of galaxies may be shown to be able to compress rather than disrupt a globular cluster at a distance from the center much smaller than the conventionally defined 'tidal disruption radius'
+    - Our model indicates that a star cluster could travel to distances much smaller than rt without disruption, thus potentially contributing to the formation of the nuclear cluster.
+
