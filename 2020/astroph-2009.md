@@ -1401,3 +1401,79 @@
     - Our analysis suggests that provided the mass-density distribution of background potential is relatively shallow, as in some galaxies with relatively flat surface brightness profiles, the tidal field near the center of galaxies may be shown to be able to compress rather than disrupt a globular cluster at a distance from the center much smaller than the conventionally defined 'tidal disruption radius'
     - Our model indicates that a star cluster could travel to distances much smaller than rt without disruption, thus potentially contributing to the formation of the nuclear cluster.
 
+
+----
+
+### Sep 29
+
+- [The IRX-β relation of high-redshift galaxies](https://arxiv.org/abs/2009.13522)
+    - MassiveFIRE模拟里看z=2-6的IRX-beta relation
+    - IRX is tightly coupled to the UV optical depth, and is mainly determined by the dust-to-star geometry instead of total dust mass, while βUV is set both by stellar properties, UV optical depth, and the dust extinction law. 关系的scatter主要由intrinsic UV spectral slope决定
+    - We argue that the reported `deficit' of the infrared/sub-millimetre bright objects at z>5 does not necessarily imply a non-standard dust extinction law at those epochs.
+
+- [An Ultra-deep Multi-band VLA Survey of the Faint Radio Sky (COSMOS-XS): Source Catalog and Number Counts](https://arxiv.org/abs/2009.13528)
+    - Ultra-deep, matched-resolution Karl G. Jansky Very Large Array (VLA) observations at 10 and 3 GHz in the COSMOS field; 2角秒
+    - The ultra-faint 3 GHz number counts are found to exceed the counts predicted by the semi-empirical radio sky simulations developed in the framework of the SKA Simulated Skies project, consistent with previous P(D) analyses.
+    - The semi-empirical Tiered Radio Extragalactic Continuum Simulation (T-RECS) predicts this steeper evolution and is in better agreement with our results.
+
+- [The Radio Structure of the Narrow-Line Seyfert 1 Mrk 783 with VLBA and e-MERLIN](https://arxiv.org/abs/2009.13529)
+    - The brightness temperature of the emission in both bands (>106 K) suggests that it is a pc-scale jet produced by the AGN.
+    - The relatively steep VLBA spectral index (αVLBA=0.63±0.03) is consistent with the presence of optically thin emission on milliarcsecond scales.
+
+- [A Multi-wavelength Analysis of the Faint Radio Sky (COSMOS-XS): the Nature of the Ultra-faint Radio Population](https://arxiv.org/abs/2009.13531)
+    - Ultra-deep射电观测适合研究dust-obscured SF，但需要弄清AGN的贡献
+    - Utilizing the multi-wavelength data over COSMOS, we identify AGN through a variety of diagnostics and find these to make up 23.2±1.3% of our sample, with the remainder constituting uncontaminated star-forming galaxies
+    - 但大部分AGN的射电辐射和SF的特征很像：However, more than half of the AGN exhibit radio emission consistent with originating from star-formation, with only 8.8±0.8% of radio sources showing a clear excess in radio luminosity.
+    - Our findings imply that ultra-deep radio surveys such as COSMOS-XS constitute a highly effective means of obtaining clean samples of star-formation powered radio sources.
+
+- [Planck's Dusty GEMS. VIII. Dense-gas reservoirs in the most active dusty starbursts at z~3](https://arxiv.org/abs/2009.13538)
+    - ALMA, NOEMA, IRAM观测：high-density tracer molecules HCN, HCO+, and HNC in three of the brightest lensed dusty star-forming galaxies at z~3-3.5
+    - The three GEMS are consistent with extrapolations of dense-gas star-formation laws derived in the nearby Universe, adding further evidence that the extreme star-formation rates observed in the most active galaxies at z~3 are a consequence of their important dense-gas contents.
+    - The dense-gas-mass fractions traced by HCN/[CI] and HCO+/[CI] line ratios are elevated, but not exceptional compared to other lensed dusty star-forming galaxies at z>2 and fall near the upper envelope of local ULIRGs
+
+- [Are Lyα emitters segregated in protoclusters regions?](https://arxiv.org/abs/2009.13542)
+    - We find that when a large sample of protoclusters is considered, HAEs showing also Ly{\alpha} emission (HAEs+LAEs) populate the same regions as those that do not display the Ly{\alpha} line at z=2.2.
+    - We find that at z=2.2 and z=3.0, RT of the ISM produces a strong decline (30-50 per cent) of the clustering amplitude of HAEs+LAEs with respect to HAEs towards the protoclusters centre.
+
+- [Measurements of the z ~ 6 Intergalactic Medium Optical Depth and Transmission Spikes Using a New z > 6.3 Quasar Sample](https://arxiv.org/abs/2009.13544)
+    - 样本很大：32 quasars at 6.308≤z≤7.00
+    - 个体差异很大，再电离过程恨不均匀，The large scatter of individual measurements is consistent with previous work, suggesting an inhomogeneous reionization process
+    - We obtain a best-fit for the Lyα effective optical depth evolution at z>5.3, τ∝(1+z)^8.6±1.0
+    - The Lyβ-based measurements are generally in agreement with the best-fit evolution obtained from Lyα forests.
+
+- [The 2175 Å dust feature in star-forming galaxies at 1.3≤z≤1.8: the dependence on stellar mass and specific star formation rate](https://arxiv.org/abs/2009.13582)
+    - zCOSMOS中的观测：The excess absorption is well described by a Drude profile.
+    - The bump amplitude decreases with the specific star formation rate (sSFR) while it increases moderately with the stellar mass.
+    - However, a comparison with local "starburst" galaxies shows that the high-redshift Main Sequence galaxies have {\it stronger} bump features, despite having higher sSFR than the local sample.
+    - It is the recent star formation history of the galaxies that determines the bump strength through the destruction of small carbonaceous grains by supernovae and intense radiation fields couple with the time delay of ∼1 Gyr in the appearance of carbon-rich Asymptotic Giant Branch stars.
+
+- [The stellar metallicity distribution function of galaxies in the CALIFA survey](https://arxiv.org/abs/2009.13712)
+    - **Relevant**
+    - We use the stellar metallicity radial profiles retrieved as the first moment of the MDF, as an internal test for our method.
+    - Overall, low mass galaxies (logM⋆/M⊙≤10) have broad MDFs (σZ∼1.0dex), with unclear dependence on their morphology; massive galaxies (logM⋆/M⊙≥11) have systematically narrower MDFs (σZ≤0.2dex).
+    - We further find there are multi-modal MDFs in the outskirts (∼18per cent) and the central regions (∼40per cent) of galaxies. This behaviour is linked to a fast chemical enrichment during early stages of the SFH, along with the posterior formation of a metal-poor stellar population.
+
+- [Over-density of SMGs in fields containing z~0.3 galaxies: magnification bias and the implications for studies of galaxy evolution](https://arxiv.org/abs/2009.13843)
+    - We report a remarkable over-density of high-redshift submillimetre galaxies (SMG), 4-7 times the background, around a statistically complete sample of twelve 250-micron selected galaxies at z=0.35 是前景星系群halo的透镜效应导致的
+    - The magnitude of the over-density as a function of radial separation is consistent with intermediate scale lensing by halos of order 7x 10^{13} Msun, which should host one or possibly two bright galaxies and several smaller satellites
+    - 这些高红移SMG会“污染”前景星系的FIR流量测量
+
+- [On the accretion history of galaxy clusters: temporal and spatial distribution](https://arxiv.org/abs/2009.13882)
+    - **Relevant**
+    - 模拟基于一个AMR code：MASCLET
+    - 模拟研究大质量星系团中不同质量组分的演化：We have determined the mass assembly histories (MAHs) of each of the mass components and computed several proxies for the instantaneous mass accretion rate (MAR).
+    - Major merger对各成分的mass growth有显著作用，但平滑吸积阶段也有很高吸积率的时刻
+    - We explored the correlations between MARs, merger events and clusters' environments, finding the mean densities in 1≤r/R200m≤1.5 to correlate strongly with Γ200m in massive clusters which undergo major mergers through their MAH.
+    - We find that the gas infalling through the cosmic filaments has systematically lower entropy compared to the isotropic component, but we do not find a clear distinction in temperature.
+
+- [HI intensity mapping with the MIGHTEE survey: power spectrum estimates](https://arxiv.org/abs/2009.13550)
+    - We establish that we can make a statistical detection of HI with one of MeerKAT's existing large survey projects (MIGHTEE) on semi-linear scales
+    - With MeerKAT single-dish measurements, we are constrained to scales >1 degree, and this will allow us to set important constraints on the Baryon acoustic oscillations and redshift space distortions 可以互补
+
+- [TheHaloMod: An online calculator for the halo model](https://arxiv.org/abs/2009.14066)
+    - **Useful**
+    - We use this framework to motivate the presentation of a new Python tool for simple and efficient calculation of halo model quantities, and their extension to galaxy statistics via a halo occupation distribution, called \halomod.
+
+- [The best place and time to live in the Milky Way](https://arxiv.org/abs/2009.13539)
+    - We aim at assessing the habitability of the Milky Way (MW) along its cosmic history against potentially disruptive astrophysical transients with the scope of identifying the safest places and epochs within our Galaxy. We also test the hypothesis that long GRBs had a leading role in the late Ordovician mass extinction event (~440 Myrs ago).
+    - Until ~6 billion years ago the outskirts of the Galaxy were the safest places to live, despite the relatively low density of terrestrial planets. In the last ~4 billion years, regions between 2 and 8 kpc from the center, featuring a higher density of terrestrial planets, became the best places for a relatively safer biotic life growth.
