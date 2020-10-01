@@ -1477,3 +1477,58 @@
 - [The best place and time to live in the Milky Way](https://arxiv.org/abs/2009.13539)
     - We aim at assessing the habitability of the Milky Way (MW) along its cosmic history against potentially disruptive astrophysical transients with the scope of identifying the safest places and epochs within our Galaxy. We also test the hypothesis that long GRBs had a leading role in the late Ordovician mass extinction event (~440 Myrs ago).
     - Until ~6 billion years ago the outskirts of the Galaxy were the safest places to live, despite the relatively low density of terrestrial planets. In the last ~4 billion years, regions between 2 and 8 kpc from the center, featuring a higher density of terrestrial planets, became the best places for a relatively safer biotic life growth.
+
+----
+
+### Sep 30
+
+- [Interpreting Internal Consistency of DES Measurements](https://arxiv.org/abs/2009.14241)
+    - **Useful**
+    - 关于用Bayesian evidence ratio来比较测量的一致性：since the evidence ratio is prior dependent, the precise translation between its value and the degree of concordance/discordance requires additional information.
+    - The most commonly adopted metric, the Jeffreys scale, can falsely suggest agreement between datasets when priors are chosen to be sufficiently wide
+    - 在DES的弱引力透镜和成团性测量之间进行比较：We show that the choice of prior could conceal the discrepancies between weak lensing and galaxy clustering induced by such models and that the evidence ratio in a DES-Y1 study is, indeed, biased towards agreement.
+
+- [How do galaxy properties affect void statistics?](https://arxiv.org/abs/2009.14751)
+    - 最好不要用SFR选择的星系来定义Void：We find that void catalogs built from luminosity-selected galaxies and halos are consistent within errors, while void catalogs built from star formation rate selected galaxies differ from void catalogs built on halos.
+    - Our work suggests that voids built on galaxy catalogs (selected through luminosity cut) can be reliably studied by using halos in dark matter simulations.
+
+- [Local and global gas metallicity versus stellar age relation in MaNGA galaxies](https://arxiv.org/abs/2009.14211)
+    - We report a positive correlation between the global Zg and D(4000) (an indicator of stellar age), with a slope that decreases with increasing galaxy mass.
+    - The local laws have systematically smaller slopes than the global one.
+
+- [On the reliability of photometric and spectroscopic tracers of halo relaxation](https://arxiv.org/abs/2009.14217)
+    - 看星系系统弛豫程度的观测代理：We take advantage of the Anderson Darling statistic (A2) and the velocity-segregation (ΔV¯) as our spectroscopic indicators, and use the luminosity gap (Δm12) and the luminosity de-centring (Doff−set) as photometric ones.
+    - We find the photometric indicators demonstrate a stronger correlation with the dynamical relaxation of galaxy groups compared to the spectroscopic probes.
+
+- [MUSE Analysis of Gas around Galaxies (MAGG) -- II: Metal-enriched halo gas around z~1 galaxies](https://arxiv.org/abs/2009.14219)
+    - MgII absorption around 228 galaxies at z~0.8-1.5 within 28 quasar
+    - We observe no significant evolution in the MgII equivalent width versus impact parameter relation and in the MgII covering fraction compared to surveys at z<~0.5.
+    - 恒星质量和到星系中心距离是主要的影响MgII吸收气体的性质；而且有些MgII吸收系统和多个星系都有关系；致密环境里的MgII气体很复杂
+    - Multiple galaxy associations show on average five times stronger absorption and three times higher covering fraction within twice the virial radius than isolated galaxies.
+    - Gravitational interactions among group members or hydrodynamic interactions of the galaxy haloes with the intra-group medium as favoured mechanisms to explain the observed enhancement in the MgII absorption strength and cross section in rich environments.
+
+- [The breakBRD Breakdown: Using IllustrisTNG to Track the Quenching of an Observationally-Motivated Sample of Centrally Star-Forming Galaxies](https://arxiv.org/abs/2009.14222)
+    - Break bulges in red disks: red disk with SF center
+    - 在TNG里找类似的: We find that a small fraction (∼4% at z=0; ∼1% at z=0.5) of galaxies fulfill the breakBRD criteria, in agreement with observations. 其中很多都是卫星和splashback星系；整体上这些星系都在quenching过程中，outside-in quenching
+    - The breakBRD state is short-lived, lasting a few hundred Myr up to ∼2 Gyr.
+
+- [Evidence for Late-Time Feedback from the Discovery of Multiphase Gas in a Massive Elliptical at z=0.4](https://arxiv.org/abs/2009.14232)
+    - **Relevant, Interesting**
+    - z~0.4的一个10^11 Msun大质量椭圆星系中的multiphase gas探测：The H2 column density is logN(H2)/cm−2=17.8+0.1−0.3 with a molecular gas fraction of fH2=2−5%
+    - The new COS spectrum also reveals kinematically complex absorption features from highly ionized species O VI and N V 而且柱密度很高
+    - 假设这些搞电离吸收气体是正在从halo中的高温气体冷却的中间阶段，气体吸积率大致是0.5-1.5 M/yr
+    - 星系中没有恒星形成，说明大部分吸积气体都被加热，returned to the hot halo
+
+- [HI study of isolated and pair galaxies: the MIR SFR-M⋆ sequence](https://arxiv.org/abs/2009.14585)
+    - We derive for the first time an HI scaling relation for isolated galaxies using WISE stellar masses, and thereby establish a baseline predictor of HI content that can be used to assess the impact of environment on HI content when compared with samples of galaxies in different environments. 用isolated星系确立baseline
+    - The AMIGA sample of isolated galaxies is found to have the lower dispersion: σAMIGA=0.37 versus σPAIRS=0.55 on the MS, σAMIGA=0.44 versus σPAIRS=0.54 in gas fraction, and σAMIGA=0.28 versus σPAIRS=0.34 in HI deficiency.
+    - Our results suggest the differences in scatter measured between our samples are environment driven. Galaxies in isolation behave relatively predictably, and galaxies in more densely populated environments adopt a more stochastic behaviour
+
+- [The environmental dependence of the X_CO conversion factor](https://arxiv.org/abs/2009.14631)
+    - TIGRESS模拟去研究X_CO的变化：varying metallicity, far-ultraviolet (FUV) radiation, and cosmic ray ionization rate (CRIR).
+    - X_CO decreases with increasing metallicity, with a power-law slope of -0.8 for the (1--0) line and -0.5 for the (2--1) line. X_CO also decreases at higher CRIR, and is insensitive to the FUV radiation.
+    - As density increases, X_CO first decreases due to increasing excitation temperature, and then increases when the emission is fully saturated.
+
+- [Dorado and its member galaxies. Ha imaging of the group backbone](https://arxiv.org/abs/2009.14731)
+    - Dorado is a nearby, rich and clumpy galaxy group that extends for several degrees 用DuPont和Swope进行了Halpha巡天
+    - We detected in Ha+[N II] all the ETGs observed and half of them show HII regions. These findings suggest that ETGs in this group are not dead galaxies: their SF has not shut down yet.
