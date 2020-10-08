@@ -168,3 +168,57 @@
     - Along the stripped component, the dust distribution closely follows the HI and Hα emitting gas, all extending beyond the optical disc. 这些区域的Dust-to-gas mass ratios (DGRs)比星系盘上要低很多
     - We also find a negative trend in the DGR as a function of the metallicity that can be explained in terms of a dust component more centrally concentrated in more metal-rich systems.
     - Our results support an outside-in stripping scenario of the galaxy interstellar medium.
+
+----
+
+### Oct 6
+
+- [Listening to the BOSS: the galaxy power spectrum take on spatial curvature and cosmic concordance](https://arxiv.org/abs/2010.02230)
+
+- [Fast analytical random pair counts calculation for realistic survey geometry](https://arxiv.org/abs/2010.02793)
+
+- [Overdensities of Submillimetre-Bright Sources around Candidate Protocluster Cores Selected from the South Pole Telescope Survey](https://arxiv.org/abs/2010.02909)
+
+- [How the Population III Initial Mass Function Governs the Properties of the First Galaxies](https://arxiv.org/abs/2010.02212)
+
+- [Dark-matter-deficient dwarf galaxies form via tidal stripping of dark matter in interactions with massive companions](https://arxiv.org/abs/2010.02219)
+
+- [Galaxies with kinematically distinct cores in Illustris](https://arxiv.org/abs/2010.02222)
+
+- [Exemplary Merging Clusters: Weak-lensing and X-ray Analysis of the Double Radio Relic Merging Galaxy Clusters MACS 1752.0+4440 and ZWCL 1856.8+6616](https://arxiv.org/abs/2010.02226)
+
+- [Creating a galaxy lacking dark matter in a dark matter dominated universe](https://arxiv.org/abs/2010.02245)
+
+- [An ALMA survey of the S2CLS UDS field: Optically invisible submillimetre galaxies](https://arxiv.org/abs/2010.02250)
+
+- [Is there enough star formation in simulated protoclusters?](https://arxiv.org/abs/2010.02259)
+
+- [Probing the Warm-Hot Circumgalactic Medium with broad OVI and X-rays](https://arxiv.org/abs/2010.02312)
+
+- [Investigating the Effect of Galaxy Interactions on AGN Enhancement at 0.5<z<3.0](https://arxiv.org/abs/2010.02710)
+
+- [Scaling relations and baryonic cycling in local star-forming galaxies: II. Gas content and star-formation efficiency](https://arxiv.org/abs/2010.02919)
+
+----
+
+### Oct 7
+
+- [Learning effective physical laws for generating cosmological hydrodynamics with Lagrangian Deep Learning](https://arxiv.org/abs/2010.02926)
+
+- [A Self-Calibrating Halo-Based Group Finder: Application to SDSS](https://arxiv.org/abs/2010.02946)
+
+- [The eROSITA X-ray telescope on SRG](https://arxiv.org/abs/2010.03477)
+
+- [The Lyman Alpha Spectral Database (LASD)](https://arxiv.org/abs/2010.02927)
+
+- [Stellar splashback: the edge of the intracluster light](https://arxiv.org/abs/2010.02937)
+
+- [How well can we determine ages and chemical abundances from spectral fitting of integrated light spectra?](https://arxiv.org/abs/2010.02940)
+
+- [Morphological and Rotation Structures of Circumgalactic Mg II Gas in the EAGLE Simulation and the Dependence on Galaxy Properties](https://arxiv.org/abs/2010.02944)
+
+- [The AGN-galaxy-halo connection: The distribution of AGN host halo masses to z=2.5](https://arxiv.org/abs/2010.02957)
+
+- [Mysterious Globular Cluster System of the Peculiar Massive Galaxy M85](https://arxiv.org/abs/2010.03041)
+
+- [Unravelling the enigmatic ISM conditions in Minkowski's Object](https://arxiv.org/abs/2010.03139)
