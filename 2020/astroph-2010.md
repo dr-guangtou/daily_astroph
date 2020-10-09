@@ -213,7 +213,7 @@
 
 - [Stellar splashback: the edge of the intracluster light](https://arxiv.org/abs/2010.02937)
 
-- [How well can we determine ages and chemical abundances from spectral fitting of integrated light spectra?](https://arxiv.org/abs/2010.02940)
+- [How well can we determine ages and chemical abundances from spectral fitting of integrated light spectra?](https://arxiv.orgabs/2010.02940)/
 
 - [Morphological and Rotation Structures of Circumgalactic Mg II Gas in the EAGLE Simulation and the Dependence on Galaxy Properties](https://arxiv.org/abs/2010.02944)
 
@@ -222,3 +222,71 @@
 - [Mysterious Globular Cluster System of the Peculiar Massive Galaxy M85](https://arxiv.org/abs/2010.03041)
 
 - [Unravelling the enigmatic ISM conditions in Minkowski's Object](https://arxiv.org/abs/2010.03139)
+
+----
+
+### Oct 8
+
+- [Comparing different mass estimators for a large subsample of the {\it Planck}-ESZ clusters](https://arxiv.org/abs/2010.03582)
+    - **Relevant**
+    - The mean ratio between our X-ray masses and the weak-lensing masses in the LC2-single catalog is 1-b=0.74±0.06. However, the mean mass ratios inferred from the WL masses of different projects vary by a large amount, with APEX-SZ showing a bias consistent with zero (1-b=1.02±0.12), LoCuSS and CCCP/MENeaCS showing a significant difference (1-b=0.76±0.09 and 1-b=0.77±0.10, respectively), and WtG pointing to the largest deviation (1-b=0.61±0.12)
+    - 动力学质量估计和X-ray质量估计符合得更好
+
+- [Exploring the hydrostatic mass bias in MUSIC clusters: application to the NIKA2 mock sample](https://arxiv.org/abs/2010.03634)
+    - **Relevant**
+    - We analyzed a set of 260 synthetic clusters from the MUSIC simulation project, at redshifts 0≤z≤0.82.
+    - The biases are of the order of 20%. We find that using the temperature instead of the pressure leads to a smaller bias, although the two values are compatible within 1σ.
+    - We also present a study of the correlation between the mass bias and the dynamical state of the clusters. A clear correlation is shown between the relaxation state of the clusters and the bias factor.
+
+- [Peculiar Velocity Estimation from Kinetic SZ Effect using Deep Neural Networks](https://arxiv.org/abs/2010.03762)
+    - We simplify the calculation of peculiar velocities of galaxy clusters using deep learning frameworks trained on numerical simulations to avoid the estimation of the optical depth.
+    - The deep learning algorithm displays robustness in estimating peculiar velocities from kinetic SZ effect by an improvement in accuracy of about 17% compared to the analytical approach.
+
+- [Why reducing the cosmic sound horizon can not fully resolve the Hubble tension](https://arxiv.org/abs/2010.04158)
+    - 解决H0 tension：Many of them introduce new physics, such as early dark energy, modifications of the standard model neutrino sector, extra radiation, primordial magnetic fields or varying fundamental constants, with the aim of reducing the sound horizon at recombination r⋆.
+    - We demonstrate here that any model which {\it only} reduces r⋆ can never fully resolve the Hubble tension while remaining consistent with other cosmological datasets. We show explicitly that models which operate at lower matter density Ωmh2 run into tension with the observations of baryon acoustic oscillations, while models operating at higher Ωmh2 develop tension with galaxy weak lensing data.
+
+- [Simulating cosmic structure formation with the GADGET-4 code](https://arxiv.org/abs/2010.03567)
+    - **Useful**
+    - The new version offers improvements in force accuracy, in time-stepping, in adaptivity to a large dynamic range in timescales, in computational efficiency, and in parallel scalability through a special MPI/shared-memory parallelization and communication strategy, and a more-sophisticated domain decomposition algorithm.
+    - Two different flavours of smoothed particle hydrodynamics, a classic entropy-conserving formulation and a pressure-based approach, are supported for dealing with gaseous flows.
+    - The GADGET-4 code is publicly released to the community and contains infrastructure for on-the-fly group and substructure finding and tracking, as well as merger tree building, a simple model for radiative cooling and star formation, a high dynamic range power spectrum estimator, and an initial conditions generator based on second-order Lagrangian perturbation theory.
+
+- [MMT Spectroscopy of Lyman-alpha at z≃7: Evidence for Accelerated Reionization Around Massive Galaxies](https://arxiv.org/abs/2010.03566)
+    - To better understand why Lyα is anonymously strong in a subset of massive z≃7−9 galaxies, we have initiated an MMT/Binospec survey targeting a larger sample (N=22) of similarly luminous (≃1−6 L∗UV) z≃7 galaxies
+    - We confidently (>7σ) detect Lyα in 78% (7/9) of galaxies with strong [OIII]+Hβ emission (EW>800 A˚) as opposed to only 8% (1/12) of galaxies with more moderate (EW=200−800 A˚) [OIII]+Hβ.
+    - We argue that the higher Lyα EWs of the strong [OIII]+Hβ population likely reflect enhanced ionizing photon production efficiency owing to their large sSFRs
+    - 大质量星系的Lya透过率演化较小，可能居住在较大的电离区域内
+
+- [From haloes to galaxies -- II. The fundamental relations in star formation and quenching](https://arxiv.org/abs/2010.03579)
+    - We show the integrated MH2-SFR, SFR-M∗ and MH2-M∗ relation can be simply transformed from the μ-sSFR, SFE-μ and SFE-sSFR relation; μ是分子气体与恒星质量比；这三个关系的scatter更小
+    - We propose the sSFR-μ-SFE relation as the Fundamental Formation Relation (FFR), which governs the star formation and quenching process, and provides a simple framework to study galaxy evolution.
+
+- [The QuaStar Survey: Detecting Hidden Low-Velocity Gas in the Milky Way's Circumgalactic Medium](https://arxiv.org/abs/2010.03610)
+    - **Interesting**
+    - The content of the Milky Way's circumgalactic medium (CGM) is poorly constrained at |vLSR| ≲ 150 km s−1
+    - The QuaStar Survey applies a spectral differencing technique using paired quasar-star sightlines to measure the obscured content of the Milky Way's CGM for the first time.
+    - We present measurements of the CIV doublet (λλ 1548 \r{A}, 1550 \r{A}), a rest-frame UV metal line transition detected in HST/COS spectra of 30 halo-star/quasar pairs evenly distributed across the sky at Galactic latitudes |b|>30∘
+    - We argue that the difference in absorption between the quasar and stellar sightlines originates primarily in the Milky Way's extended CGM beyond ∼10 kpc.
+
+- [HI Deficiencies and Asymmetries in HIPASS Galaxies](https://arxiv.org/abs/2010.03720)
+    - Previous studies of galaxy HI deficiency using HIPASS were sensitive to galaxies that are extremely HI rich or poor. We use an updated binning statistic for measuring the global sky distribution of HI deficiency that is sensitive to the average deficiencies.
+    - Galaxies residing in denser environments, such as Virgo, are on average more HI deficient than galaxies at lower densities.
+    - Many other individual groups and clusters are not found to be on average significantly HI poor
+    - We also investigate the correlation between HI asymmetry and deficiency, but find no variation in the mean asymmetry of galaxies that are HI rich, normal or poor.
+
+- [Resolving the Disc-Halo Degeneracy II: NGC 6946](https://arxiv.org/abs/2010.03991)
+    - This mismatch between the scale height and the velocity dispersion can lead to underestimates of the disc surface density and a misleading conclusion of the sub-maximality of galaxy discs.
+    - We present the study of the stellar velocity dispersion of the disc galaxy NGC 6946 using integrated star light and individual planetary nebulae as dynamical tracers. We demonstrate the presence of two kinematically distinct populations of tracers which contribute to the total stellar velocity dispersion.
+    - We find the disc of NGC 6946 to be closer to maximal with the baryonic component contributing most of the radial gravitational field in the inner parts of the galaxy (Vmax(bar) = 0.76(±0.14)Vmax).
+
+- [More insights into bar quenching. Multi-wavelength analysis of four barred galaxies](https://arxiv.org/abs/2010.04005)
+    - We found that for three galaxies, the region between the nuclear or central sub-kiloparsec region and the end of the bar (bar region) is devoid of neutral and molecular hydrogen.
+    - While the detected neutral hydrogen is very negligible, we note that molecular hydrogen is present abundantly in the nuclear or central sub-kiloparsec regions of all four galaxies.
+    - The study presented here supports a scenario in which gas redistribution as a result of the action of stellar bar clears the bar region of fuel for further star formation and eventually leads to star formation quenching in the bar region.
+
+- [Sustained formation of progenitor globular clusters in a giant elliptical galaxy](https://arxiv.org/abs/2010.04046)
+    - **Relevant**
+    - We show that many thousands of compact and massive (~5×103−3× 106M⊙) star clusters have formed at an approximately steady rate over, at least, the past ~1Gyr around NGC 1275
+    - Their number distribution exhibits a similar dependence with luminosity and mass as the GCs, whereas their spatial distribution resembles a filamentary network of multiphase gas associated with cooling of the intracluster gas.
+    - The progenitor GCs have minimal masses well below the maximal masses of Galactic open star clusters, affirming a common formation mechanism for star clusters over all mass scales irrespective of their formative pathways.
