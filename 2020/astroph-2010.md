@@ -174,10 +174,18 @@
 ### Oct 6
 
 - [Listening to the BOSS: the galaxy power spectrum take on spatial curvature and cosmic concordance](https://arxiv.org/abs/2010.02230)
+    - Planck似乎限制Omega_K < 0; 但BAO支持Omega_K = 0;
+    - Using measurements of the full-shape (FS) galaxy power spectrum, P(k), from the Baryon Oscillation Spectroscopic Survey DR12 CMASS sample. By combining Planck data with FS measurements, we break the geometrical degeneracy and find ΩK=0.0023±0.0028.
+    - However, as with BAO, the overall increase in the best-fit χ2 suggests a similar level of tension between Planck and P(k) under the assumption of a curved Universe.
 
 - [Fast analytical random pair counts calculation for realistic survey geometry](https://arxiv.org/abs/2010.02793)
+    - Because pair counting scales as O(N2), where N is the number of points, the computational time to measure random pair counts cn be very expensive for large surveys.
+    - We present an alternative approach for estimating those counts that does not rely on the use of a random catalogue. We derive an analytical expression for the anisotropic random-random pair counts that accounts for the galaxy radial distance distribution, survey geometry, and possible galaxy weights.
 
 - [Overdensities of Submillimetre-Bright Sources around Candidate Protocluster Cores Selected from the South Pole Telescope Survey](https://arxiv.org/abs/2010.02909)
+    - We find a total of 98 sources above a threshold of 3.7 sigma in the observed area of 1300 square arcminutes, where the bright central cores resolve into multiple components.
+    - The large overdensities of bright submm sources surrounding these fields suggest that they could be candidate protoclusters undergoing massive star-formation events.
+    -
 
 - [How the Population III Initial Mass Function Governs the Properties of the First Galaxies](https://arxiv.org/abs/2010.02212)
 
@@ -290,3 +298,83 @@
     - We show that many thousands of compact and massive (~5×103−3× 106M⊙) star clusters have formed at an approximately steady rate over, at least, the past ~1Gyr around NGC 1275
     - Their number distribution exhibits a similar dependence with luminosity and mass as the GCs, whereas their spatial distribution resembles a filamentary network of multiphase gas associated with cooling of the intracluster gas.
     - The progenitor GCs have minimal masses well below the maximal masses of Galactic open star clusters, affirming a common formation mechanism for star clusters over all mass scales irrespective of their formative pathways.
+
+----
+
+### Oct 11
+
+- [Mitigating the effects of undersampling in weak lensing shear estimation with metacalibration](https://arxiv.org/abs/2010.04164)
+    - **CSST**
+    - We investigate the accuracy of shear measured with metacalibration from fitting elliptical Gaussians to undersampled galaxy images. In this case, metacalibration introduces aliasing effects leading to an ensemble multiplicative shear bias about 0.01 for Euclid, and even larger for the Roman Space Telescope
+    - 克服的方法: computing shapes from weighted moments with wider Gaussians as weight functions, thereby trading bias for a slight increase in variance of the measurements
+
+- [Super-sample covariance of the thermal Sunyaev-Zel'dovich effect](https://arxiv.org/abs/2010.04174)
+    - **Interesting**
+    - The statistical errors in the tSZ power spectrum measurements are dominated by the presence of massive clusters in a survey volume that are easy to identify on individual cluster basis. tSZ功率谱中最大的统计误差来源：最大质量的星系团
+    - The sample variance is dominated by the connected non-Gaussian (cNG) covariance arising mainly from Poisson number fluctuations of massive clusters in the survey volume. 移除这些能被单独探测到的大质量星系团能降低variance
+    - The power spectrum measured from the remaining, diffuse tSZ effects can be used to obtain tight constraints on cosmological parameters as well as the hydrostatic mass bias parameter.
+
+- [Elucidating Galaxy Assembly Bias in SDSS](https://arxiv.org/abs/2010.04176)
+    - **Relevant, SSST**
+    - SDSS加ELUCID模拟：we develop an extended HOD model that includes the assembly bias of central and satellite galaxies
+    - We discover that in many cases the level of cosmic variance between the two simulations can produce biased constraints that lead to an erroneous detection of galaxy assembly bias if the non-constrained simulation is used.
+    - Our fiducial ELUCID constraint, for galaxies above a stellar mass threshold M∗=10^10.2h−1M⊙, is Qcen=−0.06±0.09 and Qsat=0.08±0.12, indicating no evidence for a significant galaxy assembly bias in the local Universe probed by SDSS.
+
+- [Accounting for object detection bias in weak gravitationallensing studies](https://arxiv.org/abs/2010.04178)
+    - We study the impact of object detection for a Euclid-like survey and show that it leads to biases that exceed requirements for the next generation of cosmic shear surveys. In realistic scenarios, blending of galaxies is an important source of detection bias.
+    - We find that MetaDetection is able to account for blending, leading to average multiplicative biases that meet requirements for Stage IV surveys, provided a sufficiently accurate model for the point spread function is available.
+
+- [Evidence for galaxy assembly bias in BOSS CMASS redshift-space galaxy correlation function](https://arxiv.org/abs/2010.04182)
+    - **Relevant**
+    - Recent studies have found that halo concentration by itself cannot capture the full galaxy assembly bias effect and that the local environment of the halo can be an excellent indicator of galaxy assembly bias. 建立了一个HOD模型包含了这两个因素
+    - 观测上基于BOSS CMASS：We find that the inclusion of both assembly bias terms is strongly favored by the data and the standard 5-parameter HOD is strongly rejected. 并且能解决Lensing is low问题
+    - We also showcase a consistent 3-5sigma preference for a positive environment-based assembly bias that persists over variations in the fit.
+
+- [From "universal" profiles to "universal" scaling laws in X-ray galaxy clusters](https://arxiv.org/abs/2010.04192)
+    - **Relevant**
+    - We use a semi-analytic model based on a "universal" pressure profile in hydrostatic equilibrium within a cold dark matter halo with a defined relation between mass and concentration to reconstruct the scaling laws between the X-ray properties of galaxy clusters.
+    - We also quantify any deviation from the self-similar predictions in term of temperature dependence of few physical quantities like the gas mass fraction, the relation between spectroscopic temperature and its global value, and, if present, the hydrostatic mass bias.
+    - By combining these results with the constraints on the observed YSZ−T relation, we show how we can quantify the level of gas clumping affecting the studied sample, estimate the clumping-free gas mass fraction, and suggest the average level of hydrostatic bias present.
+
+- [Cross-Correlation of Planck CMB Lensing with DESI-Like LRGs](https://arxiv.org/abs/2010.04698)
+    - We detect a cross-correlation between DESI-like luminous red galaxies (LRGs) selected from DECaLS imaging and CMB lensing maps reconstructed with the Planck satellite at a significance of S/N=27.2 over scales ℓmin=30, ℓmax=1000
+    - 利用 LRG cumulative magnitude function at the faint limit进行放大效应改正
+    - We fit the large-scale galaxy bias at the effective redshift of the cross-correlation zeff≈0.68 using two different bias evolution agnostic models: a HaloFit times linear bias model where the bias evolution is folded into the clustering-based estimation of the redshift kernel, and a Lagrangian perturbation theory model of the clustering evaluated at zeff
+
+- [Did Sgr cause the vertical waves in the solar neighbourhood?](https://arxiv.org/abs/2010.04165)
+    - We find that we are unable to reproduce the observed asymmetry in the vertical number counts and its concomitant breathing mode in velocity space for any plausible combination of Sgr and Milky-Way properties.
+
+- [The critical dark matter halo mass for Population III star formation: dependence on Lyman-Werner radiation, baryon-dark matter streaming velocity, and redshift](https://arxiv.org/abs/2010.04169)
+    - Pop III形成的临界Halo质量：能包含足够多致密分子气体的最小halo质量，The presence of Lyman-Werner (UV) radiation, which can dissociate molecular hydrogen, and the baryon-dark matter streaming velocity both delay the formation of Pop III stars by increasing Mcrit
+    - 基于Enzo模拟给出Mcrit对LW流量和Baryon-DM streaming，以及红移的模型; 综合几种依赖的效应比较复杂
+
+- [The Hα Dots Survey. II. A Second List of Faint Emission-Line Objects](https://arxiv.org/abs/2010.04252)
+    - The second catalog of serendipitously discovered compact extragalactic emission-line sources - Hα Dots
+    - The sample includes Hα-detected blue compact dwarf galaxies at low redshift, [\ion{O}{3}]-detected Seyfert 2 and Green Pea-like galaxies at intermediate redshifts, and QSOs detected via one of several UV emission lines, including Lyα.
+
+- [Changing-look active galactic nuclei: close binaries of supermassive black holes in action](https://arxiv.org/abs/2010.04417)
+    - We demonstrate the extreme case that close binaries of supermassive black holes (CB-SMBHs) with high eccentricities are able to trigger the CL transition through one orbit. 用双黑洞解释CL-AGN
+    - Binary black holes build up their own mini-disks via peeling gas off inner edges of the circumbinary disk during the apastron phase after then they tidally interact with the disks during the periastron phase to efficiently exchange angular momentum (AM) within one orbital period.
+    - For mini-disks with rotation retrograde to the orbit, the tidal torque rapidly squeezes the tidal parts of the mini-disks into much smaller radius, resulting in an elevated accretion rapidly and short flares before declining into type-2 AGNs. In case of prograde mini-disks, they gain AM from the binary and rotate outward, giving rise to a rapid turn-off from type-1 to -2.
+
+- [The Impact of Disturbed Galaxy Clusters on the Kinematics of Active Galactic Nuclei](https://arxiv.org/abs/2010.04498)
+    - 33个BAX clusters，进行member sub-structure分类：8 dynamically active (merging) and 25 dynamically relaxed (non-merging) states.
+    - 用WHAN diagram挑选AGN：70 merging and 225 non-merging AGN sub-populations.
+    - AGN-hosting cluster galaxies have recently coalesced onto a common potential7
+    - Non-merging AGN-hosting sub-populations have, on average, already been accreted and predominantly lie within backsplash regions of the projected phase-space.
+
+- [Evaluating Galaxy Dynamical Masses From Kinematics and Jeans Equilibrium in Simulations](https://arxiv.org/abs/2010.04629)
+    - **Useful**
+    - 基于VELA模拟：We find that Jeans or hydrostatic equilibrium is approximately valid for galaxies of stellar masses above M⋆∼10^9.5M⊙ out to 5 effective radii (Re).
+    - 给出了用旋转速度和视向速度弥散度结合测动力学质量的方法，对Spheroid和Disc不太一样，需要不同的改正系数 alpha；在Spheroid里，alpha和Sersic index反相关；在盘星系里，alpha和半径正相关
+    - The correction in α for the stars due to the gradient in σr(r) is roughly balanced by the effect of the aspherical potential, while the effect of anisotropy is negligible.
+
+- [The AGN fuelling/feedback cycle in nearby radio galaxies III. 3D relative orientations of radio jets and CO discs and their interaction](https://arxiv.org/abs/2010.04685)
+    - 11 low-excitation radio galaxies (LERGs)的研究：JVLA+ALMA，a full 3D analysis of the relative orientations of jet and disc rotation axes in six FR I LERGs.
+    - This analysis shows (albeit with significant uncertainties) that the relative orientation angles span a wide range (≈30∘−60∘). There is no case where both axes are accurately aligned and there is a marginally significant tendency for jets to avoid the disc plane.
+    - 在NGC 3100中看到了Jet和CO气体相互作用的证据
+
+- [Spatially resolved CIII\]λ1909 emission in Haro 11](https://arxiv.org/abs/2010.04685)
+    - CIII\]1909半禁线，是除了Lya之外最强的紫外发射线 It is thought that C III\] emission is strongest in galaxies with subsolar metallicity and low mass, however, spectral observations of numerous such galaxies at high and low redshift produce inconclusive or even contradictory results.
+    - STIS对Haro11的观测：Cluster parameters like stellar mass, dust fraction and dust attenuation, and ionization parameter, obtained through spectral energy distribution fitting, show no correlation with the CIII\] equivalent width (EW), which may be due to a combination of the limitation of the models and the age-homogeneity of the cluster population
+    - We find that the clusters with the highest EW(C III\]) can be reconciled only with Cloudy models with an extremely high C/O ratio of ≥ 1.4(C/O)⊙ for an ionizing population of single stars, binary stars, or a mixture of binary stars and active galactic nuclei.
