@@ -185,13 +185,17 @@
 - [Overdensities of Submillimetre-Bright Sources around Candidate Protocluster Cores Selected from the South Pole Telescope Survey](https://arxiv.org/abs/2010.02909)
     - We find a total of 98 sources above a threshold of 3.7 sigma in the observed area of 1300 square arcminutes, where the bright central cores resolve into multiple components.
     - The large overdensities of bright submm sources surrounding these fields suggest that they could be candidate protoclusters undergoing massive star-formation events.
-    -
 
 - [How the Population III Initial Mass Function Governs the Properties of the First Galaxies](https://arxiv.org/abs/2010.02212)
+    - ENZO模拟：We find that a top-heavy Pop III IMF results in earlier star formation but dimmer galaxies than a more conventional Salpeter-type IMF because explosions of massive Pop III stars produce more turbulence that suppresses high-mass second-generation star formation
 
 - [Dark-matter-deficient dwarf galaxies form via tidal stripping of dark matter in interactions with massive companions](https://arxiv.org/abs/2010.02219)
+    - NewHorizon模拟：sustained stripping of dark matter, in tidal interactions between a massive galaxy and a dwarf satellite, naturally produces dwarfs that are dark-matter deficient, even though their initial dark-matter fractions are normal.
+    - The process of dark matter stripping is responsible for the large scatter in the stellar-to-halo mass relation in the dwarf regime. The degree of stripping is driven by the closeness of the orbit of the dwarf around its massive companion
 
 - [Galaxies with kinematically distinct cores in Illustris](https://arxiv.org/abs/2010.02222)
+    - Illustris模拟里面KDC星系的分析：KDCs can be long-lived features, with their formation epochs roughly uniformly distributed in look-back times 0-11.4 Gyr, and they can survive even major or multiple subsequent mergers.
+    - 没有单一的形成渠道，并合占60%，大质量星系中主要来自major merger
 
 - [Exemplary Merging Clusters: Weak-lensing and X-ray Analysis of the Double Radio Relic Merging Galaxy Clusters MACS 1752.0+4440 and ZWCL 1856.8+6616](https://arxiv.org/abs/2010.02226)
 
@@ -378,3 +382,103 @@
     - CIII\]1909半禁线，是除了Lya之外最强的紫外发射线 It is thought that C III\] emission is strongest in galaxies with subsolar metallicity and low mass, however, spectral observations of numerous such galaxies at high and low redshift produce inconclusive or even contradictory results.
     - STIS对Haro11的观测：Cluster parameters like stellar mass, dust fraction and dust attenuation, and ionization parameter, obtained through spectral energy distribution fitting, show no correlation with the CIII\] equivalent width (EW), which may be due to a combination of the limitation of the models and the age-homogeneity of the cluster population
     - We find that the clusters with the highest EW(C III\]) can be reconciled only with Cloudy models with an extremely high C/O ratio of ≥ 1.4(C/O)⊙ for an ionizing population of single stars, binary stars, or a mixture of binary stars and active galactic nuclei.
+
+----
+
+### Oct 12
+
+- [A Novel Estimator for the Equation of State of the IGM by Lyα Forest Tomography](https://arxiv.org/abs/2010.05606)
+    - 根据QSO光谱观测估计ISM的状态方程： Our estimation is based on a full tomographic inversion of the line of sight.
+    - We model the temperature-density relation with a power law and observe for the temperature at mean density T0=13000+1300−1200K and for the slope of the power-law (polytropic index) γ=1.44±0.09 for the power-law parameters
+    - We invert the data with two different inversion algorithms, the iterative Gauss-Newton method and the regularized probability conservation approach, which depend on different priors and compare the inversion results in flux space and in density space.
+
+- [The HectoMAP Redshift Survey: First Data Release](https://arxiv.org/abs/2010.05817)
+    - **Useful**
+    - 55 deg^2; r=21.3 mag; 只释放了一部分： 17,313 redshifts in a first data release covering 8.7 square degrees.
+    - 8117 constitute a 79% complete red-selected subsample with r≤20.5 and an additional 4318 constitute a 68\% complete red-selected subsample with 20.5 < r <21.3.
+
+- [The Number Densities and Stellar Populations of Massive Galaxies at 3 < z < 6: A Diverse, Rapidly Forming Population in the Early Universe](https://arxiv.org/abs/2010.04725)
+    - **Relevant**
+    - UltraVista中M>10^11 Msun的高红移星系：≈100  and ≈20 high-confidence candidates at 3<z<4 and 4<z<6
+    - The 3< z <4 population is comprised of post-starburst, UV star-forming and dusty-star forming galaxies in roughly equal fractions, while UV-star-forming galaxies dominate at 4< z<6
+    - 在SED拟合中考虑发射线很重要
+    - z~4是大质量星系出现的关键时期，这些星系的形成可以追溯至z~7; 星系都很compact
+    - ≈15−25% of the population showing evidence of suppressed star-formation rates
+
+- [Galaxy evolution across environments as probed by the ages, stellar metallicities and [alpha/Fe] of central and satellite galaxies](https://arxiv.org/abs/2010.04733)
+    - **Relevant**
+    - 基于Yang catalog；color-M/L based stellar mass; Lick index-based stellar population
+    - Below log(Mstar/Msun)=10.5 satellites are older and metal-richer than equally-massive central galaxies. 但alpha/Fe没有区别
+    - We also find that the differences in the median age and metallicity of satellites and centrals at stellar mass below 10^{10.5}Msun are largely due to the higher fraction of passive galaxies among satellites and as a function of halo mass.
+    - When accounting for the varying quiescent fraction, small residual excess in age, metallicity and [alpha/Fe] emerge for satellites dominated by old stellar populations and residing in halos more massive than 10^{14}Msun, compared to equally-massive central galaxies. This excess in age, metallicity and [alpha/Fe] pertain to ancient infallers, i.e. satellites that have accreted onto the current halo more than 5 Gyr ago.
+
+- [SQuIGGLE Survey: Massive z∼0.6 Post-Starburst Galaxies Exhibit Flat Age Gradients](https://arxiv.org/abs/2010.04734)
+    - **Relevant**
+    - Gemini观测，质量大于10^11 Msun: Using HδA absorption as a proxy for stellar age, we constrain five of the galaxies to have young (∼600 Myr) light-weighted ages at all radii and find that the sample on average has flat age gradients.
+    - Find that galaxies with flat HδA profiles are inconsistent with formation via a central secondary starburst. This implies that the mechanism responsible for shutting off this dominant episode of star formation must have done so uniformly throughout the galaxy.
+
+- [Investigating The Growing Population of Massive Quiescent Galaxies at Cosmic Noon](https://arxiv.org/abs/2010.04741)
+    - **Relevant**
+    - 28,469 massive (M⋆≥10^11M⊙) galaxies at redshifts 1.5< z<3.0, drawn from a 17.5 deg2 area
+    - 通过三种方法估计Quiescent fraction：
+        - 在1.5 < z < 2.0: 三个方法结果一致；quiescent fraction随恒星质量增加
+        - 在2.0 < z < 3.0: 不同方法结果出现差别；UVJ给出的最高，sSFR给出的最低 
+        - 在z~2: the universe has quenched ∼25% of M⋆=10^11M⊙ galaxies and ∼45% of M⋆=10^12M⊙ galaxies 
+    - 和模拟比较：The quiescent fraction from IllustrisTNG is higher than our empirical result by a factor of 2−5, while those from SIMBA and the three SAMs are lower by a factor of 1.5−10 at 1.5< z< 3.0.
+
+- [The environmental dependence of X-ray AGN activity at z∼0.4](https://arxiv.org/abs/2010.04832)
+    - 0.35< z<0.45的7个大质量星系团中的Chandra X-ray确认的AGN
+    - Studying the subset of AGN with 0.5-8 keV luminosities >6.8×10^42 erg s−1, within r≤2r500
+    - The cluster AGN space density scales with cluster mass as ∼M−2.0+0.8−0.9 基本能确认有环境依赖
+    - The cluster AGN fraction is significantly suppressed relative to the field when considering the brightest galaxies with V<21.5.
+    - No evidence for enhanced X-ray obscuration of cluster member AGN.
+
+- [All the PAHs: an AKARI-Spitzer Cross Archival Spectroscopic Survey of Aromatic Emission in Galaxies](https://arxiv.org/abs/2010.05034)
+    - AKARI-Spitzer Extragalactic Spectral Survey (ASESS): 113个SF星系的2.5-38 micron的PAH研究
+    - 3.3 micron PAH:
+        - We find LPAH3.3/LIR ∼ 0.1% and the 3.3 μm PAH feature contributes ∼1.5-3% to the total PAH power
+        - 可以trace SFR；但是在高光度和低金属丰度时不可靠
+        - 3.3 μm is susceptible to attenuation, leading to a factor of ∼ 3 differences in the inferred star formation rate at high obscuration
+        - The smallest PAHs are better able to survive under intense radiation fields than presumed, or that PAH emission is shifted to shorter wavelengths in intense and high energy radiation environments.
+
+- [YZiCS: On the Mass Segregation of Galaxies in Clusters](https://arxiv.org/abs/2010.05304)
+    - **Relevant**
+    - Using deep optical observations of 14 Abell clusters (KYDISC) and a set of hydrodynamic simulations (YZiCS), we find in some cases a hint of mass segregation inside the virial radius. 通过大质量星系比例可以看出；在模拟里更明显
+    - Satellites that get accreted at earlier epochs or galaxies in more massive clusters go through more tidal stripping. These effects in combination result in a correlation between the host halo mass and the degree of stellar mass segregation.
+
+- [On the origin of X-ray oxygen emission-lines in obscured AGN](https://arxiv.org/abs/2010.05412)
+    - 基于XMM archive的：Catalog of High REsolution Spectra of Obscured Sources (CHRESOS) 
+    - We concentrate on the soft X-ray OVII(f) and OVIII Ly_alpha emission；看和AGN以及SF的关系
+    - 和其他线，以及模型比较：[OIII]5007A, [OIV]25.89mic emission lines, and MIR-12mic, FIR-60mic, FIR-100mic, 2-10 keV and 14-195 keV continuum bands, we conclude that the AGN radiation field is mainly responsible of the soft X-ray oxygen excitation.
+
+- [Global HI asymmetries in IllustrisTNG: a diversity of physical processes disturb the cold gas in galaxies](https://arxiv.org/abs/2010.05422)
+    - 基于TNG100：more than 50% of the sample has at least a 10% difference in integrated flux between the high- and low-velocity half of the spectrum, thus the typical TNG100 galaxy has an HI profile that is not fully symmetric.
+    - 卫星星系的HI比centrals的更不对称；this trend appears to be driven by the satellite population within the virial radius of haloes more massive than 10^13M⊙, typical of medium/large groups.
+    - Ram pressure stripping很重要，但是有同时作用于中心和卫星星系物理机制导致了不对称
+
+- [The host galaxy of OJ 287 revealed by optical and near-infrared imaging](https://arxiv.org/abs/2010.05487)
+    - z=0.3; 有12年周期性爆发，被认为可能有双黑洞的BL Lac
+    - 很深的GTC光学和NOT NIR观测：We find the broad-band photometry of the host to be consistent with an early type galaxy with M_R = -22.5 and M_K = -25.2
+    - The central supermassive black hole is clearly overmassive for a host galaxy of that luminosity, but not unprecedented
+
+- [The infrared-radio correlation of star-forming galaxies is strongly M⋆-dependent but nearly redshift-invariant since z∼4](https://arxiv.org/abs/2010.05510)
+    - qTIR == L_TIR/L_1.4Ghz; infrared-radio correlation (IRRC)
+    - We re-calibrate qTIR as a function of both stellar mass (M∗) and redshift, starting from an M∗-selected sample of >400,000 star-forming galaxies in the COSMOS field, identified via (NUV-r)/(r-J) colours, at redshifts 0.1< z<4.5.
+    - We find that the IRRC evolves primarily with M∗, with more massive galaxies displaying systematically lower qTIR. 对红移也有依赖，但是较弱
+    - Adding the UV dust-uncorrected contribution to the IR as a proxy for the total SFR, would further steepen the qTIR dependence on M∗.
+    - The lower IR/radio ratio in more massive galaxies could be possibly linked to higher SFR surface density, which induces larger cosmic-ray scale heights. 不是因为大质量星系的SFR变弱
+
+- [Does NGC 6397 contain an intermediate-mass black hole or a more diffuse inner sub-cluster?](https://arxiv.org/abs/2010.05532)
+    - MUSE观测和建模：We consider different priors on velocity anisotropy and on the size of the central mass, and also separate stars into components of different mean mass to allow for mass segregation.
+    - 作者认为可以排除IMBH：The velocity ellipsoid is very isotropic throughout the cluster, and we argue that this must have been acquired early on. The data prefer the existence of a dark component in this cluster center of 0.8 to 2 percent of the total mass of the cluster 而是一个diffuse dark cluster
+    - We argue that stellar-mass black holes should dominate the mass of this diffuse dark component.
+
+- [Individual optical variability of Active Galactic Nuclei from the MEXSAS2 sample](https://arxiv.org/abs/2010.05624)
+    - Multi-Epoch XMM Serendipitous AGN Sample 2 (MEXSAS2)
+    - 基于单独AGN的统计：We find a significant decrease of variability amplitude with increasing bolometric, optical and X-ray luminosity.
+    - When comparing optical to X-ray variability properties, we find that X-ray variability amplitude is approximately the same for those AGNs with larger or smaller variability amplitude in the optical.
+
+- [The Infrared Medium-deep Survey. VIII. Quasar Luminosity Function at z∼5](https://arxiv.org/abs/2010.05859)
+    - UKIRT WFCam: Infrared Medium-deep Survey (IMS), a near-infrared imaging survey covering an area of 85 deg2
+    - 统计z~5的较暗的QSO；这些QSO可能对再电离之后的电离背景比较重要
+    - We find that the faint-end slope of the QLF is very flat：imply that quasars are responsible for only 10-20% (up to 50% even in the extreme case) of the photons required to completely ionize the IGM at z∼5, disfavoring the idea that quasars alone could have ionized the IGM at z∼5.
