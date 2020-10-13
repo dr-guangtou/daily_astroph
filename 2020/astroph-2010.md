@@ -196,44 +196,104 @@
 - [Galaxies with kinematically distinct cores in Illustris](https://arxiv.org/abs/2010.02222)
     - Illustris模拟里面KDC星系的分析：KDCs can be long-lived features, with their formation epochs roughly uniformly distributed in look-back times 0-11.4 Gyr, and they can survive even major or multiple subsequent mergers.
     - 没有单一的形成渠道，并合占60%，大质量星系中主要来自major merger
+    - The mean mass-weighted stellar age inside the KDC radius is either about the same as the look-back time of the KDC formation or older.
 
 - [Exemplary Merging Clusters: Weak-lensing and X-ray Analysis of the Double Radio Relic Merging Galaxy Clusters MACS 1752.0+4440 and ZWCL 1856.8+6616](https://arxiv.org/abs/2010.02226)
+    - Our weak-lensing mass estimates show that each cluster is a major merger with approximately 1:1 mass ratio.
+    - 尽管质量差别很大，但是WL和X-ray特征很相近
+    - From the likeness of the X-ray morphologies and the remarkable symmetry of the radio relics, we propose that both systems underwent nearly head-on collisions.
 
 - [Creating a galaxy lacking dark matter in a dark matter dominated universe](https://arxiv.org/abs/2010.02245)
 
 - [An ALMA survey of the S2CLS UDS field: Optically invisible submillimetre galaxies](https://arxiv.org/abs/2010.02250)
+    - **Interesting, Relevant**
+    - We estimate that K>25.3 submillimetre galaxies represent 15+/-2 per cent of the total population brighter than S870=3.6mJy, with an expected surface density of ~450/deg^2 above S870>1mJy. 但只是Submm星系分布的tail；只是和K<25.3 mag的比，红移分布更高，尘埃消光更高; 消光高可能与其compact size有关
+    - 可能成为高红移quiescent星系和LBG搜索的contamination
+    - The concentrated, intense star-formation activity in these systems is likely to be associated with the formation of spheroids in compact galaxies at high redshifts, but as a result of their high obscuration these are completely missed in UV, optical and even near-infrared surveys.
 
 - [Is there enough star formation in simulated protoclusters?](https://arxiv.org/abs/2010.02259)
+    - **Relevant**
+    - 现代模拟和SAM中的proto-cluster中没有足够的SF，比观测低了一个量级
+    - 认为和模拟分辨率有关：We show that a large part of the discrepancy can be attributed to a dependence of SFR on the numerical resolution of the simulations, with a roughly factor of 3 drop in SFR when the spatial resolution decreases by a factor of 4.
+    - 可以用proto-cluster的模型校准来限制星系演化模型，确保z=0的大质量星系的模型是正确的
 
 - [Probing the Warm-Hot Circumgalactic Medium with broad OVI and X-rays](https://arxiv.org/abs/2010.02312)
+    - OVI吸收线中的窄线成分指示的是logT=5.5的较冷的成分，而宽OVI吸收指示的是占CGM大部分的warm-hot成分
+    - About 800ks of XMM-Newton observations will detect the expected absorption lines of OVII and OVIII unequivocally. Future missions like XRISM, Arcus and Athena will revolutionize the CGM science.
 
 - [Investigating the Effect of Galaxy Interactions on AGN Enhancement at 0.5<z<3.0](https://arxiv.org/abs/2010.02710)
+    - COSMOS+CANDELS: While we see a slight increase in AGN fraction with decreasing projected separation, overall, we find no significant enhancement relative to the control sample at any separation.
 
 - [Scaling relations and baryonic cycling in local star-forming galaxies: II. Gas content and star-formation efficiency](https://arxiv.org/abs/2010.02919)
+    - A sample of 392 galaxies (dubbed MAGMA, Metallicity and Gas for Mass Assembly)
+    - We find the metallicity (Z) dependence of alpha_CO to be shallower than previous estimates
+    - Molecular gas mass MH2 is found to be strongly correlated with Mstar and star-formation rate (SFR), enabling predictions of MH2 good to within ∼0.2 dex.
+    - If Mgas is considered to depend on MHI, together with Mstar and SFR, we obtain a relation that predicts Mgas to within ∼0.05 dex.
+    - Dwarf galaxies tend to be overwhelmed by (HI) accretion, while for galaxies in the intermediate Mstar "gas-equilibrium" bin, star formation proceeds apace with gas availability. In the most massive "gas-poor, bimodality" galaxies, HI does not apparently participate in star formation, although it generally dominates in mass over H2
 
 ----
 
 ### Oct 7
 
 - [Learning effective physical laws for generating cosmological hydrodynamics with Lagrangian Deep Learning](https://arxiv.org/abs/2010.02926)
+    - 针对生成模拟方法在高维度空间的不足：we propose Lagrangian Deep Learning (LDL) for this purpose, applying it to learn outputs of cosmological hydrodynamical simulations -- The model uses layers of Lagrangian displacements of particles describing the observables to learn the effective physical laws.
+    - The displacements are modeled as the gradient of an effective potential, which explicitly satisfies the translational and rotational invariance.
+    - The computational cost of LDL is nearly four orders of magnitude lower than the full hydrodynamical simulations, yet it outperforms it at the same resolution.
 
 - [A Self-Calibrating Halo-Based Group Finder: Application to SDSS](https://arxiv.org/abs/2010.02946)
+    - **Useful, Important** https://www.galaxygroupfinder.net/catalogs
+    - This algorithm introduces new freedom to assign halos to galaxies that is self-calibrated by comparing the catalog to complementary data. These include galaxy clustering data and measurements of the total satellite luminosity from deep imaging data.
+    - The transition halo mass scale, where half of halos contain quiescent central galaxies, is at M_h~10^12.4 Msol/h, significantly higher than other constraints.
+    - Quiescent central galaxies in low-mass halos are significantly more massive than star-forming centrals at the same halo mass, but this difference reverses above the transition halo mass.
+    - We find that the scatter in logM* at fixed M_h is ~0.2 dex for massive halos, in agreement with previous estimates, but rises sharply at lower halo masses.
 
 - [The eROSITA X-ray telescope on SRG](https://arxiv.org/abs/2010.03477)
+    - **Important**
+    - By the end of 2023, eight complete scans of the celestial sphere will have been performed, each lasting six months
+    - eROSITA all-sky survey in the soft X-ray band (0.2--2.3,keV) will be about 25 times more sensitive than the ROSAT All-Sky Survey, while in the hard band (2.3--8,keV) it will provide the first ever true imaging survey of the sky.
 
 - [The Lyman Alpha Spectral Database (LASD)](https://arxiv.org/abs/2010.02927)
+    - **Useful** 适合学习peak detection算法和复杂光谱的测量; https://gist.github.com/sixtenbe/1178136
+    - We have compiled a large sample of Lyα spectra, at both low and high redshift, and created a publicly available online database, at: http://lasd.lyman-alpha.com/
+    - 不仅包括光谱，还有大量谱线和运动学测量
 
 - [Stellar splashback: the edge of the intracluster light](https://arxiv.org/abs/2010.02937)
+    - **Relevant, Important, Interesting**
+    - C-EAGLE模拟：the stellar distribution (or intracluster light, ICL) also has a well-defined edge, which is directly related to the splashback radius of the halo.
+    - We show that these caustics can also be seen in the projected density profiles, but care must be taken to account for the influence of substructures and other non-diffuse material, which can bias and/or weaken the signal of the steepest slope.
+    - We show that the "stellar splashback" feature is located beyond current observational constraints on the ICL, but these large projected distances (>>1 Mpc) and low surface brightnesses (mu >> 32 mag/arcsec^2)
 
-- [How well can we determine ages and chemical abundances from spectral fitting of integrated light spectra?](https://arxiv.orgabs/2010.02940)/
+- [How well can we determine ages and chemical abundances from spectral fitting of integrated light spectra?](https://arxiv.org/abs/2010.02940)/
+    - **Useful**
+    - WAGGS + Schiavon et al. (2005) GGCLib
+    - Starlight拟合GC：
+        - (1) The inferred parameters change with the wavelength range used;
+        - (2) The method in general retrieves good reddening estimates, specially when a wider wavelength range is fitted;
+        - (3) The ideal spectral regions for determination of age, [Fe/H], and [alpha/Fe] are: 4170-5540A, 5280-7020A, and 4828-5364A, respectively;
+        - (4) The retrieved age values for old metal-poor objects can be several Gyr younger than those resulting from isochrone fitting.
 
 - [Morphological and Rotation Structures of Circumgalactic Mg II Gas in the EAGLE Simulation and the Dependence on Galaxy Properties](https://arxiv.org/abs/2010.02944)
+    - MgII指示的是logT~4的冷CGM气体；低红移气体的CGM中的MgII冷气体中可能有很高的角动量
+    - 用EAGLE模拟进行研究：Mg II gas has an axisymmetric instead of a spherical distribution, and the axis of symmetry aligns with that of the Mg II gas rotation. 在Quiescent星系周围旋转则不多见
+    - 实际观测中用视向速度cut可能会包含virial radii以外的气体：While the corotating Mg II gas generally extends beyond 0.5rvir, the Mg II gas outside of the virial radius contaminates the corotation signal and makes observers less likely to conclude that gas at large impact parameters (e.g., ≳0.25rvir) is corotating.
 
 - [The AGN-galaxy-halo connection: The distribution of AGN host halo masses to z=2.5](https://arxiv.org/abs/2010.02957)
+    - 传统的用AGN clustering估算其halo质量的方法可能受到AGN fraction随恒星质量变化等选择效应影响，而且从clustering的推断方法可能产生bias
+    - We use AGN specific accretion rate distribution functions determined as a function of stellar mass and redshift for star-forming and quiescent galaxies separately, combined with the latest galaxy-halo connection models, to determine the parent and sub-halo mass distribution function of AGN
+    - 平均质量 2x10^12 Msun; 随AGN吸积率，光度，红移的变化不大
+    - While the AGN satellite fraction rises with increasing parent halo mass, we find that the central galaxy is often not an AGN.
+    - We further show that AGN clustering is most easily interpreted and understood in terms of the relative bias to galaxy samples, not from absolute bias measurements alone.
 
 - [Mysterious Globular Cluster System of the Peculiar Massive Galaxy M85](https://arxiv.org/abs/2010.03041)
+    - **Relevant**
+    - 89 GCs at 8 kpc <R< 160 kpc using the MMT/Hectospec: 按颜色分成red, green, blue，都很年老，但金属丰度不同
+    - Red GCs有很明显的旋转：We find that the inner GC system exhibits a strong overall rotation that is entirely due to a disk-like rotation of the RGC system. Blue GC基本无旋转，不同population的运动学差异很大，可能是最近并合的结果
+    - The GGCs show kinematic properties clearly distinct among the GC subpopulations, having higher mean velocities than the BGCs and RGCs and being aligned along the major axis of M85.
 
 - [Unravelling the enigmatic ISM conditions in Minkowski's Object](https://arxiv.org/abs/2010.03139)
+    - NGC541的jet路径上的dwarf星系：Minkowski's Object primarily consists of a young stellar population ∼10 Myr old, confirming that the bulk of the object's stellar mass formed during a recent jet interaction.
+    - 发射线基本可以用SF解释；气体金属丰度变化范围很大：Strong-line diagnostics reveal a significant variation in the gas-phase metallicity within the object, with log(O/H)+12 varying by ∼0.5 dex
+    - We hypothesise that Minkowski's Object either (a) was formed as a result of jet-induced star formation in pre-existing gas clumps in the stellar bridge, or (b) is a gas-rich dwarf galaxy that is experiencing an elevation in its star formation rate due to a jet interaction 能形成类似UDG的星系吗？
 
 ----
 
@@ -422,8 +482,8 @@
     - 28,469 massive (M⋆≥10^11M⊙) galaxies at redshifts 1.5< z<3.0, drawn from a 17.5 deg2 area
     - 通过三种方法估计Quiescent fraction：
         - 在1.5 < z < 2.0: 三个方法结果一致；quiescent fraction随恒星质量增加
-        - 在2.0 < z < 3.0: 不同方法结果出现差别；UVJ给出的最高，sSFR给出的最低 
-        - 在z~2: the universe has quenched ∼25% of M⋆=10^11M⊙ galaxies and ∼45% of M⋆=10^12M⊙ galaxies 
+        - 在2.0 < z < 3.0: 不同方法结果出现差别；UVJ给出的最高，sSFR给出的最低
+        - 在z~2: the universe has quenched ∼25% of M⋆=10^11M⊙ galaxies and ∼45% of M⋆=10^12M⊙ galaxies
     - 和模拟比较：The quiescent fraction from IllustrisTNG is higher than our empirical result by a factor of 2−5, while those from SIMBA and the three SAMs are lower by a factor of 1.5−10 at 1.5< z< 3.0.
 
 - [The environmental dependence of X-ray AGN activity at z∼0.4](https://arxiv.org/abs/2010.04832)
@@ -447,7 +507,7 @@
     - Satellites that get accreted at earlier epochs or galaxies in more massive clusters go through more tidal stripping. These effects in combination result in a correlation between the host halo mass and the degree of stellar mass segregation.
 
 - [On the origin of X-ray oxygen emission-lines in obscured AGN](https://arxiv.org/abs/2010.05412)
-    - 基于XMM archive的：Catalog of High REsolution Spectra of Obscured Sources (CHRESOS) 
+    - 基于XMM archive的：Catalog of High REsolution Spectra of Obscured Sources (CHRESOS)
     - We concentrate on the soft X-ray OVII(f) and OVIII Ly_alpha emission；看和AGN以及SF的关系
     - 和其他线，以及模型比较：[OIII]5007A, [OIV]25.89mic emission lines, and MIR-12mic, FIR-60mic, FIR-100mic, 2-10 keV and 14-195 keV continuum bands, we conclude that the AGN radiation field is mainly responsible of the soft X-ray oxygen excitation.
 
