@@ -542,3 +542,93 @@
     - UKIRT WFCam: Infrared Medium-deep Survey (IMS), a near-infrared imaging survey covering an area of 85 deg2
     - 统计z~5的较暗的QSO；这些QSO可能对再电离之后的电离背景比较重要
     - We find that the faint-end slope of the QLF is very flat：imply that quasars are responsible for only 10-20% (up to 50% even in the extreme case) of the photons required to completely ionize the IGM at z∼5, disfavoring the idea that quasars alone could have ionized the IGM at z∼5.
+
+----
+
+### Oct 13
+
+- [The LSST DESC DC2 Simulated Sky Survey](https://arxiv.org/abs/2010.05926)
+    - **Useful, Important, CSST**
+    - This effort encompasses a full end-to-end approach: starting from a large N-body simulation, through setting up LSST-like observations including realistic cadences, through image simulations, and finally processing with Rubin's LSST Science Pipelines.
+    - The simulated DC2 sky survey covers six optical bands in a wide-fast-deep (WFD) area of approximately 300 deg^2 as well as a deep drilling field (DDF) of approximately 1 deg^2.
+
+- [Active learning with RESSPECT: Resource allocation for extragalactic astronomical transients](https://arxiv.org/abs/2010.05941)
+    - **SSST**
+    - The Recommendation System for Spectroscopic follow-up (RESSPECT) project aims to enable the construction of optimized training samples for the Rubin Observatory Legacy Survey of Space and Time (LSST)
+    - Our experiment takes into account the evolution of training and pool samples, different costs per object, and two different sources of budget. 比random sampling效率要高
+
+- [Star-Galaxy Separation via Gaussian Processes with Model Reduction](https://arxiv.org/abs/2010.06094)
+    - **Useful**
+    - We present a novel approach to the star-galaxy separation problem that uses GPs and reap their benefits while solving many of the issues traditionally affecting them for classification of high-dimensional celestial image data.
+    - We greatly improve the accuracy of the classification over a basic application of GPs while improving the computational efficiency and scalability of the method.
+
+- [Imprint of baryons and massive neutrinos on velocity statistics](https://arxiv.org/abs/2010.05911)
+    - 在TNG, EAGLE, OWLS里看重子物理过程对moments of pairwise velocity的影响
+    - 假设 “mean pairwise velocity of the gas component follows that of the dark matter” 在10-20Mpc的尺度上是有bias的
+    - Large scale velocity bias is mainly driven by stellar rather than AGN feedback; 如果不考虑，会影响kSZ效应的宇宙学限制
+    - we examine how the first and the second moment of the pairwise velocity are affected by both the baryonic and the neutrino free-streaming effects for both the matter and gas components. 能够区分出来
+
+- [DES Y1 results: Splitting growth and geometry to test ΛCDM](https://arxiv.org/abs/2010.05924)
+    - To constrain a cosmological model where a subset of parameters -- focusing on Ωm -- are split into versions associated with structure growth (e.g. Ωgrowm) and expansion history (e.g. Ωgeom).
+    - 用DES Year 1 (Y1) galaxy clustering and weak lensing来检验Lambda-CDM：We find no significant disagreement with Ωgrowm=Ωgeom.
+
+- [Two Candidate High-Redshift X-ray Jets Without Coincident Radio Jets](https://arxiv.org/abs/2010.06535)
+    - 两个高红移的radio QSO的延展X-ray探测：The extended X-ray emission is located along the line connecting the core to a radio knot or hotspot, favoring the interpretation of X-ray jets.
+    - In the scenario of inverse Compton scattering of the cosmic microwave background (CMB), X-ray jets without a coincident radio counterpart may be common, and should be readily detectable to redshifts even beyond 3.2 due to the (1+z)4 increase of the CMB energy density compensating for the (1+z)−4 cosmological diminution of surface brightness.
+
+- [Weighing Milky Way Satellites with LISA](https://arxiv.org/abs/2010.05918)
+    - 利用LISA探测的双白矮星产生的引力波信号：Numerous and widespread DWDs have the potential to probe shapes, masses and formation histories of the stellar populations in the Galactic neighbourhood
+    - Using a fiducial binary population synthesis model we find that for large satellites the stellar masses can be recovered to within 1) a factor two if the star formation history is known and 2) an order of magnitude when marginalising over different star formation history models.
+
+- [Dust evolution in zoom-in cosmological simulations of galaxy formation](https://arxiv.org/abs/2010.05919)
+    - 盘星系形成模拟中的尘埃演化：We couple an improved version of our previous treatment of dust evolution, which adopts the two-size approximation to estimate the grain size distribution, with the MUPPI star formation and feedback sub-resolution model.
+    - Metal depletion and dust cooling affect the evolution of the system, causing substantial variations in its stellar, gas and dust content.
+
+- [LoCuSS: The splashback radius of massive galaxy clusters and its dependence on cluster merger history](https://arxiv.org/abs/2010.05920)
+    - **Relevant**
+    - 用cluster member的stacked luminosity density profile探测到了SP特征
+    - 看SP特征与星系团形成历史的相关：the most significant dependence of the splashback feature location and scale according to the presence or absence of X-ray emitting galaxy groups in the cluster infall regions.
+    - Cluster that do not show massive infalling groups present the splashback feature at a smaller clustercentric radius rsp/r200,m=1.158±0.071 than clusters that are actively accreting groups rsp/r200,m=1.291±0.062, suggesting a correlation between the properties of the cluster potential and its accretion rate and merger history.
+    - Clusters that are classified as old and dynamically inactive present stronger signatures of the splashback feature, with respect to younger, more active clusters.
+
+- [Associations of dwarf galaxies in a ΛCDM Universe](https://arxiv.org/abs/2010.05922)
+    - 在SMDP中看只有dwarf的星系系统，by applying the semi-analytic model of galaxy formation SAG
+    - We analyse three different samples defined by log10(Mmax[M⊙h−1])=8.5,9.0 and 9.5. On average, our systems have typical sizes of ∼0.2Mpch−1, velocity dispersion of ∼30kms−1 and estimated total mass of ∼10^11M⊙h−1
+    - Such large typical sizes suggest that individual members of a given dwarf association reside in different dark matter haloes and are generally not substructures of any other halo. 不是一个结构
+    - Λ CDM model can naturally reproduce the existence and properties of dwarf galaxies associations without much difficulty.
+
+- [Constraining the formation of NGC1052-DF2 from its unusual globular cluster population](https://arxiv.org/abs/2010.05930)
+    - We apply a theoretical model that predicts the initial cluster mass function as a function of the galactic environment to investigate the origin of DF2's peculiar GC system
+    - We predict that the GCs formed in an environment with very high gas surface density, 和现在的diffuse形态对比强烈
+    - we propose that the GCs plausibly formed during a major merger at z∼1.3. The merger remnant must have undergone significant expansion of its stellar (and perhaps also its dark matter) component to reach its low present surface brightness
+
+- [Spectroscopic classification of a complete sample of astrometrically-selected quasar candidates using Gaia DR2](https://arxiv.org/abs/2010.05934)
+    - **Relevant**
+    - We have built a complete candidate sample including 104 Gaia-DR2 point sources brighter than G<20 mag within one degree of the north Galactic pole (NGP), all with proper motions consistent with zero within 2σ uncertainty.
+    - 其中大概60%是真的QSO：The selection efficiency of the zero-proper-motion criterion at high Galactic latitudes is thus ≈60%.
+    - We find that the surface density of quasars is 20 deg−2, the redshift distribution peaks at z∼1.5, and that only eight systems (13+5−3%) show significant dust reddening.
+    - Finally, we discuss how the astrometric selection can be improved to an efficiency of ≈70% by including an additional cut requiring parallaxes of the candidates to be consistent with zero within 2σ. 
+
+- [The parsec-scale HI outflows in powerful radio galaxies](https://arxiv.org/abs/2010.05996)
+    - 射电星系中的HI吸收可能反应了AGN反馈的外流，也可能是喷流和ISM的相互作用
+    - VLBI+VLA+WSRT观测：we find evidence for a clumpy structure of both the outflowing and the quiescent gas, consistent with predictions from numerical simulations.
+    - The outflows include at least a component of relatively compact clouds (10^4-10^5Msun) often observed already at a few tens of pc (in projection) from the core
+
+- [The End of Galaxy Surveys](https://arxiv.org/abs/2010.06064)
+    - **Interesting**
+    - Using an exposure time calculator, we define nominal surveys for extracting the useful information for three science cases: dark energy cosmology, galaxy evolution, and supernovae.
+    - For optimistic assumptions, a 280m telescope with a marginally resolved focal plane of 20 deg2 operating at L2 could potentially exhaust the cosmological information content of galaxies in a 10 year survey.
+    - We present scaling relations that show how we can progress toward the goal of exhausting the information content encoded in the shapes, positions, and colors of galaxies.
+
+- [A catalog of broad morphology of Pan-STARRS galaxies based on deep learning](https://arxiv.org/abs/2010.06073)
+    - We describe the design and implementation of a data analysis process for automatic broad morphology annotation of galaxie
+    - Our analysis shows that a CNN combined with several filters is an effective approach for annotating the galaxies and removing unclean images
+
+- [Effects of spin on constraining the seeds and growth of ≳10^9M⊙ supermassive black holes in z>6.5 Quasars](https://arxiv.org/abs/2010.06128)
+    - We use the observations of 14 Quasars at z>6.5 with mass estimates to constrain their seeds and early growth, by self-consistently considering the spin evolution and the possibility of super-Eddington accretion.
+    - If the accretion is coherent with single (or a small number of) episode(s), leading to high spins for the majority of accretion time, then the SMBH growth is relatively slow; and if the accretion is chaotic with many episodes and in each episode the total accreted mass is much less than the SMBH mass, leading to moderate/low spins, then the growth is relatively fast.
+
+- [Double-peaked Lyman-α emission at z=6.803: a reionisation-era galaxy self-ionising its local HII bubble](https://arxiv.org/abs/2010.06241)
+    - 红蓝峰的速度差距：suggests an extremely high escape fraction of ionising photons >59(51)%(2σ).
+    - 非常年轻的星族，50Myr，有显著的[OIII]+Hbeta线；自身的电离辐射就可以产生一个可以解释蓝峰的电离泡
+    - 可能在高红移有一定代表性
