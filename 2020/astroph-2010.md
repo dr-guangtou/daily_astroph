@@ -607,7 +607,7 @@
     - We have built a complete candidate sample including 104 Gaia-DR2 point sources brighter than G<20 mag within one degree of the north Galactic pole (NGP), all with proper motions consistent with zero within 2σ uncertainty.
     - 其中大概60%是真的QSO：The selection efficiency of the zero-proper-motion criterion at high Galactic latitudes is thus ≈60%.
     - We find that the surface density of quasars is 20 deg−2, the redshift distribution peaks at z∼1.5, and that only eight systems (13+5−3%) show significant dust reddening.
-    - Finally, we discuss how the astrometric selection can be improved to an efficiency of ≈70% by including an additional cut requiring parallaxes of the candidates to be consistent with zero within 2σ. 
+    - Finally, we discuss how the astrometric selection can be improved to an efficiency of ≈70% by including an additional cut requiring parallaxes of the candidates to be consistent with zero within 2σ.
 
 - [The parsec-scale HI outflows in powerful radio galaxies](https://arxiv.org/abs/2010.05996)
     - 射电星系中的HI吸收可能反应了AGN反馈的外流，也可能是喷流和ISM的相互作用
@@ -632,3 +632,54 @@
     - 红蓝峰的速度差距：suggests an extremely high escape fraction of ionising photons >59(51)%(2σ).
     - 非常年轻的星族，50Myr，有显著的[OIII]+Hbeta线；自身的电离辐射就可以产生一个可以解释蓝峰的电离泡
     - 可能在高红移有一定代表性
+
+----
+
+### Oct 14
+
+- [AI-assisted super-resolution cosmological simulations](https://arxiv.org/abs/2010.06608)
+    - 借鉴机器学习技术：Neural networks have been developed to learn from high-resolution (HR) image data, and then make accurate super-resolution (SR) versions of different low-resolution (LR) images
+    - We are able to enhance the simulation resolution by generating 512 times more particles and predicting their displacements from the initial positions.
+    - Furthermore, the generation process is stochastic, enabling us to sample the small-scale modes conditioning on the large-scale environment.
+
+- [Targeted Likelihood-Free Inference of Dark Matter Substructure in Strongly-Lensed Galaxies](https://arxiv.org/abs/2010.07032)
+    - We present here a new analysis pipeline that tackles these diverse challenges by bringing together many recent machine learning developments in one coherent approach, including variational inference, Gaussian processes, differentiable probabilistic programming, and neural likelihood-to-evidence ratio estimation
+    - 可以实现：(a) fast reconstruction of the source image and lens mass distribution, (b) variational estimation of uncertainties, (c) efficient optimization of source regularization and other hyperparameters, and (d) marginalization over stochastic model components like the distribution of substructure.
+
+- [Globular clusters as tracers of the dark matter content of dwarfs in galaxy clusters](https://arxiv.org/abs/2010.06590)
+    - Dwarf中的GC未必满足球对称和动力学平衡的假设
+    - 在Illustris模拟中找到9个星系团，进行particle tagging研究：Our results indicate that mass estimates are, on average, quite accurate in systems with GC numbers NGC≥10 and where the uncertainty of individual GC line-of-sight velocities is smaller than the inferred velocity dispersion, σGC. 但如果GC数量<10，bias就会比较常见
+    - 也找到了一下 NGC1052-DF2 analogs: These DF2 analogs correspond to relatively massive systems at their infall time which have retained only 3-17 GCs and have been stripped of more than 95% of their dark matter.
+
+- [Tracing the evolution of dust-obscured activity using sub-millimetre galaxy populations from STUDIES and AS2UDS](https://arxiv.org/abs/2010.06605)
+    - STUDIES 450-μm SMG样本和AS2UDS 850-micron挑选的SMG的比较
+    - The fainter 450-μm sample has ∼14 times higher space density than the brighter 850-μm sample at z ≲2, and a comparable space density at z = 2-3, before rapidly declining, suggesting LIRGs are the main obscured population at z ∼ 1-2, while ULIRGs dominate at higher redshifts
+    - Using far-infrared luminosity, dust masses and an optically-thick dust model, we suggest that higher-redshift sources have higher dust densities due to inferred dust continuum sizes which are roughly half of those for the lower-redshift population at a given dust mass, leading to higher dust attenuation.
+
+- [HI 21-centimetre emission from an ensemble of galaxies at an average redshift of one](https://arxiv.org/abs/2010.06617)
+    - uGMRT观测：z=0.74-1.45 DEEP2 feild的观测; 叠加了7,653 blue, star-forming galaxies
+    - We report a measurement of the average HI mass of star-forming galaxies at a redshift z≈1, by stacking their individual HI 21 cm emission signals. We obtain an average HI mass similar to the average stellar mass of the sample.
+    - We also estimate the average star-formation rate of the same galaxies from the 1.4 GHz radio continuum, and find that the HI mass can fuel the observed star-formation rates for only ≈1−2 billion years in the absence of fresh gas infall.
+    - Gas accretion onto galaxies at z<1 may have been insufficient to sustain high star-formation rates in star-forming galaxies. This is likely to be the cause of the decline in the cosmic star-formation rate density at redshifts below 1.
+
+- [A Fully General, Non-Perturbative Treatment of Impulsive Heating](https://arxiv.org/abs/2010.06632)
+    - **Interesting**
+    - Impulsive encounters between astrophysical objects are usually treated using the distant tide approximation (DTA) for which the impact parameter, b, is assumed to be significantly larger than the characteristic radii of the subject, rS, and the perturber, rP. The perturber potential is then expanded as a multipole series and truncated at the quadrupole term.
+    - 但当b很小，和subject的尺度差不多时，这个方法会高估交汇引起的速度变化, impulse.
+    - This paper presents a fully general, non-perturbative treatment of impulsive encounters which is valid for any impact parameter
+
+- [A correlation between the dark content of elliptical galaxies and their ellipticity](https://arxiv.org/abs/2010.06692)
+    - **Relevant**
+    - 14年一篇文章的详细内容；关于椭圆星系椭率和暗物质晕质量的关系
+    - Such a correlation is either spurious --in which case it signals an ubiquitous systematic bias in elliptical galaxy observations or their analysis-- or genuine --in which case it implies in particular that at equal luminosity, flattened medium-size elliptical galaxies are on average five times heavier than rounder ones, and that the non-baryonic matter content of medium-size round galaxies is small
+
+- [Clustering of red and blue galaxies around high-redshift 3C radio sources as seen by the Hubble Space Telescope](https://arxiv.org/abs/2010.06752)
+    - Galaxy surface density maps reveal the clustering of red and blue galaxies around 3C radio galaxies and quasars at 1< z<2.5.
+    - At z<1.5, the overdensity is dominated by red galaxies, while blue galaxies are more frequent in the periphery. With a few exceptions, the fainter galaxies contributing to the overdensity are bluer than the brighter galaxies
+    - This and the brightness and color segregation of candidate cluster member galaxies leads us to conclude that at 1 < z < 1.5 the 3C sources are not just becoming galaxy groups. Rather we suggest that the foundation of a galaxy cluster with luminous red galaxies has largely been set, and the formation of the red sequence is still going on from a reservoir of blue galaxies in the periphery.
+    - At z>1.5, overdensities are less frequent and progressively composed of blue galaxies.
+
+- [The X-SHOOTER/ALMA sample of Quasars in the Epoch of Reionization. I. NIR spectral modeling, iron enrichment and broad emission line properties](https://arxiv.org/abs/2010.06902)
+    - 有ALMA CII观测的38 luminous (M1450=−29.0 to −24.4) quasars at 5.78< z<7.54
+    - The measured FeII/MgII flux ratio suggests that the broad line regions of all quasars in the sample are already enriched in iron. 和CII线比，MgII线有蓝移的证据
+    - While we find all other broad emission line properties not to be evolving with redshift, the median CIV-MgII blueshift is much larger than found in low-redshift, luminosity-matched quasars
