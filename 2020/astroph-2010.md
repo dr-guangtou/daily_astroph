@@ -683,3 +683,98 @@
     - 有ALMA CII观测的38 luminous (M1450=−29.0 to −24.4) quasars at 5.78< z<7.54
     - The measured FeII/MgII flux ratio suggests that the broad line regions of all quasars in the sample are already enriched in iron. 和CII线比，MgII线有蓝移的证据
     - While we find all other broad emission line properties not to be evolving with redshift, the median CIV-MgII blueshift is much larger than found in low-redshift, luminosity-matched quasars
+
+----
+
+### Oct 15
+
+- [Mixture Models for Photometric Redshifts](https://arxiv.org/abs/2010.07319)
+    - **Useful**
+    - We aim at estimates of the full photo-z probability distributions, and their uncertainties. We perform a probabilistic photo-z determination using Mixture Density Networks (MDN).
+    - 基于SDSS-WISE观测：We use Infinite Gaussian Mixture models to classify the objects in our data-set as stars, galaxies or quasars, and to determine the number of MDN components to achieve optimal performance.
+    -  Infinite Gaussian Mixture Models:
+        - The IGMM is the GMM case with an undefined number of components, which will be optimised by the model itself, depending on the photometric data-set used
+        - The IGMM describes a mixture of Gaussian distributions on the data population with an infinite (countable) number of components, using a Dirichlet process
+    - Mixture Density Network
+        - MDNs are a form of ANNs, which are capable of arbitrarily accurate approximation to a function and its derivatives based on the Universal Approximation Theorem
+
+- [Probing dark energy with tomographic weak-lensing aperture mass statistics](https://arxiv.org/abs/2010.07376)
+    - We forecast and optimize the cosmological power of various weak-lensing aperture mass (Map) map statistics for future cosmic shear surveys, including peaks, voids, and the full distribution of pixels 主要优点是可以探测质量分布的non-Gaussian区域
+    - We develop a new tomographic formalism which exploits the cross-information between redshift slices (cross-Map) in addition to the information from individual slices (auto-Map) probed in the standard approach.
+    - This demonstrates that the complementary cosmological information explored by non-Gaussian Map map statistics not only offers the potential to improve the constraints on the recent σ8 - Ωm tension, but also constitutes an avenue to understand the accelerated expansion of our Universe.
+
+- [Removing the giants and learning from the crowd: a new SZ power spectrum method and revised Compton y-map analysis](https://arxiv.org/abs/2010.07797)
+    - We devise a new method for analysing the y-map by introducing the survey completeness function, conventionally only used in the CNC analysis, in the yy-PS modeling 做两个分析，一个是包含了单独探测到的clusters的，一个是排除的
+    - We carefully propagate the effect of completeness cuts on the non-Gaussian error contributions in the yy-PS analysis, highlighting the benefits of masking massive clusters.
+    - Our analysis of the Planck yy-PS for the unresolved component yields a mass bias of b=0.15±0.04, consistent with the standard value (b≈0.2), in comparison to b=0.4±0.05 for the total yy-PS.
+    - We find indications for this drift being driven by the CIB-tSZ cross correlation, which dominantly originates from clusters in the resolved component of the y-map.
+
+- [The Effect of Impact Parameter on Tidal Disruption Events](https://arxiv.org/abs/2010.07318)
+    - TDE数值模拟，用的代码叫MANGA: 改变碰撞参数beta，看fallback rate和peak光度如何变化
+    - We show that the spread of energy in the debris and peak luminosity time (tpeak) are both directly related to the impact parameter. In particular, we find a β1/2 scaling for the energy spread for β=2−10 and a frozen evolution for β≳10
+
+- [Constraints on the [CII] luminosity of a proto-globular cluster at z~6 obtained with ALMA](https://arxiv.org/abs/2010.07302)
+    - 被星系团放大的一个z=6.16的球状星团前身：identify a 4-sigma tentative detection of [CII] emission with intrinsic luminosity L_CII=(2.9 +/- 1.4) 10^6 L_sun, one of the lowest values ever detected at high redshift
+    - Our weak detection indicates a deficiency of [CII] emission, possibly ascribed to various explanations, such as a low-density gas and/or a strong radiation field caused by intense stellar feedback, and a low metal content.
+
+- [The Launching of Cold Clouds by Galaxy Outflows. IV. Cosmic-Ray-Driven Acceleration](https://arxiv.org/abs/2010.07308)
+    - 2-D数值模拟：cosmic-ray (CR) driven, radiatively-cooled cold clouds embedded in hot material, as found in galactic outflows
+    - Thus the CR ray pressure in the bottleneck region has sufficient time to accelerate the cold clouds efficiently. Furthermore, radiative cooling has relatively little impact on these interactions.
+
+- [IllustrisTNG and S2COSMOS: possible conflicts in the evolution of neutral gas and dust](https://arxiv.org/abs/2010.07309)
+    - 强行让模拟和观测在z=0符合，看尘埃的演化：We find a lack of evolution in the DMFs derived from the simulations, in conflict with the rapid evolution seen in empirically derived estimates of the low redshift DMF
+    - 观测上尘埃质量和恒星质量的比例也有很强的演化，但是TNG中的演化很少；可能和TNG中中性气体成分的演化也不够有关
+
+- [The Dragonfly Wide Field Survey. II. Accurate Total Luminosities and Colors of Nearby Massive Galaxies and Implications for the Galaxy Stellar Mass Function](https://arxiv.org/abs/2010.07310)
+    - **Relevant, Useful**
+    - We construct a sample of 1188 massive galaxies with logM∗/M⊙>10.75 based on the Galaxy Mass and Assembly (GAMA) survey and measure their total luminosities and g−r colors.
+    - We find that galaxies are brighter in the r band by an average of ∼0.05 mag and bluer in g−r colors by ∼0.06 mag compared to the GAMA measurements. 对恒星质量估计的影响不同
+    - The total luminosities are larger by 5% but the mass-to-light ratios are lower by ∼10%.
+
+- [LYRA I: Simulating the multi-phase ISM of a dwarf galaxy with variable energy supernovae from individual stars](https://arxiv.org/abs/2010.07311)
+    - 基于AREPO的模型：It forms individual stars sampled from the initial mass function (IMF), and tracks their lifetimes and death pathways individually. Single supernova (SN) blast waves with variable energy are followed within the hydrodynamic calculation to interact with the surrounding interstellar medium (ISM)
+    - 模拟一个孤立的10^10 Msun的暗物质晕：We demonstrate that the majority of supernovae are Sedov-resolved at our fiducial gas mass resolution of 4M⊙. 能产生外流
+    - Clustered SN play a major role in enhancing the effectiveness of feedback, because the majority of explosions occur in low density material.
+    - Accounting for variable SN energy affects the metallicity distribution function by altering the efficiency of metal mixing. Additionally, it alters the outflow behaviour, reducing the mass loading by a factor of 2-3 with respect to fixed energy models, thus allowing the galaxy to retain a higher fraction of mass and metals.
+
+- [Stellar Velocity Dispersion and Dynamical Mass of the Ultra-Diffuse Galaxy NGC 5846_UDG1 from the Keck Cosmic Web Imager](https://arxiv.org/abs/2010.07313)
+    - **Relevant**
+    - VEGAS中找到的一个有很多球状星团的UDG：KCWI给出GC速度弥散度分布：σGC  = 17 ± 2 km/s.
+    - 较高的速度弥散度意味着比较高的DM贡献；We find no evidence that the galaxy is rotating and is thus likely pressure-supported.
+    - A cored mass profile is favoured when compared to our dynamical mass. 暗物质晕质量在2x10^11 Msun, overly massive halo
+
+- [A Complex Luminosity Function for the Anomalous Globular Clusters in NGC1052-DF2 and NGC1052-DF4](https://arxiv.org/abs/2010.07324)
+    - **Relevant**
+    - 新的Keck和HST观测：The new analysis shows that the peak of the combined GC luminosity function remains at MV≈−9 mag. In addition, we find a subpopulation of less luminous GCs at MV≈−7.5 mag, where the near-universal GCLF peak is located.
+    - The updated total number of GCs in both galaxies is 37+11.08−6.54. The number of GCs do not scale with the halo mass in either DF2 or DF4, suggesting that NGC is not directly determined by the merging of halos.
+
+- [An extremely metal-deficient globular cluster in the Andromeda Galaxy](https://arxiv.org/abs/2010.07395)
+    - **Interesting**
+    - We report a massive GC in the Andromeda Galaxy (M31) that is extremely depleted in heavy elements. Its iron abundance is about 800 times lower than that of the Sun, and about three times lower than in the most iron-poor GCs previously known. It is also strongly depleted in magnesium.
+
+- [SUPER III. Broad Line Region properties of AGN at z∼2](https://arxiv.org/abs/2010.07443)
+    - SINFONI巡天：a blind search for AGN-driven outflows on X-ray selected AGN at redshift z∼2 with high (∼2 kpc) spatial resolution
+    - We estimate BH masses in the range Log(MBH/M⊙)=8.4-10.8 and Eddington ratios λEdd =0.04-1.3. We confirm that the CIV line width does not correlate with the Balmer lines and the peak of the line profile is blue-shifted with respect to the [OIII]-based systemic redshift. CIV更多指示的是BLR中的外流
+    - We confirm the strong dependence of the BLR wind velocity with the UV-to-Xray continuum slope, LBol and λEdd. 质量外流率在0.005-3 Msun/yr
+    - We found an anti-correlation between the equivalent width of the [OIII] line with respect to the CIV shift, and a positive correlation with [OIII] outflow velocity.
+
+- [On the broad line region configuration of the supermassive binary black hole candidate PG1302-102 in the relativistic Doppler boosting scenario](https://arxiv.org/abs/2010.07512)
+    - We investigate several broad emission lines of PG1302-102 using archived UV spectra obtained by IUE, GALEX, and Hubble, to reveal the broad line emission region (BLR) properties of this BBH system under the Doppler boosting scenario.
+    - We find that the broad lines Lyα, NV, CIV, and CIII] all show Gaussian-like profiles, and none of these lines exhibits obvious periodical variation.
+    - If the Doppler boosting interpretation is correct, then the BLR is misaligned with the BBH orbital plane by an angle ∼51∘, which suggests that the Doppler boosted continuum variation has little effect on the broad line emission and thus does not lead to periodical line variation.
+
+- [Broad-band selection, spectroscopic identification, and physical properties of a population of extreme emission line galaxies at 3<z<3.7](https://arxiv.org/abs/2010.07545)
+    - Extreme emission line galaxies (EELGs) at 3< z <3.7
+    - 19个有极强[OIII]发射线，2个有极强Halpha发射线的EELG：show, on average, higher specific star formation rates (sSFR) than the star-forming main sequence, low dust attenuation of E(B−V)≲0.1 mag, and high [OIII]/[OII] ratios of ≳3. 有很高的电离效率
+    - 很可能是LyC leaker：they are low metallicity galaxies with higher ionization parameters and harder UV spectra than normal SFGs
+
+- [Link between radio-loud AGNs and host-galaxy shape](https://arxiv.org/abs/2010.07622)
+    - **Relevant**
+    - LoTSS DR1 + SDSS分析15000个宁静星系中RLAGN对星系形态的影响
+    - 在固定恒星质量，速度弥散度等性质上，RLAGN比例和星系的椭率没有关系；在非常高的150MHz光度上。RLAGNs are more likely to be found in massive, round galaxies
+    - We argue that our results support the picture that high-power RLAGNs are more easily triggered in galaxies with a merger-rich history, while low-power RLAGNs can be triggered in galaxies growing mainly via secular processes
+    - 把星系团里面和外面的RLAGN比较，发现上面结论与环境关系也不大
+
+- [The nature of sub-millimetre galaxies I: A comparison of AGN and star-forming galaxy SED fits](https://arxiv.org/abs/2010.07934)
+    - WHDF中的12个 LABOCA/ALMA 870micron SMG: 7/12 SMGs are best fitted with an obscured quasar model, a further 3/12 show no preference between AGN and star-forming templates, leaving only a z=0.046 spiral galaxy and one unidentified source
+    - The vast majority (10/12) of bright SMGs are at least as likely to fit an AGN as a star-forming galaxy template.
