@@ -778,3 +778,48 @@
 - [The nature of sub-millimetre galaxies I: A comparison of AGN and star-forming galaxy SED fits](https://arxiv.org/abs/2010.07934)
     - WHDF中的12个 LABOCA/ALMA 870micron SMG: 7/12 SMGs are best fitted with an obscured quasar model, a further 3/12 show no preference between AGN and star-forming templates, leaving only a z=0.046 spiral galaxy and one unidentified source
     - The vast majority (10/12) of bright SMGs are at least as likely to fit an AGN as a star-forming galaxy template.
+
+----
+
+### Oct 18
+
+- [Morphometry as a probe of the evolution of jellyfish galaxies](https://arxiv.org/abs/2010.07944)
+    - A901/A902星系团里的RPS星系：Our morphometric analysis shows that the ram pressure stripping candidates have peculiar concave regions in their surface brightness profiles
+    - These profiles are less concentrated (lower S\'ersic indices) than other star forming galaxies that do not show morphological features of ram pressure stripping.
+
+- [The volumetric star formation law for nearby galaxies -- Extension to dwarf galaxies and low-density regions](https://arxiv.org/abs/2010.07948)
+    - This volumetric star formation (VSF) law is a single power-law with no break and a smaller intrinsic scatter with respect to the star formation laws based on the surface density. 在低金属丰度，低密度，HI主导的矮星系里测试VSF律
+    - 依然成立：rho_SFR \propto rho_gas^2
+
+- [Intrinsic Alignments in IllustrisTNG and their implications for weak lensing: Tidal shearing and tidal torquing mechanisms put to the test](https://arxiv.org/abs/2010.07951)
+    - We find a significant alignment signal for elliptical galaxies (linear model), that increases with mass and redshift. Spiral galaxies (quadratic model) on the other hand exhibit a significant signal only for the most massive objects at z=1.
+    - We show the quadratic model for spiral galaxies to break down at its fundamental assumptions, and simultaneously obtain a significant signal of spiral galaxies to align according to the linear model.
+
+- [Hubble Space Telescope Observations of [O~III] Emission in Nearby QSO2s: Physical Properties of the Ionised Outflows](https://arxiv.org/abs/2010.08050)
+    - A sample of twelve nearby (z < 0.12) luminous (L_bol > 1.6 x 10^45 erg s^-1) QSO2s: For the sample, masses are several times 10^3 - 10^7 solar masses and peak outflow rates are 9.3 x 10^-3 Msun/yr to 10.3 Msun/yr. The peak kinetic luminosities are 3.4 x 10^-8 to 4.9 x 10^-4 of the bolometric luminosity
+
+- [The specific star formation rate function at different mass scales and quenching: A comparison between cosmological models and SDSS](https://arxiv.org/abs/2010.08173)
+    - The eddington bias corrected Specific Star Formation Rate Function (sSFRF) at different stellar mass scales
+    - 在质量大于10^10 Msun的地方，sSFR分布是bi-model的：The bi-modal form of the sSFRFs is not reproduced by a range of cosmological simulations (e.g. Illustris, EAGLE, Mufasa, IllustrisTNG) which instead generate mostly the star-forming population, while a bi-modality emerges in others (e.g. L-Galaxies, Shark, Simba).
+
+- [Extinction-free Census of AGNs in the AKARI/IRC North Ecliptic Pole Field from 23-band Infrared Photometry from Space Telescopes](https://arxiv.org/abs/2010.08225)
+    - 利用AKARI的9-band观测找AGN: we take advantage of the state-of-the-art spectral energy distribution (SED) modelling software, CIGALE, to find AGNs in mid-IR. We found 126 AGNs in the NEP-Wide field with this method.
+    - We found that the AGN contribution is larger at higher redshifts for a given IR luminosity.
+
+- [Velocity-inverted three-dimensional distribution of the gas clouds in the Type 2 AGN NGC1068](https://arxiv.org/abs/2010.08403)
+    - 利用AGN附近1-10 pc内的有分辨的veloctiy map重构3-D几何分布
+    - HST观测的NGC1068: this inner narrow-line region has indeed a hollow-cone structure, consistent with previous modeling results
+    - The AGN obscuring "torus" is argued to be the inner optically thick part of this hollow-cone outflow, and its shadowed side would probably be associated with the molecular outflow seen in certain sub-mm lines.
+
+- [The assembly bias of emission line galaxies](https://arxiv.org/abs/2010.08500)
+    - **Relevant**
+    - We consider fixed number density samples where galaxies are selected by either their Hα, [OIII]λ5007 or [OII]λλ3727−3729 emission line luminosities. We investigate the assembly bias signatures of these samples 看和用恒星质量选的有什么不同。
+    - Interestingly, we find that the [OIII]- and [OII]-selected samples display scale-dependent bias on large scales and that their assembly bias signatures are also scale-dependent.
+    - The [OIII] and [OII] emitters that contribute most to the scale dependence tend to have a low gas-phase metallicity and are preferentially found in low-density regions.
+    - 对宇宙学有影响：We find a slight tendency for the BAO peak to shift toward smaller scales for [OII] emitters and that β is scale-dependent at large scales
+
+- [Extracting HI Astrophysics from Interferometric Intensity Mapping](https://arxiv.org/abs/2010.07985)
+    - **Useful** 是Halomod的一个extension
+    - Constraints on the small-scale HI power spectrum can break the degeneracy between the HI density ΩHI and the HI bias bHI.
+    - 预测SKA的观测能力：For z∼0.1, we forecast that an accurate measurement of ΩHI up to 6% level precision and the large scale HI bias b0HI up to 1% level precision
+    - Furthermore, given the number density of HI galaxies above a certain HI mass threshold, future surveys will also be able to constrain the HI Mass Function using only the HI shot noise
