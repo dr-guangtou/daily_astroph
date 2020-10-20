@@ -812,7 +812,8 @@
     - The AGN obscuring "torus" is argued to be the inner optically thick part of this hollow-cone outflow, and its shadowed side would probably be associated with the molecular outflow seen in certain sub-mm lines.
 
 - [The assembly bias of emission line galaxies](https://arxiv.org/abs/2010.08500)
-    - **Relevant**
+    - **Relevant, Useful**
+    - 基于MAPPINGS的根据SFH预测发射线性质的程序：https://github.com/aaorsi/get_emlines
     - We consider fixed number density samples where galaxies are selected by either their Hα, [OIII]λ5007 or [OII]λλ3727−3729 emission line luminosities. We investigate the assembly bias signatures of these samples 看和用恒星质量选的有什么不同。
     - Interestingly, we find that the [OIII]- and [OII]-selected samples display scale-dependent bias on large scales and that their assembly bias signatures are also scale-dependent.
     - The [OIII] and [OII] emitters that contribute most to the scale dependence tend to have a low gas-phase metallicity and are preferentially found in low-density regions.
@@ -823,3 +824,68 @@
     - Constraints on the small-scale HI power spectrum can break the degeneracy between the HI density ΩHI and the HI bias bHI.
     - 预测SKA的观测能力：For z∼0.1, we forecast that an accurate measurement of ΩHI up to 6% level precision and the large scale HI bias b0HI up to 1% level precision
     - Furthermore, given the number density of HI galaxies above a certain HI mass threshold, future surveys will also be able to constrain the HI Mass Function using only the HI shot noise
+
+----
+
+### Oct 19
+
+- [Combining strong and weak lensing estimates in the Cosmos field](https://arxiv.org/abs/2010.08680)
+    - We develop a framework to predict the covariance of strong lensing and galaxy shape measurements of cosmic shear on the basis of the small scale matter power-spectrum.
+    - With a sample of three strong lensing shear measurements we present a 2-sigma detection of the cross-correlation signal between the two complementary measurements of cosmic shear along the identical line of sight.
+
+- [The Third Data Release of the KODIAQ Survey](https://arxiv.org/abs/2010.09061)
+    - KODIAQ DR3 consists of a fully-reduced sample of 727 quasars at 0.1 < z < 6.4 observed with ESI at moderate resolution (4000 < R < 10000).
+
+- [Dynamical evolution of massive perturbers in realistic multi-component galaxy models I: implementation and validation](https://arxiv.org/abs/2010.08555)
+    - We expand the semi-analytical framework developed in Bonetti et al. (2020) by including both a detailed implementation of the gravitational potential of exponential disc (modelled with a sech2 and an exponential vertical profile) and an accurate prescription for the dynamical friction experienced by massive perturbers in composite galaxy models featuring rotating disc structures.
+
+- [WISDOM project -- VI. Exploring the relation between supermassive black hole mass and galaxy rotation with molecular gas](https://arxiv.org/abs/2010.08565)
+    - We investigate the correlation between CO line widths and SMBH masses for two samples of galaxies with dynamical SMBH mass measurements, with respectively spatially-resolved and unresolved CO observations.
+    - A tight correlation is also found between the de-projected CO line widths and the stellar velocity dispersions averaged within one effective radius. We apply our correlation to the COLD GASS sample to estimate the local SMBH mass function.
+
+- [Planes of satellites around Milky Way/M31-mass galaxies in the FIRE simulations and comparisons with the Local Group](https://arxiv.org/abs/2010.08571)
+    - We find that MW-like planes as spatially thin and/or kinematically coherent as observed are uncommon, but they do exist in our simulations. Spatially thin planes occur in 1-2 per cent of snapshots during z=0−0.2, and kinematically coherent planes occur in 5 per cent of snapshots. 在模拟中一般都不长寿, <500 Myr
+        - 但如果存在group accretion的情况，plane则更频发，而且更长寿一些
+    - We find that M31's satellite distribution is much more common: M31's satellites lie within about 1 sigma of the simulation median for every plane metric we consider.
+    - Baryonic and dark matter-only simulations exhibit similar levels of planarity, even though baryonic subhalos are less centrally concentrated within their host halos.
+
+- [Physical Explanation for the Galaxy Distribution on the (λR,ε) and (V/σ,ε) Diagrams or for the Limit on Orbital Anisotropy](https://arxiv.org/abs/2010.08586)
+    - **Relevant**
+    - 利用JAM模型探索fast-rotator在运动学关系上的分布：We use JAM to build mock samples of axisymmetric galaxies, assuming on average an oblate shape for the velocity ellipsoid (as required to reproduce the rotation of real galaxies), and limiting the radial anisotropy β to the range allowed by physical solutions.
+    - The empirical anisotropy upper limit in real galaxies, and the corresponding observed distributions in the (λR,ε) and (V/σ,ε) diagrams, are due to the lack of physical axisymmetric equilibrium solutions at high β anisotropy when the velocity ellipsoid is close to oblate.
+
+- [An updated detailed characterization of planes of satellites in the MW and M31](https://arxiv.org/abs/2010.08624)
+    - 新的确定盘的方向的方法：finds the normal directions to the predominant planar configurations of satellites of a system, yielding for each a collection of planes of increasing member satellites
+    - 对银河系：we identify a new plane with Nsat=39 as thin as the VPOS-3 (c/a∼0.2), and with roughly the same normal direction; so far the most populated plane that thin reported in the Local Group.
+    - In M31 we discover a plane with Nsat=18 and c/a∼0.15, i.e., quality comparable to the GPoA, and perpendicular to it.
+
+- [Investigating orientation effects considering angular resolution for a sample of radio-loud quasars using VLA observations](https://arxiv.org/abs/2010.08668)
+    - 低分辨率影响射电星系的core光度测量，导致高估：at FIRST spatial resolution, core flux measurements are indeed systematically high even after considering the core-variability.
+    - Our results empirically confirm that determination of radio core dominance requires high-spatial resolution data.
+
+- [Extracting Galaxy Merger Timescales II: A new fitting formula](https://arxiv.org/abs/2010.08786)
+    - **Useful**
+    - We build on this previous work and propose a new model for τmerge that draws on insights derived from these simulations.
+    - 旧模型的不足：tend to underpredict τmerge inside the host virial radius (R200) because tidal stripping is neglected, and overpredict it outside R200 because the host mass is underestimated.
+    - We find that models that account for orbital angular momentum via the circular radius Rcirc underpredict (overpredict) τmerge for bound (unbound) systems.
+
+- [Integral-Field Spectroscopy of Fast Outflows in Dwarf Galaxies with AGN](https://arxiv.org/abs/2010.09008)
+    - An integral-field spectroscopic study of a sample of eight dwarf galaxies with known AGN and suspected outflows. 7个里面都看到了外流，且速度很快，median速度是240 km/s; 能延伸到几百pc和几kpc
+    - The outflows appear to be primarily photoionized by the AGN rather than shocks or young, massive stars. 主要是AGN驱动的
+    - A small but non-negligible portion of the outflowing material likely escapes the main body of the host galaxy and contributes to the enrichment of the circumgalactic medium.
+
+- [A Framework for Multiphase Galactic Wind Launching using TIGRESS](https://arxiv.org/abs/2010.09090)
+    - **Useful**
+    - TIGRESS模拟外流：<10^4 K的冷气体成分携带大部分质量；>10^6 K的高温气体成分携带大部分能量
+    - Both components have a broad distribution of outflow velocity, and especially for cool gas this implies a varying fraction of escaping material depending on the halo potential.
+    - Develop straightforward analytic formulae for the joint probability density functions (PDFs) of mass, momentum, energy, and metal loading as distributions in outflow velocity and sound speed. 提供了一个模型：https://github.com/changgoo/Twind
+
+- [Brightest Cluster Galaxies: the centre can(not?) hold](https://arxiv.org/abs/2010.09617)
+    - **Relevant**
+    - 很多BCG都不在X-ray气体的中心，且相对于星系团平均系统速度存在peculiar velocity;dan BCG依然与星系团质量分布有很好的alignment
+    - To account for these observations BCGs must undergo mergers preferentially along their major axis, the main infall direction. Such BCGs may be oscillating within the cluster potential after having been displaced by mergers or collisions
+    - 样本：Andrade-Santos et al. (2017), 164 clusters in Planck SZ sample at z<0.35; and 100 clusters with z<=0.30 都有Chandra观测
+
+- [The PAU Survey: Intrinsic alignments and clustering of narrow-band photometric galaxies](https://arxiv.org/abs/2010.09696)
+    - Measure the projected 3D clustering and IA for flux-limited, faint galaxies (i<22.5) out to z∼0.8
+    - We make robust null detections of IA for blue galaxies and tentative detections of radial alignments for red galaxies (∼1−2σ), over scales 0.1−18h−1Mpc. 和利用光谱的GAMA巡天的结论类似
