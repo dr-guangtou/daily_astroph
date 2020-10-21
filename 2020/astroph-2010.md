@@ -889,3 +889,83 @@
 - [The PAU Survey: Intrinsic alignments and clustering of narrow-band photometric galaxies](https://arxiv.org/abs/2010.09696)
     - Measure the projected 3D clustering and IA for flux-limited, faint galaxies (i<22.5) out to z∼0.8
     - We make robust null detections of IA for blue galaxies and tentative detections of radial alignments for red galaxies (∼1−2σ), over scales 0.1−18h−1Mpc. 和利用光谱的GAMA巡天的结论类似
+
+----
+
+### Oct 20
+
+- [Active Galactic Nuclei as Factories for Eccentric Black Hole Mergers](https://arxiv.org/abs/2010.09765)
+    - Here we show that AGN-disk environments naturally lead to a very high fraction of highly eccentric mergers, if interactions between binaries and singles are frequent, and the interactions are constrained to a plane representing the AGN-disk.
+    - We find in our fiducial AGN-disk model that up to ∼70% of all black hole mergers could appear with an eccentricity >0.1 in LIGO/Virgo.
+
+- [Cosmic shear power spectra in practice](https://arxiv.org/abs/2010.09717)
+    - https://github.com/xC-ell/ShearCl
+    - Lensing shear, however, is only sampled at the positions of galaxies with measured shapes in the catalog, making its associated sky window function one of the most complicated amongst all projected cosmological probes of inhomogeneities, as well as giving rise to inhomogeneous noise. 所以Cosmic shear大都是在real space空间进行，而不是在傅里叶空间用Power spectrum
+    - This paper contains a study of the main complications associated with estimating and interpreting shear power spectra, and presents fast and accurate methods to estimate two key quantities needed for their practical usage: the noise bias and the Gaussian covariance matrix, fully accounting for survey geometry
+
+- [κTNG: Effect of Baryonic Processes on Weak Lensing with IllustrisTNG Simulations](https://arxiv.org/abs/2010.09731)
+    - **Relevant**
+    - https://www.columbialensing.org
+    - https://github.com/0satoken/kappaTNG
+    - We quantify the baryonic effects on the WL angular power spectrum, one-point probability distribution function (PDF), and number counts of peaks and minima.
+    - We find that baryonic processes reduce the small-scale power, suppress the tails of the PDF, peak and minimum counts, and change the total number of peaks and minima.
+    - The κTNG suite includes 10,000 realisations of 5×5deg2 maps for 40 source redshifts up to zs=2.6, well covering the range of interest for existing and upcoming weak lensing surveys.
+
+- [Abell 1430: A merging cluster with exceptional diffuse radio emission](https://arxiv.org/abs/2010.10331)
+    - LoTSS+JVLA观测：We find that Abell 1430 consists of two components, namely A1430-A and A1430-B. We speculate that the two components undergo an off-axis merger. The more massive component shows diffuse radio emission which can be classified as radio halo showing a low radio power given the mass of the cluster.
+    - There is extended diffuse radio emission, dubbed as the `Pillow', which is apparently related to A1430-B and thus related to low density intracluster or intergalactic medium.
+
+- [Extended Fast Action Minimisation method: application to SDSS-DR12 Combined Sample](https://arxiv.org/abs/2010.10456)
+    - The first application of the extended Fast Action Minimization method (eFAM) to a real dataset, the SDSS-DR12 Combined Sample, to reconstruct galaxies orbits back-in-time, their two-point correlation function (2PCF) in real-space, and enhance the baryon acoustic oscillation (BAO) peak.
+    - eFAM successfully removes the anisotropies due to redshift-space distortion at all redshifts including that of the survey, allowing us to decrease the number of free parameters in the model and fit the full-shape of the back-in-time reconstructed 2PCF well beyond the BAO peak.
+
+- [The galaxy "missing dark matter" NGC1052-DF4 is undergoing tidal disruption](https://arxiv.org/abs/2010.09719)
+    - **Relevant**
+    - Deep optical imaging of the system has detected tidal tails in this object caused by its interaction with its neighbouring galaxy NGC1035.
+    - As stars are more centrally concentrated than the dark matter, the tidal stripping will remove a significant percentage of the dark matter before affecting the stars of the galaxy. Only ~7% of the stellar mass of the galaxy is in the tidal tails, suggesting that the stars of NGC1052-DF4 are starting only now to be affected by the interaction
+
+- [The impact of the halo spin-concentration relation on disc scaling laws](https://arxiv.org/abs/2010.09727)
+    - 为什么经典标度关系：TF, mass-size, mass-j关系的residual和spin以及concentration等halo参数关系不大
+    - We show that a possible solution is that such secondary parameters are correlated amongst themselves, in a way that removes correlations in observable space. 如果halo spin和concentration有反相关，那么可以解释这种现象
+
+- [Magnetogenesis around the first galaxies: the impact of different field seeding processes on galaxy formation](https://arxiv.org/abs/2010.09729)
+    - Study the evolution of magnetic fields generated by charge segregation ahead of ionization fronts during the Epoch of Reionization; 并和Biermann battery, injection from supernovae, and an imposed seed field at redshift z≳127等机制比较
+    - 所有的机制都能产生磁场并影响星系演化，而且在z<1.5后几乎无法区分
+    - 在小质量星系的低密度气体中可能可以区分：Low-density gas and haloes below a seed-dependent mass threshold retain memory of the initial magnetic field.
+    - 可能还是Biermann电池机制更有效: Magnetic fields can be created by the vorticity-induced relative motion of ions and electrons, a process dubbed Biermann battery (Biermann 1950).
+
+- [GASP XXIX -- Unwinding the arms of spiral galaxies via ram-pressure stripping](https://arxiv.org/abs/2010.09733)
+    - 看RPS机制对盘星系旋臂的unwinding作用：We first confirm the unwinding nature, finding the spiral arm pitch angle increases radially in 10 stripped galaxies and also simulated face-on and edge-on stripped galaxies
+    - We find only younger stars in the unwound component, while older stars in the disc remain undisturbed.
+    - Unwinding can occur due to differential ram-pressure caused by the disc rotation, causing stripped material to slow and "pile-up".
+    - The pattern is fairly short-lived (<0.5Gyr) in the stripping process, occurring during first infall and eventually washed out by the ICM wind into the tail of the jellyfish galaxy.
+
+- [Confirmation of stellar masses and potential light IMF in massive quiescent galaxies at 3<z<4 using velocity dispersions measurements with MOSFIRE](https://arxiv.org/abs/2010.09738)
+    - **Relevant, Interesting**
+    - MOSFIRE观测4个3.2 < z < 3.7的大质量quiscent星系，利用恒星速度弥散度限制动力学质量:We find high velocity dispersions of order σe∼250 km/s based on strong Balmer absorption lines
+    - Investigating the evolution at constant velocity dispersion between z∼3.5 and z∼2, we find a large increase in effective radius 0.35±0.12 dex and in dynamical-to-stellar mass ratio < log(Mdyn/M*)> of 0.25±0.08 dex, with low expected contribution from dark matter.
+    - The dynamical masses for our z∼3.5 sample are consistent with the stellar masses for a Chabrier initial mass function (IMF), with the ratio < log(Mdyn/M∗Ch) > = -0.13±0.10 dex suggesting an IMF lighter than Salpeter is common for massive quiescent galaxies at z>3
+
+- [Bayesian AGN Decomposition Analysis for SDSS Spectra: A Correlation Analysis of [OIII]λ5007 Outflow Kinematics with AGN and Host Galaxy Properties](https://arxiv.org/abs/2010.09748)
+    - Bayesian AGN Decomposition Analysis for SDSS Spectra (BADASS)
+    - We use BADASS to perform a correlation analysis of 63 SDSS type 1 AGNs with evidence of strong non-gravitational outflow kinematics in the [OIII]λ5007 emission feature.
+    - We confirm findings from previous studies that show the core of the [OIII] profile is a suitable surrogate for stellar velocity dispersion σ∗, however there is evidence that the core experiences broadening that scales with outflow velocity.
+    - We find sufficient evidence that σ∗, [OIII] core dispersion, and the non-gravitational outflow dispersion of the [OIII] profile form a plane whose fit results in a scatter of ∼0.1 dex.
+
+- [Hydrodynamic simulations of an isolated star-forming gas cloud in the Virgo cluster](https://arxiv.org/abs/2010.09758)
+    - 试图用模拟解释SECCO-1：We present a suite of three-dimensional, high-resolution hydrodynamic simulations that follow the evolution of a massive (10^7 M_sun) pressure confined, star-forming neutral gas cloud moving through a hot intra-cluster medium (ICM)
+    - The survivability of the cold gas in the simulated clouds is granted on timescales of the order of 1 Gyr, with final cold gas fractions generally >0.75. 最终的结果是在外部热气体包围下达到压力平衡的对称气体云
+    - In our simulation with star formation, star formation begins immediately, it peaks at the earliest times and decreases monotonically with time. Inhomogeneous supernova explosions are the cause of an asymmetric shape of the gas cloud, facilitating the development of instabilities and the decrease of the cold gas fraction.
+
+- [Wolf-Rayet stars in the Antennae unveiled by MUSE](https://arxiv.org/abs/2010.09781)
+    - Up to 38 young star-forming complexes with evident contribution from Wolf-Rayet (WR) stars are unveiled.
+    - The total estimated number of WR stars in the Antennae is 4053 ± 84, of which there are 2021 ± 60 WNL and 2032 ± 59 WC-types.
+
+- [Improvements to Pan-STARRS1 Astrometry Using Gaia](https://arxiv.org/abs/2010.09798)
+    - **Useful**
+    - The cross match between Gaia and PS1 reveals residuals that are correlated on a scale of about 1 arcmin. We apply a spatially adaptive correction algorithm for all PS1 objects having more than two detections to reduce these residuals and align the object positions to Gaia.
+    - The residuals for the corrected positions are smallest for objects with the most point-like morphologies and with intermediate magnitudes of about 17 mag. The residual errors in declination are systematically larger than those in right ascension; the declination errors increase with zenith angle in proportion to the air mass of the observations. Declination positional residuals at a given declination generally vary with color and are consistent with the effects of differential atmospheric refraction.
+
+- [Evidence for Two Distinct Broad-Line Regions from Reverberation Mapping of PG 0026+129](https://arxiv.org/abs/2010.09871)
+    - Hbeta宽线有两个成分，中等宽度IC和极宽的成分VBC：The velocity-resolved delays show consistent results: lags of ∼30--50 days at the core of the broad Hβ line and roughly zero lags at the wings. HβIC has a redshift of ∼400 km s−1 which seems to be stable for nearly 30 years by comparing with archived spectra, and may originate from an infall.
+    - Both the double-peaked profile and the near-zero lag suggest that HβVBC comes from a region associated with the part of the accretion disc that emits the optical continuum.
