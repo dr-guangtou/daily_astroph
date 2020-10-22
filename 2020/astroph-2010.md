@@ -969,3 +969,82 @@
 - [Evidence for Two Distinct Broad-Line Regions from Reverberation Mapping of PG 0026+129](https://arxiv.org/abs/2010.09871)
     - Hbeta宽线有两个成分，中等宽度IC和极宽的成分VBC：The velocity-resolved delays show consistent results: lags of ∼30--50 days at the core of the broad Hβ line and roughly zero lags at the wings. HβIC has a redshift of ∼400 km s−1 which seems to be stable for nearly 30 years by comparing with archived spectra, and may originate from an infall.
     - Both the double-peaked profile and the near-zero lag suggest that HβVBC comes from a region associated with the part of the accretion disc that emits the optical continuum.
+
+----
+
+### Oct 21
+
+- [Eccentric Black Hole Mergers in Active Galactic Nuclei](https://arxiv.org/abs/2010.10526)
+    - We derive the eccentricity distribution of BH mergers in AGN disks
+    - We find that eccentricity is mainly due to binary-single (BS) interactions, which lead to most BH mergers in AGN disks having a significant eccentricity at 0.01Hz,
+
+- [TDE Hosts are Green and Centrally Concentrated: Signatures of a Post-Merger System](https://arxiv.org/abs/2010.10738)
+    - 19个ZTF TDE的研究：We find that the ZTF sample of TDE hosts is dominated by compact "green valley" galaxies.
+    - We present host galaxy spectra which show that E+A galaxies are overrepresented in the ZTF sample by a factor of ≈22
+    - The combination of both green colors and high S\'ersic index of the typical TDE host galaxy could be explained if the TDE rate is temporarily enhanced following a merger that leads to a higher central concentration of stars.
+
+- [Degeneracies between baryons and dark matter: the challenge of constraining the nature of dark matter with JWST](https://arxiv.org/abs/2010.10520)
+    - We use a semi-empirical model of galaxy formation to investigate the extent to which uncertainties in the implementation of baryonic physics may be degenerate with the predictions of two different models of dark matter -- Cold Dark Matter (CDM) and a 7 keV sterile neutrino
+    - 看z=4的UVLF：We find that while at fixed star formation efficiency, ε, there are marked differences in the abundance of faint galaxies in the two dark matter models at high-z, these differences are mimicked easily by varying ε in the same dark matter model.
+    - Our results suggest that JWST will likely be more informative in constraining baryonic processes operating in high-z galaxies than it will be in constraining the nature of dark matter.
+
+- [Linking globular cluster formation at low and high redshift through the age-metallicity relation in E-MOSAICS](https://arxiv.org/abs/2010.10522)
+    - 比较大质量星团的 age-metallicity relation (AMR)；看YMC，中等年龄星团，GC是否有相同的物理形成机制
+    - We also find that the metallicity at which the AMR saturates increases with galaxy mass, which is also found for the field star AMRs. This suggests that relatively low-metallicity clusters can still form in dwarfs galaxies.
+    - We suggest that ancient GCs share their formation mechanism with IACs and YMCs, in which GCs are the result of a universal process of star cluster formation during the early episodes of star formation in their host galaxies.
+
+- [The Landscape of Galaxies Harboring Changing-Look Active Galactic Nuclei in the Local Universe](https://arxiv.org/abs/2010.10527)
+    - We find that CL AGN hosts primarily reside in the so-called green valley that is located between spiral-like star-forming galaxies and dead elliptical 和TDE hosts有类似之处
+    - CL AGN hosts have low galaxy asymmetry indicators, suggesting that secular evolutionary processes (the influence of bars and spirals, and possibly minor mergers) might be the primary mechanism for transporting gas to the vicinity of the supermassive black hole (SMBH) rather than major mergers 星系内的久期演化对提供气体很重要
+    - We find that CL AGN hosts are associated with SMBHs residing in high density pseudo-bulges and appear to overlap most significantly with the population of low-ionization nuclear emission-line region (LINER) galaxies. 和TDE host也很类似
+
+- [The stochastic enrichment of Population II stars](https://arxiv.org/abs/2010.10532)
+    - 用stochastic chemical enrichment模型研究银河系中贫金属恒星的Mg, Ca, Ni, and Fe丰度的scatter
+    - For our choice of stellar yields, our model suggests that the most metal-poor stars were enriched, on average, by N*=5^{+13}_{-3} (1 sigma) Population III stars. 与高红移DLA给出的推断类似
+    - The inferred IMF is consistent with that of a Salpeter distribution and there is a preference towards ejecta from minimally mixed hypernovae.
+    - We suggest that this method has the potential to constrain the multiplicity of the first generation of stars, but this will require: (1) a stellar sample whose systematic errors are well understood; and, (2) documented uncertainties associated with nucleosynthetic yields.
+
+- [The sensitivity of stellar feedback to IMF averaging versus IMF sampling in galaxy formation simulations](https://arxiv.org/abs/2010.10533)
+    - 模拟里使用的feedback机制是IMF平均过的：star particles are assumed to represent single stellar populations that fully sample the IMF.
+    - We find that if supernovae are the only form of feedback, triggering individual supernovae from IMF averaged rates gives identical results to IMF sampling.
+    - We find that photoionization is more effective at regulating star formation when IMF averaged rates are used, creating more, smaller H II regions than the rare, bright sources produced by IMF sampling.
+
+- [Dependence of the IRX-β dust attenuation relation on metallicity and environment](https://arxiv.org/abs/2010.10538)
+    - z=2.0-2.5的field和proto-cluster星系比较：We find no significant dependence of the IRX-β trend on environment.
+    - We find that at a given β, IRX is highly correlated with metallicity, and less correlated with mass, age, and sSFR.
+    - 金属丰度才是主因：We conclude that, of the physical properties tested here, metallicity is the primary physical cause of the IRX-β scatter, and the IRX correlation with mass is presumably due to the mass dependence on metallicity.
+    - UV attenuation curve steepens with decreasing metallicity, and spans the full range of slope possibilities from a shallow Calzetti-type curve for galaxies with the highest metallicity in our sample (12+log(O/H)~8.6) to a steep SMC-like curve for those with 12+log(O/H)~8.3. 使用的消光率不对会对总UV消光和SFR的估计产生很大的影响
+
+- [The CGM-GRB Study II: Outflow-Galaxy Connection at z ~ 2-6](https://arxiv.org/abs/2010.10540)
+    - 看GRB host里的外流性质：outflow column density (Nout), maximum outflow velocity (Vmax), and normalized maximum velocity (Vnorm = Vmax/Vcirc,halo, where Vcirc,halo is the halo circular velocity).
+    - Observe clear trends of Nout and Vmax with increasing SFR in high-ion-traced outflows, with a stronger (> 3σ) Vmax−SFR correlation 高电离气体的外流可以SF挂钩
+    - The kinematic correlations of warm outflows (traced by high-ions) with SFR are similar to those observed for star-forming galaxies at low redshifts. The correlations with SFR are weaker in low-ion species
+
+- [Mg II and Fe II fluxes of luminous quasars at z ~ 2.7 and the Baldwin effect in flux-to-abundance conversion for chemical evolution of quasars at high redshifts](https://arxiv.org/abs/2010.10548)
+    - NTT上的WINERED光谱仪观测：we proposed a method to derive the [Mg/Fe] abundance ratio and the [Fe/H] abundance by correcting the dependence of EW(Mg II) and EW(Fe II) on the Eddington ratio.
+    - Baldwin effect对丰度测量也有影响：we further investigated the dependence of EWs on luminosity, which is known as the Baldwin effect (BEff). Additional correction for the BEff significantly affects the derived chemical abundances for the six luminous quasars at z ~ 2.7
+
+- [uGMRT detection of associated HI 21 cm absorption at z = 3.5](https://arxiv.org/abs/2010.10565)
+    - uGMRT detection of Hi 21-cm absorption associated with the radio source 8C 0604+728, at z = 3.52965
+    - The luminosity and photon rate at later epochs are approx 6.2 and approx 1.7 times higher than thresholds suggested in the literature above which all the neutral hydrogen in the AGN host galaxy is expected to be ionised. The detection demonstrates that neutral hydrogen can survive in the host galaxies of AGNs with high ultraviolet luminosities.
+
+- [Fast Outflows in Hot Dust-Obscured Galaxies with Keck/NIRES](https://arxiv.org/abs/2010.10641)
+    - NIRES观测24个Hot-DOGS： Of the 17 targets with a clear detection of the [O III]λ5007A emission line, 15 display broad blueshifted and asymmetric line profiles, with widths ranging from 1000 to 8000 km s−1 and blueshifts up to 3000 km s−1. 存在大质量电离外流；星系具有非常高的SFR
+    - The combination of ongoing star formation, massive outflows, and high Eddington ratios suggest Hot DOGs are a transitional phase in galaxy evolution.
+
+- [On the Presence of a Universal Acceleration Scale in Elliptical Galaxies](https://arxiv.org/abs/2010.10779)
+    - **Relevant**
+    - MaNGA和ATLAS：15 MaNGA and 4 ATLAS3D slow-rotator E0 (i.e. nearly spherical) galaxies. 看速度弥散度轮廓
+    - Bayesian inference indicates that all 19 galaxies are consistent with a universal acceleration of g†=1.5+0.9−0.6×10−10~m~s−2
+    - This universality remains if we include 12 additional non-E0 slow-rotator elliptical galaxies from ATLAS3D. Finally, the universal acceleration from MaNGA and ATLAS3D is consistent with that for rotationally supported galaxies
+
+- [A Large Massive Quiescent Galaxy Sample at z~1.2](https://arxiv.org/abs/2010.10941)
+    - **Relevant**
+    - 基于HSC数据：a simple color-magnitude selection and obtain a large sample of 33,893 massive quiescent galaxies at intermediate redshifts (1< z<1.5), have high stellar masses at log(M*/M_sun)>10.5, with a median of log(M*/M_sun)=11.0
+    - 利用和HST CANDELS重合的部分验证了Early type morphogloy
+    - ur sample is 7-20 times larger at the massive end (log(M*/M_sun)>10.5) than any existing samples obtained in previous surveys
+
+- [Dual Effects of Ram Pressure on Star Formation in Multi-phase Disk Galaxies with Strong Stellar Feedback](https://arxiv.org/abs/2010.11028)
+    - Radiation-hydrodynamics simulations of an isolated disk galaxy embedded in a 10^11 Msun dark matter halo with various ICM winds mimicking the cluster outskirts (moderate) and the central environment (strong).
+    - RP既能quench也能trigger SF; depending on the strength of the winds. HI and H2 in the outer galactic disk are significantly stripped in the presence of the moderate winds, whereas turbulent pressure provides support against ram pressure in the central region where star formation is active.
+    - Moderate ICM winds能加速气体坍缩，提升SFR；Strong wind能快速移除气体, suppressing the star formation by a factor of two within ~200 Myr.
