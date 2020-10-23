@@ -1048,3 +1048,98 @@
     - Radiation-hydrodynamics simulations of an isolated disk galaxy embedded in a 10^11 Msun dark matter halo with various ICM winds mimicking the cluster outskirts (moderate) and the central environment (strong).
     - RP既能quench也能trigger SF; depending on the strength of the winds. HI and H2 in the outer galactic disk are significantly stripped in the presence of the moderate winds, whereas turbulent pressure provides support against ram pressure in the central region where star formation is active.
     - Moderate ICM winds能加速气体坍缩，提升SFR；Strong wind能快速移除气体, suppressing the star formation by a factor of two within ~200 Myr.
+
+----
+
+### Oct 22
+
+- [C3-Cluster Clustering Cosmology I. New constraints on the cosmic growth rate at z~0.3 from redshift-space clustering anisotropies](https://arxiv.org/abs/2010.11206)
+    - **Relevant**
+    - SDSS里的光谱挑选的clusters，We measure the transverse and radial wedges of the two-point correlation function of the selected clusters. Modelling the redshift-space clustering anisotropies, we provide the first constraints on the linear growth rate from cluster clustering. 星系团质量可以作为linear bias的prior
+    - We get the value of the growth rate times the matter power spectrum normalisation parameter fσ8=0.46±0.03, at an effective redshift z~0.3.
+
+- [Preliminary Target Selection for the DESI Quasar (QSO) Sample](https://arxiv.org/abs/2010.11280)
+- [Preliminary Target Selection for the DESI Emission Line Galaxy (ELG) Sample](https://arxiv.org/abs/2010.11281)
+- [Preliminary Target Selection for the DESI Luminous Red Galaxy (LRG) Sample](https://arxiv.org/abs/2010.11282)
+- [Preliminary Target Selection for the DESI Bright Galaxy Survey (BGS)](https://arxiv.org/abs/2010.11283)
+    - **Relevant, SSST**
+    - 3个Research notes，关于DESI选源的
+    - https://data.desi.lbl.gov/public/ets/target/catalogs/
+    - https://desidatamodel.readthedocs.io/en/latest/
+    - QSO：he DESI survey will measure large-scale structure using quasars as direct tracers of dark matter in the redshift range 0.9< z<2.1 and using quasar Ly-α forests at z>2.1. We present two methods to select candidate quasars for DESI based on imaging in three optical (g,r,z) and two infrared (W1,W2) bands.
+    - ELG：The selection consists of a g-band magnitude cut and a (g−r) vs. (r−z) color box, which we validate using HSC/PDR2 photometric redshifts and DEEP2 spectroscopy. The ELG target density should be ∼2400 deg−2, with ∼65% of ELG redshifts reliably within a redshift range of 0.6< z<1.6.
+    - LRG：Here we present a preliminary version of the DESI LRG target selection developed using Legacy Surveys Data Release 8 g, r, z and W1 photometry. This selection yields a sample with a uniform surface density of ∼600 deg−2and very low predicted stellar contamination and redshift failure rates.
+    - BGS: DESI BGS will comprise two target classes: (i) BRIGHT (r<19.5~mag), and (ii) FAINT (19.5< r<20~mag). The selection results in a total density of ∼800 objects/deg2 for the BRIGHT and ∼600 objects/deg2 for the FAINT selections.
+
+- [Euclid preparation: IX. EuclidEmulator2 -- Power spectrum emulation with massive neutrinos and self-consistent dark energy perturbations](https://arxiv.org/abs/2010.11288)
+    - **CSST**
+    - EuclidEmulator2 - a fast and accurate predictor for the nonlinear correction of the matter power spectrum.
+    - Percent-level accurate emulation is now supported in the eight-dimensional parameter space of w0waCDM+∑mνmodels between redshift z=0 and z=3 for spatial scales within the range 0.01 h/Mpc ≤k≤ 10 h/Mpc.
+    - https://github.com/miknab/EuclidEmulator2
+
+- [Measuring Cosmological Distances Using Cluster Edges as a Standard Ruler](https://arxiv.org/abs/2010.11324)
+    - **Relevant, Interesting**
+    - 关于最近从redMaPPer cluster中相空间里看到的edge：Because the spatial extent of a cluster is correlated with the amplitude of the velocity dispersion profile, we can utilise this feature as a gravity-calibrated standard ruler. Specifically, the amplitude of the velocity dispersion data allows us to infer the physical cluster size.
+    - Assuming the relation between cluster radius and cluster velocity dispersion can be calibrated from simulations, we forecast that with existing data from the Sloan Digital Sky Survey (SDSS) we will be able to measure the Hubble constant with 3% precision.
+
+- [Photometric redshifts for galaxies in the Subaru Hyper Suprime-Cam and unWISE and a catalogue of identified clusters of galaxies](https://arxiv.org/abs/2010.11551)
+    - **Relevant**
+    - HSC PDR2 + unWISE photo-z for 14.68M galaxies: we identify 21,661 clusters of galaxies, among which 5537 clusters have redshifts z>1 and 642 clusters have z>1.5
+    - Cluster richness and mass are estimated, and these clusters have an equivalent mass of M_{500} > 0.7*10^{14} Msun.
+
+- [FlowPM: Distributed TensorFlow Implementation of the FastPM Cosmological N-body Solver](https://arxiv.org/abs/2010.11847)
+    - https://github.com/modichirag/flowpm
+    - Mesh-TensorFlow for GPU-accelerated, distributed, and differentiable simulations
+    - We also demonstrate how this novel tool can be used for efficiently solving large scale cosmological inference problems, in particular reconstruction of cosmological fields in a forward model Bayesian framework with hybrid PM and neural network forward model
+
+- [STARFORGE: Toward a comprehensive numerical model of star cluster formation and feedback](https://arxiv.org/abs/2010.11254)
+    - We use the GIZMO code with the MFM mesh-free Lagrangian MHD method, augmented with new algorithms for gravity, timestepping, sink particle formation and accretion, stellar dynamics, and feedback coupling.
+    - Modules for mass-injecting feedback (winds, SNe, and jets) inject new gas elements on-the-fly, eliminating the lack of resolution in diffuse feedback cavities otherwise inherent in Lagrangian methods.
+
+- [DeepGalaxy: Deducing the Properties of Galaxy Mergers from Images Using Deep Neural Networks](https://arxiv.org/abs/2010.11630)
+    - https://github.com/maxwelltsai/DeepGalaxy
+    - We propose DeepGalaxy, a visual analysis framework trained to predict the physical properties of galaxy mergers based on their morphology. Based on an encoder-decoder architecture, DeepGalaxy encodes the input images to a compressed latent space z, and determines the similarity of images according to the latent-space distance.
+    - Without having to carry out expensive numerical simulations, DeepGalaxy makes inferences of the physical properties of galaxy mergers directly from images
+
+- [Parsec-scale properties of the radio brightest jetted AGN at z > 6](https://arxiv.org/abs/2010.11193)
+    - The milliarcsecond angular resolution of our VLBA observations at 1.5, 5 and 8.4 GHz unveils a bright one-sided jet extended for ∼500 parsecs in projection. This high-z radio-loud AGN is resolved into multiple compact sub-components, embedded in a more diffuse and faint radio emission
+    - If PSO J0309+27 is a genuine blazar, as suggested by its X-ray properties, then we find that its bulk Lorentz factor must be relatively low (less than 5). Such value would be in favour of a scenario currently proposed to reconcile the paucity of high-z blazars with respect to current predictions
+
+- [The MURALES survey. III. Completing the MUSE observations of 37 3C low-z radio galaxies](https://arxiv.org/abs/2010.11195)
+    - These observations reveal emission line regions (ELRs) extending several tens of kiloparsec in most objects. The gas velocity shows ordered rotation in 25 galaxies, but in several sources it is highly complex.
+    - 射电形态和发射线性质可能有联系：In the ten FRI sources the line emission region is generally compact, only a few kpc in size, and only in one case it exceeds the size of the host. Conversely, all but two of the FRII galaxies show large-scale structures of ionized gas.
+    - The median extent is 16 kpc with the maximum reaching a size of ~80 kpc.
+
+- [The quiescent fraction of isolated low surface brightness galaxies: Observational constraints](https://arxiv.org/abs/2010.11210)
+    - **Relevant**
+    - 基于HSC PDR2，但没有做到很深的SB；we present a new catalogue of 479 LSBGs, identified in deep optical imaging data from the Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP)
+    - We estimate environmental densities for a subsample of 215 sources by statistically associating them with nearby spectroscopic galaxies from the overlapping GAMA spectroscopic survey. We find that the blue LSBGs are statistically consistent with being spatially randomised with respect to local spectroscopic galaxies, implying they exist predominantly in low-density environments. However, the red LSBG population is significantly spatially correlated with local structure.
+    - We find that 26+/-5% of isolated, local LSBGs belong to the red population
+
+- [The Radio Galaxy Population in the SIMBA SImulations](https://arxiv.org/abs/2010.11225)
+    - Simba grows black holes via gravitational torque limited accretion from cold gas and Bondi accretion from hot gas, and employs AGN feedback including jets at low Eddington ratios.
+    - Within RLAGN we define high and low excitation radio galaxies (HERGs and LERGs) based on their dominant mode of black hole accretion: torque limited accretion representing feeding from a cold disk, or Bondi representing advection-dominated accretion from a hot medium.
+    - Quiescent galaxies with AGN-dominated radio flux dominate the RLF at > ∼10^22−23 W Hz−1, while star formation dominates at lower radio powers
+    - While LERGs dominate among most massive galaxies with the largest black holes and HERGs dominate at high specific star formation rates, they otherwise largely populate similar-sized dark matter halos and have similar host galaxy properties
+
+- [Evaluating hydrodynamical simulations with green valley galaxies](https://arxiv.org/abs/2010.11232)
+    - 比较EAGLE/TNG100; 用4000A break来定义Red-Green-Blue: Both simulations match the fraction of AGN in the green-valley. However, they over-produce quiescent GV galaxies with respect to observations, with IllustrisTNG yielding a higher fraction of quiescent GV galaxies than EAGLE
+    - We find EAGLE GV galaxies quench their star formation early, but undergo later episodes of star formation, matching observations. In contrast, IllustrisTNG GV galaxies have a more extended SFH, and quench more effectively at later cosmic times, producing the excess of quenched galaxies in GV compared with SDSS
+
+- [STARFORGE: The effects of protostellar outflows on the IMF](https://arxiv.org/abs/2010.11249)
+    - Follow the formation of individual stars in giant molecular clouds (GMCs) using the GIZMO code
+    - Outflow的作用：Outflows disrupt the accretion flow around the protostar, allowing gas to fragment and additional stars to form, thereby lowering the mean stellar mass to a value similar to that observed.
+    - Jet的作用：The effect of jets upon global cloud evolution is most pronounced for lower-mass GMCs and dense clumps, so while jets can disrupt low-mass clouds, they are unable to regulate star formation in massive GMCs. Jets are also unable to stop the runaway accretion of massive stars
+    - We conclude that protostellar jets play a vital role in setting the mass scale of stars, but additional physics are necessary to reproduce the observed IMF.
+
+- [Strong Mg II and Fe II Absorbers at 2.2 < z < 6.0](https://arxiv.org/abs/2010.11432)
+    - Compared with strong Mg II absorbers detected in damped Lyα systems at 2 < z< 4, our absorbers are potentially less saturated and show much larger rest-frame velocity widths. This suggests that the gas traced by our absorbers are potentially affected by galactic superwinds.
+    - By using our observed dN/dX of strong Mg II absorbers and galaxy candidates median luminosity, we suggest that at high redshift, strong Mg II absorbers tend to have a more disturbed environment but smaller halo size than that at z< 1.
+
+- [Extreme kinematic misalignment in IllustrisTNG galaxies: the origin, structure and internal dynamics of galaxies with a large-scale counterrotation](https://arxiv.org/abs/2010.11581)
+    - We have found 25 galaxies with substantial stellar counterrotation in the stellar mass range of 2×10^9−3×10^10~\Msun. In our sample the stellar counterrotation is a result of an external gas infall happened ≈2−8~Gyr ago.
+    - We show that ≈90% of the stellar counterrotation formed in-situ, in the counterrotating gas.
+
+- [The kinematics of young and old stellar populations in nuclear rings of MUSE TIMER galaxies](https://arxiv.org/abs/2010.11815)
+    - We report a correlation of the colour excess with the difference in the kinematic parameters of the Hβ line and the Ca II Triplet range, which are dominated by young and old stellar populations
+    - Our study demonstrates that kinematic differences caused by different stellar populations can be identified in the central regions of nearby galaxies even from intermediate resolution spectroscopy.
