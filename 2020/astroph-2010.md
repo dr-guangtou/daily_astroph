@@ -1143,3 +1143,44 @@
 - [The kinematics of young and old stellar populations in nuclear rings of MUSE TIMER galaxies](https://arxiv.org/abs/2010.11815)
     - We report a correlation of the colour excess with the difference in the kinematic parameters of the Hβ line and the Ca II Triplet range, which are dominated by young and old stellar populations
     - Our study demonstrates that kinematic differences caused by different stellar populations can be identified in the central regions of nearby galaxies even from intermediate resolution spectroscopy.
+
+----
+
+### Oct 25
+
+- [Constraining cosmology with weak lensing voids](https://arxiv.org/abs/2010.11954)
+    - We use a recently proposed weak lensing observable - weak lensing voids - to make parameter constraint forecasts for an LSST-like survey
+    - We find that the void abundance is more constraining than the tangential shear profiles, though the combination of the two gives additional constraining power.
+
+- [The Cluster HEritage project with XMM-Newton: Mass Assembly and Thermodynamics at the Endpoint of structure formation. I. Programme overview](https://arxiv.org/abs/2010.11972)
+    - **Relevant**
+    - http://xmm-heritage.oas.inaf.it/
+    - CHEX-MATE: a three mega-second Multi-Year Heritage Programme to obtain X-ray observations of a minimally-biased, signal-to-noise limited sample of 118 galaxy clusters detected by Planck through the Sunyaev-Zeldovich effect.
+    - The programme will yield an accurate vision of the statistical properties of the underlying population, measure how the gas properties are shaped by collapse into the dark matter halo, uncover the provenance of non-gravitational heating, and resolve the major uncertainties in mass determination that limit the use of clusters for cosmological parameter estimation.
+
+- [Euclid: impact of nonlinear prescriptions on cosmological parameter estimation from weak lensing cosmic shear](https://arxiv.org/abs/2010.12382)
+    - For a given prescription for the nonlinear power spectrum, using different corrections for baryon physics does not significantly impact the precision of Euclid, but neglecting these correction does lead to large biases in the cosmological parameters.
+    - In order to extract precise and unbiased constraints on cosmological parameters from Euclid cosmic shear data, it is therefore essential to improve the accuracy of the recipes that account for nonlinear structure formation, as well as the modelling of the impact of astrophysical processes that redistribute the baryons.
+
+- [Current and Next Generation Survey Filter Conversions with ProSpect](https://arxiv.org/abs/2010.12228)
+    - **Useful**
+    - https://rpubs.com/asgr/567881
+    - We compute a reasonably comprehensive set of tables for current and next generation survey facility filter conversions
+
+- [The Cosmic Ultraviolet Baryon Survey (CUBS) II: Discovery of an H2-Bearing DLA in the Vicinity of an Early-Type Galaxy at z = 0.576](https://arxiv.org/abs/2010.11958)
+    - The diffuse molecular gas is found in two velocity components separated by dv = 60 km/s, with >99.9% of the total H2 column density concentrated in one component. At a metallicity of ≈ 40% of solar, there is evidence for Fe enhancement and dust depletion, with a dust-to-gas ratio κO≈0.4
+    - The closest is a massive, early-type galaxy at d = 41 pkpc which contains 70% of the total stellar mass identified at d <= 310 pkpc of the H2 absorber. The close proximity of the H2-bearing gas to the quiescent galaxy and the Fe-enhanced chemical abundance pattern of the absorber suggest a physical connection.
+
+- [ROGER: Reconstructing Orbits of Galaxies in Extreme Regions using machine learning techniques](https://arxiv.org/abs/2010.11959)
+    - **Relevant**
+    - MDPL2 + SAG SAM模型：选大质量星系团中的>10^8.5Msun星系进行机器学习预测，we train ROGER to retrieve the original classification of the galaxies out of their projected phase-space positions.
+    - ROGER gives as output the probability of being a cluster galaxy, a galaxy that has recently fallen into a cluster, a backsplash galaxy, an infalling galaxy, or an interloper.
+
+- [Active galactic nuclei ghosts: A systematic search for faded nuclei](https://arxiv.org/abs/2010.11962)
+    - We present a catalog of 88 AGN candidates showing hints on the fading and rising of their activity in the nearby Universe
+    - We find that 96% of our candidates are fading sources. This result suggests a scenario where the Universe had its peak of AGN activity somewhere in the past and is dominated by a fading phase at the present time.
+    - Around 50% of these fading candidates are associated with merging or interacting systems.
+
+- [Runaway stars masquerading as star formation in galactic outskirts](https://arxiv.org/abs/2010.11965)
+    - Runaway stars, produced by collisional dynamics in young stellar clusters, can travel kilo-parsecs during their main sequence life time.
+    - Using galactic-scale hydrodynamic simulations including a treatment of individual stars, we demonstrate that this mechanism enables the ejection of young massive stars into environments where the gas is not dense enough to trigger star formation.
