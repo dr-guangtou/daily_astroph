@@ -1184,3 +1184,69 @@
 - [Runaway stars masquerading as star formation in galactic outskirts](https://arxiv.org/abs/2010.11965)
     - Runaway stars, produced by collisional dynamics in young stellar clusters, can travel kilo-parsecs during their main sequence life time.
     - Using galactic-scale hydrodynamic simulations including a treatment of individual stars, we demonstrate that this mechanism enables the ejection of young massive stars into environments where the gas is not dense enough to trigger star formation.
+
+----
+
+### Oct 26
+
+- [Environmental dependence of X-ray and optical properties of galaxy clusters](https://arxiv.org/abs/2010.12671)
+    - **Relevant**
+    - 看星系团性质与大尺度结构的关系：use both observational and simulation cluster and void catalogues, i.e. XCS and redMaPPer clusters, BOSS voids, and Magneticum simulations
+    - We use the Kolmogorov-Smirnov two-sample test to discover that richer and more massive clusters are more prevalent in overdense regions and outside of voids.
+    - We also find that clusters of matched richness and mass in overdense regions and outside voids tend to have higher X-ray luminosities and temperatures.
+
+- [Hunting for Dark Matter Subhalos in Strong Gravitational Lensing with Neural Networks](https://arxiv.org/abs/2010.12960)
+    - We discuss the possibility of using deep neural networks to detect dark matter subhalos, and showing some preliminary results with simulated data.
+
+- [The impact of mass map truncation on strong lensing simulations](https://arxiv.org/abs/2010.13650)
+    - We use mock observations to demonstrate the viability of a forward modelling approach to extract information on the cosmological number density of low-mass dark matter haloes along the line-of-sight to galaxy-galaxy strong lenses
+    - With 50 strong lenses at Hubble Space Telescope resolution and signal-to-noise (similar to the existing SLACS survey), the expected 2σ constraint for CDM is mDM>3.7keV.
+    - 提供了一个基于ABC的方法
+
+- [Reducing ground-based astrometric errors with Gaia and Gaussian processes](https://arxiv.org/abs/2010.13742)
+    - **Useful**
+    - Stochastic field distortions caused by atmospheric turbulence are a fundamental limitation to the astrometric accuracy of ground-based imaging.
+    - We develop the use of Gaussian process regression (GPR) to interpolate the distortion field to arbitrary locations in each exposure. We introduce an extension to standard GPR techniques that exploits the knowledge that the 2-dimensional distortion field is curl-free.
+
+- [The First Gamma-ray Emitting BL Lacertae Object at the Cosmic Dawn](https://arxiv.org/abs/2010.12907)
+    - Here we report the identification of the first γ-ray emitting BL Lac object, 4FGL~J1219.0+3653 (J1219), beyond z=3
+    - The optical and near-infrared spectra of J1219 taken from 10.4 m Gran Telescopio Canarias exhibit no emission lines down to an equivalent width of ∼3.5 A supporting its BL Lac nature.
+    - The detection of a strong Lyman-α break at ∼5570 A, on the other hand, confirms that J2119 is indeed a high-redshift (z∼3.59) quasar. 这类天体应该非常的稀有
+
+- [Tightly coupled morpho-kinematic evolution for massive star-forming and quiescent galaxies across 7 Gyr of cosmic time](https://arxiv.org/abs/2010.12586)
+    - **Relevant, Interesting**
+    - LEGA-C, 1400 >10^10.5 Msun的星系的运动学测量：we find a strong evolution in Mdyn/Lg with redshift.
+    - We find only a weak dependence of the mean value of Mdyn/M∗ on the specific star formation rate, and a redshift evolution that likely is explained by systematics.
+    - Star-forming and quiescent galaxies lie on the same, stable mass FP across 0< z<1, and that the decrease in Mdyn/Lg toward high redshift can be attributed entirely to evolution of the stellar populations.
+
+- [Revealing the Impact of Quasar Luminosity on Giant Lyα Nebulae](https://arxiv.org/abs/2010.12589)
+    - **Interesting**
+    - 12个z=3.15的QSO，比之前的Lya星云样本更暗：We detect HI Lyα nebulae around 100% of our target quasars, with emission extending to scales of at least 60 physical kpc, and up to 190 pkpc.
+    - We show that the surface brightness profiles of the nebulae are similar to those of nebulae around bright quasars, but with a lower normalization.
+    - QSO比之前的样本暗约30倍；但Lya Nebulae在20-50 pkpc内只暗了大约4-5倍
+    - We find significant correlations between the surface brightness of the nebula and the luminosity of the quasar in both UV continuum and Lyα
+
+- [Ubiquitous Molecular Outflows in z > 4 Massive, Dusty Galaxies I. Sample Overview and Clumpy Structure in Molecular Outflows on 500pc Scales](https://arxiv.org/abs/2010.12591)
+    - We have conducted the first survey of molecular outflows at z > 4, targeting 11 strongly-lensed dusty, star-forming galaxies (DSFGs) with ALMA using OH 119um absorption as an outflow tracer
+    - We find unambiguous evidence for outflows in 8/11 (73%) galaxies, more than tripling the number known at z > 4. This implies that molecular winds in z > 4 DSFGs must have both a near-unity occurrence rate and large opening angles to be detectable in absorption. 外流非常常见
+    - 外流中有很多clump结构：Lensing reconstructions reveal that 500pc-scale clumpy structures in the outflows are common.
+    - [CII] 可能不是非常好的外流tracer
+
+- [Coronal Line Forest AGN I: physical properties of the emission-line regions](https://arxiv.org/abs/2010.12595)
+    - Coronal-Line Forest Active Galactic Nuclei (CLiF AGN) are characterized by strong high-ionization lines, which contrast to what is found in most AGNs
+    - By comparing coronal emission-line ratios we conclude that there are no differences between CLiF and non-CLiF AGNs. 并不是那么特殊。
+    - We suggest a NLR dominated by matter-bounded clouds to explain the high-ionization line spectrum observed.
+
+- [Turbulent density and pressure fluctuations in the stratified intracluster medium](https://arxiv.org/abs/2010.12602)
+    - The ICM is density-stratified, with the gas density being highest at the centre of the cluster and decreasing radially outwards. Kolmogorov的湍动理论不适用，因为要求均匀和各向同
+    - The gas motions are instead explained by anisotropic stratified turbulence with the stratification quantified by the perpendicular Froude number (Fr⊥).
+
+- [Powerful t-SNE technique leading to clear separation of type-2 AGN and HII galaxies in BPT diagrams](https://arxiv.org/abs/2010.13037)
+    - Based on powerful t-SNE technique applied to the local narrow emission-line galaxies in SDSS DR15, type-2 AGN and HII galaxies can be clearly separated in the t-SNE determined two-dimensional projected map
+
+- [Probing the CGM of Low-redshift Dwarf Galaxies Using FIRE Simulations](https://arxiv.org/abs/2010.13606)
+    - 和观测比较，进行了halo质量，恒星质量，红移的match：The FIRE equivalent width (EW) distributions and covering fractions for the C IV ion are broadly consistent with observations inside 0.5Rvir, but are under-predicted for O VI, Mg II, and Si III.
+    - The structure and composition of the gas from the simulations exhibit three zones around dwarf galaxies characterized by distinct ion column densities: the disky ISM, the inner CGM (the wind-dominated regime), and the outer CGM (the IGM accretion-dominated regime).
+        - Outer CGM已经不完全是由thermal pressure支持的，并不处于流体静力学平衡
+    - The net gas inflow rates are comparable to the SFR of the galaxy, but the bulk inflow and outflow rates are greater by an order of magnitude, with velocities comparable to the virial velocity of the halo.
+    - This supports a picture for dwarf galaxies in which the dynamics of the CGM at large scales are coupled to the small-scale star formation activity near the centre of their halos.
