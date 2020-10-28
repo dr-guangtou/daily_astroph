@@ -1250,3 +1250,89 @@
         - Outer CGM已经不完全是由thermal pressure支持的，并不处于流体静力学平衡
     - The net gas inflow rates are comparable to the SFR of the galaxy, but the bulk inflow and outflow rates are greater by an order of magnitude, with velocities comparable to the virial velocity of the halo.
     - This supports a picture for dwarf galaxies in which the dynamics of the CGM at large scales are coupled to the small-scale star formation activity near the centre of their halos.
+
+----
+
+### Oct 27
+
+- [Chandra Observations of Abell 2261 Brightest Cluster Galaxy, a Candidate Host to a Recoiling Black Hole](https://arxiv.org/abs/2010.13980)
+    - We found no X-ray emission arising from a point source in excess of the cluster gas and can place limits on the accretion of any black hole in the central region
+    - Thus there is either no 1010 M⊙ black hole in the core of A2261-BCG, or it is accreting at a low level.
+
+- [The stratified disk wind of MCG-03-58-007](https://arxiv.org/abs/2010.14204)
+    - Past Suzaku, XMM and NuSTAR observations of the nearby (z=0.0323) bright Seyfert 2 galaxy MCG-03-58-007 revealed the presence of two deep and blue-shifted Fe K-shell absorption line profiles. These could be explained with the presence of two phases of a highly ionized, high column density accretion disk wind outflowing
+    - Overall the multi-epochs observations show that the disk wind in MCG-03-58-007 is not only powerful, but also extremely variable
+
+- [The flaring X-ray corona in the quasar PDS 456](https://arxiv.org/abs/2010.14295)
+    - PDS 456: 光变中的radio quite QSO: A bright X-ray flare was captured in September 2018, the flux increasing by a factor of 4 and with a doubling time-scale of 2 days.
+    - A hardening of the X-ray emission accompanied the flare, with the photon index decreasing from Γ=2.2 to Γ=1.7 and back again. The flare is produced in the X-ray corona, the lack of any optical or UV variability being consistent with a constant accretion rate.
+    - These caught PDS 456 in a bright, bare state, where no disc wind absorption features are apparent.
+    - The deduced coronal temperature, of kT=13 keV, is one of the coolest measured in any AGN and PDS 456 lies well below the predicted pair annihilation line in X-ray corona. The spectral variability, becoming softer when fainter following the flare, is consistent with models of cooling X-ray coronae.
+
+- [Hierarchical Inference With Bayesian Neural Networks: An Application to Strong Gravitational Lensing](https://arxiv.org/abs/2010.13787)
+    - **Useful**
+    - https://github.com/swagnercarena/ovejero
+    - We incorporate BNNs with flexible posterior parameterizations into a hierarchical inference framework that allows for the reconstruction of population hyperparameters and removes the bias introduced by the training distribution. 应对不确定training sample是否representative的问题
+    - We show that our hierarchical inference framework mitigates the bias introduced by an unrepresentative training set's interim prior. Simultaneously, given a sufficiently broad training set, we can precisely reconstruct the population hyperparameters governing our test distributions.
+
+- [Cosmological Constraints from DES Y1 Cluster Abundances and SPT Multi-wavelength data](https://arxiv.org/abs/2010.13800)
+    - **Relevant**
+    - DES Y1 redMaPPer + SPT mass-richness calibration: To explore possible systematics related to the modeling of projection effects, we consider two calibrations of the observational scatter on richness estimates: a simple Gaussian model which account only for the background contamination (BKG), and a model which further includes contamination and incompleteness due to projection effects (PRJ) 开始考虑projection效应了
+    - This result demonstrates that the DES Y1 and SPT cluster counts provide consistent cosmological constraints, if the same mass calibration data set is adopted.
+    - 将Optical和SZ clusters结合起来：Besides providing a mild improvement of the cosmological constraints, this data combination serves as a stricter test of our scatter models: the PRJ model, providing scaling relations consistent between the two abundance and multi-wavelength follow-up data, is favored over the BKG model.
+
+- [Photometric selection and redshifts for quasars in the Kilo-Degree Survey Data Release 4](https://arxiv.org/abs/2010.13857)
+    - In 45 million objects of the KiDS data limited to 9-band detections, we define inference subsets based on a feature space built from magnitudes, their combinations, and shape classifiers. We show that projections of a feature space on two dimensions can be successfully used instead of the standard color-color plots
+    - The catalog is tested using number counts and Gaia parallaxes. Based on these tests, we calibrate the purity vs. completeness trade-off with minimum classification probability for quasar candidates: p(QSO_cand)>0.9 for the safe inference subset at r<22, and p(QSO_cand)>0.98 for the reliable extrapolation at 22< r <23.5
+
+- [Pre-supernova feedback mechanisms drive the destruction of molecular clouds in nearby star-forming disc galaxies](https://arxiv.org/abs/2010.13788)
+    - We apply a novel statistical method to ∼1" resolution maps of CO and Ha emission across a sample of nine nearby disc galaxies, in order to measure the time over which GMCs are dispersed by feedback from young, high-mass stars, as a function of the galactic environment.
+    - 在GMC内大质量恒星出现后3Myr内GMC开始消散; 和距离星系中心的距离关系不大
+    - 早期非SN反馈机制很重要: Comparison with analytical predictions demonstrates that, independently of the environment, early feedback mechanisms (particularly photoionisation and stellar winds) play a crucial role in dispersing GMCs and limiting their star formation efficiency in nearby galaxies.
+
+- [Detection of the LMC-induced sloshing of the Galactic halo](https://arxiv.org/abs/2010.13789)
+    - LMC的质量较大，会对银河系产生影响：One consequence of having such a nearby and massive neighbour is that the inner Milky Way is expected to be accelerated with respect to our Galaxy's outskirts (beyond ∼30 kpc).
+    - We find that stars in the Southern hemisphere are on average blueshifted, while stars in the North are redshifted, consistent with the expected, mostly downwards acceleration of the inner halo due to the LMC.
+    - We compare these results with simulations and find the signal is consistent with the infall of a 1.5×10^11M⊙ LMC.
+
+- [The mass of the Milky Way out to 100 kpc using halo stars](https://arxiv.org/abs/2010.13801)
+    - 100 kpc内的halo star的分布函数研究给出星系质量：The LMC biases the (pre-LMC infall) halo mass estimates towards higher values, while realistic stellar halos from cosmological simulations tend to underestimate the true halo mass.
+    - 移除了LMC产生的影响，移除了Sgr星流里的恒星
+    - Our mass estimate favours a total (pre-LMC infall) Milky Way mass of M_200c = 1.05 +/- 0.25 x 10^12 M_Sun, or (post-LMC infall) mass of M_200c = 1.20 +/- 0.25 x 10^12 M_Sun when a 1.5 x 10^11 M_Sun mass of a rigid LMC is included.
+
+- [A new feedback cycle in the archetypal cooling flow group NGC 5044](https://arxiv.org/abs/2010.13804)
+    - **Relevant**
+    - NGC5044适合研究星系群尺度上的冷气体和AGN反馈的关系：With the largest known reservoir of cold molecular gas of any group-dominant galaxy and three epochs of AGN activity visible as cavities in its hot gas
+    - We find a compact core and two small jets aligned almost in the plane of the sky, and in the orthogonal direction to the location of cavities.
+    - We find that below 5 GHz the spectrum is best fit by a self-absorbed continuous injection model representing emission coming from the jets, while the higher frequencies show clear signs of an advection dominated accretion flow
+
+- [Significant Suppression of Star Formation in Radio-Quiet AGN Host Galaxies with Kiloparsec-Scale Radio Structures](https://arxiv.org/abs/2010.13806)
+    - 100 radio-quiet X-ray selected AGN from the Swift-BAT survey的JVLA观测：find AGN-driven kiloparsec-scale radio structures inconsistent with pure star formation in 11 AGN
+    - The host galaxies of these AGN lie significantly below the star-forming main sequence, indicating suppressed star formation.
+    - We conclude that it is more likely that the observed suppression of star formation in the global host galaxy is due to ISM interactions of a radiative outflow, rather than a small-scale radio jet.
+
+- [Disk dominated galaxies retain their shapes below z=1.0](https://arxiv.org/abs/2010.13845)
+    - 关于Disk星系3-D shape的推断：Applying the 3D shape reconstruction method on COSMOS data, we find no significant dependence of the inferred 3D shape distribution on redshift. 说明盘星系从z~1的演化比较平静
+    - The relative disk thickness shows a significant mass dependence which can be accounted for by the scaling of disk radius with galaxy mass.
+
+- [Stars and gas in the most metal-poor galaxies I: COS and MUSE observations of SBS 0335-052E](https://arxiv.org/abs/2010.13963)
+    - Previous attempts to reproduce its He II 4686 emission luminosity found that X-ray sources, shocks, and single Wolf-Rayet stars are not main contributors to the He II-ionizing budget; and that only metal-free single rotating stars or binary stars with a top-heavy IMF and an unphysically-low metallicity can reproduce it.
+    - Nebular He II, [C III], C III], C IV, and O III] UV emission lines with equivalent widths between 1.7 and 5 {\AA}, and a C IV 1548, 1551 P-Cygni like profile are detected.
+    - Recent extremely-metal poor shock + precursor models and binary models fail to reproduce the observed optical emission-line ratios. 想同时拟合这些观测还是很有难度的
+    - We obtain 12+log(O/H)=7.45\pm0.04 and log(C/O)=-0.45(+0.03)(-0.04) for the galaxy
+
+- [Measuring Dark Matter in Galaxies: The Mass Fraction Within 5 Effective Radii](https://arxiv.org/abs/2010.14372)
+    - **Relevant**
+    - 利用X-ray热气体观测定总质量和DM比例：We use this technique for 102 early-type galaxies (ETGs) with stellar masses M_* > 10^10 M_Sun, to evaluate the mass fraction of dark matter (DM) within the fiducial radius r = 5 r_e, denoted f_5
+    - On average, these systems have a median f_5 = 0.8 - 0.9 with a typical galaxy-to-galaxy scatter +-0.15.
+    - We find that many of the disk galaxies (S0/SA0/SB0) have a significantly higher mean f5 than do the pure ellipticals, by Delta f_5 = 0.1. We suggest that this higher level may be a consequence of sparse stellar haloes and quieter histories with fewer major episodes of feedback or mergers.
+    - Lastly, we find that the group galaxies with stellar masses near M_* ~ 10^11 M_Sun have relatively more outliers at low f5 than in other mass ranges, possibly the result of especially effective AGN feedback in that mass range leading to expansion of their dark matter halos.
+
+- [Hierarchical star formation in nearby galaxies](https://arxiv.org/abs/2010.14419)
+    - We used ACS/HST photometry and the "path-linkage criterion" in order to obtain a catalog of young stellar groups (YSGs) in the galaxy NGC 2403
+    - We find that the vast majority of the YSGs in NGC 2403, NGC 300 and NGC 253 present inner clumpings, following the same hierarchical behavior that we observed in the young stellar structures on larger scales in these galaxies.
+    - These values are very similar to those obtained in other star forming galaxies and in the interstellar medium, suggesting that the star formation process is regulated by supersonic turbulence.
+
+- [A Closer Look at Two of the Most Luminous Quasars in the Universe](https://arxiv.org/abs/2010.14433)
+    - 对两个高红移超亮类星体的SED分析：NOEMA 3 millimeter observations of J0341+1720 reveal a highly star-forming (SFR≈1500M⊙yr−1), ultra-luminous infrared galaxy (LTIR≈1.0×10^13L⊙) host, which, based on an estimate of its dynamical mass, is only ∼30 times more massive than the SMBH it harbors at its center.
+    - As examples of luminous super-Eddington accretion, these two quasars provide support for theories, which explain the existence of billion solar mass SMBHs ∼700 million years after the Big Bang by moderate super-Eddington growth from standard SMBH seeds.
