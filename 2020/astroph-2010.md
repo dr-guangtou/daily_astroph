@@ -1336,3 +1336,39 @@
 - [A Closer Look at Two of the Most Luminous Quasars in the Universe](https://arxiv.org/abs/2010.14433)
     - 对两个高红移超亮类星体的SED分析：NOEMA 3 millimeter observations of J0341+1720 reveal a highly star-forming (SFR≈1500M⊙yr−1), ultra-luminous infrared galaxy (LTIR≈1.0×10^13L⊙) host, which, based on an estimate of its dynamical mass, is only ∼30 times more massive than the SMBH it harbors at its center.
     - As examples of luminous super-Eddington accretion, these two quasars provide support for theories, which explain the existence of billion solar mass SMBHs ∼700 million years after the Big Bang by moderate super-Eddington growth from standard SMBH seeds.
+
+----
+
+### Oct 28
+
+- [SDSS J1004+4112: the case for a galaxy cluster dominated by primordial black holes](https://arxiv.org/abs/2010.15007)
+    - 用大量原初黑洞来解释星系团中的lensed QSO 1004+4112里看到的大量的microlensing events
+    - We relax our assumption that the cluster dark matter is in the form of smoothly distributed particles, but instead is made up of compact bodies; 进行模拟：show that for a range of values for source size and lens mass the observed large microlensing amplitude is consistent with the statistics from the simulations
+
+- [Probing the cluster pressure profile with thermal Sunyaev-Zeldovich effect and weak lensing cross-correlation](https://arxiv.org/abs/2010.15064)
+    - We confront the universal pressure profile (UPP) proposed by Arnaud10 with the recent measurement of the cross-correlation function of the thermal Sunyaev-Zeldovich (tSZ) effect from Planck and weak gravitational lensing measurement from the Red Cluster Sequence lensing survey (RCSLenS).
+    - Further investigation shows that most of the signal of the cross-correlation comes from the low-redshift, inner halo profile (r⩽rvir/2) with halo mass in the range of 10^14-10^15M⊙, suggesting that this is the major regime that constitutes the cross-correlation signal between weak lensing and tSZ.
+
+- [A Giant Loop of Ionized Gas Emerging from the Tumultuous Central Region of IC 5063](https://arxiv.org/abs/2010.14542)
+    - We present recent narrow filter Hubble Space Telescope (HST) observations of diagnostic forbidden ([O III], [S II) and Balmer (Hα, Hβ) lines in the NLR of IC 5063.
+    - We find evidence for a low-ionization loop which emits brightly in [S II] and [N II], and which may arise from plume-like hot outflows that ablate ISM from the galactic plane before escaping laterally.
+
+- [Kiloparsec-scale ALMA Imaging of [CII] and Dust continuum Emission of 27 Quasar Host Galaxies at z~6](https://arxiv.org/abs/2010.14874)
+    - The [CII] emission in the bright, central regions of the quasars have sizes of 1.0-4.8kpc. 尘埃连续谱分布一般比[CII]更compact一些
+    - We find no correlation between the central brightness of the FIR emission and the bolometric luminosity of the accreting black hole.
+    - The FIR-derived star-formation rate densities (SFRDs) in the host galaxies peak at the galaxies' centers 和Local ULIRGS类似
+
+- [No evidence for [CII] halos or high-velocity outflows in z>6 quasar host galaxies](https://arxiv.org/abs/2010.14875)
+    - ALMA观测：We find that the average surface brightness profile of both the [CII] and the dust continuum emission can be described by a steep component within a radius of 2kpc, and a shallower component with a scale length of 2kpc, detected up to ~10kpc.
+    - Although the central component of the dust continuum emission is more compact than that of the [CII] emission, the extended components have equivalent profiles. The observed extended components are consistent with those predicted by hydrodynamical simulations of galaxies with similar infrared luminosities, where the dust emission is powered by star formation.
+    - The [CII] spectrum measured in the mean uv-plane stacked data can be described by a single Gaussian, with no observable [CII] broad-line emission (velocities in excess of >500km/s), that would be indicative of outflows.
+
+- [Simulations of the merging galaxy cluster Abell 2034: what determines the level of separation between gas and dark matter](https://arxiv.org/abs/2010.14906)
+    - The cluster, at z = 0.114, consists of two substructures with mass ratio of about 1:2.2, separated by ∼720 kpc. The X-ray emission peak is offcentred from the south DM peak by ∼350 kpc
+    - Our best model assuming that the collision is close to the plane of the sky, with a small impact parameter, observed 0.26 Gyr after central passage
+    - The level of dissociation was quantified by the distances between X-ray and DM peaks, and also by the gas retention in the cluster cores. We found that the ratio of central gas densities is more important than the ratio of central DM densities in determining the level of dissociation.
+
+- [A Multi-wavelength Study of the Dual Nuclei in Mrk 212](https://arxiv.org/abs/2010.14914)
+    - Mrk 212 has two previously known radio sources associated with the two optical nuclei, S1 and S2, with a projected separation of ~6 kpc, making it a dual active galactic nuclei (AGN) candidate.
+    - Our new 15 GHz VLA observations reveal that S1 is a double radio source centred around the optical nucleus; its total extent is ~750 parsec
+    - The 15 GHz VLA image identifies the radio source at S2 to be a compact core. Our radio observations therefore strongly support the presence of a dual AGN in Mrk 212. 但光学发射线比位于composite region
