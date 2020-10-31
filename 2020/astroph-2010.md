@@ -1372,3 +1372,88 @@
     - Mrk 212 has two previously known radio sources associated with the two optical nuclei, S1 and S2, with a projected separation of ~6 kpc, making it a dual active galactic nuclei (AGN) candidate.
     - Our new 15 GHz VLA observations reveal that S1 is a double radio source centred around the optical nucleus; its total extent is ~750 parsec
     - The 15 GHz VLA image identifies the radio source at S2 to be a compact core. Our radio observations therefore strongly support the presence of a dual AGN in Mrk 212. 但光学发射线比位于composite region
+
+----
+
+### Oct 29
+
+- [Properties of gas phases around cosmic filaments at z=0 in the Illustris-TNG simulation](https://arxiv.org/abs/2010.15139)
+    - 基于TNG-300：We show that filaments are essentially dominated by gas in the warm-hot intergalactic medium (WHIM), which accounts for more than 86% of the baryon budget
+    - Apart from WHIM gas, cores of filaments (r ≤ 1 Mpc) also host large contributions other hotter and denser gas phase
+
+- [21cmFAST v3: A Python-integrated C code forgenerating 3D realizations of the cosmic 21cm signal](https://arxiv.org/abs/2010.15121)
+    - This brief code paper presents a new Python-wrapped version of the popular 21cm cosmology simulator, 21cmFAST. The new version, v3+, maintains the same core functionality of previous versions of 21cmFAST, but features a simple and intuitive interface, and a great deal more flexibility.
+
+- [Processing GOTO data with the Rubin Observatory LSST Science Pipelines I : Production of coadded frames](https://arxiv.org/abs/2010.15142)
+    - **Useful**
+    - https://github.com/jrmullaney/obs_necam A bare-bones obs package for the LSST stack
+    - Gravitational-wave Optical Transient Observer (GOTO), whose primary science objective is the optical follow-up of Gravitational Wave events.
+    - After comparing the measured astrometry and photometry to those of matched sources from PanSTARRS DR1, we find that measured source positions are typically accurate to sub-pixel levels, and that measured L-band photometries are accurate to ∼50 mmag at mL∼16 and ∼200 mmag at mL∼18.
+
+- [Recommended Target Fields for Commissioning the Vera C. Rubin Observatory](https://arxiv.org/abs/2010.15318)
+    - **Useful, CSST**
+    - Our recommended fields include Deep-Drilling fields (DDFs) to full LSST depth for photo-z and shape calibration purposes, HST imaging fields to full depth for deblending studies, and an ∼200 square degree area to 1-year depth in several filters for higher-level validation of wide-area science cases for DESC.
+
+- [Measuring the Mass of Missing Baryons in the Halo of Andromeda Galaxy with Gamma-Ray Observations](https://arxiv.org/abs/2010.15477)
+    - Since cosmic-ray particles that are generated inside the galaxy will eventually escape to the CGM, they will produce gamma-ray emission via the proton-proton collision with CGM. Different from some traditional measurements which are sensitive only to gas in certain specific temperature range, the hadronic gamma-ray flux is sensitive to baryonic gases in all phases and does not rely on the metallicity in the halo.
+    - It implies that the CGM of Andromeda Galaxy may not account for more than 30% of the missing baryons, but the result is subject to uncertainties from the diffusion coefficient of the CRs in the halo as well as the stellar mass and dark matter halo mass of the galaxy.
+
+- [Measuring the mass and concentration of dark matter halos from the velocity dispersion profile of their stars](https://arxiv.org/abs/2010.15123)
+    - **Relevant, Interesting**
+    - 在TNG中看DM和恒星的速度弥散度轮廓：The mean profile calculated from both dark and luminous tracers are similar in shape, exhibiting a large degree of halo-to-halo scatter around the average profile. The so-called "splashback" radius demarcates the outer boundary of the halo, and manifests as a kink in the velocity dispersion profile, located on average between ∼1.0−1.5r200m
+    - We find that this location may also be identified as the radius at which the (stacked) velocity dispersion profile drops to 60% of its peak value (for line-of-sight motions of stellar and dark matter particles in TNG halos)
+    - 速度弥散度轮廓的scatter可能和assembly有关：within ∼0.1r200m, where the scatter in the velocity dispersion within is set by the early assembly history of the halo, and the other beyond this radius where the scatter in the velocity dispersion is influenced more strongly by its late-time assembly.
+    - 提供了一个模型，可以通过halo质量和concentration来预测速度弥散度profile
+
+- [[NII] fine-structure emission at 122 and 205um in a galaxy at z=2.6: a globally dense star-forming interstellar medium](https://arxiv.org/abs/2010.15128)
+    - ALMA观测，用[NII]线比值定电离气体的电子密度：The 122/205um [NII] line ratio is sensitive to electron density, n_e, in the ionised interstellar medium, and we use this to measure n_e~300cm^-3 averaged across the galaxy. 比银河系的平均值高一个量级，和有些恒星形成区类似
+    - The majority of the molecular interstellar medium has been driven to high density, and the resultant conflagration of star formation produces a correspondingly dense ionised phase, presumably co-located with myriad HII regions that litter the gas-rich disk.
+
+- [The Distribution of Neutral Hydrogen in the Color-Magnitude Plane of Galaxies](https://arxiv.org/abs/2010.15140)
+    - We present the conditional HI (neutral hydrogen) Mass Function (HIMF) conditioned on observed optical properties, Mr (r-band absolute magnitude) and Cur (u−r color), for a sample of 7709 galaxies from ALFALFA
+    - We find that the luminous red, luminous blue and faint blue populations dominate the total HIMF at the high-mass end, knee and the low-mass end respectively.
+    - The distribution, p(ΩHI), peaks in the blue cloud at Mmaxr= −19.25,Cmaxur=1.44 but is skewed. It has a long tail towards faint blue galaxies and luminous red galaxies
+
+- [Exploring the hot gaseous halo around an extremely massive and relativistic jet launching spiral galaxy with XMM-Newton](https://arxiv.org/abs/2010.15131)
+    - **Interesting**
+    - The extremely massive, rapidly rotating, relativistic-jet-launching spiral galaxy 2MASX J23453268-0449256
+        - 恒星质量接近5x10^11 Msun
+    - 热X-ray halo可以一直被探测到160kpc处; 气体模型拟合得到的质量可以承担65%的重子质量
+    - 加上恒星质量后，Virial半径内的重子物质比例是12.1%; 与cosmic average相符
+    - Similar to the massive spiral galaxies NGC 1961 and NGC 6753, we find a low value for the metal abundance of ≈0.1Z⊙, which appears uniform with radius.
+
+- [Predictions for Strong Lens Detections with the Nancy Grace Roman Space Telescope](https://arxiv.org/abs/2010.15173)
+    - We predict that approximately 17,000 strong gravitational lenses will also be detectible in the Nancy Grace Roman Space Telescope 2000 square degree survey, using the LensPop gravitational lensing model.
+
+- [Rise of the Titans: Gas Excitation and Feedback in a Binary Hyper-Luminous Dusty Starburst Galaxy at z~6](https://arxiv.org/abs/2010.15183)
+    - We detect CO 2-1, 8-7, 9-8, 10-9 and H2O(321-221) emission, and a P-Cygni-shaped OH+(11-01) absorption/emission feature.
+    - 能得到气体质量：A high density, high kinetic temperature gas component embedded in the gas reservoir is required to fully explain the CO line ladder. 可能是来自并合导致的maximum starburst核心
+    - The kinematic structure of both components is consistent with galaxy disks 但分辨率不是很高
+    - The OH+ features are only detected towards the northern component, which is also the one that is more enshrouded in dust and thus remains undetected up to 1.6 um even in our sensitive new HST/WFC3 imaging
+
+- [SDSS-IV MaNGA: When is morphology imprinted on galaxies?](https://arxiv.org/abs/2010.15213)
+    - Although the correlation between a galaxy's contemporaneous morphology and star-formation rate is strong over a large range of lookback times, we find that a galaxy's present-day morphology only correlates with its relatively recent (~2 Gyr) star-formation history.
+    - We therefore find strong evidence that morphological transitions to galaxies' current appearance occurred on timescales as short as a few billion years.
+
+- [An environmental dependence of the physical and structural properties in the Hydra Cluster galaxies](https://arxiv.org/abs/2010.15235)
+    - S-PLUS巡天：大部分星系都quenched了，而且有sub-structure: Hydra shows an additional substructure that appears to be in front of the cluster centre, which is still falling into it.
+    - The S\'ersic index of galaxies, and thus their structural properties, do not significantly vary as a function of clustercentric distance and density within the cluster; and this is the case regardless of the filter.
+
+- [Can supernova shells feed supermassive black holes in galactic nuclei?](https://arxiv.org/abs/2010.15412)
+    - The simulations show that supernovae occurring within a conical region around the rotational axis of the galaxy can feed the central accretion disk surrounding the SMBH.
+    - 每个SN能带到final parsec的质量不低，取决于附近的ISM的密度; Supernova occurring in the aftermath of a starburst event near a galactic center can supply two to three orders of magnitude more mass into the central parsec, depending on the magnitude of the starburst.
+
+- [The Dust-to-Gas Ratio and the Role of Radiation Pressure in Luminous Obscured Quasars](https://arxiv.org/abs/2010.15460)
+    - 低红移的Obscured AGN的吸积率较低，has generally been explained to result from radiation pressure on the dusty gas governing the level of nuclear (≲10pc) obscuration; 但高红移的高光度obscured AGN可以有很高的Eddington ratio，可能有不同的feedback机制
+    - 可能是时标问题：This apparent lack of radiation pressure feedback in luminous obscured quasars is likely coupled with AGN timescales, such that a higher fraction of luminous obscured quasars are seen due to the short timescale for which quasars are most luminous.
+
+- [SuperBoRG: Search for The Brightest of Reionizing Galaxies and Quasars in HST Parallel Imaging Data](https://arxiv.org/abs/2010.15637)
+    - 过往10年的WFC3 parrallel fields观测：The total effective area reaches ∼0.41deg2 from 4.1Msec, or 47days, of observing time
+    - The dataset consists of 316 independent sightlines and is highly effective for identification of high-z luminous sources (MUV<−21mag) at z∼7 to 12, helping to minimize the effects of cosmic variance.
+    - we present three new z>7 source candidates, including one luminous galaxy candidate at zphot∼10.4 with MUV∼−21.9 mag
+
+- [Characterizing the Circumgalactic Medium of the Lowest-Mass Galaxies: A Case Study of IC 1613](https://arxiv.org/abs/2010.15645)
+    - **Interesting**
+    - HST COS观测：4 are pointed towards UV-bright stars in IC1613, and the other 6 sightlines are background QSOs at impact parameters from 6 kpc (<0.1R200) to 61 kpc (0.6R200).
+    - 探测到了很多来自IC1613束缚的气体的吸收：Si II, Si III, Si IV, C II, and C IV
+    - 能估计恒星，ISM，CGM气体中的Si的比例，各占3%, 2%, 32-42%；能估计外流率以及instantaneous metal mass loading factor
