@@ -308,6 +308,7 @@
     - We find a near proportional [CII]-SFR scaling relation for beam-sized regions, though the exact scaling depends on methodology. [CII] also becomes increasingly luminous relative to CO at low SFR (interarm or large radii), likely indicating more efficient photodissociation of CO and emphasizing the importance of [CII] as an H2 and SFR tracer in such regimes
 
 - [Bringing faint Active Galactic Nuclei (AGN) to light](https://arxiv.org/abs/2011.02501)
+    - **Study** 适合学习不同模拟的AGN处理方式
     - 着眼于未来的X-ray设备，Athena, AXIS, Lynx等，看不同模拟里的低光度AGN
     - We analyze the population of faint AGN (L_x (2-10 keV) < 10^42 erg/s) in the Illustris, TNG100, EAGLE, and SIMBA large-scale cosmological simulations. We find that the properties of the faint AGN host galaxies vary from simulation to simulation. In Illustris and EAGLE, faint AGN of L_x (2-10 keV) ~ 10^38 erg/s are powered by low-mass BHs and they are typically located in low-mass star-forming galaxies. In TNG100 and SIMBA, they are mostly associated with more massive BHs in quenched massive galaxies.
     - While the AGN dominate the hard X-ray galaxy luminosity at high redshift (z>2), the X-ray binaries often dominate at low redshift (z<2). The X-ray luminosity of star-forming galaxies is often dominated by AGN emission, and of quenched galaxies by XRB emission.
@@ -344,7 +345,7 @@
 
 - [The GALAH+ Survey: Third Data Release](https://arxiv.org/abs/2011.02505)
     - **Important**
-    - We publish 678 423 spectra for 588 571 mostly nearby stars (81.2% of stars lie within 2 kpc), observed with the HERMES spectrograph at the Anglo-Australian Telescope. This release (referred to as GALAH+ DR3) includes all observations from GALAH Phase 1 (bright, main, & faint survey, 70%), the K2-HERMES (17%) & TESS-HERMES (5%) surveys, as well as additional GALAH-related projects (8%) including the bulge & observations of more than 75 stellar clusters. 
+    - We publish 678 423 spectra for 588 571 mostly nearby stars (81.2% of stars lie within 2 kpc), observed with the HERMES spectrograph at the Anglo-Australian Telescope. This release (referred to as GALAH+ DR3) includes all observations from GALAH Phase 1 (bright, main, & faint survey, 70%), the K2-HERMES (17%) & TESS-HERMES (5%) surveys, as well as additional GALAH-related projects (8%) including the bulge & observations of more than 75 stellar clusters.
     - We also derive abundance ratios [X/Fe] for 30 elements (11 of which based on non-LTE computations), that cover 5 nucleosynthetic pathways: Li, C, O, Na, Mg, Al, Si, K, Ca, Sc, Ti, V, Cr, Mn, Co, Ni, Cu, Zn, Rb, Sr, Y, Zr, Mo, Ru, Ba, La, Ce, Nd, Sm, Eu.
     - [The GALAH survey: tracing the Galactic disk with Open Clusters](https://arxiv.org/abs/2011.02533)
     - [The GALAH Survey: Accreted stars also inhabit the Spite Plateau](https://arxiv.org/abs/2011.02659)
@@ -355,4 +356,87 @@
     - We present KN luminosity function and discuss the detectability of KN and GRB afterglow in connection with GW detections, GW-triggered ToO observations, and blind searches in time-domain survey observations.
         - The predicted absolute magnitude of the BH-NS merger KNe at 0.5day after the merger falls in the range of [−10,−15.5].
     - The detectability of KN emission is sensitive to the BH spin. If primary BHs typically have a low spin, the EM counterpart of BH-NSs are hard to discover.
-    - Follow up observations can in any case detect possible associated sGRB afterglows, from which KN signatures may be studied. For time-domain survey observations, a high-cadence search in redder filters is recommended to detect more BH-NS KNe and afterglows. 
+    - Follow up observations can in any case detect possible associated sGRB afterglows, from which KN signatures may be studied. For time-domain survey observations, a high-cadence search in redder filters is recommended to detect more BH-NS KNe and afterglows.
+
+----
+
+### Nov 8
+
+- [Neutrino mass bounds from confronting an effective model with BOSS Lyman-alpha data](https://arxiv.org/abs/2011.03050)
+    - **SSST**
+    - We present an effective model for the one-dimensional Lyman-α flux power spectrum far above the baryonic Jeans scale; encode the impact of small, highly non-linear scales on the one-dimensional power spectrum on large scale
+    - The model displays a degeneracy between the neutrino masses and the (unknown, in our formalism) normalization of the flux power spectrum.
+    - This approach can be used to extract bounds on the sum of neutrino masses with comparably low numerical effort, while allowing for a conservative treatment of uncertainties from the dynamics of the intergalactic medium.
+
+- [Illuminating the dark side of cosmic star formation two billion years after the Big Bang](https://arxiv.org/abs/2011.03051)
+    - **Interesting**
+    - 目前高红移的SFRD主要来自紫外亮的星系：We present a new approach to find dust-obscured star-forming galaxies based on their emission at radio wavelengths coupled with the lack of optical counterparts.
+    - 很多都是在之前没有考虑在SFRD内的，影响可能比较大：The contribution of these elusive systems to the SFRD is substantial and can be as high as 40% of the previously known SFRD based on UV-luminous galaxies.
+
+- [Dark Energy Survey Year 3 Results: Photometric Data Set for Cosmology](https://arxiv.org/abs/2011.03407)
+    - **Important** A lot of useful notes in the appendix
+    - Y3 Gold comprises nearly 5000 square degrees of grizY imaging in the south Galactic cap, including nearly 390 million objects, with depth reaching S/N ~ 10 for extended objects up to iAB∼23.0
+    - Y3 Gold augments DES DR1 with simultaneous fits to multi-epoch photometry for more robust galaxy color measurements and corresponding photometric redshift estimates
+
+- [Dark Energy Survey Year 3 Results: Weak Lensing Shape Catalogue](https://arxiv.org/abs/2011.03408)
+    - **Important**
+    - ~4143 deg^2; We describe our data analysis process and our self-calibrating shear measurement pipeline METACALIBRATION,
+    - The DES Year 3 weak-lensing shape catalogue consists of 100,204,026 galaxies, measured in the riz bands, resulting in a weighted source number density of neff=5.59 gal/arcmin2 and corresponding shape noise σe=0.261.
+
+- [Dark Energy Survey internal consistency tests of the joint cosmological probes analysis with posterior predictive distributions](https://arxiv.org/abs/2011.03410)
+    - We find that the DES Y1 data have an acceptable goodness of fit to ΛCDM, with a probability of finding a worse fit by random chance of p=0.046.
+    - we observe a small tension between large- and small-scale measurements. A small part (roughly 1.5%) of the data vector shows an unusually large departure from expectations; excluding this part of the data has negligible impact on cosmological constraints, but does significantly improve the p-value to 0.10.
+
+- [Dark Energy Survey Year 3 Results: Optimizing the Lens Sample in Combined Galaxy Clustering and Galaxy-Galaxy Lensing Analysis](https://arxiv.org/abs/2011.03411)
+    - **Important**
+    - 看结合g-g lensing和clustering能带来多大改进：We explore easily reproducible selections based on magnitude cuts in i-band as a function of (photometric) redshift, zphot, and benchmark the potential gains against those using the well established redMaGiC sample
+    - Our optimal selection, the MagLim sample, satisfies i<4zphot+18 and has ∼30% wider redshift distributions but ∼3.5 times more galaxies than redMaGiC. Assuming a wCDM model and equivalent scale cuts to mitigate nonlinear effects, this leads to 40% increase in the figure of merit
+
+- [BICEP / Keck Array XII: Constraints on axion-like polarization oscillations in the cosmic microwave background](https://arxiv.org/abs/2011.03483)
+    - A local axion field induces an all-sky, temporally sinusoidal rotation of CMB polarization.
+    - 复习：Axion-like particles (sometimes abbreviated as ALPs), which are light, bosonic particles with couplings to the Standard Model (SM) that are similar to that of the QCD axion but with important differences
+        - Very light axions can have astrophysically large deBroglie wavelengths, which have macroscopic consequences for the formation of structure. Such dark-matter candidates are sometimes referred to as fuzzy dark matter
+
+- [Dark Energy Survey Year 3 Results: Point-Spread Function Modeling](https://arxiv.org/abs/2011.03409)
+    - **Useful** 关于Piff的介绍
+    - We describe the relevant details about the algorithms used by Piff to model the PSF, including how the PSF model varies across the field of view (FOV).
+    - The systematic errors from the PSF modeling are significantly smaller than the corresponding results from the DES year one (Y1) analysis
+
+- [Disentangling the AGN and star-formation contributions to the radio-X-ray emission of radio-loud quasars at 1<z<2](https://arxiv.org/abs/2011.03130)
+    - Here we introduce a state-of-the-art AGN radio-to-X-ray spectral energy distribution fitting model (ARXSED).
+    - At radio wavelengths, ARXSED accounts for radiation from the radio structures (e.g., lobes,jets). At near-infrared to far-infrared wavelengths, ARXSED combines a clumpy medium and a homogeneous disk to account for the radiation from the torus.
+    - 应用在20个射电噪的1 < z < 2的3CRR类星体上：We find that a single power-law is unable to fit the radio emission when compact radio structures (core, hot spots) are present. We find that the non-thermal emission from the quasars' radio structures contributes significantly (>70%) to the submm luminosity in half the sample
+
+- [The 60-pc Environment of FRB 20180916B](https://arxiv.org/abs/2011.03257)
+    - 149Mpc处，有精确定位以及16.35-day burst的FRB: GTC+HST观测
+    - 对FRB所在区域可能的HII区的Halpha流量给出上限：The constraint on Hα suggests that possible stellar companions to FRB 20180916B should be of a cooler, less massive spectral type than O6V.
+    - FRB 20180916B is 250 pc away (in projected distance) from the brightest pixel of the nearest young stellar clump 如果假定这个恒星形成区是FRB前身的诞生地的话，考虑到移动出HII区到现在位置的时间与磁星不符合。 Rather, the inferred age and observed separation are compatible with the ages of high-mass X-ray binaries and gamma-ray binaries, and their separations from the nearest OB associations.
+
+- [New Horizons Observations of the Cosmic Optical Background](https://arxiv.org/abs/2011.03052)
+    - **Interesting**
+    - New Horizons LORRI camera to measure the optical-band (0.4≲λ≲0.9μm) sky brightness within seven high galactic latitude fields.
+    - The average raw level measured while New Horizons was 42 to 45 AU from the Sun is 33.2±0.5 nW m−2 sr−1. This is ∼10× darker than the darkest sky accessible to the {\it Hubble Space Telescope}
+    - We remove newly identified residual zodiacal light from the IRIS 100μm all sky maps to generate two different estimates for the diffuse galactic light (DGL).
+    - 对结果的解释：Explaining it with undetected galaxies requires the galaxy-count faint-end slope to steepen markedly at V>24 or that existing surveys are missing half the galaxies with V<30
+
+- [Detection of faint stars near SgrA* with GRAVITY](https://arxiv.org/abs/2011.03058)
+    - We used GRAVITY to observe SgrA* over a period of six months in 2019 and employed interferometric reconstruction methods developed in radio astronomy to search for faint objects near SgrA*. 主要科学动机是找到比S2更靠近银心黑洞的恒星
+    - This revealed a slowly moving star of magnitude 18.9 in K band within 30mas of SgrA*. The position and proper motion of the star are consistent with the previously known star S62, which is at a substantially larger physical distance, but in projection passes close to SgrA*.
+
+- [LeMMINGs. II. The e-MERLIN legacy survey of nearby galaxies. The deepest radio view of the Palomar sample on parsec scale](https://arxiv.org/abs/2011.03062)
+    - e-MERLIN观测：high-resolution (≤0.2 arcsec) 1.5-GHz radio images of 177 nearby galaxies from the Palomar sample
+    - This large program is the deepest radio survey of the local Universe
+    - We detect radio emission ≳0.25 mJy beam−1 for 125/280 galaxies (44.6 per cent) with sizes of typically ≲100 pc. Of those 125, 106 targets show a core which coincides within 1.2 arcsec with the optical nucleus.
+    - Around one third of the detected galaxies features jetted morphologies.
+    - LINERs and Seyferts are the most luminous sources, whereas HII galaxies are the least. LINERs show FRI-like core-brightened radio structures, while Seyferts reveal the highest fraction of symmetric morphologies.
+
+- [Molecular hydrogen in IllustrisTNG galaxies: carefully comparing signatures of environment with local CO & SFR data](https://arxiv.org/abs/2011.03226)
+    - TNG100 predicts that satellites with m∗≥10^9M⊙ should have a median deficit in their H2 fractions of ∼0.6 dex relative to centrals of the same stellar mass. Once observational and group-finding uncertainties are accounted for, the signature of this deficit decreases to ∼0.2 dex. 与xGOLD GASS的观测相符
+    - We further show that TNG100 and SDSS data exhibit continuous declines in the average star formation rates of galaxies at fixed stellar mass in denser environments
+    - By tracking satellites from their moment of infall in TNG100, we directly show that atomic hydrogen (HI) is depleted at fractionally higher rates than H2 on average. 在xGOLD样本中也的确看到了satellite星系中H2/HI质量比相对于central的升高
+
+- [A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE). VIII. Modeling ram pressure stripping of diffuse gas in the Virgo cluster spiral galaxy NGC 4330](https://arxiv.org/abs/2011.03437)
+    - We introduce a new version of the dynamical model that includes the diffuse ionized gas and aim to reproduce the HI, Hα, UV distributions together with the star formation histories of the outer gas-free parts of the galactic disk.
+    - The inclusion of diffuse gas stripping changes significantly the HI, UV, and Hα emission distributions. The simulations with diffuse gas stripping naturally lead to vertical low surface density filaments in the downwind region of the galactic disk.
+    - 有助于解释不通波段的辐射形态和SED：结论就是加入弥散气体成分很重要
+    - Our preferred model yields a time to peak ram pressure of 140 Myr in the future. The spatial coincidence of the radio continuum and diffuse Hα tails suggests that both gas phases are stripped together.
