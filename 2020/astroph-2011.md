@@ -440,3 +440,84 @@
     - The inclusion of diffuse gas stripping changes significantly the HI, UV, and Hα emission distributions. The simulations with diffuse gas stripping naturally lead to vertical low surface density filaments in the downwind region of the galactic disk.
     - 有助于解释不通波段的辐射形态和SED：结论就是加入弥散气体成分很重要
     - Our preferred model yields a time to peak ram pressure of 140 Myr in the future. The spatial coincidence of the radio continuum and diffuse Hα tails suggests that both gas phases are stripped together.
+
+----
+
+### Nov 9
+
+- [Redshift-space distortions in simulations of the 21-cm signal from the cosmic dawn](https://arxiv.org/abs/2011.03558)
+    - Using our suite of fully numerical radiative transfer simulations, we investigate the impact on the redshifted 21-cm from the CD from one of these processes, namely the redshift-space distortions (RSDs).
+    - When RSDs are added, the resulting boost to the power spectra makes the signal more detectable for our models at all redshifts, further strengthening hopes that a power spectra measurement of the CD will be possible.
+    - The inclusion of RSDs, however, decreases detectability of the non-Gaussianity of fluctuations from inhomogeneous X-ray heating measured by the skewness and kurtosis
+
+- [Constraining Reionization in Progress at z=5.7 with Lyman-α Emitters: Voids, Peaks, and Cosmic Variance](https://arxiv.org/abs/2011.03559)
+    - We construct models of the LAE distribution in (1 Gpc/h)3 volumes, spanning a range of neutral fractions at z=5.7 and 6.6. Models with a higher neutral fraction show an enhanced probability of finding holes in the LAE distribution.
+    - When comparing models at fixed mean surface density, however, LAEs obscured by neutral gas in the voids must be compensated by visible LAEs elsewhere.
+    - Compared to the widely used angular two-point correlation function (2PCF), we find that the void probability function (VPF) provides a more sensitive test of models during the latter half of reionization.
+
+- [On the Non-detection of Circular Polarisation from Repeating Fast Radio Bursts](https://arxiv.org/abs/2011.03960)
+    - We draw attention to the non-detection of circularly polarised radio emission from repeating FRBs, and suggest that this could be a key discriminant of the origin of repeating and non-repeating FRBs.
+    - We argue that if repeating FRBs are powered by fast rotating (e.g., sub-second) pulsars with ultra-strong magnetic fields, circular polarisation cannot be produced by propagation effects in the magnetosphere.
+    - Alternatively, if repeating FRBs originate from slow rotating (e.g., second) pulsars, we argue that the lack of circular polarisation suggests that the emission comes from relatively high altitudes in the magnetosphere.
+
+- [MOSAIC on the ELT: high-multiplex spectroscopy to unravel the physics of stars and galaxies from the dark ages to the present-day](https://arxiv.org/abs/2011.03549)
+    - MOSAIC has a high multiplex in the NIR and in the VIS, in addition to multi-Integral Field Units (Multi-IFUs) in NIR.
+    - MOSAIC will enable detailed maps of the intergalactic medium at z=3, the evolutionary history of dwarf galaxies during a Hubble time, the chemistry directly measured from stars up to several Mpc.
+
+- [CLEAR: The Gas-Phase Metallicity Gradients of Star-Forming Galaxies at 0.6 < z < 2.6](https://arxiv.org/abs/2011.03553)
+    - 264个CANDELS场里的星系的气态丰度：The majority of galaxies (84%) in this sample are consistent with a zero or slightly positive metallicity gradient across the full mass range probed (8.5 < log M_*/M_sun < 10.5).
+    - We measure the intrinsic population scatter of the metallicity gradients, and show that it increases with decreasing stellar mass. We find no evidence for a correlation with the galaxy properties we consider---including star-formation rates, sizes, star-formation rate surface densities, and star-formation rates per gravitational potential energy.
+
+- [Void Probability Function of Simulated Surveys of high-redshift Lyman-Alpha Emitters](https://arxiv.org/abs/2011.03556)
+    - The VPF measures the zero-point correlation function (i.e. places devoid of galaxies) and naturally connects to higher order correlation functions while being computationally simple to calculate.
+    - At small radii the accuracy of the VPF is limited by galaxy density, while at large radii the VPF is limited by the number of independent volumes probed.
+    - The negative binomial model (NBM) has been shown to best describe the scaling between the two point correlation function and VPF for low-redshift galaxy observations.
+    - LAEs show higher order clustering terms similar to those of normal low redshift galaxies.
+    - 复习：VPF：Sometimes called the ‘zero-point’ correlation function (the average distance where no galaxies exist), the VPF ties theoretically to the higher order correlation functions (White 1979).
+        - The count-in-cells statistic includes the VPF and information about several averaged correlation function moments, and appears to follow a predictable pattern of scaling due to gravity.
+        - The VPF and two-point and higher order correlation functions are theoretically connected through this "hierarchical scaling", the idea that the first galaxies to form trace the first structures to collapse, following the evolution of Gaussian density fluctuations due to gravitational instabilities (Coil 2013).
+        - The hierarchical scaling between the count-in-cells measured VPF and volume-averaged correlation functions has been found to follow the negative binomial model (NBM) in z < 1 galaxy surveys (e.g., Croton et al. 2004a; Conroy et al. 2005; Tinker et al. 2008) and in simulations (e.g., Andrew et al. 2013).
+        - The VPF was found to be sensitive to Halo Occupancy Distribution (HOD) models with different minimum host masses where the two-point angular correlation function was not (Tinker et al. 2006; Berlind & Weinberg 2002)
+
+- [Centrally concentrated molecular gas driving galactic-scale ionised gas outflows in star-forming galaxies](https://arxiv.org/abs/2011.03566)
+    - 主要是看哪些星系能产生很强的星风：We observed CO(1-0) at 1" resolution with ALMA in 16 edge-on galaxies
+    - We find that the galaxies powering outflows do not possess significantly different global gas fractions or star-formation efficiencies when compared with a control sample 但这些强星风星系中的分子气体分布得更集中
+        - For our outflow-type objects, molecular gas and star-formation is largely confined within their inner effective radius (reff)
+    - We infer that outflows in normal star-forming galaxies may be caused by dynamical mechanisms that drive molecular gas into their central regions, which can result in locally-enhanced gas surface density and star-formation.
+
+- [Mass-radius relation of intermediate-age disk super star clusters of M82](https://arxiv.org/abs/2011.03594)
+    - 基于EMACSS半解析模型的幸存分析研究：99 intermediate-age Super Star Cluster (SSCs) in the disk of M82
+    - The SSCs follow a power-law mass function with an index α=1.5, and a log-normal size function with a typical half-light radius, Rh=4.3 pc, which are both comparable with the values for clusters in the Magellanic Clouds, rather than in giant spirals
+    - A dynamical analysis of M82 SSCs using EMACSS suggests that 23% of the clusters are tidally-limited, with the rest undergoing expansion at present. 大部分都会在2Gyr内瓦解
+    - A group of four massive compact clusters, and another group of five SSCs at relatively large galactocentric distances, are found to survive for a Hubble time.
+
+- [The Sami Galaxy Survey: stellar populations of passive spiral galaxies in different environment](https://arxiv.org/abs/2011.03736)
+    - **Relevant**
+    - Our sample consists of 52 cluster passive spirals and 18 group/field passive spirals, as well as a set of S0s used as a control sample.
+    - 基于Lick指数：the field/group passive spirals with log(M⋆/M⊙)≳10.5 show decreasing [α/Fe] along with stellar mass, which is ∼0.1 dex smaller than that of the cluster passive spirals.
+    - Spiral和S0的比较，有环境差别：In the clusters, we find that passive spirals show slightly younger age and lower [α/Fe] than the S0s over the whole mass range. In the field/group, stellar populations show a similar trend between passive spirals and S0s
+    - We relate the age and [α/Fe] of passive spirals to their mean infall time in phase-space; we find a positive correlation, in agreement with the prediction of numerical simulations
+
+- [A new observation-based clumpy torus model for activate galactic nuclei](https://arxiv.org/abs/2011.03851)
+    - We perform a broadband X-ray spectral analysis of a large unbiased sample of obscured AGN in the nearby universe which have high-quality archival NuSTAR data, enabling us to accurately characterize the physical and geometrical properties of their obscuring tori
+    - We find that different types of AGN may possess similar tori, which are on average Compton thick (NH,tor,ave~1.4x10^24 cm^-2 ) and are significantly clumpy (e.g., for >80% of sources in our sample, their torus average column densities are more than three times different from their line-of-sight column densities). 并构建一个新的clumpy torus的模型
+
+- [Metal-THINGS: On the metallicity and ionization of ULX sources in NGC 925](https://arxiv.org/abs/2011.04302)
+    - A BPT analysis demonstrates that most spaxels in NGC 925 are dominated by star-forming regions, including those associated with ULX-1 and ULX-3
+    - Interestingly, ULX-1 shows a very low gas metallicity for its galactocentric distance, identified by two independent methods, while exhibiting a typical ionization. We find that such low gas metallicity is best explained in the context of the high-mass X-ray binary population
+
+- [A study of the HI gas fractions of galaxies at z ~ 1](https://arxiv.org/abs/2011.04500)
+    - 用光学代理估计HI和恒星质量的比例，用来估计DEEP2星系的HIMF：It is found that the high mass end of high-z HI mass function (HIMF) is quite similar to that of the local HIMF.
+    - Massive star-forming galaxies do not dominate the neutral gas at z ~ 1.
+    - We study the evolution of the HI mass to stellar mass ratio from z ~ 1 to today and find a steeper relation between HI gas mass fraction and stellar mass at higher redshifts.
+    - Specifically, galaxies with M_* = 10^{11} M_solar at z ~1 are found to have 3-4 times higher neutral gas fractions than local galaxies, while the increase is as high as 4-12 times at M_* = 10^{10} M_solar. 高红移星系的HI比例更高
+
+- [Absorption-selected galaxies trace the low-mass, late-type, star-forming population at z∼2−3](https://arxiv.org/abs/2011.04557)
+    - Our analysis reveals complex, irregular hosts with multiple star-forming clumps.
+    - 40% of our absorption-selected sample requires multiple Sersic components for an accurate modelling of the observed galaxy light distributions. We measure half-light radii in the range r_1/2 ~ 0.4 - 2.6 kpc based on the reddest band (F160W) to trace the oldest stellar populations, and stellar masses in the range log M*[Msun] ~ 8 - 10 derived from spectral energy distribution (SED)
+    - 大部分都是低质量恒星形成星系：we find that an absorption-selection at high redshift extends known relations determined from deep luminosity-selected surveys to an order of magnitude less massive galaxies, primarily composed of star forming late-types.
+
+- [Multiple Stellar Evolution: a population synthesis algorithm to model the stellar, binary, and dynamical evolution of multiple-star systems](https://arxiv.org/abs/2011.04513)
+    - **Impressive**
+    - We present the population synthesis code Multiple Stellar Evolution (MSE), designed to rapidly model the stellar, binary, and dynamical evolution of multiple-star systems
+    - MSE includes a number of new features not present in previous population synthesis codes: 1) an arbitrary number of stars, as long as the initial system is hierarchical, 2) dynamic switching between secular and direct N-body integration for efficient computation of the gravitational dynamics, 3) treatment of mass transfer in eccentric orbits, which occurs commonly in multiple-star systems, 4) a simple treatment of tidal, common-envelope, and mass transfer evolution in which the accretor is a binary instead of a single star, and 5) taking into account planets within the stellar system.
