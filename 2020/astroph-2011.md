@@ -521,3 +521,81 @@
     - **Impressive**
     - We present the population synthesis code Multiple Stellar Evolution (MSE), designed to rapidly model the stellar, binary, and dynamical evolution of multiple-star systems
     - MSE includes a number of new features not present in previous population synthesis codes: 1) an arbitrary number of stars, as long as the initial system is hierarchical, 2) dynamic switching between secular and direct N-body integration for efficient computation of the gravitational dynamics, 3) treatment of mass transfer in eccentric orbits, which occurs commonly in multiple-star systems, 4) a simple treatment of tidal, common-envelope, and mass transfer evolution in which the accretor is a binary instead of a single star, and 5) taking into account planets within the stellar system.
+
+----
+
+### Nov 10
+
+- [C3-Cluster Clustering Cosmology II. First detection of the BAO peak in the three-point correlation function of galaxy clusters](https://arxiv.org/abs/2011.04665)
+    - 用SDSS的72563 clusters: providing the first detection of the baryon acoustic oscillations (BAO) peak in the three-point correlation function (3PCF) of galaxy clusters
+    - The data show clear evidence of the BAO peak in different configurations, which appears more visible in the reduced 3PCF rather than in the connected one
+
+- [The ROSAT Raster Survey in the North-Ecliptic Pole Field: X-ray Catalogue and Optical Identifications](https://arxiv.org/abs/2011.04718)
+    - ROSAT pointed and survey observations within 40 deg2 around the NEP: X-ray catalogue of 805 sources with 0.5-2 keV fluxes >2.9E-15 cgs, a factor of three deeper than the ROSAT All-Sky Survey
+    - We find a new population of luminous absorbed X-ray AGN at large redshifts, not recognized in previous X-ray surveys
+    - We also use the WISE and Spitzer photometry to identify a sample of 185 AGN selected purely through mid-IR colours, most of which are not detected by ROSAT.
+    - HEROES (Songaila et al 2018): optical and NIR survey of 120 deg^2 of NEP using `grizy` HSC and MegaPrime/MegaCam + WIRCAM
+
+- [AMICO galaxy clusters in KiDS-DR3: Evolution of the luminosity function between z=0.1 and z=0.8](https://arxiv.org/abs/2011.05131)
+    - **Relevant**
+    - 基于cluster星系LF的研究：We found a passive evolution with z for the bright part of the LF for the red and total populations and no significant trends for the faint galaxies.
+    - The mass/richness dependence is clear for the density parameter Φ⋆, increasing with richness, and for the total population faint end, which is shallower in the rich clusters.
+
+- [Discovering Strongly-lensed QSOs From Unresolved Light Curves](https://arxiv.org/abs/2011.04667)
+    - Present a new method of discovering galaxy-scale, strongly-lensed QSO systems from unresolved light curves using the autocorrelation function
+    - Among simulated lens systems for which time delays can be successfully measured by current best algorithms, our method achieves an overall true positive rate of 28--58% for doubly-imaged QSOs (doubles) and 36--60% for quadruply-imaged QSOs (quads) while maintains ≲10% false positive rates.
+
+- [SDSS-IV MaNGA: Modeling the Spectral Line Spread Function to Sub-Percent Accuracy](https://arxiv.org/abs/2011.04675)
+    - **SSST**
+    - We present a major revision of the MaNGA data pipeline architecture, focusing particularly on a variety of factors impacting the effective LSF (e.g., undersampling, spectral rectification, and data cube construction).
+    - Through comparison with external assessments of the MaNGA data provided by substantially higher-resolution R ~ 10,000 instruments we demonstrate that the revised MPL-10 pipeline measures the instrumental line spread function sufficiently accurately (<= 0.6% systematic, 2% random around the wavelength of Halpha) that it enables reliable measurements of astrophysical velocity dispersions sigma_Halpha ~ 20 km/s for spaxels with emission lines detected at SNR > 50.
+
+- [Extended X-ray emission around FR II radio galaxies: hotspots, lobes and galaxy clusters](https://arxiv.org/abs/2011.04668)
+    - 看3CR FRII射电星系附近的X-ray延展辐射：We found statistically significant extended emission (>3σ confidence level) along the radio axis for ∼90%, and in the perpendicular direction for ∼60% of our sample. We confirmed the detection of 7 hotspots in the 0.5 - 3 keV.
+    - In the cases where the emission in the direction perpendicular to the radio axis is comparable to that along the radio axis, we suggest that the underlying radiative process is thermal emission from ICM. Otherwise, the dominant radiative process is likely non-thermal IC/CMB emission from lobes 非热辐射机制更重要
+
+- [Galaxy Sizes Since z=2 from the Perspective of Stellar Mass Distribution within Galaxies](https://arxiv.org/abs/2011.04656)
+    - **Relevant**
+    - HST pixel-by-pixel SED fitting stellar mass map: These maps are used to derive radii encompassing 20%, 50%, and 80% (r20, r50 and r80) of the total stellar mass from the best-fit Sersic models.
+    - At fixed mass, the star-forming galaxies do not show significant changes in their r20, r50 and r80 sizes, indicating self-similar growth. 大质量SF星系的r80有增长，说明有outskirt build-up; Sersic index有变化
+    - Massive quiescent galaxies show stronger size evolution at all radii, in particular the r20 sizes. For these massive galaxies, Sersic values remain almost constant since at least z∼1.3, indicating that the strong size evolution is related to the changes in the outer parts of these galaxies.
+
+- [The Rapid Build-up of Massive Early-type Galaxies. Supersolar Metallicity, High Velocity Dispersion and Young Age for an ETG at z=3.35](https://arxiv.org/abs/2011.04657)
+    - **Relevant**
+    - LBT观测C1-23152, an ETG at redshift z=3.352：有AGN；恒星质量接近2x10^11 Msun; 有超高的恒星速度弥散度
+    - The stellar population has a mean mass-weighted age 400+30−70 Myr and it is formed between ∼600 Myr and ∼150 Myr before the observed epoch, this latter being the time since quenching
+    - The analysis points toward a supersolar metallicity, [Z/H]=0.25+0.006−0.10; 超高效率的恒星形成
+    - 而且quenching非常有效：Quenching must have been extremely efficient to reduce the star formation to SFR<6.5 M⊙ yr−1 in less than 150 Myr. This could be explained by the presence of the AGN
+        - **Thoughts**: what if it is not quenched, but just in a brief suppresed phase?
+
+- [Formation of the largest galactic cores through binary scouring and gravitational wave recoil](https://arxiv.org/abs/2011.04663)
+    - **Relevant, Interesting**
+    - 用模拟看椭圆星系中大尺度的core的形成：we run a suite of dry galaxy merger simulations to explore three different scenarios for central core formation in massive elliptical galaxies: 'binary scouring', 'tidal deposition' and 'gravitational wave (GW) induced recoil'.
+    - We find that we can only explain the large surface brightness core of A2261-BCG with a combination of a major merger that produces a small ~1kpc core through binary scouring, followed by the subsequent GW recoil of its SMBH that acts to grow the core size.
+    - 重要的预测：这种情形下应该会有偏心的SMBH，且周围有致密的星团
+    - 模拟技术：griffin Fast Multiple Method (Dehnen 2002, 2014).
+
+- [L-GALAXIES 2020: The evolution of radial metallicity profiles and global metallicities in disc galaxies](https://arxiv.org/abs/2011.04670)
+    - **Important**
+    - 主要的改变是在CGM的增丰效率上：includes significantly increased direct metal enrichment of the circumgalactic medium (CGM) by supernovae (SNe). These more metal-rich outflows do not require increased mass-loading factors, in contrast to some other galaxy evolution models.
+    - In addition, a lowered maximum SN-II progenitor mass of 25M⊙, reflecting recent theoretical and observational estimates, can also provide a good match to observed metallicity profiles at z=0
+
+- [MAGNUM survey: compact jets causing large turmoil in galaxies -- Enhanced line widths perpendicular to radio jets as tracers of jet-ISM interaction](https://arxiv.org/abs/2011.04677)
+    - **Interesting**
+    - We study the relation between radio jets and ionised gas distribution and kinematics in IC 5063, NGC 5643, NGC 1068 and NGC 1386 之前有观测显示这些星系中低动能的jet (<10^44 erg/s)也可以产生外流
+    - MUSE观测：We detect a strong (up to ≳800−1000 km/s), extended (≳1 kpc) and shock-excited emission-line velocity width enhancement perpendicularly to the AGN ionisation cones and jets in all the four targets 但和一般的外流不同，Such broad, symmetric line profiles are not associated with a single coherent net velocity of the gas
+    - 更像是AGN jet扰动了星系盘上的气体：such extended line width enhancement perpendicular to AGN cones and jet is observed only in galaxies hosting a low-power jet whose inclination is low enough on the galaxy disc to strongly impact on its material, as also recent simulations predict.
+
+- [Virial shocks are suppressed in cosmic ray-dominated galaxy halos](https://arxiv.org/abs/2011.04706)
+    - 基于FIRE-II的模拟：In massive (Mhalo≳1011M⊙), low-redshift (z≲1−2) halos, which are expected to form "hot halos" with slowly-cooling gas in quasi-hydrostatic equilibrium (with a stable virial shock), our simulations without CRs do exhibit clear virial shocks.
+    - With CRs, we previously argued that halos in this particular mass and redshift range build up CR-pressure-dominated gaseous halos. Here, we show that when CR pressure dominates over thermal pressure, there is no significant virial shock. Instead, inflowing gas is gradually decelerated by the CR pressure gradient and the gas is relatively subsonic out to and even beyond Rvir.
+
+- [The SAMI Galaxy Survey: bulge and disk stellar population properties in cluster galaxies](https://arxiv.org/abs/2011.04873)
+    - The analysis of the g−i colors reveals that bulges are redder than their surrounding disks with a median offset of 0.12±0.02 mag
+    - We observe 23% of galaxies being characterized by bulges older and 34% by bulges younger with respect to the disks. The remaining 43% of galaxies have bulges and disks with statistically indistinguishable ages.
+
+- [The properties of dwarf spheroidal galaxies in the Cen A group: Stellar populations, internal dynamics, and a heart-shaped Halpha ring](https://arxiv.org/abs/2011.04990)
+    - We use MUSE spectroscopy to study the properties of 14 known or suspected dSph satellites of Cen A. 12个是group member
+    - The 12 confirmed dSph members of the Cen A group have old and metal-poor stellar populations and follow the stellar metallicity-luminosity relation defined by the dwarf galaxies in the Local Group
+    - 在三个最亮的矮星系中找到了球状星团
+    - In the dwarf KK 203 we find an extended Halpha ring.
