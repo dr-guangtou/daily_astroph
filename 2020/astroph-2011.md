@@ -599,3 +599,62 @@
     - The 12 confirmed dSph members of the Cen A group have old and metal-poor stellar populations and follow the stellar metallicity-luminosity relation defined by the dwarf galaxies in the Local Group
     - 在三个最亮的矮星系中找到了球状星团
     - In the dwarf KK 203 we find an extended Halpha ring.
+
+----
+
+### Nov 11
+
+- [CWITools: A Python3 Data Analysis Pipeline for the Cosmic Web Imager Instruments](https://arxiv.org/abs/2011.05444)
+    - We present CWITools, a package written in Python3 for the analysis of PCWI and KCWI data. CWITools is designed to provide a pipeline between the output of the standard instrument data reduction pipelines and scientific products such as surface brightness maps, spectra, velocity maps, as well as a wide array of associated models and measurements.
+
+- [ETHOS -- An Effective Theory of Structure Formation: Impact of Dark Acoustic Oscillations on Cosmic Dawn](https://arxiv.org/abs/2011.05333)
+    - Focusing on the Effective Theory of Structure Formation (ETHOS) paradigm, we run a suite of simulations covering a broad range of DM microphysics, connecting the output of N-body simulations to dedicated 21-cm simulations to predict the evolution of the 21-cm signal across the entire cosmic dawn.
+    - We find that observatories targeting both the global signal and the 21-cm power spectrum are sensitive to all ETHOS models we study, and can distinguish them from CDM if the suppression wavenumber is smaller than k≈300h/Mpc, even when accounting for feedback with a phenomenological model.
+
+- [First detection of stacked X-ray emission from cosmic web filaments](https://arxiv.org/abs/2011.05343)
+    - **Interesting**
+    - 基于ROSAT和SDSS数据：We selected 15,165 filaments at 0.2< z<0.6 ranging from 30 Mpc to 100 Mpc in length
+    - 扣除了星系团和有探测的点源后的叠加：The stacked signal results in the detection of the X-ray emission from the cosmic filaments at a significance of 4.2 sigma in the energy band of 0.56-1.21 keV.
+    - We show that stacking the SRG/eROSITA data for ~2,000 filaments only would lead to a ~5 sigma detection of their X-ray signal, even with an average gas temperature as low as ~0.3 keV.
+
+- [BeyondPlanck I. Global Bayesian analysis of the Planck Low Frequency Instrument data](https://arxiv.org/abs/2011.05609)
+    - https://beyondplanck.science/ 
+
+- [Testing the theory of gravity with DESI: estimators, predictions and simulation requirements](https://arxiv.org/abs/2011.05771)
+
+- [Evidence for hierarchical black hole mergers in the second LIGO--Virgo gravitational-wave catalog](https://arxiv.org/abs/2011.05332)
+    - Using a phenomenological population model, we infer the mass and spin distribution of first-generation black holes, while searching for hierarchical mergers. Considering a range of cluster masses, we see compelling evidence for hierarchical mergers for clusters with escape velocities ≳100 kms−1.
+    - In this case, we find that 99% of black holes from the inferred total population are less than 48M⊙, and that this constraint is robust under our choice of prior on the maximum black hole mass.
+
+- [Confrontation of Observation and Theory: High Frequency QPOs in X-ray Binaries, Tidal Disruption Events, and Active Galactic Nuclei](https://arxiv.org/abs/2011.05346)
+    - We find that supermassive black holes occupy a separate region of parameter space than stellar, and further, that QPOs seen around tidal disruption events rather than Seyfert-type AGN occupy an entirely different space.
+    - SMBH附近的QPO不能用解释恒星质量黑洞QPO的模型来描述，包括  orbital resonance, diskoseismic, warped disk, and disk-jet coupling theoretical models
+    - Oscillations seen in tidal disruption events are consistent with oscillations near the frequency of the innermost stable circular orbit (ISCO), while QPOs in AGN are not accounted for by any of the physical models in consideration.
+
+- [The galaxy-halo connection of emission-line galaxies in IllustrisTNG](https://arxiv.org/abs/2011.05331)
+
+- [Outflows from Super Star Clusters in the Central Starburst of NGC253](https://arxiv.org/abs/2011.05334)
+
+- [The COS Absorption Survey of Baryon Harbors: Unveiling the Physical Conditions of Circumgalactic Gas through Multiphase Bayesian Ionization Modeling](https://arxiv.org/abs/2011.05335)
+
+- [Galaxy formation with L-GALAXIES: Modelling the environmental dependency of galaxy evolution and comparing with observations](https://arxiv.org/abs/2011.05336)
+
+- [Fast rotating and low-turbulence discs at z≃4.5: dynamical evidence of their evolution into local early-type galaxies](https://arxiv.org/abs/2011.05340)
+
+- [EMERGE: Constraining merging probabilities and timescales of close galaxy pairs](https://arxiv.org/abs/2011.05341)
+
+- [INSPIRE: INvestigating Stellar Population In RElics -- I. Survey presentation and pilot program](https://arxiv.org/abs/2011.05347)
+
+- [Dynamical masses of brightest cluster galaxies II: constraints on the stellar IMF](https://arxiv.org/abs/2011.05350)
+
+- [The Evolution of the Low-Frequency Radio AGN Population to z≃1.5 in the ELAIS N1 Field](https://arxiv.org/abs/2011.05412)
+
+- [Dust Temperature of Compact Star-forming Galaxies at z∼1−3 in 3D-{\it HST}/CANDELS](https://arxiv.org/abs/2011.05528)
+
+- [The multiphase and magnetized neutral hydrogen seen by LOFAR](https://arxiv.org/abs/2011.05647)
+
+- [Monitoring AGNs with Hβ Asymmetry. II. Reverberation Mapping of Three Seyfert Galaxies Historically Displaying Hβ Profiles with Changing Asymmetry: Mrk 79, NGC 3227, and Mrk 841](https://arxiv.org/abs/2011.05902)
+
+- [SED Analysis of 47 Spectroscopically Confirmed Galaxies at z≃6 to Constrain Possible Relationships between UV Slope, Dust attenuation, and Escape Fraction](https://arxiv.org/abs/2011.05902)
+
+- [X-ray redshifts for obscured AGN: a case study in the J1030 deep field](https://arxiv.org/abs/2011.05983)
