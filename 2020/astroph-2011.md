@@ -618,9 +618,15 @@
     - We show that stacking the SRG/eROSITA data for ~2,000 filaments only would lead to a ~5 sigma detection of their X-ray signal, even with an average gas temperature as low as ~0.3 keV.
 
 - [BeyondPlanck I. Global Bayesian analysis of the Planck Low Frequency Instrument data](https://arxiv.org/abs/2011.05609)
-    - https://beyondplanck.science/ 
+    - **Important**
+    - https://beyondplanck.science/
+    - We implement a complete end-to-end Bayesian analysis framework for the Planck Low Frequency Instrument (LFI) observations. The primary product is a joint posterior distribution P(omega|d), where omega represents the set of all free instrumental (gain, correlated noise, bandpass etc.), astrophysical (synchrotron, free-free, thermal dust emission etc.), and cosmological (CMB map, power spectrum etc.) parameters.
+    - We find evidence of significant residual systematic effects that are still not accounted for in the current processing, but must be addressed in future work.
+    - On the Northern hemisphere, however, we find that all results are consistent with the LCDM model, and we constrain the reionization optical depth to tau = 0.067 +/- 0.016
 
 - [Testing the theory of gravity with DESI: estimators, predictions and simulation requirements](https://arxiv.org/abs/2011.05771)
+    - **Important, SSST**
+    - Based on a set of N-body simulations and mock galaxy catalogs, we study the predictions of a number of traditional and novel estimators beyond linear redshift distortions in two well-studied modified gravity models, chameleon f(R) gravity and a braneworld model, and the potential of testing these deviations from GR using DESI
 
 - [Evidence for hierarchical black hole mergers in the second LIGO--Virgo gravitational-wave catalog](https://arxiv.org/abs/2011.05332)
     - Using a phenomenological population model, we infer the mass and spin distribution of first-generation black holes, while searching for hierarchical mergers. Considering a range of cluster masses, we see compelling evidence for hierarchical mergers for clusters with escape velocities ≳100 kms−1.
@@ -632,29 +638,77 @@
     - Oscillations seen in tidal disruption events are consistent with oscillations near the frequency of the innermost stable circular orbit (ISCO), while QPOs in AGN are not accounted for by any of the physical models in consideration.
 
 - [The galaxy-halo connection of emission-line galaxies in IllustrisTNG](https://arxiv.org/abs/2011.05331)
+    - **Relevant**
+    - TNG300-1模拟中的ELG的HOD模型，主要是为了DESI；We demonstrate that the ELG populations are twice more likely to reside in lower-density regions (sheets) compared with the mass-selected populations and twice less likely to occupy the densest regions of the cosmic web (knots).
+    - We furthermore explore the dependence of the HOD and the auto-correlation on environment, noticing that at fixed halo mass, galaxies in high-density regions cluster about 10 times more strongly than low-density ones. This result suggests that we should model carefully the galaxy-halo relation and implement assembly bias effects into our models
 
 - [Outflows from Super Star Clusters in the Central Starburst of NGC253](https://arxiv.org/abs/2011.05334)
+    - Previous high resolution (1.9 pc) dust continuum observations from ALMA discovered 14 compact, massive super star clusters (SSCs) still in formation. We present here ALMA data at 350 GHz with 28 milliarcsecond (0.5 pc) resolution.
+    - 发现SSC的外流：We detect blueshifted absorption and redshifted emission (P-Cygni profiles) towards three of these SSCs in multiple lines, including CS 7−6 and H13CN 4−3 而且外流质量不低
+    - We model the P-Cygni line profiles to constrain the outflow geometry, finding that the outflows must be nearly spherical
 
 - [The COS Absorption Survey of Baryon Harbors: Unveiling the Physical Conditions of Circumgalactic Gas through Multiphase Bayesian Ionization Modeling](https://arxiv.org/abs/2011.05335)
+    - Single-phase光致电离模型往往不够用：Using five discrete absorbers from the COS Absorption Survey of Baryon Harbors (CASBaH) that exhibit a wide range of detected ions (e.g., Mg II, S II--S VI, O II--O VI, Ne VIII), we show several examples where single-phase ionization models cannot reproduce the full set of measured column densities.
+    - We develop a Bayesian multiphase ionization modeling framework that characterizes discrete phases by their unique physical conditions and also investigates variations in the shape of the UV flux field, metallicity, and relative abundances.
+    - For some ions, an apparently single absorption "component" includes contributions from more than one phase, and up to 30% of the H I is not from the lowest ionization phase.
+    - 光致电离模型有时也不够用，需要碰撞电离：If we assume that all of the phases are photoionized, we cannot find solutions in thermal pressure equilibrium. By introducing hotter, collisionally ionized phases, however, we can achieve balanced pressures.
 
 - [Galaxy formation with L-GALAXIES: Modelling the environmental dependency of galaxy evolution and comparing with observations](https://arxiv.org/abs/2011.05336)
+    - **Relevant, Important**
+    - 通过直接测量星系附近的环境来考虑更真实的气体剥离过程: Overall, in the vicinity of haloes with total mass 10^12 to 10^15M⊙ at z=0, our new model produces higher quenched fractions and stronger environmental dependencies, better recovering observed trends with halocentric distance up to several virial radii.
+    - 利用MCMC方法校准模型
+    - By analysing the actual amount of gas stripped from galaxies in our model, we show that those in the vicinity of massive haloes lose a large fraction of their hot halo gas before they become satellites.
 
 - [Fast rotating and low-turbulence discs at z≃4.5: dynamical evidence of their evolution into local early-type galaxies](https://arxiv.org/abs/2011.05340)
+    - **Relevant**
+    - We study two high-z starbursts, AzTEC/C159 (z≃4.57) and J1000+0234 (z≃4.54), observed with ALMA in the [CII] emission line.
+    - 大质量规则旋转的disk; 旋转速度可以达到500 km/s
+    - The mass decompositions of the rotation curves show that both galaxies are highly baryon-dominated with gas masses
+    - We show that these high-z galaxies overlap with z=0 massive ETGs in the ETG-analogue of the Tully-Fisher relation once their gas is converted into stars.
 
 - [EMERGE: Constraining merging probabilities and timescales of close galaxy pairs](https://arxiv.org/abs/2011.05341)
+    - **Useful**
+    - We demonstrate that the pair merging probabilities are best described by a logistic function and that mean merging timescales can be well approximated by a linear relation in the projected separation and line of sight velocity difference in observed pairs.
+    - We conclude from our analysis that observation timescales are primarily driven by dynamics and are not strongly impacted by the star formation properties of the component galaxies.
 
 - [INSPIRE: INvestigating Stellar Population In RElics -- I. Survey presentation and pilot program](https://arxiv.org/abs/2011.05347)
+    - **Relevant**
+    - Aims at spectroscopically confirming and fully characterizing a large number of relics at 0.1< z <0.5.
+    - Pilot项目，观测了3个星系：Two galaxies have large integrated stellar velocity dispersion values, confirming their massive nature
+        - They are populated by stars with super-solar metallicity and [α/Fe]. Both objects have formed >80 % of their stellar mass within a short (0.5 - 1.0 Gyrs) initial star formation episode occurred only ~1 Gyr after the Big Bang. 可以作为relic candidate
 
 - [Dynamical masses of brightest cluster galaxies II: constraints on the stellar IMF](https://arxiv.org/abs/2011.05350)
+    - **Relevant**
+    - 32个0.05 < z < 0.3的BCG的观测：We find young stellar populations (<200 Myr) in the centres of 22 per cent of the sample
+        - Gemini/GMOS观测：14 MENeaCS and 18 CCCP BCGs
+        - Constant Υ⋆POP within 15 kpc for 60 per cent of the sample.
+    - 进行动力学JAM建模，看动力学质光比：We find that for the majority of these BCGs, a Salpeter (or even more bottom-heavy) IMF is needed to reconcile the stellar population and dynamical modelling results although for a small number of BCGs, a Kroupa (or even lighter) IMF is preferred. 在固定质量上，IMF似乎有比较明显的scatter
 
 - [The Evolution of the Low-Frequency Radio AGN Population to z≃1.5 in the ELAIS N1 Field](https://arxiv.org/abs/2011.05412)
+    - GMRT观测：find evidence in support of the radio emission in SFGs and RQ AGN arising from star formation, rather than AGN-related processes.
+    - At high luminosities, however, both SFGs and RQ AGN display a radio excess when comparing radio and infrared star formation rates.
+    - 大部分星系都在SF main sequence上
 
 - [Dust Temperature of Compact Star-forming Galaxies at z∼1−3 in 3D-{\it HST}/CANDELS](https://arxiv.org/abs/2011.05528)
+    - To explore dust properties of SFGs with compact morphology, we investigate the dependence of dust temperature, Tdust, on their size and star formation activity, using a sample of massive SFGs with log(M∗/M⊙)>10 at 1< z<3
+    - We find that both extended and compact SFGs generally follow a similar Tdust−z evolutionary track as that of the main-sequence galaxies
+    - Despite the frequent occurrence of AGNs in compact SFGs, we do not observe any effect on dust caused by the presence of AGN in these galaxies during the compaction.
 
 - [The multiphase and magnetized neutral hydrogen seen by LOFAR](https://arxiv.org/abs/2011.05647)
+    - LOFAR data below 200 MHz revealed a plethora of features in polarization, whose origin remains unknown.
+    - We present the first statistical study on the morphological correlation between LOFAR tomographic data and the cold (CNM), luke-warm (LNM), and warm (WNM) HI phases 对EBHIS巡天的HI光谱进行分解，用Regularized Optimization for Hyper-Spectral Analysis (ROHSA)方法
+    - We find a significant correlation between LOFAR and EBHIS data using the Histograms of Oriented Gradients (HOG)
+    - Our results show how the complex structure of the ionic medium seen by LOFAR data is tightly related to phase transition in the diffuse and magnetized neutral ISM traced by HI spectroscopic data.
+    - [`AstroHOG`](https://github.com/solerjuan/astroHOG): AstroHOG is set of tools for the comparison of extended spectral-line observations (PPV cubes). In essence, the histrogram of oriented gradients (HOG) technique takes as input two PPV cubes and provides an estimate of their spatial correlation across velocity channels.
 
 - [Monitoring AGNs with Hβ Asymmetry. II. Reverberation Mapping of Three Seyfert Galaxies Historically Displaying Hβ Profiles with Changing Asymmetry: Mrk 79, NGC 3227, and Mrk 841](https://arxiv.org/abs/2011.05902)
+    - We measured H\beta\ time lags for all three targets and estimated masses of their black holes -- for the first time in the case of Mrk 841. For Mrk 79 and NGC 3227, the data are of sufficient quality to resolve distinct time lags as a function of velocity and to compute two-dimensional velocity-delay maps.
 
 - [SED Analysis of 47 Spectroscopically Confirmed Galaxies at z≃6 to Constrain Possible Relationships between UV Slope, Dust attenuation, and Escape Fraction](https://arxiv.org/abs/2011.05902)
+    - Using the CIGALE package, we model the SEDs of 47 SDF galaxies with Subaru WFCAM K-band data
+    - We found that the average implied fesc value is ∼42%, exceeding the minimum for galaxies to finish reionization at z≃6.
+    - Furthermore, we found slight trends between the CIGALE UV-slope, fesc, and E(B-V) values: for a given CIGALE E(B-V) value, the implied β values are steeper than at z=0
 
 - [X-ray redshifts for obscured AGN: a case study in the J1030 deep field](https://arxiv.org/abs/2011.05983)
+    - 看能否用光子数counts较低的X-ray谱来定AGN红移：We selected a sample of 54 obscured AGN candidates on the basis of their X-ray hardness ratio, HR>−0.1, in the Chandra deep field
+    - The sample has a median value of ≈80 net counts in the 0.5-7 keV energy band. We estimate reliable X-ray redshift solutions taking advantage of the main features in obscured AGN spectra, like the Fe 6.4 keV Kα emission line, the 7.1 keV Fe absorption edge and the photoelectric absorption cut-off.
