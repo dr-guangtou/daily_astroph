@@ -712,3 +712,75 @@
 - [X-ray redshifts for obscured AGN: a case study in the J1030 deep field](https://arxiv.org/abs/2011.05983)
     - 看能否用光子数counts较低的X-ray谱来定AGN红移：We selected a sample of 54 obscured AGN candidates on the basis of their X-ray hardness ratio, HR>−0.1, in the Chandra deep field
     - The sample has a median value of ≈80 net counts in the 0.5-7 keV energy band. We estimate reliable X-ray redshift solutions taking advantage of the main features in obscured AGN spectra, like the Fe 6.4 keV Kα emission line, the 7.1 keV Fe absorption edge and the photoelectric absorption cut-off.
+
+----
+
+### Nov 12
+
+- [Neural networks as optimal estimators to marginalize over baryonic effects](https://arxiv.org/abs/2011.05992)
+
+- [TDCOSMO VI: Distance Measurements in Time-delay Cosmography under the Mass-sheet transformation](https://arxiv.org/abs/2011.06002)
+
+- [BeyondPlanck II. CMB map-making through Gibbs sampling](https://arxiv.org/abs/2011.06024)
+
+- [Consistency of cosmic shear analyses in harmonic and real space](https://arxiv.org/abs/2011.06469)
+
+- [Cosmological simulation in tides: power spectrum and halo shape responses, and shape assembly bias](https://arxiv.org/abs/2011.06584)
+
+- [Unveiling the rarest morphologies of the LOFAR Two-metre Sky Survey radio source population with self-organised maps](https://arxiv.org/abs/2011.06001)
+    - **Useful**
+    - [Parallelised rotation and flipping INvariant Kohonen map (PINK)](https://github.com/HITS-AIN/PINK)
+    - Using self-organising maps (SOMs), a form of unsupervised machine learning, we created a dimensionality reduction of the radio morphologies for the ∼25k extended radio continuum sources in the LoTSS first data release
+    - We present an illustration of their potential by finding an arbitrary number of morphologically rare sources in our training data (424 square degrees) and subsequently in an area of the sky (∼5300 square degrees) outside the training data
+
+- [On the energy and redshift distributions of fast radio bursts](https://arxiv.org/abs/2011.06151)
+    - Two redshift distribution models, one tracking the star formation history of the universe and another tracking compact binary mergers, are tested. For the latter model, we consider three merger delay timescale distribution (Gaussian, log-normal, and power law) models.
+    - We confirm the ∼−1.8 power law index for the energy distribution but the exponential cutoff energy of the distribution, if any, is unconstrained.
+    - For the best energy distribution model, none of the redshift distributions we considered are rejected by the data.
+
+- [NuSTAR Survey of Obscured Swift/BAT-selected Active Galactic Nuclei: II. Median High-energy Cutoff in Seyfert II Hard X-ray Spectra](https://arxiv.org/abs/2011.06583)
+    - The temperature of the Comptonizing plasma that forms the corona is manifested through a high-energy cutoff 但比较难测量，需要高质量的 10keV以上的数据
+    - We present a large collection of coronal cutoff constraints for obscured AGN based on a sample of 130 AGN selected in the hard X-ray band with Swift/BAT and observed nearly simultaneously with NuSTAR and Swift/XRT
+    - We find that under a reasonable set of assumptions regarding partial constraints the median cutoff is well constrained to 290±20 keV
+
+- [An AMUSING Look at the Host of the Periodic Nuclear Transient ASASSN-14ko Reveals a Second AGN](https://arxiv.org/abs/2011.05998)
+    - ESO 253−G003, 既有AGN，又有periodic nuclear transient ASASSN-14ko
+    - 发现还有一个较弱的AGN：The fainter nucleus does not have a broad emission-line component but exhibits other AGN characteristics, including vFWHM≈700 km s−1 forbidden line emission
+
+- [The Characteristic Momentum of Radiatively Cooling Energy-Driven Galactic Winds](https://arxiv.org/abs/2011.06004)
+    - 在快速恒星形成的星系里，超新星的能量注入可以驱动热的超声速星系风; If sufficiently mass-loaded, such flows become radiative within the wind-driving region, reducing the overall mass outflow rate from the host galaxy. 这一机制也限制了外流动量的上限
+    - This maximum momentum for hot winds can also apply to cool, ionized outflows that are typically observed in starburst galaxies, if the hot wind undergoes bulk radiative cooling or if the hot wind transfers mass and momentum to cool clouds within the flow. We show that requiring the hot wind to undergo single-phase cooling on large scales sets a minimum on the total outflow momentum rate.
+    - We find that most observations of photoionized outflow wind momentum fall below the theoretical maximum and thus may be signatures of cooling hot flows.
+
+- [SDSS-IV MaNGA: Refining Strong Line Diagnostic Classifications Using Spatially Resolved Gas Dynamics](https://arxiv.org/abs/2011.06012)
+    - 按Spaxel进行发射线比值统计: Spaxels whose line ratios are most consistent with ionization by galactic HII regions exhibit a narrow range of dynamically cold line of sight velocity distributions (LOSVDs) peaked around 25 km/s corresponding to a galactic thin disk, while those consistent with ionization by active galactic nuclei (AGN) and low-ionization emission-line regions (LI(N)ERs) have significantly broader LOSVDs extending to 200 km/s.
+    - By comparing the MaNGA observations to the SDSS single-fiber galaxy sample we note that the latter is systematically biased against young, low metallicity star-forming regions that lie outside of the 3 arcsec fiber footprint.
+
+- [Extremely Low Molecular Gas Content in the Vicinity of a Red Nugget Galaxy at z=1.91](https://arxiv.org/abs/2011.06051)
+    - **Relevant**
+    - ALMA观测[C I]线：We apply two blind detection algorithms to the spectral data cubes, and find no promising detection in or around GDS24569 to projected distance of ∼320 kpc
+    - In combination with a previous result of an insufficient number of surrounding satellite galaxies, it is suggested that GDS24569 is unlikely to experience significant size evolution via satellite mergers.
+    - SED拟合：find a considerably high (∼0.1%) dust-to-stellar mass ratio, ∼10-100× higher than those of local early-type galaxies.
+
+- [Disentangling the multi-phase circumgalactic medium shared between a dwarf and a massive star-forming galaxy at z~0.4](https://arxiv.org/abs/2011.06071)
+    - KCWI观测Q0122-003：发现有来自两个星系的贡献，其中一个是附近的矮星系：G_27kpc has a low star-formation rate (SFR=0.08±0.03 M⊙ yr−1) and star formation surface density, 没有活跃的外流
+    - (1) Part of the low-ionization phase has a metallicity and kinematics consistent with being accreted onto G_27kpc. (2) The remainder of the low ionization phase has metallicities and kinematics consistent with being intragroup gas (3) 高电离态气体来自大星系的外流
+
+- [HI content in Coma cluster substructure](https://arxiv.org/abs/2011.06285)
+    - Westerbork Coma Survey: With so few of the Coma galaxies directly detected in HI, we use the HI stacking technique to probe average HI content below what can be directly detected.
+    - Using the Dressler-Shectman test, we find 15 substructures within the footprint of the Westerbork Coma Survey.
+    - Using the HI stacking technique, we find that the Coma galaxies (for which are not detected in HI) are more than 10--50 times more HI deficient than expected which supports the scenario of an extremely efficient and rapid quenching mechanism.
+
+- [A search for X-ray absorbed sources in the 3XMM catalogue, using photometric redshifts and Bayesian spectral fits](https://arxiv.org/abs/2011.06299)
+    - The 3XMM-DR6 catalogue contains about 470,000 unique X-ray sources over an area of 982 deg2. About one fourth of these (22,677) have adequate photon statistics so that a reliable X-ray spectrum can be extracted
+    - We present XMMFITCAT-Z: a spectral fit catalogue for these sources using the Bayesian X-ray Analysis (BXA) technique.
+    - We show that a considerable fraction of X-ray selected AGN would not be classified as AGN following the mid-IR W1-W2 vs. W2 selection criterion
+        - Only one third of obscured AGN in X-rays present red colours or r-W2 > 6.
+
+- [Radiative Supernova Remnants and Supernova Feedback](https://arxiv.org/abs/2011.06322)
+    - We review the observations of SNRs in radiative stages in the Milky Way to validate the theoretical results on the momentum/energy injection from a single SN explosion.
+    - For seven SNRs where we can observe fast-expanding, atomic radiative shells, we show that the shell momentum inferred from HI 21 cm line observations is in the range of (0.5-4.5)×10^5 M⊙ km s−1
+    - The observation-based momentum and kinetic energy agree well with the expected momentum/energy input from an SN explosion of ∼10^51 erg.
+
+- [Low-redshift quasars in the SDSS Stripe 82 II: associated companion galaxies and signature of star formation](https://arxiv.org/abs/2011.06448)
+    - Our results suggest that quasars do not have a strong influence on the star formation of their companion galaxies.
