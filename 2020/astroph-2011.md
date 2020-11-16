@@ -784,3 +784,25 @@
 
 - [Low-redshift quasars in the SDSS Stripe 82 II: associated companion galaxies and signature of star formation](https://arxiv.org/abs/2011.06448)
     - Our results suggest that quasars do not have a strong influence on the star formation of their companion galaxies.
+
+----
+
+### Nov 15
+
+- [BeyondPlanck VI. Noise characterization and modelling](https://arxiv.org/abs/2011.06650)
+
+- [Galaxy clusters as intrinsic alignment tracers: present and future](https://arxiv.org/abs/2011.06904)
+
+- [COOL-LAMPS I. An Extraordinarily Bright Lensed Galaxy at Redshift 5.04](https://arxiv.org/abs/2011.06601)
+
+- [Rise and fall of post-starburst galaxies in Magneticum Pathfinder](https://arxiv.org/abs/2011.06602)
+
+- [The VANDELS survey: the relation between UV continuum slope and stellar metallicity in star-forming galaxies at z~3](https://arxiv.org/abs/2011.06615)
+
+- [The nature of giant clumps in high-z discs: a deep-learning comparison of simulations and observations](https://arxiv.org/abs/2011.06616)
+
+- [NuSTAR Non-detection of a Faint Active Galactic Nucleus in an Ultraluminous IR Galaxy with Kpc-scale Fast Wind](https://arxiv.org/abs/2011.06914)
+
+- [ALMA detection of the dusty object silhouetted against the S0 galaxy NGC 3269 in the Antlia cluster](https://arxiv.org/abs/2011.06988)
+
+- [Excitation of PAH Emission: Dependence on Starlight Spectrum, Intensity, PAH Size Distribution, and PAH Ionization](https://arxiv.org/abs/2011.07046)
