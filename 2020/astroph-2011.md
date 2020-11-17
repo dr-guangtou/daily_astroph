@@ -718,12 +718,21 @@
 ### Nov 12
 
 - [Neural networks as optimal estimators to marginalize over baryonic effects](https://arxiv.org/abs/2011.05992)
+    - **Relevant**
+    - We show that neural networks can 1) extract the maximum available cosmological information, 2) marginalize over baryonic effects, and 3) extract cosmological information that is buried in the regime dominated by baryonic physics.
+    - We also show that neural networks learn the priors of the data they are trained on
 
 - [TDCOSMO VI: Distance Measurements in Time-delay Cosmography under the Mass-sheet transformation](https://arxiv.org/abs/2011.06002)
+    - A current potential limitation of time delay distance measurements is the "mass-sheet transformation" (MST) which leaves the lensed imaging unchanged but changes the distance measurements and the derived value of H0
+    - We show that the mass sheet degeneracy can be broken without relying on a specific cosmological model by combining lensing with relative distance indicators such as supernovae type Ia and baryon acoustic oscillations, which constrain the shape of the expansion history and hence Ds/Dds
 
 - [BeyondPlanck II. CMB map-making through Gibbs sampling](https://arxiv.org/abs/2011.06024)
+    - Gibbs sampling breaks the computationally heavy destriping problem into two separate steps; noise filtering and map binning
+    - The conceptual advantages of the Gibbs sampling approach lies in statistically well-defined error propagation and systematic error correction, and this methodology forms the conceptual basis for the map-making algorithm employed in the BeyondPlanck framework
 
 - [Consistency of cosmic shear analyses in harmonic and real space](https://arxiv.org/abs/2011.06469)
+    - We analyze DES-Y3 mock catalogs from Gaussian simulations with a fast and accurate importance sampling pipeline. We show that the methodology for determining matching scale cuts in harmonic and real space is the key factor that contributes to the scatter between constraints derived from the two statistics.
+    - We find that, given DES-Y3 characteristics and proposed cuts, these uncertainties affect the two statistics similarly; the differential biases are below a third of the statistical uncertainty, with the largest biases arising from intrinsic alignment and baryonic feedback.
 
 - [Cosmological simulation in tides: power spectrum and halo shape responses, and shape assembly bias](https://arxiv.org/abs/2011.06584)
 
@@ -790,22 +799,47 @@
 ### Nov 15
 
 - [BeyondPlanck VI. Noise characterization and modelling](https://arxiv.org/abs/2011.06650)
+    - We present a Bayesian method for estimating instrumental noise parameters and propagating noise uncertainties within the global BeyondPlanck Gibbs sampling framework, and apply this to Planck LFI time-ordered data. Following previous literature, we adopt a simple 1/f model for the noise power spectral density (PSD), and implement an optimal Wiener-filter (or constrained realization) gap-filling procedure to account for masked data.
 
 - [Galaxy clusters as intrinsic alignment tracers: present and future](https://arxiv.org/abs/2011.06904)
+    - **Relevant, SSST**
+    - Clusters are observed to have a higher alignment amplitude than galaxies, but because galaxies are much more numerous, the trade-off in detectability between the two signals remains unclear
+    - Clusters in SDSS have typically higher alignment signal-to-noise than galaxies. For LSST, the cluster alignment signals quickly wash out with redshift due to a relatively low number count and a decreasing alignment amplitude.
+    - A potential strong-suit of clusters is in their interplay with weak lensing: intrinsic alignments can be more easily isolated for clusters than for galaxies.
 
 - [COOL-LAMPS I. An Extraordinarily Bright Lensed Galaxy at Redshift 5.04](https://arxiv.org/abs/2011.06601)
+    - COOL J1241+2219 is the brightest lensed galaxy currently known at optical and near-infrared wavelengths at z ≳ 5; it is ∼5 times brighter than the prior record-holder lensed galaxy
+    - Our lens mass modeling, based on ground-based imaging, implies a median source magnification of ∼30, which puts the stellar mass and star formation rate (in the youngest age bin, closest to the epoch of observation) at logM∗ = 10.11+0.21−0.26 and SFR = 27+13−9 M⊙/yr
 
 - [Rise and fall of post-starburst galaxies in Magneticum Pathfinder](https://arxiv.org/abs/2011.06602)
+    - **Relevant**
+    - Magneticum Pathfinder模拟中z~0的PSB星系之前3.6Gyr的演化：we find that PSBs, similar to the star-forming control sample, have frequent mergers. At z=0, 89% of PSBs have experienced at least one merger, and 65% even had a major merger event within the last 2.5Gyr. 23% of z=0 PSBs were rejuvenated during their starburst.
+    - After the mergers, field PSBs are generally shutdown via a strong increase in AGN feedback
+    - Finally, we find that z≲0.5 cluster PSBs are predominantly infalling, especially in high mass clusters and show no signs of enhanced AGN activity.
 
 - [The VANDELS survey: the relation between UV continuum slope and stellar metallicity in star-forming galaxies at z~3](https://arxiv.org/abs/2011.06615)
+    - 2 < z < 5的SF星系的FUV光谱，按照恒星质量叠加后，通过UV吸收线来测量金属丰度
+    - Comparing them to photometric based spectral slopes in the range 1250-1750 Angstrom, we find that the stellar metallicity increases by ~0.5 dex from beta ~ -2 to beta ~ -1 (1 < A(1600) < 3.2)
+    - The metallicity is a fundamental ingredient for properly rescaling dust corrections based on M(UV) and M*.
+    - The relation between UV slope and stellar metallicity is fundamental for the exploitation of large volume surveys with next-generation telescopes and for the physical characterization of galaxies in the first billion years of our Universe.
 
 - [The nature of giant clumps in high-z discs: a deep-learning comparison of simulations and observations](https://arxiv.org/abs/2011.06616)
+    - VELA模拟中的高红移大质量clump: The clumps are classified as long-lived clumps (LLCs) or short-lived clumps (SLCs) based on their longevity in the simulations
+    - 设计了一个CNN从模拟图像中提取clumps: When applied to observed galaxies in the CANDELS/GOODS S+N fields, we find both types of clumps to appear in similar abundances in the simulations and the observations.
+    - 质量更大的clumps更长寿; 并更靠近星系中心 indicating clump migration to the centre or preferential formation at smaller radii
 
 - [NuSTAR Non-detection of a Faint Active Galactic Nucleus in an Ultraluminous IR Galaxy with Kpc-scale Fast Wind](https://arxiv.org/abs/2011.06914)
+    - AKARI J0916248+073034, was found to have a galaxy-scale [OIII] λ5007 outflow with one of the highest energy-ejection rates at z<1.6. 但从MIR得到的AGN活动比[OIII]指示的要低很多
+    - NuSTAR观测：The intrinsic 2-10 keV luminosity shows a 90% upper-limit of 3.0×1043 erg s−1 assuming Compton-thick obscuration (NH=1.5×1024 cm−2), which is only 3.6% of the luminosity expected from the extinction corrected [OIII] luminosity
+    - A possible scenario to explain the drastic declining in both of the corona (X-ray) and torus (MIR) is that the primary radiation from the AGN accretion disk is currently in a fading status, as a consequence of a powerful nuclear wind suggested by its powerful ionized outflow in the galaxy scale.
 
 - [ALMA detection of the dusty object silhouetted against the S0 galaxy NGC 3269 in the Antlia cluster](https://arxiv.org/abs/2011.06988)
+    - ALMA+Gemini观测：We aim to resolve the nature of this object: is it a small Galactic cloudlet or an extragalactic dust complex
+    - A weak 16±2.5 km/s wide 12CO (2-1) TMB 19±2.5 mK line in a 2.0" by 2.12" beam associated with the object was detected with ALMA. 明确了这团尘埃是河外结构，并且与NGC3269的核心一致; 尺度在1kpc左右
+    - 关于起源：One possibility is that the dust patch is left over from the removal of interstellar matter in NGC 3269 through the interaction with its neighbour, NGC 3268.
 
 - [Excitation of PAH Emission: Dependence on Starlight Spectrum, Intensity, PAH Size Distribution, and PAH Ionization](https://arxiv.org/abs/2011.07046)
+    - For a fixed PAH abundance parameter qPAH, the fraction of the IR power appearing in the PAH emission features can vary by a factor of two as the starlight spectrum varies from FUV-poor (M31 bulge) to FUV-rich (young starburst).
 
 ----
 
