@@ -806,3 +806,67 @@
 - [ALMA detection of the dusty object silhouetted against the S0 galaxy NGC 3269 in the Antlia cluster](https://arxiv.org/abs/2011.06988)
 
 - [Excitation of PAH Emission: Dependence on Starlight Spectrum, Intensity, PAH Size Distribution, and PAH Ionization](https://arxiv.org/abs/2011.07046)
+
+----
+
+### Nov 16
+
+- [Spectroscopic Quantification of Projection Effects in the SDSS redMaPPer Galaxy Cluster Catalog](https://arxiv.org/abs/2011.07070)
+    - **Relevant, SSST**
+    - We show that a simple double-Gaussian model can be used to describe the distribution of line-of-sight velocities in the redMaPPer sample
+    - The incidence of projection effects is substantial, accounting for ∼16 per cent of the weighted richness for the lowest richness objects
+    - Projection effects are a strong function of richness, with the contribution in the highest richness bin being several times smaller than for low-richness objects
+    - Our measurement has a similar amplitude to state-of-the-art models, but finds a steeper dependence of projection effects on richness than these models
+    - The slope of the observed velocity dispersion--richness relation, corrected for projection effects, implies an approximately linear relationship between the true, three-dimensional halo mass and three-dimensional richness.
+
+- [Galaxy speed control: Prospects for detection and application of the alignment of galaxies with the large-scale velocity field](https://arxiv.org/abs/2011.07087)
+    - **SSST**
+    - The correlation between shapes of galaxies and the large-scale velocity field has been proposed as an additional probe of the large scale structure
+    - 基于4MOST+LSST+Simons Obs的预测：The signal-to-noise ratio for the velocity-shape (dipole) correlation is 23, relative to 44 for the galaxy density-shape (monopole) correlation and for a maximum wavenumber of 0.2Mpc−1.
+    - 应用: Measuring the velocity-shape correlation could improve the mitigation of selection effects induced by intrinsic alignments on galaxy clustering. We also find that velocity-shape measurements could potentially aid in determining the scale-dependence of intrinsic alignments when multiple shape measurements of the same galaxies are provided.
+
+- [Bayesian forward modelling of cosmic shear data](https://arxiv.org/abs/2011.07722)
+    - This method uses a physical model of cosmic structure formation to infer physically plausible cosmic structures, which accounts for the non-Gaussian features of the gravitationally evolved matter distribution and light-cone effects.
+
+- [BeyondPlanck VII. Bayesian estimation of gain and absolute calibration for CMB experiments](https://arxiv.org/abs/2011.08082)
+    - We decompose the full time-dependent gain into a sum of three orthogonal components: One absolute calibration term, common to all detectors; one time-independent term that can vary between detectors; and one time-dependent component that is allowed to vary between one-hour pointing periods
+
+- [Survey2Survey: A deep learning generative model approach for cross-survey image mapping](https://arxiv.org/abs/2011.07124)
+    - **CSST**
+    - We present a novel approach for robustly expanding and improving survey data through cross-survey feature translation.
+    - We trained two types of generative neural networks to map images from the Sloan Digital Sky Survey (SDSS) into corresponding images from the Dark Energy Survey (DES), increasing the brightness and S/N of the fainter, lower quality source images without losing important morphological information.
+
+- [Simulating the infrared sky with aSpritz](https://arxiv.org/abs/2011.07074)
+    - We generate mock catalogues starting from the Herschel infrared luminosity functions of different galaxy populations, in order to consider in a consistent way different populations of galaxies and active galactic nuclei.
+    - The derived mock catalogue contains galaxies and active galactic nuclei that by construction reproduce the observed IR galaxy number density, but it is also in agreement with the observed number counts from UV to far-IR wavelengths, the observed stellar mass function, the star-formation-rate vs. stellar mass plane and the luminosity function in the K, FUV and X-ray bands
+
+- [CHORUS. I. Cosmic HydrOgen Reionization Unveiled with Subaru: Overview](https://arxiv.org/abs/2011.07211)
+    - **Merian**
+    - The central wavelengths and full-widths-at-half-maximum of the CHORUS filters are, respectively, 386.2 nm and 5.5 nm for NB387, 526.0 nm and 7.9 nm for NB527, 717.1 nm and 11.1 nm for NB718, 946.2 nm and 33.0 nm for IB945, and 971.2 nm and 11.2 nm for NB973.
+    - This combination, including NB921 (921.5 nm and 13.5 nm) from the Subaru Strategic Program with HSC (HSC SSP), are carefully designed, as if they were playing a chorus, to observe multiple spectral features simultaneously, such as Lyman continuum, Lyα, C~{\sc iv}, and He~{\sc ii} for z=2--7.
+    - `hscPipe` uses the Pickles spectral templates based on Solar metallicity stars (Pickles 1998) for zero-point estimations. However, the actual stars used for the calibration seem to be dominated by metalpoor halo stars because these stars are faint (g ∼ 20) and the HSC survey fields are located in high Galactic latitudes.
+
+- [The Correlation between Black Hole Mass and Stellar Mass for Classical Bulges and the Cores of Ellipticals](https://arxiv.org/abs/2011.07216)
+    - **Relevant**
+    - 看近邻椭圆星系中心成分和黑洞质量的关系：We perform two-dimensional image decomposition of Two Micron All Sky Survey Ks-band images to derive the stellar mass of the cores of 35 nearby ellipticals with reliably measured black hole masses.
+    - The new relation exhibits nearly identical slope (M∙∝M_{core}^{1.2}) as the conventional relation but a factor of ∼2 higher normalization and moderately larger intrinsic scatter (0.4 dex).
+    - Fast and slow rotator ellipticals follow the same correlation. The M∙−Mcore relation provides a revised benchmark for studies of black hole-galaxy coevolution in the high-redshift Universe.
+
+- [A tomography of the log(⟨I⟩e)−log(Re) plane](https://arxiv.org/abs/2011.07315)
+    - **Relevant**
+    - 基于WINGS星系和Illustris模拟：We have demonstrated that the distribution of galaxies in the log(⟨I⟩e)−log(Re) plane is not linked to the peculiar light profiles of the galaxies of different luminosity, but originate from the mass assembly history of galaxies, made of merging, star formation events, star evolution and quenching of the stellar population.
+
+- [Observations of the gamma-ray emitting narrow-line Seyfert 1, SBS 0846+513, and its host galaxy](https://arxiv.org/abs/2011.07413)
+    - LBT/LUCI1 J-band观测估计黑洞质量: 质量在NLS1星系里是比较高的
+    - Mergers and interactions appear to be common among the gamma-ray Narrow-Line Seyfert 1s, and we see some circumstantial evidence for companion galaxies or disturbed features in the host.
+
+- [The Dusty Heart of NGC 4151 Revealed by λ∼1-40~μm Reverberation Mapping and Variability: A Challenge to Current Clumpy Torus Models](https://arxiv.org/abs/2011.07638)
+    - J,H,K,L,N-band RM观测NGC4151
+    - The torus inner edge defined by the hottest dust remains at roughly the same radius independent of the AGN optical luminosity over ∼ 25 years.
+    - The torus properties revealed by dust reverberation analysis are inconsistent with predictions from pure clumpy torus models. Instead, the NGC 4151 torus appears to be flared, allowing direct dust heating by the nucleus over radial distances of ∼0.03 to ≳3 pc.
+
+- [Star Formation Efficiency and Dispersal of Giant Molecular Clouds with UV Radiation Feedback: Dependence on Gravitational Boundedness and Magnetic Fields](https://arxiv.org/abs/2011.07772)
+    - We show that the traditional virial parameter estimates the true gravitational boundedness within a factor of 2 on average, but neglect of magnetic support and velocity anisotropy can sometimes produce large departures. Magnetically subcritical clouds are unlikely to represent sites of massive star formation given their unrealistic columnar outflows, prolonged lifetime, and low escape fraction of radiation.
+
+- [Probing Saraswati's heart: evaluating the dynamical state of the massive galaxy cluster A2631 through a comprehensive weak lensing and dynamical analysis](https://arxiv.org/abs/2011.07996)
+    - We found Mwl200=8.7+2.5−2.9×10^14 M⊙. We also determined the mass based on the dynamics of spectroscopic members, corresponding to Mdy200=12.2±3.0×10^14 M⊙ consistent with 68 per cent c.l. with the weak lensing estimate.
