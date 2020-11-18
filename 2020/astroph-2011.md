@@ -904,3 +904,70 @@
 
 - [Probing Saraswati's heart: evaluating the dynamical state of the massive galaxy cluster A2631 through a comprehensive weak lensing and dynamical analysis](https://arxiv.org/abs/2011.07996)
     - We found Mwl200=8.7+2.5−2.9×10^14 M⊙. We also determined the mass based on the dynamics of spectroscopic members, corresponding to Mdy200=12.2±3.0×10^14 M⊙ consistent with 68 per cent c.l. with the weak lensing estimate.
+
+----
+
+### Nov 17
+
+- [Kinetic Sunyaev-Zel'dovich tomography with line-intensity mapping](https://arxiv.org/abs/2011.08193)
+
+- [Cosmology Requirements on Supernova Photometric Redshift Systematics for Rubin LSST and Roman Space Telescope](https://arxiv.org/abs/2011.08206)
+
+- [Inferring the properties of the sources of reionization using the morphological spectra of the ionized regions](https://arxiv.org/abs/2011.08260)
+
+- [BeyondPlanck XIV. Polarized foreground emission between 30 and 70GHz](https://arxiv.org/abs/2011.08503)
+
+- [Caught in the Web I: environmental effect on halo concentrations, shape and spin](https://arxiv.org/abs/2011.08840)
+
+- [The LOFAR Two Meter Sky Survey: Deep Fields, I -- Direction-dependent calibration and imaging](https://arxiv.org/abs/2011.08328)
+    - It is very challenging to synthesize thermal noise limited maps at full resolution, mainly because of the complexity of the low-frequency sky and the direction dependent effects (phased array beams and ionosphere).
+    - We present a new calibration and imaging pipeline that aims at producing high fidelity, high dynamic range images with LOFAR High Band Antenna data
+
+- [LOFAR Detection of a Low-Power Radio Halo in the Galaxy Cluster Abell 990](https://arxiv.org/abs/2011.08189)
+
+- [Location and energetics of the ultra-fast outflow in PG 1448+273](https://arxiv.org/abs/2011.08212)
+
+- [Diffuse Radio Emission from Galaxy Clusters in the LOFAR Two-metre Sky Survey Deep Fields](https://arxiv.org/abs/2011.08249)
+
+- [Binary Neutron Star Mergers in AGN Accretion Disks: Cocoon and Ejecta Shock Breakouts](https://arxiv.org/abs/2011.08428)
+
+- [The dispersion measure and scattering of FRBs: Contributions from the intergalactic medium, foreground halos, and hosts](https://arxiv.org/abs/2011.08519)
+
+- [UV/optical disk thermal reverberation in AGN: an in-depth study with an analytic prescription for the time-lag spectra](https://arxiv.org/abs/2011.08563)
+
+- [JWST/MIRI Simulated Imaging: Insights into Obscured Star-Formation and AGN for Distant Galaxies in Deep Surveys](https://arxiv.org/abs/2011.08192)
+
+- [The LOFAR Two-metre Sky Survey Deep fields: The star formation rate - radio luminosity relation at low frequencies](https://arxiv.org/abs/2011.08196)
+
+- [MOSEL and IllustrisTNG: Massive Extended Galaxies at z=2 Quench Later Than Normal-size Galaxies](https://arxiv.org/abs/2011.08198)
+
+- [The SAMI Galaxy Survey: Towards an Optimal Classification of Galaxy Stellar Kinematics](https://arxiv.org/abs/2011.08199)
+
+- [The LOFAR Two Metre Sky Survey: Deep Fields Data Release 1 -- III. Host-galaxy identifications and value added catalogues](https://arxiv.org/abs/2011.08201)
+
+- [LOFAR properties of SILVERRUSH Lyα emitter candidates in the ELAIS-N1 field](https://arxiv.org/abs/2011.08203)
+
+- [The LOFAR Two-metre Sky Survey Deep Fields -- Data Release 1: IV. Photometric redshifts and stellar masses](https://arxiv.org/abs/2011.08204)
+
+- [The LOFAR Two Metre Sky Survey: Deep Fields. II. The ELAIS-N1 LOFAR deep field](https://arxiv.org/abs/2011.08211)
+
+- [Properties of loss cone stars in a cosmological galaxy merger remnant](https://arxiv.org/abs/2011.08216)
+
+- [The best of both worlds: Combining LOFAR and Apertif to derive resolved radio spectral index images](https://arxiv.org/abs/2011.08239)
+
+- [On the precision of full-spectrum fitting of simple stellar populations. II. The dependence on star cluster mass in the wavelength range 0.3-5.0 μm](https://arxiv.org/abs/2011.08244)
+
+- [Void Galaxies Follow a Distinct Evolutionary Path in the Environmental COntext Catalog](https://arxiv.org/abs/2011.08276)
+
+- [LOFAR Deep Fields: Probing a broader population of polarized radio galaxies in ELAIS-N1](https://arxiv.org/abs/2011.08292)
+
+- [Evidence of galaxy interaction in the Narrow-line Seyfert 1 galaxy IRAS17020+4544 seen by NOEMA](https://arxiv.org/abs/2011.08762)
+
+- [The bright end of the infrared luminosity functions and the abundance of hyperluminous infrared galaxies](https://arxiv.org/abs/2011.08798)
+
+- [Extremely deep 150 MHz source counts from the LoTSS Deep Fields](https://arxiv.org/abs/2011.08829)
+
+- [The Gaia spectrophotometric standard stars survey -- IV. Results of the absolute photometry campaign](https://arxiv.org/abs/2011.08625)
+    - We present Johnson-Kron-Cousins BVRI photometry of 228 candidate spectrophotometric standard stars for the external (absolute) flux calibration of Gaia data.
+    - The absolute photometry presented here is tied to the Landolt standard stars system to ≃1 per cent or better, depending on the photometric band.
+    - The Gaia photometric precision is presently of the order of 0.1 per cent or better
