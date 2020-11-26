@@ -1100,34 +1100,80 @@
 ### Nov 19
 
 - [A 4% measurement of H0 using the cumulative distribution of strong-lensing time delays in doubly-imaged quasars](https://arxiv.org/abs/2011.09488)
+    - A complimentary approach is to study the cumulative distribution function (CDF) of time-delays where the global population of lenses is modelled along with H0.
+    - We find that the CDFs exhibit large amounts of halo-halo variance, regulated by the density profile inner slope and the total mass within 5kpc.
+    - With the objective of fitting to data, we compress the CDFs using Principal Component Analysis and fit a Gaussian Processes Regressor consisting of three physical features: the redshift of the lens, zL; the power law index of the halo, α, and the mass within 5kpc, plus four cosmological features
+    - We generate mock CDFs and find with that the Vera Rubin Observatory (VRO) could measure σ/H0 to <3%, limited by the precision of the model.
 
 - [Multi-CCD Point Spread Function Modelling](https://arxiv.org/abs/2011.09835)
+    - **Useful**
+    - The goal of this paper is to estimate a PSF at galaxy positions, starting from a set of noisy star image observations distributed over the focal plane. To accomplish this, we need our model to first of all, precisely capture the PSF field variations over the Field of View (FoV), and then to recover the PSF at the selected positions.
+    - 要模型能够对整个focal plane上的PSF变化进行建模：Most existing non-parametric models build one model per Charge Coupled Device (CCD), which can lead to difficulties in capturing global ellipticity patterns.
+    - https://github.com/CosmoStat/mccd
 
 - [KCWI observations of the extended nebulae in Mrk 273](https://arxiv.org/abs/2011.09587)
+    - Kinematics in the nuclear region show a fast, extended, bipolar outflow in the direction of the previously reported nuclear superbubbles spanning ∼5 kpc,
+    - These data are highly constraining for models of cool ionized gas existing ~20 kpc from a galactic nucleus.
 
 - [Estimation of the Galaxy Quenching Rate in the Illustris Simulation](https://arxiv.org/abs/2011.09672)
+    - 在每个snapshot上给出quenched比例随质量变化的函数; 看quenching rate
+    - The quenching galaxy population slowly shifts to lower stellar mass and lower overdensity regions with time
+    - Environmental quenching is very weak, because it is possible that the pre- or postprocessing of environments disguises environmental quenching as intrinsic quenching.
 
 - [FIR-luminous [CII] emitters in the ALMA-SCUBA-2 COSMOS survey (AS2COSMOS): The nature of submillimeter galaxies in a 10 comoving Mpc-scale structure at z~4.6](https://arxiv.org/abs/2011.09917)
+    - **Relevant**
+    - 10 comoving Mpc-scale structure traced by massive submillimeter galaxies (SMGs) at z~4.6.
+    - We identify four [CII] emitting SMGs and two probable [CII] emitting SMG candidates at z=4.60-4.64
+    - After excluding one SMG whose emission line is falling at the edge of the spectral window, all galaxies show clear velocity gradients along the major axes that are consistent with rotating gas disks.
+        - 旋转速度在330-550 km/s之间；可能的Halo质量: 2-8x10^{12} Msun
+    - These SMGs are concentrated within just 0.3% of the full survey volume, suggesting they are strongly clustered.
 
 - [Searching for intergalactic star forming regions in Stephan's Quintet with SITELLE: II. Physical properties and metallicity](https://arxiv.org/abs/2011.09924)
+    - According to the BPT diagram, we found 91 HII, 17 composite, and 7 active galactic nucleus-like regions in SQ.
+    - SQ整体恒星形成率很低，主要来自两个starburst region；we assume that the material prior to the collision with the new intruder (NI) does not show a high SFR, and therefore SQ was apparently quenched.
+    - At least two chemically different gas components cohabit in SQ where, on average, the regions with high radial velocities (v>6160 km s−1) have lower values of O/H and N/O than those with low radial velocities (v≤6160 km s−1).
+    - Finally, the SQ Hα regions are outside the galaxies because the interactions have dispersed the gas to the peripheral zones.
 
 - [Dual AGN candidates with double-peaked [O III] lines matching that of confirmed dual AGNs](https://arxiv.org/abs/2011.09961)
+    - Out of 1271 SDSS quasars, we have identified 77 DAGN candidates.
+    - About 1/3 of the SDSS images of the DAGN candidates show signs of tidal interaction, but we are unable to identify double nuclei in most of them due to the low spatial resolution
 
 - [Detection of H2O and OH+ in z>3 Hot Dust-Obscured Galaxies](https://arxiv.org/abs/2011.09991)
+    - ALMA Band-6 探测：the H2O emission seems to be more compact than the CO(9-8)
+    - The H2O/CO line ratio of both Hot DOGs and the OH+/H2O line ratio of W0410-0913 are comparable to those of luminous AGN
 
 - ["Slow" Radio Bursts from Galactic Magnetars?](https://arxiv.org/abs/2011.09921)
+    - The majority of X-ray bursts from SGR J1935+2154 are not associated with FRBs. One possible reason of such rarity of FRB-SGR-burst associations is that the FRB emission is much more narrowly beamed than SGR burst emission.
+    - One would expect to detect radio bursts with viewing angle somewhat outside the narrow emission beam. These "slow" radio bursts (SRBs) would have broader widths and lower flux densities due to the smaller Doppler factor involved
+    - If the FRB beam is narrow, there should be many more SRBs than FRBs from Galactic magnetars. Non-detection of these SRBs would disfavor the assumption that all SGR bursts are associated with narrow-beam FRBs.
 
 ----
 
 ### Nov 22
 
 - [Higher order statistics of shear field: a machine learning approach](https://arxiv.org/abs/2011.10438)
+    - For this reason, we decided to investigate the development of a new method to treat weak lensing higher order statistics, which are known to break degeneracy among cosmological parameters
+        - The proposed method directly applies to the observed quantity, i.e., the noisy galaxy ellipticity.
+    - Measure higher order moments, Minkowski functionals, Betti numbers, and other statistics related to graph theory.
 
 - [A Catalog of 220 Offset and Dual AGNs: Increased AGN Activation in Major Mergers and Separations under 4 kpc](https://arxiv.org/abs/2011.10051)
+    - We have built the ACS-AGN Merger Catalog, a large catalog (N=220) of uniformly selected offset and dual AGN observed by HST at 0.2< z< 2.5 with separations <20 kpc.
+    - First, we confirm predictions that the AGN fraction peaks at SMBH pair separations <10 kpc; specifically, we find that the fraction increases significantly at pair separations of <4 kpc. 
+    - We find that AGNs in mergers are preferentially found in major mergers and that the fraction of AGNs found in mergers follows a logarithmic relation, decreasing as merger mass ratio increases.
+    - We find that nuclear column density, AGN luminosity, and host galaxy star formation rate have no dependence on SMBH pair separation or merger mass ratio in these systems
 
 - [On the AGN Nature of Broad Balmer Emission in Four Low-Redshift Metal-Poor Galaxies](https://arxiv.org/abs/2011.10053)
+    - **Interesting**
+    - 矮星系内可能AGN的15年的监测：The persistent luminosity of the broad Balmer emission indicates the galaxies are active galactic nuclei (AGNs) with virial black hole masses of 10^6.4−10^6.7 M⊙
+    - We also identify a previously-unreported blueshifted narrow absorption line in the broad Hα feature in one of the AGNs, indicating an AGN-driven outflow
+    - We detect AGN-like variability in three galaxies, further supporting the AGN scenario.
+    - 低金属丰度矮星系中AGN可能对研究宇宙早期种子黑洞有意义：This sample of galaxies are among the most metal-poor which host an AGN (Z=0.05−0.16 Z⊙). We speculate they may be analogues to seed black holes which formed in unevolved galaxies at high redshift
 
 - [The evolution of the size-mass relation at z=1-3 derived from the complete Hubble Frontier Fields data set](https://arxiv.org/abs/2011.10059)
+    - **Relevant**
+    - 利用FF场的强引力透镜优势研究高红移恒星质量完备样本的Mass-size relation
+        - Source reconstruction is carried out with the recently-released lenstruction software. 
+    - We find galaxy sizes evolve as Reff∝(1+z)^−1.05±0.37. The intrinsic scatter is <0.1 dex at z<1.5 but increases to ∼0.3 dex at higher redshift.
 
 - [Faint Quasars Live in the Same Number Density Environments as Lyman Break Galaxies at z ~ 4](https://arxiv.org/abs/2011.10194)
 
@@ -1140,7 +1186,7 @@
 
 ----
 
-### Nov 22
+### Nov 23
 
 - [Deep learning insights into cosmological structure formation](https://arxiv.org/abs/2011.10577)
 
@@ -1167,3 +1213,53 @@
 - [NIHAO - XXV. Convergence in the cusp-core transformation of cold dark matter haloes at high star formation thresholds](https://arxiv.org/abs/2011.11351)
 
 - [Bulge formation through disc instability - I](https://arxiv.org/abs/2011.11629)
+
+- [The Field Substellar Mass Function Based on the Full-sky 20-pc Census of 525 L, T, and Y Dwarfs](https://arxiv.org/abs/2011.11616)
+
+----
+
+### Nov 24
+
+- [Exploring the epoch of hydrogen reionization using FRBs](https://arxiv.org/abs/2011.11643)
+
+- [Eppur è piatto? The cosmic chronometer take on spatial curvature and cosmic concordance](https://arxiv.org/abs/2011.11645)
+
+- [Inconsistencies arising from the coupling of galaxy formation sub-grid models to Pressure-Smoothed Particle Hydrodynamics](https://arxiv.org/abs/2011.11641)
+
+- [Unraveling the origin of magnetic fields in galaxies](https://arxiv.org/abs/2011.11648)
+
+- [AGN on the move: A search for off-nuclear AGN from recoiling SMBHs and ongoing galaxy mergers with the Zwicky Transient Facility](https://arxiv.org/abs/2011.11656)
+
+- [FOREVER22: galaxy formation in protocluster regions](https://arxiv.org/abs/2011.11663)
+
+- [Physics of ULIRGs with MUSE and ALMA: The PUMA project I. Properties of the survey and first MUSE data results](https://arxiv.org/abs/2011.11676)
+
+- [BAYES-LOSVD: a bayesian framework for non-parametric extraction of the line-of-sight velocity distribution of galaxies](https://arxiv.org/abs/2011.12023)
+
+- [Young stellar population gradients in central cluster galaxies from NUV and optical spectroscopy](https://arxiv.org/abs/2011.12042)
+
+- [Chemical abundances of Seyfert 2 AGNs IV. Composite models calculated by photoionization + shocks](https://arxiv.org/abs/2011.12103)
+
+----
+
+### Nov 25
+
+- [HIRES, the high-resolution spectrograph for the ELT](https://arxiv.org/abs/2011.12317)
+    - Fiber spectragraph for E-ELT: providing a wavelength coverage of 0.4-1.8 mic (goal 0.35-1.8 mic) at a spectral resolution of ~100,000
+    - The HIRES consortium is composed of more than 30 institutes from 14 countries, forming a team of more than 200 scientists and engineers.
+
+- [Modelling the Statistics of Cold Neutral Medium in Absorption-selected High-redshift Galaxies](https://arxiv.org/abs/2011.12296)
+
+- [Photometric Redshift Estimation with a Convolutional Neural Network: NetZ](https://arxiv.org/abs/2011.12312)
+
+- [The High-Redshift Clusters Occupied by Bent Radio AGN (COBRA) Survey: Radio Source Properties](https://arxiv.org/abs/2011.12313)
+
+- [An off-centred bulge or a satellite? Hydrodynamical N-body simulations of the disc galaxy NGC 5474](https://arxiv.org/abs/2011.12322)
+
+- [DeepShadows: Separating Low Surface Brightness Galaxies from Artifacts using Deep Learning](https://arxiv.org/abs/2011.12437)
+
+- [Revealing the Accretion Physics of Supermassive Black Holes at Redshift z~7 with Chandra and Infrared Observations](https://arxiv.org/abs/2011.12458)
+
+- [The orbital evolution of UFDs and GCs in an evolving Galactic potential](https://arxiv.org/abs/2011.12535)
+
+- [The orbital evolution of UFDs and GCs in an evolving Galactic potential](https://arxiv.org/abs/2011.12535)
