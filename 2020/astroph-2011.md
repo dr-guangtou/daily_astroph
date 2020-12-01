@@ -1158,7 +1158,7 @@
 
 - [A Catalog of 220 Offset and Dual AGNs: Increased AGN Activation in Major Mergers and Separations under 4 kpc](https://arxiv.org/abs/2011.10051)
     - We have built the ACS-AGN Merger Catalog, a large catalog (N=220) of uniformly selected offset and dual AGN observed by HST at 0.2< z< 2.5 with separations <20 kpc.
-    - First, we confirm predictions that the AGN fraction peaks at SMBH pair separations <10 kpc; specifically, we find that the fraction increases significantly at pair separations of <4 kpc. 
+    - First, we confirm predictions that the AGN fraction peaks at SMBH pair separations <10 kpc; specifically, we find that the fraction increases significantly at pair separations of <4 kpc.
     - We find that AGNs in mergers are preferentially found in major mergers and that the fraction of AGNs found in mergers follows a logarithmic relation, decreasing as merger mass ratio increases.
     - We find that nuclear column density, AGN luminosity, and host galaxy star formation rate have no dependence on SMBH pair separation or merger mass ratio in these systems
 
@@ -1172,7 +1172,7 @@
 - [The evolution of the size-mass relation at z=1-3 derived from the complete Hubble Frontier Fields data set](https://arxiv.org/abs/2011.10059)
     - **Relevant**
     - 利用FF场的强引力透镜优势研究高红移恒星质量完备样本的Mass-size relation
-        - Source reconstruction is carried out with the recently-released lenstruction software. 
+        - Source reconstruction is carried out with the recently-released lenstruction software.
     - We find galaxy sizes evolve as Reff∝(1+z)^−1.05±0.37. The intrinsic scatter is <0.1 dex at z<1.5 but increases to ∼0.3 dex at higher redshift.
 
 - [Faint Quasars Live in the Same Number Density Environments as Lyman Break Galaxies at z ~ 4](https://arxiv.org/abs/2011.10194)
@@ -1262,4 +1262,107 @@
 
 - [The orbital evolution of UFDs and GCs in an evolving Galactic potential](https://arxiv.org/abs/2011.12535)
 
-- [The orbital evolution of UFDs and GCs in an evolving Galactic potential](https://arxiv.org/abs/2011.12535)
+- [Spectropolarimetry of the changing-look active galactic nucleus Mrk 1018](https://arxiv.org/abs/2011.12634)
+
+
+----
+
+### Nov 29
+
+- [SHAPing the Gas: Understanding Gas Shapes in Dark Matter Haloes with Interpretable Machine Learning](https://arxiv.org/abs/2011.12987)
+    - 基于TNG：we explore a machine learning approach for modelling the dependence of gas shapes on dark matter and baryonic properties.
+    - 基于XGBOOST，用SHAP去进行解释：We find that baryonic properties best predict gas shapes in halo cores, whereas dark matter shapes are the main predictors in the halo outskirts.
+
+- [Don't cross the streams: caustics from Fuzzy Dark Matter](https://arxiv.org/abs/2011.13141)
+    - A general feature of FDM models is the presence of ubiquitous density fluctuations in bound, virialized dark matter structures, on the scale of the de Broglie wavelength, arising from wave interference in the evolving dark matter distribution. 用球状星团tidal stream来限制FDM的质量
+    - 需要测光观测，主要通过功率谱研究
+
+- [HI intensity mapping with MeerKAT: Calibration pipeline for multi-dish autocorrelation observations](https://arxiv.org/abs/2011.13789)
+    - 如何用General purpose dish arrays观测宇宙21cm信号：This can be achieved most efficiently if the array is used as a collection of scanning autocorrelation dishes rather than as an interferometer.
+    - Our results provide a positive indication towards the feasibility of using MeerKAT and the future SKA to measure the HI intensity mapping signal and probe cosmology on degree scales and above
+
+- [Velocity Dispersion of the GD-1 Stellar Stream](https://arxiv.org/abs/2011.12963)
+    - **SSST**
+    - We report a radial velocity dispersion of 2.3±0.3kms−1 in the GD-1 stellar stream using a sample of 43 spectroscopically confirmed members
+    - The GD-1 velocity dispersion is constant over the surveyed ≈15∘ span of the stream. We also measured velocity dispersion in the spur adjacent to the main GD-1 stream, and found a similar value at the tip of the spur.
+    - An unperturbed model of the GD-1 stream has a velocity dispersion of ≈0.6kms−1, indicating that GD-1 has undergone dynamical heating
+    - Using high-resolution MMT/Hectochelle: we achieved a signal-to-noise ratio S/N ≈ 2 at g = 20 and an effective resolution R ≈ 32,000
+
+- [The role of gas fraction and feedback in the stability and evolution of galactic discs: implications for cosmological galaxy formation models](https://arxiv.org/abs/2011.12966)
+    - 有些宇宙学模拟中的盘星系没有观测到的clumpy结构可能是因为气体比例太低:the gas mass fraction is the primary physical parameter driving violent disc instabilities, and is more important than the calibration of stellar feedback calibration.
+    - 模拟中气体比例低的一个原因可能是反馈过强，外流速度过快 
+
+- [Can cosmological simulations capture the diverse satellite populations of observed Milky Way analogues?](https://arxiv.org/abs/2011.12974)
+    - We use the LCDM-based ARTEMIS suite of cosmological hydrodynamical simulations containing 45 Milky Way analogue host haloes to make comparisons to the observed satellite luminosity functions, radial distribution functions, and abundance scaling relations from the recent Local Volume and SAGA observational surveys, in addition to the Milky Way and M31.
+        - The simulations were run with a version of the Gadget-3 code with galaxy formation (subgrid) physics models developed for the EAGLE simulations
+    - LCDM-based simulations can successfully and simultaneously capture the mean trends and the diversity in both the observed luminosity and radial distribution functions of Milky Way analogues once important observational selection criteria are factored in. 选择效应很重要
+
+- [Photometric dissection of Intracluster Light and its correlations with host cluster properties](https://arxiv.org/abs/2011.12992)
+    - **Relevant, Important**
+    - 170 z<0.08 clusters from the Abell catalog; g-band observation
+    - 四种不同的方式定义ICL：一定积分光度以上；一定面亮度以下；对de Vaucouleur轮廓的超出；double-Sersic的outer profile
+        - 1. 在CoG上用M<−21.85 g mag定义ICL：71+/-22%
+        - 2. 面亮度 SB > 27 g mag arcsec^{-2}: 34+/-19%
+        - 3. 对deV的超出： 48+/-20%
+        - 4. Outer Sersic profile: 52+/-21%; outer Sersic component traces the unrelaxed, accreted stellar material
+    - We find positive correlations between BCG+ICL brightness and cluster mass, cluster velocity dispersion, cluster radius, and integrated satellite brightness, confirming that BCG/ICL growth is indeed coupled with cluster growth 
+    - On average, the ICL is better aligned than the BCG with the host cluster in terms of position angle, ellipticity, and centering.
+
+- [Star Formation in Splash Bridges](https://arxiv.org/abs/2011.13035)
+    - Splash bridges are created from the direct collision of two gas-rich disk galaxies. e.g. the Taffy Galaxy (UGC 1294/5)
+    - CO observations of the Taffy revealed that its splash bridge contains a mass of H_2 equal to that of the Milky Way's H_2 mass 但上面的SF很少
+    - We aim to better understand the conditions for star formation in splash bridges by employing a Jeans criterion to determine where gravitational instabilities occur in the shocked and cooling gas of gas-rich disk collisions. 两个气体盘之间的倾角和碰撞速度对有多大比例的气体会变得unstable很重要: 倾角越小，星暴越显著
+
+- [A puzzling non-detection of [O III] and [C II] from a z≈7.7 galaxy observed with ALMA](https://arxiv.org/abs/2011.13319)
+    - z7_GSD_3811 at z=7.664的ALMA band 6 & 8观测：far-infrared [O III] 88 μm, [C II] 158 μm emission lines and dust continuum
+    - The [O III] 88 μm and [C II] 158 μm emission lines are undetected；We do not detect any dust continuum in band 6 nor band 8
+    - 说明几乎没有尘埃，而且金属丰度很低
+
+- [Diagnosing the interstellar medium of galaxies with far-infrared emission lines I. The [C II] 158 microns line at z~0](https://arxiv.org/abs/2011.13441)
+    - Gas particles are divided into three phases: dense molecular gas, neutral atomic gas and diffuse ionised gas (DIG). We estimate the [C II] line emission from the three phases using a set of Cloudy cooling tables.
+    - The fractional contribution to the [C II] line from different ISM phases depends on the total SFR and metallicity. The neutral gas phase dominates the [C II] emission in galaxies with SFR∼0.01-1M⊙yr−1, but the ionised phase dominates at lower SFRs. Galaxies above solar metallicity exhibit lower L[CII]/SFR ratios for the neutral phase.
+    - We suggest that the reduced size of the neutral clouds, caused by increased SFRs, is the likely cause for the L[CII] deficit at high infrared luminosities
+    - 有很好的关于如何从模拟预测发射线强度的计算介绍
+
+- [Magellanic satellites in ΛCDM cosmological hydrodynamical simulations of the Local Group](https://arxiv.org/abs/2011.13500)
+    - 基于APOSTLE LCDM模拟：Our results indicate that LMC-like satellites are twice more common around Local Group-like primaries than around isolated halos of similar mass
+    - Our results indicate that LMC-like satellites are twice more common around Local Group-like primaries than around isolated halos of similar mass; these satellites come from fairly large turnaround radii (~400 kpc) and are on highly eccentric orbits whose velocities at first pericentre are comparable with the primary's escape velocity.
+    - LMC analogues contribute only 2+-1 satellites with M*>10^5 Msun, and have thus only a mild impact on the luminous satellite population of their hosts. LMC satellites as luminous as the SMC seem rare, and none are found in our simulations
+    - At first pericentre, LMC-associated satellites are close to the LMC in position and velocity, and are distributed along the LMC's orbital plane. Their orbital angular momenta are nearly parallel to the LMC's, but, interestingly, they may appear to "counter-rotate" the MW in some cases.
+
+- [The MAGPI Survey -- science goals, design, observing strategy and early results](https://arxiv.org/abs/2011.13500)
+    - **Important, Relevant**
+    - MUSE Survey: Middle Ages Galaxy Properties with Integral Field Spectroscopy (MAGPI) survey
+    - MAGPI will map the kinematic and chemical properties of stars and ionised gas for a sample of 60 massive (>7×10^10M⊙) central galaxies at 0.25< z<0.35
+    - MAGPI will deliver resolved and unresolved spectra for as many as 150 satellite galaxies at 0.25< z<0.35, as well as hundreds of emission-line sources at z<6.
+
+- [Evolution of the grain size distribution in Milky Way-like galaxies in post-processed IllustrisTNG simulations](https://arxiv.org/abs/2011.13568)
+    - Post-processing the IllustrisTNG cosmological hydrodynamical simulations in order to predict dust-to-gas ratios and grain size distributions. We treat grain-size-dependent dust growth and destruction processes using a 64-bin discrete grain size evolution model without spatially resolving each galaxy. 
+    - The grain size distribution is dominated by large grains at z≳3 and the small-grain abundance rapidly increases by shattering and accretion (dust growth) at z≲2. The grain size distribution approaches the so-called MRN distribution at z∼1, but a suppression of large-grain abundances occurs at z<1.
+    - 从尘埃分布可以研究消光律的演化：Extinction curves are initially flat at z>2, and become consistent with the Milky Way extinction curve at z≲1
+    - MRN distribution: Mathis et al. 1977 extracted the grain size distributions of silicate and graphite from the observed MW extinction curve.
+
+- [Deep Extragalactic VIsible Legacy Survey (DEVILS): SED Fitting in the D10-COSMOS Field and the Evolution of the Stellar Mass Function and SFR-M⋆ relation](https://arxiv.org/abs/2011.13605)
+    - **Relevant**
+    - COSMOS场内星系的新红移和SED拟合：Our stellar mass and star formation rate estimates are self-consistently derived using the spectral energy distribution (SED) modeling code ProSpect, using well-motivated parameterisations for dust attenuation, star formation histories, and metallicity evolution.
+    - 看SMF演化：we find that most of the evolution in the SMF is driven by the characteristic density parameter, with little evolution in the characteristic mass and low-mass slopes.
+    - Where the SFR-M⋆ relation is indistinguishable from a power-law at z>2.6, we see evidence of a bend in the relation at low redshifts (z<0.45).
+
+- [A low [CII]/[NII] ratio in the center of a massive galaxy at z=3.7: witnessing the transition to quiescence at high-redshift?](https://arxiv.org/abs/2011.13700)
+    - Hyde, a recently discovered galaxy at z=3.709. As compact (r~0.5 kpc) and massive (M*~1e11 Msun) as its quenched neighbor Jekyll, it is also extremely obscured yet only moderately luminous in the sub-millimeter
+    - We describe ALMA observations of the [CII] 157um and [NII] 205um far-infrared emission lines. The [CII] emission within the half-light radius is dominated by ionized gas, while the outskirts are dominated by PDRs or neutral gas.
+    - 中心的电离源可能不是SF，而是之前星暴留下的星族或者是中等强度的AGN
+
+- [The GALAH Survey: Chemical Clocks](https://arxiv.org/abs/2011.13745)
+    - **SSST**
+    - We derive ages for a sample of 250,000 stars taken from GALAH DR3 using only their overall metallicity and chemical abundances.
+    - The fact that chemical abundances alone can be used to determine a reliable age for a star have profound implications for the future study of the Galaxy as well as upcoming spectroscopic surveys.
+    - These results show that the chemical abundance variation at a given birth radius is quite small, and imply that strong chemical tagging of stars directly to birth clusters may prove difficult with our current elemental abundance precision
+
+- [Star formation histories of massive red spiral galaxies in the local universe](https://arxiv.org/abs/2011.13749)
+    - We find that massive red spirals are similar to red ellipticals in both SFHs and present-day stellar populations
+    - The two types of galaxies show similarly flat profiles in a variety of stellar population parameters: old stellar ages indicated by D4000 (the spectral break at around 4000\AA), high stellar metallicities, large Mgb/Fe ratios indicative of fast formation, and little stellar dust attenuation.
+
+- [MEGARA-GTC Stellar Spectral Library (II). MEGASTAR First Release](https://arxiv.org/abs/2011.13001)
+    - MEGARA IFU spectral templates: We are creating an instrument-oriented empirical spectral library from MEGARA-GTC stars observations, MEGASTAR, crucial for the correct interpretation of MEGARA data
+    - The first release of MEGASTAR, formed by the spectra of 414 stars observed with R ≃ 20000 in the spectral intervals from 6420 to 6790 $\r{A}$ and from 8370 to 8885 $\r{A}$, and obtained with a continuum average signal to noise ratio around 260. 
