@@ -223,3 +223,80 @@
 - 用模拟研究OVI吸收气体在CGM中的分布：Using [`Mockspec`](https://github.com/jrvliet/MOCKSPEC), an absorption line analysis pipeline, we generate synthetic quasar absorption line observations of the simulated CGM.
 - We find that the OVI covering fraction obtained for the simulated galaxies agrees well with the observed value for the inner halo (D/Rvir≤0.375) and is within 1.1σ in the outer halo (D/Rvir>0.75), but is underproduced within 0.375<D/Rvir≤0.75.
 - The observed bimodal distribution of OVI covering fraction with azimuthal angle, showing higher frequency of absorption along the projected major and minor axes of galaxies, is not reproduced in the simulations.
+
+----
+
+### Dec 3
+
+#### Relevant / Important / Useful
+
+##### [Shock and Splash: Gas and Dark Matter Halo Boundaries around LambdaCDM Galaxy Clusters](https://arxiv.org/abs/2012.00977)
+- #splashback #galaxy_halo #galaxy_cluster
+- 65 massive dark matter halos extracted from the Omega500 simulation
+- 和自相似模型预测的不同，accretion shock的位置和SP半径位置不同：The accretion shock radius is larger than all definitions of the splashback radius in the literature by 20-100%.
+- The accretion shock radius defined using the steepest drop in the entropy pressure profiles is approximately 2 times larger than the splashback radius defined by the steepest slope in the dark matter density profile
+
+##### [The mass-size relation of galaxy clusters](https://arxiv.org/abs/2012.01336)
+- #splashback #galaxy_halo #galaxy_cluster
+- We also show that the depth of the splashback feature correlates well with the direction of filaments and, surprisingly, the orientation of the brightest cluster galaxy. 
+- Our findings suggest that galaxy profiles and weak-lensing masses can define an observationally viable mass-size scaling relation for galaxy clusters, which can be used to extract cosmological information.
+
+#### Interesting / Keep in mind
+
+##### [Most of the cool CGM of star-forming galaxies is not produced by supernova feedback](https://arxiv.org/abs/2012.00770)
+- #CGM
+- We developed semi-analytical parametric models to describe the cool CGM as an outflow of gas clouds from the central galaxy, as a result of supernova explosions in the disc 和COS观测比较
+- Our findings clearly show that a supernova-driven outflow model is not suitable to describe the dynamics of the cool circumgalactic gas.
+- This strongly suggests that, since the outflows cannot reproduce most of the cool gas absorbers, the latter are likely the result of cosmological inflow in the outer galaxy halos, in analogy to what we have previously found for early-type galaxies.
+
+##### [Distances to PHANGS Galaxies: New Tip of the Red Giant Branch Measurements and Adopted Distances](https://arxiv.org/abs/2012.00757)
+- #nearby_galaxies [[Surveys of Nearby Galaxies]]
+- 20Mpc的38个旋涡星系的HST观测，ACS F606W/F814W观测：we use these parallel fields to derive tip of the red giant branch (TRGB) distances to these galaxies.
+- We also provide a compilation of distances for the 118 galaxies in the full PHANGS sample, which have been adopted for the first PHANGS-ALMA public data release.
+
+#### Others
+
+##### [Probing Large-scale UV Background Inhomogeneity Associated with Quasars using Metal Absorption](https://arxiv.org/abs/2012.00772)
+- Overall stronger high ionization species absorption is seen closer to quasars at 2.4<z<3.1. O VI absorption shows a particularly strong change, with effects in C IV evident in some cases
+- Demonstrate that UV background inhomogeneities exist on scales of several 10s of comoving megaparsecs associated with quasars and that they can be measured with precision by examining metal absorption in the intergalactic medium.
+
+##### [The Rapid ASKAP Continuum Survey I: Design and First Results](https://arxiv.org/abs/2012.00747)
+- #radio_survey [[Radio Surveys]]
+- RACS will provide a shallow model of the ASKAP sky that will aid the calibration of future deep ASKAP surveys. RACS will cover the whole sky visible from the ASKAP site in Western Australia. 
+- Will cover the full ASKAP band of 700−1800 MHz
+- The RACS images are generally deeper than the existing NRAO VLA Sky Survey (NVSS) and Sydney University Molonglo Sky Survey (SUMSS) radio surveys and have better spatial resolution.
+- [Survey website](https://research.csiro.au/racs/) and the[data Release here](https://data.csiro.au/collections/domain/casdaObservation/results/PRAS110%20-%20The%20Rapid%20ASKAP%20Continuum)
+
+##### [AGN Triality of Triple Mergers: Detection of Faint X-ray Point Sources](https://arxiv.org/abs/2012.00761)
+- We conclude that 1 triple merger has one X-ray point source (SDSS J0858+1822, although it's unlikely to be an AGN); 5 triple mergers are likely composed of two X-ray point sources (NGC 3341, SDSS J1027+1749, SDSS J1631+2352, SDSS J1708+2153, and SDSS J2356−1016); and one system is composed of three X-ray point sources (SDSS J0849+1114)
+- The dual and triple point source systems are found to have physical separations between 3-9 kpc and flux ratios between 2x10^-3 - 0.84.
+
+##### [AGN Triality of Triple Mergers: Multi-wavelength Classifications](https://arxiv.org/abs/2012.00769)
+- Analyzing the multi-wavelength observations of 7 triple galaxy mergers, we find that 1 triple merger has a single AGN (NGC 3341); we discover, for the first time, 4 likely dual AGN (SDSS J1027+1749, SDSS J1631+2352, SDSS J1708+2153, and SDSS J2356-1016); we confirm one triple AGN system, SDSS J0849+1114
+- Higher levels of nuclear gas are more likely to activate AGN in mergers
+
+##### [Identification of AKARI infrared sources by Deep HSC Optical Survey: Construction of New Band-Merged Catalogue in the NEP-Wide field](https://arxiv.org/abs/2012.00750)
+- We present newly identified AKARI sources by the HSC survey, along with multi-band photometry for 91,861 AKARI sources observed over the NEPW field.
+
+##### [Morphological evolution of supermassive black hole merger hosts and multimessenger signatures](https://arxiv.org/abs/2012.00775)
+- 基于Illustris模拟中的SMBH并合：We find that these mergers take place in typical galaxies along the MBH−M∗ relation, and that between LISA and PTA detections we can expect to probe the full range of galaxy masses.
+- We do find that galaxies hosting low-mass black hole mergers tend to show a slight increase in star formation rates compared to a mass-matched sample
+- We further find that incorporating a realistic timescale delay for the black hole mergers could shift the distribution of merger masses toward higher-mass mergers, decreasing the rate of LISA detections while increasing the rate of PTA detections.
+
+##### [The delay time distribution of Type-Ia supernovae in galaxy clusters: the impact of extended star-formation histories](https://arxiv.org/abs/2012.00793)
+- 关于星系团中SNIa的DTD，之前的结论是和Field中不同：DTD has a power-law form whose normalisation is at least several times higher than measured in field-galaxy environments, implying that SNe Ia are produced in larger numbers by the stellar populations in clusters.
+- We re-derive the DTD from the cluster SN Ia data, but now relax the single-burst assumption. 
+- The derived cluster-environment DTD remains higher (at 3.8σ significance) than the field-galaxy DTD, by a factor ∼2−3. Cluster and field DTDs both have consistent slopes of α≈−1.1.
+
+##### [A KMOS survey of the nuclear disk of the Milky Way I: Survey design and metallicities](https://arxiv.org/abs/2012.00918)
+- KMOS low resolution spectroscopic survey of the stars in the nuclear disk reaching the old populations.
+- We obtain spectra of 3113 stars with a median S/N of 67. We measure velocities for 3051 stars. Of those, 2735 sources have sufficient S/N to estimate temperatures and metallicities.
+- Our data set complements Galactic surveys such as Gaia and APOGEE for the inner 200 pc radius of the Milky Way which is not readily accessible by those surveys due to extinction.
+
+##### [Spatially resolved direct method metallicity in a high-redshift analogue local galaxy: temperature structure impact on metallicity gradients](https://arxiv.org/abs/2012.01113)
+- We investigate how HII region temperature structure assumptions affect "direct-method" spatially-resolved metallicity observations using multispecies auroral lines
+- The spatial metallicity trends show significant differences among the three direct methods. We conclude that overlooked assumptions about the internal temperature structure of HII regions in the direct method can lead to large discrepancies in metallicity gradient studies. 
+
+##### [Attention-gating for improved radio galaxy classification](https://arxiv.org/abs/2012.01248)
+- We present an attention-based model that performs on par with previous classifiers while using more than 50% fewer parameters than the next smallest classic CNN application in this field.
+- We show that while the selection of normalisation and aggregation may only minimally affect the performance of individual models, it can significantly affect the interpretability of the respective attention maps and by selecting a model which aligns well with how astronomers classify radio sources by eye, a user can employ the model in a more effective manner. 
