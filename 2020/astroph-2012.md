@@ -679,3 +679,135 @@
 - The N/O vs. O/H plane indicate that they have been created through the mixing of disk gas having higher metallicity with accreted gas having lower metallicity.
 - Accretion of metal-poor gas can probably sustain star formation in present-day late-type galaxies.
 
+----
+
+### Dec 9
+
+#### Relevant / Important / Useful
+
+##### [Globular Cluster Systems of Relic Galaxies](https://arxiv.org/abs/2012.04783)
+- #globular_cluster #red_nugget #early_type_galaxy 
+- 15个massive relic星系的GC系统， WFC3观测
+- We find lower specific frequencies (SN<2.5 with a median of SN=1) than ETGs of comparable mass. This is consistent with a scenario of rapid, early dissipative formation, with relatively low levels of accretion of low-mass, high-SN satellites. 
+- The GC half-number radii are compact, but follow the relations found in normal ETGs.
+- We identify an anticorrelation between the specific angular momentum (lambda_R) of the host galaxy and the (I-H) colour distribution width of their GC systems GC系统的颜色分布和星系的单位角动量有反相关
+
+#### Interesting / Keep in mind
+
+##### [Joint Suzaku and Chandra observations of the MKW4 galaxy group out to the virial radius](https://arxiv.org/abs/2012.05160)
+- #galaxy_group
+- Its entropy profile follows a power-law of ∝r^1.1 between R500 and R200 in all directions, as expected from the purely gravitational structure formation model.
+- The well-behaved entropy profiles at the outskirts of MKW4 disfavor the presence of gas clumping or thermal non-equilibrium between ions and electrons in this system.
+- We note that the enclosed gas fractions at R200 are systematically smaller for groups than for clusters from existing studies in the literature.
+	- Shallower gravitational potential well may make them more vulnerable to baryon losses due to AGN feedback or galactic winds.
+	
+##### [MusE GAs Flow and Wind (MEGAFLOW) VI. A study of CIV and MgII absorbing gas surrounding [OII] emitting galaxies](https://arxiv.org/abs/2012.04935)
+- #CGM #bayesian #inference 
+- MUSE and UVES observations of 22 quasar fields selected to contain strong MgII absorbers
+- Bayesian logistic regression method on unbinned data to estimate the covering fraction of MgII and CIV
+	- The covering fractions of CIV (MgII) absorbers with mean Wr≈0.7{\AA} (1.0{\AA}), exceeds 50% within 30 (45) kpc, with a mild redshift evolution
+- For absorption systems that have CIV but not MgII, we find in 80% of the cases no [OII] counterpart. This may indicate that the CIV, in these cases, come from the intergalactic medium (IGM), i.e. beyond 250 kpc, or that it is associated with lower-mass or quiescent galaxies.
+
+##### [Not all peaks are created equal: the early growth of Supermassive Black Holes](https://arxiv.org/abs/2012.04714)
+- #smbh 
+- Constrained Gaussian realization technique to study the early growth of SMBH in simulation: 看黑洞和initial density peaks on large scales, ~1 Mpc/h的关系
+- We find that initial density peaks with high compactness and low tidal field induce the most rapid BH growth at early epochs.
+	- Compact density peaks with a more spherical large scale matter distribution lead to the formation of high density gas clumps in the centers of halos, and thus boost early BH accretion.
+- Such initially compact density peaks in low tidal field regions also lead to a more compact BH host galaxy morphology. This can explain the tight correlation between BH growth and host galaxy compactness seen in observations.
+- [`gaussianCR` - implementation of the constrained gaussian realization](https://github.com/yueyingn/gaussianCR)
+
+##### [Black Hole Mass Measurements of Radio Galaxies NGC 315 and NGC 4261 Using ALMA CO Observations](https://arxiv.org/abs/2012.04669)
+- #smbh
+- ALMA观测：CO(2−1) and CO(3−2) emission at 0.2''−0.3'' resolution
+- The data resolve CO emission that extends within their black hole (BH) spheres of influence (rg), tracing regular Keplerian rotation down to just tens of parsecs from the BHs
+- The BH masses are broadly consistent with the relations between BH masses and host galaxy properties. 
+- These are among the first ALMA observations to map dynamically cold gas kinematics well within the BH-dominated regions of radio galaxies, resolving the respective rg by factors of ∼5−10.
+
+#### Others
+
+##### [Euclid: Forecasts for k-cut 3×2 Point Statistics](https://arxiv.org/abs/2012.04672)
+- #csst
+- k-cut cosmic shear has recently been proposed as a method to optimally remove sensitivity to these scales while preserving usable information.
+- Fisher matrix analysis: we assess the degradation in constraining power for different k-cuts.
+- We find that taking a k-cut at 2.6 h Mpc−1 yields a dark energy Figure of Merit (FOM) of 1018. This is comparable to taking a weak lensing cut at ℓ=5000 and a galaxy clustering and galaxy-galaxy lensing cut at ℓ=3000 in a traditional 3×2 point analysis.
+
+##### [First multi-redshift limits on post-Epoch of Reionization (post-EoR) 21 cm signal from z = 1.96 - 3.58 using uGMRT](https://arxiv.org/abs/2012.04674)
+- Measurement of fluctuations in diffuse HI 21 cm background radiation from the post-reionization epoch (z < 6) is a promising avenue to probe the large-scale structure of the Universe and understand the evolution of galaxies
+- ELAIS-N1观测：we find the most stringent upper limits on the spherically averaged 21 cm power spectra at k~1.0 Mpc^-1
+
+##### [Star-Gas Misalignment in Galaxies: II. Origins Found from the Horizon-AGN Simulation](https://arxiv.org/abs/2012.04659)
+- Horizon-AGN模拟中质量较大的星系中恒星和气体成分misalignment: We have identified four main formation channels of misalignment and quantified their level of contribution: 
+	- Mergers (35%), interaction with nearby galaxies (23%), interaction with dense environments or their central galaxies (21%), and secular evolution including smooth accretion from neighboring filaments (21%).
+	- 而且对动力学扰动气体更脆弱，misalignment主要是气体的旋转主轴的改变造成的
+- The decay timescale of the misalignment shows a strong anti-correlation with the kinematic morphology (V/σ) and the cold gas fraction of the galaxy.
+	- 星系越是旋转主导，或者冷气体越多，misalignment消失的时标也越短
+
+##### [Galaxies within galaxies in the TIMER survey: stellar populations of inner bars are scaled replicas of main bars](https://arxiv.org/abs/2012.04661)
+- #stellar_population 
+- MUSE观测星系的inner bar: The results indicate that inner bars can be distinguished based on their stellar population properties alone.
+	- Inner bar: 金属丰度升高，[alpha/Fe]低
+	- Although they exhibit slightly younger stellar ages compared to the nuclear disc, the typical age differences are small,
+	- 可以在棒端看到年轻的星族，结构可能和bar ansae有关
+- Radial profiles of metallicity and [α/Fe] enhancements are flat along the inner bar major axis, but show significantly steeper slopes along the minor axis.
+- Inner bars appear to be scaled down versions of the main bars seen in galaxies.
+
+##### [Auto-identification of unphysical source reconstructions in strong gravitational lens modelling](https://arxiv.org/abs/2012.04665)
+- We consider a Convolutional Neural Network (CNN) that analyses the outputs of semi-analytic methods which parametrically model the lens mass and linearly reconstruct the source surface brightness distribution. 
+	- We show the unphysical source reconstructions that arise as a result of incorrectly initialised lens models can be effectively caught by our CNN.
+- The CNN predictions can be used to automatically re-initialise the parametric lens model, avoiding unphysical source reconstructions.
+
+##### [MusE GAs FLOw and Wind (MEGAFLOW) VII: A NOEMA pilot program to probe molecular gas in galaxies with measured circumgalactic gas flows](https://arxiv.org/abs/2012.04667)
+- Probe the molecular gas reservoirs of six z=0.6−1.1 star-forming galaxies whose circumgalactic medium has been observed in absorption along quasar lines-of-sight
+- This program is motivated by testing the quasi equilibrium model and the compaction scenario describing the evolution of galaxies along the main sequence of star formation, which imply tight relations between the gas content, the star formation activity, and the amount of gas flowing in and out.
+- Extending the sample to more galaxies and deeper observations will enable to quantify how the molecular gas fraction and depletion time depend on the inflow and ouflow rates.
+
+##### [A Large Population of Luminous Active Galactic Nuclei Lacking X-ray Detections: Evidence for Heavy Obscuration?](https://arxiv.org/abs/2012.04668)
+- 大量有红外探测，但是没有X-ray detection的AGN; 可能是尘埃遮挡极其严重的星系
+- Using the ratio of intrinsic-to-observed X-ray luminosity (RLX), we find a significant fraction of sources with column densities approaching NH> 10^{24} cm−2, suggesting that multiwavelength observations are necessary to account for the population of heavily obscured AGNs.
+- We simulate the underlying NH distribution for the X-ray non-detected sources in our sample through survival analysis, and confirm the presence of AGN activity via X-ray stacking. 
+
+##### [A search for dust and molecular gas in enormous Lyα nebulae at z≈2](https://arxiv.org/abs/2012.04675)
+- IRAM Plateau de Bure Interferometer observations of the enormous Lyα nebulae 'Slug' (z=2.282) and 'Jackpot' (z=2.041).
+- Our data reveal bright, synchrotron emission associated with the two radio-loud AGN embedded in the targeted nebulae, as well as molecular gas, as traced via the CO(3-2) line, in three galaxies
+- Our observations place limits on the molecular gas emission in the nebulae: The molecular gas surface density is ΣH2<12−25 M⊙ pc−2 for the Slug nebula and ΣH2<34−68 M⊙ pc−2 for the Jackpot nebula.
+	- Are consistent with the expected molecular gas surface densities, as predicted via photoionization models of the rest-frame UV line emission in the nebulae, and via Lyα absorption in the Jackpot nebula. 
+
+##### [Lyman-alpha spectroscopy of extreme [OIII] emitting galaxies at z≃2−3: Implications for Lyα visibility and LyC leakage at z>6](https://arxiv.org/abs/2012.04697)
+- MMT and Magellan 观测 2<z<3的有很高的[OIII] + Hbeta EW的星系的Lya发射线
+	- 在高红移星系中，高[OIII] + Hbeta EW意味着很高的Lya探测率
+- Our results demonstrate that strong Lyα emission (EW >20 AA) becomes more common in galaxies with larger [OIII]+Hβ EW, reflecting a combination of increasingly efficient ionizing photon production and enhanced transmission of Lyα. 
+- Among the galaxies with the most extreme [OIII]+Hβ emission (EW ∼1500 AA), we find that strong Lyα emission is not ubiquitous, with only 50% of our population showing Lyα EW >20
+- Edge-on的系统的Lya探测率更低
+
+##### [The ALMaQUEST Survey: V. The non-universality of kpc-scale star formation relations and the factors that drive them](https://arxiv.org/abs/2012.04771)
+- rSK: resolved Schmidt-Kennicutt relation
+- rSFMS: resolved SF main sequence
+- rMGMS: resolved molecular gas main sequence
+- Our results therefore indicate that the rSK and rMGMS are independent relations, whereas the rSFMS is a result of their combination.
+
+##### [The ALMaQUEST Survey: VI. The molecular gas main sequence of "retired" regions in galaxies](https://arxiv.org/abs/2012.04772)
+- 在有空间分辨的前提下看分子气体的“MS”：恒星面密度和H2分子气体面密度的关系 (rMGMS)
+- We find that retired spaxels form a rMGMS that is distinct from that of star-forming spaxels, offset to lower Sigma_H2 at fixed Sigma_* by a factor of ~5.
+- Molecular gas is detected in 40-100% of retired spaxels in the eight galaxies in our sample. Both the star-forming and retired rMGMS show a diversity in normalization from galaxy-to-galaxy.
+- We conclude that quenching is associated with a depletion (but not absence) of molecular gas via a mechanism that typically begins in the centre of the galaxy.
+
+##### [The Hierarchical Structure of Galactic Haloes: Classification and characterisation with Halo-OPTICS](https://arxiv.org/abs/2012.04823)
+- Ordering Points To Identify Clustering Structure (OPTICS), a hierarchical clustering algorithm well-known to be a robust data-miner
+- Halo-OPTICS, an algorithm designed for the automatic detection and extraction of all meaningful clusters between any two arbitrary sizes
+- We conclude that Halo-OPTICS is a robust hierarchical halo finder, although its determination of lower spatial-density features such as the tails of streams could be improved with the inclusion of extra localised information such as particle kinematics and stellar metallicity into its distance metric.
+
+##### [Large-scale magnetic field structure of NGC 3627 based on magnetic vector map](https://arxiv.org/abs/2012.04889)
+- The structure of the magnetic field was well aligned with the spiral arm
+- NGC 3627 has a mode of two spiral arms that were clearly visible in an optical image. The ratio of the mode of spiral arms to that of magnetic field is 2:1. In terms of NGC 3627, the large-scale magnetic field may be generated via the parametric resonance induced by the gravitational potential of the spiral arms.
+
+##### [The kpc Scale Fe Kα Emission in the Compton Thin Seyfert 2 Galaxy NGC 4388 resolved by Chandra](https://arxiv.org/abs/2012.04900)
+- Three extended X-ray structures around the nucleus on kpc scale are well imaged
+- Significant differences in equivalent width of the Fe Kα emission line are found for the nuclear and extended regions, which could be ascribed to different column densities or scattering angles with respect to the line of sight, rather than variations in iron abundances.
+- The morphology implies that the kpc-scale radio outflow may have compressed the interstellar gas and produced clumps working as the reflector to enhance line emission.
+- Using [OIV] emission as a proxy of the AGN intrinsic luminosity, we find that both of the extended Fe Kα emission and reflection continuum are linearly correlated with the [OIV] luminosity
+
+##### [Dust Reverberation Mapping of Z229-15](https://arxiv.org/abs/2012.04906)
+- Considering the lag between V and Ks bands to represent the inner edge of the dust torus, the torus in Z229-15 lies at a distance of 0.017 pc from the central ionizing continuum.
+- This is smaller than that expected from the radius luminosity (R-L) relationship
+
+
