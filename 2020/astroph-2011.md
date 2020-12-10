@@ -1290,7 +1290,7 @@
 
 - [The role of gas fraction and feedback in the stability and evolution of galactic discs: implications for cosmological galaxy formation models](https://arxiv.org/abs/2011.12966)
     - 有些宇宙学模拟中的盘星系没有观测到的clumpy结构可能是因为气体比例太低:the gas mass fraction is the primary physical parameter driving violent disc instabilities, and is more important than the calibration of stellar feedback calibration.
-    - 模拟中气体比例低的一个原因可能是反馈过强，外流速度过快 
+    - 模拟中气体比例低的一个原因可能是反馈过强，外流速度过快
 
 - [Can cosmological simulations capture the diverse satellite populations of observed Milky Way analogues?](https://arxiv.org/abs/2011.12974)
     - We use the LCDM-based ARTEMIS suite of cosmological hydrodynamical simulations containing 45 Milky Way analogue host haloes to make comparisons to the observed satellite luminosity functions, radial distribution functions, and abundance scaling relations from the recent Local Volume and SAGA observational surveys, in addition to the Milky Way and M31.
@@ -1305,7 +1305,7 @@
         - 2. 面亮度 SB > 27 g mag arcsec^{-2}: 34+/-19%
         - 3. 对deV的超出： 48+/-20%
         - 4. Outer Sersic profile: 52+/-21%; outer Sersic component traces the unrelaxed, accreted stellar material
-    - We find positive correlations between BCG+ICL brightness and cluster mass, cluster velocity dispersion, cluster radius, and integrated satellite brightness, confirming that BCG/ICL growth is indeed coupled with cluster growth 
+    - We find positive correlations between BCG+ICL brightness and cluster mass, cluster velocity dispersion, cluster radius, and integrated satellite brightness, confirming that BCG/ICL growth is indeed coupled with cluster growth
     - On average, the ICL is better aligned than the BCG with the host cluster in terms of position angle, ellipticity, and centering.
 
 - [Star Formation in Splash Bridges](https://arxiv.org/abs/2011.13035)
@@ -1337,7 +1337,7 @@
     - MAGPI will deliver resolved and unresolved spectra for as many as 150 satellite galaxies at 0.25< z<0.35, as well as hundreds of emission-line sources at z<6.
 
 - [Evolution of the grain size distribution in Milky Way-like galaxies in post-processed IllustrisTNG simulations](https://arxiv.org/abs/2011.13568)
-    - Post-processing the IllustrisTNG cosmological hydrodynamical simulations in order to predict dust-to-gas ratios and grain size distributions. We treat grain-size-dependent dust growth and destruction processes using a 64-bin discrete grain size evolution model without spatially resolving each galaxy. 
+    - Post-processing the IllustrisTNG cosmological hydrodynamical simulations in order to predict dust-to-gas ratios and grain size distributions. We treat grain-size-dependent dust growth and destruction processes using a 64-bin discrete grain size evolution model without spatially resolving each galaxy.
     - The grain size distribution is dominated by large grains at z≳3 and the small-grain abundance rapidly increases by shattering and accretion (dust growth) at z≲2. The grain size distribution approaches the so-called MRN distribution at z∼1, but a suppression of large-grain abundances occurs at z<1.
     - 从尘埃分布可以研究消光律的演化：Extinction curves are initially flat at z>2, and become consistent with the Milky Way extinction curve at z≲1
     - MRN distribution: Mathis et al. 1977 extracted the grain size distributions of silicate and graphite from the observed MW extinction curve.
@@ -1365,4 +1365,4 @@
 
 - [MEGARA-GTC Stellar Spectral Library (II). MEGASTAR First Release](https://arxiv.org/abs/2011.13001)
     - MEGARA IFU spectral templates: We are creating an instrument-oriented empirical spectral library from MEGARA-GTC stars observations, MEGASTAR, crucial for the correct interpretation of MEGARA data
-    - The first release of MEGASTAR, formed by the spectra of 414 stars observed with R ≃ 20000 in the spectral intervals from 6420 to 6790 $\r{A}$ and from 8370 to 8885 $\r{A}$, and obtained with a continuum average signal to noise ratio around 260. 
+    - The first release of MEGASTAR, formed by the spectra of 414 stars observed with R ≃ 20000 in the spectral intervals from 6420 to 6790 $\r{A}$ and from 8370 to 8885 $\r{A}$, and obtained with a continuum average signal to noise ratio around 260.
