@@ -1001,4 +1001,63 @@ $$
 	- We provide an empirical fitting function to inflate published σϖ values for isolated sources.
 
 
+### Jan 16
 
+#### Relevant / Important / Useful
+
+##### [Bright galaxy sample in the Kilo-Degree Survey Data Release 4: selection, photometric redshifts, and physical properties](https://arxiv.org/abs/2101.06010)
+
+- #survey/kids #galaxy/massive #shmr
+- KiDS中有精确测光红移的1M个r< 20 mag星系
+- As a demonstration of the usefulness of these data we split the dataset into red and blue galaxies, use them as lenses and measure the weak gravitational lensing signal around them for five stellar mass bins.
+ - 验证了 M*>5x10^{11} Msun的red星系比blue星系的halo质量大
+
+##### [Quantifying scatter in galaxy formation at the lowest masses](https://arxiv.org/abs/2101.05822)
+
+- #galaxy/dwarf #shmr #merian 
+- 用模拟星系来预测矮星系的SHMR：the simulated SMHM relationship agrees with literature determinations, including exhibiting a small scatter of 0.3 dex. However, the scatter in the SMHM relation increases for lower-mass halos.
+- We fit linearly growing log-normal scatter in stellar mass, which grows to more than 1 dex at Mpeak \= 10^{8} Msun.
+- At the faintest end of the SMHM relation probed by our simulations, a galaxy cannot be assigned a unique halo mass based solely on its luminosity.
+- Code and visualization: [`smhm-toy-model`](https://github.com/emapple/smhm-toy-model)
+
+##### [Dissecting the size-mass and Σ1\-mass relations at 1.0 < z < 2.5: galaxy mass profiles and color gradients as a function of spectral shape](https://arxiv.org/abs/2101.05820)
+
+- #galaxy/structure 
+- We classify ∼7,000 galaxies into sixteen groups with similar spectral shapes; each group represents a different evolutionary stage. 看这些星系在mass-size和mass-sigma1上的表现
+- Star-forming groups form steep parallel relations in the size-mass plane, with slopes similar to the quiescent size-mass relation.
+	- These steep slopes can be explained as a transformation of the star-forming Σ1\-mass relation and its scatter.
+- 可以认出三种transitional galaxies:
+	- Post-starburst和green valley的color-gradient不一样
+	- PSB：flat color-gradient; compact; higher-z; fast quenching
+	- GV: negative color-gradient; larger; lower-z; slow quenching
+
+#### Interesting / Keep in Mind
+
+##### [A Study of Gas Entropy Profiles of 47 Galaxy Clusters and Groups Out to the Virial Radius](https://arxiv.org/abs/2101.05947)
+
+- #galaxy/icm
+- We calculate the ICM entropy profiles in a sample of 47 galaxy clusters and groups, which have been observed out to at least ∼r500 with Chandra, XMM-Newton and/or Suzaku, by constructing a physical model to incorporate the effects of both gravity and non-gravitational processes to fit the observed gas temperature and surface brightness profiles via Bayesian statistics.
+- The flattened profiles reported previously can be explained by introducing the gas clumping effect, the existence of which is confirmed in 19 luminous targets in our sample.
+- [[Thermodynamical ICM Model]] (RTI)
+
+##### [New constraints on the magnetic field in filaments of the cosmic web](https://arxiv.org/abs/2101.06051)
+
+- #cluster/icm #cosmic_web
+- 低频射电观测可能已经可以探测到近邻大质量星系团对之间的cosmic filament的射点辐射；但目前只有upper limit
+- 利用LOFAR上限限制磁场：By combining the results from the two putative inter-cluster filaments, we derive new independent constraints on the median strength of inter-galactic magnetic fields
+- Based on cosmological simulations and assuming a primordial origin of the B-fields, these estimates can be used to limit the amplitude of primordial seed magnetic fields: B0≤10nG.
+
+#### Others
+
+##### [HOLISMOKES -- V. Microlensing of type II supernovae and time-delay inference through spectroscopic phase retrieval](https://arxiv.org/abs/2101.06229)
+
+- 看强引力透镜放大的超新星的微引力透镜效应的宇宙学影响
+- We study the impact of microlensing on the color curves and find that there is no strong influence on them during the investigated time interval of the plateau phase
+- However, the lack of non-linear structure in the color curves makes time-delay measurements difficult given the possible presence of differential dust extinction.
+- As the spectral features shift to longer wavelengths with progressing time after explosion, the measured wavelength of a specific absorption line provides information on the epoch of the SN.
+
+##### [Disc tearing: implications for black hole accretion and AGN variability](https://arxiv.org/abs/2101.05825)
+
+- Discs that are misaligned to the black hole spin can become warped over time by Lense-Thirring precession. 会变得不稳定，break into discrete rings producing a more dynamic and variable accretion flow.
+- When the disc warp is unstable near the inner edge of the disc, we find quasi periodic behaviour of the inner disc which may explain the recent quasi periodic eruptions observed
+- When the instability manifests at larger radii in the disc, we find that the central accretion rate can vary on timescales that may be commensurate with, e.g., changing-look AGN.
