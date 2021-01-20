@@ -1061,3 +1061,154 @@ $$
 - Discs that are misaligned to the black hole spin can become warped over time by Lense-Thirring precession. 会变得不稳定，break into discrete rings producing a more dynamic and variable accretion flow.
 - When the disc warp is unstable near the inner edge of the disc, we find quasi periodic behaviour of the inner disc which may explain the recent quasi periodic eruptions observed
 - When the instability manifests at larger radii in the disc, we find that the central accretion rate can vary on timescales that may be commensurate with, e.g., changing-look AGN.
+
+### Jan 18
+
+#### Relevant / Important / Useful
+
+#### Interesting / Keep in Mind
+
+##### [A Long Stream of Metal-Poor Cool Gas around a Massive Starburst Galaxy at z = 2.67](https://arxiv.org/abs/2101.06273)
+
+- #galaxy/cgm #galaxy/smg
+- z=2.6的SMG的CGM：We detect strong HI and metal-line absorption near the redshift of the SMG towards both QSOs, each consisting of three main subsystems spanning over 1500 km/s.
+- CGM中的冷气体柱密度很高，和相近红移的QSO类似；但金属丰度比之前QSO观测的要低很多
+	- 内流的作用：The large physical extent, the velocity coherence, the high surface density, and the low metallicity are all consistent with the cool, inflowing, and near-pristine gas streams predicted to penetrate hot massive halos at z > 1.5.
+
+##### [Evolution of the galaxy stellar mass function: evidence for an increasing M∗ from z\=2 to the present day](https://arxiv.org/abs/2101.07182)
+
+- #galaxy/smf
+- COSMOS+XMM; SExtractor + ProFound; 探测方法影响不大
+- We find that including IRAC data reduces the number of massive (log10(M/M⊙)\>11.25) galaxies found due to improved photometric redshift accuracy, but has little effect on the more numerous lower-mass galaxies.
+- 改正Eddingtong bias的方法对大质量端的SMF影响很大
+- we find evidence for an evolving characteristic stellar mass with δlog10(M∗/M⊙)/δz \= −0.16±0.05(−0.11±0.05)
+
+##### [CO excitation, molecular gas density and interstellar radiation field in local and high-redshift galaxies](https://arxiv.org/abs/2101.06646)
+
+- CO激发和星际辐射场强度相关：We confirm the existence of a tight correlation between CO excitation as traced by the CO(5-4)/(2-1) line ratio (R52), and the mean ISRF intensity U as derived from infrared SED fitting using dust SED templates
+- We present a framework linking global CO line ratios to the mean molecular hydrogen gas density nH2 and kinetic temperature Tkin
+- the ISRF in galaxies is mainly regulated by Tkin and (non-linearly) by nH2
+- Code for this work: [`co-excitation-gas-modeling`](https://pypi.org/project/co-excitation-gas-modeling/)
+
+
+#### Others
+
+##### [Quantifying Feedback from Narrow Line Region Outflows in Nearby Active Galaxies -- III. Results for the Seyfert 2 Galaxies Markarian 3, Markarian 78, and NGC 1068](https://arxiv.org/abs/2101.06270)
+
+- HST + APO spec观测；给出外流质量速率，最大速度
+- The outflows extend to radial distances of r≈0.1−3 kpc from the nucleus, with the gas masses, outflow energetics, and radial extents positively correlated with AGN luminosity.
+- The outflow rates are consistent with in-situ ionization and acceleration where gas is radiatively driven at multiple radii.
+
+##### [The OTELO survey as a morphological probe. Last ten Gyr of galaxy evolution. The mass--size relation up to z=2](https://arxiv.org/abs/2101.06460)
+
+- OTELO survey galaxies detected with the Hubble Space Telescope (HST)-ACS F814W images
+	- A total of 8,812 sources were successfully fitted with single-Sérsic profiles.
+- We found no statistical evidence for the evolution of the low-mass end of mass-size relation for ET and LT since z=2.
+
+##### [Searching for Nuclear Obscuration in the Infrared Spectra of Nearby FR I Radio Galaxies](https://arxiv.org/abs/2101.06579)
+
+- We present a wide-band infrared spectroscopic analysis of 10 nearby FR I radio galaxies to determine whether there is significant emission from a dusty obscuring structure.
+- We find that one galaxy is best fit by a clumpy torus and three others show some thermal mid-infrared component. This suggests that in those three there is likely some obscuring dust structure that is inconsistent with our torus models and there must be some source of photons heating the dust.
+
+##### [X-ray analysis of SDSS J165202.60+172852.4, an obscured quasar with outflows at peak galaxy formation epoch](https://arxiv.org/abs/2101.06613)
+
+- XMM + NuSTAR观测：We fit the spectra from the XMM-Newton/EPIC and NuSTAR detectors with a physically motivated torus model and constrain the source to exhibit a near Compton-thick column density, a near edge-on geometry, and a scattering factor of 3%
+- A powerful quasar that is not intrinsically X-ray weak, consistent with observed trends in other ERQs.
+- As previously suggested with shallower X-ray observations, optical and infrared selection of ERQ has proved effective in finding obscured quasars with powerful outflow signatures.
+
+##### [An Active Galactic Nucleus Recognition Model based on Deep Neural Network](https://arxiv.org/abs/2101.06683)
+
+- The main goals of this work are (i) to test if the AGN recognition problem in the North Ecliptic Pole Wide (NEPW) field could be solved by NN
+
+##### [Breaking the degeneracy between gas inflow and outflows with stellar metallicity: Insights on M101](https://arxiv.org/abs/2101.06833)
+
+- 通过恒星与气体质量比例估计气态和恒星金属丰度差别的模型
+	- 气体丰度对内流和外流都敏感；有简并
+	- 恒星丰度主要对外流敏感；
+- The combination of gas-phase and stellar metallicity is indeed more effective for constraining the gas inflow and outflow rates.
+
+##### [OzDES Reverberation Mapping Program: Lag recovery reliability for 6-year CIV analysis](https://arxiv.org/abs/2101.06921)
+
+- By simulating six real sources that contain the CIV emission line, we developed a set of quality criteria that ranks the reliability of a recovered time lag depending on the agreement between different recovery methods, the magnitude of the uncertainties, and the rate at which false positives were found in the simulations
+
+##### [Interferometric Cubelet Stacking to Recover HI Emission from Distant Galaxies](https://arxiv.org/abs/2101.06928)
+
+- Unlike the traditional spectral stacking technique, which stacks one-dimensional spectra extracted from data cubes, we examine a method based on image domain stacks which makes deconvolution possible.
+- we mock a sample of 3622 equatorial galaxies extracted from the GAMA survey, recently imaged as part of a DINGO-VLA project.
+	- The extracted H\\,\\textsc{i} mass from the deconvolved image agrees with the average input mass to within 3\\%.
+
+##### [The Subarcsecond Mid-Infrared View of Local Active Galactic Nuclei. IV. The L- and M-band Imaging Atlas](https://arxiv.org/abs/2101.07006)
+
+- VLT ISAAC in the L\- and/or M\-bands; 119 z<0.3 AGN, 3-5 micron
+- We separate the flux into unresolved nuclear flux and resolved flux through two-Gaussian fitting.
+- We find that models including polar winds best reproduce the 3-5μm colors, indicating that winds are an important component of dusty torus models.
+
+##### [Old and New Major Mergers in the SOSIMPLE galaxy, NGC 7135](https://arxiv.org/abs/2101.07072)
+
+- #galaxy/merger #galaxy/etg #galaxy/spop
+- MUSE观测：Snapshot Optical Spectroscopic Imaging of Mergers and Pairs for Legacy Exploration (SOSIMPLE)
+- With counter-rotation of gas, disrupted kinematics and asymmetric chemical distribution, NGC 7135 is consistent with an ongoing merger.
+- We further find a gradient in ex-situ material with galactocentric radius, with the accreted fraction rising from 0% in the galaxy centre, to ~7% within 0.6 effective radii.
+
+##### [The Lop-sided Spiral Galaxy NGC 247: Clues to a Possible Interaction with NGC 253](https://arxiv.org/abs/2101.07224)
+
+- Two bubbles with spatial extents of many kpc are identified in the disk, and many of the young stars in the southern disk of NGC 247 are located in the walls of one of these structures
+- Dynamical age estimates of these bubbles coincide with the last large-scale star formation event in the nucleus, suggesting that there was large-scale star formation throughout the disk of NGC 247 a few hundred Myr in the past.
+
+##### [Low star formation efficiency due to turbulent adiabatic compression in the Taffy bridge](https://arxiv.org/abs/2101.07092)
+
+- About 10% of the molecular gas mass is located in the bridge region.
+- The bridge GMAs are clearly not virialized because of their high velocity dispersion
+	- Most of the bridge gas detected in CO does not form stars. We suggest that turbulent adiabatic compression is responsible for the exceptionally high velocity dispersion of the molecular ISM and the suppression of star formation in the Taffy bridge.
+	
+### Jan 19
+
+#### Relevant / Important / Useful
+
+#### Interesting / Keep in Mind
+
+##### [The VANDELS ESO public spectroscopic survey: final Data Release of 2087 spectra and spectroscopic measurements](https://arxiv.org/abs/2101.07645)
+
+- UDS和CDF-S天区
+- Together with the redshift catalogue and the reduced spectra, we also provide optical mid-IR photometry and physical parameters derived through SED fitting.
+
+##### [SDSS-IV MaNGA: the physical origin of off-galaxy Hα blobs in the local Universe](https://arxiv.org/abs/2101.07293)
+
+- We have identified 13 Hα blobs in the public data of MaNGA survey
+- Hα blobs in our sample can be broadly divided into two groups. 
+	- One is associated with interacting/merging galaxy systems, of which the ionization is dominated by shocks or diffuse ionized gas. It is likely that these Hα blobs used to be part of their nearby galaxies, but were stripped away at some point due to tidal interactions. 
+	- The other group is found in gas-rich systems, appearing as low-metallicity star-forming regions that are visually detached from the main galaxy.
+
+#### Others
+
+##### [Curved detector-based optical design for the VLT/BlueMUSE instrument](https://arxiv.org/abs/2101.07605)
+
+- #ssst_dev
+- We present the optomechanical architecture and design of BlueMUSE at pre-phase A level, with a particular attention to some original aspects such as the use of curved detectors.
+
+##### [Estimating black hole masses in obscured AGN using X-rays](https://arxiv.org/abs/2101.07736)
+
+- We utilized a sample of type 2 AGN with good-quality hard X-ray data obtained by the nuSTAR satellite and with MBH dynamically constrained from megamaser measurements - 看能否用X-ray的scaling relation估计黑洞质量
+- when the X-ray broadband spectra are fitted with physically motivated self-consistent models that properly account for absorption, scattering, and emission line contributions from the putative torus and constrain the primary X-ray emission, then the X-ray scaling method yields MBH values that are consistent with those determined from megamaser measurements within their respective uncertainties 基本是通过X-ray光谱拟合得到的
+
+##### [Formation of counter-rotating and highly eccentric massive black hole binaries in galaxy mergers](https://arxiv.org/abs/2101.07266)
+
+- 数值模拟，并合星系中的黑洞并合：all binaries are initially prograde with respect to the galaxy sense of rotation. But, binaries that form with a high eccentricity, e≳0.7, quickly reverse their sense of rotation and become almost perfectly retrograde at the moment of binary formation
+- This model indicates that the orbital plane flip is due to the torque from the triaxial background mass distribution that naturally arises from the galactic merger process
+
+##### [Spectroscopic study of the \[OIII\]λ5007 profile in Seyfert 1 galaxies](https://arxiv.org/abs/2101.07288)
+
+- Compare the black hole mass distribution in both BLS1 galaxies with symmetric and blue-asymmetric \[OIII\] profiles.
+	- Similar black hole mass distributions were observed in both BLS1 galaxies with symmetric and blueshifted asymmetric \[OIII\] profiles.
+	
+##### [Star Formation Activity of Galaxies Undergoing Ram Pressure Stripping in the Virgo Cluster](https://arxiv.org/abs/2101.07472)
+
+- We find no clear evidence for enhancement in the integrated star formation activity of galaxies undergoing early to active stripping.
+- We are instead able to capture the overall quenching of star formation activity with increasing degree of ram pressure stripping
+- 利用HI gas fraction和星系相空间位置可以找到处于不同stripping阶段的星系
+
+##### [Multiwavelength dissection of a massive heavily dust-obscured galaxy and its blue companion at z ∼2](https://arxiv.org/abs/2101.07724)
+
+- 两个高红移星系的个例研究：Astarte is a dusty star-forming galaxy at the massive-end of the main sequence (MS) and Adonis is a less-massive, bright in ultraviolet (UV), companion galaxy with an optical spectroscopic redshift.
+- The molecular gas mass of Astarte is far below the gas fraction of typical star-forming galaxies at z=2. This low gas content and high SFR, result in a depletion time of 0.22±0.07 Gyrs, slightly shorter than what is expected for a MS galaxy at this redshift.
+- Astarte might be experiencing a recent decrease of star formation activity and is quenching through the MS following a SB epoch.
