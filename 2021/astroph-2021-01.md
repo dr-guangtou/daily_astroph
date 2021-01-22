@@ -1212,3 +1212,193 @@ $$
 - 两个高红移星系的个例研究：Astarte is a dusty star-forming galaxy at the massive-end of the main sequence (MS) and Adonis is a less-massive, bright in ultraviolet (UV), companion galaxy with an optical spectroscopic redshift.
 - The molecular gas mass of Astarte is far below the gas fraction of typical star-forming galaxies at z=2. This low gas content and high SFR, result in a depletion time of 0.22±0.07 Gyrs, slightly shorter than what is expected for a MS galaxy at this redshift.
 - Astarte might be experiencing a recent decrease of star formation activity and is quenching through the MS following a SB epoch.
+
+### Jan 20
+
+#### Relevant / Important / Useful
+
+##### [The Gas Content and Stripping of Local Group Dwarf Galaxies](https://arxiv.org/abs/2101.07809)
+
+- #galaxy/cgm 
+- The gas content of the complete compilation of Local Group dwarf galaxies (119 within 2 Mpc) is presented using HI survey data
+	- MW周围224 kpc以内，53/55 dwarf的HI气体上限<10^4 Msun
+	- M31周围 virial半径以内；27/30缺乏气体
+	- Beyond the virial radii of the Milky Way and M31, the majority of the dwarf galaxies have detected HI gas and have HI masses higher than the limits.
+- Using the Gaia proper motion measurements available for 38 dwarf galaxies, the minimum gas density required to completely strip them of gas is calculated.
+	- Halo densities between 10^{−5} and 5×10^{−4} cm−3 are typically required for instantaneous stripping at perigalacticon
+- The results suggest a diffuse gaseous galactic halo medium is important in quenching dwarf galaxies, and that a Local Group medium also potentially plays a role.
+
+##### [How baryons can significantly bias cluster count cosmology](https://arxiv.org/abs/2101.07800)
+
+- #cluster/cosmology 
+- We find that because of the need to accommodate the change in the density profile due to the ejection of baryons, weak lensing mass calibrations are only unbiased if the concentration is left free when fitting the reduced shear with NFW profiles.
+- Even unbiased total mass estimates give rise to biased cosmological parameters if the measured mass functions are compared with predictions from dark matter-only simulations.
+	- 对 $m_{500 \mathrm{c}}<10^{14.5} h^{-1} \mathrm{M}_{\odot}$ halo是主要的bias来源
+
+##### [Low Surface Brightness Galaxies in z > 1 Galaxy Clusters: HST approaches the Progenitors of Local Ultra Diffuse Galaxies](https://arxiv.org/abs/2101.07799)
+
+- #galaxy/lsb 
+- This work uses the deepest Hubble Space Telescope (HST) imaging stacks of z > 1 clusters, namely: SPT-CL J2106-5844 and MOO J1014+0038
+- 和XDF比，可以看到明显更多的LSB星系
+- We find that the LSBs we detect in SPT-CL J2106-5844 and MOO J1014-5844 already have old stellar populations that place them on the red sequence
+
+#### Interesting / Keep in Mind
+
+##### [A restless supermassive black hole in the galaxy J0437+2456](https://arxiv.org/abs/2101.07932)
+
+- #smbh
+- Arecibo观测：an observing campaign to confirm the peculiar motion of the supermassive black hole (SMBH) in J0437+2456 first reported in Pesce et al. (2018).
+- HI的，星系整体的恒星和电离气体速度都和H2O maser的显著不同
+- 但星系的恒星速度和气体速度也不一致，证明星系动力学disturbed
+
+##### [Multiple giant eruptions and X-ray emission in the recoiling AGN/LBV candidate SDSS1133](https://arxiv.org/abs/2101.07797)
+
+- The UV-optical light curves reveal that SDSS1133 experienced three outbursts in 2001, 2014, and 2019.
+- The optical spectra exhibit enduring broad hydrogen Balmer P-Cygni profiles with the absorption minimum at ∼−2,000 km/s, indicating the presence of fast moving ejecta.
+- 有微弱的Chandra探测，更像是极亮的LBV
+
+#### Others
+
+##### [Dark Matter Constraints from a Unified Analysis of Strong Gravitational Lenses and Milky Way Satellite Galaxies](https://arxiv.org/abs/2101.07810)
+
+- 基于Galacticus模型：We simultaneously infer the projected subhalo number density and the half-mode mass describing the suppression of the subhalo mass function in thermal relic warm dark matter (WDM
+
+##### [The fast radio burst population evolves with the star-formation rate](https://arxiv.org/abs/2101.07998)
+
+- #fast_radio_burst 
+- Our fitted parameters demonstrate that the FRB population evolves with redshift in a manner consistent with the star-formation rate, ruling out a non-evolving population
+- These results are consistent with the model of FRBs arising as the high-energy limit of magnetar bursts.
+
+##### [The z--DM distribution of fast radio bursts](https://arxiv.org/abs/2101.08005)
+
+- #fast_radio_burst 
+- We develop a sophisticated model of FRB observations, accounting for the intrinsic cosmological gas distribution and host galaxy contributions, and give a full account of observational biases due to burst width, dispersion measure, and the exact telescope beamshape.
+- We estimate that the unlocalised ASKAP FRBs arise from z<0.5, with between a third and a half within z<0.1.
+- We find that above a certain DM, observational biases cause the Macquart (DM--z) relation to become inverted, implying that the highest-DM events detected in the unlocalised Parkes and ASKAP samples are unlikely to be the most distant.
+- 直到能定位每个FRB之前不会有太大改变；用简单的DM--z关系得到的结果可能不正确
+
+##### [Connection among environment, cloud-cloud collision speed, and star formation activity in the strongly barred galaxy NGC1300](https://arxiv.org/abs/2101.07798)
+
+- 强调了云团碰撞的重要性: Recent simulations suggest that a CCC speed is different among galactic-scale environments, which is responsible for observed differences in star formation activity.
+	- A high-speed CCC is proposed as a cause of star formation suppression in the bar regions in barred spiral galaxies.
+- The difference in molecular gas mass (average density) of the giant molecular clouds (GMCs) between the bar (lower mass and lower density) and bar-end (higher mass and higher density) may be cause for the different star formation activity
+
+##### [Sub-damped Lyman alpha systems in the XQ-100 survey II -- Chemical evolution at 2.4<z<4.3](https://arxiv.org/abs/2101.07821)
+
+- Without accounting for ionization and dust depletion effects, we find that the HI-weighted gas-phase metallicity evolution of subDLAs are consistent with damped Lyman alpha systems (DLAs).
+- When ionization corrections are included, subDLAs are systematically more metal-poor than DLAs
+- The correlation of gas-phase \[Si/Fe\] with metallicity in subDLAs appears to be consistent with that of DLAs, suggesting that the two classes of absorbers have a similar relative dust depletion pattern.
+- Both subDLAs and Lyman limit systems could trace carbon-rich ejecta, potentially in circumgalactic environments.
+
+##### [A Census of the Extended Neutral Hydrogen Around 18 MHONGOOSE Galaxies](https://arxiv.org/abs/2101.07822)
+
+- HI environment of 18 MHONGOOSE星系；GBT观测
+	- We calculate the total amount of HI gas in and around the galaxies revealing that nearly all of these galaxies contained excess HI outside of their disks
+	- 低柱密度弥散气体的比例分布弥散很大
+	- However, by binning the percentage of diffuse HI into quarters, we find that the bin with the largest number of galaxies is the lowest quartile (0-25\\% diffuse HI)
+- We also find a strong correlation between the fraction of diffuse gas in a galaxy and its baryonic mass
+
+##### [Source Counts Spanning Eight Decades of Flux Density at 1.4 GHz](https://arxiv.org/abs/2101.07827)
+
+- MeerKAT DEEP2观测：spanning the eight decades of flux density between 0.25μJy and 25 Jy at 1.4 GHz
+- The brightness-weighted counts converge as $S^{2} n(S) \propto S^{1 / 2}$ below S\=10μJy, so \>99% of the ΔTb∼0.06K sky brightness produced by active galactic nuclei
+
+##### [The Tully-Fisher relation in dense groups at z∼0.7 in the MAGIC survey](https://arxiv.org/abs/2101.08069)
+
+- We study a sample of galaxies in 8 groups spanning a redshift range of 0.5<z<0.8 and located in 10 pointings of the MAGIC MUSE
+- Our results suggest a significant offset of the TFR zero-point between galaxies in low- and high-density environments, whatever kinematics estimator is used.
+- We show that this evolution of the TFR is consistent either with a decrease of star formation or with a contraction of the mass distribution due to the environment. These two effects probably act together with their relative contribution depending on the mass regime.
+
+##### [Towards modelling Ghostly DLAs](https://arxiv.org/abs/2101.08218)
+
+- We use simple models of the spatial structure of the quasar broad line region (BLR) to investigate the properties of so-called ghostly damped Lyman-{\\alpha} (DLA) systems detected in SDSS data： 有强金属吸收线，没有HI Lya吸收的系统
+
+### Jan 21
+
+#### Relevant / Important / Useful
+
+##### [The buildup of the intracluster light of Abell 85 as seen by Subaru's Hyper Suprime-Cam](https://arxiv.org/abs/2101.08290)
+
+- #cluster/icl #massive_galaxy 
+- We measured the radial surface brightness profiles of the brightest cluster galaxy out to the intracluster light (radius ∼215 kpc), for the g and i bands. 
+- We found that both the surface brightness and the color profiles become shallower beyond ∼75 kpc suggesting that a distinct component
+- The color of the profile at ∼100 kpc suggests that the buildup of the intracluster light of Abell 85 occurs by the stripping of massive (∼10^{10}M⊙) satellites.
+- The measured fraction of this light ranges from 8% to 30% in g, depending on the definition of intracluster light chosen.
+
+##### [Constraints on f(R) and nDGP Modified Gravity Model Parameters with Cluster Abundances and Galaxy Clustering](https://arxiv.org/abs/2101.08728)
+
+- #cluster/cosmology #ssst_cos #ssst_gal
+- A Fisher analysis is conducted using σ8 constraints derived from thermal Sunyaev-Zel'dovich (tSZ) selected galaxy clusters, as well as linear and mildly non-linear redshift-space 2-point galaxy correlation functions.
+- The two tracers of the cosmological gravitational field are found to be complementary, and their combination significantly improves constraints on the f(R) in particular in comparison to each individual tracer alone.
+
+#### Interesting / Keep in Mind
+
+##### [The Atacama Cosmology Telescope: Probing the Baryon Content of SDSS DR15 Galaxies with the Thermal and Kinematic Sunyaev-Zel'dovich Effects](https://arxiv.org/abs/2101.08373)
+
+- #cluster/sze [[SZ Effect]]
+- 12-sigma tSZ detection in 2.1 arcmin aperture;
+- The corresponding optical depths, τ¯, which depend on the baryon content of the halos, are estimated using results from cosmological hydrodynamic simulations assuming an AGN feedback radiative cooling model.
+- We find that the τ¯ estimates from the tSZ measurements in this work and the kSZ measurements in the companion paper agree within 1σ for two out of the three disjoint luminosity bins studied, while they differ by 2-3σ in the highest luminosity bin.
+- The optical depth estimates account for one third to all of the theoretically predicted baryon content in the halos across luminosity bins.
+- [`Mop-c-GT` - Model-to-observable projection code for galaxy thermodynamics](https://github.com/samodeo/Mop-c-GT)
+
+##### [The Atacama Cosmology Telescope: Detection of the Pairwise Kinematic Sunyaev-Zel'dovich Effect with SDSS DR15 Galaxies](https://arxiv.org/abs/2101.08374)
+
+- #cluster/sze
+- 5.4-sigma kSZ detection using three maps
+- We consider the impact of various aperture photometry assumptions and covariance estimation methods on the signal extraction.
+- [`iskay` - pairwise kSZ calculator](https://github.com/patogallardo/iskay)
+
+##### [The role of stochastic and smooth processes in regulating galaxy quenching](https://arxiv.org/abs/2101.08549)
+
+- #galaxy/quenching
+- 解析模型：We have specifically studied the effects of mass quenching, gas stripping, and mergers on galaxy quenching.
+- The quenching timescale is on average 1.2 Gyr and a closer look reveals support for the slow-then-rapid quenching scenario.
+- The major merging rate of galaxies is about once per 10~Gyr, while the rate of ram pressure stripping is significantly higher.
+
+#### Others
+
+##### [The in-situ formation of molecular and warm ionised gas triggered by hot outflows](https://arxiv.org/abs/2101.08269)
+
+- We investigate an in-situ H2 formation scenario in the outflow using high-resolution simulations, including non-equilibrium chemistry and self-gravity, of turbulent, warm, and atomic clouds
+- 10Myr时标上，最多有3%的气体可以被转换为分子气体。
+	- The effect is stronger for winds with perpendicular B\-fields and intermediate density clouds
+	- Here H2 formation can be boosted by up to one order of magnitude compared to isolated cooling clouds independent of self-gravity.
+- Warm ionised gas is also generated, almost independent of the cloud density. The amount solely depend on the magnetic field configuration in the wind.
+
+##### [Hubble Space Telescope Imaging of Isolated Local Volume Dwarfs GALFA-Dw3 and Dw4](https://arxiv.org/abs/2101.08270)
+
+- Both galaxies are extremely isolated, with no other confirmed objects within ~1.5 Mpc of either dwarf.
+	- GALFA Dw4 is also found to be unusually compact for a galaxy of its luminosity.
+- 心态不规则；都有HII区，年轻星族
+- The star formation histories of these two dwarfs show distinct differences: Dw3 shows signs of a recently ceased episode of active star formation across the entire dwarf, while Dw4 shows some evidence for current star formation in spatially limited HII regions.
+
+##### [What to expect when using globular clusters as tracers of the total mass distribution in Milky Way-mass galaxies](https://arxiv.org/abs/2101.08282)
+
+- #globular_cluster 
+- We aim to test how well Jeans-Anisotropic-MGE (JAM) models using GCs (positions and line-of-sight velocities) as tracers can constrain the mass and radial distribution of DM halos. 
+- 基于E-MOSAICS模拟：We find that the DM halo properties are reasonably well recovered by the JAM models. There is, however, a strong correlation between how well we recover the mass and the radial distribution of the DM and the number of GCs
+	- At least 150 GCs are needed in order to guarantee that the JAM model will perform well.
+
+##### [A Spatially-Resolved Survey of Distant Quasar Host Galaxies: II. Photoionization and Kinematics of the ISM](https://arxiv.org/abs/2101.08291)
+
+- OSIRIS/Keck观测：We detect extended ionized emission on scales ranging from 1-30 kpc photoionized by stars, shocks, and active galactic nuclei (AGN).
+- Spatially resolved emission-line ratios indicate that our systems reside off the star formation and AGN-mixing sequence on the Baldwin, Phillips & Terlevich (BPT) diagram at low redshift.
+- Using gas velocity dispersion as a proxy to stellar velocity dispersion and dynamical mass measurement through inclined disk modeling we find that the quasar host galaxies are under-massive relative to their central supermassive black hole (SMBH) mass
+
+##### [The Hα Dots Survey. IV. A Fourth List of Faint Emission-Line Objects](https://arxiv.org/abs/2101.08328)
+
+- #merian 
+- A total of 454 newly discovered objects are included in the current survey list.
+- These objects have been detected in searches of moderately deep narrow-band images acquired for the ALFALFA Hα project (Van Sistine et al. 2016).
+
+##### [Internal structure of molecular gas in a main sequence galaxy with a UV clump at z = 1.45](https://arxiv.org/abs/2101.08396)
+
+- Sub-arcsec ALMA observations of CO(2-1) and CO(5-4)
+- The CO emission lines are clearly detected and the CO(5-4)/CO(2-1) flux ratio (R\_52) is ~1, similar to that of the Milky Way.
+- We find that R\_52 peak coincides with the position of the UV clump and its value is approximately two times higher than the galactic average. 说明UV clump中气体温度或者密度较高
+- Compared to the stellar distribution, the molecular gas is more concentrated in the central region of the galaxy.
+
+##### [Spatial segregation impact on star formation in nearby dwarf spheroidal galaxies](https://arxiv.org/abs/2101.08613)
+
+- All objects demonstrate complex star formation history, with a significant portion of stars formed 10-13 Gyr ago; stars of middle ages (1-8 Gyr) are presented
