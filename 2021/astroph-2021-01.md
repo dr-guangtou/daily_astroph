@@ -1402,3 +1402,274 @@ $$
 ##### [Spatial segregation impact on star formation in nearby dwarf spheroidal galaxies](https://arxiv.org/abs/2101.08613)
 
 - All objects demonstrate complex star formation history, with a significant portion of stars formed 10-13 Gyr ago; stars of middle ages (1-8 Gyr) are presented
+
+### Jan 24
+
+#### Relevant / Important / Useful
+
+##### [Improving estimates of the growth rate using galaxy-velocity correlations: a simulation study](https://arxiv.org/abs/2101.09026)
+
+- #ssst_sci
+- We consider standard estimators of the velocity auto-correlation function, ψ1 and ψ2, the two-point galaxy correlation function, ξgg, and introduce a new estimator of the galaxy-velocity cross-correlation function, ψ3.
+- When we consider all four statistics together we find that the statistical uncertainty in our measurement of the growth rate is reduced by 59%
+
+#### Interesting / Keep in Mind
+
+##### [Benchmarking Dust Emission Models in M101](https://arxiv.org/abs/2101.9236)
+
+- [[Dust Model]]
+- A comparative study of four physical dust models and two single-temperature modified blackbody models by fitting them to the resolved WISE, Spitzer, and Herschel photometry of M101
+- 尘埃质量估计可以查到3倍；Despite differences in their definition of the carriers of the mid-IR aromatic features, all physical models show the same spatial variations for the abundance of that grain population. 
+- We show that renormalizing the models to match the same Milky Way high latitude cirrus spectrum and abundance constraints can reduce the dust mass differences between models and bring the total dust mass below the maximum estimate at all radii.
+
+##### [Testing the role of environmental effects on the Initial Mass Function of low mass stars](https://arxiv.org/abs/2101.08804)
+
+- #initial_mass_function #stellar_population 
+- We analyse the IMF of eight young clusters (<5 Myr):  After structural analysis and field decontamination we obtain an unbiased, uniformly sensitive sample of Pre-Main Sequence members of the clusters down to brown-dwarf regime. 
+- The log-normal fit to the IMF of nine clusters gives the mean characteristic mass (mc) and σ of 0.32±0.02 M⊙ and 0.47±0.02,
+- 没有看到显著的环境影响
+
+#### Others
+
+##### [The halo mass function and inner structure of ETHOS haloes at high redshift](https://arxiv.org/abs/2101.08790)
+
+- The Extended Press-Schechter (EPS) formalism with a smooth-k filter is able to predict the cut-off in the halo mass function created by the suppression of small scale power in ETHOS models
+- We find that the halo density profiles of all ETHOS models are well described by the NFW profile
+- About ETHOS: A novel framework (ETHOS) has been proposed to incorporate new DM physics into structure formation theory, connecting a broad range of DM particle physics to effective parameters that characterize structure formation in the linear regime
+
+##### [Using Pantheon and DES supernova, baryon acoustic oscillation, and Hubble parameter data to constrain the Hubble constant, dark energy dynamics, and spatial curvature](https://arxiv.org/abs/2101.08817)
+
+- A joint analysis of these data sets provides model-independent estimates of the Hubble constant, H0\=68.8±1.8 km s−1 Mpc−1, and the non-relativistic matter density parameter, Ωm0\=0.294±0.020.
+- We also add quasar angular size and HII starburst galaxy measurements to the combined data set and find more restrictive constraints.
+
+##### [Reionization and galaxy inference from the high-redshift Lyα forest](https://arxiv.org/abs/2101.09033)
+
+- #cosmology/reionization 
+- High-quality quasar spectra have now firmly established the existence of large-scale opacity fluctuations at z > 5, whose physical origins are still debated
+- We introduce a Bayesian framework capable of constraining the EoR and galaxy properties by forward-modelling the high-z Ly{\\alpha} forest.
+	- Using priors from galaxy and CMB observations, we demonstrate that the final overlap stages of the EoR (when >95% of the volume was ionized) should occur at z < 5.6, in order to reproduce the large-scale opacity fluctuations seen in forest spectra.
+- 关于大尺度Gunn-Peterson沟的成因：patchy reionization和不均匀的UV背景共同造成的
+ 
+##### [A new determination of the primordial helium abundance using the analyses of HII region spectra from SDSS](https://arxiv.org/abs/2101.09127)
+
+- From a regression to zero metallicity, we have obtained Yp\=0.2462±0.0022 which is one of the most stringent constraints obtained with such methods up to date 和Planck结果一致
+- Further increase of statistics potentially allows us to achieve Planck accuracy, which in turn will become a powerful tool for studying the self-consistency of the Standard Cosmological Model and/or physics beyond.
+
+##### [The X-ray emission of the Seyfert 2 galaxy MCG-01-24-12](https://arxiv.org/abs/2101.08793)
+
+- Based on phenomenological and physically motivated models, we find the X-ray spectrum of MCG-01-24-12 to be best modelled by a power-law continuum emission with Γ\=1.76±0.09 with a high energy cut-off at Ec\=70+21−14 keV that is absorbed by a fairly constant column density
+
+##### [APOGEE DR16: a multi-zone chemical evolution model for the Galactic disc based on MCMC methods](https://arxiv.org/abs/2101.08803)
+
+- An inside-out formation of the Galaxy disc naturally emerges from the best fit of our two-infall chemical-evolution model to APOGEE-DR16: inner Galactic regions are assembled on shorter time-scales compared to the external ones.
+- In the outer disc (with radii R\>6 kpc), the chemical dilution due to a late accretion event of gas with primordial chemical composition is the main driver of the \[Mg/Fe\] vs. \[Fe/H\] abundance pattern in the low-α sequence.
+- Our results propose a clear interpretation of the \[Mg/Fe\] vs. \[Fe/H\] relations along the Galactic discs. The signatures of a delayed gas-rich merger which gives rise to a hiatus in the star formation history of the Galaxy are impressed in the \[Mg/Fe\] vs. \[Fe/H\] relation, determining how the low-α stars are distributed in the abundance space at different Galactocentric distances.
+
+##### [GASTON: Galactic Star Formation with NIKA2. Evidence for the mass growth of star-forming clumps](https://arxiv.org/abs/2101.08811)
+
+- We conduct an extraction of structures from the 1.15 mm maps using a dendrogram analysis and, by comparison to the compact source catalogues from Herschel survey data, we identify a population of 321 previously-undetected clumps. Approximately 80 per cent of these new clumps are 70 μm-quiet, and may be considered as starless candidates.
+
+##### [Multiphase AGN winds from X-ray irradiated disk atmospheres](https://arxiv.org/abs/2101.9273)
+
+- The mechanism of thermal driving for launching accretion disk winds is interconnected with classical thermal instability (TI)
+- We identify a critical radius, Ru, beyond which TI should accompany thermal driving, resulting in clumpy disk wind solutions. Our numerical simulations reveal that clumpiness is a consequence of buoyancy disrupting the stratified structure of smooth solutions.
+
+### Jan 25
+
+#### Relevant / Important / Useful
+
+##### [UltraNest -- a robust, general purpose Bayesian inference engine](https://arxiv.org/abs/2101.09604)
+
+- #bayesian #statistics #inference
+- UltraNest is a general-purpose Bayesian inference package for parameter estimation and model comparison. It allows fitting arbitrary models specified as likelihood functions written in Python, C, C++, Fortran, Julia or R.
+- [`UltraNest` - Fit and compare complex models reliably and rapidly](https://github.com/JohannesBuchner/UltraNest/)
+
+##### [Redshift-space distortions with split densities](https://arxiv.org/abs/2101.09854)
+
+- [[Redshift Space Distortion]]
+- #ssst_sci #cosmology/rsd 
+- We take a different perspective to split the galaxy density field according to the local density, and cross-correlate those densities with the entire galaxy field. 比直接用2PCF要好
+	- 1. The distribution of peculiar velocities in each split density is nearly Gaussian.
+	- 2. The PDF of the density field at small scales is non-Gaussian, but the CCFs of split densities capture the non-Gaussianity, leading to improved cosmological constraints over the 2PCF.
+	- 3. Baryon acoustic oscillations (BAO) are contained in all CCFs of split densities. Including BAO scales helps to break the degeneracy between the line-of-sight and transverse AP parameters, allowing independent constraints on them.
+
+#### Interesting / Keep in Mind
+
+##### [Introducing `piXedfit` -- a Spectral Energy Distribution Fitting Code Designed for Resolved Sources](https://arxiv.org/abs/2101.09717)
+
+- #stellar_population #galaxy/spop 
+- 主要面对IFU数据：The SED fitting module uses the Bayesian inference technique with two kinds of posteriors sampling methods: Markov Chain Monte Carlo (MCMC) and random densely-sampling of parameter space (RDSPS).
+- The RDSPS method gives equally good fitting results as the MCMC and it is much faster than the MCMC.
+- [`piXedfit` - is a Python package designed for analyzing spatially resolved SEDs of galaxies](https://github.com/aabdurrouf/piXedfit)
+
+##### [A Lyman-α protocluster at redshift 6.9](https://arxiv.org/abs/2101.10204)
+
+- #cluster/proto-cluster
+- We report the discovery of the protocluster LAGER-z7OD1 at a redshift of 6.93, when the Universe was only 770 million years old and could be experiencing rapid evolution of the neutral hydrogen fraction in the intergalactic medium.
+	- An overdensity of 6 times the average galaxy density, and with 21 narrowband selected Lyman-α galaxies
+- LAGER-z7OD1 shows an elongated shape and consists of two subprotoclusters, which would have merged into one massive cluster
+- The total volume of the ionized bubbles generated by its member galaxies is found to be comparable to the volume of the protocluster itself, indicating that we are witnessing the merging of the individual bubbles and that the intergalactic medium within the protocluster is almost fully ionized. 
+
+##### [Discovery of Magnetic Fields Along Stacked Cosmic Filaments as Revealed by Radio and X-Ray Emission](https://arxiv.org/abs/2101.09331)
+
+- #cluster/icm #cluster/magnetic
+- 用LRG对作为clusters pair的tracer: we detect an average surface brightness between the clusters from synchrotron (radio) and thermal (X-ray) emission with ≳5σ significance, on physical scales larger than observed to date (≥3Mpc).
+- We obtain a synchrotron spectral index of α≃−1.0 and estimates of the average magnetic field strength of 30≤B≤60nG,
+- While the X-ray detection is inline with predictions, the average radio signal comes out higher than predicted by cosmological simulations and dark matter annihilation and decay models.
+- 说明大尺度结构上的高物质聚集度区域之间有高度磁化的物质，并且用足够强的宇宙线存在，可以产生被探测到的同步加速辐射.
+
+##### [Measuring H0 using X-ray and SZ effect observations of dynamically relaxed galaxy clusters](https://arxiv.org/abs/2101.09389)
+
+- #cluster/cosmology #cosmoloy/h0 [[H0 Tension]]
+- 用14个大质量星系团的X-ray和SZ观测限制H0:  H0\=67.3+21.3−13.3 km/s/Mpc
+- The intrinsic scatter in the X-ray/SZ pressure ratio is found to be 13±4 per cent (10±3 per cent when two clusters with significant galactic dust emission are removed from the sample), consistent with being primarily due to triaxiality and projection
+
+
+#### Others
+
+##### [The HI-halo mass relation at redshift z∼1 from the Minkowski functionals of 21 cm intensity maps](https://arxiv.org/abs/2101.09288)
+
+- We investigate the possibility of constraining this HI-halo mass relation (HIHMR) from intensity maps of the redshifted 21 cm line.
+	- Use the geometry and topology of the brightness-temperature isocontours in a single frequency channel as quantified by the Minkowski functionals
+- For a channel bandwidth of 2 MHz, we show that an integration time of a few×10^4 s per pointing is sufficient to image the smoothed HI distribution at redshift z≃1
+- [`minkfncts2d` - An implementation of the 2D Minkowski Functionals in Python](https://github.com/moutazhaq/minkfncts2d)
+
+##### [Evidence for Line-of-Sight Frequency Decorrelation of Polarized Dust Emission in Planck Data](https://arxiv.org/abs/2101.09291)
+
+- **LOS frequency decorrelation**: If a single line of sight (LOS) intercepts multiple dust clouds of different spectral energy distributions and magnetic field orientations, the frequency scaling of each of the Stokes Q and U parameters of thermal dust emission may be different
+- Our finding underlines the importance of ongoing studies to map the 3D structure of the magnetized dusty ISM that could help component separation methods to account for frequency decorrelation effects in CMB polarization studies.
+
+##### [Using the redshift evolution of the Lyman-α effective opacity as a probe of dark matter models](https://arxiv.org/abs/2101.09917)
+
+- We explore the redshift evolution of the observable effective optical depth τeff(z) from the Lyman-α data as a discriminator between dark matter models that differ from the ΛCDM model on small scales.
+- The simulated effective optical depth for the alternative dark matter models diverges from the ΛCDM model for z≳3, which provides a meaningful probe of the matter power at small scales.
+
+##### [The intra-cluster magnetic field in the double relic galaxy cluster Abell 2345](https://arxiv.org/abs/2101.09302)
+
+- #cluster/icm #cluster/magnetic
+- We derived the Rotation Measure (RM) of five polarized sources within ∼ 1 Mpc from the cluster center applying the RM synthesis.
+- Using the thermal electron density profile derived from X-ray analysis and simulating a 3D magnetic field with fluctuations following a power spectrum derived from magneto-hydrodynamical cosmological simulations, we build mock RM images of the cluster 并和观测比较
+- Within the framework of our model, the data require a magnetic field scaling with thermal electron density
+
+##### [METAL: The Metal Evolution, Transport, and Abundance in the Large Magellanic Cloud Hubble program. II. Variations of interstellar depletions and dust-to-gas ratio within the LMC](https://arxiv.org/abs/2101.09399)
+
+- #inter_stellar_medium 
+- HST/ UV spectra toward 32 sightlines in the half-solar metallicity LMC, from which we derive interstellar depletions (gas-phase fractions) of Mg, Si, Fe, Ni, S, Zn, Cr, and Cu.
+	- The depletions of different elements are tightly correlated, indicating a common origin.
+	- 主要的驱动参数是H的柱密度；Within the parameter space probed by METAL, no correlation with molecular fraction or radiation field intensity are found.
+- Dust-to-metal; Dust-to-gas比例随气体柱密度改变，从diffuse区域到molecular gas区域升高3-4倍
+	- 这个相关 have important implications for the sub-grid physics of chemical evolution, gas and dust mass estimates throughout cosmic times
+- Interstellar depletions are the logarithm of the fraction of metals in the gas-phase. Thus, the depletion for element X is $\delta(X)=\log _{10}(X / H)_{\text {gas }}-\log _{10}(X / H)_{\text {total }}$
+	- $\log _{10}(X / H)_{\text {total }}$ is the total abundance of X (gas + dust)., assumed to be equal to the abundance of X in the photospheres of young stars that have formed out of the ISM recently
+
+##### [Remnant Radio Galaxies Discovered in a Multi-frequency Survey](https://arxiv.org/abs/2101.09761)
+
+- GAMA场中的MWA观测：看有多少比例的射电星系是在remnant phase: AGN jets停止后的演化阶段
+	- We adopt an absent radio core criterion to identify 10 radio galaxies showing no evidence for an active nucleus	
+	- On the other hand, only three show evidence of aged lobe plasma by the presence of an ultra-steep spectrum (α<−1.2) and a diffuse, low surface-brightness radio morphology.
+- Remnant阶段比例的下限在4-10%
+
+##### [The Araucaria Project: Deep near-infrared photometric maps of Local and Sculptor Group galaxies. I. Carina, Fornax, Sculptor](https://arxiv.org/abs/2101.09888)
+
+- 很深的J-band和H-band图像：Depth of our photometry reaches about 22 mag at 5σ level, and is comparable to NIR surveys
+
+##### [The Isaac Newton Telescope monitoring survey of Local Group dwarf galaxies -- IV. The star formation history of Andromeda VII derived from long period variable stars](https://arxiv.org/abs/2101.09900)
+
+- M31的stellar halo的金属丰度不低；但dSph都贫金属，证明演化上的联系不紧密。
+- 用LPV重构SFH: 
+	- As the most-evolved asymptotic giant branch (AGB) and red supergiant (RSG) stars, the birth mass of LPVs can be determined by connecting their near-infrared photometry to theoretical evolutionary tracks.
+- Based on their birth mass function, the star-formation rate (SFR) of And VII was obtained as a function of cosmic time. The main epoch of star formation occurred ≃6.2 Gyr ago with a SFR of 0.006±0.002 M⊙ yr−1. Over the past 6 Gyr, we find slow star formation, which continued until 500 Myr ago with a SFR ∼0.0005±0.0002 M⊙ yr−1.
+
+##### [Star formation quenching stages of active and non-active galaxies](https://arxiv.org/abs/2101.10019)
+
+- 基于不同位置上的Halpha发射线对CALIFA星系进行分类，分成六个不同的quenching阶段
+	- 1. Objects dominated by recent star formation
+	- 2. Systems that present a quiescent-nuclear-ring structure in their centre; 
+	- 3. Galaxies that are centrally-quiescent; 
+	- 4. Galaxies with no clear pattern in their ionisation gas distribution - mixed; 
+	- 5. Systems that posses only a few star-forming regions - nearly-retired, 
+	- 6. Galaxies that are completely quiescent - fully-retired.
+- 不同group在Mstar-SFR分布上的位置不同
+- The proposed emission-line classes reinforce the "inside-out" quenching scenario
+
+##### [Validation of the accuracy and precision of Gaia EDR3 parallaxes with globular clusters](https://arxiv.org/abs/2101.10206)
+
+- #gaia 
+- The angular covariance at zero separation is 106.2 muas^2, yielding a minimum uncertainty for EDR3 parallaxes of 10.3 muas for individual stars. 
+- The Lindegren et al. parallax bias correction works quite well, except for the brighter magnitudes, suggesting improvements may be possible there.
+
+### Jan 26
+
+#### Relevant / Important / Useful
+
+##### [Dwarf galaxies in the MATLAS survey: Hubble Space Telescope observations of the globular cluster system in the ultra-diffuse galaxy MATLAS-2019](https://arxiv.org/abs/2101.10659)
+
+- #galaxy/udg #galaxy/lsb #globular_cluster 
+- Using images in the F606W and F814W filters, we trace the GC population two magnitudes below the peak of the GC luminosity function. Employing Bayesian considerations, we find a total of 37±5 GCs associated with the dwarf, which yields a large GC specific frequency of SN\=84±12
+- 估计的Halo mass显示：either this UDG has an overly massive dark matter halo for its stellar mass, compared to other dwarfs -- though not as massive as the Milky Way -- or that the linear relation between the number of GCs and the dark matter halo mass breaks down for UDGs
+
+##### [SHAM through the lens of a hydrodynamical simulation](https://arxiv.org/abs/2101.10733)
+
+- #sham #galaxy_halo 
+- We construct galaxy mock catalogues using a standard sub-halo abundance matching scheme coupled with a secondary assignment between galaxy colour or specific star formation rate and the following halo properties: starvation redshift zstarve, concentration at infall, dark matter density contrast δenvR, tidal anisotropy αR, and tidal overdensity δR.
+- Among all the secondary halo properties tested, we find that zstarve and δR are the ones that best trace the large-scale structure, producing reliable clustering predictions for different samples of red/blue and quenched/star-forming galaxies.
+
+##### [Signatures of quenching in dwarf galaxies in local galaxy clusters](https://arxiv.org/abs/2101.10728)
+
+- #cluster/galaxy #galaxy/quenching 
+- Venhola et al. analysed correlations between colour and surface brightness for galaxies in the Fornax cluster binned by luminosity or stellar mass.
+	- 对 <10^8 Msun的dwarf星系：Redness和星系特征面亮度有关系；在Virgo中也有类似关系
+- 这个关系可能只对late-type galaxy适用：when analysing early- and late-type galaxies separately, the consistency of the slope of the surface brightness-colour relations with the model expectations for fading and reddening stellar population applies only to the late types
+- The sizes of the early- and late-type galaxies at these low masses are comparable 
+
+#### Interesting / Keep in Mind
+
+##### [The VLT-MUSE and ALMA view of the MACS 1931.8-2635 brightest cluster galaxy](https://arxiv.org/abs/2101.10718)
+
+- #galaxy/bcg #cluster/galaxy
+- 大质量cool-core星系团中心星系：The ionized gas flux brightness peak corresponds to the location of the supermassive black hole and the system shows a diffuse warm ionized gas tail extending 30 kpc in N-E direction.
+	- The ionized and molecular gas are co-spatial and co-moving, with the gaseous component in the tail falling inward, providing fuel for star formation and accretion-powered nuclear activity.
+- We measure a star formation rate of 97 Msun/yr, with its peak at the BCG core. However, star formation accounts for only 50-60% of the energetics needed to ionize the warm gas.
+- The gas and stellar kinematics are decoupled, with the gaseous velocity fields being more closely related to the bulk motions of the intracluster medium.
+
+#### Others
+
+##### [A MeerKAT view of pre-processing in the Fornax A group](https://arxiv.org/abs/2101.10347)
+
+- We detect HI in 10 galaxies and a total of 1.12 x 109 Msol of HI in the intra-group medium (IGM)
+	- There are 9 galaxies that show evidence of pre-processing and we classify the pre-processing status of each galaxy
+	- Galaxies currently being pre-processed display HI tails, truncated HI disks with typical gas ratios.
+	- Galaxies in the advanced stages of pre-processing are HI deficient. If there is any HI, they have lost their outer HI disk and efficiently converted their HI to H2, resulting in H2\-to-HI ratios an order of magnitude higher than the median for their stellar mass
+- 探测到了中心星系过去并合过程甩出的HI气体结构
+- We also detect giant (100 kpc) ionised hydrogen (Hα) filaments in the IGM, likely from cool gas being removed (and ionised) from an infalling satellite.
+	- We speculate that the Hα and multiphase gas is supported by magnetic pressure (possibly assisted by the AGN), such that the hot gas can condense and form HI that survives in the hot halo for cosmological timescales.
+
+##### [Heavy elements unveil the non primordial origin of the giant HI ring in Leo](https://arxiv.org/abs/2101.10348)
+
+- Taking advantage of MUSE (Multi Unit Spectroscopic Explorer) operating at the VLT, we performed optical integral field spectroscopy of 3 HI clumps in the Leo ring
+- We detected, for the first time, ionized hydrogen in the ring and identify 4 nebular regions powered by massive stars
+	- 可以测量金属丰度，接近太阳丰度
+	- This inference, and the chemical homogeneity among the regions, convincingly demonstrates that the gas in the ring is not primordial, but has been pre-enriched in a galaxy disk
+
+##### [A local baseline of the black hole mass scaling relations for active galaxies. IV. Correlations between MBH and host galaxy σ, stellar mass, and luminosity](https://arxiv.org/abs/2101.10355)
+
+- #smbh 
+- HST观测66 local active galactic nuclei (AGNs)；14个有Gemini观测
+	- We combine this information with spatially-resolved kinematics obtained at the Keck Telescopes to study the correlations between MBH (determined from single-epoch virial estimators) and host galaxy properties.
+- 星系和SMBH的关系依然非常紧致，和宁静早型星系一致：The correlations are uniformly tight for our AGN sample, with intrinsic scatter 0.2-0.4 dex, smaller or equal to that of quiescent galaxies.
+
+##### [Redshift Evolution of the H2/HI Mass Ratio In Galaxies](https://arxiv.org/abs/2101.10372)
+
+- 对5个近邻的Spiral galaxy中有空间分辨的MHI和MH2估计
+- 用不同气体质量之间的经验关系，以及横行质量与气体质量间关系的红移演化来看光学半径内的中性气体与分子气体比例：
+	- We find that MH2/MHI within the optical radius slightly decreases with redshift, contrary to common expectations of galaxies becoming progressively more dominated by molecular hydrogen at high redshifts.
+
+##### [Exploring the AGN-Merger Connection in Arp 245 I: Nuclear Star Formation and Gas Outflow in NGC 2992](https://arxiv.org/abs/2101.10875)
+
+- Gemini观测：we found that the stellar population is primarily composed by old metal-rich stars (t ≥ 1.4 Gyr, Z≥2.0\\zsun), with a contribution of at most 30 per cent of the light from a young and metal-poor population
+
+##### [\[CII\] and CO Emission Along the Bar and Counter-Arms of NGC 7479](https://arxiv.org/abs/2101.10966)
+
+- SOFIA + ALMA观测：As in most normal galaxies, the \[CII\] emission is generally consistent with emission from cooling gas excited by photoelectric heating in photo-dissociation regions.
+- Anomalously high \[CII\]/CO ratios are seen at the two ends of the counter-arms. Both ends show shell-like structures, possibly bubbles, in H-alpha emission.
+- The \[CII\] emission probably originates in warm shocked molecular gas heated by the interaction of the radio jet forming the counter-arms with the interstellar medium in the galaxy.
