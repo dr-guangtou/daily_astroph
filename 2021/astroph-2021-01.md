@@ -1673,3 +1673,304 @@ $$
 - SOFIA + ALMA观测：As in most normal galaxies, the \[CII\] emission is generally consistent with emission from cooling gas excited by photoelectric heating in photo-dissociation regions.
 - Anomalously high \[CII\]/CO ratios are seen at the two ends of the counter-arms. Both ends show shell-like structures, possibly bubbles, in H-alpha emission.
 - The \[CII\] emission probably originates in warm shocked molecular gas heated by the interaction of the radio jet forming the counter-arms with the interstellar medium in the galaxy.
+
+### Jan 27
+
+#### Relevant / Important / Useful
+
+##### [The effect of emission lines on the performance of photometric redshift estimation algorithms](https://arxiv.org/abs/2101.11368)
+
+- #photo-z #merian 
+- We develop a PCA-based stochastic mock catalogue generation technique that allows for generating infinite signal-to-noise ratio model spectra with realistic emission lines on top of theoretical stellar continua.
+- It can be used to match the luminosity, colour, emission line and photometric error distribution of any photometric sample with sufficient flux-calibrated spectroscopic follow-up.
+- Emission lines play a significant role in resolving colour space degeneracies and good spectroscopic coverage of the entire colour space is necessary to achieve good results with empirical photo-z methods.
+
+#### Interesting / Keep in Mind
+
+##### [The cosmology dependence of galaxy clustering and lensing from a hybrid N\-body-perturbation theory model](https://arxiv.org/abs/2101.11014)
+- #cosmology #emulator 
+- We implement a model for the two-point statistics of biased tracers that combines dark matter dynamics from N\-body simulations with an analytic Lagrangian bias expansion 基于Aemulus建的emulator
+- We demonstrate its ability to describe the statistics of complex tracer samples, including those with assembly bias and baryonic effects, reliably fitting the clustering and lensing statistics of such samples at redshift z≃0.4
+- 可以用于不依赖N-body模拟的 2PCF+g-g lensing宇宙学分析
+
+#### Others
+
+##### [Linear Polarization of the 21 cm Line from the Epoch of Reionization](https://arxiv.org/abs/2101.11543)
+
+- #cosmology/reionization 
+- The 21 cm linear polarization due to Thomson scattering off free electrons can probe the distribution of neutral hydrogen in the intergalactic medium during the epoch of reionization
+- 之前有研究认为SKA一个月的观测就能探测到；本文重新考虑这个问题，加入了不均匀再电离的影响
+	- Both power spectra are enhanced on sub-bubble scales but suppressed on super-bubble scales, compared with previous results
+	- Measurement of this signal will be very challenging not only because the overall strength is weaker than the sensitivity of SKA, but also because Faraday rotation due to Galactic and extragalactic magnetic fields significantly modifies the observed polarization.
+
+##### [The GADOT Galaxy Survey: Dense Gas and Feedback in Herschel-Selected Starburst Galaxies at Redshifts 2 to 6](https://arxiv.org/abs/2101.11006)
+
+- The detection of 23 OH+(1-0) absorption, emission, or P-Cygni-shaped lines and CO(9-8) emission lines in 18 Herschel-selected z=2-6 starburst galaxies with ALMA and NOEMA
+- 和近邻SF星系比，CO(9-8)的发射更强；shock excitation of warm, dense molecular gas is more prevalent in distant massive dusty starbursts
+- OH+ absorption is found to be ubiquitous in massive high-redshift starbursts, and is detected toward 89% of the sample.
+- 大部分样本都有外流或者内流：A small subsample appears to show outflow velocities in excess of their escape velocities.
+
+##### [Hierarchical fragmentation in high redshift galaxies revealed by hydrodynamical simulations](https://arxiv.org/abs/2101.11013)
+
+- AMR高分辨模拟：We show that in very gas-rich galaxies star formation occurs in small gas clusters with masses below 10^{7−8} M⊙ that are themselves located inside giant complexes
+- 有些观测中可能会miss大尺度的clumps: We show that the simulated giant clumps can be gravitationally bound even when undetected in mocks representative for ALMA observations and HST observations of lensed galaxies
+
+##### [Explaining the scatter in the galaxy mass-metallicity relation with gas flows](https://arxiv.org/abs/2101.11021)
+
+- The correlations between the residuals of the MZR and the residuals of the other relations with mass are interrelated, but we find that gas fraction, specific inflow rate and specific outflow rate all have at least some independent influence on the scatter of the MZR.
+- The timescales involved in the residual correlations and the time that galaxies stay above the MZR are revealed to be a few Gyr. However, most galaxies that are below the MZR at z\=0 have been below the MZR throughout their lifetimes.
+
+##### [SDSS-IV MaNGA: the "G-dwarf problem" revisited](https://arxiv.org/abs/2101.11022)
+
+- Most famously, the "G-dwarf problem" highlighted the small number of low-metallicity G-dwarf stars in the Milky Way, which is inconsistent with the simplest picture of a galaxy formed from a "closed box" of gas
+- Our analysis shows that high-mass spirals generically show a similar deficit of low-metallicity stars, implying that the Milky Way's history of gas accretion is common
+
+##### [Fiery Cores: Bursty and Smooth Star Formation Distributions across Galaxy Centers in Cosmological Zoom-in Simulations](https://arxiv.org/abs/2101.11034)
+
+- FIRE-2模拟银河系质量星系：Despite not being tuned to reproduce the detailed structure of the CMZ, we find that four of these galaxies are consistent with CMZ observations at some point during this 22 Myr period.
+- 中心结构和SF可以分成两类：
+	- 1. 不对称的气体和SFR分布；强星暴；structures on highly eccentric orbits through the CMZ
+	- 2. 平滑的气体和恒星分布；with only slowly varying SFRs
+
+##### [Black Hole and Galaxy Coevolution in Moderately Luminous Active Galactic Nuclei at z~1.4 in SXDF](https://arxiv.org/abs/2101.11273)
+
+- We investigate the relation of black hole mass versus host stellar mass and that of mass accretion rate versus star formation rate (SFR) in moderately luminous X-ray selected broad-line active galactic nuclei (AGNs) at z\=1.18−1.68
+- Most of their hosts are confirmed to be main sequence star forming galaxies. We find that the mean ratio of the black hole mass (MBH) to the total stellar mass (Mstellar) is logMBH/Mstellar\=−2.2, which is similar to the local black hole-to-bulge mass ratio.
+- This suggests that if the host galaxies of these moderately luminous AGNs at z∼1.4 are dominated by bulges, they already established the local black hole mass-bulge mass relation
+
+##### [Radio Detection of VIK J2318-3113, the Most Distant Radio-Loud Quasar (z=6.44)](https://arxiv.org/abs/2101.11371)
+
+- ASKAP detection at 888 MHz; with a radio loudness R∼70 (R\=L5GHz/L4400A)
+- The large bolometric luminosity associated to the accretion disk 与超大黑洞质量的估计相符合
+- We found that the flux density of the source may have varied by a factor of ∼2, which could suggest the presence of a relativistic jet oriented towards the line of sight
+
+### Jan 28
+
+#### Relevant / Important / Useful
+
+##### [A classifier for spurious astrometric solutions in Gaia EDR3](https://arxiv.org/abs/2101.11641)
+
+- #gaia 
+- We devise and apply a path to separating 'good' from 'bad' astrometric solutions that is an order-of-magnitude cleaner than any single flag: we achieve a purity of 99.7% and a completeness of 97.6% as validated on our test data
+- We then train a neural net that uses 14 pertinent Gaia catalog entries to discriminate these two samples, captured in a single 'astrometric fidelity' parameter.
+
+#### Interesting / Keep in Mind
+
+##### [The BACCO simulation project: biased tracers in real space](https://arxiv.org/abs/2101.12187)
+
+- #emulator #cosmoloy 
+- An emulator for the two-point clustering of biased tracers in real space.
+- The properties of biased tracers are described via a Lagrangian perturbative bias expansion which is advected to Eulerian space using the displacement field of numerical simulations
+
+##### [A cautionary tale in fitting galaxy rotation curves with Bayesian techniques: does Newton's constant vary from galaxy to galaxy?](https://arxiv.org/abs/2101.11644)
+
+- #inference 
+- We present an analysis in which the Newtonian gravitational constant GN is allowed to vary from galaxy to galaxy when fitting rotation curves from the SPARC database, in analogy to g† in the recently debated Bayesian analyses. 
+	- When imposing flat priors on GN, we obtain a wide distribution of GN
+	- However, imposing an empirically motivated log-normal prior returns a virtually constant GN with no sacrifice in fit quality.
+
+#### Others
+
+##### [Introducing SPHINX-MHD: The Impact of Primordial Magnetic Fields on the First Galaxies, Reionization, and the Global 21cm Signal](https://arxiv.org/abs/2101.11624)
+
+- The simulations are among the first to employ on-the-fly radiation transfer and constrained transport ideal MHD in a cosmological context to simultaneously model the inhomogeneous process of reionization and the growth of primordial magnetic fields
+- Detecting changes in the Lyα forest due to PMFs will be challenging because photoionisation and photoheating efficiently smooth the density field. 
+- We find that the first absorption feature in the global 21cm signal is a particularly sensitive indicator of the properties of the PMFs
+- 较强的PMF可以提高LyC光子的逃逸率；降低星系的有效半径
+
+##### [Recovering Density Fields inside Quasar Proximity Zones at z∼6](https://arxiv.org/abs/2101.11627)
+
+- At the end of reionization, the residual neutral hydrogen usually creates saturated absorption, thus much of the information about the gas density is lost. 在QSO周围的proximity zone，电离强度高：creating a large region with non-zero transmitted flux
+- This study shows that by analyzing the absorption features inside quasar proximity zones we can potentially constrain quasar properties and the environments they reside in.
+
+##### [Extended X-ray Emission in Compton Thick AGN with Deep Chandra Observations](https://arxiv.org/abs/2101.11625)
+
+- This collection represents the first, high-signal sample of CT AGN with extended hard X-ray emission for which we can begin to build a more complete picture of this new population of AGN 延展的硬X-ray辐射在CT AGN中普遍存在
+	- Find a correlation between the excess emission and obscuration, suggesting a connection between the nuclear obscuring material and the galactic molecular clouds.
+- We find that the soft X-ray emission extends farther than the hard X-rays along the ionization cone, which may be explained by a galactocentric radial dependence on the density of molecular clouds due to the orientation of the ionization cone with respect to the galactic disk
+
+##### [AGN-driven galactic outflows: comparing models to observations](https://arxiv.org/abs/2101.11645)
+
+- We directly compare our radiation pressure-driven shell models with the observational data from the most recent compilation of molecular outflows on galactic scales.
+- AGN radiative feedback is a promising mechanism for driving galactic outflows that should be considered, alongside wind feedback
+
+##### [The Evolution of NGC 7465 as Revealed by its Molecular Gas Properties](https://arxiv.org/abs/2101.11652)
+
+- 一个格外富气体的早型星系的ALMA致密气体tracers观测
+- Line ratios of the higher-density tracers suggest that the densest phase of molecular gas in NGC 7465 has a lower density than is typical for nearby galaxies, possibly as a result of the recent gas accretion.
+- 证据显示分子气体大部分是从附近的漩涡星系获得的
+
+##### [Size, shade or shape? The contribution of galaxies of different types to the star-formation history of the Universe from SDSS-IV MaNGA](https://arxiv.org/abs/2101.11945)
+
+- 利用MaNGA观测重构不同类型星系对宇宙SFH的贡献：
+	- We find that a galaxy's present-day colour tells us more about its historical contribution to the cosmic star formation history than its current morphology.
+	- We show that downsizing effects are greatest among galaxies currently in the blue cloud, but that the level of downsizing in galaxies of different morphologies depends quite sensitively on the morphological classification used
+
+##### [Detection of supernova remnants in NGC 4030](https://arxiv.org/abs/2101.12022)
+
+- MUSE-based emission-line maps of the spiral galaxy NGC 4030 reveal the existence of unresolved sources with forbidden line emission enhanced with respect to those seen in its own HII regions
+- 对发射线背景的改正很重要：We find that many (but not all) sources detected with the principal component analysis have properties compatible with supernova remnants (SNRs).
+
+##### [Radio properties of nearby ultraluminous infrared galaxies with luminous buried active galactic nuclei signatures](https://arxiv.org/abs/2101.12058)
+
+##### [The galaxy-galaxy strong lensing cross-sections of simulated LCDM galaxy clusters](https://arxiv.org/abs/2101.12067)
+
+- #cluster/galaxy #cluster/cosmology #strong_lensing 
+- Related to [An excess of small-scale gravitational lenses observed in galaxy clusters](https://ui.adsabs.harvard.edu/abs/2020Sci...369.1347M/abstract)
+- We take galaxy clusters from the C-EAGLE hydrodynamical simulations and calculate the expected amount of GGSL for sources placed behind the clusters at different redshifts. 
+- The probability of a source lensed by one of the most massive C-EAGLE clusters being multiply imaged by an individual cluster member is in good agreement with that inferred for observed clusters.
+
+##### [Strongly lensed cluster substructures are not in tension with ΛCDM](https://arxiv.org/abs/2101.12112)
+
+- #cluster/galaxy #cluster/cosmology #strong_lensing 
+- Related to [An excess of small-scale gravitational lenses observed in galaxy clusters](https://ui.adsabs.harvard.edu/abs/2020Sci...369.1347M/abstract)
+- 关于星系团内的subhalo数量对于LCDM是否过多：We test these hypotheses by comparing observed subhalo masses and maximum circular velocities vmax to predictions from the high resolution Hydrangea galaxy cluster simulation suite, which is based on the successful EAGLE galaxy formation model.
+- The simulated subhalo mass distribution and mass-vmax relation agrees well with observations
+
+### Jan 31
+
+#### Relevant / Important / Useful
+
+##### [Spatially Resolved Star Formation and Inside-out Quenching in the TNG50 Simulation and 3D-HST Observations](https://arxiv.org/abs/2101.12212)
+
+- #galaxy/quenching #galaxy/simulation
+- TNG-50 v.s. IllustrisTNG v.s. 3D-HST: SFMS integrated and resolved on 1kpc scales
+- 观测上用了Prospector的新恒星质量和SFRs估计，使得观测和模拟符合得更好
+- TNG50中的Scatter在大质量端偏小：The scatter is generically smaller in TNG50 than in 3D-HST for more massive galaxies with M\_\*>10^10Msun, even after accounting for observational uncertainties.
+- Most noteworthy, massive galaxies with M\_\*>10^10.5Msun, which have fallen below the SFMS due to ongoing quenching, exhibit a clear central SFR suppression, in both TNG50 and 3D-HST.
+- The observed sSFR profiles provide support for the TNG quenching mechanism and how it affects gas on kiloparsec scales in the centers of galaxies.
+
+##### [The abundance of satellites around Milky Way- and M31-like galaxies with the TNG50 simulation: a matter of diversity](https://arxiv.org/abs/2101.12215)
+
+- #galaxy/simulation 
+- 198 Milky Way- (MW) and M31-like hosts in TNG50
+- 关于爱星系统计性质，有很大的个体差异：we find a remarkable level of diversity and host-to-host scatter across individual host galaxies.
+- The number of all satellites (subhaloes) ever accreted is larger by a factor of 4-5 (3-5) than those surviving to z = 0
+	- Hosts with larger galaxy stellar mass, brighter K-band luminosity, larger total halo mass, and more recent halo assembly typically have a larger number of surviving satellites.
+- There is no missing satellites problem with TNG50.
+
+##### [Accreted or Not Accreted? The Fraction of Accreted Mass in Galaxies from Simulations and Observations](https://arxiv.org/abs/2101.12216)
+
+- #galaxy/assembly #galaxy/etg #galaxy/model #galaxy/simulation
+- Magneticum模拟中：和其他模拟比，小质量星系的accreted质量比例更高
+- Based on the radial distribution of the accreted and in-situ components, we define 6 galaxy classes, from completely accretion dominated to completely in-situ dominated
+	- About 70% of our galaxies have one transition radius. However, we also find about 10% of the galaxies to be accretion dominated everywhere, and about 13% to have two transition radii, with the centre and the outskirts both being accretion dominated. 有些星系是在中心和外围被ex-situ components dominated.
+- Finally, we show that the dips in observed surface brightness profiles seen in many early-type galaxies do not correspond to the transition from in-situ to accretion-dominated regions, and any inferred mass fractions are not indicative of the true accreted mass.
+
+##### [Galaxy Clusters from the DESI Legacy Imaging Surveys. I. Cluster Detection](https://arxiv.org/abs/2101.12340)
+
+- #legacysurvey #cluster/finder 
+- We apply a fast clustering algorithm to identify 540,432 galaxy clusters at z≲1 in the DESI legacy imaging surveys
+- The median redshift and mass of our detected clusters are about 0.53 and 1.23×10^14M⊙
+- [Cluster catalog](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:desi_clusters:start)
+
+##### [The Evolutionary Pathways of Disk-, Bulge-, and Halo-dominated Galaxies](https://arxiv.org/abs/2101.12373)
+
+- 对TNG50中的星系进行运动学分解
+	- The concept of stellar halos is generalized to weakly-rotating structures that are composed of loosely bound stars, which can hence be associated to both disk and elliptical type morphologies.
+- 定义三类星系：被盘主导的，被bulge主导的，被halo主导的
+	- We recognize three fundamental regimes: an early phase of evolution (z≳2), and internal and external (mainly mergers) processes that act at later times.
+- In observations, both bulge- and halo-dominated galaxies are likely to be classified as early-type galaxies with compact morphology and quiescent star formation. However, here we find them to have very different evolutionary histories.
+
+##### [The SAMI Galaxy Survey: the third and final data release](https://arxiv.org/abs/2101.12224)
+
+- #survey/sami #ifu #data_release
+- Data Release 3 (DR3), we release data for the full sample of 3068 unique galaxies observed.
+	- This includes the SAMI cluster sample of 888 unique galaxies for the first time
+- For each galaxy, we include complete 2D maps from parameterized fitting to the emission-line and absorption-line spectral data
+
+#### Interesting / Keep in Mind
+
+##### [Five-percent measurements of the growth rate from simulation-based modelling of redshift-space clustering in BOSS LOWZ](https://arxiv.org/abs/2101.12261)
+
+- #cosmology #cosmology/rsd [[Redshift Space Distortion]]
+- We use a simulation-based modelling approach to analyse the anisotropic clustering of the BOSS LOWZ sample
+- Our full-scale analysis yields constraints on the growth of structure that are a factor of two more stringent than any other study on large scales at similar redshifts.
+- Our results are thus consistent with Planck, but also follow the trend seen in previous low-redshift measurements of fσ8 falling slightly below the ΛCDM+CMB prediction.
+- We find that small and large radial scales yield mutually consistent values of fσ8, but there are 1−2.5σ hints of small scales (<10h−1Mpc) preferring lower values for fσ8 relative to larger scales.
+
+##### [The dust-continuum size of TNG50 galaxies at z\=1−5: a comparison with the distribution of stellar light, stars, dust and H2](https://arxiv.org/abs/2101.12218)
+
+- #galaxy/simulation #galaxy/ism 
+- 基于SKIRT预测星系中的延展尘埃分布
+- The dust-continuum half-light radius at observed-frame 850 μm is up to ∼75 per cent larger than the stellar half-mass radius, but significantly more compact than the observed-frame 1.6 μm (roughly corresponding to H-band) half-light radius 
+	- 尤其是对于比较高红移的星系
+	- This is driven by obscuration of stellar light from the galaxy centres, which increases the apparent extent of 1.6 μm disk sizes relative to that at 850 μm
+	- 所以说高红移星系中看到的中心高度聚集的尘埃发射未必是正在build-up dense stellar component的证据
+- Single band dust-continuum emission is a good tracer of the location of (obscured) star formation.
+	- The dust-continuum emission is more compact than the H2 mass (for galaxies at z≥2) and the underlying dust mass.
+	- 尘埃连续辐射最强的地方往往也是尘埃温度最高的地方
+	
+##### [The cumulative star-formation histories of dwarf galaxies with TNG50. I: Environment-driven diversity and connection to quenching](https://arxiv.org/abs/2101.12226)
+
+- #galaxy/dwarf #galaxy/simulation #galaxy/quenching #galaxy/environment
+- The key factors determining the dwarfs' SFHs are their status as central or satellite and their stellar mass, with centrals and more massive dwarfs assembling their stellar mass at later times on average compared to satellites and lower mass dwarfs.
+- TNG50 predicts a large diversity in SFHs for both centrals and satellites, so that the stacked cumulative SFHs are representative of the TNG50 dwarf populations only in an average sense
+- Satellites at fixed stellar and host halo mass, found closer to the cluster centre, or accreted at earlier times, show significantly earlier stellar mass assembly.
+- We also find a subtle effect whereby satellite dwarfs in the most massive hosts at z=0 have higher SFRs at early times, well before final infall into their z=0 host, compared to a control sample of centrals mass-matched at the time of accretion.
+
+#### Others
+
+##### [Morphology of relaxed and merging galaxy clusters. Analytical models for monolithic Minkowski functionals](https://arxiv.org/abs/2101.12261)
+
+-  A classification scheme based on shapefinders deduced from the Minkowski functionals is examined to fully account for the morphological diversity of galaxy clusters, including relaxed and merging clusters, clusters fed by filamentary structures, and cluster-pair bridges
+
+##### [GLEAM: Galaxy Line Emission & Absorption Modeling](https://arxiv.org/abs/2101.12231)
+
+- GLEAM (Galaxy Line Emission & Absorption Modeling), a Python tool for fitting Gaussian models to emission and absorption lines in large samples of 1D extragalactic spectra.
+- [`gleam` - Galaxy Line Emission & Absorption Modeling](https://github.com/multiwavelength/gleam)
+- GLEAM also takes advantage of multiprocessing capabilities to process spectra in parallel
+
+##### [A more probable explanation for a continuum flash in the direction of a redshift ≈ 11 galaxy](https://arxiv.org/abs/2101.12738)
+
+- 关于江林华组发现的GN-z11中的transient现象
+- We identify numerous examples of similar transient signals in separate archival MOSFIRE observations and argue that Solar system objects -- natural or artificial -- are a far more probable explanation for these phenomena.
+
+##### [Outflows, Shocks and Coronal Line Emission in a Radio-Selected AGN in a Dwarf Galaxy](https://arxiv.org/abs/2101.12217)
+
+- #smbh #galaxy/dwarf 
+- Gemini/IFU后续观测一些有radio AGN探测的矮星系：We focus on the dwarf galaxy J1220+3020, which shows no clear optical AGN signatures in its nuclear SDSS spectrum covering the radio source
+	- We confirm the presence of an active BH via the AGN coronal line \[Fe X\] and enhanced \[O I\] emission coincident with the radio source.
+- The physical model most consistent with the data is an active BH with a radiatively inefficient accretion flow (RIAF) that both photoionizes and shock-excites the surrounding gas.
+
+##### [GN-z11-flash: A shock-breakout in a Population III supernova at Cosmic Dawn?](https://arxiv.org/abs/2101.12222)
+
+- 也是关于林华的GN-z11 flash的：GN-z11-flash as originating from a shock-breakout in a Population III supernova occurring in the GN-z11 galaxy at z∼11.
+	- The parameters of the explosion are fully consistent with those expected from the shock breakout associated with a Type II supernova of a progenitor star of ∼300 solar masses in this galaxy, with of order unity such events expected over an observing timescale of a few years
+
+##### [The MUSE Hubble Ultra Deep Field Survey XVI. The angular momentum of low-mass star-forming galaxies. A cautionary tale and insights from TNG50](https://arxiv.org/abs/2101.12250)
+
+- #galaxy/simulation #ifu 
+- 关于小质量星系的单位角动量轮廓：
+	- Using mock observations from the TNG50 simulation, we find that our 3D methodology robustly recovers the SFR-weighted j(<r) profiles down to low effective signal-to-noise ratio (SNR) of ⪆3
+- 对UDF Muse观测中的星系进行了建模
+	- We find that the (SFR-weighted) sAM relation follows $j \propto M_{\star}^{\alpha}$ with an index α varying from α\=0.3 to α\=0.5
+	- The UDF sample supports a redshift evolution consistent with the expectation from expanding Universe.
+- In TNG50, SFGs also form a j−M⋆−(V/σ) plane but correlates more with galaxy size than with morphological parameters. 
+	- Our results suggest that SFGs might experience a dynamical transformation before their morphological transformation to becoming passive via either merging or secular evolution.
+
+##### [J-PLUS: Systematic impact of metallicity on photometric calibration with the stellar locus](https://arxiv.org/abs/2101.12407)
+
+- The initial homogenization of J-PLUS photometry, performed with a unique stellar locus, was refined by including the metallicity effect in colours via the ZSL. The variation of the average metallicity along the Milky Way produces a systematic offset in J-PLUS calibration.
+- 在较蓝的波段上是 >1%的效应
+
+##### [Placing LOFAR-detected quasars in CIV emission space: implications for winds, jets and star formation](https://arxiv.org/abs/2101.12635)
+
+- We employ ultraviolet spectral reconstructions based on an independent component analysis to parametrize the CIVλ1549-emission line which is used to infer the strength of accretion disc winds, and the HeIIλ1640 line, an indicator of the soft X-ray flux.
+- 有LOFAR探测的和没有射电探测的在CIV发射线蓝移和等值宽度分布上没有差别。
+	- The loudest, most luminous and largest radio sources exist preferentially at low CIV blueshifts
+	- Additionally, the radio-detection fraction increases with blueshift whereas the radio-loud fraction decreases.
+- The existence of quasars with similar ultraviolet properties but differing radio properties suggests, perhaps, that the radio and ultraviolet emission is tracing activity occurring on different timescales.
+
+##### [HI-MaNGA: Tracing the physics of the neutral and ionized ISM with the second data release](https://arxiv.org/abs/2101.12680)
+
+- This release contains HI measurements from 2135 Green Bank Telescope (GBT) observations and an updated crossmatch of the SDSS-IV MaNGA sample with the ALFALFA survey
+- M\_HI/M\_\* is very weakly correlated with the equivalent width of Halpha, implying a loose connection between the instantaneous star formation rate and the HI reservoir
+- Galaxies with elevated HI depletion times have enhanced \[OI\]/Halpha and depressed Halpha surface brightness, consistent with more HI residing in a diffuse and/or shock heated phase which is less capable of condensing into molecular clouds.
+- We recover the strong anti-correlation between M\_HI/M\_\* and gas-phase metallicity seen in previous studies.
+
+##### [Evidence of the Gaia\--VLBI position differences being related to radio source structure](https://arxiv.org/abs/2101.12685)
+
+- #gaia 
+- Because the Gaia\--VLBI position differences are statistically significant for a considerable number of common sources, we attempt to discuss and explain these position differences
+	- Both the arc lengths and normalized arc lengths of the Gaia and VLBI positions are found to increase with the CARMS values. The majority of the sources with statistically significant position differences are associated with the sources having extended structure.
