@@ -655,6 +655,13 @@
 
 #### Relevant / Important / Useful
 
+##### [The Age of the Universe with Globular Clusters: Reducing Systematic Uncertainties](http://arxiv.org/abs/2102.04486) [(PDF)](http://arxiv.org/pdf/2102.04486.pdf)
+
+- #cosmology
+- 如何解决GC年龄测量中与金属丰度简并的问题: if the metal content, distance and extinction are known, the position and morphology of the red giant branch in a color-magnitude diagram are mostly sensitive to the value of the depth of the convective envelope.
+	- We demonstrate that globular cluster red giant branches are well fitted by values of the depth of the convection envelope consistent with those obtained for the Sun and this finding is robust to the adopted treatment of the stellar physics.
+- This results in an age of the Universe $t_{\rm U}=13.5^{+0.16}_{-0.14} {\rm (stat.)} \pm 0.23(0.33) ({\rm sys.})$at 68\% confidence level, accounting for the formation time of globular clusters and its uncertainty.
+
 ##### [The VST Early-type GAlaxy Survey (VEGAS) data release 1](http://arxiv.org/abs/2102.04950) [(PDF)](http://arxiv.org/pdf/2102.04950.pdf)
 
 - #galaxy/etg #galaxy/lsb #cluster/galaxy 
@@ -662,7 +669,47 @@
 - With the DR1, we provide the reduced VST mosaics of 10 targets, which have been presented in the VEGAS publications.
 - The data products are available via the [ESO Science Portal](http://www.eso.org/sci/observing/phase3/news.html#VEGAS-DR1).
 
+##### [Resolved HI in two ultra-diffuse galaxies from contrasting non-cluster environments](http://arxiv.org/abs/2102.04564) [(PDF)](http://arxiv.org/pdf/2102.04564.pdf)
+
+- #galaxy/udg #galaxy/lsb
+- GMRT观测两个blue-UDG:
+	- SdI-2 has an unusually large MHI/M* ratio =28.9, confirming a previous single dish HI observation.
+	- Both galaxies display HI morphological and kinematic signatures consistent with a recent tidal interaction, which is also supported by observations from other wavelengths, including optical spectroscopy.
+- Within the limits of the observations' resolution, our analysis indicates that SdI-2 is dark matter-dominated within its HI radius and this is also likely to be the case for UDG-B1.
+
+##### [How Many Elements Matter?](http://arxiv.org/abs/2102.04992) [(PDF)](http://arxiv.org/pdf/2102.04992.pdf)
+
+- #ssst/mw #machine_learning [[ML - Normalizing Flows]]
+- We adopt a technique known as normalizing flow to reconstruct the probability distribution of Milky Way disk stars in the space of 15 elemental abundances measured by APOGEE.
+- After conditioning on [Fe/H] and [Mg/H], the residual scatter for the best measured APOGEE elements is $\sigma_{[X/{\rm H}]} \lesssim 0.02$dex, consistent with APOGEE's reported statistical uncertainties of $\sim 0.01 - 0.015$dex and intrinsic scatter of $0.01-0.02$dex.
+- Despite the small scatter, residual abundances display clear correlations between elements, which are too large to be explained by measurement uncertainties or by the statistical noise from our finite sample size.
+- We must condition on at least seven elements (e.g., Fe, Mg, O, Si, Ni, Ca, Al) to reduce residual correlations to a level consistent with observational uncertainties, and higher measurement precision for other elements would likely reveal additional dimensions.
+- We conclude that many elements have an independent story to tell, even for a "mundane" sample of disk stars and elements produced mainly by core-collapse and Type Ia supernovae.
+
+##### [On the variation in stellar alpha-enhancements of star-forming galaxies in the EAGLE simulation](http://arxiv.org/abs/2102.04561) [(PDF)](http://arxiv.org/pdf/2102.04561.pdf)
+
+- #galaxy/spop #galaxy/simulation #stellar_population 
+- We elucidate two definitions - termed 'mean' and 'galactic' $\alpha$-enhancement - in more detail.
+	- While a star-forming galaxy has a high 'mean' $\alpha$-enhancement when its stars formed rapidly, a galaxy with a large 'galactic' $\alpha$-enhancement generally had a delayed star formation history.
+- We find that absorption-line strengths of Mg and Fe correlate with variations in $\alpha$-enhancement.
+	- These correlations are strongest for the 'galactic' $\alpha$-enhancement.
+	- 但在SF星系中年龄的变化极大的影响了alpha/Fe的测量
+- The ambiguity is not severe for passive galaxies and we confirm that spectral variations in these galaxies are caused by measurable variations in $\alpha$-enhancements.
+
 #### Interesting / Keep in Mind 
+
+##### [Improving $z\sim7-11$ Galaxy Property Estimates with JWST/NIRCam Medium-Band Photometry](http://arxiv.org/abs/2102.04469) [(PDF)](http://arxiv.org/pdf/2102.04469.pdf)
+
+- #csst
+- We show that adding NIRCam images through a strategically chosen medium-band filter to common wide-band filters sets adopted by ERS and GTO programs delivers tighter constraints on these galactic properties.
+- We find that adding $>4.1 \mu$m medium filters at comparable depth to the broad-band filters can significantly improve photo-$z$s and yield close to order-of-magnitude improvements in the determination of quantities such as stellar ages, metallicities, SF-related quantities and emission line fluxes at $z\sim8$.
+
+##### [CMB/kSZ and Compton-$y$ Maps from 2500 square degrees of SPT-SZ and Planck Survey Data](http://arxiv.org/abs/2102.05033) [(PDF)](http://arxiv.org/pdf/2102.05033.pdf)
+
+- #cluster/sze
+- We present component-separated maps of the primary cosmic microwave background/kinematic Sunyaev-Zel'dovich (SZ) amplitude and the thermal SZ Compton-$y$parameter, created using data from the South Pole Telescope (SPT) and the Planck satellite.
+- In this work we detail the construction of these maps using linear combination techniques, including our method for limiting the correlation of our lowest-noise Compton-$y$map products with the cosmic infrared background.
+- Recognizing the potential utility of these data products for a wide range of astrophysical and cosmological analyses, including studies of the gas properties of galaxies, groups, and clusters, we make these products publicly available at http://pole.uchicago.edu/public/data/sptsz_ymap and on the NASA/LAMBDA website.
 
 ##### [PyAutoFit: A Classy Probabilistic Programming Language for Model Composition and Fitting](http://arxiv.org/abs/2102.04472) [(PDF)](http://arxiv.org/pdf/2102.04472.pdf)
 
@@ -677,109 +724,32 @@
 - Here we show that reflection of sunlight from a high-orbit satellite or a piece of space debris is a valid and reasonable explanation.
 	- At higher declinations the rate is 5--50 times lower, but still significant: about four orders of magnitudes higher than the rate estimated for GRBs.
 
-##### [Improving $z\sim7-11$ Galaxy Property Estimates with JWST/NIRCam Medium-Band Photometry](http://arxiv.org/abs/2102.04469) [(PDF)](http://arxiv.org/pdf/2102.04469.pdf)
-
-- The past decade has seen impressive progress in the detection of $z>7$galaxies with the Hubble Space Telescope, however little is known about their properties.
-- The James Webb Space Telescope will revolutionise the high-$z$field by providing NIR (i.e, rest-frame optical) data of unprecedented depth and spatial resolution.
-- Measuring galaxy quantities such as resolved stellar ages or gas metallicity gradients traditionally requires spectroscopy, as broad-band imaging filters are generally too coarse to fully isolate diagnostics such as the 4000 \r{A} (rest-frame) break, continuum emission from aged stars, and key emission lines (e.g., [OII], [OIII], H$\beta$).
-- However, in this paper, we show that adding NIRCam images through a strategically chosen medium-band filter to common wide-band filters sets adopted by ERS and GTO programs delivers tighter constraints on these galactic properties.
-- To constrain the choice of filter, we perform a systematic investigation of which combinations of wide-band filters from ERS and GTO programs and single medium-band filters offer the tightest constraints on several galaxy properties at redshifts $z\sim7-11$.
-- We employ the JAGUAR extragalactic catalogs to construct statistical samples of physically-motivated mock photometry and conduct SED-fitting procedures to evaluate the accuracy of galaxy property (and photo-$z$) recovery with a simple star-formation history model.
-- We find that adding $>4.1 \mu$m medium filters at comparable depth to the broad-band filters can significantly improve photo-$z$s and yield close to order-of-magnitude improvements in the determination of quantities such as stellar ages, metallicities, SF-related quantities and emission line fluxes at $z\sim8$.
-- For resolved sources, the proposed approach enables spatially-resolved determination of these quantities that would be prohibitive with slit spectroscopy.
-
 ##### [The first measurement of the quasar lifetime distribution](http://arxiv.org/abs/2102.04477) [(PDF)](http://arxiv.org/pdf/2102.04477.pdf)
 
-- Understanding the growth of the supermassive black holes powering luminous quasars, their co-evolution with host galaxies, and impact on the surrounding intergalactic medium depends sensitively on the duration of quasar accretion episodes.
-- Unfortunately, this time-scale, known as the quasar lifetime, $t_{\rm Q}$, is still uncertain by orders of magnitude ($t_{\rm Q}\simeq 0.01~{\rm Myr}-1~{\rm Gyr}$).
-- However, the extent of the He II Ly$\alpha$proximity zones in the absorption spectra of $z_{\rm qso}\sim3-4$quasars constitutes a unique probe, providing sensitivity to lifetimes up to $\sim 30$Myr.
-- Our recent analysis of $22$archival He II proximity zone spectra reveals a surprisingly broad range of emission timescales, indicating that some quasars turned on $\lesssim 1$Myr ago, whereas others have been shining for $\gtrsim 30$Myr.
-- Determining the underlying quasar lifetime distribution (QLD) from proximity zone measurements is a challenging task owing to: 1) the limited sensitivity of individual measurements; 2) random sampling of the quasar light curves; 3) density fluctuations in the quasar environment; and 4) the inhomogeneous ionization state of He II in a reionizing IGM.
+- The extent of the He II Ly$\alpha$ proximity zones in the absorption spectra of $z_{\rm qso}\sim3-4$ quasars constitutes a unique probe, providing sensitivity to lifetimes up to $\sim 30$Myr.
+	- Our recent analysis of $22$archival He II proximity zone spectra reveals a surprisingly broad range of emission timescales, indicating that some quasars turned on $\lesssim 1$Myr ago, whereas others have been shining for $\gtrsim 30$Myr. 但推断QLD有难度
 - We combine a semi-numerical He II reionization model, hydrodynamical simulations post-processed with ionizing radiative transfer, and a novel statistical framework to infer the QLD from an ensemble of proximity zone measurements.
-- Assuming a log-normal QLD, we infer a mean $\langle {\rm log}_{10}\left(t_{\rm Q}/{\rm Myr}\right)\rangle=0.22^{+0.22}_{-0.25}$and standard deviation $\sigma_{{\rm log}_{10}t_{\rm Q}}=0.80^{+0.37}_{-0.27}$.
-- Our results allow us to estimate the probability of detecting young quasars with $t_{\rm Q}\leq0.1$Myr from their proximity zone sizes yielding $p\left(\leq 0.1~{\rm Myr}\right)=0.19^{+0.11}_{-0.09}$, which is broadly consistent with recent determination at $z\sim 6$.
-
-##### [The Age of the Universe with Globular Clusters: Reducing Systematic Uncertainties](http://arxiv.org/abs/2102.04486) [(PDF)](http://arxiv.org/pdf/2102.04486.pdf)
-
-- The dominant systematic uncertainty in the age determination of galactic globular clusters is the depth of the convection envelope of the stars.
-- This parameter is partially degenerate with metallicity which is in turn degenerate with age.
-- However, if the metal content, distance and extinction are known, the position and morphology of the red giant branch in a color-magnitude diagram are mostly sensitive to the value of the depth of the convective envelope.
-- Therefore, using external, precise metallicity determinations this degeneracy and thus the systematic error in age, can be reduced.
-- Alternatively, the morphology of the red giant branch of globular clusters color magnitude diagram can also be used to achieve the same.
-- We demonstrate that globular cluster red giant branches are well fitted by values of the depth of the convection envelope consistent with those obtained for the Sun and this finding is robust to the adopted treatment of the stellar physics.
-- With these findings, the uncertainty in the depth of the convection envelope is no longer the dominant contribution to the systematic error in the age determination of the oldest globular clusters, reducing it from $0.5$to $0.23$or $0.33$Gyr, depending on the methodology adopted: i.e, whether resorting to external data (spectroscopic metallicity determinations) or relying solely on the morphology of the clusters's color-magnitude diagrams.
-- This results in an age of the Universe $t_{\rm U}=13.5^{+0.16}_{-0.14} {\rm (stat.)}
-- \pm 0.23(0.33) ({\rm sys.
-- })$at 68\% confidence level, accounting for the formation time of globular clusters and its uncertainty.
-- An uncertainty of 0.27(0.36) Gyr if added in quadrature.
-- This agrees well with $13.8 \pm 0.02$Gyr, the cosmological model-dependent value inferred by the Planck mission assuming the $\Lambda$CDM model.
+	- Our results allow us to estimate the probability of detecting young quasars with $t_{\rm Q}\leq0.1$Myr from their proximity zone sizes yielding $p\left(\leq 0.1~{\rm Myr}\right)=0.19^{+0.11}_{-0.09}$, which is broadly consistent with recent determination at $z\sim 6$.
 
 ##### [A homogeneous comparison between the chemical composition of the Large Magellanic Cloud and the Sagittarius dwarf galaxy](http://arxiv.org/abs/2102.04516) [(PDF)](http://arxiv.org/pdf/2102.04516.pdf)
 
 - The LMC and Sgr stars, in the considered metallicity range ([Fe/H]>-1.1 dex), show very similar abundance ratios for almost all the elements, with differences only in the heavy s-process elements Ba, La and Nd, suggesting a different contribution by asymptotic giant branch stars.
 - On the other hand, the two galaxies have chemical patterns clearly different from those measured in the Galactic stars, especially for the elements produced by massive stars.
 
-##### [On the variation in stellar alpha-enhancements of star-forming galaxies in the EAGLE simulation](http://arxiv.org/abs/2102.04561) [(PDF)](http://arxiv.org/pdf/2102.04561.pdf)
-
-- The ratio of $\alpha$-elements to iron in galaxies holds valuable information about the star-formation history since their enrichment occurs on different timescales.
-- The fossil record of stars in galaxies has mostly been excavated for passive galaxies, since the light of star-forming galaxies is dominated by young stars which have much weaker atmospheric absorption features.
-- Here we use the cosmological EAGLE simulation to investigate the origin of variations in $\alpha$-enhancement among star-forming galaxies at $z=0$.
-- The definition of $\alpha$-enhancement in a composite stellar population is ambiguous.
-- We elucidate two definitions - termed 'mean' and 'galactic' $\alpha$-enhancement - in more detail.
-- While a star-forming galaxy has a high 'mean' $\alpha$-enhancement when its stars formed rapidly, a galaxy with a large 'galactic' $\alpha$-enhancement generally had a delayed star formation history.
-- We find that absorption-line strengths of Mg and Fe correlate with variations in $\alpha$-enhancement.
-- These correlations are strongest for the 'galactic' $\alpha$-enhancement.
-- However, we show that these are mostly caused by other effects which are cross-correlated with $\alpha$-enhancement, such as variations in the light-weighted age.
-- This severely complicates the retrieval of $\alpha$-enhancements in star-forming galaxies.
-- The ambiguity is not severe for passive galaxies and we confirm that spectral variations in these galaxies are caused by measurable variations in $\alpha$-enhancements.
-- We suggest that this more complex coupling between $\alpha$-enhancement and star formation histories can guide the interpretation of new observations of star-forming galaxies.
-
-##### [Resolved HI in two ultra-diffuse galaxies from contrasting non-cluster environments](http://arxiv.org/abs/2102.04564) [(PDF)](http://arxiv.org/pdf/2102.04564.pdf)
-
-- We report on the first resolved HI observations of two blue ultra-diffuse galaxies (UDGs)using the Giant Metrewave Radio Telescope (GMRT).
-- The targets are from contrasting non-cluster environments: UDG-B1 is projected in the outskirts of Hickson Compact Group 25 and Secco-dI-2 (SdI-2) is an isolated UDG.
-- These UDGs also have contrasting effective radii with Re of 3.7 kpc (similar to the Milky Way) and 1.3 kpc respectively.
-- SdI-2 has an unusually large MHI/M* ratio =28.9, confirming a previous single dish HI observation.
-- Both galaxies display HI morphological and kinematic signatures consistent with a recent tidal interaction, which is also supported by observations from other wavelengths, including optical spectroscopy.
-- Within the limits of the observations' resolution, our analysis indicates that SdI-2 is dark matter-dominated within its HI radius and this is also likely to be the case for UDG-B1.
-- Our study highlights the importance of high spatial and spectral resolution HI observations for the study of the dark matter properties of UDGs.
-
-##### [Microinstabilities in the Transition Region of Weak Quasi-Perpendicular Intracluster Shocks](http://arxiv.org/abs/2102.04569) [(PDF)](http://arxiv.org/pdf/2102.04569.pdf)
-
-- Microinstabilities play important roles in both entropy generation and particle acceleration in collisionless shocks.
-- Recent studies have suggested that in the transition zone of quasi-perpendicular ($Q_{\perp}$) shocks in the high-beta ($\beta=P_{\rm gas}/P_{\rm B}$) intracluster medium (ICM), the ion temperature anisotropy due to the reflected-gyrating ions could trigger the Alfv\'en ion cyclotron (AIC) instability and the ion-mirror instability, while the electron temperature anisotropy induced by magnetic field compression could excite the whistler instability and the electron-mirror instability.
-- Adopting the numerical estimates for ion and electron temperature anisotropies found in particle-in-cell (PIC) simulations of $Q_{\perp}$-shocks with sonic Mach numbers, $M_{\rm s}=2-3$, we carry out a linear stability analysis for these microinstabilities.
-- The kinetic properties of the microinstabilities and the ensuing plasma waves on both ion and electron scales are described for wide ranges of parameters, including the dependence on $\beta$and the ion-to-electron mass ratio.
-- In addition, the nonlinear evolution of induced plasma waves are examined by performing 2D PIC simulations with periodic boundary conditions.
-- We find that for $\beta\approx 20-100$, the AIC instability could induce ion-scale waves and generate shock surface ripples in supercritical shocks above the AIC critical Mach number, $M_{\rm AIC}^{*} \approx 2.3$.
-- Also electron-scale waves are generated primarily by the whistler instability in these high-$\beta$shocks.
-- The resulting multi-scale waves from electron to ion scales are thought to be essential in electron injection to the diffusive shock acceleration mechanism in $Q_{\perp}$-shocks in the ICM.
-
 ##### [How does the Polar Dust affect the Correlation between Dust Covering Factor and Eddington Ratio in Type 1 Quasars Selected from the Sloan Digital Sky Survey Data Release 16?](http://arxiv.org/abs/2102.04620) [(PDF)](http://arxiv.org/pdf/2102.04620.pdf)
 
-- We revisit the dependence of covering factor (CF) of dust torus on physical properties of active galactic nuclei (AGNs) by taking into account an AGN polar dust emission.
 - The CF is converted from a ratio of infrared (IR) luminosity contributed from AGN dust torus ($L_{\rm IR}^{\rm torus}$) and AGN bolometric luminosity ($L_{\rm bol}$), by assuming a non-linear relation between luminosity ratio and intrinsic CF.
-- We select 37,181 type 1 quasars at $z < 0.7$from the Sloan Digital Sky Survey Data Release 16 quasar catalog.
-- Their $L_{\rm bol}$, black hole mass ($M_{\rm BH}$), and Eddington ratio ($\lambda_{\rm Edd}$) are derived by spectral fitting with QSFit.
-- We conduct spectral energy distribution decomposition by using X-CIGALE with clumpy torus and polar dust model to estimate $L_{\rm IR}^{\rm torus}$without being affected by the contribution of stellar and AGN polar dust to IR emission.
-- For 5720 quasars whose physical quantities are securely determined, we perform a correlation analysis on CF and (i) $L_{\rm bol}$, (ii) $M_{\rm BH}$, and (iii) $\lambda_{\rm Edd}$.
-- As a result, anti-correlations for CF-$L_{\rm bol}$, CF-$M_{\rm BH}$, and CF-$\lambda_{\rm Edd}$are confirmed.
+	- As a result, anti-correlations for CF-$L_{\rm bol}$, CF-$M_{\rm BH}$, and CF-$\lambda_{\rm Edd}$are confirmed.
 - We find that incorporating the AGN polar dust emission makes those anti-correlations stronger which are compared to those without considering it.
-- This indicates that polar dust wind provably driven by AGN radiative pressure is one of the key components to regulate obscuring material of AGNs.
 
 ##### [A detailed study of X-ray cavities in the intracluster environment of the cool core cluster Abell~3017](http://arxiv.org/abs/2102.04650) [(PDF)](http://arxiv.org/pdf/2102.04650.pdf)
 
-- We present a detailed analysis of a cool-core galaxy cluster Abell~3017, at a redshift of $z\!=\!
-- 0.219$, which has been identified to be merging with its companion cluster Abell~3016.
-- This study has made use of X-ray ({\it Chandra}), UV (GALEX), optical (ESO/VLT), mid-infrared (WISE), and radio uGMRT observations of this cluster.
+- #cluster/icm
 - Using various image processing techniques, such as unsharp masking, 2-d fits using Beta models, contour binning and the use of surface brightness profiles, we show the existence of a pair of X-ray cavities, at a projected distance of ~$\sim$20\arcsec (70 kpc) and ~$\sim$16\arcsec (57 kpc), respectively from the core of Abell~3017.
-- We also detect an excess of X-ray emission, relatively hotter than that of the surroundings, towards the south, at $\sim$25\arcsec (88 kpc) from the core of the cluster, indicating the existence of an in-falling galaxy group.
-- We find that the radio lobes are responsible for the observed X-ray cavities detected in this system.
+	- We also detect an excess of X-ray emission, relatively hotter than that of the surroundings, towards the south, at $\sim$25\arcsec (88 kpc) from the core of the cluster, indicating the existence of an in-falling galaxy group.
+	- The radio lobes are responsible for the observed X-ray cavities detected in this system.
 - The lower values of mid-IR WISE color [W1-W2] and [W2-W3] imply that the central BCG of Abell~3017 is a star-forming galaxy.
-- The current star formation rate of the central BCG, estimated from the ${\rm H\alpha}$and {\it GALEX} FUV luminosities, are equal to be $\sim 5.06\pm 0.78$\Msun yr$^{-1}$and $\sim 9.20\pm 0.81$\Msun yr$^{-1}$, respectively.
-- We detect, for the first time, a radio phoenix $\sim$150 kpc away from the radio core, with a spectral index of ($\alpha \!\leq\!
-- -1.8$).
-- We also report the detection of $\rm~Pa_\alpha$emission in this cluster using ESO VLT {\tt SINFONI} imaging data.
+- We detect, for the first time, a radio phoenix $\sim$150 kpc away from the radio core
 
 ##### [Hot graphite dust in the inner regime of NGC 4151](http://arxiv.org/abs/2102.04662) [(PDF)](http://arxiv.org/pdf/2102.04662.pdf)
 
@@ -800,36 +770,11 @@
 
 ##### [HI constraints from the cross-correlation of eBOSS galaxies and Green Bank Telescope intensity maps](http://arxiv.org/abs/2102.04946) [(PDF)](http://arxiv.org/pdf/2102.04946.pdf)
 
+- #intensity_mapping 
 - We present the joint analysis of Neutral Hydrogen (HI) Intensity Mapping observations with three galaxy samples: the Luminous Red Galaxy (LRG) and Emission Line Galaxy (ELG) samples from the eBOSS survey, and the WiggleZ Dark Energy Survey sample.
-- The HI intensity maps are Green Bank Telescope observations of the redshifted 21cm emission on 100deg2 covering the redshift range $0.6<z<1.0$.
-- We process the data by separating and removing the foregrounds with FastICA, and construct a transfer function to correct for the effects of foreground removal on the HI signal.
-- We cross-correlate the cleaned HI data with the galaxy samples and study the overall amplitude as well as the scale-dependence of the power spectrum.
-- We also qualitatively compare our findings with the predictions by a semi-analytic galaxy evolution simulation.
+	- The HI intensity maps are Green Bank Telescope observations of the redshifted 21cm emission on 100deg2 covering the redshift range $0.6<z<1.0$.
 - The cross-correlations constrain the quantity $\Omega_{{HI}} b_{{HI}} r_{{HI},{opt}}$at an effective scale $k_{eff}$, where $\Omega_{HI}$is the HI density fraction, $b_{HI}$is the HI bias, and $r_{{HI},{opt}}$the galaxy-hydrogen correlation coefficient, which is dependent on the HI content of the optical galaxy sample.
-- At $k_{eff}=0.31 h/{Mpc}$we find $\Omega_{{HI}} b_{{HI}} r_{{HI},{Wig}} = [0.58 \pm 0.09 {(stat) \pm 0.05 {(sys)}}] \times 10^{-3}$for GBT-WiggleZ, $\Omega_{{HI}} b_{{HI}} r_{{HI,{ELG}}} = [0.40 \pm 0.09 {(stat) \pm 0.04 {(sys)}}] \times 10^{-3}$for GBT-ELG, and $\Omega_{{HI}} b_{{HI}} r_{{HI},{LRG}} = [0.35 \pm 0.08 {(stat) \pm 0.03 {(sys)}}] \times 10^{-3}$for GBT-LRG, at $z\simeq 0.8$.
-- We also report results at $k_{eff}=0.24 h/{Mpc}$and $k_{eff}=0.48 h/{Mpc}$.
 - With little information on HI parameters beyond our local Universe, these are amongst the most precise constraints on neutral hydrogen density fluctuations in an underexplored redshift range.
-
-##### [How Many Elements Matter?](http://arxiv.org/abs/2102.04992) [(PDF)](http://arxiv.org/pdf/2102.04992.pdf)
-
-- Some studies of stars' multi-element abundance distributions suggest at least 5-7 significant dimensions, but other studies show that the abundances of many elements can be predicted to high accuracy from [Fe/H] and [Mg/Fe] alone (or from [Fe/H] and age).
-- We show that both propositions can be, and are, simultaneously true.
-- We adopt a technique known as normalizing flow to reconstruct the probability distribution of Milky Way disk stars in the space of 15 elemental abundances measured by APOGEE.
-- Conditioning on stellar parameters $T_{\rm eff}$and $\log g$minimizes the differential systematics.
-- After conditioning on [Fe/H] and [Mg/H], the residual scatter for the best measured APOGEE elements is $\sigma_{[X/{\rm H}]} \lesssim 0.02$dex, consistent with APOGEE's reported statistical uncertainties of $\sim 0.01 - 0.015$dex and intrinsic scatter of $0.01-0.02$dex.
-- Despite the small scatter, residual abundances display clear correlations between elements, which are too large to be explained by measurement uncertainties or by the statistical noise from our finite sample size.
-- We must condition on at least seven elements (e.g., Fe, Mg, O, Si, Ni, Ca, Al) to reduce residual correlations to a level consistent with observational uncertainties, and higher measurement precision for other elements would likely reveal additional dimensions.
-- Our results demonstrate that cross-element correlations are a much more sensitive and robust probe of hidden structure than dispersion alone, and they can be measured precisely in a large sample even if star-by-star measurement noise is comparable to the intrinsic scatter.
-- We conclude that many elements have an independent story to tell, even for a "mundane" sample of disk stars and elements produced mainly by core-collapse and Type Ia supernovae.
-- The only way to learn these lessons is to measure the abundances directly, and not merely infer them.
-
-##### [CMB/kSZ and Compton-$y$ Maps from 2500 square degrees of SPT-SZ and Planck Survey Data](http://arxiv.org/abs/2102.05033) [(PDF)](http://arxiv.org/pdf/2102.05033.pdf)
-
-- We present component-separated maps of the primary cosmic microwave background/kinematic Sunyaev-Zel'dovich (SZ) amplitude and the thermal SZ Compton-$y$parameter, created using data from the South Pole Telescope (SPT) and the Planck satellite.
-- These maps, which cover the $\sim$2500 square degrees of the Southern sky imaged by the SPT-SZ survey, represent a significant improvement over previous such products available in this region by virtue of their higher angular resolution (1.25 arcminutes for our highest resolution Compton-$y$maps) and lower noise at small angular scales.
-- In this work we detail the construction of these maps using linear combination techniques, including our method for limiting the correlation of our lowest-noise Compton-$y$map products with the cosmic infrared background.
-- We perform a range of validation tests on these data products to test our sky modeling and combination algorithms, and we find good performance in all of these tests.
-- Recognizing the potential utility of these data products for a wide range of astrophysical and cosmological analyses, including studies of the gas properties of galaxies, groups, and clusters, we make these products publicly available at http://pole.uchicago.edu/public/data/sptsz_ymap and on the NASA/LAMBDA website.
 
 
 ### Feb 11 
@@ -925,39 +870,24 @@
 ##### [The trouble beyond $H_0$ and the new cosmic triangles](http://arxiv.org/abs/2102.05066) [(PDF)](http://arxiv.org/pdf/2102.05066.pdf)
 
 - #cosmology/h0 #hubble_tension  
-- The distance ladder using supernovae yields higher values of the Hubble constant $H_0$than those inferred from measurements of the cosmic microwave background (CMB) and galaxy surveys, a discrepancy that has come to be known as the 'Hubble tension'.
-- This has motivated the exploration of extensions to the standard cosmological model in which higher values of $H_0$can be obtained from CMB measurements and galaxy surveys.
-- The trouble, however, goes beyond $H_0$; such modifications affect other quantities, too.
-- In particular, their effects on cosmic times are usually neglected.
-- We explore here the implications that measurements of the age $t_{\rm U}$of the Universe, such as a recent inference from the age of the oldest globular clusters, can have for potential solutions to the $H_0$tension.
+- 不能简单的希望一个新模型只改变H0，对其他参数也有影响：比如宇宙年龄
 - The value of $H_0$inferred from the CMB and galaxy surveys is related to the sound horizon at CMB decoupling (or at radiation drag), but it is also related to the matter density and to $t_{\rm U}$.
-- Given this observation, we show how model-independent measurements may support or disfavor proposed new-physics solutions to the Hubble tension.
-- Finally, we argue that cosmological measurements today provide constraints that, within a given cosmological model, represent an over-constrained system, offering a powerful diagnostic tool of consistency.
 - We propose the use of ternary plots to simultaneously visualize independent constraints on key quantities related to $H_0$like $t_{\rm U}$, the sound horizon at radiation drag, and the matter density parameter.
-- We envision that this representation will help find a solution to the trouble of and beyond $H_0$.
 
 ##### [Confirming ALMA Calibration using Planck and ACT Observations](http://arxiv.org/abs/2102.05079) [(PDF)](http://arxiv.org/pdf/2102.05079.pdf)
 
-- We test the accuracy of ALMA flux density calibration by comparing ALMA flux density measurements of extragalactic sources to measurements made by the Planck mission; Planck is absolutely calibrated to sub-percent precision using the dipole signal induced by the satellite's orbit around the solar system barycenter.
-- Planck observations ended before ALMA began systematic observations, however, and many of the sources are variable, so we employ measurements by the Atacama Cosmology Telescope (ACT) to bridge the two epochs.
 - We find the ALMA flux density scale (based on observations of Uranus) is consistent with Planck; for instance ALMA flux densities in Band 3 ($\sim$100 GHz) average $0.99 \pm 0.02$times those measured by Planck.
 - We also test the absolute calibration of both ACT and the South Pole Telescope (SPT), again with reference to Planck, as well as the internal consistency of Planck, ACT and SPT measurements of compact sources.
 
 ##### [Measuring anisotropic stress with relativistic effects](http://arxiv.org/abs/2102.05086) [(PDF)](http://arxiv.org/pdf/2102.05086.pdf)
 
-- One of the main goal of large-scale structure surveys is to test the consistency of General Relativity at cosmological scales.
-- In the $\Lambda$CDM model of cosmology, the relations between the fields describing the geometry and the content of our Universe are uniquely determined.
-- In particular, the two gravitational potentials -- that describe the spatial and temporal fluctuations in the geometry -- are equal.
+- #cosmology
 - Whereas large classes of dark energy models preserve this equality, theories of modified gravity generally create a difference between the potentials, known as anisotropic stress.
-- Even though measuring this anisotropic stress is one of the key goals of large-scale structure surveys, there are currently no methods able to measure it directly.
-- Current methods all rely on measurements of galaxy peculiar velocities (through redshift-space distortions), from which the time component of the metric is inferred, assuming that dark matter follows geodesics.
-- If this is not the case, all the proposed tests fail to measure the anisotropic stress.
-- In this letter, we propose a novel test which directly measures anisotropic stress, without relying on any assumption about the unknown dark matter.
-- Our method uses relativistic effects in the galaxy number counts to provide a direct measurement of the time component of the metric.
-- By comparing this with lensing observations our test provides a direct measurement of the anisotropic stress.
+- 提出一个新的更直接的方法 Our method uses relativistic effects in the galaxy number counts to provide a direct measurement of the time component of the metric.
 
 ##### [A Deep Learning Approach for Characterizing Major Galaxy Mergers](http://arxiv.org/abs/2102.05182) [(PDF)](http://arxiv.org/pdf/2102.05182.pdf)
 
+- #machine_learning 
 - We demonstrate a CNN-based regression model that is able to predict, for the first time, using a single image, the merger stage relative to the first perigee passage with a median error of 38.3 million years (Myrs) over a period of 400 Myrs.
 - We show that our model provides reasonable estimates on real observations, approximately matching prior estimates provided by detailed dynamical modeling.
 
@@ -966,9 +896,7 @@
 - MUSE观测：We measured flat and sometimes inverted oxygen abundance gradients in the subsystems composing NGC 1487, explained by metal mixing processes common in merging galaxies.
 - The kinematic map revealed a rotating pattern in the gas in the northern tail of the system, suggesting that the galaxy may be in the process of rebuilding a disc.
 - The gas located in the central region has larger velocity dispersion ($\sigma\approx 50$km s$^{-1}$) than the remaining regions, indicating kinematic heating, possibly owing to the ongoing interaction.
-- Similar trends were, however, not observed in the stellar velocity-dispersion map, indicating that the galaxy has not yet achieved equilibrium, and the nebular and stellar components are still kinematically decoupled.
 - Based on all our measurements and findings, and specially on the mass estimates, metallicity gradients and velocity fields of the system, we propose that NGC 1487 is the result of an ongoing merger event involving smallish dwarf galaxies within a group, in a pre-merger phase, resulting in a relic with mass and physical parameters similar to a dwarf galaxy.
-- Thus, we may be witnessing the formation of a dwarf galaxy by merging of smaller clumps at z=0.
 
 ##### [Narrowing the mass range of Fuzzy Dark Matter with Ultra-faint Dwarfs](http://arxiv.org/abs/2102.05300) [(PDF)](http://arxiv.org/pdf/2102.05300.pdf)
 
