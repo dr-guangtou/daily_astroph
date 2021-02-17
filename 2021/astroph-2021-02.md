@@ -1143,3 +1143,202 @@
 - For the first time in a radio relic, we observe a decreasing polarization fraction in the downstream region.
 	- Possibly explained by geometrical projections and/or by decreasing of the magnetic field anisotropy towards the cluster center.
 - From the amount of depolarization of the only detected background radio galaxy, we estimate a turbulent magnetic field strength of $B_{\rm turb}\sim5.6~\mu$Gauss in the relic.
+
+
+### Feb 16
+
+#### Relevant / Important / Useful
+
+##### [Probing Galaxy Bias and Intergalactic Gas Pressure with KiDS Galaxies-tSZ-CMB Lensing Cross-correlations](http://arxiv.org/abs/2102.07701) [(PDF)](http://arxiv.org/pdf/2102.07701.pdf)
+
+- #baryonic_effect #cosmology/weak_lensing 
+- KiDS x Planck; galaxy-tSZ & galaxy-CMB lensing; 5 redshift bins
+- Constrain the redshift dependence of gas pressure bias $\left\langle b_{y} P_{\mathrm{e}}\right\rangle$(bias-weighted average electron pressure), which characterises the thermodynamics of intergalactic gas
+	- With these measurements, combining galaxy-tSZ and galaxy-CMB lensing cross-correlations allows us to break the degeneracy between galaxy bias and gas pressure bias, and hence constrain them simultaneously.
+- In all redshift bins, the best-fit values of $\left\langle b_{y} P_{\mathrm{e}}\right\rangle$are at a level of $\sim 0.3 \mathrm{meV/cm^3}$and increase slightly with redshift.
+- This study demonstrates the feasibility of using CMB lensing to calibrate the galaxy distribution such that the galaxy distribution can be used as a mass proxy without relying on the precise knowledge of the matter distribution.
+
+#### Interesting / Keep in Mind
+
+##### [A re-assessment of strong line metallicity conversions in the machine learning era](http://arxiv.org/abs/2102.07058) [(PDF)](http://arxiv.org/pdf/2102.07058.pdf)
+
+- #galaxy/ism
+- 对Kewley & Ellison模型的更新
+	- First, by using a newer data release (DR7), we approximately double the number of galaxies used in polynomial fits, providing statistically improved polynomial coefficients.
+	- Second, we include in the calibration suite five additional metallicity diagnostics that have been proposed in the last decade and were not included by Kewley \& Ellison.
+	- Finally, we develop a new machine learning approach for converting between metallicity calibrations.
+- The random forest method yields the same accuracy as the (updated) polynomial conversions, but has the significant advantage that a single model can be applied over a wide range of metallicities, without the need to distinguish upper and lower branches in $R_{23}$calibrations.
+- The trained random forest is made publicly aailable for use in the community.
+
+#### Others
+
+##### [Information content in mean pairwise velocity and mean relative velocity between pairs in a triplet](http://arxiv.org/abs/2102.06709) [(PDF)](http://arxiv.org/pdf/2102.06709.pdf)
+
+- #cosmology
+- We consider the three-point mean relative velocity, i.e the mean relative velocities between pairs in a triplet.
+	- We present the three-point relative velocity as a novel probe of neutrino mass estimation.
+	- This information gain is not limited only to neutrino mass, but extends to other cosmological parameters: $\Omega_{\mathrm{m}}$, $\Omega_{\mathrm{b}}$, $h$, $n_{\mathrm{s}}$and $\sigma_{8}$achieving a gain of 8.9, 11.8, 15.5, 20.9 and 10.9 times respectively.
+
+##### [The Effects of $\Lambda$CDM Dark Matter Substructure on the Orbital Evolution of Star Clusters](http://arxiv.org/abs/2102.06711) [(PDF)](http://arxiv.org/pdf/2102.06711.pdf)
+
+- 看subhalo会不会影响星团的轨道
+	- (1) subhalos with masses less than $10^8 M_{\odot}$negligibly affect test particle orbits
+	- (2) perturbations lead to orbital deviations only in environments with substructure fractions $f_{sub} \geq 1\%$
+	- (3) perturbations from denser subhalos produce larger orbital deviations
+	- (4) subhalo perturbations that are strong relative to the background tidal field lead to larger orbital deviations.
+- Finally, we conclude that clusters that orbit within 100 kpc of Milky Way-like galaxies experience a change no greater than $2\%$in their dissolution times.
+
+##### [Deep learning approach for identification of HII regions during reionization in 21-cm observations](http://arxiv.org/abs/2102.06713) [(PDF)](http://arxiv.org/pdf/2102.06713.pdf)
+
+- #machine_learning #intensity_mapping 
+- We present SegU-Net, a stable and reliable method for identification of neutral and ionized regions in these images.
+	- It is capable of segmenting our image data into meaningful features (ionized and neutral regions) with greater accuracy compared to previous methods.
+- These summary statistics characterise the non-Gaussian nature of the reionization process.
+- [SegU-Net](https://github.com/micbia/SegU-Net)
+- [tools21cm](https://github.com/sambit-giri/tools21cm)
+
+##### [An enquiry on the origins of N-rich stars in the inner Galaxy basedon APOGEE chemical compositions](http://arxiv.org/abs/2102.06720) [(PDF)](http://arxiv.org/pdf/2102.06720.pdf)
+
+- In this paper we enquire into the origins of tracers of GC dissolution, N-rich stars, that are located in the inner 4 kpc of the Milky Way.
+- We establish that about 30% of the N-rich stars previously identified in the inner Galaxy may have an accreted origin.
+
+##### [Extremely broad Lyman-alpha line emission from the molecular intergalactic medium in Stephan's Quintet: evidence for a turbulent cascade in a highly clumpy multi-phase medium?](http://arxiv.org/abs/2102.06843) [(PDF)](http://arxiv.org/pdf/2102.06843.pdf)
+
+- HST/COS观测Stephan's Quintet: spectroscopy along five lines-of-sight, probing 1 kpc-diameter regions in the IGM, reveals very broad (~2000 km/s) and powerful Ly$\alpha$line emission with complex line shapes.
+	- These Lyman-alpha line profiles are often similar to, or sometimes much broader than line profiles obtained in H$\beta$, [CII], and CO (1-0) emission along the same lines-of-sight.
+	- 起源应该是共振散射; 有些是从低消光区域散射出来的；有些经过了吸收
+	- Scattering indicates that the neutral gas of the IGM is clumpy, with multiple clumps along a given line of sight.
+- We suggest that both shocks and mixing layers co-exist and contribute to the energy dissipation associated with a turbulent energy cascade.
+	- This may be important for the cooling of gas at higher redshifts, where the metal content is lower than in this local system, and a high amplitude of turbulence more common.
+
+##### [Testing one-loop galaxy bias: joint analysis of power spectrum and bispectrum](http://arxiv.org/abs/2102.06902) [(PDF)](http://arxiv.org/pdf/2102.06902.pdf)
+
+- A novel aspect of this work is the inclusion of nonlinear triangle configurations for the bispectrum, made possible by a complete next-to-leading order ("one-loop") description of galaxy bias, as is already common practice for the power spectrum.
+- Based on the goodness-of-fit and the unbiasedness of the parameter posteriors, we accomplish a stringent validation of this model compared to the leading order ("tree-level") bispectrum.
+- Besides, our precise measurements of galaxy bias parameters up to fourth order allow for thorough comparisons to coevolution relations, showing excellent agreement for all contributions generated by the nonlocal action of gravity.
+
+##### [An Algorithm for Reconstructing the Orphan Stream Progenitor with MilkyWay@home Volunteer Computing](http://arxiv.org/abs/2102.07257) [(PDF)](http://arxiv.org/pdf/2102.07257.pdf)
+
+- We show that the mass and radial profile of a progenitor dwarf galaxy evolved along the orbit of the Orphan Stream, including the stellar and dark matter components, can be reconstructed from the distribution of stars in the tidal stream it produced.
+- The parameters are recovered even though the dark matter component extends well past the half light radius of the dwarf galaxy progenitor, proving that we are able to extract information about the dark matter halos of dwarf galaxies from the tidal debris.
+- This method can be used to estimate the dark matter content in dwarf galaxies without the assumption of virial equilibrium that is required to estimate the mass using line-of-sight velocities.
+
+##### [Observing the Time Evolution of the Multi-Component Nucleus of 3C\,84](http://arxiv.org/abs/2102.07272) [(PDF)](http://arxiv.org/pdf/2102.07272.pdf)
+
+- M 87 and 3C 84 jet base的VLBI观测: jet bases are extremely wide compared to expectations and the nucleus of 3C 84 is very complicated.
+- We estimate that the observed mildly relativistic speed persists over a de-projected distance of $\sim 1900-9800$times the central, supermassive black hole, gravitational radius ($\sim 0.3-1.5$lt-yrs) from the point of origin.
+
+##### [Calibrating X-ray binary luminosity functions via optical reconnaissance I. The case of M83](http://arxiv.org/abs/2102.07293) [(PDF)](http://arxiv.org/pdf/2102.07293.pdf)
+
+- We utilize multi-band Hubble Space Telescope imaging data to classify each Chandra-detected compact X-ray source as a low-mass (i.e donor mass <~ 3 solar masses), high-mass (donor mass >~ 8 solar masses) or intermediate-mass XRB based on either the location of its candidate counterpart on optical color-magnitude diagrams or the age of its host star cluster.
+	- We identify a marginally significant (at the 1-to-2 sigma level) exponential downturn for the high-mass XRB XLF, at logLx ~ 38.48^{+0.52}_{-0.33} (in log CGS units).
+	- In contrast, the low- and intermediate-mass XRB XLFs, as well as the total XLF of M83, are formally consistent with sampling statistics from a single power-law.
+- Our method suggests a non-negligible contribution from low- and possibly intermediate-mass XRBs to the total XRB XLF of M83, i.e between 20 and 50%, in broad agreement with X-ray based XLFs.
+- More generally, we caution against considerable contamination from X-ray emitting supernova remnants to the published, X-ray based XLFs of M83, and possibly all actively star-forming galaxies.
+
+##### [A Systematic Survey for z < 0.04 Changing-Look AGNs](http://arxiv.org/abs/2102.07351) [(PDF)](http://arxiv.org/pdf/2102.07351.pdf)
+
+- We have conducted a systematic survey for z $<$0.04 active Galactic nuclei (AGNs) that may have changed spectral class over the past decade.
+	- We have identified four AGNs with varying spectra selected using our optical colour selection method.
+	- Three AGNs were confirmed from recent observations with WiFeS on the 2.3 m telescope at Siding Spring and the other was identified from archival spectra alone.
+- From this, we identify two new changing look AGNs; NGC 1346 and 2MASX J20075129-1108346.
+	- We also recover Mrk 915 and Mrk 609, which are known to have varying spectra in the literature, but they do not meet our specific criteria for changing look AGNs.
+
+### Feb 17
+
+#### Relevant / Important / Useful
+
+##### [The Diverse Molecular Gas Content of Massive Galaxies Undergoing Quenching at z~1](http://arxiv.org/abs/2102.07881) [(PDF)](http://arxiv.org/pdf/2102.07881.pdf)
+
+- #galaxy/high-z #galaxy/massive #galaxy/quenching 
+- Three massive galaxies at 1 < z < 1.3 that are in different stages of quenching; selected to have a quiescent optical/near-infrared spectral energy distribution and a relatively bright emission at 24 micron
+	- CO emission from each of the three galaxies is detected in deep NOEMA observations, allowing us to derive molecular gas fractions Mgas/Mstar of 13-23%.
+	- SFH和可能的quenching速度差别很大
+	- Depletion时标的估计非常依赖于所用的SFR tracer
+- When adopting the star formation rates from spectral fitting, which are arguably more robust, we find that recently quenched galaxies and star-forming galaxies have similar depletion times, while older quiescent systems have longer depletion times.
+
+#### Interesting / Keep in Mind
+
+##### [Infrared Echoes of Optical Tidal Disruption Events: ~1% Dust Covering Factor or Less at sub-parsec Scale](http://arxiv.org/abs/2102.08044) [(PDF)](http://arxiv.org/pdf/2102.08044.pdf)
+
+- #tidal_disruption_event 
+- To this end, we have conducted a statistical study of IR variability of the 23 optical TDEs discovered between 2009 and 2018 utilizing the full public dataset of Wide-field Infrared Survey Explorer.
+- Their peak dust luminosity is around $10^{41}$-$10^{42}$erg/s, corresponding to a dust covering factor $f_c\sim0.01$at scale of sub-parsec.
+	- The only exception is the disputed source ASASSN-15lh, which shows an ultra-high dust luminosity ($\sim10^{43.5}$erg/s) and make its nature even elusive.
+- The derived $f_c$is generally much smaller than those of dusty tori in active galactic nuclei (AGNs), suggesting either a dearth of dust or a geometrically thin and flat disk in the vicinity of SMBHs.
+- 现有光学探测到的TDE可能主要反映了尘埃较少的SF星系
+
+##### [Hunting for intermediate-mass black holes in globular clusters: an astrometric study of NGC 6441](http://arxiv.org/abs/2102.07782) [(PDF)](http://arxiv.org/pdf/2102.07782.pdf)
+
+- We present an astrometric study of the proper motions (PMs) in the core of the globular cluster NGC 6441.
+	- In the innermost arcsecond of the cluster, we measure a velocity dispersion of (19.1 $\pm$2.0) km s$^{-1}$for evolved stars.
+- We find an upper limit of $M_{\rm IMBH} < 1.32 \times 10^4 \textrm{M}_\odot$but we can neither confirm nor rule out its presence.
+- Although the hunt for an IMBH in NGC 6441 is not yet concluded, our results show how future observations with extremely-large telescopes will benefit from the long temporal baseline offered by existing high-angular-resolution data.
+
+##### [Mind the gap: the power of combining photometric surveys with intensity mapping](http://arxiv.org/abs/2102.08116) [(PDF)](http://arxiv.org/pdf/2102.08116.pdf)
+
+- #intensity_mapping 
+- We consider supplementing the 21-cm data at two different redshifts with a spectroscopic sample (good radial resolution but low number density) loosely modeled on DESI-ELG at $z=1$and a photometric sample (high number density but poor radial resolution) similar to LSST sample at $z=1$and $z=4$respectively.
+- We find that both the galaxy samples are able to reconstruct the largest modes better than only using 21-cm data, with the spectroscopic sample performing significantly better than the photometric sample despite much lower number density.
+
+#### Others
+
+##### [A tentative emission line at z=5.8 from a 3mm-selected galaxy](http://arxiv.org/abs/2102.07772) [(PDF)](http://arxiv.org/pdf/2102.07772.pdf)
+
+- #galaxy/high-z
+- I report a tentative ($\sim4\sigma$) emission line at $\nu=100.84 $GHz from "COS-3mm-1'", a 3mm-selected galaxy reported by Williams et al 2019 that is undetected at optical and near infrared wavelengths.
+- Assuming the line corresponds to the $\rm CO(6\to5)$transition, this tentative detection implies a spectroscopic redshift of $z=5.857$, in agreement with the galaxy's redshift constraints from multi-wavelength photometry.
+- This would make this object the highest redshift 3mm-selected galaxy and one of the highest redshift dusty star-forming galaxies known to-date.
+- Interestingly, “MAMBO-9”, another DSFGs ∼ 0.5 deg away from the source studied in this work (equivalent to around 10 Mpc), lies at z = 5.850 (Casey et al. 2019). The confirmation of more galaxies with similar redshifts within this region of the sky might imply the existence of a large-scale galaxy proto-cluster structure.
+
+##### [New Determinations of the UV Luminosity Functions from z~9 to z~2 show a remarkable consistency with halo growth and a constant star formation efficiency](http://arxiv.org/abs/2102.07775) [(PDF)](http://arxiv.org/pdf/2102.07775.pdf)
+
+- #galaxy/high-z
+- Here we provide the most comprehensive determinations of the rest-frame $UV$LF available to date with HST at z~2, 3, 4, 5, 6, 7, 8, and 9. 目前样本最大的统计工作
+	- 5766, 6332, 7240, 3449, 1066, 601, 246, and 33 sources are identified at z~2, 3, 4, 5, 6, 7, 8, and 9, respectively.
+- Combining our results with an earlier z~10 LF determination by Oesch+2018a, we quantify the evolution of the $UV$LF.
+	- (1) a smooth flattening of the faint-end slope alpha from alpha~-2.4 at z~10 to -1.5 at z~2
+	- (2) minimal evolution in the characteristic luminosity M* at z>~2.5
+	- (3) a monotonic increase in the normalization log_10 phi* from z~10 to z~2, which can be well described by a simple second-order polynomial, consistent with an "accelerated" evolution scenario.
+- We find that each of these trends (from z~10 to z~2.5 at least) can be readily explained on the basis of the evolution of the halo mass function and a simple constant star formation efficiency model.
+
+##### [The X-SHOOTER Lyman-$\alpha$ survey at z=2 (XLS-z2) I: the panchromatic spectrum of typical Lyman-$\alpha$ emitters](http://arxiv.org/abs/2102.07779) [(PDF)](http://arxiv.org/pdf/2102.07779.pdf)
+
+- #galaxy/lae #galaxy/high-z
+- XLS-$z2$is a deep spectroscopic survey of 35 Lyman-$\alpha$emitters (LAEs) utilising $\approx90$hours of exposure time with VLT/X-SHOOTER and covers rest-frame Ly$\alpha$to H$\alpha$emission with R$\approx4000$.
+	- LAE平均光谱性质：ISM中缺少尘埃；低金属丰度；高电离
+	- Clumpy UV morphologies and have outflowing kinematics with blue-shifted SiII absorption, a broad [OIII] component and a red-skewed Ly$\alpha$line.
+- Typically 30 % of the Ly$\alpha$ photons escape, of which one quarter on the blue side of the systemic velocity.
+- A fraction of Ly$\alpha$ photons escapes directly at the systemic suggesting clear channels enabling a $\approx10$% escape of ionising photons, consistent with an inference based on MgII.
+
+##### [Connecting X-ray nuclear winds with galaxy-scale ionised outflows in two $z\sim1.5$ lensed quasars](http://arxiv.org/abs/2102.07789) [(PDF)](http://arxiv.org/pdf/2102.07789.pdf)
+
+- This work addresses these questions by studying the link between X-ray, nuclear ultra-fast outflows (UFOs) and extended ionised outflows, for the first time in two quasars close to the peak of AGN activity ($z\sim2$), where AGN feedback is expected to be more effective.
+	- We selected two multiple-lensed quasars at $z\sim1.5$, HS 0810+2554 and SDSS J1353+1138, known to host UFOs
+	- We detected spatially resolved ionised outflows in both galaxies, extended more than 8 kpc and moving up to $v>2000$km/s.
+- Comparing with the co-hosted UFO energetics, the ionised outflow energetics in HS 0810+2554 is broadly consistent with a momentum-driven regime of wind propagation, while in SDSS J1353+1138 it differs by a factor of $\sim$100 from theoretical predictions, requiring either a massive molecular outflow or a high variability of the AGN activity to account for such a discrepancy.
+- We found that in 10 out of 12 galaxies the large-scale outflow energetics is consistent with the theoretical predictions of either a momentum- or an energy-driven scenario.
+
+##### [Resolving a dusty, star-forming SHiZELS galaxy at z=2.2 with HST, ALMA and SINFONI on kiloparsec scales](http://arxiv.org/abs/2102.07791) [(PDF)](http://arxiv.org/pdf/2102.07791.pdf)
+
+- #galaxy/high-z
+- We present ~0.15'' spatial resolution imaging of SHiZELS-14, a massive (M*~10^11 M_sol), dusty, star-forming galaxy at z=2.24. SHiZELS-14 displays a compact, dusty central starburst, as well as extended emission in $\rm{H}\alpha$and the rest-frame optical and FIR.
+- The UV emission is spatially offset from the peak of the dust continuum emission, and appears to trace holes in the dust distribution.
+- We find that the dust attenuation varies across the spatial extent of the galaxy, reaching a peak of at least A_H-alpha~5 in the most dusty regions, although the extinction in the central starburst is likely to be much higher.
+- Global star-formation rates inferred using standard calibrations for the different tracers vary from ~10-1000 M_sol/yr, and are particularly discrepant in the galaxy's dusty centre.
+- This galaxy highlights the biased view of the evolution of star-forming galaxies provided by shorter wavelength data.
+
+##### [On the Challenges of Cosmic-Ray Proton Shock Acceleration in the Intracluster Medium](http://arxiv.org/abs/2102.08059) [(PDF)](http://arxiv.org/pdf/2102.08059.pdf)
+
+- #cluster/icm
+- Missing $\gamma$-ray problem: a sign of cosmic-ray protons, in form of $\gamma$-rays remains undetected.
+	- It directly challenges the shock acceleration mechanism at work in the ICM.
+- These new models are able to predict a $\gamma$-ray signal, produced by shock accelerated cosmic-ray protons, below the detection limits set modern $\gamma$-ray observatories.
+
+##### [Fanaroff-Riley classification of radio galaxies using group-equivariant convolutional neural networks](http://arxiv.org/abs/2102.08252) [(PDF)](http://arxiv.org/pdf/2102.08252.pdf)
+
+- #machine_learning 
+- For the classification of astronomical objects such as radio galaxies, which are expected statistically to be globally orientation invariant, this lack of dihedral equivariance means that a conventional CNN must learn explicitly to classify all rotated versions of a particular type of object individually.
+	- We present the first application of group-equivariant convolutional neural networks to radio galaxy classification and explore their potential for reducing intra-class variability by preserving equivariance for the Euclidean group E(2), containing translations, rotations and reflections.
+- For the radio galaxy classification problem considered here, we find that classification performance is modestly improved by the use of both cyclic and dihedral models without additional hyper-parameter tuning, and that a D16 equivariant model provides the best test performance.
+- We use the Monte Carlo Dropout method as a Bayesian approximation to recover epistemic uncertainty as a function of image orientation and show that E(2)-equivariant models are able to reduce variations in model confidence as a function of rotation.
