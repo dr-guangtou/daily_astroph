@@ -1342,3 +1342,352 @@
 	- We present the first application of group-equivariant convolutional neural networks to radio galaxy classification and explore their potential for reducing intra-class variability by preserving equivariance for the Euclidean group E(2), containing translations, rotations and reflections.
 - For the radio galaxy classification problem considered here, we find that classification performance is modestly improved by the use of both cyclic and dihedral models without additional hyper-parameter tuning, and that a D16 equivariant model provides the best test performance.
 - We use the Monte Carlo Dropout method as a Bayesian approximation to recover epistemic uncertainty as a function of image orientation and show that E(2)-equivariant models are able to reduce variations in model confidence as a function of rotation.
+
+### Feb 18
+
+#### Relevant / Important / Useful
+
+##### [Euclid: Effect of sample covariance on the number counts of galaxy clusters](http://arxiv.org/abs/2102.08914) [(PDF)](http://arxiv.org/pdf/2102.08914.pdf)
+
+- #cluster/cosmology 
+- We investigate the contribution of shot-noise and sample variance to the uncertainty of cosmological parameter constraints inferred from cluster number counts in the context of the Euclid survey.
+- By analysing 1000 Euclid-like light-cones, produced with the PINOCCHIO approximate method, we validate the analytical model of Hu & Kravtsov 2003 for the covariance matrix, which takes into account both sources of statistical error.
+- The analytical covariance matrix reproduces the variance measured from simulations within the 10 per cent level; such difference has no sizeable effect on the error of cosmological parameter constraints at this level of statistics.
+- Also, we find that the Gaussian likelihood with cosmology-dependent covariance is the only model that provides an unbiased inference of cosmological parameters without underestimating the errors.
+
+#### Interesting / Keep in Mind
+
+##### [Figuring Out Gas & Galaxies In Enzo (FOGGIE) V: The Virial Temperature Does Not Describe Gas in a Virialized Galaxy Halo](http://arxiv.org/abs/2102.08393) [(PDF)](http://arxiv.org/pdf/2102.08393.pdf)
+
+- #galaxy/cgm #galaxy/simulation 
+- FOGGIE halos have $\sim 2\times$ lower bulk temperatures than expected from a classical virial equilibrium, owing to significant non-thermal kinetic energy that is formally excluded from the definition of $T_\mathrm{vir}$. 即便处在平衡态里，Virial温度也不能描述halo
+- We derive a modified virial temperature explicitly including non-thermal gas motions that provides a more accurate description of gas temperatures for simulated halos in virial equilibrium.
+- Compared to the standard virial temperature, the cooler modified virial temperature implies other effects on halo gas: (i) the thermal gas pressure is lower, (ii) radiative cooling is more efficient, (iii) O VI absorbing gas that traces the virial temperature may be prevalent in halos of a higher mass than expected, (iv) gas mass estimates from X-ray surface brightness profiles may be incorrect, and (v) turbulent motions make an important contribution to the energy balance of a galaxy halo.
+
+##### [Galaxy Zoo DECaLS: Detailed Visual Morphology Measurements from Volunteers and Deep Learning for 314,000 Galaxies](http://arxiv.org/abs/2102.08414) [(PDF)](http://arxiv.org/pdf/2102.08414.pdf)
+
+- #galaxy/morphology #survey/decals
+- Galaxy Zoo DECaLS:  140,000 galaxies receive at least 30 classifications, sufficient to accurately measure detailed morphology like bars, and the remainder receive approximately 5.
+- All classifications are used to train an ensemble of Bayesian convolutional neural networks to predict posteriors for the detailed morphology of all 314,000 galaxies.
+
+##### [Testing the Turbulent Origin of the Stellar Initial Mass Function](http://arxiv.org/abs/2102.08564) [(PDF)](http://arxiv.org/pdf/2102.08564.pdf)
+
+- #initial_mass_function 
+- We test three turbulence-based IMF models (by Padoan & Nordlund 2002, Hennebelle & Chabrier 2008, and Hopkins 2012), which predict the relation between the high-mass slope ($\Gamma$) of the IMF, $\mathrm{d} N/\mathrm{d} \log M \propto M^{\Gamma}$and the exponent n of the velocity power spectrum of turbulence, $E_v(k)\propto k^{-n} $, where $n\approx 2$corresponds to typical ISM turbulence.
+- Using hydrodynamic simulations, we drive turbulence with an unusual index of $n\approx 1$, measure $\Gamma$, and compare the results with $n\approx 2$.
+- We conclude that turbulence plays a key role in shaping the IMF, with a shallower turbulence power spectrum producing a shallower high-mass IMF, and hence more massive stars.
+
+##### [An Accurate P$^{3}$M Algorithm for Gravitational Lensing Studies in Simulations](http://arxiv.org/abs/2102.08629) [(PDF)](http://arxiv.org/pdf/2102.08629.pdf)
+
+- #cosmology #simulation 
+- We present a two-dimensional (2D) Particle-Particle-Particle-Mesh (P$^3$M) algorithm with an optimized Green function and adaptive softening length for gravitational lensing studies in N-Body simulations.
+- Our method is two orders of magnitude more accurate than the simple PM algorithm with the {\it poor man's} Green function ($\propto1/k^2$) at a scale of a few mesh cells or smaller.
+- The Poisson noise can be suppressed by smoothing out the particle distribution, which can be achieved by simply choosing an adaptive softening length in the PP calculation.
+- We provide a \textsc{python} implementation \texttt{P3Mlens} for this algorithm.
+
+#### Others
+
+##### [A Comparison of Circumgalactic MgII Absorption between the TNG50 Simulation and the MEGAFLOW Survey](http://arxiv.org/abs/2102.08383) [(PDF)](http://arxiv.org/pdf/2102.08383.pdf)
+
+- #galaxy/cgm #galaxy/simulation 
+- TNG50; CGM around star-forming galaxies in $10^{11.5}-10^{12}\;M_{\odot}$ halos at $z\simeq1$:
+	- MgII gas is a very good tracer of the cold CGM, which is accreting inwards at an inflow velocity of $\sim$50 km s$^{-1}$.
+	- For sightlines aligned with the galaxy's major axis, we find that MgII absorption lines are kinematically shifted due to the cold CGM's significant corotation
+- MgII absorption in higher-mass halos is stronger and broader than in lower-mass halos but has qualitatively similar kinematics.
+
+##### [Beyond Yamamoto: Anisotropic Power Spectra and Correlation Functions with Pairwise Lines-of-Sight](http://arxiv.org/abs/2102.08384) [(PDF)](http://arxiv.org/pdf/2102.08384.pdf)
+
+- #cosmology
+- Conventional estimators of the anisotropic power spectrum and two-point correlation function (2PCF) adopt the 'Yamamoto approximation', fixing the line-of-sight of a pair of galaxies to that of just one of its members.
+- Whilst this is accurate only to first-order in the characteristic opening angle $\theta_\max$, it allows for efficient implementation via Fast Fourier Transforms (FFTs).
+- Using newly derived infinite series expansions for spherical harmonics and Legendre polynomials, we construct estimators accurate to arbitrary order in $\theta_\max$, though note that the midpoint and bisector formalisms themselves differ at fourth order.
+
+##### [Tree-ring structure of Galactic bar resonance](http://arxiv.org/abs/2102.08388) [(PDF)](http://arxiv.org/pdf/2102.08388.pdf)
+
+- Galaxy models have long predicted that galactic bars slow down by losing angular momentum to their postulated dark haloes.
+- The slow-down of the bar thus results in a rising mean metallicity of trapped stars from the surface towards the centre of the resonance as the Galaxy's metallicity declines towards large radii.
+- This argument, when applied to Solar neighbourhood stars, allows a novel precision measurement of the bar's current pattern speed $\Omega_p = 35.5 \pm 0.8$km/s/kpc, placing the corotation radius at $R_{CR} = 6.6 \pm 0.2$kpc.
+	- With this pattern speed, the corotation resonance precisely fits the Hercules stream in agreement with kinematics.
+- 这个测量也显示了bar的减速，说明正在把能量传入暗物质晕
+
+##### [Near-Infrared Coronal Line Observations of Dwarf Galaxies hosting AGN-driven Outflows](http://arxiv.org/abs/2102.08397) [(PDF)](http://arxiv.org/pdf/2102.08397.pdf)
+
+- #galaxy/dwarf #galaxy/agn
+- We have obtained Keck NIR spectroscopy of a sample of nine M$_\star$$<$10$^{10}$M$_\odot$ dwarf galaxies to confirm AGN activity and the presence of galaxy-wide, AGN-driven outflows through coronal line (CL) emission.
+	- We find strong CL detections in 5/9 galaxies (55$\%$) with line ratios incompatible with shocks, confirming the presence of AGN in these galaxies.
+- [Si VI]气体的外流速度比[OIII]快; The galaxies with the fastest outflows seen in [O III] also have the highest [Si VI] luminosity.
+- The lack of $J$-band CN absorption features, which are often associated with younger stellar populations, provides further evidence that these outflows are driven by AGN in low mass galaxies.
+
+##### [Extreme r-process enhanced stars at high metallicity in Fornax](http://arxiv.org/abs/2102.08399) [(PDF)](http://arxiv.org/pdf/2102.08399.pdf)
+
+- Fornax dSph中有一些 extreme Eu enrichment at high metallicities 的恒星
+	- 找到了 three metal-rich stars in Fornax showing a pure r-process pattern
+- We define a new class of stars, namely Eu-stars, as r-II stars (i.e, [Eu/Fe]$>1$) at high metallicities (i.e, $\mathrm{[Fe/H]}\gtrsim -1.5$).
+	- The stellar abundance pattern contains Lu, observed for the first time in a dwarf galaxy, and reveals that a late burst of star formation has facilitated extreme r-process enhancement late in the galaxy's history ($<4$Gyr ago).
+
+##### [Smoothed Particle Radiation Hydrodynamics: Two-Moment method with Local Eddington Tensor Closure](http://arxiv.org/abs/2102.08404) [(PDF)](http://arxiv.org/pdf/2102.08404.pdf)
+
+- #galaxy/simulation 
+- SWIFT模拟框架: a new radiative transfer method (SPH-M1RT) that is coupled dynamically with smoothed particle hydrodynamics (SPH).
+	- Our moment-based method simultaneously solves the radiation energy and flux equations in SPH, making it adaptive in space and time.
+- The computational cost of our method is independent of the number of sources and can be lowered using the reduced speed of light approximation.
+- We demonstrate the robustness of our method by applying it to a set of standard tests from the cosmological radiative transfer comparison project of Iliev et al The SPH-M1RT scheme is well-suited for modelling situations in which numerous sources emit ionising radiation, such as cosmological simulations of galaxy formation or simulations of the interstellar medium.
+
+##### [Spectral Signatures of Population III and Envelope-stripped Stars in Galaxies at the Epoch of Reionization](http://arxiv.org/abs/2102.08408) [(PDF)](http://arxiv.org/pdf/2102.08408.pdf)
+
+- 再电离时期，双星对电离光子的贡献可以很显著，尤其是来自stripped stars的 which have their envelopes stripped from interactions with binary companions, leaving an exposed helium core. 甚至可能主导高红移低光度星系中的LyC光子; 
+- We find that stripped stars significantly alter the SEDs in the LyC range of galaxies at the epoch of reionization.
+	- SEDs in galaxies with stripped stars present have lower power-law indices in the LyC range and lower FUV to LyC luminosity ratios.
+- We also find that SEDs of galaxies with stripped stars and Pop III stars are distinct from each other for all tested IMFs.
+
+##### [What Makes Quadruply Lensed Quasars Quadruple?](http://arxiv.org/abs/2102.08470) [(PDF)](http://arxiv.org/pdf/2102.08470.pdf)
+
+- #strong_lensing 
+- The projected flattening of the lensing galaxy and tides from neighboring galaxies both contribute to the potential's quadrupole.
+- The position of the lensing galaxy resolves the distinct contributions of intrinsic ellipticity and tidal shear to that quadrupole.
+	- Among 31 quadruply lensed quasars systems with statistically significant decompositions, 15 are either reliably ($2\sigma$) or provisionally ($1\sigma$) shear-dominated and 11 are either reliably or provisionally ellipticity-dominated.
+- This observational result is strongly at variance with the ellipticity-dominated forecast of Oguri & Marshall (2010).
+
+##### [The Case for Thermalization as a Contributor to the [CII] Deficit](http://arxiv.org/abs/2102.08865) [(PDF)](http://arxiv.org/pdf/2102.08865.pdf)
+
+- [CII]/FIR比例岁SFR密度下降; KINGFISH + BtP (Beyond the Peak)
+- By comparing these subdivided [CII] emissions to isolated infrared emission and other properties, we find that the thermalization (collisional de-excitation) of the [CII] line in HII regions plays a significant role in the deficit observed in our sample.
+
+### Feb 19
+
+#### Relevant / Important / Useful
+
+##### [Reconstructing features in the primordial power spectrum](http://arxiv.org/abs/2102.09007) [(PDF)](http://arxiv.org/pdf/2102.09007.pdf)
+
+- #cosmology #ssst_cos 
+- 原初功率谱中的特征可能很弱；而且在z=0的小尺度上也很难被探测到; 可能的解决途径：using reconstruction to obtain an approximate linear density field.
+- We do a Fisher analysis to forecast how reconstruction affects the constraining power, and find that it can lead to significantly more robust constraints on the oscillation amplitude for a DESI-like survey.
+
+##### [When is tension just a fluctuation? How noisy data affects model comparison](http://arxiv.org/abs/2102.09547) [(PDF)](http://arxiv.org/pdf/2102.09547.pdf)
+
+- #statistics
+- Summary statistics of the likelihood, such as the Bayesian evidence, offer a principled way of comparing models and assessing tension between, or within, the results of physical experiments.
+- Noisy realisations of the data induce scatter in these model comparison statistics.
+- For a realistic case of cosmological inference from large-scale structure we show that the logarithm of the Bayes factor attains scatter of order unity, increasing significantly with stronger tension between the models under comparison.
+- We develop an approximate procedure that quantifies the sampling distribution of the evidence at small additional computational cost and apply it to real data to demonstrate the impact of the scatter, which acts to reduce the significance of any model discrepancies.
+- Data compression is highlighted as a potential avenue to suppressing noise in the evidence to negligible levels, with a proof of concept on Planck cosmic microwave background data.
+
+#### Interesting / Keep in Mind
+
+##### [Good and Proper: Self-similarity of N-body Simulations with Proper Force Softening](http://arxiv.org/abs/2102.08972) [(PDF)](http://arxiv.org/pdf/2102.08972.pdf)
+
+- #simulation #cosmology/simulation 
+- We examine how the range of scales in which the two-point correlation function is converged depends on the force softening length and whether it is held constant in comoving or proper coordinates.
+	- We find that a proper softening that reaches roughly 1/30th of the inter-particle spacing by the end of the simulation resolves the same spatial and temporal scales as a comoving softening of the same length while using a third fewer time steps, for a range of scale factors typical to $\Lambda$CDM simulations.
+- We additionally infer an inherent resolution limit, set by the particle mass and scaling as $a^{-1/2}$, beyond which reducing the softening does not improve the resolution.
+
+##### [The LOFAR LBA Sky Survey I. survey description and preliminary data release](http://arxiv.org/abs/2102.09238) [(PDF)](http://arxiv.org/pdf/2102.09238.pdf)
+
+- #survey/lofar
+- The LOFAR LBA Sky Survey (LoLSS) aims to cover the entire northern sky with 3170 pointings in the frequency range 42-66 MHz, at a resolution of 15 arcsec and at a sensitivity of 1 mJy/b.
+- The preliminary data release covers 740 sqdeg around the HETDEX spring field region at a resolution of 47" with a median noise level of 5 mJy/b.
+	- The images and the catalogue with 25,247 sources are publicly released.
+- LoLSS will provide the ultra-low-frequency information for hundreds of thousands of radio sources, providing critical spectral information and producing a unique dataset that can be used for a wide range of science topics such as: the search for high redshift galaxies and quasars, the study of the magnetosphere of exo
+
+##### [Jeans modeling of axisymmetric galaxies with multiple stellar populations](http://arxiv.org/abs/2102.09440) [(PDF)](http://arxiv.org/pdf/2102.09440.pdf)
+
+- #galaxy/kinematic 
+- JASMINE2, a code designed to efficiently solve the Jeans equations for multi-component axisymmetric stellar systems.
+- The models may include an arbitrary number of stellar distributions, a dark matter halo, and a central supermassive black hole; each stellar distribution is implicitly described by a two-integral distribution function, and the stellar components can have different structural (density profile, flattening, mass,scale-length), dynamical (rotation, velocity dispersion anisotropy), and population (age, metallicity, initial mass function, mass-to-light ratio) properties.
+- For illustrative purposes, we present three multi-component galaxy models with a central black hole and a dark matter halo; one of the models is also used to test JASMINE2 against available analytical solutions.planets, and the detection of the oldest populations of cosmic-rays in galaxies, clusters of galaxies, and from AGN activity.
+
+#### Others
+
+##### [Dust temperature in ALMA $\hbox{[C $\scriptstyle\rm II $]}$-detected high-$z$ galaxies](http://arxiv.org/abs/2102.08950) [(PDF)](http://arxiv.org/pdf/2102.08950.pdf)
+
+- #galaxy/high-z
+- 高红移星系尘埃质量估计往往需要假设尘埃温度，有较大误差
+- To overcome observations limitations, we introduce a new method that combines dust continuum information with the overlying $\hbox{[C $\scriptstyle\rm II $]} 158\mu$m line emission.
+- By breaking the $M_{\rm d} - T_{\rm d, SED}$degeneracy, with our method, we can reliably constrain the dust temperature with a single observation at $158\mu$m.
+- We also provide a physical interpretation of the empirical relation recently found between $molecular$gas mass and $\hbox{[C $\scriptstyle\rm II $]}$luminosity.
+	- We derive an analogous relation linking the $total$gas surface density and $\hbox{[C $\scriptstyle\rm II $]}$surface brightness.
+- By combining the two, we predict the cosmic evolution of the surface density ratio $\Sigma_{\rm H_2} / \Sigma_{\rm gas}$.
+
+##### [The jet collimation profile at high resolution in BL Lacertae](http://arxiv.org/abs/2102.08952) [(PDF)](http://arxiv.org/pdf/2102.08952.pdf)
+
+- We collect 86GHz GMVA and 43GHz VLBA data to obtain stacked images that we use to infer the jet collimation profile by means of two comparable methods.
+- We found that the jet in BL Lac expands with an overall conical geometry.
+	- A higher expanding rate region is observed between ~5 and 10 pc (de-projected) from the black hole.
+
+##### [Weighing the Galactic disk using phase-space spirals I: Tests on one-dimensional simulations](http://arxiv.org/abs/2102.08955) [(PDF)](http://arxiv.org/pdf/2102.08955.pdf)
+
+- #gaia
+- We present a new method for inferring the gravitational potential of the Galactic disk, using the time-varying structure of a phase-space spiral in the $(z,w)$-plane (where $z$and $w$represent vertical position and vertical velocity).
+- Our method consists of fitting an analytical model for the phase-space spiral to data, where the spiral is seen as a perturbation of the stellar number density in the $(z,w)$-plane.
+
+##### [Infrared emission of $z \sim 6$ galaxies: AGN imprints](http://arxiv.org/abs/2102.08956) [(PDF)](http://arxiv.org/pdf/2102.08956.pdf)
+
+- #galaxy/high-z
+- We investigate the infrared (IR) emission of high-redshift ($z\sim 6$), highly star-forming (${ {\rm SFR} > 100}$$M_{\rm \odot} {\rm yr}^{-1}$) galaxies, with/without Active Galactic Nuclei (AGN), using a suite of cosmological simulations featuring dust radiative transfer.
+- The AGN boosts the MIR flux by ${10-100 \times}$with respect to star forming galaxies, without significantly affecting the FIR.
+- The MIR-to-FIR flux ratio of faint (${M_{\rm UV}\sim -24}$) AGN is ${>10\times}$higher than for normal star forming galaxies.
+
+##### [Non-universality of the mass function: dependence on the growth rate and power spectrum shape](http://arxiv.org/abs/2102.08958) [(PDF)](http://arxiv.org/pdf/2102.08958.pdf)
+
+- #cosmology
+- We carry out cosmological N-body simulations where we systematically vary growth history at a fixed linear density field, or vary the power spectrum shape at a fixed growth history.
+	- We show that the halo mass function generically depends on these quantities, thus showing a clear signal of non-universality.
+- Most of this effect can be traced back to the way in which the same linear fluctuation grows differently into the nonlinear regime depending on details of its assembly history.
+	- With these results, we propose a parameterization with explicit dependence on the linear growth rate and power spectrum shape.
+- We employ this tool to improve the accuracy of so-called cosmology-rescaling methods and show they can deliver 2% accurate predictions for the halo mass function over the whole range of currently viable cosmologies.
+
+##### [X-raying the galaxy pair Arp 41: no collision in NGC 1232 and three ultraluminous sources in NGC 1232A](http://arxiv.org/abs/2102.08961) [(PDF)](http://arxiv.org/pdf/2102.08961.pdf)
+
+- We studied the apparent galaxy pair NGC 1232 / NGC 1232A with Chandra, looking for evidence of interactions and collisions.
+- We report that there is no cloud of diffuse emission in NGC 1232, contrary to previous claims in the literature.
+- Instead, we find that the small "companion" galaxy NGC 1232A contains three ultraluminous X-ray sources (ULXs) with peak 0.3-10 keV luminosities above 10^{40} erg/s (assuming a cosmological distance of 93 Mpc for this galaxy).
+
+##### [Statistical strong lensing. I. Constraints on the inner structure of galaxies from samples of a thousand lenses](http://arxiv.org/abs/2102.08973) [(PDF)](http://arxiv.org/pdf/2102.08973.pdf)
+
+- #strong_lensing 
+- We investigate to what extent we can calibrate stellar mass measurements and constrain the average dark matter density profile of galaxies by statistically combining strong lensing data from thousands of lenses.
+- The average $\alpha_{sps}$, projected dark matter mass and dark matter density slope can be obtained with great precision and accuracy, compared with current constraints.
+
+##### [Type Ia Host Bias is Robust Across Different Observation Methods and Fitting Techniques](http://arxiv.org/abs/2102.08980) [(PDF)](http://arxiv.org/pdf/2102.08980.pdf)
+
+- Brighter Type Ia supernovae (SNe Ia) prefer less massive host galaxies and regions of higher star formation.
+- Using the PISCO IFS sample of SN host galaxies alongside SDSS, GALEX, and 2MASS photometry, we compared host galaxy stellar mass and star formation rate (SFR) estimates using different observation methods and fitting techniques. 讨论了不同方法和程序得到的恒星质量和SFR
+- Observation method and fitting technique had little influence on host bias detection.
+
+##### [QSO photometric redshifts using machine learning and neural networks](http://arxiv.org/abs/2102.09177) [(PDF)](http://arxiv.org/pdf/2102.09177.pdf)
+
+- #machine_learning 
+- Here we compare the accuracy of the predicted photometric redshifts obtained from Deep Learning(DL) with the k-Nearest Neighbour (kNN) and the Decision Tree Regression (DTR) algorithms.
+- Our DL method, which uses an easy to implement off-the-shelf algorithm with no filtering nor removal of outliers, performs similarly to other, more complex, algorithms, resulting in an accuracy of {\Delta}z < 0.1$up to z ~ 2.5.
+
+##### [The Diverse Morphology, Stellar Population, and Black Hole Scaling Relations of the Host Galaxies of Nearby Quasars](http://arxiv.org/abs/2102.09190) [(PDF)](http://arxiv.org/pdf/2102.09190.pdf)
+
+- 35个地红一PG QSO的HST图像细致，多波段成像分解
+	- Roughly half of the sample, comprising the less luminous ($L_{5100} \lesssim 10^{45} \mathrm{erg s^{-1}}$) but most high Eddington ratio quasars, reside in disk galaxies that are often barred and possess pseudo bulges.
+	- The large stellar masses, large effective radii, and faint surface brightnesses suggest that the host galaxies of the most luminous quasars are mostly ellipticals.
+- Hosts with black holes more massive than $\sim 10^8 M_\odot$behave similarly to classical bulges and early-type galaxies, while those with less massive black holes, particular the narrow-line Seyfert 1s, are consistent with pseudo bulges in late-type galaxies.
+
+##### [Dense and warm neutral gas in BR1202-0725 at z = 4.7 as traced by the [O I] 145 um line](http://arxiv.org/abs/2102.09219) [(PDF)](http://arxiv.org/pdf/2102.09219.pdf)
+
+- #galaxy/high-z [OI] 145.5 micron 线可以作为高红移致密气体探针
+- We report the detection of [O I]145.5um in the BR 1202-0725 system, a compact group at z=4.7 consisting of a quasar (QSO), a submillimeter-bright galaxy (SMG), and three faint Lya emitters.
+- The high [O I]/[C II] ratios and the joint analysis with the previous detection of [N II] lines for both the QSO and the SMG suggest the presence of warm and dense neutral gas in these highly star-forming galaxies.
+- There is a possible positive correlation between the [NII]122/205 line ratio and the [O I]/[C II] ratio when all local and high-z sources are taken into account, indicating that the denser the ionized gas, the denser and warmer the neutral gas (or vice versa).
+
+##### [Cosmological Magnetogenesis: The Biermann Battery during the Epoch of Reionization](http://arxiv.org/abs/2102.09535) [(PDF)](http://arxiv.org/pdf/2102.09535.pdf)
+
+- We investigate the effect of the Biermann battery during the Epoch of Reionization (EoR) using cosmological Adaptive Mesh Refinement simulations within the framework of the SPHINX project.
+- We develop a novel numerical technique to solve for the Biermann battery term in the Constrained Transport method, preserving both the zero divergence of the magnetic field and the absence of Biermann battery for isothermal flows.
+- The structure-preserving nature of our numerical method turns out to be very important to minimise numerical errors during validation tests of the propagation of a Str\"omgren sphere and of a Sedov blast wave.
+- We then use this new method to model the evolution of a 2.5 and 5 co-moving Mpc cosmological box with a state-of-the-art galaxy formation model within the RAMSES code.
+- Contrary to previous findings, we show that three different Biermann battery channels emerge: the first one is associated with linear perturbations before the EoR, the second one is the classical Biermann battery associated with reionization fronts during the EoR, and the third one is associated with strong, supernova-driven outflows.
+- While the two former channels generate spontaneously volume-filling magnetic fields with a strength on the order or below $10^{-20}$G, the latter, owing to the higher plasma temperature and a marginally-resolved turbulent dynamo, reaches a field strength as high as $10^{-18}$G in the intergalactic medium around massive haloes.
+
+### Feb 20
+
+#### Relevant / Important / Useful
+
+##### [Three-Dimensional Reconstruction of Weak Lensing Mass Maps with a Sparsity Prior. I. Cluster Detection](http://arxiv.org/abs/2102.09707) [(PDF)](http://arxiv.org/pdf/2102.09707.pdf)
+
+- #cosmology #cluster/lensing 
+- We propose a novel method to reconstruct high-resolution three-dimensional mass maps using data from photometric weak-lensing surveys.
+- We apply an adaptive LASSO algorithm to perform a sparsity-based reconstruction on the assumption that the underlying cosmic density field is represented by a sum of Navarro-Frenk-White halos.
+	- Lensing clusters with lower mass limits of $10^{14.0} h^{-1}M_{\odot}$, $10^{14.7} h^{-1}M_{\odot}$, $10^{15.0} h^{-1}M_{\odot}$can be detected with 1.5-$\sigma$confidence at the low ($z<0.3$), median ($0.3\leq z< 0.6$) and high ($0.6\leq z< 0.85$) redshifts, respectively, with an average false detection rate of 0.022 deg$^{-2}$.
+- Our method enables direct three-dimensional cluster detection with accurate redshift estimates.
+
+##### [On the origin of the mass-metallicity gradient relation in the local Universe](http://arxiv.org/abs/2102.09733) [(PDF)](http://arxiv.org/pdf/2102.09733.pdf)
+
+- #galaxy/metallicity
+- We show that the same physical principles govern the shape of both: centrally-peaked metal production favours steeper gradients, and this steepening is diluted by the addition of metal-poor gas, which is supplied by inward advection for low-mass galaxies and by cosmological accretion for massive galaxies.
+- The MZR and the MZGR both bend at galaxy stellar mass $\sim 10^{10} - 10^{10.5} \rm{M_{\odot}}$, and we show that this feature corresponds to the transition of galaxies from the advection-dominated to the accretion-dominated regime.
+- We also find that both the MZR and MZGR strongly suggest that low-mass galaxies preferentially lose metals entrained in their galactic winds.
+- While this metal-enrichment of the galactic outflows is crucial for reproducing both the MZR and the MZGR at the low-mass end, we show that the flattening of gradients in massive galaxies is expected regardless of the nature of their winds.
+
+##### [The role of gas kinematics in setting metallicity gradients at high redshift](http://arxiv.org/abs/2102.09740) [(PDF)](http://arxiv.org/pdf/2102.09740.pdf)
+
+- #galaxy/high-z #galaxy/ism
+- In this work, we explore the diversity of ionised gas kinematics (rotational velocity $v_{\phi}$and velocity dispersion $\sigma_g$) and gas-phase metallicity gradients at $0.1 \leq z \leq 2.5$using a compiled data set of 74 galaxies resolved with ground-based integral field spectroscopy.
+- 观测：
+	- We find that galaxies with the highest and the lowest $\sigma_g$have preferentially flat metallicity gradients, whereas those with intermediate values of $\sigma_g$show a large scatter in the metallicity gradients.
+	- Additionally, steep negative gradients appear almost only in rotation-dominated galaxies ($v_{\phi}/\sigma_g > 1$), whereas most dispersion-dominated galaxies show flat gradients.
+- 理论：
+	- In the case of high $\sigma_g$, the inward radial advection of gas dominates over metal production and causes efficient metal mixing, thus giving rise to flat gradients.
+	- For low $\sigma_g$, it is the cosmic accretion of metal-poor gas diluting the metallicity that gives rise to flat gradients.
+	- Finally, the reason for intermediate $\sigma_g$showing the steepest negative gradients is that both inward radial advection and cosmic accretion are weak as compared to metal production, which leads to the creation of steeper gradients.
+	- The larger scatter at intermediate $\sigma_g$may be due in part to preferential ejection of metals in galactic winds, which can decrease the strength of the production term.
+
+#### Interesting / Keep in Mind
+
+##### [UV Extinction as a More Fundamental Measure of Dust than E(B-V) or A(V)](http://arxiv.org/abs/2102.09575) [(PDF)](http://arxiv.org/pdf/2102.09575.pdf)
+
+- #galaxy/ism
+- Extinction curves vary within the Milky Way, and there is no reason why, except by chance, either E(B-V) or A(V) would be the most physical measure of dust column density.
+- In this paper, we utilize for the first time full extinction curves to 41 MW sightlines and find that the scatter between N(H) and extinction is minimized -- and the relation becomes linear -- for extinction at 2900 +/- 160 A. Scatter and nonlinearity increase at longer wavelengths and are especially large for near-IR extinction. 紫外的消光才是更好的尘埃探针
+- We also find that the very large discrepancy between MW and SMC gas-to-dust ratios of 0.9 dex in N(H)/E(B-V) is reduced to 0.7 dex for far-UV extinction, which matches the difference in cosmic abundances of carbon between the two galaxies, and therefore confirms that N(C) is the preferred measure of the gas in the gas-to-dust ratio, even though it may not be a convenient one.
+
+#### Others
+
+##### [The Origins of Off-Center Massive Black Holes in Dwarf Galaxies](http://arxiv.org/abs/2102.09566) [(PDF)](http://arxiv.org/pdf/2102.09566.pdf)
+
+- #galaxy/dwarf #smbh
+- We trace the evolution of off-center massive black holes (MBHs) in dwarf galaxies using cosmological hydrodynamical simulations, and show that the reason for off-center locations is mainly due to galaxy-galaxy mergers.
+- We calculate dynamical timescales and show that off-center MBHs are unlikely to sink to their galaxys' centers within a Hubble time, due to the shape of the hosts' potential wells and low stellar densities.
+- These wandering MBHs are unlikely to be detected electromagnetically, nor is there a measurable dynamical effect on the galaxy's stellar population.
+- We conclude that off-center MBHs may be common in dwarfs, especially if the mass of the MBH is small or the stellar mass of the host galaxy is large.
+
+##### [Effects of turbulence in the Circumnuclear Disk](http://arxiv.org/abs/2102.09569) [(PDF)](http://arxiv.org/pdf/2102.09569.pdf)
+
+- Here we perform 3D, N-body/smoothed particle hydrodynamic (SPH) simulations with an adapted general turbulence driving method to investigate the CND's structural evolution, in particular its reaction to varied scales of injected turbulence.
+- We find that, because of shear flow in the disk, transient arcs of gas (streams) naturally arise when turbulence is driven on large scales (up to $\sim4$~pc), as might occur when a supernova blast wave encounters the CND.
+- Because energetic events arise naturally and often in the central parsecs of our Galaxy, this result suggests that the transient structures that characterize the CND do not imply that the CND itself is a transient structure.
+
+##### [Dissipative Dark Matter on FIRE: I. Structural and kinematic properties of dwarf galaxies](http://arxiv.org/abs/2102.09580) [(PDF)](http://arxiv.org/pdf/2102.09580.pdf)
+
+- We present the first set of cosmological baryonic zoom-in simulations of galaxies including dissipative self-interacting dark matter (dSIDM).
+- Central density profiles of simulated dwarfs become cuspy when $(\sigma/m)_{\rm eff} \gtrsim 0.1 {\rm cm^{2} g^{-1}}$(and $f_{\rm diss}=0.5$as fiducial).
+- For our surveyed dSIDM parameters, halo masses and galaxy stellar masses do not show appreciable difference from CDM, but dark matter kinematics and halo concentrations/shapes can differ.
+
+##### [A 21-cm power spectrum at 48 MHz, using the Owens Valley Long Wavelength Array](http://arxiv.org/abs/2102.09596) [(PDF)](http://arxiv.org/pdf/2102.09596.pdf)
+
+- The Large-aperture Experiment to Detect the Dark Age (LEDA) was designed to measure brightness temperature fluctuations in the Cosmic Microwave Background due to 21-cm absorption/emission by neutral hydrogen in the early Universe.
+- We present a power spectrum of observations at 48 MHz ($z \approx 28$), and an analysis of the sensitivity of the OVRO-LWA telescope.
+	- We conclude that our power spectrum is dominated by telescope thermal noise and systematic effects.
+- We show that OVRO-LWA will then be able to detect theoretically predicted Ly-$\alpha$and X-ray peaks in 21-cm power spectra at Cosmic Dawn, according to theoretical models.
+
+##### [Finding Quasars behind the Galactic Plane. I. Candidate Selections with Transfer Learning](http://arxiv.org/abs/2102.09770) [(PDF)](http://arxiv.org/pdf/2102.09770.pdf)
+
+- #machine_learning 
+- Quasars behind the Galactic plane (GPQs) are important astrometric references and useful probes of Milky Way gas.
+- At the data level, to make a training set in which dataset shift is modeled, we synthesize quasars and galaxies behind the Galactic plane based on SDSS sources and Galactic dust map.
+- At the algorithm level, to reduce the effect of class imbalance, we transform the three-class classification problem for stars, galaxies, and quasars to two binary classification tasks.
+
+##### [xCOLDGASS and xGASS: Radial metallicity gradients and global properties on the star-forming main sequence](http://arxiv.org/abs/2102.09909) [(PDF)](http://arxiv.org/pdf/2102.09909.pdf)
+
+- #galaxy/ism
+- We present optical longslit spectra for a subset of the xGASS and xCOLD GASS galaxies to investigate the correlation between radial metallicity profiles and cold gas content.
+- 1. the local metallicity is correlated with the global HI mass fraction, which is in good agreement with previous results. A simple toy model suggests that this correlation points towards a 'local gas regulator model'; 
+- 2. the primary driver of metallicity gradients appears to be stellar mass surface density (as a proxy for morphology).
+- Our results suggest that local density and local HI mass fraction are drivers of chemical evolution and the gas-phase metallicity.
+
+##### [A statistical measurement of the HI spin temperature in DLAs at cosmological distances](http://arxiv.org/abs/2102.09927) [(PDF)](http://arxiv.org/pdf/2102.09927.pdf)
+
+- #galaxy/cgm
+- CNM中HI比例应该有比较强的宇宙学演化
+- We use results from a recent commissioning survey for intervening 21-cm absorbers with the Australian Square Kilometre Array Pathfinder (ASKAP) to construct a Bayesian statistical model of the $N_\mathrm{HI}$-weighted harmonic mean spin temperature ($T_\mathrm{s}$) at redshifts between $z = 0.37$and 1.0.
+	- We find that $T_\mathrm{s} \leq 274$K with 95 per cent probability, suggesting that at these redshifts the typical HI gas in galaxies at equivalent DLA column densities may be colder than the Milky Way interstellar medium $(T_\mathrm{s,MW} \sim 300$K).
+- [`flash\_finder` - Uses Mult-Nested sampling to find multiple spectral lines and compare models](https://github.com/drjamesallison/flash_finder)
+
+##### [Improved large scales interstellar dust foreground model and CMB solar dipole measurement](http://arxiv.org/abs/2102.10004) [(PDF)](http://arxiv.org/pdf/2102.10004.pdf)
+
+- In this paper, we present a new analysis of the \Planck\ High Frequency Instrument data that brings the cosmological part and its major foreground signal close to the detector noise.
+- The solar dipole signal, induced by the motion of the solar system with respect to the CMB, is a very efficient tool to calibrate a detector or a set of detectors with high accuracy.
+- The stability of the solar dipole parameters is a powerful way to control the galactic foregrounds removal in the component separation process.
+	- It is used to build a model for Spectral Energy Distribution spatial variations of the interstellar dust emission.
+- The results of this work are: improved solar dipole parameters, a new interstellar dust model, and a large scale cosmological anisotropies map.
+
+##### [SuperFaB: a fabulous code for Spherical Fourier-Bessel decomposition](http://arxiv.org/abs/2102.10079) [(PDF)](http://arxiv.org/pdf/2102.10079.pdf)
+
+- #cosmology #julia
+- The spherical Fourier-Bessel (SFB) decomposition is a natural choice for the radial/angular separation that allows optimal extraction of cosmological information from large volume galaxy surveys.
+- In this paper we develop a SFB power spectrum estimator that allows the measurement of the largest angular and radial modes with the next generation of galaxy surveys.
+- The estimator is demonstrated on simplified Roman-like, SPHEREx-like, and Euclid-like mask and selection functions.
