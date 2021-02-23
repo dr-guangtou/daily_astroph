@@ -1691,3 +1691,165 @@
 - The spherical Fourier-Bessel (SFB) decomposition is a natural choice for the radial/angular separation that allows optimal extraction of cosmological information from large volume galaxy surveys.
 - In this paper we develop a SFB power spectrum estimator that allows the measurement of the largest angular and radial modes with the next generation of galaxy surveys.
 - The estimator is demonstrated on simplified Roman-like, SPHEREx-like, and Euclid-like mask and selection functions.
+
+### Feb 22
+
+#### Relevant / Important / Useful
+
+##### [Synthetic Galaxy Clusters and Observations Based on Dark Energy Survey Year 3 Data](http://arxiv.org/abs/2102.10414) [(PDF)](http://arxiv.org/pdf/2102.10414.pdf)
+
+- #survey/des #cluster/cosmology #cluster/galaxy
+- To create such test scenarios, we measure and model the photometric properties of galaxy clusters and their sky environments from the Dark Energy Survey Year 3 (DES Y3) data in two bins of cluster richness $\lambda\in[30; 45)$, $\lambda\in[45; 60)$and three bins in cluster redshift ($z\in[0.3; 0.35)$, $z\in[0.45; 0.5)$and $z\in[0.6; 0.65)$.
+	- Using deep-field imaging data we extrapolate galaxy populations beyond the limiting magnitude of DES Y3 and calculate the properties of cluster member galaxies via statistical background subtraction.
+- Synthetic galaxy clusters are generated from real observational data, and thus are independent from the assumptions inherent to cosmological simulations. 加入了ICL的模型
+
+##### [Gravitational redshifting of galaxies in the SPIDERS cluster catalogue](http://arxiv.org/abs/2102.11156) [(PDF)](http://arxiv.org/pdf/2102.11156.pdf)
+
+- #cluster/cosmology #ssst/cos
+- 用SPIDER星系团的不同定义的cluster center，看周围星系的速度offset，找引力红移的证据
+	- The quantity $\hat{\Delta}$, the average of the radial velocity difference between the cluster members and the cluster systemic velocity, reveals information on the size of a combination of effects on the observed redshift, dominated by gravitational redshifting. 可以用来检验引力理论
+	- The values of $\hat{\Delta}=-13.5\pm4.7$km s$^{-1}$, $\hat{\Delta}=-12.5\pm5.1$km s$^{-1}$, and $\hat{\Delta}=-18.6\pm4.8$km s$^{-1}$for the BCG, X-ray and CG cases respectively broadly agree with the literature.
+- The BCG centroid is deemed to be the most robust method in this analysis, due to no well defined central redshift when using an X-ray centroid, and CGs identified by redMaPPer with no associated spectroscopic redshift.
+
+##### [ENISALA: II. Distinct Star Formation and Active Galactic Nucleus Activity in Merging and Relaxed Galaxy Clusters](http://arxiv.org/abs/2102.10116) [(PDF)](http://arxiv.org/pdf/2102.10116.pdf)
+
+- #cluster/galaxy 
+- ENISALA: 多波段观测clusters；光学光谱观测14个z~0.15-0.31的星系团里的800个Halpha发射线星系; 发现弛豫的和并合中的星系团非常不同
+	- A large fraction of these line-emitters in merging clusters are powered by star formation irrespective of cluster-centric radius, while the rest are powered by active galactic nuclei.
+	- Star-forming galaxies are rare within 3 Mpc of relaxed clusters and active galactic nuclei are most abundant at their outskirts (~1.5-3 Mpc).
+- We discover a population of star-forming galaxies with large equivalent widths and blue UV-optical colors, found exclusively in the merging clusters in our sample.
+- [`redshifts` - Search the VizieR and NED databases for spectroscopic redshifts around positions of interest](https://github.com/multiwavelength/redshifts)
+
+#### Interesting / Keep in Mind
+
+##### [Probabilistic Association of Transients to their Hosts (PATH)](http://arxiv.org/abs/2102.10627) [(PDF)](http://arxiv.org/pdf/2102.10627.pdf)
+
+- #fast_radio_burst 
+- This approach relies solely on simple observables: sky coordinates and their uncertainties, galaxy fluxes and angular sizes. The formalism invokes Bayes' rule to calculate the posterior probability P(O_i|x) from the galaxy prior P(O), observables x, and an assumed model for the true distribution of transients in/around their host galaxies.
+- We examine the observed and intrinsic properties of these secure FRB hosts, recovering similar distributions as previous works.
+- gravitational wave events, gamma-ray bursts, and supernovae.
+- [astropath](https://github.com/FRBs/astropath)
+
+##### [Are we observing a NSC in course of formation in the NGC\,4654 galaxy?](http://arxiv.org/abs/2102.10947) [(PDF)](http://arxiv.org/pdf/2102.10947.pdf)
+
+- #galaxy/ltg
+- Using archival HST data, we obtain the photometric masses of the two clusters, $M=3\times 10^5$M$_\odot$and $M=1.7\times 10^6$M$_\odot$, their half-light radii, $R_{\rm eff}\sim4$pc and $R_{\rm eff} \sim 6$pc, and their projected distances from the photometric center of the galaxy (both $<22$pc).
+- Varying some of the unknown clusters orbital parameters, we carry out several $N$-body simulations showing that the future evolution of these clusters will inevitably result in their merger.
+- We also investigate the possibility to form a massive NSC in the center of the galaxy by this process.
+	- Our analysis suggests that for low eccentricity orbits, and relatively long merger times, the final merged cluster is spherical in shape, with an effective radius of few parsecs and a mass within the effective radius of the order of $10^5 \mathrm{M_{\odot}}$.
+	- Because the central density of such a cluster is higher than that of the host galaxy, it is likely that this merger remnant could be the likely embryo of a future NSC.
+
+#### Others
+
+##### [A new strategy for matching observed and simulated lensing galaxies](http://arxiv.org/abs/2102.10114) [(PDF)](http://arxiv.org/pdf/2102.10114.pdf)
+
+- #strong_lensing 
+- 强引力透镜质量分布重构的方法： instead of modelling the mass distribution, we search cosmological galaxy-formation simulations for plausible matches.
+- 用Einstein半径在模拟中预先挑选出几百个候选星系；for each of these pre-selected galaxies, we fit for the source light distribution, while using MCMC for the placement and orientation of the lensing galaxy, so as to reproduce the multiple images and arcs.
+- This will be especially relevant for upcoming wide-field surveys, through which the number of galaxy lenses will rise possibly a hundredfold, which will overwhelm conventional modelling methods.
+- [`glass` - A parallel, free-form gravitational lens modeling tool and framework](https://github.com/jpcoles/glass)
+- [`gleam` - Gravitational Lens Extended Analysis Module](https://github.com/phdenzel/gleam)
+
+##### [The Geometry of Cold, Metal-Enriched Gas Around Galaxies at $z\sim1.2$](http://arxiv.org/abs/2102.10117) [(PDF)](http://arxiv.org/pdf/2102.10117.pdf)
+
+- #galaxy/cgm
+- HST WFC3/IR: direct imaging and grism observations of galaxies near quasar sightlines with a high frequency of uncorrelated foreground Mg II absorption. 大部分吸收体都能找到对应的星系
+	- We find that galaxies associated with Mg II absorption have significantly higher mean star formation rates and marginally higher mean star formation rate surface densities compared to galaxies with no detected Mg II.
+- Nearly half of the Mg II absorbers match to more than one galaxy, and the mean equivalent width of the Mg II absorption is found to be greater for groups, compared to isolated galaxies.
+- MgII吸收气体的尺寸有红移演化；且有在minor axis附近，可能与外流有关的非各项同性.
+
+##### [The Low Redshift Circumgalactic Medium in Simba](http://arxiv.org/abs/2102.10126) [(PDF)](http://arxiv.org/pdf/2102.10126.pdf)
+
+- #galaxy/simulation #galaxy/cgm
+- Simba模拟与 COS-Halos and COS-Dwarfs 巡天比较
+	- 因为有feedback，halo重子物质比例总比宇宙平均值低
+	- 宁静星系的CGM主要是热气体；SF星系的CGM更加多相；金属丰度也有差别
+- CGM metals primarily come from stellar feedback, while jet-mode AGN feedback reduces absorption particularly for lower ions.
+
+##### [The integrated 3-point correlation function of cosmic shear](http://arxiv.org/abs/2102.10177) [(PDF)](http://arxiv.org/pdf/2102.10177.pdf)
+
+- #weak_lensing #cosmology 
+- We present the integrated 3-point shear correlation function $i\zeta_{\pm}$-- a higher-order statistic of the cosmic shear field -- which can be directly estimated in wide-area weak lensing surveys without measuring the full 3-point shear correlation function, making this a practical and complementary tool to 2-point statistics for weak lensing cosmology.
+	- We define it as the 1-point aperture mass statistic $M_{\mathrm{ap}}$measured at different locations on the shear field correlated with the corresponding local 2-point shear correlation function $\xi_{\pm}$.
+- We find that the joint analysis of $\xi_{\pm}$and $i\zeta_{\pm}$has the potential to considerably improve parameter constraints from $\xi_{\pm}$alone, and can be particularly useful in improving the figure of merit of the dynamical dark energy equation of state parameters from cosmic shear data.
+- [Full-sky Gravitational Lensing Mock Catalogs by Takahashi, Hamana, Shirasaki + 2017](http://cosmo.phys.hirosaki-u.ac.jp/takahasi/allsky_raytracing/)
+
+##### [Connecting Galactic Outflows and Star Formation: Inferences from H-alpha Maps and Absorption Line Spectroscopy at 1 < z < 1.5](http://arxiv.org/abs/2102.10187) [(PDF)](http://arxiv.org/pdf/2102.10187.pdf)
+
+- #galaxy/cgm
+- 22个星系；HST WFC3/G141 grism -> Halpha; Keck/DEIMOS FeII, MgII 吸收线，看外流
+	- The Fe II and Mg II equivalent widths (EWs) increase with both SFR and SigmaSFR at $\gtrsim 3\sigma$significance, while the composite spectra show larger Fe II EWs and outflow velocities in galaxies with higher SFR, SigmaSFR, and sSFR.
+
+##### [High Probability of Detecting Lensed Supermassive Black Hole Binaries by LISA](http://arxiv.org/abs/2102.10295) [(PDF)](http://arxiv.org/pdf/2102.10295.pdf)
+
+- Here we study the lensing effect induced by dark matter (DM) halos on the GW signals from merging massive black holes, and we revisit the possibility of detection using the Laser Interferometer Space Antenna (LISA).
+- In particular, we include the halos in the low-mass range of $10^5-10^9 M_\odot$since they are the most numerous according to the cold DM model.
+	- We find that about $(20-40)\%$ of the MBHB in the mass range of $10^5-10^6M_\odot$and the redshift range of $4-10$ should show detectable wave-optics effects.
+- Not detecting any signal during the LISA mission would imply that DM halos are significantly more massive than $10^8 M_\odot$.
+
+##### [A comprehensive analysis using 9 dark matter halo models on the spiral galaxy NGC 4321](http://arxiv.org/abs/2102.10412) [(PDF)](http://arxiv.org/pdf/2102.10412.pdf)
+
+- #galaxy/halo #galaxy/ltg 
+- M100漩涡星系的9种不同暗物质晕模型: Pseudo-isothermal, Burkert, NFW, Moore, Einasto, core-modified, DC14, coreNFW and Lucky13 profiles.
+	- Four dark matter profiles (DC14, Lucky13, Burkert and Moore profiles) showed declining features and hence found to be not suitable for this galaxy.
+
+##### [Possible Evidence of a Universal Radio/X-ray Correlation in a near-Complete Sample of Hard X-ray Selected Seyfert Galaxies](http://arxiv.org/abs/2102.10578) [(PDF)](http://arxiv.org/pdf/2102.10578.pdf)
+
+- Because the disc--jet coupling likely depends on various properties of sources probed, the sample control is always an important but challenging task.
+- In this work, we re-analyzed the INTEGRAL hard X-ray-selected sample of Seyfert galaxies.
+- We only consider sources that have measurements in black hole mass, and luminosities in radio and X-rays.
+- Our sample includes 64 sources, consists of both bright AGNs and low-luminosity ones.
+- We first find that, because of the similarity in the $L_{HX}/L_X$distribution, the X-ray origin of radio-loud Seyferts may be the same to that of radio-quiet ones, where we attribute to the hot accretion flow (or similarly, the corona).
+- We then investigate the connections between luminosities in radio and X-rays.
+- Since our sample suffers a selection bias of a black hole mass $M_{BH}$dependence on $L_X/L_{Edd}$, we focus on the correlation slope $\xi_X$between the radio (at 1.4 GHz) and X-ray luminosities in Eddington unit, i.e $(L_R/L_{Edd})\propto(L_X/L_{Edd})^{\xi_X}$.
+- We classify the sources according to various properties, i.e 1) Seyfert classification, 2) radio loudness, and 3) radio morphology.
+- We find that, despite these differences in classification, all the sources in our sample are consistent with a universal correlation slope $\xi_X$, with $\xi_X=0.77\pm0.10$.
+- This is unexpected, considering various possible radio emitters in radio-quiet systems.
+- For the jet interpretation, our result may suggest a common/universal but to be identified jet launching mechanism among all the Seyfert galaxies, while properties like black hole spin and magnetic field strength only play secondary roles.
+- We further estimate the jet production efficiency $\eta_{jet}$of Seyfert galaxies, which is $\eta_{jet}\approx1.9^{+0.9}_{-1.5}\times10^{-4}$on average.
+- We also find that $\eta_{jet}$increases as the system goes fainter.
+
+##### [Tracing the Evolution of Ultraluminous Infrared Galaxies into Radio Galaxies with Low Frequency Radio Observations](http://arxiv.org/abs/2102.10600) [(PDF)](http://arxiv.org/pdf/2102.10600.pdf)
+
+- GMRT观测ULIRGS: Our aim is to resolve any core-jet structures or nuclear extensions and hence examine whether the ULIRGs are evolving into radio loud ellipticals.
+	- Our deep, low frequency observations show marginal extension for only one source.
+	- However, the integrated radio spectra of 9 ULIRGs show characteristics that are similar to that of GPS/CSS/CSO/young radio sources.
+- Hence, we conclude that although most ULIRGs do not show kpc scale extended radio emission associated with nuclear activity, their radio spectral energy distributions do show signatures of young radio galaxies.
+
+##### [Comparison between different methods of model selection in cosmology](http://arxiv.org/abs/2102.10671) [(PDF)](http://arxiv.org/pdf/2102.10671.pdf)
+
+- #statistics #cosmology
+- 比较AIC, BIC, DIC, Bayesian Evidence; the Cross-validation method.
+	- While BIC and Bayesian evidence overrule the dynamical dark energy scenarios with 2 or 3 extra degree of freedom, the DIC and cross-validation method prefer these dynamical models to $\Lambda$CDM model.
+- Assuming the numerical results of different analysis and combining cosmological and statistical aspects of the subject, we propose cross-validation as an interesting method for model selection in cosmology that can lead to different results in comparison with usual methods of model selection.
+
+##### [The ALMA Spectroscopic Survey in the HUDF: A Search for [CII] Emitters at $6 \leq z \leq 8$](http://arxiv.org/abs/2102.10706) [(PDF)](http://arxiv.org/pdf/2102.10706.pdf)
+
+- #galaxy/high-z
+- By selecting on known Lyman-$\alpha$emitters (LAEs) and photometric dropout galaxies in the field, we perform targeted searches down to a 5$\sigma$[CII] luminosity depth $L_{\mathrm{[CII]}}\sim2.0\times10^8$L$_{\odot}$, corresponding roughly to star formation rates (SFRs) of $10$-$20$M$_{\odot}$yr$^{-1}$when applying a locally calibrated conversion for star-forming galaxies, yielding zero detections. 给出了上限估计
+- We also perform a blind search for [CII]-bright galaxies that may have been missed by optical selections, resulting in an upper limit on the cumulative number density of [CII] sources with $L_{\mathrm{[CII]}}>2.0\times10^8$L$_{\odot}$($5\sigma $) to be less than $1.8\times10^{-4}$Mpc$^{-3}$(90% confidence level).
+- At this luminosity depth and volume coverage, we present an observed evolution of the [CII] luminosity function from $z=6$-$8$to $z\sim0$by comparing the ASPECS measurement to literature results at lower redshift.
+
+##### [Capturing the inside-out quenching by black holes with far-infrared atomic line ratios](http://arxiv.org/abs/2102.10752) [(PDF)](http://arxiv.org/pdf/2102.10752.pdf)
+
+- #galaxy/quenching #galaxy/simulation
+- FIR发射线比值来限制早期quenching历史; 基于TNG模拟
+	- We devise a physical model of H$_{\rm ~II}$regions and compute the intensities of [O$_{\rm ~III}$] $52$and $88~{\rm \mu m}$lines.
+	- [OIII] 52/ [OIII] 88 对电子密度敏感；可以用来测量黑洞周围的气体密度分布
+- If the BH feedback abruptly operates and expel the gas when it grows to a certain mass, as modelled in IllustrisTNG, the low-density gas yields relatively weak [O$_{\rm ~III}$] $52$line with respect to $88~{\rm \mu m}$.
+- In contrast, if the feedback strength and hence the local gas density are not strongly correlated with the BH mass, as in Illustris, the line ratio is not expected to vary significantly among galaxies with different evolutionary stages.
+
+##### [Revealing the physical properties of gas accreting to haloes in the EAGLE simulations](http://arxiv.org/abs/2102.10913) [(PDF)](http://arxiv.org/pdf/2102.10913.pdf)
+
+- #galaxy/simulaiton #galaxy/cgm
+- Classifying accretion as ''hot'' or '' cold'' based on a temperature cut of $10^{5.5}{\rm K}$, we find that the covering fraction ($f_{\rm cov}$) of cold-mode accreting gas is significantly lower than the hot-mode, with $z=0$$f_{\rm cov}$values of $\approx 50\%$and $\approx 80\%$respectively.
+- Active Galactic Nuclei (AGN) feedback in EAGLE reduces inflow $f_{\rm cov}$values by $\approx 10\%$, with outflows decreasing the solid angle available for accretion flows.
+- Classifying inflow by particle history, we find that gas on first-infall onto a halo is metal-depleted by $\approx 2$~dex compared to pre-processed gas, which we find to mimic the circum-galactic medium (CGM) in terms of metal content.
+- We also show that high (low) halo-scale gas accretion rates are associated with metal-poor (rich) CGM in haloes below $10^{12}M_{\odot}$, and that variation in halo-scale gas accretion rates may offer a physical explanation for the enhanced scatter in the star-forming main sequence at low ($\lesssim10^{9}M_{\odot}$) and high ($\gtrsim10^{10}M_{\odot}$) stellar masses.
+- Our results highlight how gas inflow influences several halo- and galaxy-scale properties, and the need to combine kinematic and chemical data in order to confidently break the degeneracy between accreting and outgoing gas in CGM observations.
+
+##### [The HI intensity mapping bispectrum including observational effects](http://arxiv.org/abs/2102.11153) [(PDF)](http://arxiv.org/pdf/2102.11153.pdf)
+
+- #intensity_mapping 
+- We present a model of the redshift space HI IM bispectrum including observational effects from the radio telescope beam and 21cm foreground contamination.
+- For a MeerKAT-like single-dish IM survey at $z=0.39$, we find that foreground removal causes a 8% reduction in the equilateral bispectrum's signal-to-noise ratio $S/N$, whereas the beam reduces it by 62%.
