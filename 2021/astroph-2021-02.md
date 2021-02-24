@@ -1853,3 +1853,105 @@
 - #intensity_mapping 
 - We present a model of the redshift space HI IM bispectrum including observational effects from the radio telescope beam and 21cm foreground contamination.
 - For a MeerKAT-like single-dish IM survey at $z=0.39$, we find that foreground removal causes a 8% reduction in the equilateral bispectrum's signal-to-noise ratio $S/N$, whereas the beam reduces it by 62%.
+
+### Feb 23
+
+#### Relevant / Important / Useful
+
+##### [Galaxy And Mass Assembly (GAMA): The inferred mass--metallicity relation from z=0 to 3.5 via forensic SED fitting](http://arxiv.org/abs/2102.11514) [(PDF)](http://arxiv.org/pdf/2102.11514.pdf)
+
+- #survey/gama
+- ProSpect拟合GAMA星系SED估计金属丰度和金属丰度演化历史
+	- Our forensic SED analysis has produced an evolving mass--metallicity relationship that is consistent with observations at all epochs.
+- 讨论M*-SFR-Z 3-D plane: This plane is shown to be subtly evolving, displaying an increased tilt with time caused by general enrichment, and also the slowing down of star formation with cosmic time.
+	- The trends in metallicity recovered in this work highlight that the evolving metallicity implementation used within the SED fitting code ProSpect produces reasonable metallicity results over the history of a galaxy.
+
+##### [Compact Starburst Galaxies with Fast Outflows: Central Escape Velocities and Stellar Mass Surface Densities from Multi-band Hubble Space Telescope Imaging](http://arxiv.org/abs/2102.11287) [(PDF)](http://arxiv.org/pdf/2102.11287.pdf)
+
+- #galaxy/etg #galaxy/quenching 
+- HST观测：12个z=0.4-0.8的大质量致密星暴星系；10^11 Msun; 有非常强的外流；有极强的中心星暴
+- Based on our stellar population analysis, the central component typically contributes $\approx$25% of the total stellar mass and the central escape velocities $v_{esc,central}\approx900$km/s are a factor of two smaller than the observed outflow velocities. 这些外流可以进入CGM
+- 中心恒星密度极高，可以和高红移的red nuggets或者blue nuggets相比较；但Re较小，可能是中心年轻星族主导light profile导致的
+
+##### [Microarcsecond Astrometry: Science Highlights from Gaia](http://arxiv.org/abs/2102.11712) [(PDF)](http://arxiv.org/pdf/2102.11712.pdf)
+
+- #gaia #review
+- In particular the publication of the second data release from the Gaia mission made it possible for every astronomer to work with easily accessible, high-precision astrometry for 1.7 billion sources to 21st magnitude over the full sky.
+- * Gaia provides splendid astrometry but at the limits of the data small systematic errors are present.
+- * Gaia DR2 provides for the first time a dense sampling of Galactic phase space with high precision astrometry, photometry, and radial velocities, allowing to uncover subtle features in phase space and the observational HR diagram.
+- * The longer term promises exciting new opportunities for microarcsecond astrometry and beyond, including the plans for an infrared version of Gaia which would offer the dense sampling of phase space deep into the Milky Way's nuclear regions.
+
+#### Interesting / Keep in Mind
+
+##### [Probing ultra-diffuse galaxies out to the virial radius of the Coma cluster with XMM-Newton](http://arxiv.org/abs/2102.11285) [(PDF)](http://arxiv.org/pdf/2102.11285.pdf)
+
+- #galaxy/udg 星系团里有很严重的X-ray背景问题
+- Our measurements suggest that the average UDG population does not have a substantial amount of hot gas or a large number of globular clusters.
+- We also determine AGN occupation fraction of UDGs by cross-correlating the position of UDGs with the detected point sources in Coma.
+	- We detect three X-ray sources with detection significance $\sigma \geq 5$that could be off-centre AGN within 5 arcsec from the centre of the UDG 317, UDG 432, and UDG 535.
+	- We identify an optical counterpart for the X-ray source associated with the UDG 317, suggesting that this source is more likely an off-centre AGN.
+
+##### [Feedback Factory: Multiple faint radio-jets detected in a cluster at z=2](http://arxiv.org/abs/2102.11752) [(PDF)](http://arxiv.org/pdf/2102.11752.pdf)
+
+- #cluster/galaxy #quenching #cluster/icm
+- 在z=02的星系团中用VLA观测到若干暗弱的射电源，多数是jet
+- Their power contribution is estimated to be $1.2 ~(\pm 0.6)~ \times 10^{44} ~\rm ergs~ s^{-1}$, although this value could be up to $4.7 ~ \times 10^{44} ~\rm ergs~ s^{-1}$. 已经可以对offset cooling flow起到重要作用
+	- In line with the already detected abundance of star formation, this mode of feedback being distributed over multiple sites, contrary to a single central source observed at low redshifts, points to accretion of gas into the cluster centre.
+- Finally, we also examine the TIR-radio luminosity ratio for the known sample of galaxies within the cluster core and find that dense environments do not have any serious consequence on the compliance of galaxies to the IR-radio correlation.
+
+##### [Dynamical evidence for a morphology-dependent relation between the stellar and halo masses of galaxies](http://arxiv.org/abs/2102.11282) [(PDF)](http://arxiv.org/pdf/2102.11282.pdf)
+
+- #galaxy/etg #globular_cluster #galaxy/halo #shmr
+- 基于ETG的红外光度和球状星团phase space信息推测暗物质晕质量
+	- This result is consistent with the standard SHMR derived by abundance matching for the general population of galaxies, and with previous, less robust derivations of the SHMR for early types.
+- However, it contrasts sharply with the monotonically rising SHMR for late types derived from extended HI rotation curves and the same $\Lambda$CDM prior on $M_{\rm h}$as we adopt for early types.
+- We argue that all these empirical findings are natural consequences of a picture in which galactic discs are built mainly by smooth and gradual inflow, regulated by feedback from young stars, while galactic spheroids are built by a cooperation between merging, black-hole fuelling, and feedback from AGNs.
+
+#### Others
+
+##### [Delayed Radio Flares from a Tidal Disruption Event](http://arxiv.org/abs/2102.11290) [(PDF)](http://arxiv.org/pdf/2102.11290.pdf)
+
+- #tidal_disruption_event 
+- We report the detection of delayed radio flares from an optically-discovered TDE.
+- Our prompt radio observations of the TDE ASASSN-15oi showed no radio emission until the detection of a flare six months later, followed by a second and brighter flare, years later.
+- We find that the standard scenario, in which an outflow is launched briefly after the stellar disruption, is unable to explain the combined temporal and spectral properties of the delayed flare.
+- We suggest that the flare is due to the delayed ejection of an outflow, perhaps following a transition in accretion states.
+
+##### [A first Chandra view of the cool core cluster A1668: offset cooling and AGN feedback cycle](http://arxiv.org/abs/2102.11299) [(PDF)](http://arxiv.org/pdf/2102.11299.pdf)
+
+- #cluster/icm
+- EVLA + Chandra观测A1668:
+	- The cooling region extends for 40 kpc
+	- X-ray peak和BCG偏离了 6 kpc; Halpha中心和X-ray中心也有偏离;  因为 coolest gas is not condensing directly from the lowest-entropy gas.
+	- The cool ICM was drawn out from the core by sloshing, whereas the H$\alpha$filaments were pushed aside from the expanding radio galaxy lobes.
+- We detect two putative X-ray cavities, spatially associated to the west radio lobe (cavity A) and to the east radio lobe (cavity B).
+
+##### [Distance and mass of the NGC 253 galaxy group](http://arxiv.org/abs/2102.11354) [(PDF)](http://arxiv.org/pdf/2102.11354.pdf)
+
+- Two dwarf galaxies: WOC2017-07 and PGC 704814 located in the vicinity of the nearby luminous spiral galaxy NGC 253 were observed with the Advanced Camera for Surveys on the Hubble Space Telescope.
+- Their distances of 3.62$\pm$0.18 Mpc and 3.66$\pm$0.18 Mpc were derived using the tip of the red giant branch method.
+- Based on the radial velocities and projected separations of seven assumed dwarf companions, we estimated the total mass of NGC 253 to be $(8.1\pm2.6) 10^{11} M_{\odot}$, giving a total-mass-to-$K$-luminosity ratio $M_{\rm orb}/L_K = (8.5\pm2.7) M_{\odot}/L_{\odot}$.
+- NGC 253有外围下降的旋转曲线
+	- NGC 253 joins four other luminous spiral galaxies in the Local Volume with declined rotation curves (NGC 2683, NGC 2903, NGC 3521 and NGC 5055) that together have the low average total-mass-to-luminosity ratio, $M_{\rm orb}/L_K = (5.5\pm1.1) M_{\odot}/L_{\odot}$.
+
+##### [X-ray Spectra of Circumgalactic Medium Around Star-Forming Galaxies: Connecting Simulations to Observations](http://arxiv.org/abs/2102.11510) [(PDF)](http://arxiv.org/pdf/2102.11510.pdf)
+
+- #galaxy/cgm 
+- 用模拟展示SF周围的X-ray CGM的温度分布很复杂，比观测中常用的单温度或者双温度模型不同; 就算模型能拟合好X-ray光谱，物理意义也不大
+- Instead, we propose a log-normal distribution as a more physical model.
+	- The log-normal model better fits the simulated spectra while reproducing the gas temperature distribution.
+- We also show that when the star formation rate is high, the spectra inside the bi-conical outflows are distinct from that outside, as outflows are generally hotter and more metal-enriched.
+
+##### [Non-uniqueness in quasar absorption models and implications for measurements of the fine structure constant](http://arxiv.org/abs/2102.11648) [(PDF)](http://arxiv.org/pdf/2102.11648.pdf)
+
+- High resolution spectra of quasar absorption systems provide the best constraints on temporal or spatial changes of fundamental constants in the early universe.
+- An important systematic that has never before been quantified concerns model non-uniqueness; the absorption component structure is generally complicated, comprising many blended lines.
+- This characteristic means any given system can be fitted equally well by many slightly different models, each having a different value of \alpha, the fine structure constant.
+- The newly introduced Spectral Information Criterion (SpIC) statistic is more suitable and substantially decreases non-uniqueness compared to AICc-based models.
+
+##### [A Quick Look at the $3\,$GHz Radio Sky I. Source Statistics from the Very Large Array Sky Survey](http://arxiv.org/abs/2102.11753) [(PDF)](http://arxiv.org/pdf/2102.11753.pdf)
+
+- The Very Large Array Sky Survey (VLASS) is observing the entire sky north of $-40^{\circ}$in the S-band ($2<\nu<4 $GHz), with the highest angular resolution ($2''.5$) of any all-sky radio continuum survey to date.
+- We have created a catalog of $1.7\times10^{6}$reliably detected radio components with $S_{\text{peak}}\gtrsim1 $mJy/beam.
+- Comparisons with the Faint Images of the Radio Sky at Twenty cm survey (FIRST) show the typical $1.4-3 $GHz spectral index to be $\alpha\sim-0.76$.
+- The VLASS $dN/dS$is presented and found to be consistent with previous observations at both $1.4$and $3 $GHz.
