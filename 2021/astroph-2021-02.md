@@ -1955,3 +1955,120 @@
 - We have created a catalog of $1.7\times10^{6}$reliably detected radio components with $S_{\text{peak}}\gtrsim1 $mJy/beam.
 - Comparisons with the Faint Images of the Radio Sky at Twenty cm survey (FIRST) show the typical $1.4-3 $GHz spectral index to be $\alpha\sim-0.76$.
 - The VLASS $dN/dS$is presented and found to be consistent with previous observations at both $1.4$and $3 $GHz.
+
+### Feb 24
+
+#### Relevant / Important / Useful
+
+##### [UniverseMachine: Predicting Galaxy Star Formation over Seven Decades of Halo Mass with Zoom-in Simulations](http://arxiv.org/abs/2102.11876) [(PDF)](http://arxiv.org/pdf/2102.11876.pdf)
+
+- #galaxy/halo #galaxy/dwarf #shmr
+- 通过Zoom-in模拟把UM模型的预测延伸到非常低质量的矮星系
+	- This application extends \textsc{UniverseMachine} predictions into the ultra-faint dwarf galaxy regime ($10^{2} \mathrm{M_{\odot}} \leqslant M_{\ast} \leqslant 10^{5} \mathrm{M_{\odot}}$) and yields a well-resolved stellar mass--halo mass (SMHM) relation over the peak halo mass range $10^8 \mathrm{M_{\odot}}$to $10^{15} \mathrm{M_{\odot}}$.
+- Although UniverseMachine is not constrained for dwarf galaxies with $M_* \lesssim 10^{8} \mathrm{M_{\odot}}$, our predicted SMHM relation is consistent with that inferred for MW satellite galaxies at $z=0$using abundance matching.
+- 但UM模型中，大部分<10^7 Msun的矮星系都是SF星系，并且大部分质量在z<4处形成，和观测不符.
+
+##### [The velocity dispersion function of early-type galaxies and its redshift evolution: the newest results from lens redshift test](http://arxiv.org/abs/2102.12140) [(PDF)](http://arxiv.org/pdf/2102.12140.pdf)
+
+- #galaxy/kinematic #galaxy/etg #ssst
+- 用强引力透镜ETG来研究VDF的红移演化:
+	- We conclude that the VDF inferred solely from strong lensing systems is well consistent with the measurements of SDSS DR5 data in the local universe.
+	- 成为透镜的ETG数密度在z=1下降很快 in perfect agreement with the $\Lambda$CDM paradigm and different from "stellar mass-downsizing" evolutions obtained by many galaxy surveys.
+- Finally, we evaluate if future missions such as LSST can be sensitive enough to place the most stringent constraints on the redshift evolution of early-type galaxies, based on the redshift distribution of available gravitational lenses.
+
+##### [GAMA/DEVILS: Constraining the cosmic star-formation history from improved measurements of the 0.3-2.2 micron Extragalactic Background Light](http://arxiv.org/abs/2102.12323) [(PDF)](http://arxiv.org/pdf/2102.12323.pdf)
+
+- #survey/gama #galaxy/ebl
+- GAMA + DEVILS - to measure the COB in the range from 0.35 micron to 2.2 micron.
+	- We derive the luminosity density in each band independently and show good agreement with recent and complementary estimates of the optical-EBL from very high-energy (VHE) experiments.
+- We use our revised IGL measurements to constrain the cosmic star-formation history, and place amplitude constraints on a number of recent estimates.
+	- We conclude that the peak of star-formation rate lies in the range 0.066-0.076 Msol/yr/Mpc^3 at a lookback time of 9.1 to 10.9 Gyrs.
+	
+##### [Measuring energy production in the Universe over all wavelengths and all time](http://arxiv.org/abs/2102.12089) [(PDF)](http://arxiv.org/pdf/2102.12089.pdf)
+
+- #galaxy/ebl #review
+- The study of the extragalactic background light (EBL) is undergoing a renaissance.
+- New results from very high energy experiments and deep space missions have broken the deadlock between the contradictory measurements in the optical and near-IR arising from direct versus discrete source estimates.
+- We are also seeing advances in our ability to model the EBL from gamma-ray to radio wavelengths with improved dust models and AGN handling.
+- With the advent of deep and wide spectroscopic and photometric redshift surveys, we can now subdivide the EBL into redshift intervals.
+- This allows for the recovery of the Cosmic Spectral Energy Distribution (CSED), or emissivity of a representative portion of the Universe, at any time.
+- With new facilities coming online, and more unified studies underway from gamma-ray to radio wavelengths, it will soon be possible to measure the EBL to within 1 per cent accuracy.
+- At this level correct modelling of reionisation, awareness of missing populations or light, radiation from the intra-cluster and halo gas, and any signal from decaying dark-matter all become important.
+- In due course, the goal is to measure and explain the origin of all photons incident on the Earth's surface from the extragalactic domain, and within which is encoded the entire history of energy production in our Universe.
+
+#### Interesting / Keep in Mind
+
+##### [Andromeda XXI -- a dwarf galaxy in a low density dark matter halo](http://arxiv.org/abs/2102.11890) [(PDF)](http://arxiv.org/pdf/2102.11890.pdf)
+
+- #galaxy/dwarf
+- And XXI的中心DM密度可能很低: 本文用77颗恒星进行建模; 速度和速度弥散度与MOND的预测相符合
+- We also measure the metallicity of our member stars from their spectra, finding a mean value of ${\rm [Fe/H]}=-1.7\pm0.1$~dex.
+- We model the dark matter density profile of And~XXI using an improved version of \GravSphere:
+	- A factor ${\sim}3-5$ lower than the densities expected from abundance matching in $\Lambda$CDM.
+	- 而且不能用DM heating来解释，因为And XXI的SF过低
+	- 但可以用低concentration halo经历的严重tidal stripping来解释
+- [gravsphere](https://github.com/justinread/gravsphere)
+
+##### [A Multi-Band Forced-Photometry Catalog in the ELAIS-S1 Field](http://arxiv.org/abs/2102.11892) [(PDF)](http://arxiv.org/pdf/2102.11892.pdf)
+
+- #csst-deep 
+- The ELAIS-S1 field will be an LSST Deep Drilling field, and it also has extensive multiwavelength coverage.
+- To improve the utility of the existing data, we use The Tractor to perform forced-photometry measurements in this field.
+- We compile data in 16 bands from the DeepDrill, VIDEO, DES, ESIS, and VOICE surveys.
+- Using a priori information from the high-resolution fiducial images in VIDEO, we model the images in other bands and generate a forced-photometry catalog.
+- Our catalog contains over 0.8 million sources covering a 3.4 deg2 area in the VIDEO footprint and is available at 10.5281/zenodo.4540178.
+
+##### [Unveiling the atomic hydrogen-halo mass relation via spectral stacking](http://arxiv.org/abs/2102.12203) [(PDF)](http://arxiv.org/pdf/2102.12203.pdf)
+
+- #galaxy/ism #shmr #sam #ssst
+- 基于SHARK SAM预测，看不同方法重现HIHM的能力
+	- However, none of the adopted techniques recover the underlying HIHM relation predicted by the simulation.
+	- We find that systematic effects in halo mass estimates of galaxy groups modify the inferred shape of the HIHM relation from the intrinsic one in the simulation, while contamination by interloping galaxies, not associated with the groups, contribute to the inferred HI mass of a halo mass bin, when using large velocity windows for stacking.
+- Stacking methods based on summing the HI emission spectra to infer the mean HI mass of galaxies of different properties belonging to a group suffer minimal contamination but are strongly limited by the use of optical counterparts, which miss the contribution of dwarf galaxies.
+- WAVES巡天可以改变这一点
+
+#### Others
+
+##### [Nonthermal processes in hot accretion flows onto supermassive black holes: An inhomogeneous model](http://arxiv.org/abs/2102.11921) [(PDF)](http://arxiv.org/pdf/2102.11921.pdf)
+
+- 低光度活动星系和的结构往往是一个光学厚的冷盘加上一个低密度，高温的冕；冕中有物理机制可以加速带电粒子
+	- We aim to investigate, in detail, nonthermal processes in hot accretion flows onto supermassive black holes, covering a wide range of accretion rates and luminosities.
+- We covered a variety of scenarios, from low accretion rates up to 10% of the Eddington limit, and identified the relevant cooling mechanisms in each case.
+	- The presence of hadrons in the hot flow is decisive for the spectral shape, giving rise to secondary particles and gamma-ray cascades.
+
+##### [AGN and star formation across cosmic time](http://arxiv.org/abs/2102.11936) [(PDF)](http://arxiv.org/pdf/2102.11936.pdf)
+
+- 比较星系的IR光度函数和AGN的：We find that at all redshifts (at least up to z~2.5), the high luminosity tails of the two LFs converge, indicating that the most infrared-luminous galaxies are AGN-powered.
+	- We attribute this difference to the increasing fraction of AGN-dominated galaxies with increasing total infrared luminosity (L_IR).
+	- 在不同的红移上，光度最高的星系里都是以AGN为主: This sets a potential 'limit' to attainable star formation rates, casting doubt on the abundance of 'extreme starbursts': if AGN did not exist, L_IR>10^13 Lsun galaxies would be significantly rarer than they currently are in our observable Universe.
+- We propose that the reason why local ULIRGs are hotter than their high redshift counterparts is because of a higher fraction of AGN-dominated galaxies amongst the former group.
+
+##### [Universal properties of the high- and low-{\alpha} disk: small intrinsic abundance scatter and migrating stars](http://arxiv.org/abs/2102.12003) [(PDF)](http://arxiv.org/pdf/2102.12003.pdf)
+
+- In this study, we examine and compare the age distribution of stars across both the high and low-${\alpha}$disk and quantify the intrinsic dispersion of 16 elements around their age-abundance relations at [Fe/H] = 0 using APOGEE DR16.
+- We find the high-${\alpha}$disk has shallower age-abundance relations compared to the low-${\alpha}$disk, but similar median intrinsic dispersions of ~ 0.04 dex, suggesting universal element production mechanisms for the high and low-${\alpha}$disks, despite differences in formation history.
+- We visualize the temporal and spatial distribution of disk stars in small chemical cells, revealing signatures of upside-down and inside-out formation.
+- Further, the metallicity skew and the [Fe/H]-age relations - across radius indicates different initial metallicity gradients and evidence for radial migration.
+
+##### [Improved Lyman Alpha Tomography using Optimized Reconstruction with Constraints onAbsorption (ORCA)](http://arxiv.org/abs/2102.12306) [(PDF)](http://arxiv.org/pdf/2102.12306.pdf)
+
+- The Optimized Reconstruction with Constraints on Absorption (ORCA), which outperforms the current baseline Wiener Filter (WF) when tested on mock Lyman Alpha forest data generated from hydrodynamical simulations.
+- We use this method to identify and classify extremal objects, i.e voids and (proto)-clusters, and find improved reconstruction across all summary statistics explored.
+- We apply ORCA to existing Lyman Alpha forest data from the COSMOS Lyman Alpha Mapping and Tomography Observations (CLAMATO) Survey and compare to the WF reconstruction.
+- [`dachshund` - Tomographic reconstruction of Lyman-alpha forest flux using a Wiener filter](https://github.com/caseywstark/dachshund)
+
+##### [FirstLight IV: Diversity in sub-L$_*$ galaxies at cosmic dawn](http://arxiv.org/abs/2102.12343) [(PDF)](http://arxiv.org/pdf/2102.12343.pdf)
+
+- #galaxy/high-z
+- FirstLight模拟:  we show the diversity of galaxies at the end of the reionization epoch.
+	- We find a factor $\sim$40 variation in the specific star-formation rate (sSFR).
+	- This drives a $\sim$ 1 dex range in equivalent width of the [OIII]$\lambda$5007 line.
+	- Variations in nebular metallicity and ionization parameter within HII regions lead to a scatter in the equivalent widths and [OIII]/H$\alpha$line ratio at a fixed sSFR.
+
+##### [Cosmic variance of $H_0$ in light of forthcoming high-redshift surveys](http://arxiv.org/abs/2102.12419) [(PDF)](http://arxiv.org/pdf/2102.12419.pdf)
+
+- #hubble_tension 
+- According to this perspective, we present a fully relativistic framework to evaluate the impact of stochastic inhomogeneities on the determination of the Hubble constant.
+- To this aim, we work within linear perturbation theory and relate the fluctuations of the luminosity distance-redshift relation, in the Cosmic Concordance model, to the intrinsic uncertainty associated to the measurement of $H_0$from high-redshift surveys ($0.15\le z\le3.85$).
+- Following the specific of Euclid Deep Survey and LSST, we conclude that the cosmic variance associated with the measurement of the Hubble constant is at most of 0.1 %.
+- We then conclude that deep surveys will provide an estimation of the $H_0$which will be more precise than the one obtained from local sources, at least in regard of the intrinsic uncertainty related to a stochastic distribution of inhomogeneities.
